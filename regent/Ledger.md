@@ -21,3 +21,4 @@ Monday digest with per site visits, top 3 sources, top 3 landing pages, signups 
 Subject:
 - 2026-10-25: #16 privacy.html og:title and canonical via merge > DONE: privacy.html updated live (inserted 3 new head tags), new score 91. repo committed and pushed.
 - 2026-10-25: #17 terms.html og:title and canonical via merge > DONE: terms.html updated live (inserted 3 new head tags), new score 91. repo committed and pushed.
+- 2026-10-25: #18 Weekly funnel digest as server job > DONE: job registered: "Weekly funnel digest as server job", every Monday at 09:00 ET, posts to boardroom. The server runs it from now on, no Make needed.

@@ -24,3 +24,4 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-25: [APPROVED] #15 Outreach pitch, Korvus for index futures traders (note: Owner approved 15) (via discord)
 - 2026-10-25: [APPROVED] #16 privacy.html og:title and canonical via merge (via reaction)
 - 2026-10-25: [APPROVED] #17 terms.html og:title and canonical via merge (via reaction)
+- 2026-10-25: [APPROVED] #18 Weekly funnel digest as server job (via reaction)
