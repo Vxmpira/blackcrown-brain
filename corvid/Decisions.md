@@ -15,3 +15,4 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-25: [APPROVED] #9 collective.html full meta description tag (note: owner approved 9) (via discord)
 - 2026-10-25: [APPROVED] #8 Korvus TikTok creative for beginner futures traders (note: Owner approved both waiting asks) (via discord)
 - 2026-10-25: [APPROVED] #8 proof.html title and meta rewrite (note: Owner approved both waiting asks) (via discord)
+- 2026-10-25: [APPROVED] #8 Korvus TikTok creative for beginner futures traders (note: owner ordered retry after failed execution, dedupe title tag before write) (via discord)
