@@ -1,7 +1,8 @@
 # Tasks
 
 - [ ] Apply og:image tag site-wide once built (open)
-- [ ] Pull proof.html exact current tags (doing)
-- [x] Add six missing pages to sitemap.xml (done)
-- [x] Watch uptime latency, 915ms this read (done)
-- [ ] Expand collective.html past 150 words (open)
+- [x] Pull proof.html exact current tags (done)
+- [ ] File proof.html title meta rewrite (doing)
+- [ ] Expand collective.html past 150 words (doing)
+- [ ] Regent: Build approved og:image asset (open)
+- [ ] Regent: Draft product domain title metas (open)
