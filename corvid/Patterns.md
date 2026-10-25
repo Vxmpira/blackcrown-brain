@@ -8,6 +8,6 @@ What the data keeps saying. Updated every cycle. Confidence grows with evidence.
 - Title and meta trims shipped on core pages. Audit no longer flags core titles. [[Confidence: 4/5]]
 - [[proof.html]] is the worst page at 61: short title, short meta, no canonical, no og tags, not in sitemap. Need exact current tag text before filing a rewrite. [[Confidence: 5/5]]
 - og:image asset approved but not yet built. Six pages still share bare: no og:title, no og:image. One batch fix once the asset exists. [[Confidence: 5/5]]
-- Six pages missing from sitemap.xml. Filed #6 to add all six in one pass. [[Confidence: 5/5]]
-- All three domains live and fast (53 to 115 ms). No uptime risk. [[Confidence: 5/5]]
+- Sitemap fix #6 approved twice but audit still shows six pages missing. Execution not confirmed yet, verify next audit. [[Confidence: 4/5]]
+- All three domains live and fast (60 to 121 ms). No uptime risk. [[Confidence: 5/5]]
 - Zero Stripe revenue, zero subs. Traffic is the bottleneck, not conversion. [[Confidence: 4/5]]
