@@ -1,14 +1,23 @@
 # Site-Audit
 
-Live scores, worst first, 2026-10-25. Standing order: every page to 100.
+Current audit standing, worst first. Target: every page at 100. Updated 2026-10-25.
 
-- [[proof.html]] 74. Filed #8 title meta rewrite. Still needs og:image (waits on asset) and sitemap recheck after #6.
-- korvus.industries 82. Title 74 chars, meta 186 chars. Blocked on exact repo file path before filing.
-- blackcrown-intelligence.com 82. Meta 213 chars, no og:image. Same repo path blocker.
-- disclaimer.html 83. Short title, no og:title, no og:image. Batch with og:image rollout.
-- support.html 83. Same gap set as disclaimer. Batch together.
-- [[collective.html]] 87. Filed #9 meta. Body expansion pending exact CURRENT block packaging by scribe.
+## blackcrownvxj.com (DOWN at last check, 10s timeout)
+- [[proof.html]] 74: short title, short meta (filed #10), no og:image (waits on asset), missing from sitemap (filed #11)
+- disclaimer.html 83: short title, no og:title, no og:image
+- support.html 83: short title, no og:title, no og:image
+- privacy.html 87: no og:title, no og:image
+- [[collective.html]] 91 after #9: body expansion package ready in Minions
+- sitemap.xml: six entries added via #6, proof.html still missing
 
-Done: sitemap.xml six entries live (#6). proof.html canonical plus og tags live (#7), 61 to 74.
+## korvus.industries (up, 170ms)
+- 82: title 74 chars, meta 186 chars. Blocked on exact repo path, see [[Patterns]]
 
-Method: head tags always CURRENT none, full tags in NEW. See [[Patterns]], [[Decisions]].
+## blackcrown-intelligence.com (up, 185ms)
+- 82: meta 213 chars, no og:image. Same repo path blocker
+
+## Cross cutting
+- og:image asset approved, not built. Once built, batch apply to every page, closes the biggest shared gap.
+- Proven edit method: CURRENT none, full tags in NEW, Regent merges.
+
+Links: [[Patterns]], [[Strategy]], [[Funnel]].
