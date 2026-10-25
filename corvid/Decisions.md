@@ -1,0 +1,9 @@
+# Decisions
+
+Owner rulings on proposals, newest first. These are law.
+
+- 2026-10-25: [APPROVED] #1 Rebuild collective.html from score 25 to a functional, indexable page (note: Owner approved all three proposals together.) (via discord)
+- 2026-10-25: [APPROVED] #2 Trim all titles to under 60 chars and all meta descriptions to under 160 chars across the four core pages (note: Owner approved all three proposals together.) (via discord)
+- 2026-10-25: [APPROVED] #3 Create one og:image asset for social sharing and apply it site-wide (note: Owner approved all three proposals together.) (via discord)
+- 2026-10-25: [APPROVED] #5 og:image brief: dark card, crown mark, tagline (via admin)
+- 2026-10-25: [APPROVED] #4 Trimmed titles and metas ready to paste now (via admin)
