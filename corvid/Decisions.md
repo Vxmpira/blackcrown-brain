@@ -16,3 +16,5 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-25: [APPROVED] #8 Korvus TikTok creative for beginner futures traders (note: Owner approved both waiting asks) (via discord)
 - 2026-10-25: [APPROVED] #8 proof.html title and meta rewrite (note: Owner approved both waiting asks) (via discord)
 - 2026-10-25: [APPROVED] #8 Korvus TikTok creative for beginner futures traders (note: owner ordered retry after failed execution, dedupe title tag before write) (via discord)
+- 2026-10-25: [APPROVED] #10 proof.html title and meta rewrite, merge method (note: proof.html title and meta rewrite, merge method) (via discord)
+- 2026-10-25: [APPROVED] #11 Add proof.html to sitemap.xml (note: add proof.html to sitemap.xml) (via discord)

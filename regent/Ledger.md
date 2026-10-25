@@ -11,3 +11,5 @@ Every execution, newest first.
 - 2026-10-25: #8 Korvus TikTok creative for beginner futures traders > DONE: rendering via Bloom, package lands in the channel
 - 2026-10-25: #8 proof.html title and meta rewrite > FAILED: safety guard blocked the write: the result duplicated the title tag
 - 2026-10-25: #8 Korvus TikTok creative for beginner futures traders > DONE: rendering via Bloom, package lands in the channel
+- 2026-10-25: #10 proof.html title and meta rewrite, merge method > DONE: proof.html updated live (updated 2 existing), new score 82. repo committed and pushed.
+- 2026-10-25: #11 Add proof.html to sitemap.xml > DONE: sitemap.xml updated live (appended 1 new entry). repo committed and pushed.
