@@ -1,22 +1,16 @@
-# Offers.md
+# Offers, one believable line per product
 
-One-line promises, each written from what the buyer actually needs. Updated first cycle.
+## Korvus (korvus.industries)
+The whole futures market on one screen with a directional read, free to start, 9.99 when it earns your trust.
 
-## Korvus Observer (free)
-Need: a trader wants to see if the terminal is real before trusting it.
-Promise: A live market intelligence terminal for index futures, running 24/7, free to watch before you commit a cent.
+## LodeStone (TradingView indicator)
+The Korvus read on your chart, included with Operator, nothing extra to buy.
 
-## Korvus Operator (9.99/mo or 79.99/yr)
-Need: a futures trader needs context on every session without building it themselves.
-Promise: The full Korvus terminal plus the LodeStone TradingView indicator, your prep and your levels handled around the clock for less than one tick of ES.
+## Crown (blackcrown-intelligence.com)
+A private AI workspace you can actually trust with your work, free chat, no card, Pro at 19.99.
 
-## Crown Pro (19.99/mo)
-Need: an operator wants AI workspace power without their work leaking into someone else's training data.
-Promise: A private AI workspace where your research, prompts, and files stay yours, built for people who work with real information.
+## Eclipse-X (Discord)
+A free room of operators building alone in trading, AI, and ecommerce, the front door to everything else.
 
-## Eclipse-X (free Discord)
-Need: a trader wants a room with signal, not noise.
-Promise: A free community where index futures traders compare reads, no pump talk, no cost of entry.
-
-## Funnel logic
-TikTok and Eclipse-X feed Observer. Observer proves the product. Operator is the first paid step. Crown Pro is the second offer once trust exists. Every promise above must survive a skeptical trader reading it twice.
+## Rule
+Every line states what the buyer gets and why the price is fair. If a line needs hype to work, the offer is wrong, not the copy.

@@ -11,17 +11,23 @@ Updated 2026-10-25 by Steward. Rule: every project has one owner and one next st
 ## P2 Eclipse-X Growth
 - Goal: active community feeding the Korvus funnel
 - Owner: Steward
-- Next: crier drafts 3 value-first posts, best ones filed to Community.md until channel is wired
+- Next: channel is wired, first post live today, crier drafting 3 more, winners go to Community.md
 - Status: moving
 
 ## P3 SEO Cleanup
 - Goal: all worst pages above 85
 - Owner: corvid
-- Next: finish proof.html (74), then korvus.industries and blackcrown-intelligence.com (82)
+- Next: proof.html done (82), push korvus.industries and blackcrown-intelligence.com homepages past 85
 - Status: moving, corvid has 5 open tasks
 
 ## P4 Funnel Instrumentation
 - Goal: know where visits come from and where they drop before signup
 - Owner: Steward
-- Next: automation proposal filed, weekly Monday digest covering all three sites, awaiting green light
-- Status: moving, blocked on owner approval
+- Next: digest built via #12, owner must paste the scenario into Make, confirm it fires Monday
+- Status: moving, one manual step left
+
+## P5 Distribution
+- Goal: get eyes on the sites, 8 visits in 7 days is dead air, target 100 visits a week
+- Owner: herald
+- Next: publish Korvus TikTok creative from #8 the moment Bloom delivers, then one short-form post per weekday
+- Status: moving, new this cycle
