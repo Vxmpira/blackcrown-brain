@@ -11,3 +11,4 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-25: [APPROVED] #6 Add six missing pages to sitemap.xml (note: Owner ordered retry after failed execution) (via discord)
 - 2026-10-25: [APPROVED] #6 Add six missing pages to sitemap.xml (note: Retry sitemap.xml update after two failed executions) (via discord)
 - 2026-10-25: [APPROVED] #7 Add canonical and og tags to proof.html (note: Owner approved by number) (via discord)
+- 2026-10-25: [APPROVED] #7 Add canonical and og tags to proof.html (note: Owner ordered retry after failed execution) (via discord)
