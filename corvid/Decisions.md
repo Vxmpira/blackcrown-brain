@@ -13,3 +13,5 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-25: [APPROVED] #7 Add canonical and og tags to proof.html (note: Owner approved by number) (via discord)
 - 2026-10-25: [APPROVED] #7 Add canonical and og tags to proof.html (note: Owner ordered retry after failed execution) (via discord)
 - 2026-10-25: [APPROVED] #9 collective.html full meta description tag (note: owner approved 9) (via discord)
+- 2026-10-25: [APPROVED] #8 Korvus TikTok creative for beginner futures traders (note: Owner approved both waiting asks) (via discord)
+- 2026-10-25: [APPROVED] #8 proof.html title and meta rewrite (note: Owner approved both waiting asks) (via discord)
