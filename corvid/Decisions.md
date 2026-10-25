@@ -18,3 +18,6 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-25: [APPROVED] #8 Korvus TikTok creative for beginner futures traders (note: owner ordered retry after failed execution, dedupe title tag before write) (via discord)
 - 2026-10-25: [APPROVED] #10 proof.html title and meta rewrite, merge method (note: proof.html title and meta rewrite, merge method) (via discord)
 - 2026-10-25: [APPROVED] #11 Add proof.html to sitemap.xml (note: add proof.html to sitemap.xml) (via discord)
+- 2026-10-25: [APPROVED] #12 Weekly funnel digest, traffic to signup, Discord report (note: Owner approved weekly funnel digest report) (via discord)
+- 2026-10-25: [APPROVED] #13 disclaimer.html title and og tags via merge (note: disclaimer.html title and og tags via merge) (via discord)
+- 2026-10-25: [APPROVED] #14 support.html title and og tags via merge (note: support.html title and og tags via merge) (via discord)

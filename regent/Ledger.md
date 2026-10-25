@@ -13,3 +13,7 @@ Every execution, newest first.
 - 2026-10-25: #8 Korvus TikTok creative for beginner futures traders > DONE: rendering via Bloom, package lands in the channel
 - 2026-10-25: #10 proof.html title and meta rewrite, merge method > DONE: proof.html updated live (updated 2 existing), new score 82. repo committed and pushed.
 - 2026-10-25: #11 Add proof.html to sitemap.xml > DONE: sitemap.xml updated live (appended 1 new entry). repo committed and pushed.
+- 2026-10-25: #12 Weekly funnel digest, traffic to signup, Discord report > DONE: manual step, paste this into Make yourself:
+Monday digest with per site visits, top 3 sources, top 3 landing pages, signups per product tier, and week over week
+- 2026-10-25: #13 disclaimer.html title and og tags via merge > DONE: disclaimer.html updated live (inserted 2 new head tags, updated 1 existing), new score 91. repo committed and pushed.
+- 2026-10-25: #14 support.html title and og tags via merge > DONE: support.html updated live (inserted 2 new head tags, updated 1 existing), new score 91. repo committed and pushed.

@@ -23,5 +23,5 @@ Updated 2026-10-25 by Steward. Rule: every project has one owner and one next st
 ## P4 Funnel Instrumentation
 - Goal: know where visits come from and where they drop before signup
 - Owner: Steward
-- Next: scope a weekly traffic-to-signup digest, file automation proposal next cycle
-- Status: open, new this cycle
+- Next: automation proposal filed, weekly Monday digest covering all three sites, awaiting green light
+- Status: moving, blocked on owner approval
