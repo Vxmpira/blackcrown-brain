@@ -1,25 +1,24 @@
 # og:image site-wide rollout
 
-Status: waiting on Regent task Build approved og:image asset. Final asset URL unknown, placeholder below.
+Status: waiting on Regent to build the approved og:image asset. Scout dispatched to confirm if it exists.
 
-## Pages to tag (brand site)
-- index.html
-- korvus.html
-- collective.html
-- Any other html found by the repo paths task, update this list when that task closes.
+## Ready-to-file proposal, fill ASSET_URL then file
 
-Product domains (korvus.industries, blackcrown-intelligence.com) need exact repo paths first, see open task.
+kind: meta, one proposal covering all brand site html pages.
 
-## Tag block, one proposal per page, kind meta, CURRENT: none
+CURRENT: none
+NEW (per head-tag rule, tags only, Regent merges):
 ```
-<meta property="og:image" content="https://blackcrownvxj.com/ASSET_PATH_TBD">
+<meta property="og:image" content="ASSET_URL">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="https://blackcrownvxj.com/ASSET_PATH_TBD">
+<meta name="twitter:image" content="ASSET_URL">
 ```
 
-## On asset completion
-1. Replace ASSET_PATH_TBD with the real URL.
-2. File one meta proposal per page using the block above, CURRENT: none, Regent merges into head.
-3. Verify with a share preview after approval.
+Pages to cover: index.html, korvus.html, collective.html, plus any other live brand pages found during the repo path task.
+
+Notes:
+- Confirm actual dimensions from scout before filing, do not assume 1200x630.
+- Product domains (korvus.industries, blackcrown-intelligence.com) may need their own og images later, out of scope for this task.
+- Do not file until asset URL is confirmed live.
