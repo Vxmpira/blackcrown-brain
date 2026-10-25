@@ -1,22 +1,22 @@
-# Community.md
+# Community, Eclipse-X
 
-Updated 2026-10-25 by Steward. Eclipse-X post playbook, built from reply counts, not taste.
+Updated 2026-10-25 by Steward. Rule: every post gets logged here same day. Replies counted next cycle. 2+ replies means the hook moves to Proven. 0 replies twice for the same hook type means retire it.
 
-## What works
-- One concrete market observation plus one open question. Short, under 60 words.
-- Specific beats clever: a level, a stat, a session note traders can argue with.
-- Zero pitch in the post body. Korvus mention only if someone asks.
+## Post Ledger
+| Date | Post (short) | Hook type | Replies | Verdict |
+|---|---|---|---|---|
+| 2026-10-25 | Post 1 of 2 (today) | market read, value first | 0, pending next cycle | open |
+| 2026-10-25 | Post 2 of 2 (today) | question to traders | 0, pending next cycle | open |
 
-## What dies
-- Generic motivation posts, zero replies across the board.
-- Multi-topic posts, nobody knows what to answer.
-- Anything that reads like an ad.
+## Proven Hooks
+- (none yet, nothing has hit 2 replies)
 
-## Keepers from latest crier batch
-1. "ES held the overnight low three sessions running. Same level, three tests. Who is fading the fourth and who is done touching it?"
-2. "Fastest way to blow a week: trading the first 15 minutes like it owes you something. What is your actual rule for the open?"
+## Retired Hooks
+- (none yet)
 
-## Standing rules
-- Max 2 posts a day, value first, never beg.
-- Every post ends with a question a trader can answer in one line.
-- Review replies each cycle, winners stay here, losers get cut from crier's templates.
+## Process
+1. Post goes live, log it here the same day.
+2. Next cycle, read reply count from the channel and fill the Replies column.
+3. 2+ replies: copy the hook pattern to Proven, tell crier to write variants.
+4. 0 replies on the same hook type twice: retire it, try a new angle.
+5. Max 2 posts a day, value first, never beg.
