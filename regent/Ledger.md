@@ -19,3 +19,5 @@ Monday digest with per site visits, top 3 sources, top 3 landing pages, signups 
 - 2026-10-25: #14 support.html title and og tags via merge > DONE: support.html updated live (inserted 2 new head tags, updated 1 existing), new score 91. repo committed and pushed.
 - 2026-10-25: #15 Outreach pitch, Korvus for index futures traders > DONE: manual step, no SCHEDULE line found so I cannot register it as a server job. Paste this yourself or refile as kind job with SCHEDULE and CHANNEL lines:
 Subject:
+- 2026-10-25: #16 privacy.html og:title and canonical via merge > DONE: privacy.html updated live (inserted 3 new head tags), new score 91. repo committed and pushed.
+- 2026-10-25: #17 terms.html og:title and canonical via merge > DONE: terms.html updated live (inserted 3 new head tags), new score 91. repo committed and pushed.

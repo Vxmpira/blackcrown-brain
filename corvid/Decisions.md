@@ -22,3 +22,5 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-25: [APPROVED] #13 disclaimer.html title and og tags via merge (note: disclaimer.html title and og tags via merge) (via discord)
 - 2026-10-25: [APPROVED] #14 support.html title and og tags via merge (note: support.html title and og tags via merge) (via discord)
 - 2026-10-25: [APPROVED] #15 Outreach pitch, Korvus for index futures traders (note: Owner approved 15) (via discord)
+- 2026-10-25: [APPROVED] #16 privacy.html og:title and canonical via merge (via reaction)
+- 2026-10-25: [APPROVED] #17 terms.html og:title and canonical via merge (via reaction)
