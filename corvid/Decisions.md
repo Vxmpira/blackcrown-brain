@@ -31,3 +31,5 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-25: [APPROVED] #20 Crown meta description trimmed under 160 (note: Owner ordered retry after failed execution) (via discord)
 - 2026-10-25: [APPROVED] #21 Korvus homepage title and meta via merge (via reaction)
 - 2026-10-25: [APPROVED] #22 News terminal page meta, canonical, og:title (via reaction)
+- 2026-10-25: [APPROVED] #23 Korvus TikTok video, tab overload hook (via reaction)
+- 2026-10-25: [REJECTED] #24 Instrument Korvus free signup tracking (note: Regent veto: korvus has no index.html, refile correct path, #19 failed twice) (via regent)

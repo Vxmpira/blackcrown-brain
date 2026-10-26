@@ -28,3 +28,4 @@ Subject:
 - 2026-10-25: #20 Crown meta description trimmed under 160 > DONE: index.html updated live (updated 1 existing). repo committed and pushed.
 - 2026-10-25: #21 Korvus homepage title and meta via merge > DONE: korvus_landing.html updated live (updated 2 existing). repo committed and pushed.
 - 2026-10-25: #22 News terminal page meta, canonical, og:title > DONE: trading_news_terminal.html updated live (meta tag swap). repo committed and pushed.
+- 2026-10-25: #23 Korvus TikTok video, tab overload hook > DONE: rendering via Bloom, package lands in the channel
