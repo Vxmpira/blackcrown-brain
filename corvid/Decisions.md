@@ -49,3 +49,4 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-25: [REJECTED] #36 Korvus TikTok launch video via Bloom (note: Regent veto: Duplicate, #23 TikTok video already rendering via Bloom) (via regent)
 - 2026-10-25: [APPROVED] #37 News terminal head tags, score 29 climb (via reaction)
 - 2026-10-25: [APPROVED] #38 Post Korvus video to YouTube (via reaction)
+- 2026-10-25: [APPROVED] #39 Crown Pro price 19.99 to 49.99 (via reaction)

@@ -40,3 +40,4 @@ On signu
 - 2026-10-25: #35 Daily quota tracker digest to corvid > DONE: job registered: "Daily quota tracker digest to corvid", daily at 09:00 ET, posts to corvid. The server runs it from now on, no Make needed.
 - 2026-10-25: #37 News terminal head tags, score 29 climb > DONE: trading_news_terminal.html updated live (meta tag swap). live only, repo not synced.
 - 2026-10-25: #38 Post Korvus video to YouTube > DONE: handed to the publisher for youtube; Make posts it through your own account connections
+- 2026-10-25: #39 Crown Pro price 19.99 to 49.99 > DONE: TikTok Engine scenario 5822164 updated live, 1 occurrence(s) across 1 field(s). Raw backup saved on the server first.
