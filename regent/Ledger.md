@@ -37,3 +37,4 @@ Subject:
 - 2026-10-25: #29 Add signup event tracking to Korvus > DONE: manual step, no SCHEDULE line found so I cannot register it as a server job. Paste this yourself or refile as kind job with SCHEDULE and CHANNEL lines:
 On signu
 - 2026-10-25: #30 Noindex the Korvus nav component, merge path > DONE: blackcrown-bar.html updated live (exact match). repo committed and pushed. (self repaired)
+- 2026-10-25: #35 Daily quota tracker digest to corvid > DONE: job registered: "Daily quota tracker digest to corvid", daily at 09:00 ET, posts to corvid. The server runs it from now on, no Make needed.

@@ -44,3 +44,5 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-25: [CHANGES] #31 Korvus hero headline A/B test (note: retry with correct file and exact anchor) (via discord)
 - 2026-10-25: [REJECTED] #32 Daily quota and funnel tracking report (note: Regent veto: Duplicate: daily 08:30 ET digest to corvid already registered) (via regent)
 - 2026-10-25: [REJECTED] #33 News terminal head merge, description, canonical, og (note: Regent veto: Duplicate of filed #32, same page, same head merge) (via regent)
+- 2026-10-25: [REJECTED] #34 Add head tags to Korvus news terminal (note: Regent veto: Duplicate of #32 news terminal head merge already filed) (via regent)
+- 2026-10-25: [APPROVED] #35 Daily quota tracker digest to corvid (via reaction)
