@@ -1,16 +1,26 @@
-# Herald Campaigns
+# Campaigns, live calendar
 
-## Creative #36, Korvus, TikTok posting plan (prepped 2026-10-25)
-**Hypothesis:** beginner index futures traders drowning in tabs will click through to a free terminal that puts the whole picture on one screen.
-**Product and CTA:** Korvus free Observer tier. CTA text, exact: "Create your free Korvus account at korvus.industries".
-**Posting window:** weekday 09:00 to 09:30 ET, pre market attention when futures traders are at their screens. Fallback slot 19:00 to 20:00 ET if the morning render misses. Prospector researching whether evening beats morning for this audience, plan updates on his report.
-**Caption (working draft, Pitch delivering variants):** "Trading index futures off six tabs and a feeling. Korvus puts price, news, and a directional read on one screen. Create your free Korvus account at korvus.industries" Voice rules apply: no emoji, no em dashes, no hype.
-**Hashtags (working set, pending Prospector):** #futurestrading #daytrading #trading #ES #NQ
-**Metric:** korvus.industries visits in the 24h after post vs baseline of 1 visit per day. Secondary: free Observer signups, attribution still not instrumented, proposal pending with Regent.
-**Verdict:** files to Playbook.md within 3 days of post. Lift above baseline means repeat the format, flat means new hook same product.
-**Status:** awaiting render. Post proposal (PLATFORM: tiktok, MEDIA: render url, NEW: final caption) files the cycle the render URL lands.
+## Quota: 50 Korvus Observer signups in 30 days
+Stage moved: signups (KPI 3), feeding Operator conversions (KPI 2).
+Math: need ~12 to 13 signups per week. Assume 2 to 4 percent click to signup on korvus.industries free tier, so target ~400 to 600 qualified visits per week. At TikTok organic reach, that means 4 to 5 posts per week minimum plus direct outreach.
 
-## Calendar
-- Creative #1: pending with Regent, 0 renders.
-- Creative #36: Korvus, posting plan above, awaiting render.
-- 50 quota slot rotation: Pitch drafting, Korvus weighted heavy, lands here on my review.
+## Lane 1: TikTok creative volume (primary)
+- Cadence: 4 posts per week, slots Mon/Wed/Fri/Sun.
+- Need served: index futures traders need overnight context before the open, Korvus Observer gives it free. Every creative leads with that need, never the product name first.
+- Creative #36: first slot after render approval. Post proposal files on render (task already open). Caption CTA: korvus.industries, free tier, no card.
+- Measure: visits to korvus.industries per post, signups within 48h of post. Not instrumented per post yet, filing UTM job if misses persist.
+
+## Lane 2: LodeStone direct outreach (Steward running)
+- Phase 1: 20 trader contacts, lead with the indicator, Operator annual as the close.
+- Target: 20 contacts -> 5 replies -> 1 to 2 Operator trials. This lane chases KPI 1, first paying customer.
+
+## Lane 3: Funnel fix, hero headline test
+- Hypothesis: current hero sells features, traders buy outcomes. Test lands when Copy draft arrives (task open).
+- Measure: visit to signup rate before vs after, 7 day windows.
+
+## Experiment live
+Hypothesis: overnight futures context is the hook that converts cold TikTok viewers to free signups. Creative #36 is the test. Verdict to Playbook.md within 5 days of posting.
+
+## Kill rules
+- Any post format under 100 views twice in a row: retire the format.
+- Signup pace under 8 per week by day 14: shift budget of effort to Lane 2 outreach.
