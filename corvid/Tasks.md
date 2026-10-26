@@ -1,5 +1,5 @@
 # Tasks
 
 - [ ] File news terminal body swap (doing)
-- [ ] Classify three Korvus app pages (doing)
+- [x] Classify three Korvus app pages (done)
 - [ ] Verify news terminal rescore next audit (open)
