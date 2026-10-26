@@ -22,3 +22,5 @@ Subject:
 - 2026-10-25: #16 privacy.html og:title and canonical via merge > DONE: privacy.html updated live (inserted 3 new head tags), new score 91. repo committed and pushed.
 - 2026-10-25: #17 terms.html og:title and canonical via merge > DONE: terms.html updated live (inserted 3 new head tags), new score 91. repo committed and pushed.
 - 2026-10-25: #18 Weekly funnel digest as server job > DONE: job registered: "Weekly funnel digest as server job", every Monday at 09:00 ET, posts to boardroom. The server runs it from now on, no Make needed.
+- 2026-10-25: #19 Korvus title and meta trimmed to limits > FAILED: repo "korvus" is not set up on this server yet
+- 2026-10-25: #20 Crown meta description trimmed under 160 > FAILED: repo "crown" is not set up on this server yet

@@ -2,7 +2,7 @@
 
 Auto refreshed from Make, read only. Secrets scrubbed.
 
-TikTok Engine live config (scenario 5822164, read 2026-10-25)
+TikTok Engine live config (scenario 5822164, read 2026-10-26)
 
 product: {{switch(2.roll; 0; "KORVUS"; 1; "CROWN"; 2; "ECLIPSE-X"; 3; "BLACKCROWN")}}
 
