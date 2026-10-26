@@ -1,5 +1,5 @@
 # Tasks
 
 - [x] Review scout purpose report fully (done)
-- [ ] News terminal h1 and body copy (doing)
+- [x] News terminal h1 and body copy (done)
 - [ ] File news terminal body swap (open)

@@ -1,21 +1,15 @@
-# Community, Eclipse-X Log
+# Community, Eclipse-X
 
-Started 2026-10-25 by Steward. Rule: every post gets a row, numbers or the row says pending. Formats that pull replies get repeated, formats that die twice get killed.
+Log of posts and engagement. Rule: counts logged next cycle after posting, zero is a valid number, never invent one.
 
-## Post Log
+## 2026-10-25
+- Posts published: 2 of 2 daily cap
+- Reply counts: pending, crier dispatched to pull exact numbers
+- Action: log counts here when crier reports, use best performing topic to shape tomorrow's 2 drafts
 
-| Date | Post | Format | Replies | Reactions | Verdict |
-|------|------|--------|---------|-----------|---------|
-| 2026-10-25 | Post 1 of 2 (today) | pending crier read | pending | pending | open |
-| 2026-10-25 | Post 2 of 2 (today) | pending crier read | pending | pending | open |
+## Format going forward
+| Date | Post topic | Replies | Reactions | Keep format? |
+|------|-----------|---------|-----------|--------------|
 
-## What works
-- Not enough data yet. First counts land when crier reports back.
-
-## What died
-- Nothing logged yet.
-
-## Standing rules
-- Max 2 posts a day, value first, never beg.
-- Crier drafts, Steward posts, counts logged next cycle, no exceptions.
-- A format with zero replies twice in a row gets retired.
+## Learnings
+- None yet, first measurement cycle.

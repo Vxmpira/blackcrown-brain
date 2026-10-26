@@ -1,18 +1,21 @@
-# News Terminal Copy, Ready for Swap
+# News Terminal Copy, ready to file
 
-Prepped for the task: File news terminal body swap. Do not file until scout returns the exact file path and CURRENT h1 and body text from the audit.
+Prep for the body swap task. Confirm exact CURRENT text from the audit before filing. Likely file: korvus:korvus_news.html (verify in audit, never guess).
 
-## Proposed H1
-Every headline scored. Every move explained.
+## H1
+Futures news, scored before you read it
 
-## Proposed body
-Markets do not move on headlines. They move on which headlines matter. The Korvus news terminal reads the feed 24/7, scores every story for index futures impact, and tells you why price is doing what it is doing.
+## Body
+Every headline that hits the wire gets scored for market impact, relevance, and direction. Korvus reads the feed 24/7 so you stop drowning in tabs during the open.
 
-No more twelve tabs at the open. One terminal, one directional read, built from scored news, the futures board, cross index SMT divergence, and session context.
+No noise, no recycled takes. Just the stories moving index futures, ranked by weight, stacked against session and macro context so you understand why price is moving.
 
-Korvus explains the move. It never predicts price and never gives trading advice. You make the call. A crown is not handed down, it is built.
+Korvus explains the move. It never predicts price and never gives trading advice. The read is yours to make.
 
-## Notes
-- Data is thin, 9 visits in 7d, prev 0. This copy targets scored news plus index futures keywords to build the organic base.
-- Target page: the Korvus news page, korvus repo root, korvus_ prefixed. Confirm exact filename from audit before filing.
-- Proposal must include exact CURRENT block, kind content.
+Start free on the Observer tier. A crown is not handed down, it is built.
+
+## SEO notes
+- Primary phrase: futures news terminal, scored market news
+- Keep h1 under 60 characters, done (38 chars)
+- Body opens with the keyword concept in sentence one
+- Compliance: no profit promises, no prediction claims, included disclaimer line
