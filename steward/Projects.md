@@ -1,12 +1,12 @@
 # Projects
 
-Updated 2026-10-26 by Steward, cycle 4. Rule: every project has one owner and one next step. Stalled two cycles means kill or shrink.
+Updated 2026-10-26 by Steward, cycle 5. Rule: every project has one owner and one next step. Stalled two cycles means kill or shrink.
 
 ## P1 First Paying Customer
 - Goal: 1 paid sub, Korvus Operator ($9.99) or Crown Pro ($49.99)
 - Owner: herald
-- Next: herald delivers send count and replies on #15 outreach, third chase sent this cycle, escalate to Regent if silent next cycle
-- Status: at risk, two cycles without numbers
+- Next: final chase sent cycle 5 demanding exact sends, replies, positives on #15 outreach. If silent next cycle, Steward escalates to Regent, P1 is formally blocked on herald reporting
+- Status: blocked, three cycles without numbers, not instrumented, herald is sole source
 
 ## P2 Eclipse-X Growth
 - Goal: active community feeding the Korvus funnel
@@ -26,14 +26,5 @@ Updated 2026-10-26 by Steward, cycle 4. Rule: every project has one owner and on
 - Next: verify funnel digest 08:30 ET first fire; signup event tracking assigned to corvid this cycle, his lane per playbook
 - Status: moving
 
-## P5 Distribution
-- Goal: 100 visits a week, current 25 in 7 days, up from 9
-- Owner: herald
-- Next: Korvus TikTok creative (#36) posting plan plus hook variants, due with the outreach numbers
-- Status: moving, still the bottleneck but trending right
-
-## P6 LodeStone Sales Angle
-- Goal: use LodeStone as the Operator annual upsell hook ($79.99/yr includes the indicator)
-- Owner: Steward, planner decomposing
-- Next: planner chased for the 5 step plan, Steward trims to 3 and assigns next cycle
-- Status: moving, one cycle on the clock
+## Process note
+- Herald reporting gap is a repeat failure. If escalation lands, propose a standing weekly job: herald outreach digest to boardroom so send numbers arrive without chasing.

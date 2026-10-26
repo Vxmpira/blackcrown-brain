@@ -60,3 +60,4 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-26: [APPROVED] #45 Noindex promo_studio page (via admin)
 - 2026-10-26: [APPROVED] #46 Fix Crown brief tier name and token wording (via reaction)
 - 2026-10-26: [APPROVED] #47 Noindex Korvus dashboard app page (via reaction)
+- 2026-10-26: [APPROVED] #48 YouTube short, too many tabs angle (via reaction)
