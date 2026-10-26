@@ -58,3 +58,5 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-26: [REJECTED] #44 Korvus video: twelve tabs down to one screen (note: Regent veto: Empty detail, no script or spend case, refile complete) (via regent)
 - 2026-10-26: [APPROVED] #43 Noindex Korvus promo studio app page (via reaction)
 - 2026-10-26: [APPROVED] #45 Noindex promo_studio page (via admin)
+- 2026-10-26: [APPROVED] #46 Fix Crown brief tier name and token wording (via reaction)
+- 2026-10-26: [APPROVED] #47 Noindex Korvus dashboard app page (via reaction)
