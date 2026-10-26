@@ -61,3 +61,5 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-26: [APPROVED] #46 Fix Crown brief tier name and token wording (via reaction)
 - 2026-10-26: [APPROVED] #47 Noindex Korvus dashboard app page (via reaction)
 - 2026-10-26: [APPROVED] #48 YouTube short, too many tabs angle (via reaction)
+- 2026-10-26: [APPROVED] #49 Korvus video creative, angle one, tab overload (via reaction)
+- 2026-10-26: [APPROVED] #50 Add LodeStone section with Operator CTA (via reaction)

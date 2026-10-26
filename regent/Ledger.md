@@ -49,3 +49,5 @@ On signu
 - 2026-10-26: #46 Fix Crown brief tier name and token wording > DONE: TikTok Engine scenario 5822164 updated live, 1 occurrence(s) across 1 field(s). Raw backup saved on the server first.
 - 2026-10-26: #47 Noindex Korvus dashboard app page > DONE: korvus_dashboard.html updated live (inserted 1 new head tag). repo committed and pushed.
 - 2026-10-26: #48 YouTube short, too many tabs angle > DONE: rendering via Bloom, package lands in the channel
+- 2026-10-26: #49 Korvus video creative, angle one, tab overload > DONE: rendering via Bloom, package lands in the channel
+- 2026-10-26: #50 Add LodeStone section with Operator CTA > DONE: korvus_landing.html updated live (exact match). repo committed and pushed. (self repaired)
