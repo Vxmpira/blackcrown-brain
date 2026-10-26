@@ -44,3 +44,5 @@ On signu
 - 2026-10-25: #40 Noindex the agent app page > DONE: agent.html updated live (inserted 1 new head tag). repo committed and pushed.
 - 2026-10-26: #41 Noindex promo_studio.html > FAILED: promo_studio.html not found in /var/www/blackcrown
 - 2026-10-26: #42 Noindex promo_studio.html, keep app pages out of search > FAILED: promo_studio.html not found in /var/www/blackcrown
+- 2026-10-26: #43 Noindex Korvus promo studio app page > DONE: korvus_promo_studio.html updated live (inserted 1 new head tag). repo committed and pushed.
+- 2026-10-26: #45 Noindex promo_studio page > FAILED: promo_studio.html not found in /var/www/blackcrown

@@ -55,3 +55,6 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-26: [APPROVED] #41 Noindex promo_studio.html (via reaction)
 - 2026-10-26: [APPROVED] #42 Noindex promo_studio.html, keep app pages out of search (via reaction)
 - 2026-10-26: [REJECTED] #41 Noindex promo_studio.html (note: promo_studio.html does not exist, only file against audit list pages) (via discord)
+- 2026-10-26: [REJECTED] #44 Korvus video: twelve tabs down to one screen (note: Regent veto: Empty detail, no script or spend case, refile complete) (via regent)
+- 2026-10-26: [APPROVED] #43 Noindex Korvus promo studio app page (via reaction)
+- 2026-10-26: [APPROVED] #45 Noindex promo_studio page (via admin)
