@@ -1,21 +1,17 @@
-# Korvus-Site
+# Korvus Site
 
-State of korvus.industries pages per the audit. Linked from [[Patterns]] and [[Site-Audit]].
+korvus.industries repo map and SEO state. See [[Patterns]], [[Site-Audit]].
 
-## Fixed or in flight
-- korvus:blackcrown-bar.html, score 0 but noindexed (#30 DONE), ignore going forward.
-- korvus:trading_news_terminal.html, 29. #32 filed: description, canonical, og merge. Remaining after that: h1, favicon, og:image asset, body depth (112 words, scribe drafting).
+## Pages (audited)
+- korvus:korvus_landing.html, the homepage. No index.html exists in this repo.
+- korvus:trading_news_terminal.html, score 29. Path confirmed by scout 007. Head merge filed as #32. Scribe draft (h1 plus 150-250 word body) ready in Minions/Scribe/005. Blocker: need exact verbatim CURRENT body block, scout pulling it.
+- korvus:agent.html, 34. korvus:korvus_promo_studio.html, 34. korvus:korvus_dashboard.html, 42. Likely app pages, confirm purpose before dressing or noindexing.
+- korvus:blackcrown-bar.html, nav component, noindexed via #30, score 0 is harmless.
 
-## Needs a purpose ruling before filing
-- korvus:agent.html, 34. Likely app page, noindex may be the right move.
-- korvus:korvus_promo_studio.html, 34. Internal tool by name, same question.
-- korvus:korvus_dashboard.html, 42. Logged in surface, probably noindex not SEO dressing.
-Review scout purpose report in Minions folder before touching any of the three.
+## Done
+- Nav components noindexed both repos (#28, #30).
 
-## Open instrumentation
-- Signup event tracking (#29) needs a content edit with the exact CTA anchor from korvus:korvus_landing.html. Scout 003 holds the markup, refile as kind content.
-- Proposal 31 refile: anchor and file confirmed in Scout 004, quote verbatim next cycle.
-
-## Facts
-- No index.html in the repo. Homepage is korvus:korvus_landing.html.
-- All public pages sit at repo root with korvus_ prefixes, except the landing and terminal pages listed by audit.
+## Next
+1. News terminal body swap once anchor lands.
+2. Decide noindex vs SEO for agent, promo_studio, dashboard.
+3. Signup event tracking (#29 manual step still with owner).

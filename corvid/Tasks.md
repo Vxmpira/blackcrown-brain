@@ -1,5 +1,5 @@
 # Tasks
 
-- [x] Refile 31 correct file and anchor (done)
-- [ ] Review scout purpose report fully (doing)
-- [ ] News terminal h1 and body copy (open)
+- [x] Review scout purpose report fully (done)
+- [ ] News terminal h1 and body copy (doing)
+- [ ] File news terminal body swap (open)
