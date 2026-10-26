@@ -1,0 +1,229 @@
+/* ==========================================================================
+   BLACKCROWN, the house theme
+   Pink #FF2D95 / Cyan #46E6FF / Gold #F2C94C on near black.
+   The same palette as the Grid, the embeds, and the admin.
+   ========================================================================== */
+
+:root {
+  --blkc-pink: #ff2d95;
+  --blkc-cyan: #46e6ff;
+  --blkc-gold: #f2c94c;
+  --blkc-green: #35e08f;
+  --blkc-red: #ff5a5a;
+  --blkc-ink: #07070c;
+  --blkc-panel: #0b0b13;
+  --blkc-bone: #d8d5e4;
+  --blkc-mute: #8a8f9a;
+  --blkc-crown: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 36 30' fill='none' stroke='%23FF2D95' stroke-width='2.6' stroke-linejoin='round' stroke-linecap='round'%3E%3Cpath d='M4 24 L4 9 L12 16 L18 5 L24 16 L32 9 L32 24 Z'/%3E%3Cline x1='7' y1='28' x2='29' y2='28'/%3E%3C/svg%3E");
+}
+
+.theme-dark {
+  --accent-h: 330;
+  --accent-s: 100%;
+  --accent-l: 59%;
+
+  --background-primary: var(--blkc-ink);
+  --background-primary-alt: var(--blkc-panel);
+  --background-secondary: #090910;
+  --background-secondary-alt: var(--blkc-panel);
+  --background-modifier-border: rgba(255, 45, 149, 0.14);
+  --background-modifier-hover: rgba(255, 45, 149, 0.07);
+  --background-modifier-active-hover: rgba(255, 45, 149, 0.12);
+
+  --text-normal: var(--blkc-bone);
+  --text-muted: var(--blkc-mute);
+  --text-faint: #5d5b6b;
+  --text-accent: var(--blkc-pink);
+  --text-accent-hover: var(--blkc-cyan);
+  --text-on-accent: #ffffff;
+  --text-selection: rgba(255, 45, 149, 0.28);
+  --text-highlight-bg: rgba(242, 201, 76, 0.22);
+
+  --interactive-accent: var(--blkc-pink);
+  --interactive-accent-hover: #ff4da5;
+
+  --checkbox-color: var(--blkc-pink);
+  --checkbox-color-hover: #ff4da5;
+  --checkbox-marker-color: #ffffff;
+  --checklist-done-color: var(--blkc-mute);
+
+  --tag-color: var(--blkc-cyan);
+  --tag-background: rgba(70, 230, 255, 0.08);
+  --tag-background-hover: rgba(70, 230, 255, 0.16);
+
+  --link-color: var(--blkc-pink);
+  --link-color-hover: var(--blkc-cyan);
+  --link-unresolved-color: rgba(255, 45, 149, 0.45);
+
+  --hr-color: rgba(255, 45, 149, 0.25);
+  --blockquote-border-color: var(--blkc-pink);
+  --embed-border-left: 2px solid var(--blkc-cyan);
+
+  --code-normal: var(--blkc-cyan);
+  --code-background: #0d0d16;
+
+  --graph-line: rgba(255, 45, 149, 0.2);
+  --graph-node: #bab6c9;
+  --graph-node-unresolved: rgba(255, 45, 149, 0.4);
+  --graph-node-focused: var(--blkc-pink);
+  --graph-node-tag: var(--blkc-cyan);
+  --graph-node-attachment: var(--blkc-gold);
+  --graph-text: var(--blkc-bone);
+
+  --scrollbar-thumb-bg: rgba(255, 45, 149, 0.22);
+  --scrollbar-active-thumb-bg: rgba(255, 45, 149, 0.45);
+
+  --titlebar-background: var(--blkc-ink);
+  --titlebar-background-focused: var(--blkc-ink);
+
+  --ribbon-background: #090910;
+  --divider-color: rgba(255, 45, 149, 0.12);
+}
+
+/* light mode holds the brand too, for the rare daylight moment */
+.theme-light {
+  --accent-h: 330;
+  --accent-s: 100%;
+  --accent-l: 48%;
+  --text-accent: #d6005f;
+  --text-accent-hover: #0092b8;
+  --interactive-accent: #d6005f;
+  --link-color: #d6005f;
+  --blockquote-border-color: #d6005f;
+  --graph-node-focused: #d6005f;
+}
+
+/* ----- headings carry the palette ---------------------------------------- */
+.theme-dark .markdown-rendered h1,
+.theme-dark .HyperMD-header-1,
+.theme-dark .cm-header-1 {
+  color: var(--blkc-pink);
+  letter-spacing: 0.01em;
+}
+.theme-dark .markdown-rendered h2,
+.theme-dark .HyperMD-header-2,
+.theme-dark .cm-header-2 {
+  color: var(--blkc-cyan);
+}
+.theme-dark .markdown-rendered h3,
+.theme-dark .HyperMD-header-3,
+.theme-dark .cm-header-3 {
+  color: var(--blkc-gold);
+}
+.theme-dark .markdown-rendered h1 {
+  border-bottom: 1px solid rgba(255, 45, 149, 0.25);
+  padding-bottom: 0.2em;
+}
+.theme-dark .markdown-rendered strong,
+.theme-dark .cm-strong {
+  color: #ffffff;
+}
+.theme-dark .markdown-rendered em,
+.theme-dark .cm-em {
+  color: var(--blkc-cyan);
+}
+
+/* code blocks: terminal of the house */
+.theme-dark .markdown-rendered pre {
+  border: 1px solid rgba(70, 230, 255, 0.18);
+  border-left: 3px solid var(--blkc-pink);
+  border-radius: 8px;
+}
+
+/* ----- the crown over the vault ------------------------------------------ */
+.workspace-sidedock-vault-profile .workspace-drawer-vault-name,
+.workspace-sidedock-vault-profile {
+  color: var(--blkc-bone);
+}
+.workspace-sidedock-vault-profile::before {
+  content: "";
+  display: inline-block;
+  width: 18px;
+  height: 15px;
+  margin-right: 6px;
+  vertical-align: -2px;
+  background-image: var(--blkc-crown);
+  background-size: contain;
+  background-repeat: no-repeat;
+  filter: drop-shadow(0 0 4px rgba(255, 45, 149, 0.7));
+}
+.workspace-tab-header.is-active .workspace-tab-header-inner-title {
+  color: var(--blkc-pink);
+}
+.workspace-tab-header.is-active {
+  box-shadow: inset 0 -2px 0 var(--blkc-pink);
+}
+
+/* ----- the org chart in the file explorer --------------------------------
+   Each agent's folder wears its desk color, same as the city and the cards */
+.nav-folder-title[data-path="corvid"] .nav-folder-title-content {
+  color: var(--blkc-pink);
+  font-weight: 600;
+}
+.nav-folder-title[data-path="herald"] .nav-folder-title-content {
+  color: var(--blkc-cyan);
+  font-weight: 600;
+}
+.nav-folder-title[data-path="steward"] .nav-folder-title-content {
+  color: var(--blkc-green);
+  font-weight: 600;
+}
+.nav-folder-title[data-path="regent"] .nav-folder-title-content {
+  color: var(--blkc-gold);
+  font-weight: 600;
+}
+.nav-folder-title[data-path$="Minions"] .nav-folder-title-content {
+  color: var(--blkc-mute);
+  font-style: italic;
+}
+.nav-file-title.is-active {
+  background: rgba(255, 45, 149, 0.1);
+  box-shadow: inset 2px 0 0 var(--blkc-pink);
+}
+
+/* wikilinks glow faintly, the web made visible */
+.theme-dark .markdown-rendered a.internal-link,
+.theme-dark .cm-hmd-internal-link {
+  text-shadow: 0 0 8px rgba(255, 45, 149, 0.35);
+}
+
+/* status bar and ribbon accents */
+.status-bar {
+  border-top: 1px solid rgba(255, 45, 149, 0.15);
+  color: var(--blkc-mute);
+}
+.side-dock-ribbon-action:hover {
+  color: var(--blkc-pink);
+}
+
+/* graph view: the void behind the constellation */
+.graph-view-container {
+  background:
+    radial-gradient(ellipse at 30% 20%, rgba(255, 45, 149, 0.05), transparent 55%),
+    radial-gradient(ellipse at 75% 80%, rgba(70, 230, 255, 0.04), transparent 55%),
+    var(--blkc-ink);
+}
+
+/* callouts in house colors */
+.theme-dark .callout {
+  border-left: 3px solid var(--blkc-pink);
+  background: rgba(255, 45, 149, 0.05);
+}
+.theme-dark .callout[data-callout="tip"],
+.theme-dark .callout[data-callout="info"] {
+  border-left-color: var(--blkc-cyan);
+  background: rgba(70, 230, 255, 0.05);
+}
+.theme-dark .callout[data-callout="warning"] {
+  border-left-color: var(--blkc-gold);
+  background: rgba(242, 201, 76, 0.05);
+}
+
+/* tables */
+.theme-dark .markdown-rendered thead th {
+  color: var(--blkc-cyan);
+  border-bottom: 2px solid rgba(255, 45, 149, 0.3);
+}
+.theme-dark .markdown-rendered tbody tr:hover {
+  background: rgba(255, 45, 149, 0.05);
+}
