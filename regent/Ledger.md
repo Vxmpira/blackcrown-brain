@@ -52,3 +52,4 @@ On signu
 - 2026-10-26: #49 Korvus video creative, angle one, tab overload > DONE: rendering via Bloom, package lands in the channel
 - 2026-10-26: #50 Add LodeStone section with Operator CTA > DONE: korvus_landing.html updated live (exact match). repo committed and pushed. (self repaired)
 - 2026-10-26: #51 Add UTM tags to all outbound Korvus links > FAILED: "site" is not a file I can edit
+- 2026-10-26: #52 LodeStone creative, angle one, tabs chaos > DONE: rendering via Bloom, package lands in the channel
