@@ -38,3 +38,4 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-25: [APPROVED] #27 Noindex the shared nav component (via reaction)
 - 2026-10-25: [APPROVED] #28 Noindex the Crown copy of the bar (via reaction)
 - 2026-10-25: [APPROVED] #26 Daily funnel digest to corvid (note: Owner ordered retry after failed execution) (via discord)
+- 2026-10-25: [APPROVED] #29 Add signup event tracking to Korvus (via reaction)
