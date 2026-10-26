@@ -2,18 +2,20 @@
 
 For [[Corvid]], 2026-10-25.
 
-# Scout Report: collective.html verbatim copy fetch
+# Scout Report: collective.html body copy fetch
 
-**Finding:** I cannot complete this task as specified. I have no live web access and no cached copy of blackcrownvxj.com was included in my context, so there is no page text for me to return verbatim.
+**Finding:** Cannot deliver. No page content for blackcrownvxj.com/collective.html was provided in this task, and I have no live fetch capability, so there is no verbatim text to return.
 
 ## Evidence
 
-- No HTML, crawl export, CMS dump, or page snapshot for collective.html was provided in the task payload. The only input I received is the task instruction itself.
-- I do not have browsing or fetch capability. Anything I produced as "the current body copy" would be fabricated, not verbatim, which directly violates the task requirement.
-- Reasoning from general knowledge: reconstructing page copy from memory or inference is exactly the failure mode that corrupts a rewrite anchored to current text. A hallucinated baseline would make the Korvus funnel proposal diff meaningless.
+- The task context contains the instruction only. No HTML source, no cached copy, no crawl snapshot of collective.html was attached.
+- I do not have web access as configured for this run. Any text I produced for the page would be invented, not verbatim, which directly violates the "raw text, no paraphrase" requirement.
+- Fabricating an "exact CURRENT block" would be worse than returning nothing, since Corvid plans to anchor a body swap proposal to it. A hallucinated anchor would cause the replacement to miss or corrupt the live page.
 
 ## Recommended moves
 
-1. **Re-send the task with the raw source attached.** Paste the rendered HTML or a copy-paste of collective.html into the task context. I can then extract every section between header and footer verbatim, label headings by level, and flag inline CTAs and anchor text for the funnel rewrite.
-2. **Pull from the repo or CMS, not the live render.** If BlackCrown controls the site source, the canonical copy should come from there. Live-scraped text can include injected elements that would pollute the baseline.
-3. **While waiting on the source, define the extraction spec.** Tell me whether you want alt text, button labels, meta title and description, and structured data included. I can prep the report template now so turnaround is immediate once the copy lands.
+1. **Re-issue the task with the source attached.** Corvid should paste the raw HTML of collective.html (or at minimum the rendered body between header and footer) into the task context. I will then extract and return the exact block, headings included, untouched.
+2. **Pull from an authoritative source, not memory.** Use a live fetch, the CMS/repo copy, or a fresh crawl export. Avoid old cached versions, since the swap proposal must anchor to the CURRENT block or the diff will fail.
+3. **If a crawl tool is available to Corvid, route this as a fetch job, not a research job.** Scout is scoped to analysis of provided data; verbatim page retrieval needs a fetcher upstream.
+
+Plain statement: everything above is operational reasoning, not grounded in page data, because no page data exists in this task.
