@@ -1,0 +1,694 @@
+/* ==========================================================================
+   BLACKCROWN, the house theme
+   Pink #FF2D95 / Cyan #46E6FF / Gold #F2C94C on near black.
+   The same palette as the Grid, the embeds, and the admin.
+   ========================================================================== */
+
+:root {
+  --blkc-pink: #ff2d95;
+  --blkc-cyan: #46e6ff;
+  --blkc-gold: #f2c94c;
+  --blkc-green: #35e08f;
+  --blkc-red: #ff5a5a;
+  --blkc-ink: #07070c;
+  --blkc-panel: #0b0b13;
+  --blkc-bone: #d8d5e4;
+  --blkc-mute: #8a8f9a;
+  --blkc-crown: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 36 30' fill='none' stroke='%23FF2D95' stroke-width='2.6' stroke-linejoin='round' stroke-linecap='round'%3E%3Cpath d='M4 24 L4 9 L12 16 L18 5 L24 16 L32 9 L32 24 Z'/%3E%3Cline x1='7' y1='28' x2='29' y2='28'/%3E%3C/svg%3E");
+}
+
+.theme-dark {
+  --accent-h: 330;
+  --accent-s: 100%;
+  --accent-l: 59%;
+
+  --background-primary: var(--blkc-ink);
+  --background-primary-alt: var(--blkc-panel);
+  --background-secondary: #090910;
+  --background-secondary-alt: var(--blkc-panel);
+  --background-modifier-border: rgba(255, 45, 149, 0.14);
+  --background-modifier-hover: rgba(255, 45, 149, 0.07);
+  --background-modifier-active-hover: rgba(255, 45, 149, 0.12);
+
+  --text-normal: var(--blkc-bone);
+  --text-muted: var(--blkc-mute);
+  --text-faint: #5d5b6b;
+  --text-accent: var(--blkc-pink);
+  --text-accent-hover: var(--blkc-cyan);
+  --text-on-accent: #ffffff;
+  --text-selection: rgba(255, 45, 149, 0.28);
+  --text-highlight-bg: rgba(242, 201, 76, 0.22);
+
+  --interactive-accent: var(--blkc-pink);
+  --interactive-accent-hover: #ff4da5;
+
+  --checkbox-color: var(--blkc-pink);
+  --checkbox-color-hover: #ff4da5;
+  --checkbox-marker-color: #ffffff;
+  --checklist-done-color: var(--blkc-mute);
+
+  --tag-color: var(--blkc-cyan);
+  --tag-background: rgba(70, 230, 255, 0.08);
+  --tag-background-hover: rgba(70, 230, 255, 0.16);
+
+  --link-color: var(--blkc-pink);
+  --link-color-hover: var(--blkc-cyan);
+  --link-unresolved-color: rgba(255, 45, 149, 0.45);
+
+  --hr-color: rgba(255, 45, 149, 0.25);
+  --blockquote-border-color: var(--blkc-pink);
+  --embed-border-left: 2px solid var(--blkc-cyan);
+
+  --code-normal: var(--blkc-cyan);
+  --code-background: #0d0d16;
+
+  --graph-line: rgba(255, 45, 149, 0.2);
+  --graph-node: #bab6c9;
+  --graph-node-unresolved: rgba(255, 45, 149, 0.4);
+  --graph-node-focused: var(--blkc-pink);
+  --graph-node-tag: var(--blkc-cyan);
+  --graph-node-attachment: var(--blkc-gold);
+  --graph-text: var(--blkc-bone);
+
+  --scrollbar-thumb-bg: rgba(255, 45, 149, 0.22);
+  --scrollbar-active-thumb-bg: rgba(255, 45, 149, 0.45);
+
+  --titlebar-background: var(--blkc-ink);
+  --titlebar-background-focused: var(--blkc-ink);
+
+  --ribbon-background: #090910;
+  --divider-color: rgba(255, 45, 149, 0.12);
+}
+
+/* light mode holds the brand too, for the rare daylight moment */
+.theme-light {
+  --accent-h: 330;
+  --accent-s: 100%;
+  --accent-l: 48%;
+  --text-accent: #d6005f;
+  --text-accent-hover: #0092b8;
+  --interactive-accent: #d6005f;
+  --link-color: #d6005f;
+  --blockquote-border-color: #d6005f;
+  --graph-node-focused: #d6005f;
+}
+
+/* ----- headings carry the palette ---------------------------------------- */
+.theme-dark .markdown-rendered h1,
+.theme-dark .HyperMD-header-1,
+.theme-dark .cm-header-1 {
+  color: var(--blkc-pink);
+  letter-spacing: 0.01em;
+}
+.theme-dark .markdown-rendered h2,
+.theme-dark .HyperMD-header-2,
+.theme-dark .cm-header-2 {
+  color: var(--blkc-cyan);
+}
+.theme-dark .markdown-rendered h3,
+.theme-dark .HyperMD-header-3,
+.theme-dark .cm-header-3 {
+  color: var(--blkc-gold);
+}
+.theme-dark .markdown-rendered h1 {
+  border-bottom: 1px solid rgba(255, 45, 149, 0.25);
+  padding-bottom: 0.2em;
+}
+.theme-dark .markdown-rendered strong,
+.theme-dark .cm-strong {
+  color: #ffffff;
+}
+.theme-dark .markdown-rendered em,
+.theme-dark .cm-em {
+  color: var(--blkc-cyan);
+}
+
+/* code blocks: terminal of the house */
+.theme-dark .markdown-rendered pre {
+  border: 1px solid rgba(70, 230, 255, 0.18);
+  border-left: 3px solid var(--blkc-pink);
+  border-radius: 8px;
+}
+
+/* ----- the crown over the vault ------------------------------------------ */
+.workspace-sidedock-vault-profile .workspace-drawer-vault-name,
+.workspace-sidedock-vault-profile {
+  color: var(--blkc-bone);
+}
+.workspace-sidedock-vault-profile::before {
+  content: "";
+  display: inline-block;
+  width: 18px;
+  height: 15px;
+  margin-right: 6px;
+  vertical-align: -2px;
+  background-image: var(--blkc-crown);
+  background-size: contain;
+  background-repeat: no-repeat;
+  filter: drop-shadow(0 0 4px rgba(255, 45, 149, 0.7));
+}
+.workspace-tab-header.is-active .workspace-tab-header-inner-title {
+  color: var(--blkc-pink);
+}
+.workspace-tab-header.is-active {
+  box-shadow: inset 0 -2px 0 var(--blkc-pink);
+}
+
+/* ----- the org chart in the file explorer --------------------------------
+   Each agent's folder wears its desk color, same as the city and the cards */
+.nav-folder-title[data-path="corvid"] .nav-folder-title-content {
+  color: var(--blkc-pink);
+  font-weight: 600;
+}
+.nav-folder-title[data-path="herald"] .nav-folder-title-content {
+  color: var(--blkc-cyan);
+  font-weight: 600;
+}
+.nav-folder-title[data-path="steward"] .nav-folder-title-content {
+  color: var(--blkc-green);
+  font-weight: 600;
+}
+.nav-folder-title[data-path="regent"] .nav-folder-title-content {
+  color: var(--blkc-gold);
+  font-weight: 600;
+}
+.nav-folder-title[data-path$="Minions"] .nav-folder-title-content {
+  color: var(--blkc-mute);
+  font-style: italic;
+}
+.nav-file-title.is-active {
+  background: rgba(255, 45, 149, 0.1);
+  box-shadow: inset 2px 0 0 var(--blkc-pink);
+}
+
+/* wikilinks glow faintly, the web made visible */
+.theme-dark .markdown-rendered a.internal-link,
+.theme-dark .cm-hmd-internal-link {
+  text-shadow: 0 0 8px rgba(255, 45, 149, 0.35);
+}
+
+/* status bar and ribbon accents */
+.status-bar {
+  border-top: 1px solid rgba(255, 45, 149, 0.15);
+  color: var(--blkc-mute);
+}
+.side-dock-ribbon-action:hover {
+  color: var(--blkc-pink);
+}
+
+/* graph view: the void behind the constellation */
+.graph-view-container {
+  background:
+    radial-gradient(ellipse at 30% 20%, rgba(255, 45, 149, 0.05), transparent 55%),
+    radial-gradient(ellipse at 75% 80%, rgba(70, 230, 255, 0.04), transparent 55%),
+    var(--blkc-ink);
+}
+
+/* callouts in house colors */
+.theme-dark .callout {
+  border-left: 3px solid var(--blkc-pink);
+  background: rgba(255, 45, 149, 0.05);
+}
+.theme-dark .callout[data-callout="tip"],
+.theme-dark .callout[data-callout="info"] {
+  border-left-color: var(--blkc-cyan);
+  background: rgba(70, 230, 255, 0.05);
+}
+.theme-dark .callout[data-callout="warning"] {
+  border-left-color: var(--blkc-gold);
+  background: rgba(242, 201, 76, 0.05);
+}
+
+/* tables */
+.theme-dark .markdown-rendered thead th {
+  color: var(--blkc-cyan);
+  border-bottom: 2px solid rgba(255, 45, 149, 0.3);
+}
+.theme-dark .markdown-rendered tbody tr:hover {
+  background: rgba(255, 45, 149, 0.05);
+}
+
+/* ==========================================================================
+   v1.1 FLARE: neon, motion, atmosphere
+   ========================================================================== */
+
+/* the room: faint scanlines and corner glow, the metropolitan air */
+.theme-dark .workspace {
+  background:
+    repeating-linear-gradient(0deg, rgba(255, 255, 255, 0.012) 0 1px, transparent 1px 3px),
+    radial-gradient(ellipse at 0% 0%, rgba(255, 45, 149, 0.06), transparent 45%),
+    radial-gradient(ellipse at 100% 100%, rgba(70, 230, 255, 0.05), transparent 45%),
+    var(--blkc-ink);
+}
+.theme-dark .workspace-leaf-content {
+  background: transparent;
+}
+
+/* H1 wears the gradient and the crown */
+.theme-dark .markdown-rendered h1,
+.theme-dark .inline-title {
+  background: linear-gradient(100deg, var(--blkc-pink) 0%, #ff6ab8 45%, var(--blkc-cyan) 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  filter: drop-shadow(0 0 14px rgba(255, 45, 149, 0.35));
+}
+.theme-dark .markdown-rendered h1::before {
+  content: "";
+  display: inline-block;
+  width: 0.9em;
+  height: 0.75em;
+  margin-right: 0.35em;
+  vertical-align: -0.06em;
+  background-image: var(--blkc-crown);
+  background-size: contain;
+  background-repeat: no-repeat;
+  filter: drop-shadow(0 0 6px rgba(255, 45, 149, 0.8));
+}
+.theme-dark .markdown-rendered h2 {
+  text-shadow: 0 0 12px rgba(70, 230, 255, 0.4);
+}
+.theme-dark .markdown-rendered h3 {
+  text-shadow: 0 0 10px rgba(242, 201, 76, 0.4);
+}
+
+/* the crown over the vault breathes */
+@keyframes blkc-crown-pulse {
+  0%, 100% { filter: drop-shadow(0 0 3px rgba(255, 45, 149, 0.55)); }
+  50% { filter: drop-shadow(0 0 10px rgba(255, 45, 149, 1)); }
+}
+.workspace-sidedock-vault-profile::before {
+  animation: blkc-crown-pulse 3.2s ease-in-out infinite;
+}
+
+/* tabs: neon rail that slides in */
+.workspace-tab-header.is-active {
+  box-shadow: none;
+  background: linear-gradient(180deg, rgba(255, 45, 149, 0.08), transparent);
+  border-radius: 6px 6px 0 0;
+}
+.workspace-tab-header.is-active::after {
+  content: "";
+  position: absolute;
+  left: 8%;
+  right: 8%;
+  bottom: 0;
+  height: 2px;
+  border-radius: 2px;
+  background: linear-gradient(90deg, var(--blkc-pink), var(--blkc-cyan));
+  box-shadow: 0 0 8px rgba(255, 45, 149, 0.8);
+}
+
+/* editor caret and selection, hot pink ink */
+.theme-dark .cm-content {
+  caret-color: var(--blkc-pink);
+}
+.theme-dark .cm-cursor {
+  border-left-color: var(--blkc-pink) !important;
+  box-shadow: 0 0 6px rgba(255, 45, 149, 0.9);
+}
+.theme-dark .cm-active.cm-line {
+  background: linear-gradient(90deg, rgba(255, 45, 149, 0.06), transparent 70%);
+}
+
+/* checkboxes glow when the work is done */
+.theme-dark input[type="checkbox"]:checked {
+  box-shadow: 0 0 8px rgba(255, 45, 149, 0.7);
+}
+.theme-dark .markdown-rendered .task-list-item.is-checked {
+  color: var(--blkc-mute);
+}
+
+/* links: underline grows on approach */
+.theme-dark .markdown-rendered a.internal-link {
+  text-decoration: none;
+  background-image: linear-gradient(90deg, var(--blkc-pink), var(--blkc-cyan));
+  background-size: 0% 1.5px;
+  background-position: 0 100%;
+  background-repeat: no-repeat;
+  transition: background-size 0.22s ease;
+}
+.theme-dark .markdown-rendered a.internal-link:hover {
+  background-size: 100% 1.5px;
+}
+
+/* inline code pills */
+.theme-dark .markdown-rendered :not(pre) > code {
+  border: 1px solid rgba(70, 230, 255, 0.22);
+  border-radius: 5px;
+  padding: 0.08em 0.4em;
+  background: rgba(70, 230, 255, 0.06);
+}
+
+/* buttons take the house gradient */
+.theme-dark button.mod-cta {
+  background: linear-gradient(100deg, var(--blkc-pink), #c91d77);
+  box-shadow: 0 0 10px rgba(255, 45, 149, 0.35);
+  border: none;
+}
+.theme-dark button.mod-cta:hover {
+  box-shadow: 0 0 16px rgba(255, 45, 149, 0.6);
+}
+
+/* file explorer: rows slide, folders carry chevrons in pink */
+.theme-dark .nav-file-title,
+.theme-dark .nav-folder-title {
+  transition: transform 0.12s ease, background 0.12s ease;
+  border-radius: 6px;
+}
+.theme-dark .nav-file-title:hover,
+.theme-dark .nav-folder-title:hover {
+  transform: translateX(3px);
+}
+.theme-dark .nav-folder-collapse-indicator svg {
+  color: var(--blkc-pink);
+}
+
+/* frontmatter and properties: cyan keys, dim values */
+.theme-dark .metadata-property-key {
+  color: var(--blkc-cyan);
+}
+.theme-dark .metadata-container {
+  border: 1px solid rgba(70, 230, 255, 0.12);
+  border-radius: 8px;
+  background: rgba(70, 230, 255, 0.025);
+}
+
+/* status bar: a live wire */
+.theme-dark .status-bar {
+  border-top: none;
+  background:
+    linear-gradient(90deg, rgba(255, 45, 149, 0.1), rgba(70, 230, 255, 0.06)) top / 100% 1.5px no-repeat,
+    #090910;
+}
+
+/* separators between panes glow faintly */
+.theme-dark .workspace-leaf-resize-handle:hover {
+  background: rgba(255, 45, 149, 0.35);
+}
+
+/* modals and menus on glass */
+.theme-dark .modal,
+.theme-dark .menu,
+.theme-dark .prompt {
+  background: rgba(11, 11, 19, 0.92);
+  border: 1px solid rgba(255, 45, 149, 0.22);
+  box-shadow: 0 0 30px rgba(255, 45, 149, 0.12), 0 18px 50px rgba(0, 0, 0, 0.6);
+  backdrop-filter: blur(10px);
+}
+.theme-dark .modal-title {
+  color: var(--blkc-pink);
+}
+
+/* highlights sweep gold */
+.theme-dark .markdown-rendered mark {
+  background: linear-gradient(100deg, rgba(242, 201, 76, 0.3), rgba(242, 201, 76, 0.15));
+  color: #ffe9a8;
+  border-radius: 3px;
+  padding: 0 0.15em;
+}
+
+/* respect calm machines */
+@media (prefers-reduced-motion: reduce) {
+  .workspace-sidedock-vault-profile::before { animation: none; }
+  .theme-dark .nav-file-title,
+  .theme-dark .nav-folder-title,
+  .theme-dark .markdown-rendered a.internal-link { transition: none; }
+}
+
+/* ==========================================================================
+   v2.0 MAXIMUM: the command terminal
+   ========================================================================== */
+
+/* HUD corner brackets frame the whole app, the operator's viewport */
+.app-container { position: relative; }
+.app-container::before,
+.app-container::after,
+.theme-dark .workspace::before,
+.theme-dark .workspace::after {
+  content: "";
+  position: fixed;
+  width: 26px;
+  height: 26px;
+  z-index: 999;
+  pointer-events: none;
+  opacity: 0.8;
+}
+.app-container::before {
+  top: 8px; left: 8px;
+  border-top: 2px solid var(--blkc-pink);
+  border-left: 2px solid var(--blkc-pink);
+  box-shadow: -2px -2px 10px rgba(255, 45, 149, 0.35);
+}
+.app-container::after {
+  bottom: 8px; right: 8px;
+  border-bottom: 2px solid var(--blkc-pink);
+  border-right: 2px solid var(--blkc-pink);
+  box-shadow: 2px 2px 10px rgba(255, 45, 149, 0.35);
+}
+.theme-dark .workspace::before {
+  top: 8px; right: 8px;
+  border-top: 2px solid var(--blkc-cyan);
+  border-right: 2px solid var(--blkc-cyan);
+  box-shadow: 2px -2px 10px rgba(70, 230, 255, 0.3);
+}
+.theme-dark .workspace::after {
+  bottom: 8px; left: 8px;
+  border-bottom: 2px solid var(--blkc-cyan);
+  border-left: 2px solid var(--blkc-cyan);
+  box-shadow: -2px 2px 10px rgba(70, 230, 255, 0.3);
+}
+
+/* the aurora: the corner glows drift, slow as weather */
+@keyframes blkc-aurora {
+  0%, 100% { background-position: 0% 0%, 100% 100%, 0 0; }
+  50% { background-position: 18% 10%, 82% 86%, 0 0; }
+}
+.theme-dark .workspace {
+  background:
+    radial-gradient(42% 38% at 12% 8%, rgba(255, 45, 149, 0.08), transparent 70%),
+    radial-gradient(45% 40% at 88% 92%, rgba(70, 230, 255, 0.07), transparent 70%),
+    repeating-linear-gradient(0deg, rgba(255, 255, 255, 0.012) 0 1px, transparent 1px 3px),
+    var(--blkc-ink);
+  background-size: 160% 160%, 160% 160%, auto, auto;
+  animation: blkc-aurora 46s ease-in-out infinite;
+}
+
+/* sidebars on true glass */
+.theme-dark .workspace-split.mod-left-split .workspace-tabs,
+.theme-dark .workspace-split.mod-right-split .workspace-tabs {
+  background: rgba(9, 9, 16, 0.75);
+  backdrop-filter: blur(14px);
+  border-right: 1px solid rgba(255, 45, 149, 0.1);
+}
+.theme-dark .workspace-split.mod-right-split .workspace-tabs {
+  border-right: none;
+  border-left: 1px solid rgba(70, 230, 255, 0.1);
+}
+
+/* H2 and H3 get structural marks beside the color */
+.theme-dark .markdown-rendered h2::before {
+  content: "";
+  display: inline-block;
+  width: 4px;
+  height: 0.85em;
+  margin-right: 0.45em;
+  vertical-align: -0.1em;
+  border-radius: 2px;
+  background: linear-gradient(180deg, var(--blkc-cyan), transparent);
+  box-shadow: 0 0 8px rgba(70, 230, 255, 0.6);
+}
+.theme-dark .markdown-rendered h3::before {
+  content: "\25C6";
+  color: var(--blkc-gold);
+  font-size: 0.55em;
+  margin-right: 0.6em;
+  vertical-align: 0.25em;
+  text-shadow: 0 0 8px rgba(242, 201, 76, 0.8);
+}
+
+/* horizontal rules become lasers */
+.theme-dark .markdown-rendered hr {
+  border: none;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, var(--blkc-pink) 20%, var(--blkc-cyan) 80%, transparent);
+  box-shadow: 0 0 12px rgba(255, 45, 149, 0.5);
+  border-radius: 2px;
+}
+
+/* blockquotes: glass slabs under a watermark crown */
+.theme-dark .markdown-rendered blockquote {
+  position: relative;
+  background: linear-gradient(100deg, rgba(255, 45, 149, 0.06), rgba(11, 11, 19, 0.6));
+  border-left: 3px solid var(--blkc-pink);
+  border-radius: 0 10px 10px 0;
+  padding: 0.6em 2.6em 0.6em 1em;
+  overflow: hidden;
+}
+.theme-dark .markdown-rendered blockquote::after {
+  content: "";
+  position: absolute;
+  top: 6px;
+  right: 8px;
+  width: 30px;
+  height: 25px;
+  background-image: var(--blkc-crown);
+  background-size: contain;
+  background-repeat: no-repeat;
+  opacity: 0.2;
+}
+
+/* lists: pink diamond markers, nested cyan */
+.theme-dark .markdown-rendered ul > li::marker {
+  content: "\25C6  ";
+  color: var(--blkc-pink);
+  font-size: 0.8em;
+}
+.theme-dark .markdown-rendered ul ul > li::marker {
+  content: "\25C7  ";
+  color: var(--blkc-cyan);
+}
+.theme-dark .markdown-rendered ol > li::marker {
+  color: var(--blkc-gold);
+  font-weight: 700;
+}
+
+/* bold runs hot */
+.theme-dark .markdown-rendered strong {
+  text-shadow: 0 0 10px rgba(255, 45, 149, 0.35);
+}
+
+/* tags: glowing pills */
+.theme-dark .markdown-rendered a.tag,
+.theme-dark .cm-hashtag {
+  border: 1px solid rgba(70, 230, 255, 0.35);
+  border-radius: 999px;
+  padding: 0.05em 0.6em;
+  background: rgba(70, 230, 255, 0.07);
+  transition: box-shadow 0.18s ease, background 0.18s ease;
+}
+.theme-dark .markdown-rendered a.tag:hover {
+  box-shadow: 0 0 12px rgba(70, 230, 255, 0.5);
+  background: rgba(70, 230, 255, 0.14);
+}
+
+/* external links wear a cyan flight arrow */
+.theme-dark .markdown-rendered a.external-link {
+  color: var(--blkc-cyan);
+  background-image: none;
+}
+.theme-dark .markdown-rendered a.external-link::after {
+  content: " \2197";
+  font-size: 0.8em;
+  color: var(--blkc-cyan);
+}
+
+/* tables: glass grid */
+.theme-dark .markdown-rendered table {
+  border: 1px solid rgba(255, 45, 149, 0.18);
+  border-radius: 10px;
+  overflow: hidden;
+  background: rgba(11, 11, 19, 0.5);
+}
+.theme-dark .markdown-rendered thead {
+  background: linear-gradient(100deg, rgba(255, 45, 149, 0.12), rgba(70, 230, 255, 0.08));
+}
+.theme-dark .markdown-rendered tbody tr:nth-child(even) {
+  background: rgba(255, 255, 255, 0.02);
+}
+
+/* transclusions: embedded notes as framed cards */
+.theme-dark .markdown-rendered .markdown-embed {
+  border: 1px solid rgba(255, 45, 149, 0.2);
+  border-left: 3px solid var(--blkc-pink);
+  border-radius: 10px;
+  background: rgba(11, 11, 19, 0.55);
+  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.35);
+}
+
+/* the status bar wire flows */
+@keyframes blkc-wire {
+  0% { background-position: 0% 0, 0 0; }
+  100% { background-position: 200% 0, 0 0; }
+}
+.theme-dark .status-bar {
+  background:
+    linear-gradient(90deg, rgba(255, 45, 149, 0.0), rgba(255, 45, 149, 0.35), rgba(70, 230, 255, 0.35), rgba(255, 45, 149, 0.0)) top / 50% 1.5px repeat-x,
+    #090910;
+  animation: blkc-wire 14s linear infinite;
+}
+
+/* ribbon icons pop */
+.side-dock-ribbon-action {
+  transition: transform 0.12s ease, color 0.12s ease;
+}
+.side-dock-ribbon-action:hover {
+  transform: scale(1.18);
+  filter: drop-shadow(0 0 6px rgba(255, 45, 149, 0.8));
+}
+
+/* scrollbars: gradient needles */
+.theme-dark ::-webkit-scrollbar { width: 9px; height: 9px; }
+.theme-dark ::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg, rgba(255, 45, 149, 0.4), rgba(70, 230, 255, 0.3));
+  border-radius: 6px;
+  border: 2px solid var(--blkc-ink);
+}
+.theme-dark ::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(180deg, rgba(255, 45, 149, 0.7), rgba(70, 230, 255, 0.55));
+}
+
+/* search and flash: found things burn pink */
+.theme-dark .search-result-file-matched-text,
+.theme-dark .is-flashing {
+  background: rgba(255, 45, 149, 0.3) !important;
+  border-radius: 3px;
+  box-shadow: 0 0 10px rgba(255, 45, 149, 0.4);
+}
+
+/* sliders and toggles in settings follow the house */
+.theme-dark .checkbox-container.is-enabled {
+  background: linear-gradient(90deg, var(--blkc-pink), #c91d77);
+  box-shadow: 0 0 8px rgba(255, 45, 149, 0.5);
+}
+.theme-dark input[type="range"]::-webkit-slider-thumb {
+  background: var(--blkc-pink);
+  box-shadow: 0 0 8px rgba(255, 45, 149, 0.7);
+}
+
+/* editor headings mirror the rendered jewelry */
+.theme-dark .cm-header-1 {
+  background: linear-gradient(100deg, var(--blkc-pink), var(--blkc-cyan));
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* graph controls float on glass */
+.theme-dark .graph-controls {
+  background: rgba(11, 11, 19, 0.85);
+  border: 1px solid rgba(255, 45, 149, 0.2);
+  border-radius: 10px;
+  backdrop-filter: blur(10px);
+}
+
+/* tooltips */
+.theme-dark .tooltip {
+  background: rgba(11, 11, 19, 0.95);
+  border: 1px solid rgba(255, 45, 149, 0.3);
+  color: var(--blkc-bone);
+  box-shadow: 0 0 14px rgba(255, 45, 149, 0.2);
+}
+
+/* every pane title underlined by the wire */
+.theme-dark .view-header {
+  border-bottom: 1px solid transparent;
+  border-image: linear-gradient(90deg, rgba(255, 45, 149, 0.4), rgba(70, 230, 255, 0.2), transparent) 1;
+}
+
+/* calm machines still get the full look, minus motion */
+@media (prefers-reduced-motion: reduce) {
+  .theme-dark .workspace { animation: none; }
+  .theme-dark .status-bar { animation: none; }
+  .side-dock-ribbon-action { transition: none; }
+}
