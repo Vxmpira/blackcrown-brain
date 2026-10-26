@@ -16,3 +16,6 @@ At zero revenue the lever is volume of honest cold creative to Korvus free tier.
 
 ## Proposal discipline
 Summary under 10 words. Detail exactly WHAT / WHY / CURRENT / NEW / GREEN LIGHT MEANS. Never re-file pending items.
+
+## Attribution rule (new)
+No bare links ever again. Every outbound link carries utm_source and utm_campaign. A spike we cannot attribute is a lesson we paid for and did not learn. Proposal filed to tag the #15 template and all post links; until approved, timing correlation via Prospector is the fallback method.

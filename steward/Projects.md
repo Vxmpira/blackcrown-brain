@@ -1,6 +1,6 @@
 # Projects
 
-Updated 2026-10-26 by Steward, cycle 5. Rule: every project has one owner and one next step. Stalled two cycles means kill or shrink.
+Updated 2026-10-26 by Steward, cycle 6. Rule: every project has one owner and one next step. Stalled two cycles means kill or shrink.
 
 ## P1 First Paying Customer
 - Goal: 1 paid sub, Korvus Operator ($9.99) or Crown Pro ($49.99)
@@ -23,8 +23,5 @@ Updated 2026-10-26 by Steward, cycle 5. Rule: every project has one owner and on
 ## P4 Funnel Instrumentation
 - Goal: know where visits come from and where they drop before signup
 - Owner: Steward
-- Next: verify funnel digest 08:30 ET first fire; signup event tracking assigned to corvid this cycle, his lane per playbook
-- Status: moving
-
-## Process note
-- Herald reporting gap is a repeat failure. If escalation lands, propose a standing weekly job: herald outreach digest to boardroom so send numbers arrive without chasing.
+- Next: auditor verifying the 08:30 ET funnel digest fired to corvid today with real numbers, cycle 6. Pass: mark digest live, shift P4 next step to source attribution. Fail: refile kind job, SCHEDULE daily 08:30 ET, CHANNEL corvid, per Playbook #26 lesson
+- Status: moving, verification in flight

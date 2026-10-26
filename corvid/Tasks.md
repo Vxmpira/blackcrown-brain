@@ -5,3 +5,4 @@
 - [ ] Steward: Add signup event tracking to Korvus signup flow (doing)
 - [ ] Confirm signup file path from scout (open)
 - [ ] Steward: Build LodeStone section on korvus.industries with Operator CTA (doing)
+- [ ] Fix terminal pronunciation in video VO (open)

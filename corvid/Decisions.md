@@ -63,3 +63,4 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-26: [APPROVED] #48 YouTube short, too many tabs angle (via reaction)
 - 2026-10-26: [APPROVED] #49 Korvus video creative, angle one, tab overload (via reaction)
 - 2026-10-26: [APPROVED] #50 Add LodeStone section with Operator CTA (via reaction)
+- 2026-10-26: [APPROVED] #51 Add UTM tags to all outbound Korvus links (via reaction)
