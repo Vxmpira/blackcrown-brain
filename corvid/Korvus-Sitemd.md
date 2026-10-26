@@ -1,15 +1,22 @@
-# Korvus Site
+# Korvus-Site
 
-korvus.industries, repo prefix korvus:. No index.html, homepage is korvus_landing.html, other pages korvus_ prefixed at root.
+State of korvus.industries SEO, updated 2026-10-25.
 
-## Fixed live
-- korvus_landing.html: title and meta trimmed to limits (#21, DONE 2026-10-25).
-- trading_news_terminal.html: meta description, canonical, og:title merged (#22, DONE 2026-10-25).
+## Facts
+- Repo prefix korvus:. NO index.html. Homepage is korvus:korvus_landing.html. All pages at repo root, korvus_ prefixed or named directly.
+- Head tag merges proven live: #21 korvus_landing.html (title plus meta), #22 trading_news_terminal.html (meta, canonical, og:title).
 
-## Still owed
-- trading_news_terminal.html (29 pre fix): og:image, favicon, h1, body depth (112 words).
-- agent.html (34) and korvus_promo_studio.html (34): purpose unknown, scout mapping before I file head fixes.
-- blackcrown-bar.html (0): likely shared nav include, scout report in, read before acting. Same file exists in crown repo.
-- No og:image asset exists in the repo yet. Brand asset approved per [[Decisions]] #5, not built.
+## Audit scores (worst first)
+- blackcrown-bar.html: 0. 46 words, no head at all. Likely a shared nav component, scout verifying. Do not file head tags until purpose confirmed, may want noindex or audit exclusion instead.
+- trading_news_terminal.html: 29. Still owes og:image, favicon, h1, deeper body copy.
+- agent.html: 34. Purpose unknown, scout mapping.
+- korvus_promo_studio.html: 34. Purpose unknown, scout mapping.
+- korvus_dashboard.html: 42. Likely behind login, may want noindex over SEO. Confirm first.
 
-See [[Patterns]], [[Site-Audit]], [[Crown-Site]].
+## Next moves
+1. Scout confirms which pages are public vs internal.
+2. Public pages: full head merge (title, meta, canonical, og set, favicon) plus h1 and body depth.
+3. Internal pages and components: propose noindex or exclude from audit.
+4. Korvus needs its own og:image asset, separate from the approved brand card.
+
+Links: [[Patterns]], [[Site-Audit]], [[Strategy]]
