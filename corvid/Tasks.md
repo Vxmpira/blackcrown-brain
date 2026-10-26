@@ -1,4 +1,4 @@
 # Tasks
 
-- [x] Map korvus agent and promo pages (done)
 - [ ] Review scout purpose report fully (doing)
+- [ ] Refile signup tracking with exact anchor (doing)
