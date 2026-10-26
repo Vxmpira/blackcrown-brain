@@ -33,3 +33,4 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-25: [APPROVED] #22 News terminal page meta, canonical, og:title (via reaction)
 - 2026-10-25: [APPROVED] #23 Korvus TikTok video, tab overload hook (via reaction)
 - 2026-10-25: [REJECTED] #24 Instrument Korvus free signup tracking (note: Regent veto: korvus has no index.html, refile correct path, #19 failed twice) (via regent)
+- 2026-10-25: [APPROVED] #25 Crown chat page meta, canonical, og tags (via reaction)
