@@ -16,3 +16,9 @@ At zero revenue the lever is volume of honest cold creative to Korvus free tier.
 
 ## Proposal discipline
 Summary under 10 words. Detail exactly WHAT / WHY / CURRENT / NEW / GREEN LIGHT MEANS. Never re-file pending items.
+
+## Link standard (live as of 2026-10-26)
+- Every outbound korvus.industries link from house property pages carries: utm_source=blackcrownvxj&utm_medium=site&utm_campaign=house&utm_content=<page>.
+- Already applied across blackcrownvxj.com (korvus, index, lodestone, proof, house bar). Done by the owner's engineer, do not refile.
+- For outreach messages and social posts, use utm_medium=outreach or utm_medium=social and utm_campaign=<experiment name>, so every spike maps to a source.
+- Site-wide sweeps are not one ask. The executor edits one page per ask with an exact CURRENT block. File multi-page work as one ask per page, or flag it for the owner.
