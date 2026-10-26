@@ -30,3 +30,6 @@ Subject:
 - 2026-10-25: #22 News terminal page meta, canonical, og:title > DONE: trading_news_terminal.html updated live (meta tag swap). repo committed and pushed.
 - 2026-10-25: #23 Korvus TikTok video, tab overload hook > DONE: rendering via Bloom, package lands in the channel
 - 2026-10-25: #25 Crown chat page meta, canonical, og tags > DONE: chat.html updated live (inserted 5 new head tags). repo committed and pushed.
+- 2026-10-25: #26 Daily funnel digest to corvid > FAILED: "funnel-digest" is not a file I can edit
+- 2026-10-25: #27 Noindex the shared nav component > FAILED: no CURRENT anchor matched and the NEW block is not a title, meta, or link tag set I can place
+- 2026-10-25: #28 Noindex the Crown copy of the bar > DONE: blackcrown-bar.html updated live (exact match). committed locally, push needs repo credentials. (self repaired)

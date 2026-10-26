@@ -34,3 +34,6 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-25: [APPROVED] #23 Korvus TikTok video, tab overload hook (via reaction)
 - 2026-10-25: [REJECTED] #24 Instrument Korvus free signup tracking (note: Regent veto: korvus has no index.html, refile correct path, #19 failed twice) (via regent)
 - 2026-10-25: [APPROVED] #25 Crown chat page meta, canonical, og tags (via reaction)
+- 2026-10-25: [APPROVED] #26 Daily funnel digest to corvid (via reaction)
+- 2026-10-25: [APPROVED] #27 Noindex the shared nav component (via reaction)
+- 2026-10-25: [APPROVED] #28 Noindex the Crown copy of the bar (via reaction)
