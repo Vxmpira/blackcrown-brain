@@ -33,3 +33,4 @@ Subject:
 - 2026-10-25: #26 Daily funnel digest to corvid > FAILED: "funnel-digest" is not a file I can edit
 - 2026-10-25: #27 Noindex the shared nav component > FAILED: no CURRENT anchor matched and the NEW block is not a title, meta, or link tag set I can place
 - 2026-10-25: #28 Noindex the Crown copy of the bar > DONE: blackcrown-bar.html updated live (exact match). committed locally, push needs repo credentials. (self repaired)
+- 2026-10-25: #26 Daily funnel digest to corvid > DONE: job registered: "Daily funnel digest to corvid", daily at 08:30 ET, posts to corvid. The server runs it from now on, no Make needed.
