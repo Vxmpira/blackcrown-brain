@@ -39,3 +39,5 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-25: [APPROVED] #28 Noindex the Crown copy of the bar (via reaction)
 - 2026-10-25: [APPROVED] #26 Daily funnel digest to corvid (note: Owner ordered retry after failed execution) (via discord)
 - 2026-10-25: [APPROVED] #29 Add signup event tracking to Korvus (via reaction)
+- 2026-10-25: [APPROVED] #30 Noindex the Korvus nav component, merge path (via reaction)
+- 2026-10-25: [REJECTED] #31 Korvus hero headline A/B test (note: Regent veto: Wrong file, korvus has no index.html, and no exact CURRENT anchor) (via regent)

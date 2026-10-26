@@ -36,3 +36,4 @@ Subject:
 - 2026-10-25: #26 Daily funnel digest to corvid > DONE: job registered: "Daily funnel digest to corvid", daily at 08:30 ET, posts to corvid. The server runs it from now on, no Make needed.
 - 2026-10-25: #29 Add signup event tracking to Korvus > DONE: manual step, no SCHEDULE line found so I cannot register it as a server job. Paste this yourself or refile as kind job with SCHEDULE and CHANNEL lines:
 On signu
+- 2026-10-25: #30 Noindex the Korvus nav component, merge path > DONE: blackcrown-bar.html updated live (exact match). repo committed and pushed. (self repaired)
