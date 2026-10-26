@@ -39,3 +39,4 @@ On signu
 - 2026-10-25: #30 Noindex the Korvus nav component, merge path > DONE: blackcrown-bar.html updated live (exact match). repo committed and pushed. (self repaired)
 - 2026-10-25: #35 Daily quota tracker digest to corvid > DONE: job registered: "Daily quota tracker digest to corvid", daily at 09:00 ET, posts to corvid. The server runs it from now on, no Make needed.
 - 2026-10-25: #37 News terminal head tags, score 29 climb > DONE: trading_news_terminal.html updated live (meta tag swap). live only, repo not synced.
+- 2026-10-25: #38 Post Korvus video to YouTube > DONE: handed to the publisher for youtube; Make posts it through your own account connections
