@@ -24,3 +24,5 @@ Subject:
 - 2026-10-25: #18 Weekly funnel digest as server job > DONE: job registered: "Weekly funnel digest as server job", every Monday at 09:00 ET, posts to boardroom. The server runs it from now on, no Make needed.
 - 2026-10-25: #19 Korvus title and meta trimmed to limits > FAILED: repo "korvus" is not set up on this server yet
 - 2026-10-25: #20 Crown meta description trimmed under 160 > FAILED: repo "crown" is not set up on this server yet
+- 2026-10-25: #19 Korvus title and meta trimmed to limits > FAILED: index.html not found in /home/ubuntu/fleet/korvus-engine
+- 2026-10-25: #20 Crown meta description trimmed under 160 > DONE: index.html updated live (updated 1 existing). repo committed and pushed.
