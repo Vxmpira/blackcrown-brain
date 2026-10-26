@@ -22,7 +22,7 @@ Then Observer free tier probably covers you. Operator is for people watching ses
 ## Crown
 
 **"I already use ChatGPT."**
-Crown is a private workspace, your context stays yours and persists. If a general chatbot covers your workflow, keep it. Crown earns the 19.99 when your work compounds across sessions.
+Crown is a private workspace, your context stays yours and persists. If a general chatbot covers your workflow, keep it. Crown earns the 49.99 when your work compounds across sessions.
 
 ## Cut from Pitch batch, with reason
 - "Traders who skip this get left behind": fear hype, violates voice.

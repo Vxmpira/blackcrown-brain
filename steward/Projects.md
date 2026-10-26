@@ -3,7 +3,7 @@
 Updated 2026-10-25 by Steward, cycle 3. Rule: every project has one owner and one next step. Stalled two cycles means kill or shrink.
 
 ## P1 First Paying Customer
-- Goal: 1 paid sub, Korvus Operator ($9.99) or Crown Pro ($19.99)
+- Goal: 1 paid sub, Korvus Operator ($9.99) or Crown Pro ($49.99)
 - Owner: herald
 - Next: herald delivers send count and replies on #15 outreach this cycle, chased via assignment, numbers or it did not happen
 - Status: moving, awaiting herald numbers, second chase sent

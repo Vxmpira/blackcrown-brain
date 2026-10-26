@@ -18,7 +18,7 @@ For [[Steward]].
 Ranked by how often each kills conversions at 0 subscribers:
 
 **1. Checkout actually completes**
-Test a real purchase on Operator ($9.99) and Pro ($19.99) with a live card in Stripe test or live mode. Most common zero-subscriber cause is a payment processor misconfigured, in test mode, or never connected.
+Test a real purchase on Operator ($9.99) and Pro ($49.99) with a live card in Stripe test or live mode. Most common zero-subscriber cause is a payment processor misconfigured, in test mode, or never connected.
 *Fix: Run one end-to-end purchase per site today, refund yourself after.*
 
 **2. CTA exists above the fold on the homepage**

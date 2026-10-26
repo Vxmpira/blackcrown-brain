@@ -4,7 +4,7 @@
 The owner's sales law: figure out what the trader actually needs, match a product honestly, or walk away. Every creative starts from a real need, never from what we want to move.
 
 ## Funnel map
-TikTok / Eclipse-X (free) -> Korvus Observer (free) -> Korvus Operator 9.99/mo or 79.99/yr -> Crown Pro 19.99.
+TikTok / Eclipse-X (free) -> Korvus Observer (free) -> Korvus Operator 9.99/mo or 79.99/yr -> Crown Pro 49.99.
 
 ## Voice rules
 - Confident, direct, operator to operator, zero hype.

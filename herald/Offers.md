@@ -7,7 +7,7 @@ The whole futures market on one screen with a directional read, free to start, 9
 The Korvus read on your chart, included with Operator, nothing extra to buy.
 
 ## Crown (blackcrown-intelligence.com)
-A private AI workspace you can actually trust with your work, free chat, no card, Pro at 19.99.
+A private AI workspace you can actually trust with your work, free chat, no card, Pro at 49.99.
 
 ## Eclipse-X (Discord)
 A free room of operators building alone in trading, AI, and ecommerce, the front door to everything else.
