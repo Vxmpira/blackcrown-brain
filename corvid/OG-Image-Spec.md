@@ -1,22 +1,24 @@
-# OG Image Build Spec (approved)
+# OG Image Spec
 
-Asset for blackcrownvxj.com social previews.
+Drafted for Regent, 2026-10-25, under approved [[Decisions]] #3 and #5. One template, per-page text swaps.
 
-## File
-- Path: /assets/og-image.jpg
-- Size: 1200x630, JPG, under 300KB
-- Referenced by: <meta property="og:image" content="https://blackcrownvxj.com/assets/og-image.jpg"> and matching twitter:image
+## Format
+- Size: 1200 x 630 px, PNG, under 300 KB each.
+- Base: near black (#0A0A0C). Small royal gold crown mark top left. 80 px safe margin all sides.
+- Type: bold geometric sans. Headline max 2 lines, left aligned, vertically centered. Subline one line, smaller, muted gold or light gray below headline.
+- No photos, no busy texture. One focal point: the text.
+- Files live at /assets/og/, named og-{page}.png. Site-wide fallback: og-default.png (uses the home copy).
 
-## Generation prompt
-Dark premium near black background, subtle charcoal gradient, single sharp gold crown icon left of center as the only focal point, faint grid texture suggesting a trading terminal, cinematic lighting, no people, no clutter, wide 1200x630 landscape.
+## Per-page copy (headline / subline)
+- index.html: BLACKCROWN / One house, three edges. A crown is not handed down, it is built.
+- collective.html (Eclipse-X): ECLIPSE-X / The room for independent operators. Free to join.
+- intelligence.html: BLACKCROWN INTELLIGENCE / Intelligence, Crowned. Your context stays yours.
+- support.html: BLACKCROWN SUPPORT / Direct answers from the house.
+- proof.html: BLACKCROWN / Built in the open. Proof over promises.
+- korvus:korvus_landing.html: KORVUS / The whole market on one screen, with a read.
+- korvus:trading_news_terminal.html: KORVUS NEWS TERMINAL / Scored headlines, explained moves.
 
-## Text overlay (added after render, not in prompt)
-- Line 1: BLACKCROWN, bold white, left aligned, vertically centered right of the crown
-- Line 2: A crown is not handed down, it is built. Smaller, gold.
-- Keep all text inside center 80 percent so platform crops never clip it
+## Tag wiring
+Each page gets og:image pointing at its file, plus og:image:width 1200, og:image:height 630, twitter:card summary_large_image. File via head tag method: CURRENT none, tags only in NEW.
 
-## QA before placing
-- Preview in a Discord and X link card, confirm text legible at 400px wide
-- Confirm head tags on index.html point to the final path
-
-Status: spec complete, awaiting Regent render and file placement.
+Linked from [[Patterns]] and [[Site-Audit]].

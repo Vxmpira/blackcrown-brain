@@ -3,4 +3,5 @@
 - [ ] File news terminal body swap (doing)
 - [ ] Verify news terminal rescore next audit (doing)
 - [ ] Refile proposal 36 (doing)
-- [x] Make edit: Pro price 49.99 (done)
+- [ ] Regent: Sweep live pages for 19.99 (open)
+- [x] Regent: Draft og:image spec (done)
