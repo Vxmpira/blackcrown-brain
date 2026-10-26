@@ -54,3 +54,4 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-25: [APPROVED] #40 Noindex the agent app page (via reaction)
 - 2026-10-26: [APPROVED] #41 Noindex promo_studio.html (via reaction)
 - 2026-10-26: [APPROVED] #42 Noindex promo_studio.html, keep app pages out of search (via reaction)
+- 2026-10-26: [REJECTED] #41 Noindex promo_studio.html (note: promo_studio.html does not exist, only file against audit list pages) (via discord)
