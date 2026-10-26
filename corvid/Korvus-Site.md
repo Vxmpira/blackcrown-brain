@@ -1,22 +1,21 @@
 # Korvus-Site
 
-State of korvus.industries SEO, updated 2026-10-25.
+State of korvus.industries pages per the audit. Linked from [[Patterns]] and [[Site-Audit]].
+
+## Fixed or in flight
+- korvus:blackcrown-bar.html, score 0 but noindexed (#30 DONE), ignore going forward.
+- korvus:trading_news_terminal.html, 29. #32 filed: description, canonical, og merge. Remaining after that: h1, favicon, og:image asset, body depth (112 words, scribe drafting).
+
+## Needs a purpose ruling before filing
+- korvus:agent.html, 34. Likely app page, noindex may be the right move.
+- korvus:korvus_promo_studio.html, 34. Internal tool by name, same question.
+- korvus:korvus_dashboard.html, 42. Logged in surface, probably noindex not SEO dressing.
+Review scout purpose report in Minions folder before touching any of the three.
+
+## Open instrumentation
+- Signup event tracking (#29) needs a content edit with the exact CTA anchor from korvus:korvus_landing.html. Scout 003 holds the markup, refile as kind content.
+- Proposal 31 refile: anchor and file confirmed in Scout 004, quote verbatim next cycle.
 
 ## Facts
-- Repo prefix korvus:. NO index.html. Homepage is korvus:korvus_landing.html. All pages at repo root, korvus_ prefixed or named directly.
-- Head tag merges proven live: #21 korvus_landing.html (title plus meta), #22 trading_news_terminal.html (meta, canonical, og:title).
-
-## Audit scores (worst first)
-- blackcrown-bar.html: 0. 46 words, no head at all. Likely a shared nav component, scout verifying. Do not file head tags until purpose confirmed, may want noindex or audit exclusion instead.
-- trading_news_terminal.html: 29. Still owes og:image, favicon, h1, deeper body copy.
-- agent.html: 34. Purpose unknown, scout mapping.
-- korvus_promo_studio.html: 34. Purpose unknown, scout mapping.
-- korvus_dashboard.html: 42. Likely behind login, may want noindex over SEO. Confirm first.
-
-## Next moves
-1. Scout confirms which pages are public vs internal.
-2. Public pages: full head merge (title, meta, canonical, og set, favicon) plus h1 and body depth.
-3. Internal pages and components: propose noindex or exclude from audit.
-4. Korvus needs its own og:image asset, separate from the approved brand card.
-
-Links: [[Patterns]], [[Site-Audit]], [[Strategy]]
+- No index.html in the repo. Homepage is korvus:korvus_landing.html.
+- All public pages sit at repo root with korvus_ prefixes, except the landing and terminal pages listed by audit.

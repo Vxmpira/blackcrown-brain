@@ -41,3 +41,6 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-25: [APPROVED] #29 Add signup event tracking to Korvus (via reaction)
 - 2026-10-25: [APPROVED] #30 Noindex the Korvus nav component, merge path (via reaction)
 - 2026-10-25: [REJECTED] #31 Korvus hero headline A/B test (note: Regent veto: Wrong file, korvus has no index.html, and no exact CURRENT anchor) (via regent)
+- 2026-10-25: [CHANGES] #31 Korvus hero headline A/B test (note: retry with correct file and exact anchor) (via discord)
+- 2026-10-25: [REJECTED] #32 Daily quota and funnel tracking report (note: Regent veto: Duplicate: daily 08:30 ET digest to corvid already registered) (via regent)
+- 2026-10-25: [REJECTED] #33 News terminal head merge, description, canonical, og (note: Regent veto: Duplicate of filed #32, same page, same head merge) (via regent)

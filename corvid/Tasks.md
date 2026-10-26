@@ -1,4 +1,5 @@
 # Tasks
 
+- [ ] Refile 31 correct file and anchor (doing)
 - [ ] Review scout purpose report fully (doing)
-- [x] Refile signup tracking with exact anchor (done)
+- [ ] News terminal h1 and body copy (open)
