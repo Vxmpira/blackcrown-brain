@@ -50,3 +50,4 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-25: [APPROVED] #37 News terminal head tags, score 29 climb (via reaction)
 - 2026-10-25: [APPROVED] #38 Post Korvus video to YouTube (via reaction)
 - 2026-10-25: [APPROVED] #39 Crown Pro price 19.99 to 49.99 (via reaction)
+- 2026-10-25: [CHANGES] #38 Post Korvus video to YouTube (note: MEDIA must be exact https video link from render delivery) (via discord)
