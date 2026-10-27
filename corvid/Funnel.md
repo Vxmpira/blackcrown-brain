@@ -1,12 +1,19 @@
 # Funnel
 
-Current state of the money path, updated 2026-10-26.
+State of the money path, strangers to Korvus Operator. Updated 2026-10-26.
 
-- Top of funnel: TikTok Engine daily carousel, owner posts manually. YouTube short #48 rendering, first wired platform test.
-- blackcrownvxj.com home takes 25 of 30 weekly visits but only 2 product clicks leave it. Biggest leak in the funnel. See [[Patterns]].
-- korvus.industries landing now carries the LodeStone section with Operator CTA (#50 live). Pricing injects server side, never hardcode.
-- Blockers: brand homepage filename unknown, hero CTA anchor text unknown, minion pipe returning empty gists so both questions are stuck.
-- Zero Stripe subs, zero MRR. Traffic volume first, then home click-through to Korvus signup.
-- Next moves once unblocked: homepage hero link rewrite toward korvus.industries, what-moves /p/ page refile from note 066.
+## Current numbers (7d)
+- 30 visits total, prev week 0. 23 direct, 1 google, 1 youtube, 1 other. Mostly owner circle per the 23:00 ET spike.
+- Home 25 visits, 2 product clicks out (1 legacy collective key, 1 intelligence). Home is the leak.
+- Korvus signups: not surfaced in analytics yet. Stripe: 0 MRR, 0 subs.
+- UTM tags on outbound Korvus links shipped 2026-10-26; splits appear once traffic flows through them. #102 job will post daily splits.
 
-See [[Strategy]], [[Korvus-Site]].
+## Path
+TikTok and YouTube clips > brand home or korvus.industries > free Observer signup > Operator at 9.99 monthly or 79.99 annual.
+
+## Open gaps
+- Home click-through under 10 percent. Needs sharper product routing once traffic is real.
+- New SEO pages (/p/futures-news-terminal, /p/what-moves-the-market) are the organic intake; one refile each in flight.
+- Signup count not instrumented in my feed; Herald owns the 50 signup quota.
+
+See [[Patterns]], [[Strategy]], [[Korvus-Site]].
