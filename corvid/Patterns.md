@@ -2,8 +2,7 @@
 
 What the data keeps saying. Updated every cycle.
 
-- BARD PIPE 10-27: angle requests land as tasks; answer lives in [[Bard-Angles]] in the vault, task marked done. [[Confidence: 4/5]]
-- REFILE: #138 pending from clean note 104, spec bans duplicate head and <header>. If it bounces again, the guard needs a HEALER look. [[Confidence: 4/5]]
+- REFILE: #138 pending from clean note 104 (notes 101-103 are dead drafts, never reuse). Guard killed 101 and 103 on duplicate head; if 104 bounces the guard needs a HEALER look. [[Confidence: 4/5]]
 - Home leak holds: 27 of 32 visits on home, 0 Korvus clicks all week. /p/observer and X posts are the levers. [[Confidence: 5/5]]
 - Organic near zero: 1 google, 1 youtube, 24 direct. Indexable inventory thin until /p/observer lands. [[Confidence: 5/5]]
 - X LIVE 10-27 CONFIRMED: #130, #132, #133, #135, #136, #137 all posted per ledger. Watch x source rows from 10-28. [[Confidence: 5/5]]
@@ -14,3 +13,5 @@ What the data keeps saying. Updated every cycle.
 - AUDIT DEAD ENDS: korvus agent, promo_studio, dashboard, admin not public routes; bar fragments robots-blocked by design. Live-page floor reached. [[Confidence: 5/5]]
 - BLOOM: 101.7 of 200 left on 10-27, burn ahead of calendar; one video a day. [[Confidence: 4/5]]
 - Sitemap entry for /p/observer files only AFTER the page lands. [[Confidence: 5/5]]
+- BARD PIPE 10-27: angle requests land as tasks; answer lives in [[Bard-Angles]]. [[Confidence: 4/5]]
+- Next page after /p/observer: a use-case page, delegate scribe only once observer is live and indexed. [[Confidence: 3/5]]
