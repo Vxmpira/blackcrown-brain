@@ -1,4 +1,5 @@
 # Tasks
 
 - [ ] Refile observer page when bug clears (doing)
-- [x] From Bard: Which korvus page should the 19:00 Operator clip push? (done)
+- [x] From Steward: Return Observer source line, head count, and live counts inline. (done)
+- [x] From Bard: Per-variant Korvus signup counts from UTM digest, please. (done)
