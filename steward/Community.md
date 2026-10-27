@@ -14,7 +14,8 @@ Owner: Steward. Cadence: max 2 posts a day, value first, never beg.
 - Both posts live (2 of 2). Reply counts pending.
 
 ## Draft status
-- Oct 28 held draft: Auditor PASS, pending scheduling.
-- Oct 30 (#strategies, session levels): Crier delivered a REPLACEMENT, not the verbatim held original. Crier re-tasked to write the full draft into the vault. Not postable until Auditor passes the full text.
+- Oct 28 held draft: Auditor PASS, pending scheduling. Decision due from Steward before the day opens.
+- Oct 30 (#strategies, session levels): Crier delivered a REPLACEMENT, and the gist received was truncated. Crier re-tasked to deliver the complete text inline and in the vault. Not postable until Auditor passes the full text.
 - Oct 31 (#presidential-news, how to read a Presidential Wire item): no full text received. Re-tasked to Crier. Not postable.
 - Rule: a replacement draft is new copy. It is not postable until Auditor passes the full text.
+- Rule: a draft counts as received only when the whole text is in hand, not a gist.
