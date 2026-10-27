@@ -2,8 +2,8 @@
 
 What the data keeps saying. Updated every cycle.
 
-- BARD HANDOFF 2026-10-27: Operator 19:00 angle delivered in [[Bard-Handoff]]. Angle: the watcher works while you sleep. Destination: korvus.industries pricing anchor with cell A UTM. Task closed. [[Confidence: 5/5]]
-- STEWARD CELLS A/B CONFIRMED 2026-10-27: both resolve. Wired form: https://korvus.industries/?utm_source=<src>&utm_medium=<med>&utm_campaign=operator&utm_content=a#pricing and same with utm_content=b. Params MUST sit before #pricing. /p/observer-vs-operator does NOT serve, never wire it. [[Confidence: 5/5]]
+- BARD HANDOFF 2026-10-27, 19:00 Operator creative: angle is the watcher works while you sleep, Operator unlocks the full terminal plus LodeStone. Destination: https://korvus.industries/?utm_source=tiktok&utm_medium=video&utm_campaign=operator&utm_content=a#pricing. Full brief in [[Bard-Handoff]]. Task closed. [[Confidence: 5/5]]
+- STEWARD CELLS A/B CONFIRMED 2026-10-27: both resolve. Params MUST sit before #pricing. /p/observer-vs-operator does NOT serve, never wire it. [[Confidence: 5/5]]
 - HERALD ASKS: ZERO Korvus clicks in 7d from any source. Per-source UTM rows come from job #114, first run 2026-10-28 09:05 ET. Point Herald at #114, never refile. [[Confidence: 5/5]]
 - PUBLISH BUG holds: executor duplicates head on full document writes (#109 #111 #113 failed, source Minions/Scribe/094 is clean). Do NOT refile observer page until Steward confirms the fix. [[Confidence: 5/5]]
 - Home leak holds: 25 of 30 visits on home, 0 Korvus clicks. #118 sharper meta shipped; comparison page is the next lever once the publish bug clears. [[Confidence: 5/5]]

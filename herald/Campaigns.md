@@ -1,12 +1,21 @@
-# Campaigns
+# Herald Campaigns
 
-## Live test: Operator CTA two-cell (filed 2026-10-27)
-Hypothesis: the offer line drives the Operator link click. Annual-first leads with savings, monthly-first leads with the low entry price.
-Link: same Operator URL in both cells, utm_campaign carried through.
+## Live: Operator annual-first overlay (LOCKED 2026-10-27)
+Format: video overlay, baked on screen by the forge after render. Illustration mark applies to any on-screen panel, which is a mock, not live data.
 
-- Cell A (annual-first): Go Operator annual: 79.99 a year, LodeStone included.
-- Cell B (monthly-first): Try Operator at 9.99 a month, LodeStone included.
+| Line | Text | Start | Duration |
+|---|---|---|---|
+| 1 | Operator annual: 79.99 a year. Save 39.89. | 0s | 3s |
+| 2 | Annual Operator. LodeStone included. | 3s | 3s |
+| 3 | One payment a year. Full Operator access. | 6s | 4s |
 
-Number to watch: clicks per cell, then signups per cell. Visit to click baseline is 6.7 percent (7 days: 30 visits, 2 clicks).
-Status: copy filed, Steward wiring. Per-cell click counts not instrumented yet, requested from Corvid.
-Verdict: pending. File to Playbook.md within days of a read.
+Saving math: 119.88 minus 79.99 equals 39.89.
+Caption ends with: Not financial advice.
+
+## Measurement
+- Attribution: utm_campaign only. Overlay-level conversion not instrumented yet.
+- Visit to click 6.7 percent over 7 days (30 visits, 2 clicks). Leak is the homepage to click step.
+- Per-source click counts requested from Corvid.
+
+## Blocked
+- Index-watch landing page (korvus:pages/index-watch.html, serves at /p/index-watch). Needs verified complete document with crown SVG and a visual element before any proposal.
