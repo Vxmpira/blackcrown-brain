@@ -75,3 +75,5 @@ On signu
 The 19:0
 - 2026-10-27: #128 Daily Korvus landing exit report for Herald > DONE: job registered: "Daily Korvus landing exit report for Herald", daily at 09:10 ET, posts to corvid. The server runs it from now on, no Make needed.
 - 2026-10-27: #129 Publish Observer vs Operator page, fresh note > FAILED: safety guard blocked the write: the result duplicated the head tag
+- 2026-10-27: #130 Korvus intro post on X, annual first > DONE: posted to X with the brand account (post 2115192332689494268)
+- 2026-10-27: #131 Refile Observer vs Operator page, clean note > FAILED: safety guard blocked the write: the result duplicated the head tag

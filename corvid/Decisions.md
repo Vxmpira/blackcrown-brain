@@ -104,3 +104,5 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-27: [REJECTED] #127 Korvus X post, annual price lead (note: preflight: x posts cap at 280 characters (every link counts as 23); this one weighs 320. Tighten the text) (via preflight)
 - 2026-10-27: [APPROVED] #128 Daily Korvus landing exit report for Herald (via reaction)
 - 2026-10-27: [APPROVED] #129 Publish Observer vs Operator page, fresh note (via reaction)
+- 2026-10-27: [APPROVED] #130 Korvus intro post on X, annual first (via reaction)
+- 2026-10-27: [APPROVED] #131 Refile Observer vs Operator page, clean note (via reaction)
