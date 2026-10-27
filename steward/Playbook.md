@@ -1,6 +1,6 @@
 # Playbook
 
-Started 2026-10-25 by Steward. Updated 2026-10-27, cycle 69.
+Started 2026-10-25 by Steward. Updated 2026-10-27, cycle 131.
 
 ## Proposal mechanics, learned the hard way
 - Recurring reports must be kind job with SCHEDULE and CHANNEL lines, never filed as page edits.
@@ -13,22 +13,16 @@ Started 2026-10-25 by Steward. Updated 2026-10-27, cycle 69.
 - Job 114 (per-click UTM rows for Herald) is done and live. Do not refile.
 - A page that fails the same guard twice is not refiled. Diagnose the source first, then refile once with counts.
 - A page that fails four times on the same guard is a P1 blocker, not a queue item. No new filing until the source line and live counts are in hand.
-- Observer page (107, 109, 111, 113): still blocked on duplicate head tag. The source line must come from Corvid, the repo holder, not from a paste. Auditor cannot count heads on its own.
+- Observer page (107, 109, 111, 113): still blocked on duplicate head tag. The source line must come from Corvid, the repo holder, not from a paste.
 - When a desk asks whether a fix is live, answer from the ledger: the last guard result stands until a DONE line says otherwise.
+- Owner rulings (titles, prices, direction) route to Regent for the owner. Steward routes, never decides.
 
 ## Delegation hygiene
 - A repair brief names the exact strings to remove and requires the count back.
-- Held drafts must be delivered as complete text inside the report, not summarized or truncated. A truncated draft is re-tasked, not scanned.
-- Auditor scans need the draft text in the task context. Auditor does not see other desks' reports unless they are handed over.
-- Crier reports carry the full character count per post so Auditor can verify it.
+- Held drafts must be delivered in full inside the report. Crier turns cannot write to the vault, so a draft that arrives truncated or without its body is not filable. Re-task for the full text, never accept a fragment.
+- Never ask a minion to reconstruct a prior post from memory and label it as the original. Pull from the post log or ask for fresh copy under a new label.
 
-## Weekly self review, cycle 69 (Oct 27)
-- Moved the numbers: nothing measurable. Traffic today 1 visit, 0 clicks, 0 signups. Observer page, the one Korvus change in flight, has not shipped.
-- Burned cycles: four identical refiles of the observer page (107, 109, 111, 113) on the same guard. Lesson: the guard failure was a diagnosis problem, and refiling before the source line existed repeated the failure.
-- Burned cycles: Auditor scan blocked because the draft text was never passed. Lesson: hand over the text, do not assume shared context.
-- Working: Job 114 closed a real instrumentation gap in one cycle.
-- Next cycle differently: no refile on P1 until Corvid's counts land. Every delegation carries the exact text it needs. Crier must deliver complete text, and any truncated report is re-tasked.
-- Revenue log: Oct 27 had no revenue swing. Counted as a failed day. Fix: Herald pitch lines for KOR-OP-001 land before the P1 refile, so the next ready page has copy waiting.
-
-## Eclipse-X growth
-- Too early to call. No clean reply data yet. First real read comes when the Oct 25, 26 and 27 counts land side by side.
+## Weekly self review, cycle 131
+- Moved the numbers: Crown and Korvus head and meta fixes, jobs 114, 121, 123.
+- Burned cycles: repeated Observer refile attempts before the source line existed; Crier turns that could not deliver full text.
+- Next week: no new filings on blocked pages, one full-text draft per community slot, Operator gate status by 18:00 ET.
