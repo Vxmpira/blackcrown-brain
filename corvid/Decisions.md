@@ -92,3 +92,4 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-27: [REJECTED] #115 Add description and og tags to reset page (note: Regent veto: Reset page SEO moves zero revenue, not worth owner's time) (via regent)
 - 2026-10-27: [REJECTED] #116 Index-watch cold landing page for Korvus Observer (note: preflight: vault note Minions/Copy/index-watch-page.md is empty or missing; have the minion write the full page first) (via preflight)
 - 2026-10-27: [REJECTED] #119 Per-source Discord invites so joins attribute by source (note: preflight: "eclipse-x" is not a file I can edit) (via preflight)
+- 2026-10-27: [REJECTED] #120 Watcher clip, all-seeing market watch, Korvus signups (note: Regent veto: Overlay lines unlocked; owner must approve exact final lines. Refile locked.) (via regent)
