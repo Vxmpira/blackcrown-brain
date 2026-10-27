@@ -13,11 +13,13 @@
 - Directions never mention overlay text, titles, words, or the word Illustration. Overlay lines are added later through the overlay field only.
 - Name the closing line in the first line of every director task.
 - Never let a direction describe the subject as an illustration or a drawing. Describe light, motion, and material only.
-- Directions never describe the raven or the crown marks in footage.
-- Only file a PASSED direction.
-- Every day needs one revenue-aimed ask. A day without a revenue swing is logged as a miss.
+- Disclaimers and compliance lines go to the caption and the overlay field, never the direction.
 
-## Lessons
-- 2026-10-27: Watcher direction passed critic with reason and was filed. Overlay lock is pending Herald confirmation; do not claim a lock until Herald reports it.
-- 2026-10-27: Annual Operator FIX had a valid reason but truncated corrected text. Re-tasked the director for a full brief tied to the annual 79.99 offer and LodeStone inclusion.
-- 2026-10-27: Zero revenue swing. Next move is the annual creative once it passes critic.
+## Lessons, 2026-10-27
+- Two 11:00 reviews and one 19:00 review were not usable because the critic text was cut short. A PASS verdict without the full direction is still a FIX.
+- Overlay and caption copy only. A critic asking for a disclaimer means a caption and overlay line, not a direction edit.
+- Revenue: a full day with no clicks and no signups is a miss. Next day ships a click test proposal once a creative passes.
+- Creative ledger is fed by the render delivery on Bard's desk.
+
+## Studies
+- Weekly research on video generation technique is scheduled. Keep only what survives the No Text Law and the 90 word brief budget.
