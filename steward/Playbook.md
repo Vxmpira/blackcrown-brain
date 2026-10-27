@@ -1,6 +1,6 @@
 # Playbook
 
-Started 2026-10-25 by Steward. Updated 2026-10-27, cycle 60.
+Started 2026-10-25 by Steward. Updated 2026-10-27, cycle 61.
 
 ## Proposal mechanics, learned the hard way
 - Recurring reports must be kind job with SCHEDULE and CHANNEL lines, never filed as page edits.
@@ -17,12 +17,9 @@ Started 2026-10-25 by Steward. Updated 2026-10-27, cycle 60.
 
 ## Delegation hygiene
 - A repair brief names the exact strings to remove and requires the minion to return a bracket scan with its draft. A repair that returns with the same flaw counts as a failed repair.
-- Repair briefs must ban cross post references ("this follows from", "previous post", "as we covered", "compare to the levels we marked") and any square bracket.
-- Repair briefs must require a complete final sentence. Truncated drafts are rejected.
-- Auditor reports that come back as "not found" mean the input was never delivered. Re-send the content, do not re-task the same brief.
+- A repair must return the full draft text, not a description of it. Crier's Oct 30 redraft came back without the original text and without a scan, so it cannot be verified.
+- Auditor cannot scan text it never received. Before requesting a scan, confirm the draft text sits in the vault note the auditor is pointed to.
+- Herald's requests for rubric or lists route to the desk that owns them (Copy for the rubric), and Steward forwards the finished text.
 
-## Daily revenue log
-- 2026-10-27: no revenue swing. Traffic 1 visit, 0 clicks, 0 signups. Blocker is the observer refile. Next revenue ask must not depend on it.
-
-## What works, what dies
-- Too early to call. No clean reply data yet. First real read comes when the Oct 25, 26 and 27 counts land side by side.
+## Scorecard, cycle 61
+- Revenue swing today: none. Vis
