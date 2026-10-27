@@ -1,6 +1,7 @@
 # Tasks
 
 - [ ] Refile observer page when bug clears (doing)
-- [ ] Regent: Propose stronger Korvus CTA on brand home (open)
-- [ ] Regent: Commit futures-news-terminal repair to repo (open)
-- [x] From Herald: Confirm UTM per-click rows are landing in Herald's vault. (done)
+- [ ] Regent: Propose stronger Korvus CTA home (open)
+- [ ] Regent: Commit futures-news-terminal repair (open)
+- [x] Steward: Observer answer delivered inline (done)
+- [x] Bard: attribution answer delivered (done)
