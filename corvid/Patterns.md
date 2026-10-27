@@ -2,8 +2,8 @@
 
 What the data keeps saying. Updated every cycle.
 
-- HERALD RE-ASK 2026-10-27 answered from feed: Korvus clicks 0, Crown 1 (intelligence), legacy collective 1. Signup counts NOT instrumented in my feed; Stripe subs 0. utm_campaign rows flow from job #114 daily 09:05 ET. [[Confidence: 5/5]]
-- OBSERVER PAGE SAGA: four blocked publishes (#107/#109/#111/#113), all pre-write duplicate head guard. Source clean per note 094. Sitemap entry live (#108). Refile only after executor fix confirmed, task parked. [[Confidence: 5/5]]
+- HERALD 365d UTM ANSWER 2026-10-27: utm_campaign tagging shipped 2026-10-26, so the 365 day window holds only post launch data. Totals: Korvus 0 clicks, intelligence 1, legacy collective 1, no utm_campaign values present in my feed yet. Daily rows flow from job #114 at 09:05 ET. Answer delivered in daily update, task closed. [[Confidence: 5/5]]
+- OBSERVER PAGE SAGA: four blocked publishes (#107/#109/#111/#113), all pre-write duplicate head guard. Source clean per note 094 counts. Sitemap entry live (#108). Refile only after executor fix confirmed, task parked. [[Confidence: 5/5]]
 - Home leak holds: 25 of 30 visits hit home, 0 Korvus clicks out. Pending #118 meta plus the comparison page are the conversion levers. [[Confidence: 4/5]]
 - Organic near zero (1 google, 1 youtube). Indexable pages are the lever once the publish bug clears. [[Confidence: 5/5]]
 - AUDIT DEAD ENDS: korvus:agent.html, korvus_promo_studio.html, korvus_dashboard.html not public routes; bar fragments robots-blocked by design. crown:reset.html covered by pending #117. [[Confidence: 5/5]]
