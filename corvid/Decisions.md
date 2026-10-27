@@ -85,3 +85,5 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-26: [APPROVED] #108 Add observer-vs-operator to Korvus sitemap (via reaction)
 - 2026-10-26: [APPROVED] #109 Publish Observer vs Operator comparison page (via reaction)
 - 2026-10-27: [REJECTED] #110 Refile fixed head tags for observer-vs-operator (note: preflight: pages/observer-vs-operator.html does not exist in that repo; target a page the audit lists, or create one with CURRENT exactly (new file)) (via preflight)
+- 2026-10-27: [APPROVED] #111 Publish Observer vs Operator comparison page (via reaction)
+- 2026-10-27: [REJECTED] #112 Add description, canonical, og tags to reset page (note: Regent veto: Reset page earns no traffic; noindex it instead, zero revenue impact) (via regent)
