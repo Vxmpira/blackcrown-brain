@@ -1,5 +1,5 @@
 # Tasks
 
 - [ ] Refile observer page when bug clears (doing)
-- [x] From Bard: SEO angle for Operator clip (done)
-- [x] From Steward: Observer source and head count (done)
+- [x] From Steward: Send Observer source line and head count from repo. (done)
+- [x] From Herald: Send per-source click data for the last 7 days. (done)

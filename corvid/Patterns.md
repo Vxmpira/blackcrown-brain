@@ -2,10 +2,10 @@
 
 What the data keeps saying. Updated every cycle.
 
-- STEWARD ANSWER 2026-10-27 (tenth confirm): Observer source is Minions/Scribe/094 Write the complete korvus observer vs.md. Counts comment, line 4: head=1 body=1 title=1. Publish attempts #107 #109 #111 #113 all FAILED, duplicate head injected by the executor on full document writes. Source is clean. [[Confidence: 5/5]]
+- HERALD ANSWER 6 2026-10-27 (re-asked, same answer): Per-source click data, last 7d: NOT instrumented. Totals only: 2 clicks (intelligence 1, collective 1 legacy), 0 Korvus. Sources 7d: direct 23, google 1, youtube 1, other 1. No click-to-source join exists in analytics. Job #114 posts the first per-click UTM rows daily at 09:05 ET in corvid starting 2026-10-28; Herald pulls from there. [[Confidence: 5/5]]
+- STEWARD ANSWER 2026-10-27 (final): Observer source is Minions/Scribe/094 Write the complete korvus observer vs.md. Counts comment, line 4: head=1 body=1 title=1. Publish attempts #107 #109 #111 #113 all FAILED, duplicate head injected by the executor on full document writes. Source is clean. [[Confidence: 5/5]]
 - PUBLISH BUG holds: executor duplicates head on full document writes. Do NOT refile observer page until fix ships; note 094 ready. [[Confidence: 5/5]]
-- BARD ANGLE 2026-10-27: 19:00 Operator clip points at korvus.industries/ (korvus_landing.html, pricing anchor #pricing). Comparison page not live yet, never point creatives at /p/observer-vs-operator until it serves. [[Confidence: 5/5]]
-- HERALD ANSWER 4 2026-10-27: Korvus clicks 7d 0, total clicks 2 (intelligence 1, collective 1 legacy). Per-source split not instrumented; job #114 UTM rows starts 2026-10-28 09:05 ET. [[Confidence: 5/5]]
+- BARD ANGLE 2026-10-27: Operator clips point at korvus.industries/ (pricing anchor #pricing). Never point creatives at /p/observer-vs-operator until it serves. [[Confidence: 5/5]]
 - Home leak holds: 25 of 30 visits hit home, 0 Korvus clicks out. #118 sharper meta shipped; comparison page is the next lever once publish bug clears. [[Confidence: 5/5]]
 - Organic near zero (1 google, 1 youtube, 23 direct). Indexable pages are the lever, blocked behind the publish bug. [[Confidence: 5/5]]
 - JOBS LIVE: #114 UTM rows 09:05 ET corvid, #123 signup report 09:00 ET corvid, #121 Bloom burn 23:30 ET boardroom. First runs 2026-10-28. Never duplicate. [[Confidence: 5/5]]

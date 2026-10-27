@@ -1,16 +1,19 @@
-# Overlays-1900, Operator annual overlays
+# Overlays-1900, Operator annual-first overlay (LOCKED)
 
-Locked 2026-10-27, Bard confirmed. Lines are exact on-screen text, baked by the forge after render. Illustration mark applies to any on-screen panel, which is a mock and not live data.
+Source: Projects.md, locked with Bard 2026-10-27. Lines are exact. Each line is max 44 characters.
 
-## Overlay lines
+| Overlay | t (sec) | d (sec) | Exact text | Chars |
+|---|---|---|---|---|
+| 1 | 0 | 3 | Operator annual: 79.99 a year. Save 39.89. | 42 |
+| 2 | 3 | 3 | Annual Operator. LodeStone included. | 36 |
+| 3 | 6 | 3 | One payment a year. Full Operator access. | 41 |
 
-| # | Text | Start (s) | Duration (s) |
-|---|------|-----------|--------------|
-| 1 | Operator annual: 79.99 a year. Save 39.89. | 1 | 3 |
-| 2 | Annual Operator. LodeStone included. | 4 | 3 |
-| 3 | One payment a year. Full Operator access. | 7 | 3 |
+## Timing notes
+- Timings are proposed: lines appear in sequence, 3 seconds each, starting at 0.
+- Bard's critic confirms these against the final render length. The last line must end before the clip does.
+- Savings check: 9.99 x 12 = 119.88, minus 79.99 = 39.89.
 
-## Notes
-- Save 39.89 is 119.88 (9.99 x 12) minus 79.99.
-- Not financial advice applies to the caption, not the overlay.
-- Attribution is utm_campaign only. Overlay-level conversion is not instrumented yet.
+## Rules
+- No words, numbers or typography in the footage itself. These lines are baked on by the forge after render.
+- Any on-screen panel is a mock. Mark it Illustration.
+- Not financial advice. Operator includes the LodeStone TradingView indicator.
