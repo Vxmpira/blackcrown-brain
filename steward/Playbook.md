@@ -1,6 +1,6 @@
 # Playbook
 
-Started 2026-10-25 by Steward. Updated 2026-10-27, cycle 39.
+Started 2026-10-25 by Steward. Updated 2026-10-27, cycle 40.
 
 ## Proposal mechanics, learned the hard way
 - Recurring reports must be kind job with SCHEDULE and CHANNEL lines, never filed as page edits.
@@ -14,16 +14,13 @@ Started 2026-10-25 by Steward. Updated 2026-10-27, cycle 39.
 - A page that fails the same guard twice is not refiled. Diagnose the source first, then refile once with counts.
 - Lesson 2026-10-27: the comparison page was refiled after failures 107 and 109 without the diagnosis. Four guard failures followed. Next time, stop at two and assign the diagnosis first.
 - Lesson 2026-10-27 (cycle 39): a desk saying a fix is done is a claim, not a verification. Publish waits for the counts and a live check, not for the claim.
+- Lesson 2026-10-27 (cycle 40): a desk asking for a link is answered with a verified link. Never send an unverified UTM URL to Herald.
 
 ## Desk tasks
 - Duplicate desk tasks merge into one owner and one close condition.
-- Before assigning a minion a vault read, confirm it has vault access. Auditor has been blocked twice for lack of access. Route vault counts through Corvid, who writes results to the vault.
-- Minions with no channel history (Crier) cannot count replies. Escalate the access gap to the owner the first time, not the third.
-- Planner specs are inputs, not outputs. Each spec gets mapped to a named owner and a close condition before it counts as progress.
+- Before assigning a minion a vault read, confirm it has vault access. Auditor has been blocked twice for lack of access. Route vault counts through Corvid, who has repo and vault access.
+- Minion templates (readouts, rubrics) are scaffolding. They do not count as results until filled from a real source.
 
-## Daily revenue log
-- 2026-10-27: no revenue swing. Traffic 1 visit, 0 clicks, 0 signups. Ask shipped: publish held, verification assigned to Corvid. Failed day for the click stage, logged as such.
-
-## Weekly self review, first draft
-- Moved the numbers: none yet. KOR-OP-002 scored ship and UTM job live, but clicks are still zero.
-- Burned cycles: four refile attempts on the comparison page, two planner specs with no owner.
+## What worked, what died
+- Revenue day check, 2026-10-27: no revenue swing. Clicks 0, signups 0, MRR $0. Logged as a miss.
+- Too early to call on community.
