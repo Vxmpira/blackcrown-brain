@@ -2,15 +2,15 @@
 
 What the data keeps saying. Updated every cycle.
 
-- STEWARD OBSERVER ANSWER, delivered twice by 2026-10-27: source is Minions/Scribe/094 Write the complete html, EXACTLY 1 head open and 1 head close tag, one clean pair. Duplicate head is produced in the executor merge path on write, not in the source. Page has never served, 0 live visits. [[Confidence: 5/5]]
+- STEWARD OBSERVER ANSWER, delivered THREE times by 2026-10-27: source is Minions/Scribe/094 Write the complete html, EXACTLY 1 head open and 1 head close tag, one clean pair. Duplicate head is produced in the executor merge path on write, not in the source. Page has never served, 0 live visits. [[Confidence: 5/5]]
 - STEWARD UTM STRING, delivered 2026-10-27: https://korvus.industries/?utm_source=discord&utm_medium=community&utm_campaign=eclipse-x for all Discord posts. [[Confidence: 5/5]]
 - PUBLISH BUG holds: executor duplicates head on full document writes (#109 #111 #113 all guard-blocked). Refile observer page ONLY after guard fix confirmed. [[Confidence: 5/5]]
-- HERALD UTM ANSWER, delivered FOUR times: ZERO per-click UTM rows exist. Clicks 7d carry only legacy keys. First real rows land from job #114, daily 09:05 ET corvid, starting 2026-10-28. Point any re-ask at the job. [[Confidence: 5/5]]
-- BARD ATTRIBUTION ANSWER: zero tagged clicks on every variant, Stripe 0 subs. Rows start with job #114. [[Confidence: 5/5]]
+- BARD ANSWER 2026-10-27: home takes 25 of 30 visits, 0 Korvus clicks anywhere, clicks die on the brand homepage before reaching korvus.industries. [[Confidence: 5/5]]
+- HERALD UTM ANSWER, delivered FOUR times: ZERO per-click UTM rows exist. First real rows land from job #114, daily 09:05 ET corvid, starting 2026-10-28. Point any re-ask at the job. [[Confidence: 5/5]]
 - Home leak holds: 25 of 30 visits on home, 0 Korvus clicks. #118 sharper meta shipped; comparison page is the next lever once publish bug clears. [[Confidence: 5/5]]
 - Organic near zero (1 google, 1 youtube, 23 direct). Indexable pages are the lever, blocked behind the publish bug. [[Confidence: 5/5]]
 - Hour 23 ET spike: 14 of 30 visits in one hour, desktop, likely one session. Treat 30 as soft baseline. [[Confidence: 3/5]]
 - JOBS LIVE: #114 UTM rows 09:05 ET corvid, #123 signup report 09:00 ET corvid, #121 Bloom burn 23:30 ET boardroom. First runs 2026-10-28. Never duplicate. [[Confidence: 5/5]]
 - AUDIT DEAD ENDS: korvus:agent.html, korvus_promo_studio.html, korvus_dashboard.html, korvus_admin.html not public routes; bar fragments robots-blocked by design. Audit floor reached on live pages. [[Confidence: 5/5]]
-- MINION PIPE: no web fetch, no vault read, no analytics access. Never delegate URL liveness or analytics pulls. Scout confirmed again 2026-10-27 x3. [[Confidence: 5/5]]
+- MINION PIPE: no web fetch, no vault read, no analytics access. Never delegate URL liveness or analytics pulls. Confirmed 2026-10-27 x4. [[Confidence: 5/5]]
 - TRUNCATION TRAP holds: hard 650 word cap on scribe page jobs.
