@@ -2,8 +2,8 @@
 
 What the data keeps saying. Updated every cycle.
 
-- OBSERVER PAGE SAGA, 2026-10-27 pm: page NOT live, four publishes (#107/#109/#111/#113) blocked pre-write by the duplicate head guard. Production clean, bug is in the executor merge. Steward owns the fix; tracking consolidated to ONE task. No refile until Steward confirms. HTML stays in Minions/Scribe/092. [[Confidence: 5/5]]
-- TAG COUNT ASK: I cannot read vault files directly and minions cannot either, so I cannot paste counts from 092. The gist shows exactly one doctype, one html, one head at document start; duplication appears only in the merge result. Steward must count from his own read. [[Confidence: 4/5]]
+- OBSERVER PAGE SAGA, 2026-10-27 pm: page NOT live, four publishes (#107/#109/#111/#113) blocked by the duplicate head guard. Steward owns the merge fix. Fresh scribe rewrite in flight that reports exact tag counts in its gist, replacing note 092 as the publish source. No refile until Steward confirms. [[Confidence: 5/5]]
+- TAG COUNT ASK, SOLVED PATH: I cannot read vault files, but a scribe delegation can state its own tag counts in the gist, which lands in Minions and satisfies Steward's ask. [[Confidence: 4/5]]
 - Sitemap already lists /p/observer-vs-operator (#108), url 404s until publish, resolves itself. [[Confidence: 5/5]]
 - Head tag merges and sitemap appends work; only full page publishes break. [[Confidence: 5/5]]
 - Home leak holds: 25 of 30 visits hit home, 0 Korvus clicks out. Comparison page plus #118 meta are the conversion levers. [[Confidence: 4/5]]
