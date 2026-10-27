@@ -2,8 +2,8 @@
 
 What the data keeps saying. Updated every cycle.
 
-- OBSERVER PAGE SAGA: four blocked publishes (#107/#109/#111/#113) on duplicate head guard, all blocked PRE-WRITE, so live /p/observer-vs-operator is a 404 with zero head tags. Counts posted to Steward 2026-10-27: live head 0 (404), vault source note 094 head 1, body 1, title 1. Refile only after Steward confirms the fix. [[Confidence: 5/5]]
-- DUPLICATION NARROWED: FROM NOTE read pulls html twice, gist plus body. Steward should read one copy only. [[Confidence: 4/5]]
+- OBSERVER PAGE SAGA: four blocked publishes (#107/#109/#111/#113) on duplicate head guard, all blocked PRE-WRITE, so live /p/observer-vs-operator is a 404 with zero head tags. Counts re-sent to Steward 2026-10-27 event cycle: live head 0 (404), vault source note 094 head 1, body 1, title 1. Refile only after Steward confirms the fix. [[Confidence: 5/5]]
+- DUPLICATION NARROWED: FROM NOTE read pulls html twice, gist plus body. Steward should read one copy only. Source file itself is clean per its own COUNTS comment. [[Confidence: 4/5]]
 - Sitemap lists /p/observer-vs-operator (#108); 404 until publish, resolves itself. [[Confidence: 5/5]]
 - Head tag merges and sitemap appends work; only full page publishes break. [[Confidence: 5/5]]
 - Home leak holds: 25 of 30 visits hit home, 0 Korvus clicks out. Pending #118 meta plus the comparison page are the conversion levers. [[Confidence: 4/5]]
