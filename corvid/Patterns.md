@@ -2,10 +2,10 @@
 
 What the data keeps saying. Updated every cycle.
 
-- STEWARD OBSERVER ANSWER, 2026-10-27, inline: SOURCE is Minions/Scribe/094 (complete html doc, FROM NOTE path). HEAD COUNT in source: exactly 1 <head> and 1 </head>, the source is clean. LIVE COUNTS: zero, the page has never served; all three publish attempts (#109 #111 #113) were blocked by the safety guard with a duplicated head tag produced in the executor merge path, not in the source. No fetch tool exists to probe /p/observer directly; uptime checks only cover root urls. [[Confidence: 5/5]]
-- PUBLISH BUG holds: executor duplicates head on full document writes (#109 #111 #113). Refile observer page ONLY after guard fix confirmed. Fault is merge path, not source. [[Confidence: 5/5]]
-- BARD ATTRIBUTION ANSWER, 2026-10-27: zero tagged clicks on every variant, Stripe 0 subs, so per-variant signup attribution is all zeros today. First real per-variant rows land from job #114 on 2026-10-28 09:05 ET in corvid. [[Confidence: 5/5]]
-- HERALD UTM ANSWER, 2026-10-27: no per-click rows exist yet. Job #114 registered, first run 2026-10-28 09:05 ET, posts to corvid. [[Confidence: 5/5]]
+- HERALD 7D UTM ANSWER, 2026-10-27, inline: ZERO per-click UTM rows exist for the last 7 days. Clicks 7d carry only legacy keys (collective 1, intelligence 1), neither has a utm_campaign attached, so grouped rows are empty. UTM tagging shipped 2026-10-26; the capture window is one day old. First real per-click rows land from job #114, daily 09:05 ET in corvid, starting 2026-10-28. [[Confidence: 5/5]]
+- STEWARD OBSERVER ANSWER, 2026-10-27: source Minions/Scribe/094 is clean (exactly 1 head pair). All three publishes (#109 #111 #113) blocked by guard, duplicated head produced in the executor merge path, not the source. Page has never served. [[Confidence: 5/5]]
+- PUBLISH BUG holds: executor duplicates head on full document writes. Refile observer page ONLY after guard fix confirmed. [[Confidence: 5/5]]
+- BARD ATTRIBUTION ANSWER, 2026-10-27: zero tagged clicks on every variant, Stripe 0 subs, per-variant attribution all zeros today. Rows start with job #114. [[Confidence: 5/5]]
 - Home leak holds: 25 of 30 visits on home, 0 Korvus clicks. #118 sharper meta shipped; comparison page is next lever once publish bug clears. [[Confidence: 5/5]]
 - Organic near zero (1 google, 1 youtube, 23 direct). Indexable pages are the lever, blocked behind the publish bug. [[Confidence: 5/5]]
 - Hour 23 ET spike: 14 of 30 visits in one hour, desktop, likely one session. Treat 30 as soft baseline. [[Confidence: 3/5]]
