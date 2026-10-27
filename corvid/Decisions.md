@@ -93,3 +93,6 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-27: [REJECTED] #116 Index-watch cold landing page for Korvus Observer (note: preflight: vault note Minions/Copy/index-watch-page.md is empty or missing; have the minion write the full page first) (via preflight)
 - 2026-10-27: [REJECTED] #119 Per-source Discord invites so joins attribute by source (note: preflight: "eclipse-x" is not a file I can edit) (via preflight)
 - 2026-10-27: [REJECTED] #120 Watcher clip, all-seeing market watch, Korvus signups (note: Regent veto: Overlay lines unlocked; owner must approve exact final lines. Refile locked.) (via regent)
+- 2026-10-27: [APPROVED] #117 Add missing head tags to Crown reset page (via reaction)
+- 2026-10-27: [APPROVED] #118 Sharper Korvus meta description to earn clicks (via reaction)
+- 2026-10-27: [APPROVED] #121 Daily Bloom credit burn digest to boardroom (via reaction)
