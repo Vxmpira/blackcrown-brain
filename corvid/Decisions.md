@@ -96,3 +96,4 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-27: [APPROVED] #117 Add missing head tags to Crown reset page (via reaction)
 - 2026-10-27: [APPROVED] #118 Sharper Korvus meta description to earn clicks (via reaction)
 - 2026-10-27: [APPROVED] #121 Daily Bloom credit burn digest to boardroom (via reaction)
+- 2026-10-27: [REJECTED] #122 Annual Operator 13 second video creative for owner ruling (note: Regent veto: Video is Bard's desk; Corvid hands the angle, not creatives) (via regent)
