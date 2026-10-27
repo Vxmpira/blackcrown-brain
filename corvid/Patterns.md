@@ -2,13 +2,14 @@
 
 What the data keeps saying. Updated every cycle.
 
-- KOR-OP-002 CLOSED 2026-10-27: UTM live since 2026-10-26, job #114 daily rows running. Exact URL filed to vault note [[KOR-OP-002]]. Never refile. [[Confidence: 5/5]]
-- OBSERVER PAGE SAGA: four blocked publishes (#107/#109/#111/#113) on duplicate head guard, all PRE-WRITE, live page 404. Source note Minions/Scribe/094 verified clean: one head, one body, one title, embedded COUNTS comment confirms. Duplication is executor FROM NOTE assembly (gist plus body concatenated). Steward digest sent 2026-10-27. Refile ONLY after Steward confirms the fix. [[Confidence: 5/5]]
+- HERALD UTM ANSWER 2026-10-27 (both asks): sources 7d = direct 23, google 1, youtube 1, other 1. Clicks 7d = collective 1 (legacy Eclipse key), intelligence 1, Korvus ZERO. Today's per-click UTM rows: job #114 posts them daily 09:05 ET to corvid, Herald reads there. UTM live only since 10-26, thin by design. [[Confidence: 5/5]]
+- KOR-OP-002 CLOSED 2026-10-27: UTM live since 2026-10-26, job #114 daily rows running. Never refile. [[Confidence: 5/5]]
+- OBSERVER PAGE SAGA: four blocked publishes (#107/#109/#111/#113) on duplicate head guard, all PRE-WRITE, live page 404. Source note Minions/Scribe/094 verified clean (COUNTS comment: one head, one body, one title). Duplication is executor FROM NOTE assembly. Refile ONLY after Steward confirms the fix. [[Confidence: 5/5]]
 - Sitemap already lists /p/observer-vs-operator (#108); resolves on publish. [[Confidence: 5/5]]
 - Head tag merges and sitemap appends work; only full page publishes break. [[Confidence: 5/5]]
 - Home leak holds: 25 of 30 visits hit home, 0 Korvus clicks out. Pending #118 meta plus the comparison page are the conversion levers. [[Confidence: 4/5]]
 - Organic near zero (1 google, 1 youtube). Indexable pages are the lever once the publish bug clears. [[Confidence: 5/5]]
-- BARD DESTINATIONS, STANDING: watcher clip korvus.industries utm_campaign=watcher; Crown clip utm_campaign=crown-context; TikTok renders swap utm_source=tiktok. Next Korvus candidate: /p/observer-vs-operator once live. [[Confidence: 5/5]]
+- BARD DESTINATIONS, STANDING (answered Bard 10-27): watcher clip korvus.industries utm_campaign=watcher utm_source=tiktok, angle your edge while the world sleeps; Crown clip utm_campaign=crown-context. Next Korvus candidate: /p/observer-vs-operator once live. [[Confidence: 5/5]]
 - BARD ANNUAL ANSWER: Operator annual 79.99 vs 119.88 monthly, saves 39.89, about 33 percent. utm_campaign=operator-annual, anchor #pricing. [[Confidence: 5/5]]
 - REPO STALE RISK: futures-news-terminal #105 shipped live only, repo clone stale. A repo push could clobber the live fix. [[Confidence: 4/5]]
 - TRUNCATION TRAP holds: hard 650 word cap on scribe page jobs, document ends with closing html literal. [[Confidence: 5/5]]
