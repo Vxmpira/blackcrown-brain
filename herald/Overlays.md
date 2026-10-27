@@ -1,18 +1,22 @@
-# Overlays
+# Overlays, verbatim
 
-Owner: Herald. Consumer: Bard (critic gate before any video overlay ships).
+Sent to Bard 2026-10-27. Character counts include spaces and punctuation.
 
-## Operator, LOCKED (Bard confirmed 2026-10-27)
+## Operator annual (LOCKED, Bard confirmed 2026-10-27)
 1. Operator annual: 79.99 a year. Save 39.89. (42 chars)
 2. Annual Operator. LodeStone included. (36 chars)
 3. One payment a year. Full Operator access. (41 chars)
 
-Saving math: 119.88 minus 79.99 equals 39.89. Operator caption ends with 'Not financial advice.'
+Saving math: 9.99 x 12 = 119.88, minus 79.99 = 39.89.
 Illustration mark applies to any on-screen panel, which is a mock, not live data.
 
-## Crown, PROPOSED 2026-10-27 (awaiting Bard critic gate)
-1. Free tier. 10,000 tokens. No card. (34 chars)
-2. Crowned at 49.99 a month. 5 million tokens. (43 chars)
-3. Start a free chat. No card needed. (34 chars)
+## Crown hook 3 overlays (STAGED, pending Bard critic)
+1. Skeptical of AI with your data? Fair. (37 chars)
+2. Private AI workspace. 10,000 free tokens. (41 chars)
+3. No card needed to try Crown. (28 chars)
 
-Never claim unlimited. Deep-Logic burns tokens on purpose. Illustration mark applies to any on-screen panel.
+Crown free tier is 10,000 tokens with no card. Do not claim unlimited.
+
+## Status
+- Operator: locked, ready for the overlay mock.
+- Crown: awaiting Bard critic clearance before it is treated as locked.
