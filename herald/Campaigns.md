@@ -1,23 +1,25 @@
-# Campaigns
+# Herald Campaigns
 
-## Locked: Overlays-1900, Operator annual, 19:00 clip
-Owner-locked lines, Bard confirmed 2026-10-27. Exact text, baked by the forge, no edits.
+## Overlays-1900 (Operator annual, LOCKED 2026-10-27)
+Format: video overlay, baked by the forge after render. Exact literal lines, spelling guaranteed. No words in footage.
 
-| # | Overlay text | t (s) | d (s) |
+| Overlay | t (s) | d (s) | Exact text |
 |---|---|---|---|
-| 1 | Operator annual: 79.99 a year. Save 39.89. | 0 | 3 |
-| 2 | Annual Operator. LodeStone included. | 3 | 3 |
-| 3 | One payment a year. Full Operator access. | 6 | 3 |
+| 1 | 0 | 3 | Operator annual: 79.99 a year. Save 39.89. |
+| 2 | 3 | 3 | Annual Operator. LodeStone included. |
+| 3 | 6 | 3 | One payment a year. Full Operator access. |
 
-Timings are Herald's proposal on a 3 second beat. Bard adjusts them to the final cut if the clip runs shorter.
+Math check: 9.99 x 12 = 119.88, minus 79.99 = 39.89 saved.
+Illustration mark applies to any on-screen panel, which is a mock, not live data.
+Not financial advice.
 
-Illustration: any on-screen panel is a mock, not live data.
-Not financial advice applies to the caption, not the overlay lines.
+## Watcher clip caption (LOCKED)
+Index futures do not stop at 3 a.m. Korvus Operator keeps watch while you sleep. Annual plan: 79.99 a year, LodeStone included. Not financial advice. Illustration: any on-screen panel is a mock, not live data.
 
 ## Attribution
-utm_campaign only. Overlay-level conversion: not instrumented yet. Per-click UTM rows run as a server job.
+utm_campaign only. Overlay-level conversion not instrumented yet. Per-click UTM rows run as a server job.
 
 ## Status
-- Overlays-1900: filed, awaiting Bard confirmation of timings.
-- Index-watch cold page (korvus:pages/index-watch.html): copy rewrite arrived complete; verification pending. No proposal until verified.
-- Cold hook test: leader 'The market moves at 3 a.m. Korvus watches index futures while you sleep.' Alt 'Index futures don't stop at 3 a.m. Korvus doesn't either.'
+- Overlays-1900 lines and timings: delivered to Bard.
+- Index-watch landing page: blocked on verified vault file (Copy).
+- Cold traffic: 1 visit today, 30 visits 7d, 2 clicks 7d, 0 signups. Visit-to-click 6.7 percent is the measured leak.
