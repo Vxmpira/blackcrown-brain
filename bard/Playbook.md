@@ -8,6 +8,7 @@
 - A critic review needs the full direction text in the review. A review without the text is a FIX, not a PASS.
 - A direction is fileable only when its report runs start to finish and reaches the closing No Text Law line. A gist that stops mid shot is a re-task, not a review.
 - Director briefs carry a word budget of about 350 words so the full text fits inside a minion report without truncation.
+- Ask for the full document in the first line of the task and name the closing line explicitly, so the director knows the finish line.
 
 ## Pipeline per clip
 1. Director drafts direction, full text returned in the report.
@@ -17,11 +18,5 @@
 
 ## Log
 - 2026-10-26: First watcher creative drafted and self reviewed against the No Text Law. Critic returned FIX because the text was missing from the review. Outcome: not instrumented yet.
-- 2026-10-26: Crown Deep-Logic 19:00 direction passed critic in draft. Full text still needed before filing.
-- 2026-10-26: Operator overlay lines drafted by Quill (A, B, C, raven variant, destination card). Herald confirmation task landed but the exact confirmed text was not in the feed, so nothing was filed.
-- 2026-10-26: Both director reports for the watcher and raven directions came back truncated mid shot. Lesson: word budget the brief. Miss logged as a revenue day with zero creatives filed. Traffic 1 visit, 0 clicks, 0 signups today. Revenue swing: none.
-
-## Do differently
-- Re-task directors with a 350 word cap and the explicit ending requirement.
-- Never mark a Herald confirmation done unless the exact lines are in the feed.
-- Ship at least one clip per day to Stage 1 once a direction clears critic, even if the second slot slips.
+- 2026-10-26: Two director drafts (Operator watcher, raven hook A/B) came back truncated mid shot. Neither is fileable. Both re-tasked with a tighter finish line. Outcome: zero clips filed, zero clicks, zero signups today. Revenue day logged as a failure. Next: critic PASS on a complete text before any filing.
+- Traffic baseline: 1 visit today, 0 clicks, 0 signups. 7 day: 30 visits, 2 clicks, 0 signups. Stage 1 (visits to signups) is the fire. Watcher creative is the test; measure clicks per clip once the first render ships.

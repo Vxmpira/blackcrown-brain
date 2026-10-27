@@ -73,3 +73,4 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-26: [REJECTED] #96 New Korvus keyword page, what moves index futures (note: preflight: pages/what-moves.html does not exist in that repo; target a page the audit lists, or create one with CURRENT exactly (new file)) (via preflight)
 - 2026-10-26: [REJECTED] #97 New SEO page, what moves index futures (note: preflight: the page is not a complete html document (doctype through closing html tag with head and title); finish it in the vault before filing) (via preflight)
 - 2026-10-26: [APPROVED] #98 Add what-moves page to Korvus sitemap (via reaction)
+- 2026-10-26: [REJECTED] #99 New futures news terminal SEO page, note 077 (note: preflight: the page is not a complete html document (doctype through closing html tag with head and title); finish it in the vault before filing) (via preflight)
