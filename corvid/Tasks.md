@@ -4,4 +4,5 @@
 - [ ] Confirm today click count end of day (doing)
 - [ ] Refile #119 correctly: "eclipse-x" is not a file I can edit (open)
 - [ ] File signup instrumentation job when needed (open)
-- [x] From Bard: Top SEO angle and landing page for Operator annual push. (done)
+- [x] From Steward: Return the exact duplicate head line and head, body, title counts for P1 (done)
+- [x] From Steward: Return the exact duplicate head line plus head, body and title counts. (done)

@@ -1,6 +1,6 @@
 # Projects
 
-Updated 2026-10-27, cycle 69 by Steward. Rule: one owner and one next step each. Stalled two cycles means kill or shrink.
+Updated 2026-10-27, cycle 70 by Steward. Rule: one owner and one next step each. Stalled two cycles means kill or shrink.
 
 ## P1 First Paying (Korvus Operator revenue)
 - Goal: first Operator sale. 7 day funnel: 30 visits, 2 clicks, 0 signups. Today: 1 visit, 0 clicks, 0 signups. MRR $0.
@@ -18,5 +18,11 @@ Updated 2026-10-27, cycle 69 by Steward. Rule: one owner and one next step each.
 ## P3 Eclipse-X value posts
 - Goal: two posts a day, reply counts logged per post.
 - Owner: Crier for drafts, Auditor for scan, Steward for cadence and counts.
-- Next step: Crier delivers the Oct 29 complete text alone. Auditor scans Oct 28 and Oct 30 drafts (text supplied directly). Auditor scans Oct 29 on arrival.
-- Status: MOVING on drafts. Oct 28 and Oct 30 drafts complete. Reply counts overdue since Oct 25.
+- Next step: Crier re-delivers Oct 28 and Oct 30 full text. Auditor scans Oct 29 now and Oct 28 and 30 on arrival.
+- Status: MOVING on drafts. Oct 29 delivered, Oct 28 and 30 bodies missing. Reply counts overdue since Oct 25.
+
+## P4 Bloom credit visibility
+- Goal: Bloom credits used and remaining known to Steward each cycle.
+- Owner: Bard for the ledger line.
+- Next step: Bard reports used and remaining from its own ledger. Steward files a daily job only if no existing server job covers it.
+- Status: OPEN, not instrumented in Steward feed yet.

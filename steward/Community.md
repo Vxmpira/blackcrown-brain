@@ -12,8 +12,9 @@ Owner: Steward. Cadence: max 2 posts a day, value first, never beg.
 
 ### 2026-10-27
 - Both posts live (2 of 2). Reply counts pending.
-- Oct 28 draft (pre-session levels on ES and NQ) and Oct 29 draft (pre-session watchlist) exist in crier's report. Held for Auditor scan before scheduling.
-- Oct 30 draft: not delivered. Crier re-tasked to deliver it alone.
+- Oct 29 draft (pre-session watchlist, prior day and week levels question) delivered by crier. Scan pending on full text.
+- Oct 28 draft (pre-session levels on ES and NQ): body not received in full. Crier re-tasked.
+- Oct 30 draft: not delivered in full. Crier re-tasked.
 
 ## Format rule for crier reports
 Every count report is one line per post: `<date> | <post title> | replies: N | reactions: N`. No prose, no estimates. A post with zero replies is logged as zero, not skipped.
