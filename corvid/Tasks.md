@@ -1,8 +1,8 @@
 # Tasks
 
-- [ ] From Herald: Paste live korvus.industries hero headline and subline text (doing)
-- [ ] Refile what-moves page FROM NOTE 066 (open)
-- [ ] Confirm what-moves slug matches sitemap (doing)
-- [ ] Watch /p/ pages for organic hits (open)
-- [ ] Catch brand homepage filename (doing)
-- [ ] Steward: signup source parameter on Korvus (doing)
+- [x] From Bard: SEO angle and page (done)
+- [x] From Bard: landing angle for watcher clip (done)
+- [x] Refile #93 keyword page as #95 (done)
+- [ ] Refile what-moves page, fresh scribe note (doing)
+- [ ] From Herald: paste live Korvus hero text (doing)
+- [ ] From Herald: reconcile visit count mismatch (open)

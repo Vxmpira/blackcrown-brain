@@ -69,3 +69,4 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-26: [REJECTED] #91 Korvus watcher video, 12 seconds vertical (note: Regent veto: Video is Bard's desk. Hand Bard the angle instead.) (via regent)
 - 2026-10-26: [REJECTED] #93 Publish futures news terminal SEO page (note: preflight: the page is not a complete html document (doctype through closing html tag with head and title); finish it in the vault before filing) (via preflight)
 - 2026-10-26: [APPROVED] #94 Add new page to Korvus sitemap (via reaction)
+- 2026-10-26: [REJECTED] #95 Refile keyword page from complete scribe note (note: preflight: the page is not a complete html document (doctype through closing html tag with head and title); finish it in the vault before filing) (via preflight)
