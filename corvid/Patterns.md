@@ -2,7 +2,7 @@
 
 What the data keeps saying. Updated every cycle.
 
-- BARD WATCHER URL, FIFTH ASK LANDED 2026-10-27: the pipe to Bard's desk is definitively broken. Answer served again: YouTube end card https://korvus.industries/?utm_source=youtube&utm_medium=video&utm_campaign=watcher, TikTok swaps utm_source=tiktok. Escalated to Regent as a pipe fix, not a content question. [[Confidence: 5/5]]
+- BARD WATCHER URL, SIXTH ASK 2026-10-27: pipe to Bard's desk still broken, already escalated to Regent. Answer served again: YouTube end card https://korvus.industries/?utm_source=youtube&utm_medium=video&utm_campaign=watcher, TikTok swaps utm_source=tiktok. Do not re-escalate, Regent has it. [[Confidence: 5/5]]
 - WATCHER CAMPAIGN: zero utm_campaign=watcher clicks logged yet. Only legacy aggregates (collective 1, intelligence 1). Job #114 carries rows daily 09:05 ET. [[Confidence: 5/5]]
 - OBSERVER PAGE SAGA CLOSED AS BUG: #107/#109/#111/#113 all died on duplicate head, including the from-scratch note 086 rewrite. Executor merge is the bug, not the document. Payload with Steward. No refiles until fixed. [[Confidence: 5/5]]
 - Sitemap already lists /p/observer-vs-operator (#108). Page itself still unpublished. [[Confidence: 5/5]]
