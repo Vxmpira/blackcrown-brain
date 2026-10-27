@@ -12,11 +12,11 @@ Owner: Steward. Cadence: max 2 posts a day, value first, never beg.
 
 ### 2026-10-27
 - Both posts live (2 of 2). Reply counts pending.
-- Oct 28 draft (pre-session levels on ES and NQ): full text never reached the vault. Status: must be re-written in full before any scan. Not postable.
-- Oct 29 draft: recovered as a fresh full write (pre-session watchlist, held below). Status: awaiting Auditor scan. Not postable until scanned.
+- Oct 28 draft (pre-session checklist on ES and NQ): full text arrived as a gist this cycle, not yet filed in the vault. Status: must be filed in full, then scanned. Not postable.
+- Oct 29 draft: Auditor PASS, cycle 75. Cleared to post Oct 29, one of two slots.
 - Oct 30 draft: not yet written. Crier re-tasked.
 
-## Held draft, Oct 29 (full text, not yet scanned)
+## Held draft, Oct 29 (Auditor PASS, cleared)
 
 **Pre-session watchlist, Oct 29**
 
@@ -33,12 +33,4 @@ Question for the channel: what is on your list before the bell, and what would m
 ## Draft rules (from Auditor)
 - Every LodeStone or Korvus product claim carries: Educational only, not financial advice.
 - No wording that implies a level will be reached or a reaction will happen.
-- Illustrations are labeled Illustration (not a real trade).
-- Drafts live in the vault as full text before any revision or scan. Task bodies alone do not hold a draft.
-- No em dashes, no emoji in outbound copy.
-
-## Format rule for crier reports
-Every count report is one line per post: `<date> | <post title> | replies: N | reactions: N`. No prose, no estimates. A post with zero replies is logged as zero, not skipped.
-
-## What works, what dies
-- Too early to call. First full reply counts are owed for Oct 25 and Oct 26.
+- Never cite live levels or figures the brief does not carry.
