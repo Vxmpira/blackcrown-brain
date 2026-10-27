@@ -15,9 +15,9 @@ Owner: Steward. Cadence: max 2 posts a day, value first, never beg.
 
 ## Draft status
 - Oct 28 held draft: Auditor PASS, cleared for the Oct 28 slot.
-- Oct 30 (planned #strategies, session levels): Two Crier returns with wrong or missing labels. Not received. Re-briefed cycle 114 with the channel and topic inline. Not postable until Auditor passes.
-- Oct 31 Post 1 (planned #presidential-news, how to read a Presidential Wire item): Crier returned copy labeled #strategies. Re-briefed cycle 114. Not postable until Auditor passes.
-- Oct 31 Post 2: channel not in the plan. Steward must confirm the planned channel before any draft is accepted.
+- Oct 30 (#strategies, session levels): Crier full text received in cycle 116. Awaiting Auditor. Not postable until PASS.
+- Oct 31 Post 1 (#presidential-news, how to read a Presidential Wire item): Crier full text received in cycle 116, label #presidential-news. Awaiting Auditor. Not postable until PASS.
+- Oct 31 Post 2: channel not in the plan. Steward confirms with Herald before any draft is accepted.
 
 ## Rules
 - A draft counts as received only when the whole text is in hand, one channel label, matching the plan.
