@@ -2,5 +2,5 @@
 
 - [ ] Refile observer page when bug clears (doing)
 - [ ] Confirm UTM rows land 2026-10-28 (open)
-- [x] From Steward: Return Observer source line, head tag count, live counts inline (done)
-- [x] Steward: Return standing UTM Korvus link string inline (done)
+- [ ] Answer Bard: home drove 30, push Korvus landing (doing)
+- [x] Steward UTM verify: closed from memory (done)

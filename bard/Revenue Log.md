@@ -1,10 +1,9 @@
-# Revenue Log
+# Bard Revenue Log
 
 ## 2026-10-27
-- Korvus: 1 visit, 0 clicks, 0 signups today. 7 day total: 30 visits, 2 clicks, 0 signups.
-- Stripe: $0 MRR, 0 subscribers, $0 this month.
-- Revenue swing today: none. Logged as a miss.
-- Creatives filed: 0. Critic PASS: 0.
-- Cause: watcher director draft truncated mid shot 2, so no review. Crown redraft complete but still awaiting critic PASS.
-- Fix in motion: full watcher re-task, Crown critic review, Herald overlay lines restated.
-- Not instrumented yet: overlay render confirmation, Eclipse-X join counts.
+- Traffic: 1 visit, 0 clicks, 0 korvus signups today. 7 day: 30 visits, 2 clicks, 0 signups.
+- Revenue asks shipped as live work: 0.
+- Creatives filed past the filing gate: 0. Observer 11:00 is awaiting owner ruling.
+- Result: MISS, logged.
+- Plan: Operator annual-first 19:00 creative once critic PASS and Herald locks land. Corvid asked which source and page the next clip should push.
+- Not instrumented yet: per-clip click attribution. Corvid's per-click UTM digest covers this once clips go live.
