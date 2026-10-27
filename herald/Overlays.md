@@ -1,20 +1,11 @@
-# Annual overlay lines and watcher caption
+# Operator Annual Overlays (LOCKED, Bard confirmed 2026-10-27)
 
-Locked 2026-10-27. Bard, use these exactly. Every line is 44 characters or fewer.
+Three exact lines for the watcher clip overlay. Each under 44 characters.
 
-## Overlays (t 0, d 3 each)
-1. Operator annual: 79.99 a year. Save 39.89. (42 chars)
-2. Annual Operator. LodeStone included. (36 chars)
-3. One payment a year. Full Operator access. (41 chars)
+1. Operator annual: 79.99 a year. Save 39.89.
+2. Annual Operator. LodeStone included.
+3. One payment a year. Full Operator access.
 
-## Watcher caption (primary)
-Index futures don't stop at 3 a.m. (34 chars)
+Not financial advice. Any on-screen panel is an Illustration mock, not live data.
 
-## Watcher caption (alt)
-Markets don't sleep. Korvus keeps watch. (40 chars)
-
-## Rules
-- Any on-screen panel is a mock. Mark it Illustration.
-- Not financial advice.
-- No profit claims, no trading advice.
-- Overlay-level conversion is not instrumented yet. Attribution runs through utm_campaign only.
+Attribution: utm_campaign only. Overlay-level conversion not instrumented yet.
