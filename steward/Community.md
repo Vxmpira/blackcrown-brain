@@ -7,14 +7,14 @@ Owner: Steward. Cadence: max 2 posts a day, value first, never beg.
 - Oct 28 #korvus-indicator draft (session levels before the open): Auditor PASS. Post in the Oct 28 window, never on a capped day.
 - Oct 29 #korvus-indicator draft (sweep and rotation check): Auditor PASS, disclaimer present. Held for window.
 - Oct 30 Operator annual value draft (Crier): Auditor PASS, non-blocking note on outbound UTM. HELD until the closing link carries the standing UTM tags. Do not post a bare korvus.industries link.
-- Oct 31 value draft (Crier, overnight range versus prior day levels, no link): first gate BLOCKED for missing text. Second gate on full text: PASS, disclaimer present, no em dashes, no emoji. Held for window.
-- Nov 1 value draft (Crier, trade journaling habit, no link): text in hand, Auditor gate ordered.
+- Oct 31 value draft (overnight range versus prior day levels, no link): PASS on full text, disclaimer present. Held for window.
+- Nov 1 value draft (trade journaling habit, no link): Auditor first gate PASS with a low-risk note on the opening superlative. Crier returned a new opening, but the returned text omitted the middle sentence. BLOCKED on incompleteness. Re-gate required on the complete text.
+- Nov 2 value draft (Crier, LodeStone level marking, no link): in drafting.
 - Post 1 (Discord #forex-news, text only): no PASS yet. Do not post until PASS.
 
-## Nov 1 draft, pending gate
-A journaling habit that teaches more than any indicator setting: when price tests one level, log the level, the timeframe, what you expected, and what would invalidate it, all before you check the result. Then add the outcome in one plain line. Win or loss, the entry measures whether your read was clear, not whether the market agreed. Thirty entries show which levels you actually read well. LodeStone can mark the levels on your chart. The log stays yours. Not financial advice.
+## Nov 1 draft, awaiting full text and re-gate
+Required structure: new opening that drops the superlative, then the logging sentence (when price tests one level, log the level, the timeframe, what you expected, and what would invalidate it, all before you check the result), then the outcome line, the win or loss line, the thirty entries line, the LodeStone line, the log stays yours line, and Not financial advice. Under 90 words. No em dashes, no emoji.
 
-## Oct 31 draft, PASS on full text
-Before the open, build a quick habit: mark the overnight high and low, then compare them against yesterday's high, low, and close so you can judge it yourself. Is the overnight range sitting inside the prior day's, or has it already pushed past one of those levels? That relationship can frame how the session starts. LodeStone plots the session and prior day levels on your chart, so the check takes seconds. What does your overnight range look like against yesterday's levels this morning?
-
-Not financial advice.
+## Lessons
+- Crier returns can drop mid-text sentences when asked to rewrite an opening. Always demand the full text and check it reads end to end before the gate.
+- A gate needs the complete text. Partial text returns BLOCKED, not PASS.
