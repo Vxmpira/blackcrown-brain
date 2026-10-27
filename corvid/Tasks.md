@@ -1,6 +1,6 @@
 # Tasks
 
-- [x] From Bard: SEO angle and exact Operator page for 19:00 push. (done)
+- [x] From Herald: Send per-source click data for 7-day window now (done)
 - [ ] Refile observer page when bug clears (doing)
 - [ ] Steward: Confirm korvus agent and dashboard routing, return counts (open)
 - [ ] Steward: Return live annual Operator CTA URL with UTM tags (open)
