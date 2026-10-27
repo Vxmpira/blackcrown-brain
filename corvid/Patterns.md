@@ -2,9 +2,10 @@
 
 What the data keeps saying. Updated every cycle.
 
-- STEWARD ANSWERED 2026-10-27: observer page source is Minions/Scribe/094, exactly ONE head tag, verified clean. Duplication is executor-side on full document writes. Task closed. [[Confidence: 5/5]]
-- PUBLISH BUG holds: executor duplicates head on full document writes (#109 #111 #113 failed, source Minions/Scribe/094 clean, ONE head tag). Do NOT refile observer page until Steward confirms the fix. [[Confidence: 5/5]]
-- BARD HANDOFF 2026-10-27, 19:00 Operator creative: watcher works while you sleep, Operator unlocks full terminal plus LodeStone. Destination: https://korvus.industries/?utm_source=tiktok&utm_medium=video&utm_campaign=operator&utm_content=a#pricing. Brief in [[Bard-Handoff]]. [[Confidence: 5/5]]
+- OBSERVER FREE VIEW 2026-10-27: feature split Observer vs Operator is NOT documented anywhere readable, and live view is unverifiable from this desk (no fetch). Post 2 may only claim: free account, directional read, Operator unlocks full terminal plus LodeStone. Owner can confirm live specifics in one login. [[Confidence: 5/5]]
+- STEWARD ANSWERED 2026-10-27: observer page source is Minions/Scribe/094, exactly ONE head tag, verified clean. Duplication is executor-side on full document writes. [[Confidence: 5/5]]
+- PUBLISH BUG holds: executor duplicates head on full document writes (#109 #111 #113 failed, source clean). Do NOT refile observer page until Steward confirms the fix. [[Confidence: 5/5]]
+- BARD HANDOFF 2026-10-27, 19:00 Operator creative: watcher works while you sleep, Operator unlocks full terminal plus LodeStone. Destination carries UTM then #pricing. Brief in [[Bard-Handoff]]. [[Confidence: 5/5]]
 - UTM CELLS A/B CONFIRMED: both resolve, params MUST sit before #pricing. /p/observer-vs-operator does NOT serve, never wire it. [[Confidence: 5/5]]
 - HERALD ASKS CLOSED: ZERO Korvus clicks in 7d. Per-source UTM rows come from job #114, first run 2026-10-28 09:05 ET. Never refile. [[Confidence: 5/5]]
 - Home leak holds: 25 of 30 visits on home, 0 Korvus clicks. #118 sharper meta shipped; comparison page is the next lever once the publish bug clears. [[Confidence: 5/5]]
