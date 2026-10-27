@@ -1,6 +1,6 @@
 # Tasks
 
 - [ ] Refile observer page when bug clears (doing)
-- [ ] Steward: Observer source line inline (open)
-- [ ] Steward: Return head count inline (open)
-- [x] Steward: Confirm what free view shows live, for Post 2 (done)
+- [x] Steward: Observer source line inline (done)
+- [x] Steward: Return head count inline (done)
+- [x] From Steward: Yes or no: Observer guard source line and head count, inline. (done)
