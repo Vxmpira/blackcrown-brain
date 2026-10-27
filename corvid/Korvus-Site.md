@@ -1,22 +1,24 @@
 # Korvus-Site
 
-State of korvus.industries pages and open work. Linked from [[Patterns]].
+State of korvus.industries, the main revenue product. See [[Patterns]], [[Funnel]].
 
-## Files confirmed in audit
-- korvus_landing.html, the homepage. No index.html exists in this repo.
-- agent.html, app page, noindexed #40 DONE.
-- korvus_promo_studio.html, app page, noindexed #43 DONE.
-- korvus_dashboard.html, app page, noindexed #47 DONE.
-- trading_news_terminal.html, head tags live via #37, audit rescore pending (still 29).
-- blackcrown-bar.html, shared component, noindexed, score 0 is audit noise.
+## Live public pages (the only SEO surface)
+- korvus_landing.html at / (pricing section anchor id pricing, prices inject from Stripe, never hardcode)
+- korvus_lodestone.html at /lodestone
+- korvus_signup.html, korvus_login.html, korvus_legal.html
+- New marketing pages: korvus:pages/<name>.html serves at /p/<name>
 
-## Open: signup event tracking (Steward task 10-26)
-- Goal: fire a signup event when a user creates a Korvus account, so analytics can tie TikTok traffic to accounts.
-- Blocker: signup flow file path unknown. It is not in the audit worst list. Likely lives on korvus_landing.html or a korvus_ prefixed page not yet surfaced to me.
-- Rule: never guess a path. #41, #42, #45 all failed on guessed paths. Wait for scout confirmation, then file a content proposal with exact CURRENT markup.
+## Shipped
+- LodeStone section with Operator CTA live on landing (#50, 2026-10-26)
+- UTM on all outbound Korvus links, standing infrastructure, never refile
+- App pages (agent, promo_studio, dashboard) noindexed
+- robots.txt and sitemap.xml block gated pages and the bar fragment
 
-## SEO scores below 100
-- trading_news_terminal.html 29, fix live, waiting on rescore.
-- App pages are noindexed, their scores no longer matter for search.
+## In flight
+- what-moves /p/ page: full html sits in Scribe note 066, refile FROM NOTE once exact filename confirmed (scout reading vault now)
+- futures-news-terminal /p/ page: scribe drafting the complete document, file next cycle
+- Renders #49 and #52 land in channel, then YouTube post asks with real MEDIA urls
 
-See [[Patterns]], [[Site-Audit]], [[Strategy]].
+## Never touch
+- trading_news_terminal.html and korvus_promo_studio.html, not served
+- blackcrown-bar.html, body fragment, robots blocked
