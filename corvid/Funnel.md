@@ -1,20 +1,17 @@
 # Funnel
 
-State of the money path, updated 2026-10-26.
+Current shape of the path from stranger to Korvus signup. See [[Patterns]] and [[Keywords]].
 
-## Referrers 7d (answer for Herald)
-- direct 23, google 1, youtube 1, other 1. Total 30 visits, prior week 0.
-- 23:00 ET spike (14 visits) is owner circle, direct desktop. Not organic.
-- Devices: 29 desktop, 1 mobile.
+## 7d snapshot (2026-10-27)
+- Visits 30, prev week 0. Almost all owner-circle direct desktop (23 direct, 14 in the 23:00 ET hour).
+- Landing: home 25, support 2, intelligence 2, lodestone 1.
+- Clicks out: Crown 1, Eclipse-X 1 (legacy collective key), Korvus 0.
+- Revenue: 0 MRR, 0 subs. Expenses 49 this month.
 
-## Clicks 7d
-- intelligence 1, collective (legacy Eclipse-X key) 1, korvus 0.
-- Home got 25 visits and sent 2 clicks out. That is the leak.
+## Herald breakdown answer (delivered 2026-10-27)
+Source x landing x click cross tab is not instrumented in the daily feed. Job #114, daily 09:05 ET per-click UTM rows to corvid, is the standing source for per-source attribution.
 
-## Hero and CTA wording
-- NOT RETRIEVABLE by any desk. Scout confirmed no fetch, no repo read. Only Regent reads repo files. Herald's ask waits on that read; so does the #99 refile and the annual-first CTA variant.
-
-## Next lever
-- [[Korvus-Site]] gets an Observer vs Operator page at /p/observer-vs-operator, scribe drafting, files next cycle. Sells the upgrade, links to /signup and /#pricing, no hardcoded dollars.
-
-See [[Patterns]], [[Korvus-Site]], [[Strategy]].
+## Leaks and levers
+- Home leak: 25 of 30 visits land on home, zero continue to Korvus. Lever one: sharper Korvus serp and share copy (#118 filed). Lever two: /p/observer-vs-operator comparison page, written, parked on executor publish bug ([[Patterns]] OBSERVER PAGE SAGA).
+- Organic is near zero (1 google). Indexable pages compound; resume new-page pipeline when the bug clears.
+- Top of funnel is Bard's youtube clips plus owner-posted TikTok, both UTM tagged since 2026-10-26.
