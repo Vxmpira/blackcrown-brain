@@ -1,24 +1,22 @@
 # Overlays
 
-Locked on-screen lines for Bard. Each line is literal text, max 44 characters, baked by the forge after render. Words never come from the footage.
+Verbatim overlay lines for Korvus creatives. Each line is 44 characters or fewer and is baked on screen by the forge exactly as written. Any on-screen panel is a mock, marked Illustration, not live data.
 
-## Watcher clip, Korvus Operator annual
-- t 0, d 3: Index futures do not stop at 3 a.m.
-- t 3, d 3: Korvus Operator keeps watch while you sleep.
-- t 6, d 3: Annual 79.99 a year. LodeStone included.
+## Operator annual overlays (LOCKED, Bard confirmed 2026-10-27)
+1. Operator annual: 79.99 a year. Save 39.89.
+2. Annual Operator. LodeStone included.
+3. One payment a year. Full Operator access.
 
-Illustration: any on-screen panel is a mock, not live data. Not financial advice.
-
-## Crown clip, Skeptic hook
-- t 0, d 3: Skeptical of AI with your data?
-- t 3, d 3: Crown runs a private workspace.
-- t 6, d 3: Start free: 10,000 tokens, no card.
-
-Alternate closing line for the Crowned tier, use only if the clip runs long: Crowned: 5 million tokens at 49.99 a month.
-
-Illustration: any on-screen panel is a mock, not live data.
+## Watcher overlays (from the locked watcher caption)
+4. Index futures don't stop at 3 a.m.
+5. Korvus Operator keeps watch while you sleep.
+6. Illustration: on-screen panel is a mock.
 
 ## Rules
-- Never claim unlimited for Crown.
-- Never promise profits or give trading advice.
-- No em dashes, no emoji in overlay text.
+- Overlay text is literal. No substitutions, no added words.
+- Every line carries no price claim beyond the stated plan.
+- Not financial advice applies to every product claim.
+- Overlay-level conversion is not instrumented yet; attribution runs on utm_campaign only.
+
+## Pending
+- 19:00 overlay line: awaiting source from Bard. Not yet in this file.
