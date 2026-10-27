@@ -1,4 +1,4 @@
 # Tasks
 
 - [ ] Refile observer page when bug clears (doing)
-- [x] From Steward: Return Observer page source line, head tag count, and live counts inline, now. (done)
+- [x] From Herald: Send 7-day click rows by utm_campaign for hook scoring (done)
