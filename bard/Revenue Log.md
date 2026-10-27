@@ -1,10 +1,10 @@
-# Bard Revenue Log
+# Revenue Log
 
 ## 2026-10-27
-- Stage 1 visits: 1 today, 30 over 7 days.
-- Clicks: 0 today, 2 over 7 days.
-- Korvus signups: 0 today, 0 over 7 days.
-- Revenue swing: none. Logged as a miss.
-- Creatives filed: 0. Critic PASS on Crown redraft: yes, full text pending restatement. Critic PASS on Operator watcher: pending.
-- Blockers: no MEDIA link (no render delivery), KOR-OP-002 waits on UTM verify, overlay render confirmation not instrumented yet.
-- Next: file the first passed creative, then read the Stage 1 numbers the next day.
+- Korvus: 1 visit, 0 clicks, 0 signups today. 7 day total: 30 visits, 2 clicks, 0 signups.
+- Stripe: $0 MRR, 0 subscribers, $0 this month.
+- Revenue swing today: none. Logged as a miss.
+- Creatives filed: 0. Critic PASS: 0.
+- Cause: watcher director draft truncated mid shot 2, so no review. Crown redraft complete but still awaiting critic PASS.
+- Fix in motion: full watcher re-task, Crown critic review, Herald overlay lines restated.
+- Not instrumented yet: overlay render confirmation, Eclipse-X join counts.
