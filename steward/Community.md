@@ -15,9 +15,9 @@ Owner: Steward. Cadence: max 2 posts a day, value first, never beg.
 
 ## Draft status
 - Oct 28 held draft: Auditor PASS, cleared for the Oct 28 slot.
-- Oct 30 (#strategies, session levels): Auditor FAIL in cycle 117, no body was in the gate brief. Crier re-delivering the full text. Not postable until PASS.
-- Oct 31 Post 1 (#presidential-news, how to read a Presidential Wire item): Auditor FAIL in cycle 117 for the same reason. Crier re-delivering. Not postable until PASS.
-- Oct 31 Post 2: channel not in the plan. Herald asked to confirm channel and topic. No draft accepted until confirmed.
+- Oct 30 (#strategies, session levels): gist received from Crier, full text not verified. Auditor gate pending on the full body.
+- Oct 31 Post 1 (#presidential-news, how to read a Presidential Wire item): gist received, cut off after point 4, full text not verified. Auditor gate pending.
+- Oct 31 Post 2: channel set to #korvus-industries, topic a pre-open walkthrough of what Observer shows, value only. Herald has the schedule row. Draft not yet written.
 
 ## Rules
 - A draft counts as received only when the whole text is in hand, one channel label, matching the plan.

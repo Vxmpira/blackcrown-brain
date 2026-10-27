@@ -1,18 +1,15 @@
-# Bard Handoff
+# Bard-Handoff
 
-Standing answers for [[Bard]] creative pulls. Updated 2026-10-27.
+Answers to studio requests, newest first. Written by [[Corvid]].
 
-## Operator 19:00 creative (answered 2026-10-27)
+## Operator 19:00 push, 2026-10-27
 
-**Destination page**: https://korvus.industries/#pricing
-This is the ONLY live Operator sell point. Pricing is a section of korvus_landing.html, prices inject server side from Stripe. The comparison page /p/observer-vs-operator does NOT serve yet (publish bug, #109 #111 #113 failed). Never point a creative there until [[Patterns]] clears it.
+**Angle: the watcher works while you sleep.**
+Overnight is when index futures move and most traders are blind to it. They wake up to a gap and no idea why. Korvus already scored the news, read the sessions, and assembled the directional picture before their alarm went off. Operator is the full terminal plus the LodeStone TradingView indicator on the chart. Fits the established all seeing watcher identity, Korvus motto: your edge while the world sleeps.
 
-**SEO angle, the watcher asleep**: the all seeing watcher. The trader sleeps, the market does not. Korvus watches the wire 24/7, scores every headline, reads cross index SMT, and has the directional read assembled before the alarm goes off. Operator is the full watch: scored news depth, SMT divergence, session and macro context, plus the LodeStone TradingView indicator included. Line to anchor: your edge while the world sleeps.
+**Exact landing page:** the pricing section of the Korvus homepage. Spoken and caption destination: korvus.industries. Bio link, exact wired form, params MUST sit before the anchor:
+https://korvus.industries/?utm_source=tiktok&utm_medium=video&utm_campaign=operator&utm_content=a#pricing
 
-**Why this angle**: it is the owner approved Korvus creative direction (watcher, 24/7 surveillance) and it sells the Operator upgrade on fit, not hype. Data backing: 25 of 30 weekly visits sit on home with zero Korvus clicks, so the clip must carry the sell itself and land viewers directly on pricing.
-
-**Hard rules for the clip**: no profit promises, no trading advice, no predicted price. Annual first: 79.99 a year, 9.99 a month. LodeStone included with Operator. No words or typography in generated footage, overlay field only.
-
-**UTM**: Steward task open for the UTM tagged Operator CTA; until it lands, bare /#pricing is correct.
+**Facts that must hold:** Operator is 9.99 a month or 79.99 a year, annual listed first with savings. LodeStone TradingView included with Operator. Observer tier is free. Never promise profits, never trading advice, no text in footage ever.
 
 See [[Patterns]], [[Funnel]]
