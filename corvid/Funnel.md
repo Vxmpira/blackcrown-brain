@@ -2,23 +2,22 @@
 
 State of the money path, updated 2026-10-27. See [[Patterns]] and [[Keywords]].
 
-## Current shape
-- Top: 30 visits 7d (prior 0, tracking start unconfirmed). 23 direct, 1 google, 1 youtube.
-- Mid: home takes 25 of 30 visits. Clicks out: 1 intelligence, 1 legacy collective key (Eclipse-X). ZERO Korvus clicks.
-- Bottom: 0 signups, 0 MRR, 0 subs. Month ledger: 0 in, 49 out.
+## Top: traffic
+- 31 visits 7d, 24 direct, organic near zero (1 google, 1 youtube).
+- TikTok Engine daily carousel plus Bard video are the only active drivers.
+- X now active: post #127 filed, Korvus annual-first.
 
-## The leak
-Home gets the traffic and sends nothing to Korvus. Fixes in flight:
-- #118 sharper Korvus meta live 10-27, watch CTR via job #114.
-- Observer vs Operator comparison page written (Scribe/094), blocked by executor publish bug.
-- #126 ruling: Bard creatives lead with annual price (79.99, savings label).
+## Middle: brand site to product
+- Home takes 26 of 31 visits, zero Korvus clicks. Biggest leak in the funnel.
+- Clicks 7d: intelligence 1, collective (legacy EX key) 1, Korvus 0.
+- Observer vs Operator comparison page blocked by the publish bug, scribe rewriting the note now.
 
-## Instrumentation live from 10-28
-- 09:00 ET signup and conversion report (job #123).
-- 09:05 ET per-click UTM rows (job #114).
-- 23:30 ET Bloom burn to boardroom (job #121).
+## Bottom: money
+- MRR 0, subs 0, gross 0. Expenses 49 this month.
+- First rung of the goal ladder (first paying customer) still open.
+- Instrumentation live from 10-28: signup report 09:00 ET, UTM rows 09:05 ET.
 
 ## Next levers, in order
-1. Publish observer page the moment the bug clears, then sitemap entry, then home internal link.
-2. Double down on youtube, the only wired outbound platform.
-3. First organic keyword wins per [[Keywords]] once indexable pages exist.
+1. Ship /p/observer comparison page once the rewrite lands.
+2. X posts as the zero-cost direct channel while organic builds.
+3. Internal link work on home once Regent can echo the hero CTA line.
