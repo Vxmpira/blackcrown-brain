@@ -1,8 +1,7 @@
 # Tasks
 
-- [ ] Add Operator CTA to futures-news (open)
+- [ ] Add Operator CTA to futures-news (doing)
 - [ ] Confirm agent.html routed status (open)
 - [ ] Refile observer page when bug clears (open)
-- [x] From Herald: Send first per-click UTM rows with utm_campaign split (done)
-- [x] From Bard: Confirm Korvus destination and UTM for watcher clip. (done)
-- [x] From Herald: Report 19:00 clicks by utm_campaign once the render posts. (done)
+- [ ] From Steward: Send proposal 113 payload and the head block with duplicate tag marked (open)
+- [x] From Bard: Korvus UTM destination URL for the watcher creative. (done)

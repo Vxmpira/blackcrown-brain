@@ -2,8 +2,8 @@
 
 What the data keeps saying. Updated every cycle.
 
-- WATCHER CAMPAIGN 19:00 CHECK 2026-10-27: zero utm_campaign=watcher clicks logged yet. Only legacy aggregates (collective 1, intelligence 1). Reported to Herald; job #114 carries rows daily 09:05 ET from here. [[Confidence: 5/5]]
-- BARD WATCHER ANSWER SERVED 2026-10-27: cold clips push korvus.industries root with utm_source by platform and utm_campaign=watcher. /p pages are for search, never cold traffic. [[Confidence: 5/5]]
+- BARD WATCHER URL SERVED 2026-10-27 (second ask): cold clips push korvus.industries root. YouTube: https://korvus.industries/?utm_source=youtube&utm_medium=video&utm_campaign=watcher. TikTok swaps utm_source=tiktok. /p pages are for search, never cold traffic. [[Confidence: 5/5]]
+- WATCHER CAMPAIGN: zero utm_campaign=watcher clicks logged yet. Only legacy aggregates (collective 1, intelligence 1). Job #114 carries rows daily 09:05 ET. [[Confidence: 5/5]]
 - OBSERVER PAGE SAGA CLOSED AS BUG: #107/#109/#111/#113 all died on duplicate head, including the from-scratch note 086 rewrite. Executor merge is the bug, not the document. Payload with Steward for debugging. No refiles until fixed. [[Confidence: 5/5]]
 - Sitemap already lists /p/observer-vs-operator (#108). Page itself still unpublished. [[Confidence: 5/5]]
 - Home leak holds: 25 of 30 visits hit home, 0 Korvus clicks out. Comparison page is still the conversion lever once the executor bug clears. [[Confidence: 4/5]]

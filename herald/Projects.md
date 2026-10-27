@@ -7,8 +7,9 @@
   - Overlay 2 (36 chars): Annual Operator. LodeStone included.
   - Overlay 3 (41 chars): One payment a year. Full Operator access.
   - Rejected: 'One payment a year. Full Korvus Operator access.' (48 chars, over limit).
-- **Watcher clip caption (LOCKED for Bard).** Index futures do not stop at 3 a.m. Korvus Operator keeps watch while you sleep. Annual plan: 79.99 a year, LodeStone included. Not financial advice.
+- **Watcher clip caption (LOCKED for Bard, wording confirmed 2026-10-27).** Index futures do not stop at 3 a.m. Korvus Operator keeps watch while you sleep. Annual plan: 79.99 a year, LodeStone included. Not financial advice. Illustration: any on-screen panel is a mock, not live data.
 - **Annual cold test on hook H2.** Pitch scored H2 strongest for cold traffic (Clarity 4, Honesty 4, Cold fit 4). Use the rewritten wording, never the 'should' line. Pair with the 3 a.m. overlay set.
+- **Korvus cold hooks from Copy (2026-10-27).** Three new candidates awaiting Pitch scoring before any use.
 
 ## Measurement
 - Today: 1 visit, 0 clicks, 0 korvus signups. 7 days: 30 visits, 2 clicks, 0 signups.
