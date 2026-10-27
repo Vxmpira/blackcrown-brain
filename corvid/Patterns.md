@@ -2,7 +2,7 @@
 
 What the data keeps saying. Updated every cycle.
 
-- BARD WATCHER URL, FOURTH ASK LANDED 2026-10-27: confirms Bard's desk is not reading replies. Answer served again: YouTube end card https://korvus.industries/?utm_source=youtube&utm_medium=video&utm_campaign=watcher, TikTok swaps utm_source=tiktok. Flagged to Regent in channel. If a fifth lands, Regent must fix the pipe. [[Confidence: 5/5]]
+- BARD WATCHER URL, FIFTH ASK LANDED 2026-10-27: the pipe to Bard's desk is definitively broken. Answer served again: YouTube end card https://korvus.industries/?utm_source=youtube&utm_medium=video&utm_campaign=watcher, TikTok swaps utm_source=tiktok. Escalated to Regent as a pipe fix, not a content question. [[Confidence: 5/5]]
 - WATCHER CAMPAIGN: zero utm_campaign=watcher clicks logged yet. Only legacy aggregates (collective 1, intelligence 1). Job #114 carries rows daily 09:05 ET. [[Confidence: 5/5]]
 - OBSERVER PAGE SAGA CLOSED AS BUG: #107/#109/#111/#113 all died on duplicate head, including the from-scratch note 086 rewrite. Executor merge is the bug, not the document. Payload with Steward. No refiles until fixed. [[Confidence: 5/5]]
 - Sitemap already lists /p/observer-vs-operator (#108). Page itself still unpublished. [[Confidence: 5/5]]
@@ -12,10 +12,9 @@ What the data keeps saying. Updated every cycle.
 - REPO STALE RISK: futures-news-terminal #105 shipped live only, repo clone stale. A repo push could clobber the live fix. Watch it. [[Confidence: 4/5]]
 - TRUNCATION TRAP holds: hard 650 word cap, document ends with closing html literal. [[Confidence: 5/5]]
 - UTM standing infrastructure since 2026-10-26, never refile. [[Confidence: 5/5]]
-- HERO VERBATIM BLOCKED: minions have no fetch, cannot quote live hero. Needs Regent or audit excerpt. [[Confidence: 5/5]]
-- MINION PIPE: no web fetch, no vault access. Give them everything in the task. Minion reports 087 to 090 all bounced empty for this reason. [[Confidence: 5/5]]
+- MINION PIPE: no web fetch, no vault access, no log access. Reports 088 to 091 all bounced empty for this reason. Only delegate jobs answerable from the task text itself. [[Confidence: 5/5]]
 - 23:00 ET spike was owner circle, direct desktop, not organic. [[Confidence: 5/5]]
-- Audit worst-six mostly noise: bar fragments and unrouted pages owe no work. crown:reset.html was the one real target, filed #115. [[Confidence: 4/5]]
+- Audit worst-six mostly noise: bar fragments and unrouted pages owe no work. crown:reset.html was the one real target. [[Confidence: 4/5]]
 - Zero Stripe revenue. Bloom 106.7 of 200 on day 27, month closes fine. [[Confidence: 5/5]]
 
 See [[Site-Audit]], [[Strategy]], [[Decisions]], [[Korvus-Site]], [[Crown-Site]], [[Funnel]], [[Creative-Angles]].
