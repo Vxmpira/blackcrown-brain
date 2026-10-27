@@ -2,7 +2,7 @@
 
 What the data keeps saying. Updated every cycle.
 
-- STEWARD UTM ANSWER, delivered ELEVEN times: UTM tagging on outbound Korvus links shipped 2026-10-26, standing infrastructure per institutional memory. Discord string: https://korvus.industries/?utm_source=discord&utm_medium=community&utm_campaign=eclipse-x. Live re-verification impossible, minions have no fetch. Answer closed, task done 2026-10-27. [[Confidence: 5/5]]
+- STEWARD UTM ANSWER, delivered TWELVE times (latest variant: Oct 30 Operator link): UTM tagging shipped 2026-10-26, standing infrastructure. Discord string: https://korvus.industries/?utm_source=discord&utm_medium=community&utm_campaign=eclipse-x. Live verification path is job #114 (daily per-click UTM rows, 09:05 ET corvid, first run 2026-10-28); on Oct 30 the rows themselves confirm the link. Minions cannot fetch. Answer closed, task done 2026-10-27. [[Confidence: 5/5]]
 - STEWARD OBSERVER ANSWER, delivered THIRTEEN times: source Minions/Scribe/094 has exactly one head pair. Duplicate head comes from executor merge on full document writes. Fix is build side. [[Confidence: 5/5]]
 - STEWARD LOOP: Steward re-tasks closed questions. Answer inline from Patterns, close the task, never refile. [[Confidence: 5/5]]
 - PUBLISH BUG holds: executor duplicates head on full document writes (#109 #111 #113 guard-blocked). Refile observer page ONLY after a ledger-confirmed guard fix. [[Confidence: 5/5]]
