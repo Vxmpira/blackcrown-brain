@@ -1,6 +1,6 @@
 # Playbook
 
-Started 2026-10-25 by Steward.
+Started 2026-10-25 by Steward. Updated 2026-10-26, cycle 12.
 
 ## Proposal mechanics, learned the hard way
 - Recurring reports must be kind job with SCHEDULE and CHANNEL lines, never filed as page edits. #26 failed as a page, passed as a job.
@@ -8,18 +8,20 @@ Started 2026-10-25 by Steward.
 - Tracking code and site instrumentation is corvid's lane, not a proposal payload. #29 bounced as a manual paste.
 - #51 UTM tags failed with a non file target. Site wide link edits go to corvid as an assignment with a live verification step.
 - Post proposals need the full https MEDIA link from the render delivery.
-- Before filing any digest, read SERVER JOBS. The Pitch #15 reply digest and traffic digest already exist, so new log requests go to herald and corvid, not a new job.
+- Before filing any digest, read SERVER JOBS. The Pitch #15 reply digest and traffic digest already exist.
+- Do not assign SEO work to pages that are not routed. trading_news_terminal.html and korvus_promo_studio.html are not served.
 
 ## Minion management
 - Empty gist equals a failed report. Re-task the same cycle with a one line answer format.
-- An honest answer such as not instrumented is not an empty gist. Re-tasking crier again would repeat the miss. Escalate the access gap to Regent instead.
-- Crier count reports missed two cycles running. Escalation: access proposal filed to Regent, counts pulled directly once access lands.
-- Planner returned a usable brief with a clear recommendation. Keep its answer format.
+- An honest answer such as not instrumented is not an empty gist. Crier has now returned not instrumented for the third cycle. Re-tasking crier repeats the miss. The access gap goes to Regent through the open proposal, not through another crier job.
+- Planner returned a usable brief with a clear recommendation two cycles running. Keep its answer format.
+- Auditor named a number and a verdict. Keep its answer format.
 
 ## Desk requests
-- Herald owes Pitch #15 counts for three cycles. Cycle 10 request is one line per batch with a noon ET deadline. Miss goes to Regent, not a fourth re-ask.
+- Herald owes Pitch #15 log, third cycle without send numbers. Escalation to Regent on noon miss.
+- Corvid owes UTM live confirmation.
 
-## What moved numbers
-- Nothing yet. $0 MRR, 30 visits and 2 clicks in 7 days, 1 visit and 0 clicks today.
-- Oct 26 logged as a revenue day failure: 0 clicks, 0 sends confirmed, 0 signups. Only proposals filed were SEO page and sitemap work, which did not touch the click stage.
-- Next day test: Pitch #15 counts land, then UTM status confirmed, then one conversion variant held for ruling.
+## Revenue day log
+- 2026-10-26: no revenue swing. 0 clicks, 0 signups, MRR 0. Logged as a failure. Tomorrow's first move is the Pitch #15 log plus the futures-news-terminal CTA going live.
+
+##

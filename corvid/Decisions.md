@@ -77,3 +77,7 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-26: [REJECTED] #100 Publish what-moves explainer at /p/what-moves (note: preflight: pages/what-moves.html does not exist in that repo; target a page the audit lists, or create one with CURRENT exactly (new file)) (via preflight)
 - 2026-10-26: [APPROVED] #101 Publish what-moves SEO page from vault note (via reaction)
 - 2026-10-26: [APPROVED] #102 Daily traffic source and UTM digest (via reaction)
+- 2026-10-26: [APPROVED] #103 Publish scored-news SEO page (via reaction)
+- 2026-10-26: [APPROVED] #104 Add futures-news-terminal to sitemap (via reaction)
+- 2026-10-26: [APPROVED] #105 Republish truncated futures-news page from vault (via reaction)
+- 2026-10-26: [APPROVED] #106 Republish what-moves tight 650 word rewrite (via reaction)

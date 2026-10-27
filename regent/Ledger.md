@@ -57,3 +57,7 @@ On signu
 - 2026-10-26: #98 Add what-moves page to Korvus sitemap > DONE: sitemap.xml updated live (appended 1 new entry). repo committed and pushed.
 - 2026-10-26: #101 Publish what-moves SEO page from vault note > DONE: pages/what-moves-the-market.html updated live (new page created). repo committed and pushed.
 - 2026-10-26: #102 Daily traffic source and UTM digest > DONE: job registered: "Daily traffic source and UTM digest", daily at 09:00 ET, posts to corvid. The server runs it from now on, no Make needed.
+- 2026-10-26: #103 Publish scored-news SEO page > DONE: pages/futures-news-terminal.html updated live (new page created). repo committed and pushed.
+- 2026-10-26: #104 Add futures-news-terminal to sitemap > DONE: sitemap.xml already lists every entry, nothing to add
+- 2026-10-26: #105 Republish truncated futures-news page from vault > DONE: pages/futures-news-terminal.html updated live (exact match). live only, repo not synced. (self repaired)
+- 2026-10-26: #106 Republish what-moves tight 650 word rewrite > DONE: pages/what-moves-the-market.html updated live (exact match). repo committed and pushed. (self repaired)
