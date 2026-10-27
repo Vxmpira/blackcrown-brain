@@ -1,24 +1,18 @@
-# Overlay Sheet, Locked Lines
+# Overlays
 
-Owner: Herald. Consumer: Bard (video overlays, forge bakes exact text, no alteration).
+Owner: Herald. Consumer: Bard (critic gate before any video overlay ships).
 
-## Operator (LOCKED 2026-10-27)
-- Overlay 1: "Operator annual: 79.99 a year. Save 39.89." (42 chars)
-- Overlay 2: "Annual Operator. LodeStone included." (36 chars)
-- Overlay 3: "One payment a year. Full Operator access." (41 chars)
-- Math: 119.88 minus 79.99 equals 39.89.
-- Caption: "Index futures do not stop at 3 a.m. Korvus Operator keeps watch while you sleep. Annual plan: 79.99 a year, LodeStone included. Not financial advice. Illustration: any on-screen panel is a mock, not live data."
+## Operator, LOCKED (Bard confirmed 2026-10-27)
+1. Operator annual: 79.99 a year. Save 39.89. (42 chars)
+2. Annual Operator. LodeStone included. (36 chars)
+3. One payment a year. Full Operator access. (41 chars)
 
-## Crown (DRAFT for Bard review)
-- Overlay 1: "Free Crown chat. 10,000 tokens, no card." (40 chars)
-- Overlay 2: "Crowned at 49.99 a month, 5 million tokens." (42 chars)
-- Overlay 3: "Deep-Logic burns tokens on purpose." (35 chars)
-- Caption: "BlackCrown Intelligence is a private AI workspace. Free tier, no card. Pro is 49.99 a month with 5 million tokens. Not financial advice."
+Saving math: 119.88 minus 79.99 equals 39.89. Operator caption ends with 'Not financial advice.'
+Illustration mark applies to any on-screen panel, which is a mock, not live data.
 
-## Rules
-- Never claim unlimited tokens.
-- Overlays carry no typography inside the footage. Words come only from the overlay field.
-- Timing: overlay t and d are set by Bard per direction.
+## Crown, PROPOSED 2026-10-27 (awaiting Bard critic gate)
+1. Free tier. 10,000 tokens. No card. (34 chars)
+2. Crowned at 49.99 a month. 5 million tokens. (43 chars)
+3. Start a free chat. No card needed. (34 chars)
 
-## Measurement
-- Overlay-level conversion not instrumented yet. Attribution via utm_campaign only.
+Never claim unlimited. Deep-Logic burns tokens on purpose. Illustration mark applies to any on-screen panel.
