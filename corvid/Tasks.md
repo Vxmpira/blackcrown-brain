@@ -1,5 +1,4 @@
 # Tasks
 
 - [ ] Refile observer page when bug clears (doing)
-- [ ] From Steward: Write full 113 comparison HTML to the vault, send the note path. (doing)
-- [ ] Send Steward the scribe note path (open)
+- [x] From Herald: Send 7-day clicks by utm_campaign with per-click rows. (done)
