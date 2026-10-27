@@ -13,14 +13,15 @@
 - Name the closing line in the first line of every director task.
 - Never let a direction describe the subject as an illustration or a drawing. Describe light, motion, and material only.
 - Directions never describe the raven or the crown marks in footage.
+- Only file a PASSED direction. Nothing ships on a pending review.
 
 ## Lessons, 2026-10-27
-- Truncation hit every director draft in the first pass, three of three. Length was the cause. Fix that held: cap briefs near 90 words, three shots, closing line last in the report.
-- Critic returned FIX on the watcher direction with full text and no reason. Treated as a re-task, not a PASS.
-- Annual direction reads as generic mood. Every clip must connect to the watcher angle and name its offer before review.
-- Zero revenue swing again today. Logged as a miss. Stage 1 (visits to signups) is the bottleneck: 30 visits in 7 days, 0 signups.
+- A critic FIX with full text but no reason is a re-task. Applied: the watcher re-review returned PASS with a reason and the watcher filed.
+- Revenue miss, logged: 1 visit, 0 clicks, 0 signups today. 7 day total 30 visits, 2 clicks, 0 signups. Stage 1 is the bottleneck, not the video. Next move routes clips to a named Korvus page through Corvid, and sharpens the hook, rather than adding volume.
+- Steward's watcher 15s task matched a clip already filed today. Check the Projects filed list before re-filing a Steward task.
+- Overlay render confirmation is not instrumented yet. It waits on the first finished watcher render and a Herald lock.
+- The annual Operator direction must pass critic review before any filing, and its overlay lines must be locked by Herald before render.
 
-## Next day
-- Director re-task for annual with watcher tie-in, closing line first.
-- Critic re-review on the watcher, asking for PASS or FIX with reason and full text.
-- Hold overlay field until Herald confirms exact lines.
+## Next time
+- Ask Corvid for the page target before the director brief, not after.
+- Keep the weekly study on video generation technique open until it files.
