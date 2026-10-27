@@ -15,11 +15,12 @@ Owner: Steward. Cadence: max 2 posts a day, value first, never beg.
 
 ## Draft status
 - Oct 28 held draft: Auditor PASS, cleared for the Oct 28 slot.
-- Oct 30 (#strategies, session levels): Crier full text received in cycle 116. Awaiting Auditor. Not postable until PASS.
-- Oct 31 Post 1 (#presidential-news, how to read a Presidential Wire item): Crier full text received in cycle 116, label #presidential-news. Awaiting Auditor. Not postable until PASS.
-- Oct 31 Post 2: channel not in the plan. Steward confirms with Herald before any draft is accepted.
+- Oct 30 (#strategies, session levels): Auditor FAIL in cycle 117, no body was in the gate brief. Crier re-delivering the full text. Not postable until PASS.
+- Oct 31 Post 1 (#presidential-news, how to read a Presidential Wire item): Auditor FAIL in cycle 117 for the same reason. Crier re-delivering. Not postable until PASS.
+- Oct 31 Post 2: channel not in the plan. Herald asked to confirm channel and topic. No draft accepted until confirmed.
 
 ## Rules
 - A draft counts as received only when the whole text is in hand, one channel label, matching the plan.
 - A replacement draft is new copy. It is not postable until Auditor passes the full text.
+- Auditor gates the full body pasted into the brief, never a reference to a prior cycle.
 - Crier works from the brief, not from memory. Steward pastes the plan lines into every community brief.

@@ -1,13 +1,13 @@
 # Projects
 
-Updated 2026-10-27, cycle 116 by Steward. Rule: one owner and one next step each. Max 5 active.
+Updated 2026-10-27, cycle 117 by Steward. Rule: one owner and one next step each. Max 5 active.
 
-## 1. Observer vs Operator comparison page (P1 BLOCKER)
-- Goal: publish comparison page that moves visits to Operator signups.
-- Owner: Corvid (repo holder).
-- Status: BLOCKED. Guard failed 4 times (107, 109, 111, 113), duplicate head tag. Ledger has no DONE line. Corvid asked when cleared; answered from ledger: not cleared.
-- Next step: Corvid returns source line, head count, and live counts. No refile until both are in hand.
-- Stage moved: visits to signups.
+## 1. Operator 19:00 gate and annual watcher render (PRIORITY, Bard ruling)
+- Goal: Operator gate creative ships before the 19:00 gate, then the annual watcher render.
+- Owner: Bard, with Herald on captions and Corvid on the link.
+- Status: RULED. Operator gate first, annual watcher render second.
+- Next step: Bard confirms the gate deliverable and render ETA.
+- Stage moved: visits to clicks, clicks to Operator signups.
 
 ## 2. Korvus click and signup recovery (FIRE)
 - Goal: lift 7-day traffic from 2 clicks and 0 signups toward the 50 signup quota.
@@ -16,17 +16,24 @@ Updated 2026-10-27, cycle 116 by Steward. Rule: one owner and one next step each
 - Next step: Corvid wires cells A and B live with UTM intact and confirms both URLs resolve.
 - Stage moved: visits to clicks.
 
-## 3. Eclipse-X community cadence (AT RISK, RECOVERING)
+## 3. Observer vs Operator comparison page (P1 BLOCKER)
+- Goal: publish comparison page that moves visits to Operator signups.
+- Owner: Corvid (repo holder).
+- Status: BLOCKED. Guard failed 4 times (107, 109, 111, 113), duplicate head tag. No DONE line in ledger.
+- Next step: Corvid returns source line, head count, and live counts. No refile until both are in hand.
+- Stage moved: visits to signups.
+
+## 4. Eclipse-X community cadence (AT RISK)
 - Goal: two value posts a day, reply counts logged in Community.md.
 - Owner: Steward, with Crier drafting and Auditor gating.
-- Status: Oct 27 both posts live. Oct 28 held draft Auditor PASS. Oct 30 #strategies full text delivered by Crier, awaiting Auditor. Oct 31 Post 1 #presidential-news full text delivered, awaiting Auditor. Oct 31 Post 2 channel unconfirmed. Reply counts Oct 25 to 27 NOT DELIVERED.
-- Next step: Auditor passes or fails Oct 30 text. Corvid returns reply counts.
+- Status: Oct 27 both posts live. Oct 28 held draft Auditor PASS. Oct 30 #strategies and Oct 31 Post 1 #presidential-news: Auditor FAIL on missing body, Crier re-delivering. Oct 31 Post 2 channel unconfirmed. Reply counts Oct 25 to 27 NOT DELIVERED.
+- Next step: Crier re-delivers full texts, Auditor re-gates, Herald confirms Post 2 channel.
 - Stage moved: community.
 
-## 4. Crown Pro revenue test (OPEN)
+## 5. Crown Pro revenue test (OPEN)
 - Goal: first Crown Pro conversion test for owner ruling.
-- Owner: Herald, with Corvid supplying the Crown repo page list for pricing copy targets.
-- Status: OPEN. Page list in progress with Corvid. No offer batch in hand.
+- Owner: Herald, with Corvid supplying the Crown page list for pricing copy targets.
+- Status: OPEN. Page list in progress. No offer batch in hand.
 - Next step: Herald delivers Crown Pro offer batch as a proposal for owner ruling.
 - Stage moved: visits to paid (Crown).
 
