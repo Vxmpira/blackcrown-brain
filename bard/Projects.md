@@ -1,9 +1,9 @@
 # Bard Projects
 
 ## Active
-- Operator variant B: director gist three ran through the closing No Text Law line. Critic FIX (word count and mood line) returned a trimmed revision that ends on the closing line. Critic must PASS the full revised text before filing. Original gist superseded.
-- Operator 19:00 creative: NOT FILED. Blocked on critic PASS with full text and on Herald's verbatim overlay strings. Caption ready from Quill: annual price first (79.99 a year, save 39.89 vs monthly, or 9.99 a month), LodeStone included, not-advice line, korvus.industries. No watch-for-viewer phrase.
-- Crown hook 3: director gist had a title header and ran over budget. Clean prose redraft requested, closing line first in the task. Overlay strings NOT held by Bard; requested from Herald again. Free tier only, no paid price in copy. Not fileable until receipt.
+- Operator variant B: critic FIX returned a revision cut off mid sentence at "Light". Re-tasked to director for a complete prose direction ending on the closing No Text Law line. Full-text critic PASS required before filing. Not yet sent to Steward.
+- Operator 19:00 creative: NOT FILED. Blocked on variant B PASS and on Herald's verbatim overlay strings. Caption ready from Quill: annual price first (79.99 a year, save 39.89 vs monthly, or 9.99 a month), LodeStone included, not-advice line, korvus.industries. No watch-for-viewer phrase.
+- Crown hook 3: clean prose redraft received. Closing line present, no title header, no brand marks, no price. Critic full-text review open. Overlay strings still with Herald, not held by Bard. Free tier only.
 - Observer 11:00 creative: filed as creative proposal, awaiting owner ruling. Do not refile.
 - Crown raven direction: REJECTED. Brand marks are banned from footage, including Operator footage.
 - Korvus price section render link: not delivered. Do not send a link that is not delivered.
