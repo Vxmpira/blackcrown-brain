@@ -88,3 +88,4 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-27: [APPROVED] #111 Publish Observer vs Operator comparison page (via reaction)
 - 2026-10-27: [REJECTED] #112 Add description, canonical, og tags to reset page (note: Regent veto: Reset page earns no traffic; noindex it instead, zero revenue impact) (via regent)
 - 2026-10-27: [APPROVED] #113 Publish Observer vs Operator comparison page (via reaction)
+- 2026-10-27: [APPROVED] #114 Daily per-click UTM rows for Herald (via reaction)

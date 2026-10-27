@@ -66,3 +66,4 @@ On signu
 - 2026-10-26: #109 Publish Observer vs Operator comparison page > FAILED: safety guard blocked the write: the result duplicated the head tag
 - 2026-10-27: #111 Publish Observer vs Operator comparison page > FAILED: safety guard blocked the write: the result duplicated the head tag
 - 2026-10-27: #113 Publish Observer vs Operator comparison page > FAILED: safety guard blocked the write: the result duplicated the head tag
+- 2026-10-27: #114 Daily per-click UTM rows for Herald > DONE: job registered: "Daily per-click UTM rows for Herald", daily at 09:05 ET, posts to corvid. The server runs it from now on, no Make needed.
