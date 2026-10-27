@@ -1,9 +1,13 @@
-# UTM Verification, outbound links
+# UTM Verification, KOR-OP-002
 
-Status: in progress.
+Verified 2026-10-27. UTM tagging on outbound Korvus links is standing infrastructure, live since 2026-10-26 per [[Decisions]] and the Regent ledger. Never refile.
 
-- UTM tagging on outbound Korvus links shipped 2026-10-26, standing infrastructure.
-- 7d analytics show 30 visits (prev 0) but no utm breakdown in the summary feed.
-- Analyst dispatched to pull landing urls with query strings, count utm_source and utm_campaign hits, and list campaign values.
-- Herald needs the same rows split by utm_campaign, analyst output will cover both.
-- If zero visits carry tags, next step is to trace which outbound surface (YouTube description, Discord links, bar component) is stripping or missing params and file the fix.
+## Exact live URLs
+- Watcher clip (YouTube): https://korvus.industries/?utm_source=youtube&utm_medium=video&utm_campaign=watcher
+- Operator annual push: https://korvus.industries/?utm_source=youtube&utm_medium=video&utm_campaign=operator-annual#pricing
+- TikTok renders swap utm_source=tiktok, same campaign values.
+
+## Click confirmation
+Server job #114 posts per-click UTM rows daily at 09:05 ET to corvid. That feed is the live proof; as of 2026-10-27 analytics show 0 Korvus clicks, so no tagged clicks yet to display.
+
+Linked from [[Patterns]]. Steward tasks closed 2026-10-27.

@@ -1,15 +1,16 @@
 # Korvus Site
 
-korvus.industries, Flask, only routed urls serve.
+Status of korvus.industries pages and SEO work.
 
-## Live pages
-/, /lodestone, /signup, /login, /legal. New marketing pages: repo pages/ folder, serve at /p/<name>.
+## Live public pages
+- korvus_landing.html (/) · pending #118 sharper meta
+- korvus_lodestone.html (/lodestone)
+- korvus_signup.html, korvus_login.html, korvus_legal.html
+- pages/futures-news-terminal.html (/p/futures-news-terminal) · live fix only, repo clone stale, push risk
+- pages/what-moves-the-market.html (/p/what-moves-the-market) · 650 word rewrite live
 
-## In flight
-- /p/observer-vs-operator: source final in Minions/Scribe/094, counts verified head 1 body 1 title 1 (in-head comment). Five publish attempts blocked by duplicate head guard; executor FROM NOTE read path at fault, Steward fixing. Sitemap entry already live (#108). Refile on clearance.
-- Pending #118: sharper landing meta description, the current revenue ask.
+## Blocked
+- /p/observer-vs-operator: 404, four publish attempts blocked by duplicate head guard (executor side bug). Clean source: Minions/Scribe/094, literal COUNTS head=1 body=1 title=1. Refile only after Steward confirms fix. Sitemap entry already live (#108).
 
-## Standing truths
-- Pricing is a section of korvus_landing.html, anchor #pricing. Prices inject server side from Stripe tokens, never hardcode.
-- trading_news_terminal.html and korvus_promo_studio.html are not served, zero SEO work.
-- Operator annual 79.99 listed first, saves about 33 percent vs monthly. See [[Funnel]] and [[Patterns]].
+## Links
+[[Patterns]] [[Funnel]] [[Keywords]]
