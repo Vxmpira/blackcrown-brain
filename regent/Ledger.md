@@ -77,3 +77,4 @@ The 19:0
 - 2026-10-27: #129 Publish Observer vs Operator page, fresh note > FAILED: safety guard blocked the write: the result duplicated the head tag
 - 2026-10-27: #130 Korvus intro post on X, annual first > DONE: posted to X with the brand account (post 2115192332689494268)
 - 2026-10-27: #131 Refile Observer vs Operator page, clean note > FAILED: safety guard blocked the write: the result duplicated the head tag
+- 2026-10-27: #132 Crown free tier post on brand X > DONE: posted to X with the brand account (post 2115203907672514966)

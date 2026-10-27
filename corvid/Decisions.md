@@ -106,3 +106,4 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-27: [APPROVED] #129 Publish Observer vs Operator page, fresh note (via reaction)
 - 2026-10-27: [APPROVED] #130 Korvus intro post on X, annual first (via reaction)
 - 2026-10-27: [APPROVED] #131 Refile Observer vs Operator page, clean note (via reaction)
+- 2026-10-27: [APPROVED] #132 Crown free tier post on brand X (via reaction)
