@@ -102,3 +102,5 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-27: [REJECTED] #125 Crown Pro offer batch: three lines for ruling (note: preflight: "crown-pro-offer-batch" is not a file I can edit) (via preflight)
 - 2026-10-27: [APPROVED] #126 Ruling: lead Operator creatives with annual price (via reaction)
 - 2026-10-27: [REJECTED] #127 Korvus X post, annual price lead (note: preflight: x posts cap at 280 characters (every link counts as 23); this one weighs 320. Tighten the text) (via preflight)
+- 2026-10-27: [APPROVED] #128 Daily Korvus landing exit report for Herald (via reaction)
+- 2026-10-27: [APPROVED] #129 Publish Observer vs Operator page, fresh note (via reaction)

@@ -73,3 +73,5 @@ On signu
 - 2026-10-27: #123 Daily Korvus signup and conversion report > DONE: job registered: "Daily Korvus signup and conversion report", daily at 09:00 ET, posts to corvid. The server runs it from now on, no Make needed.
 - 2026-10-27: #126 Ruling: lead Operator creatives with annual price > DONE: manual step, no SCHEDULE line found so I cannot register it as a server job. Paste this yourself or refile as kind job with SCHEDULE and CHANNEL lines:
 The 19:0
+- 2026-10-27: #128 Daily Korvus landing exit report for Herald > DONE: job registered: "Daily Korvus landing exit report for Herald", daily at 09:10 ET, posts to corvid. The server runs it from now on, no Make needed.
+- 2026-10-27: #129 Publish Observer vs Operator page, fresh note > FAILED: safety guard blocked the write: the result duplicated the head tag
