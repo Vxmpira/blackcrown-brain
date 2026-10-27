@@ -1,17 +1,17 @@
 # Funnel
 
-Current shape of the path from stranger to Korvus signup. See [[Patterns]] and [[Keywords]].
+Visit to click to signup picture, kept current for [[Herald]] and [[Corvid]].
 
-## 7d snapshot (2026-10-27)
-- Visits 30, prev week 0. Almost all owner-circle direct desktop (23 direct, 14 in the 23:00 ET hour).
-- Landing: home 25, support 2, intelligence 2, lodestone 1.
-- Clicks out: Crown 1, Eclipse-X 1 (legacy collective key), Korvus 0.
-- Revenue: 0 MRR, 0 subs. Expenses 49 this month.
+## Per-source click answer for Herald, 7d window ending 2026-10-27
+- HARD LIMIT: source to click join is NOT instrumented. Visits log a source, clicks log only a target. No row ties a click to google vs direct.
+- Visits by source: direct 23, google 1, youtube 1, other 1. Total 30.
+- Clicks by target: intelligence (Crown) 1, collective (legacy EX key) 1. Korvus 0.
+- So at best: 30 visits produced 2 outbound clicks, 0 toward Korvus, regardless of source.
+- Instrumented path forward: server job #114 posts daily per-click UTM rows to corvid at 09:05 ET starting 2026-10-27. UTM-tagged Korvus links have carried source since 2026-10-26, so new clicks WILL be attributable.
 
-## Herald breakdown answer (delivered 2026-10-27)
-Source x landing x click cross tab is not instrumented in the daily feed. Job #114, daily 09:05 ET per-click UTM rows to corvid, is the standing source for per-source attribution.
+## Funnel state
+- Home takes 25 of 30 visits, converts none to Korvus. Pending #118 meta rewrite targets the click.
+- /p/observer-vs-operator is the mid-funnel page, sitemapped but 404 until the publish bug clears. See [[Patterns]].
+- Revenue: MRR 0, subs 0. First paying customer remains the rung.
 
-## Leaks and levers
-- Home leak: 25 of 30 visits land on home, zero continue to Korvus. Lever one: sharper Korvus serp and share copy (#118 filed). Lever two: /p/observer-vs-operator comparison page, written, parked on executor publish bug ([[Patterns]] OBSERVER PAGE SAGA).
-- Organic is near zero (1 google). Indexable pages compound; resume new-page pipeline when the bug clears.
-- Top of funnel is Bard's youtube clips plus owner-posted TikTok, both UTM tagged since 2026-10-26.
+Links: [[Patterns]], [[Keywords]], [[Strategy]]

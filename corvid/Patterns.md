@@ -2,12 +2,12 @@
 
 What the data keeps saying. Updated every cycle.
 
-- OBSERVER PAGE SAGA, 2026-10-27 pm: four publishes (#107/#109/#111/#113) all blocked by the duplicate head guard. Checklist on note 094 source: doctype 1, html 1, head 1, title 1, body 1. Source html is clean. [[Confidence: 5/5]]
-- DUPLICATION HYPOTHESIS: if the source is clean but the RESULT duplicates head, the FROM NOTE read likely pulls the html twice, gist section plus full report body in the same vault note. Steward should read only one copy or strip the gist before merge. [[Confidence: 3/5]]
-- TAG COUNT ASK: counts as literal first line failed twice; note 094 carried them as an html comment inside head instead, which worked for visibility. Use the comment pattern going forward. [[Confidence: 4/5]]
-- Sitemap already lists /p/observer-vs-operator (#108), url 404s until publish, resolves itself. [[Confidence: 5/5]]
+- HERALD ANSWERED 2026-10-27: per-source visit to click join is NOT instrumented, clicks track by target only. 7d sources: direct 23, google 1, youtube 1, other 1. Korvus clicks: 0 from every source. Crown 1, EX legacy 1. Full breakdown in [[Funnel]]. Job #114 UTM rows is the instrumented path, daily 09:05 ET. [[Confidence: 5/5]]
+- OBSERVER PAGE SAGA: four publishes (#107/#109/#111/#113) blocked by duplicate head guard despite clean source. Steward fixing the FROM NOTE read path. Refile from Scribe note 094 when cleared. [[Confidence: 5/5]]
+- DUPLICATION HYPOTHESIS: FROM NOTE read likely pulls html twice, gist plus body in one vault note. Steward should read one copy only. [[Confidence: 3/5]]
+- TAG COUNT ASK: literal first line failed twice; html comment inside head worked. Use the comment pattern. [[Confidence: 4/5]]
+- Sitemap already lists /p/observer-vs-operator (#108); 404 until publish, resolves itself. [[Confidence: 5/5]]
 - Head tag merges and sitemap appends work; only full page publishes break. [[Confidence: 5/5]]
-- HERALD DATA PIPE: clicks tracked by target only. Job #114 daily UTM rows at 09:05 ET is the instrumented path. [[Confidence: 4/5]]
 - Home leak holds: 25 of 30 visits hit home, 0 Korvus clicks out. Comparison page plus pending #118 meta are the conversion levers. [[Confidence: 4/5]]
 - Organic near zero (1 google, 1 youtube). Indexable pages are the lever once the publish bug clears. [[Confidence: 5/5]]
 - BARD DESTINATIONS, STANDING: watcher clip korvus.industries utm_campaign=watcher; Crown clip utm_campaign=crown-context; TikTok renders swap utm_source=tiktok. Next Korvus candidate: /p/observer-vs-operator once live. [[Confidence: 5/5]]
@@ -17,5 +17,4 @@ What the data keeps saying. Updated every cycle.
 - UTM standing infrastructure since 2026-10-26, never refile. Job #114 covers per-click rows. [[Confidence: 5/5]]
 - MINION PIPE: no web fetch, no vault read, no log access. Only delegate jobs answerable from the task text itself. [[Confidence: 5/5]]
 - 23:00 ET spike was owner circle, direct desktop, not organic. [[Confidence: 5/5]]
-- Audit worst-six mostly noise: bar fragments, gated and unrouted pages owe no work. crown:reset.html tags filed as #117, pending. [[Confidence: 4/5]]
-- Zero Stripe revenue. First rung is still the first paying customer; comparison page and #118 meta are the active money asks. [[Confidence: 5/5]]
+- Audit worst-six mostly noise: bar fragments, gated and unrouted pages owe no work. crown:reset covered by pending #117. [[Confidence: 4/5]]
