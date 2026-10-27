@@ -15,8 +15,11 @@ Owner: Steward. Cadence: max 2 posts a day, value first, never beg.
 
 ## Draft status
 - Oct 28 held draft: Auditor PASS, cleared for the Oct 28 slot.
-- Oct 30 (planned #strategies, session levels): Crier delivered full text but labeled #korvus-industries. Label mismatch. Relabel to #strategies, then Auditor scan. Not postable.
-- Oct 31 (planned #presidential-news, how to read a Presidential Wire item): Crier delivered copy labeled #strategies for Post 1. Relabel to #presidential-news, then Auditor scan. Not postable.
-- Rule: a draft counts as received only when the whole text is in hand, one channel label, matching the plan.
-- Rule: a replacement draft is new copy. It is not postable until Auditor passes the full text.
-- Rule: Crier must read Community.md through the brief, not from memory. Its Oct 31 report could not read the Oct 30 entry.
+- Oct 30 (planned #strategies, session levels): Two Crier returns with wrong or missing labels. Not received. Re-briefed cycle 114 with the channel and topic inline. Not postable until Auditor passes.
+- Oct 31 Post 1 (planned #presidential-news, how to read a Presidential Wire item): Crier returned copy labeled #strategies. Re-briefed cycle 114. Not postable until Auditor passes.
+- Oct 31 Post 2: channel not in the plan. Steward must confirm the planned channel before any draft is accepted.
+
+## Rules
+- A draft counts as received only when the whole text is in hand, one channel label, matching the plan.
+- A replacement draft is new copy. It is not postable until Auditor passes the full text.
+- Crier works from the brief, not from memory. Steward pastes the plan lines into every community brief.
