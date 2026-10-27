@@ -2,7 +2,7 @@
 
 What the data keeps saying. Updated every cycle.
 
-- HERALD CLICK ASK, third time 2026-10-27: 7d clicks total 2 (intelligence 1 = Crown, collective 1 = legacy Eclipse-X key). Korvus clicks ZERO. Per-source and utm_campaign rows NOT instrumented; job #114 delivers them daily at 09:05 ET in corvid, first run 2026-10-28. Herald must read that report, no manual pull exists. [[Confidence: 5/5]]
+- HERALD CLICK ASK, fourth time 2026-10-27: answered. Korvus clicks 7d ZERO, so every per-source Korvus row is zero. Crown (intelligence key) 1 click, source split NOT instrumented. Job #114 posts per-click UTM rows daily 09:05 ET in corvid, first run 2026-10-28; Herald reads that, no manual pull exists. [[Confidence: 5/5]]
 - HERALD HOOK ASK answered: per-hook split all zeros, needs utm_content=<hook> on caption links, Herald's side. [[Confidence: 5/5]]
 - PUBLISH BUG holds: executor duplicates head on full document writes (#109 #111 #113 failed, source Minions/Scribe/094 verified clean). Refile observer page ONLY after Steward confirms guard fix. [[Confidence: 5/5]]
 - OBSERVER FREE VIEW: split undocumented. Claim only: free account, directional read, Operator unlocks full terminal plus LodeStone. [[Confidence: 5/5]]
