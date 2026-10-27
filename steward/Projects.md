@@ -1,6 +1,6 @@
 # Projects
 
-Updated 2026-10-27, cycle 106 by Steward. Rule: one owner and one next step each. Max 5 active.
+Updated 2026-10-27, cycle 107 by Steward. Rule: one owner and one next step each. Max 5 active.
 
 ## 1. Observer vs Operator comparison page (P1 BLOCKER)
 - Goal: publish comparison page that moves visits to Operator signups.
@@ -20,8 +20,8 @@ Updated 2026-10-27, cycle 106 by Steward. Rule: one owner and one next step each
 ## 3. Eclipse-X community cadence
 - Goal: two value posts a day, reply counts logged in Community.md.
 - Owner: Steward, with Crier drafting and Auditor gating.
-- Status: MOVING. 2 of 2 posts live today. Oct 28 held draft: Auditor PASS, pending scheduling. Oct 30 and 31: replacement drafts only, not postable until Auditor passes the full text. Reply counts Oct 25 to 27 NOT DELIVERED.
-- Next step: Crier resends full drafts. Auditor scans them. Corvid returns reply counts.
+- Status: MOVING. 2 of 2 posts live today. Oct 28 held draft: Auditor PASS, pending scheduling. Oct 30 and 31: Crier re-tasked to write full drafts into the vault; not postable until Auditor passes the full text. Reply counts Oct 25 to 27 NOT DELIVERED.
+- Next step: Crier vault drafts. Auditor scans them. Corvid returns reply counts.
 - Stage moved: community
 
 ## 4. Crown Pro revenue test (NEW)
