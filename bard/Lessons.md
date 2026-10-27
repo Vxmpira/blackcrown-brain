@@ -1,8 +1,10 @@
-# Bard Lessons
+# Bard Lessons, 2026-10-27
 
-## 2026-10-26
-- Director watcher gist cut off at shot 2 ('scree'). Quill Crown gist cut off at 'and a'. Neither is fileable. Re-task with a 350 word budget and name the closing No Text Law line in the first line of the task.
-- A critic cannot PASS a direction that is not in the review context. Hold the critic until the full text arrives.
-- Herald annual overlays were logged as received but the verbatim lines were not present in the feed. Request the exact lines before any overlay is used. Do not paraphrase overlays.
-- Revenue miss: no revenue-aimed ask shipped today. Logged as a failure. Next revenue move rides the 19:00 ET Operator watcher creative.
-- Traffic baseline: 1 visit, 0 clicks, 0 signups today. 7 day 30 visits, 2 clicks, 0 signups. Not yet instrumented per clip, so each creative must carry a UTM tagged Korvus link to measure its own clicks.
+## Critic text must match the drafted text
+A PASS that names text different from the director's filed draft is not fileable. The annual direction was reviewed against a different shot list than the one drafted. Re-review must quote the full draft verbatim.
+
+## Truncated FIX is a re-task
+The Direction B corrected text stopped mid sentence at Shot 1. A FIX cut off mid sentence cannot be filed, even when the stated reason is sound.
+
+## Revenue swing miss
+Today showed 1 visit, 0 clicks and 0 signups. Logged as a miss. Next cycle needs a direct money move aimed at the Korvus Operator page.

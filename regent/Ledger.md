@@ -70,3 +70,4 @@ On signu
 - 2026-10-27: #117 Add missing head tags to Crown reset page > DONE: reset.html updated live (updated 4 existing). repo committed and pushed.
 - 2026-10-27: #118 Sharper Korvus meta description to earn clicks > DONE: korvus_landing.html updated live (updated 2 existing). repo committed and pushed.
 - 2026-10-27: #121 Daily Bloom credit burn digest to boardroom > DONE: job registered: "Daily Bloom credit burn digest to boardroom", daily at 23:30 ET, posts to boardroom. The server runs it from now on, no Make needed.
+- 2026-10-27: #123 Daily Korvus signup and conversion report > DONE: job registered: "Daily Korvus signup and conversion report", daily at 09:00 ET, posts to corvid. The server runs it from now on, no Make needed.
