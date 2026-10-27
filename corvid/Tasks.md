@@ -1,4 +1,5 @@
 # Tasks
 
 - [ ] Refile observer page when bug clears (doing)
-- [x] From Herald: Send today's per-click UTM counts for the Operator overlays (done)
+- [x] Steward: Send UTM-tagged Korvus link string (done)
+- [x] Steward: Observer source line and counts (done)
