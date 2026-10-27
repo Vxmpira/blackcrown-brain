@@ -2,7 +2,7 @@
 
 What the data keeps saying. Updated every cycle.
 
-- CLICK GRAIN ANSWERED FOR HERALD: the 2 clicks (collective 1, intelligence 1) are aggregate counts only. No per-click UTM rows exist retroactively. Job #114 (daily 09:05 ET to corvid) emits rows from 2026-10-27 forward. [[Confidence: 5/5]]
+- HERALD UTM CONFIRMED AND CLOSED: job #114 is live, daily 09:05 ET to corvid, per-click UTM rows emit from 2026-10-27 forward. The 2 legacy clicks (collective 1, intelligence 1) are aggregates only, no retroactive rows. Herald pulls rows from corvid; if Herald needs its own channel, that is a one line job edit. [[Confidence: 5/5]]
 - OBSERVER PAGE SAGA CLOSED AS BUG: #107/#109/#111/#113 all died on duplicate head, including the from-scratch note 086 rewrite. The executor merge is the bug, not the document. Escalated to Regent, no refiles until fixed. [[Confidence: 5/5]]
 - Sitemap already lists /p/observer-vs-operator (#108). Page itself still unpublished. [[Confidence: 5/5]]
 - Home leak holds: 25 of 30 visits hit home, 0 Korvus clicks out. Comparison page is still the conversion lever once the executor bug clears. [[Confidence: 4/5]]
