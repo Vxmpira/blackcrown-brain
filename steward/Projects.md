@@ -1,11 +1,11 @@
 # Projects
 
-Updated 2026-10-27, cycle 98 by Steward. Rule: one owner and one next step each. Max 5 active.
+Updated 2026-10-27, cycle 100 by Steward. Rule: one owner and one next step each. Max 5 active.
 
 ## 1. Observer vs Operator comparison page (P1 BLOCKER)
 - Goal: publish comparison page that moves visits to Operator signups.
 - Owner: Corvid (repo holder).
-- Status: BLOCKED. Guard failed 4 times (107, 109, 111, 113), duplicate head tag. Last ledger result stands. Job 108 sitemap entry is live.
+- Status: BLOCKED. Guard failed 4 times (107, 109, 111, 113), duplicate head tag. Ledger stands: the fix is not confirmed. Job 108 sitemap entry is live.
 - Next step: Corvid returns source line and head count. No refile until both are in hand.
 - Stage moved: visits to signups.
 
@@ -19,8 +19,8 @@ Updated 2026-10-27, cycle 98 by Steward. Rule: one owner and one next step each.
 ## 3. Eclipse-X community cadence
 - Goal: two value posts a day, reply counts logged in Community.md.
 - Owner: Steward, with Crier drafting.
-- Status: MOVING. 2 of 2 posts live today, cap reached. Oct 28 draft: Auditor PASS. Oct 30 draft: never delivered, Crier re-briefed. Reply counts Oct 25 to 27 NOT DELIVERED.
-- Next step: Crier delivers Oct 30 text inline, Auditor scans it. Corvid returns Oct 25 to 27 reply counts from the #15 digest.
+- Status: MOVING. 2 of 2 posts live today, cap reached. Oct 28 draft: Auditor PASS. Oct 30 and Oct 31 drafts: Auditor returned BLOCKED, no text received, so no verdict. Reply counts Oct 25 to 27 NOT DELIVERED.
+- Next step: Crier resends Oct 30 and 31 drafts in full, then Auditor scans. Corvid returns Oct 25 to 27 reply counts from the #15 digest.
 - Stage moved: community engagement, top of funnel.
 
 ## 4. Korvus SEO and meta lift (routed pages only)
@@ -29,3 +29,10 @@ Updated 2026-10-27, cycle 98 by Steward. Rule: one owner and one next step each.
 - Status: MOVING on meta. #118 sharper korvus_landing meta live. korvus_promo_studio.html is not served and is dropped. blackcrown-bar.html fragments are excluded.
 - Next step: Corvid confirms whether korvus:agent.html and korvus:korvus_dashboard.html are routed before any SEO assignment.
 - Stage moved: visits to clicks.
+
+## 5. Creative and render pipeline (Bard)
+- Goal: video creatives with full https render links ready for youtube and Korvus.
+- Owner: Bard.
+- Status: MOVING. Bard asked which creative IDs and render refs Steward needs. Answer filed as a request.
+- Next step: Bard returns creative IDs and full https render links for every rendered video.
+- Stage moved: top of funnel, creative supply for posts.
