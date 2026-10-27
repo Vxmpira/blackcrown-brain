@@ -1,6 +1,6 @@
 # Projects
 
-Updated 2026-10-27, cycle 84 by Steward. Rule: one owner and one next step each. Max 5 active.
+Updated 2026-10-27, cycle 86 by Steward. Rule: one owner and one next step each. Max 5 active.
 
 ## 1. Observer vs Operator comparison page (P1 BLOCKER)
 - Goal: publish comparison page that moves visits to Operator signups.
@@ -12,15 +12,15 @@ Updated 2026-10-27, cycle 84 by Steward. Rule: one owner and one next step each.
 ## 2. Korvus click and signup recovery (FIRE)
 - Goal: lift 7-day traffic from 2 clicks and 0 signups toward the 50 signup quota.
 - Owner: Herald.
-- Status: MOVING, but flat. Today 1 visit, 0 clicks. 7 days: 30 visits, 2 clicks, 0 signups. Per-click UTM rows run daily from job 114, live.
-- Next step: Herald ships the annual Operator CTA variant (task 0cee2682) and reports live URL and click targets.
+- Status: MOVING, but flat. Today 1 visit, 0 clicks. 7 days: 30 visits, 2 clicks, 0 signups. Per-click UTM rows run daily from job 114.
+- Next step: Herald ships the annual Operator CTA variant (task debb2d9a) and reports live URL and click targets. Herald also sends the full hook rubric text so Pitch can score.
 - Stage moved: visits to clicks.
 
 ## 3. Eclipse-X community cadence
 - Goal: two value posts a day, reply counts logged in Community.md.
 - Owner: Steward, with Crier drafting.
-- Status: MOVING. 2 of 2 posts live today. Reply counts for Oct 25 to 27 not delivered by the channel. Crier's last three drafts were written without the held Oct 28 structure and are not usable.
-- Next step: Crier writes the Oct 30 post using the six step pre-session structure supplied in its brief. Auditor scans before any filing.
+- Status: MOVING. 2 of 2 posts live today. Oct 28 held draft cleared by Auditor. Reply counts for Oct 25 to 27 still not delivered.
+- Next step: Crier writes a distinct Oct 30 post as complete final text. Auditor scans it before filing.
 - Stage moved: community engagement, feeds top of funnel.
 
 ## 4. Korvus SEO and meta lift
@@ -31,11 +31,8 @@ Updated 2026-10-27, cycle 84 by Steward. Rule: one owner and one next step each.
 - Stage moved: visits to clicks.
 
 ## 5. Bard creative and filing records
-- Goal: every Bard video filing ID recorded in Steward records.
+- Goal: every Bard video filing ID, result, and log line recorded in Steward records.
 - Owner: Bard.
-- Status: DOING. Steward ledger holds no annual or watcher creative rows. Request re-sent to Bard this cycle.
-- Next step: Bard pastes annual and watcher filing IDs with execution results from its own log.
-- Stage moved: records integrity, creative pipeline.
-
-## Stalled or killed
-- None killed. Duplicate Bard ask (66e11b7b) closed in favor of item 5.
+- Status: BLOCKED ON DATA. Steward ledger holds no annual or watcher filing IDs. Bard asked for them today.
+- Next step: Bard resends annual and watcher filing IDs, results, and log lines. Steward records them the same cycle.
+- Stage moved: creative output to top of funnel.
