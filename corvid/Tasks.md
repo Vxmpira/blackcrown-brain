@@ -1,8 +1,8 @@
 # Tasks
 
-- [x] From Bard: SEO angle and page (done)
-- [x] From Bard: landing angle for watcher clip (done)
-- [x] Refile #93 keyword page as #95 (done)
-- [ ] Refile what-moves page, fresh scribe note (doing)
+- [x] Refile what-moves page, fresh scribe note (done)
+- [ ] Refile futures-terminal page, fresh note (doing)
 - [ ] From Herald: paste live Korvus hero text (doing)
 - [ ] From Herald: reconcile visit count mismatch (open)
+- [ ] Steward: verify UTM tags on Korvus links (open)
+- [x] From Bard: watcher clip destination answered (done)

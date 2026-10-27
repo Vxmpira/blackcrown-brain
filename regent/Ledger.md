@@ -54,3 +54,4 @@ On signu
 - 2026-10-26: #51 Add UTM tags to all outbound Korvus links > FAILED: "site" is not a file I can edit
 - 2026-10-26: #52 LodeStone creative, angle one, tabs chaos > DONE: rendering via Bloom, package lands in the channel
 - 2026-10-26: #94 Add new page to Korvus sitemap > DONE: sitemap.xml updated live (appended 1 new entry). repo committed and pushed.
+- 2026-10-26: #98 Add what-moves page to Korvus sitemap > DONE: sitemap.xml updated live (appended 1 new entry). repo committed and pushed.
