@@ -2,7 +2,7 @@
 
 What the data keeps saying. Updated every cycle.
 
-- REFILE: #138 pending from clean note 104 (notes 101-103 are dead drafts, never reuse). Guard killed 101 and 103 on duplicate head; if 104 bounces the guard needs a HEALER look. [[Confidence: 4/5]]
+- REFILE: #138 pending from clean note 104 (notes 101-103 are dead drafts, never reuse; guard killed 101 and 103 on duplicate head). If 104 bounces the guard needs a HEALER look. [[Confidence: 4/5]]
 - Home leak holds: 27 of 32 visits on home, 0 Korvus clicks all week. /p/observer and X posts are the levers. [[Confidence: 5/5]]
 - Organic near zero: 1 google, 1 youtube, 24 direct. Indexable inventory thin until /p/observer lands. [[Confidence: 5/5]]
 - X LIVE 10-27 CONFIRMED: #130, #132, #133, #135, #136, #137 all posted per ledger. Watch x source rows from 10-28. [[Confidence: 5/5]]
@@ -15,3 +15,4 @@ What the data keeps saying. Updated every cycle.
 - Sitemap entry for /p/observer files only AFTER the page lands. [[Confidence: 5/5]]
 - BARD PIPE 10-27: angle requests land as tasks; answer lives in [[Bard-Angles]]. [[Confidence: 4/5]]
 - Next page after /p/observer: a use-case page, delegate scribe only once observer is live and indexed. [[Confidence: 3/5]]
+- Revenue quota 10-27 met: six X posts live plus #138 pending. No filler asks. [[Confidence: 5/5]]
