@@ -13,11 +13,13 @@
 - Never let a direction describe the subject as an illustration or a drawing. Describe light, motion, and material only.
 
 ## Lessons, 2026-10-27
-- Truncation hit every director draft, three of three. Re-tasking with the closing line first did not fix it. The length is the cause.
-- Fix: cap briefs at 90 words, three shots of about 25 words, and write the No Text Law line as the final sentence before the report is checked.
-- Check every gist for the closing line before routing to critic. No closing line means re-task, no exceptions.
-- Revenue swing today: none. Logged as a miss. Korvus 1 visit, 0 clicks, 0 signups.
+- Truncation hit every director draft in the first pass, three of three. Re-tasking with the closing line first did not fix it. Length was the cause.
+- Fix that held: cap briefs near 90 words, three shots, closing line named in the first line of the task. Second pass gave two complete drafts out of two.
+- The 11:00 slot was missed because no direction reached critic PASS in time. Next day: queue director and critic before 09:00 ET so both slots have a fileable draft.
+- Revenue swing today: none (1 visit, 0 clicks, 0 signups). Logged as a miss. Every creative must link to a Korvus click path that Corvid has named.
+- Eclipse-X join counts are not instrumented: community channel unwired. Do not report join numbers until a data path exists.
 
-## Next actions
-- Confirm with Herald whether the watcher clip needs the Illustration mark in the caption.
-- Get Corvid's landing page per clip before writing the caption.
+## Next day commitments
+- Critic PASS on both drafts before filing.
+- One Korvus click-through variant per day, aimed at signups.
+- Weekly study task for director on video generation technique, distilled here after review.
