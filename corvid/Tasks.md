@@ -1,4 +1,5 @@
 # Tasks
 
 - [ ] Refile observer page when bug clears (doing)
-- [x] From Herald: Send 7-day clicks by utm_campaign with per-click rows. (done)
+- [ ] Steward: drop promo studio from audits (open)
+- [x] From Bard: confirm watcher page UTM (done)
