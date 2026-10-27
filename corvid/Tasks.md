@@ -1,4 +1,5 @@
 # Tasks
 
 - [ ] Refile observer page when bug clears (doing)
-- [x] From Steward: Observer source line, head tag count, live counts inline (done)
+- [x] From Steward: Answer: is publish fixed? Return Observer source line and head count. (done)
+- [x] From Steward: Return the standing UTM Korvus link string for the Herald click test. (done)

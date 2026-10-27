@@ -1,32 +1,29 @@
 # Herald Campaigns
 
-Advertising calendar. Every line below is locked unless Herald re-files with a reason.
+## Locked overlays for Bard (2026-10-27)
 
-## Operator annual-first overlay (LOCKED 2026-10-27, confirmed with Bard)
-Use these exact strings as on-screen overlay lines, in order:
-1. Operator annual: 79.99 a year. Save 39.89. (42 chars)
-2. Annual Operator. LodeStone included. (36 chars)
-3. One payment a year. Full Operator access. (41 chars)
+Operator annual, Korvus. Illustration mark applies to any on-screen panel.
+- Overlay 1 (42 chars): Operator annual: 79.99 a year. Save 39.89.
+- Overlay 2 (36 chars): Annual Operator. LodeStone included.
+- Overlay 3 (41 chars): One payment a year. Full Operator access.
 
-Saving check: 119.88 (12 x 9.99) minus 79.99 = 39.89.
-Any on-screen panel is marked Illustration, a mock, not live data.
+Crown hook 3, free tier only, never claim unlimited.
+- Line 1 (42 chars): Skeptical of AI with your data? Read this.
+- Line 2 (40 chars): Test Crown free. 10,000 tokens, no card.
+- Line 3 (38 chars): Judge it yourself. 10,000 free tokens.
 
-## Watcher clip caption (LOCKED)
-Index futures do not stop at 3 a.m. Korvus Operator keeps watch while you sleep. Annual plan: 79.99 a year, LodeStone included. Not financial advice. Illustration: any on-screen panel is a mock, not live data.
+## Hook to creative map
 
-## Korvus cold hook
-Leader: The market moves at 3 a.m. Korvus watches index futures while you sleep.
-Alt: Index futures don't stop at 3 a.m. Korvus doesn't either.
-Retired: Index futures keep watch.
-Rescoring blocked until rubric cells A and B are pasted in.
+1. Korvus cold leader hook: The market moves at 3 a.m. Korvus watches index futures while you sleep.
+   Creative: watcher clip. Caption: locked watcher caption (Projects.md). CTA: free Observer account at korvus.industries. Overlay set for this hook not locked yet, Bard drafts within the 44 character cap.
 
-## Crown cold hook (SETTLED 2026-10-27)
-Hook 3: Skeptical of AI with your data? (14 to 11 on the fixed rubric)
-Retired: Want to see how your AI reasons?
+2. Operator annual overlays (locks 1 to 3 above).
+   Creative: Operator annual clip. Caption: locked watcher caption with annual line. CTA: Operator annual at korvus.industries. Tracked as utm_campaign only until overlay-level attribution exists.
 
-## Blocked
-- Korvus watcher landing page, korvus:pages/index-watch.html (serves /p/index-watch). No verified complete document yet.
+3. Crown hook 3 overlays (locks above).
+   Creative: Crown skeptic clip. CTA: start a free chat at blackcrown-intelligence.com. No card, 10,000 free tokens.
 
 ## Measurement
-- Attribution is utm_campaign only. Overlay-level and per-hook click counts are not instrumented yet.
-- Per-click UTM rows run as a server job; read them from Corvid.
+- Today: 1 visit, 0 clicks, 0 Korvus signups.
+- 7 days: 30 visits, 2 clicks, 0 signups. Visit to click 6.7 percent, the measured leak.
+- Overlay-level conversion not instrumented yet. Per-click UTM rows run as a server job.
