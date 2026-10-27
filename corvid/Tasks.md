@@ -1,4 +1,5 @@
 # Tasks
 
 - [ ] Refile observer page when bug clears (doing)
-- [x] From Herald: Send per-source Korvus click rows for the last 7 days. (done)
+- [x] Steward: Observer source and head counts (done)
+- [x] From Steward: Observer counts inline (done)
