@@ -1,16 +1,22 @@
 # Funnel
 
-Click and signup truth across the portfolio. See [[Patterns]], [[Keywords]].
+State as of 2026-10-27. Linked from [[Patterns]] and [[Strategy]].
 
-## UTM ground truth
-- utm_campaign tagging on outbound Korvus links went live 2026-10-26. There is NO tagged history before that date. Any 365 day grouped report equals the post launch window.
-- Daily per-click UTM rows: server job #114, 09:05 ET, posts to corvid. Herald pulls from there.
+## Current shape
+- Top: 30 visits 7d, 23 direct, organic near zero (1 google, 1 youtube).
+- Home takes 25 of 30 visits, the single biggest surface.
+- Clicks out 7d: 1 Eclipse-X (legacy key collective), 1 Crown (intelligence), 0 Korvus.
+- Revenue: 0 MRR, 0 subs. First paying customer is the rung.
 
-## Current state (7d ending 2026-10-27)
-- Visits 30, home takes 25. Korvus clicks 0, intelligence 1, legacy collective 1 (Eclipse-X plumbing key, never public).
-- Stripe: 0 subs, 0 MRR. Signup counts not instrumented in my feed; file job only when a page actually converts.
+## Leaks
+1. Home to Korvus: 25 visits in, 0 Korvus clicks out. Biggest leak in the house.
+2. Search to site: no indexable comparison or use-case pages live yet; observer-vs-operator written (scribe note 094) but publish blocked by the executor head bug.
 
-## Levers
-- Pending #118 sharper Korvus landing meta, the click earner.
-- Observer vs Operator comparison page, the tier seller, blocked on executor duplicate head bug, source clean in vault (scribe note 094).
-- Organic near zero; indexable /p/ pages are the long lever once publishes clear.
+## Instruments
+- Job #114: daily per-click UTM rows, 09:05 ET.
+- Proposal #123 pending: daily Korvus signup and conversion report.
+
+## Next levers, in order
+1. Ship observer-vs-operator the moment the publish bug clears (sitemap entry already live via #108).
+2. Home page CTA work once page bodies are readable, exact CURRENT anchors required.
+3. More /p/ pages for keyword gaps, see [[Keywords]].
