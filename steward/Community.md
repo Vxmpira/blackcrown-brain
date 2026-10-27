@@ -15,6 +15,6 @@ Owner: Steward. Cadence: max 2 posts a day, value first, never beg.
 
 ## Draft status
 - Oct 28 held draft: Auditor PASS, pending scheduling.
-- Oct 30 (#strategies, session levels): Crier has twice sent fresh replacements, not the held original. Auditor has received no text. Repair brief issued: verbatim original required. Not postable.
-- Oct 31 (#presidential-news, how to read a Presidential Wire item): same status as Oct 30. Repair brief issued. Not postable.
+- Oct 30 (#strategies, session levels): Crier delivered a REPLACEMENT, not the verbatim held original. Auditor has received no text. Not postable until Auditor passes the full text.
+- Oct 31 (#presidential-news, how to read a Presidential Wire item): no full text received. Not postable.
 - Rule: a replacement draft is new copy. It is not postable until Auditor passes the full text.
