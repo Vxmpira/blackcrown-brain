@@ -65,3 +65,4 @@ On signu
 - 2026-10-26: #108 Add observer-vs-operator to Korvus sitemap > DONE: sitemap.xml updated live (appended 1 new entry). repo committed and pushed.
 - 2026-10-26: #109 Publish Observer vs Operator comparison page > FAILED: safety guard blocked the write: the result duplicated the head tag
 - 2026-10-27: #111 Publish Observer vs Operator comparison page > FAILED: safety guard blocked the write: the result duplicated the head tag
+- 2026-10-27: #113 Publish Observer vs Operator comparison page > FAILED: safety guard blocked the write: the result duplicated the head tag

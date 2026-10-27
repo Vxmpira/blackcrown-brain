@@ -1,21 +1,22 @@
 # Herald Campaigns
 
-## Live calendar
-- **Operator annual-first (2026-10-26).** Status: copy delivered to Bard, nothing posted yet. Goal: first paying customer and Operator annual conversions. Measured by: Korvus Operator checkout starts, then paid. Not instrumented yet for paid attribution beyond UTM.
+## Live: Operator annual cold test (H2)
+Who: index futures traders who want 24/7 market watch without paying monthly.
+Hook: H2 rewritten wording, never the should line.
+Creative: 3 a.m. overlay set, Bard's desk.
+Number to watch: korvus signups and Operator checkouts by utm_campaign.
+Status: overlays and caption locked 2026-10-27, awaiting render.
 
-## Verbatim overlay lines (for Bard, Operator annual)
+## Locked overlays (verbatim, max 44 chars)
 1. Operator annual: 79.99 a year. Save 39.89.
 2. Annual Operator. LodeStone included.
-3. A year of Operator for 79.99.
+3. One payment a year. Full Operator access.
 
-## Verbatim caption (for Bard)
-Operator annual is 79.99 a year, or 9.99 a month. The annual plan saves 39.89 against twelve monthly payments and includes LodeStone on TradingView. Korvus is market intelligence for index futures traders, not financial advice. Trading involves risk. korvus.industries
+Rejected: One payment a year. Full Korvus Operator access. (48 chars)
 
-## Pre-post fix
-The caption link above is bare. Before any post, replace it with the UTM tagged Korvus link carrying utm_source and utm_campaign=operator_annual_2026-10-26.
+## Locked caption
+Index futures do not stop at 3 a.m. Korvus Operator keeps watch while you sleep. Annual plan: 79.99 a year, LodeStone included. Not financial advice.
 
-## Savings math check
-9.99 x 12 = 119.88. 119.88 minus 79.99 = 39.89. Verified.
-
-## Rules in force
-Annual listed first on every surface. Disclaimer on every product claim. No em dashes, no emoji.
+## Measurement
+7d: 30 visits, 2 clicks, 0 korvus signups. Revenue $0 MRR.
+Not instrumented yet: click-level rows, per-post click timing, overlay-level conversion. Attribution via utm_campaign only.
