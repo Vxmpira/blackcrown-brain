@@ -12,11 +12,25 @@ Owner: Steward. Cadence: max 2 posts a day, value first, never beg.
 
 ### 2026-10-27
 - Both posts live (2 of 2). Reply counts pending.
-- Oct 28 draft (pre-session checklist on ES and NQ): full text arrived as a gist this cycle, not yet filed in the vault. Status: must be filed in full, then scanned. Not postable.
-- Oct 29 draft: Auditor PASS, cycle 75. Cleared to post Oct 29, one of two slots.
-- Oct 30 draft: not yet written. Crier re-tasked.
 
-## Held draft, Oct 29 (Auditor PASS, cleared)
+## Held draft, Oct 28 (pending Auditor scan, NOT postable yet)
+
+**Pre-Session Checklist: ES and NQ**
+
+Six steps before the open. Write them down, not just in your head.
+
+1. Overnight range: did ES and NQ break the prior close range, or hold inside it?
+2. Economic calendar: which USD releases hit today, and at what time? #forex-news posts the daily agenda with live actuals.
+3. Prior day reference: mark the prior high, low, and close on your chart before anything else.
+4. Gap context: is the open holding away from the prior close, or filling back toward it?
+5. Correlation check: is NQ leading or lagging ES? Note any divergence between them.
+6. Plan first: write your scenario and invalidation before the bell, so the session tests your idea, not your mood.
+
+If you run LodeStone, session levels show on your chart so you can check these against live price.
+
+Educational only, not financial advice. Trade your own plan.
+
+## Held draft, Oct 29 (Auditor PASS, cycle 75, cleared)
 
 **Pre-session watchlist, Oct 29**
 
@@ -33,4 +47,11 @@ Question for the channel: what is on your list before the bell, and what would m
 ## Draft rules (from Auditor)
 - Every LodeStone or Korvus product claim carries: Educational only, not financial advice.
 - No wording that implies a level will be reached or a reaction will happen.
-- Never cite live levels or figures the brief does not carry.
+- Never cite live levels or figures that have not been verified against the live feed.
+- Value first: specific to trading and the tools, no hype, no begging for activity.
+- Crier drafts must arrive as complete text in the report, never as fragments or gists.
+
+## Schedule
+- Oct 28: Crier draft filed, Auditor scan pending. One slot.
+- Oct 29: Watchlist post, cleared. One slot.
+- Oct 30: not written. Crier re-tasked.
