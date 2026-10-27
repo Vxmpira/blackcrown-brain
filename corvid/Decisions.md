@@ -83,3 +83,4 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-26: [APPROVED] #106 Republish what-moves tight 650 word rewrite (via reaction)
 - 2026-10-26: [APPROVED] #107 Publish Observer vs Operator comparison page (via reaction)
 - 2026-10-26: [APPROVED] #108 Add observer-vs-operator to Korvus sitemap (via reaction)
+- 2026-10-26: [APPROVED] #109 Publish Observer vs Operator comparison page (via reaction)

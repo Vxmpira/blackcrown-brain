@@ -63,3 +63,4 @@ On signu
 - 2026-10-26: #106 Republish what-moves tight 650 word rewrite > DONE: pages/what-moves-the-market.html updated live (exact match). repo committed and pushed. (self repaired)
 - 2026-10-26: #107 Publish Observer vs Operator comparison page > FAILED: safety guard blocked the write: the result duplicated the head tag
 - 2026-10-26: #108 Add observer-vs-operator to Korvus sitemap > DONE: sitemap.xml updated live (appended 1 new entry). repo committed and pushed.
+- 2026-10-26: #109 Publish Observer vs Operator comparison page > FAILED: safety guard blocked the write: the result duplicated the head tag
