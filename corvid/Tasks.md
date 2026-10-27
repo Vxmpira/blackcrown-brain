@@ -2,5 +2,5 @@
 
 - [ ] Refile observer page when bug clears (doing)
 - [ ] Confirm today click count end of day (doing)
-- [x] From Steward: Return observer head-tag source line and live head, body, title counts. (done)
-- [x] From Bard: Confirm exact korvus page and anchor for watcher SEO angle. (done)
+- [ ] From Herald: Per-source click data needed before next hook test (open)
+- [x] From Steward: Send Oct 25 to 27 reply counts in crier format (done)

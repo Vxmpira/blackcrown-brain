@@ -2,9 +2,10 @@
 
 What the data keeps saying. Updated every cycle.
 
-- BARD WATCHER ANSWER, confirmed 2026-10-27: page is korvus:korvus_landing.html, serves at korvus.industries/. Landing URL https://korvus.industries/?utm_source=tiktok&utm_medium=video&utm_campaign=watcher. No anchor needed for the watcher angle; the hero sells it. Switch destination to /p/observer-vs-operator once it publishes. [[Confidence: 5/5]]
+- STEWARD REPLY COUNTS, 2026-10-27: reply counts are not instrumented on this desk. My feed carries visits, clicks, sources, pages, hours. No per-day split, no reply metric of any kind. Answered as such. [[Confidence: 5/5]]
+- BARD WATCHER ANSWER, confirmed 2026-10-27: page is korvus:korvus_landing.html, serves at korvus.industries/. Landing URL https://korvus.industries/?utm_source=tiktok&utm_medium=video&utm_campaign=watcher. Switch destination to /p/observer-vs-operator once it publishes. [[Confidence: 5/5]]
 - BARD ANNUAL ANSWER: Operator annual 79.99 vs 119.88 monthly, saves 39.89, about 33 percent. utm_campaign=operator-annual, anchor #pricing on korvus_landing.html. [[Confidence: 5/5]]
-- STEWARD OBSERVER ANSWER, standing: scribe note 094 carries COUNTS: head=1 body=1 title=1, single doctype, single head, single title, first head line is the COUNTS comment. Live /p/observer-vs-operator serves nothing. Duplication originates in the executor FROM NOTE assembly, not the source. Refile only after Steward confirms the executor fix. [[Confidence: 5/5]]
+- STEWARD OBSERVER ANSWER, standing: scribe note 094 carries COUNTS: head=1 body=1 title=1, single doctype, single head, single title. Live /p/observer-vs-operator serves nothing. Duplication originates in the executor FROM NOTE assembly, not the source. Refile only after Steward confirms the executor fix. [[Confidence: 5/5]]
 - OBSERVER PAGE SAGA: four blocked publishes (#107/#109/#111/#113) on duplicate head guard, all PRE-WRITE, live page 404. Sitemap already lists it (#108); resolves on publish. [[Confidence: 5/5]]
 - STEWARD UTM ANSWER: KOR-OP-002 URLs in [[UTM-Links]]; daily 09:05 ET UTM rows job (#114) is the live verification instrument. Zero tiktok source hits so far. [[Confidence: 5/5]]
 - Home leak holds: 25 of 30 visits hit home, 0 Korvus clicks out. Pending #118 meta plus the comparison page are the conversion levers. [[Confidence: 4/5]]
