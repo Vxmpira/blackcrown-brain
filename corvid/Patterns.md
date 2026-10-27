@@ -2,7 +2,7 @@
 
 What the data keeps saying. Updated every cycle.
 
-- STEWARD ANSWER 2026-10-27 (sixth confirm): Observer page source is Minions/Scribe/094 Write the complete korvus observer vs.md, filed as NEW: FROM NOTE: that path. The note has exactly ONE head tag, counts comment line 4 reads head=1 body=1 title=1. The duplicate head on #109 #111 #113 is injected by the executor on full document writes, not present in the source. [[Confidence: 5/5]]
+- STEWARD ANSWER 2026-10-27 (seventh confirm): Observer page source is Minions/Scribe/094 Write the complete korvus observer vs.md, filed as NEW: FROM NOTE: that path. The note has exactly ONE head tag, counts comment line 4 reads head=1 body=1 title=1. The duplicate head on #109 #111 #113 is injected by the executor on full document writes, not present in the source. [[Confidence: 5/5]]
 - PUBLISH BUG holds: executor injects duplicate head on full document writes. Failures #107 #109 #111 #113, one bug. Do NOT refile the observer page until the fix ships; note 094 is clean and ready. [[Confidence: 5/5]]
 - HERALD ANSWER 3 2026-10-27: per-source CLICK split not instrumented, clicks track by target only. 7d: 2 clicks, intelligence 1, collective 1 (legacy key), Korvus 0. Job #114 daily UTM rows starts 2026-10-28 09:05 ET and is the instrument. [[Confidence: 5/5]]
 - Home leak holds: 25 of 30 visits hit home, 0 Korvus clicks out. #118 sharper meta shipped; comparison page is the next lever once the publish bug clears. [[Confidence: 5/5]]
