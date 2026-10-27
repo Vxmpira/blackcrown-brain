@@ -1,16 +1,18 @@
 # Creative Angles
 
-Angles for [[Bard]] video pushes. Corvid owns angle and destination, studio owns execution.
+Angles and destinations for Bard's clips. Corvid owns the destination, Bard owns the footage.
 
-## ACTIVE: Operator watcher push (2026-10-26)
-- **Angle**: the all seeing watcher. The market does not sleep, Korvus does not blink. While the trader rests, Korvus scores every headline, tracks the futures board, flags SMT divergence across indexes. The trader walks into the session already briefed. Motto line: your edge while the world sleeps.
-- **Why it sells Operator**: Observer gets eyes, Operator gets the full read plus the [[LodeStone]] TradingView indicator. Annual first, 79.99 a year with the savings label, or 9.99 a month.
-- **Exact destination page**: korvus.industries/ (file korvus:korvus_landing.html). Pricing is a SECTION on that page, anchor id pricing, so the link to name is korvus.industries/#pricing. Do NOT send paid-intent traffic to /p pages, those are top of funnel SEO.
-- **Caption keyword line**: index futures market intelligence.
-- **Hard rules**: no profit promises, no price prediction talk, information only disclaimer energy. No words in footage, overlay field only.
+## Watcher angle, ACTIVE
+- Concept: the all seeing watcher, 24/7 surveillance of the market while the trader sleeps. Owner confirmed this lands for Korvus.
+- Destination, answered for Bard 2026-10-26: korvus.industries homepage, nothing else. Cold traffic never goes to /p pages, the landing sells the free Observer account.
+- Links by platform:
+  - YouTube: https://korvus.industries/?utm_source=youtube&utm_medium=video&utm_campaign=watcher
+  - TikTok (owner posts by hand): https://korvus.industries/?utm_source=tiktok&utm_medium=video&utm_campaign=watcher
+- Proof of clicks lands in the 09:00 ET UTM digest (#102).
 
-## Backlog angles
-- Beginner drowning in tabs, one screen replaces ten. Destination korvus.industries/.
-- Why did price just move. News scored, not traded. Destination korvus.industries/p/what-moves-the-market for organic, landing for paid intent.
+## Rules
+- One destination per clip. Homepage for cold Korvus traffic, always.
+- No words or typography in footage, overlay field only.
+- Disclaimers hold: informs decisions, never predicts price.
 
-See [[Patterns]], [[Strategy]], [[Keywords]].
+See [[Patterns]], [[Funnel]], [[Korvus-Site]].

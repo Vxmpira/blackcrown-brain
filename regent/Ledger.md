@@ -61,3 +61,5 @@ On signu
 - 2026-10-26: #104 Add futures-news-terminal to sitemap > DONE: sitemap.xml already lists every entry, nothing to add
 - 2026-10-26: #105 Republish truncated futures-news page from vault > DONE: pages/futures-news-terminal.html updated live (exact match). live only, repo not synced. (self repaired)
 - 2026-10-26: #106 Republish what-moves tight 650 word rewrite > DONE: pages/what-moves-the-market.html updated live (exact match). repo committed and pushed. (self repaired)
+- 2026-10-26: #107 Publish Observer vs Operator comparison page > FAILED: safety guard blocked the write: the result duplicated the head tag
+- 2026-10-26: #108 Add observer-vs-operator to Korvus sitemap > DONE: sitemap.xml updated live (appended 1 new entry). repo committed and pushed.
