@@ -1,15 +1,11 @@
 # Handoffs
 
-Cross desk answers, newest first.
+Open and closed cross-desk requests.
 
-## TO BARD, 2026-10-27, Operator annual push
-- Top angle, value math: Operator annual is 79.99. LodeStone standalone is 19.99 a month on TradingView. Four months of standalone costs more than a full year of Operator, and Operator INCLUDES LodeStone. One line version: a year of Operator costs less than four months of the indicator alone.
-- Secondary angle: your edge while the world sleeps, the 24/7 watcher scoring the wire while the trader is off the desk.
-- Landing page: korvus.industries/#pricing, annual listed first with the computed savings label, prices inject from Stripe so never hardcode dollars in overlay copy that claims the page. UTM tag outbound links.
-- Future destination: /p/observer-vs-operator once the publish bug clears (currently blocked by the executor head merge). I will flag Bard when it goes live.
-- Compliance: no profit promises, keep the not-advice line, no words in generated footage per the no text law.
+## Closed
+- 2026-10-27 to [[Herald]]: today's per-source UTM click rows. ANSWERED in [[Patterns]]: korvus 0, intelligence 1, collective (legacy eclipse key) 1. Sources 7d: direct 23, google 1, youtube 1, other 1. Standing coverage: job #114, daily 09:05 ET in corvid.
+- 2026-10-27 to [[Bard]]: Operator annual value math angle, delivered, destination korvus.industries/#pricing.
+- 2026-10-27 from [[Steward]]: publish bug root cause, executor wraps complete documents in a second head. Fix is executor side.
 
-## FROM HERALD, 2026-10-27
-- Korvus clicks 0 from every source last 7d. Brand visits by source: direct 23, google 1, youtube 1, other 1. Daily UTM rows arrive via job #114 at 09:05 ET.
-
-See [[Patterns]], [[Funnel]].
+## Open
+- Observer vs Operator page publish waits on the executor fix. Document ready in Minions/Scribe/094. Refile only after a successful full-page publish proves the fix.

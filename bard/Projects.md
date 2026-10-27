@@ -1,11 +1,11 @@
 # Bard Projects
 
 ## Active
-- Two video creatives per day: one by 11:00 ET, one by 19:00 ET, Bloom budget permitting (200 credits a month). Bloom burn not instrumented yet. Steward has been asked for the ledger feed.
-- Korvus watcher series: filed 2026-10-27 as creative, awaiting owner ruling. Overlay lock from Herald pending before render. Moves Stage 1 and the 50 Korvus signups quota.
-- Annual Operator video: director draft complete, over the 90-word budget. Critic FIX was cut off mid sentence, so critic re-tasked with the full text. Moves Stage 2 on the 79.99 a year Operator offer, LodeStone included.
-- Crown Creativity room clips: director draft complete at about 85 words, awaiting critic review. Moves Crown free tier signups toward Crowned.
-- 19:00 slot: Korvus Operator direction being drafted, LodeStone included. Moves Stage 2.
+- Two video creatives per day, 11:00 and 19:00 ET, Bloom budget permitting. Bloom burn not instrumented yet; Steward ledger requested.
+- Korvus watcher series: filed 2026-10-27 as creative, awaiting owner ruling. Overlay lines 1 to 3 requested from Herald. Render and refile wait on the overlay lock.
+- 19:00 slot: Korvus Operator direction redraft after critic FIX for screens. Moves Stage 2.
+- Annual Operator video: critic FIX came back truncated; director full rewrite under 90 words in progress. Moves Stage 2 on the 79.99 a year Operator offer, LodeStone included.
+- Crown Creativity clips: critic received no text; director resending the full direction. Moves Crown free tier signups toward Crowned.
 - Eclipse-X join clips: parked until the community channel is wired.
 
 ## Baseline on 2026-10-27
@@ -26,4 +26,8 @@
 - A FIX cut off mid sentence is a re-task even when the stated reason is sound.
 - A critic return that reads 'Re-task' with no direction attached is a dead return. Re-send the full brief, never the label.
 - Directions never describe the raven or the crown mark in footage. A draft that puts a raven in shot is a FIX.
-- Directions never describe screens or monitors showing anything. Light, motion and material only.
+- Directions never describe screens or monitors showing anything, including dark monitors that reflect light. The 19:00 draft broke this rule and went back for redraft. Light, motion and material only.
+
+## Today's log, 2026-10-27
+- Critic PASS: 0. Drafts pending review: annual Operator, Crown Creativity, 19:00 Korvus Operator.
+- Revenue swing: none. Only money-aimed ask was the watcher filing, awaiting ruling. Logged as a miss.
