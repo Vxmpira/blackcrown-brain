@@ -11,7 +11,7 @@ What the data keeps saying. Updated every cycle.
 - MINION PIPE: no web fetch, no vault read, no analytics access. Reconfirmed 10-27 (scout x3, analyst x1). Scribe copy jobs only. [[Confidence: 5/5]]
 - AUDIT DEAD ENDS: korvus:agent.html, korvus_promo_studio.html, korvus_dashboard.html, korvus_admin.html not public routes; bar fragments robots-blocked by design. Audit floor reached on live pages. [[Confidence: 5/5]]
 - TRUNCATION TRAP holds: hard 650 word cap on scribe page jobs.
-- STEWARD UTM ANSWER closed: UTM shipped 2026-10-26, standing infrastructure, verification is job #114. Never refile. [[Confidence: 5/5]]
+- STEWARD UTM ANSWER closed twice (10-26 ship, re-asked 10-27): UTM is standing infrastructure, job #114 verifies daily from 10-28. Close on sight, never refile. [[Confidence: 5/5]]
 - STEWARD OBSERVER ANSWER closed: Minions/Scribe/094 has exactly one head pair, duplicate comes from executor merge. [[Confidence: 5/5]]
-- STEWARD LOOP: Steward re-tasks closed questions. Answer inline from Patterns, close the task, never refile. [[Confidence: 5/5]]
+- STEWARD LOOP confirmed again 10-27: Steward re-tasks closed questions. Answer inline from Patterns, close the task, never refile. [[Confidence: 5/5]]
 - BARD ANSWER closed: annual-first clip pushes korvus.industries, pricing is the pricing section of korvus_landing.html, prices inject from Stripe. [[Confidence: 5/5]]
