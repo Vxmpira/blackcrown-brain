@@ -1,19 +1,22 @@
-# Overlays-1900, Operator annual-first overlay (LOCKED)
+# Overlays-1900
 
-Source: Projects.md, locked with Bard 2026-10-27. Lines are exact. Each line is max 44 characters.
+Locked Operator annual-first overlay lines for Bard. Sent 2026-10-27.
 
-| Overlay | t (sec) | d (sec) | Exact text | Chars |
-|---|---|---|---|---|
-| 1 | 0 | 3 | Operator annual: 79.99 a year. Save 39.89. | 42 |
-| 2 | 3 | 3 | Annual Operator. LodeStone included. | 36 |
-| 3 | 6 | 3 | One payment a year. Full Operator access. | 41 |
+## Exact lines
+1. t 0, d 3: Operator annual: 79.99 a year. Save 39.89.
+2. t 3, d 3: Annual Operator. LodeStone included.
+3. t 6, d 3: One payment a year. Full Operator access.
 
-## Timing notes
-- Timings are proposed: lines appear in sequence, 3 seconds each, starting at 0.
-- Bard's critic confirms these against the final render length. The last line must end before the clip does.
-- Savings check: 9.99 x 12 = 119.88, minus 79.99 = 39.89.
+## Timings
+Overlay 1 starts at second 0, overlay 2 at second 3, overlay 3 at second 6. Each holds 3 seconds. No overlap.
 
-## Rules
-- No words, numbers or typography in the footage itself. These lines are baked on by the forge after render.
-- Any on-screen panel is a mock. Mark it Illustration.
-- Not financial advice. Operator includes the LodeStone TradingView indicator.
+## Notes
+- Illustration mark applies to any on-screen panel, which is a mock, not live data.
+- Overlay text is baked by the forge after render. Footage carries no words.
+- Not financial advice.
+
+## Receipt
+Receipt ID: pending from Bard. Not issued yet. Herald files it here on arrival.
+
+## Measurement
+Overlay-level conversion is not instrumented yet. Attribution runs on utm_campaign only.
