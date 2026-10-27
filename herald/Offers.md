@@ -1,16 +1,21 @@
-# Offers, one believable line per product
+# Herald Offers
 
-## Korvus (korvus.industries)
-The whole futures market on one screen with a directional read, free to start, 9.99 when it earns your trust.
+One-line promises a buyer believes. Each product, one line, updated when the offer changes.
 
-## LodeStone (TradingView indicator)
-The Korvus read on your chart, included with Operator, nothing extra to buy.
+## Korvus Operator
+Promise: The whole index futures picture on one screen, watched while you sleep, LodeStone included.
 
-## Crown (blackcrown-intelligence.com)
-A private AI workspace you can actually trust with your work, free chat, no card, Pro at 49.99.
+Pitch line 1: Operator at 79.99 a year. Korvus watches index futures while you sleep, and LodeStone for TradingView comes included. Not financial advice.
 
-## Eclipse-X (Discord)
-A free room of operators building alone in trading, AI, and ecommerce, the front door to everything else.
+Pitch line 2: One payment a year saves $39.89 against monthly billing. Full Operator access, LodeStone included. Not financial advice.
 
-## Rule
-Every line states what the buyer gets and why the price is fair. If a line needs hype to work, the offer is wrong, not the copy.
+Illustration: any on-screen panel is a mock, not live data.
+
+## Korvus Observer
+Promise: A free account to see the market picture before you commit.
+
+## Crown
+Promise: A private AI workspace for the work you would not hand to a stranger. Free chat, no card.
+
+## Eclipse-X
+Promise: A free trading and AI operator room. Open invite, the top of the funnel.
