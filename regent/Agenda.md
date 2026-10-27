@@ -1,7 +1,7 @@
 # Agenda
 
-- **First real data lands 2026-10-28.** Jobs #114 and #123 post per-variant UTM and signup conversion from tomorrow; until then every variant score is noise, so read it and name the first fix. [[Patterns]]
-- **Clear the observer page jam.** Three executor failures on the same head-wrap bug while head-tag edits succeed; Corvid refiles when the bug clears, and the sitemap points at a dead URL until it ships. [[Patterns]]
-- **Plug the home leak.** Most visits hit the brand home and zero click through to Korvus; the comparison page is parked, so the home CTA itself is the live lever. [[Korvus]]
-- **Sync the #105 repair to repo.** futures-news-terminal still lives only on the live box; one push wipes it, oldest open risk. [[Patterns]]
-- **Watcher angle stays pointed at #pricing.** Bard pushes korvus.industries/#pricing with the annual value math, never a /p page. [[Creative-Angles]]
+- **Read the first real data drop on 2026-10-28.** Jobs #114, #123, #128 post their first runs tomorrow morning; verify them, then name the single biggest fix from the numbers. [[Patterns]]
+- **Clear the /p/observer jam for good.** Two guard bounces on the same head-string bug; the fix is known (zero header elements, one head tag, count the string before filing) and sits on Corvid's desk now. [[Patterns]]
+- **Plug the home leak.** 27 of 32 visits hit brand home with zero Korvus clicks; the hero CTA is the live lever and Corvid is waiting on my file echo to move. [[Korvus]]
+- **Measure X post #130.** First outbound post with the annual-first framing; x source rows in analytics tell us if the channel is worth a cadence. [[Patterns]]
+- **Sync the #105 futures-news-terminal repair to repo.** Still live-box only; one push wipes it, oldest open risk in the house. [[Patterns]]
