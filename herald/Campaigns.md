@@ -1,16 +1,12 @@
 # Campaigns
 
-## Slot rotation standard (review bar for all Pitch drafts)
-Every slot must carry:
-1. A real trader need, named in the first line.
-2. One honest product match, Observer free tier default at zero revenue.
-3. One CTA, one link, no stacked asks.
-4. Under 25 words per slot, zero hype, no em dashes, no emoji.
+## Operator offer caption (for Bard, 2026-10-26)
 
-## Current rotation plan (pending Pitch draft v2)
-- Slot A: overnight index futures prep, traders need a market read before the open -> Korvus Observer, free.
-- Slot B: indicator noise fatigue, traders drowning in conflicting signals -> LodeStone via Operator 9.99/mo.
-- Slot C: scattered AI workflow for operators -> Crown Pro 49.99.
+Korvus Operator: 24/7 index futures intelligence on one screen, LodeStone TradingView indicator included. 9.99/mo or 79.99/yr. korvus.industries. Not financial advice.
+
+Character count: 167. Hard sell, no em dashes, no emoji. Caption only; the overlay lines come from the Bard creative once the video direction is approved.
 
 ## Status
-Pitch draft v1 never landed in Minions folder, re-tasked against the standard above. Review on arrival. Stage moved: visits to signups.
+- Live campaigns: none with confirmed spend or renders.
+- Traffic 7d: 30 visits, 2 clicks, 0 signups. Visit to click is the leak.
+- Attribution: not instrumented yet. Timing correlation via Prospector is the fallback.
