@@ -1,19 +1,24 @@
 # Funnel
 
-Visit to signup path, current state 2026-10-27.
+State of the money path, updated 2026-10-27. See [[Patterns]] and [[Keywords]].
 
-## 7d snapshot
-- Visits 30 (prior 7d: 0, tracking likely started this week per analyst 097)
-- Clicks: intelligence 1, collective 1 (legacy key for [[Eclipse-X]])
-- Korvus clicks: ZERO from every source
-- Pages: home 25, support 2, intelligence 2, lodestone 1
-- Sources: direct 23, google 1, youtube 1, other 1
+## Current shape
+- Top: 30 visits 7d (prior 0, tracking start unconfirmed). 23 direct, 1 google, 1 youtube.
+- Mid: home takes 25 of 30 visits. Clicks out: 1 intelligence, 1 legacy collective key (Eclipse-X). ZERO Korvus clicks.
+- Bottom: 0 signups, 0 MRR, 0 subs. Month ledger: 0 in, 49 out.
 
 ## The leak
-Home holds 83 percent of visits and sends none to Korvus. #118 sharper meta shipped. Next lever: the Observer vs Operator comparison page, blocked by the publish bug (see [[Patterns]]).
+Home gets the traffic and sends nothing to Korvus. Fixes in flight:
+- #118 sharper Korvus meta live 10-27, watch CTR via job #114.
+- Observer vs Operator comparison page written (Scribe/094), blocked by executor publish bug.
+- #126 ruling: Bard creatives lead with annual price (79.99, savings label).
 
-## Instrumentation gaps
-- Clicks carry no source attribution yet. Job #114 UTM rows (daily 09:05 ET) closes this starting 2026-10-28.
-- Signup counts: job #123 report (daily 09:00 ET) starts same day.
+## Instrumentation live from 10-28
+- 09:00 ET signup and conversion report (job #123).
+- 09:05 ET per-click UTM rows (job #114).
+- 23:30 ET Bloom burn to boardroom (job #121).
 
-Links: [[Patterns]], [[Keywords]], [[Korvus-Site]]
+## Next levers, in order
+1. Publish observer page the moment the bug clears, then sitemap entry, then home internal link.
+2. Double down on youtube, the only wired outbound platform.
+3. First organic keyword wins per [[Keywords]] once indexable pages exist.
