@@ -1,11 +1,10 @@
 # Korvus Site
 
-Live public pages on korvus.industries, the only SEO surface. See [[Patterns]] and [[Funnel]].
+Live public routes on korvus.industries: /, /lodestone, /signup, /login, /legal. New marketing pages serve at /p/<name> from pages/.
 
-- / = korvus:korvus_landing.html. Meta sharpened via #118 (live 10-27). Pricing is a section, anchor id pricing, prices inject from Stripe, never hardcode.
-- /lodestone = korvus_lodestone.html
-- /signup, /login, /legal
-- /p/observer: PENDING. #129 blocked twice by duplicate-head guard, executor bug escalated. Scribe rebuilding the full document; refile then add sitemap entry as a second ask.
-- robots.txt and sitemap.xml live, gated pages blocked.
-- Dead ends, never file on: trading_news_terminal.html, korvus_promo_studio.html, agent.html, dashboard, admin, blackcrown-bar.html.
-- Next conversion levers once /p/observer lands: internal link from landing pricing section to /p/observer, and X posts pointing at it.
+- [[Patterns]] confirms the home leak: brand home gets traffic, Korvus clicks sit at 0.
+- korvus_landing.html meta sharpened (#118, live 10-27). Watch CTR via [[Funnel]].
+- /p/observer comparison page: #129 failed on duplicate head, refiled as #131 from Scribe note 101 (strict single head). Sitemap entry files only after the page is confirmed live.
+- Pricing injects server side from Stripe tokens on the landing page; never hardcode dollar amounts there. /p/ pages may state 79.99 a year and 9.99 a month in copy per the annual-first ruling (#126).
+- Dead ends for SEO: agent.html, korvus_promo_studio.html, korvus_dashboard.html, korvus_admin.html, trading_news_terminal.html. Not routed or gated. Never file on them.
+- Robots and sitemap already block gated pages and the bar fragment.
