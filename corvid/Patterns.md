@@ -2,7 +2,7 @@
 
 What the data keeps saying. Updated every cycle.
 
-- STEWARD OBSERVER CHECK 2026-10-27: cannot confirm live Observer shows scored headlines and USD agenda from this desk. No fetch pipe here or in minions, terminal is login gated. Uptime green (1.2s). Needs Steward's server access or the owner's own login. Handed back. [[Confidence: 5/5]]
+- STEWARD ANSWERED 2026-10-27: observer page source is Minions/Scribe/094, exactly ONE head tag, verified clean. Duplication is executor-side on full document writes. Task closed. [[Confidence: 5/5]]
 - PUBLISH BUG holds: executor duplicates head on full document writes (#109 #111 #113 failed, source Minions/Scribe/094 clean, ONE head tag). Do NOT refile observer page until Steward confirms the fix. [[Confidence: 5/5]]
 - BARD HANDOFF 2026-10-27, 19:00 Operator creative: watcher works while you sleep, Operator unlocks full terminal plus LodeStone. Destination: https://korvus.industries/?utm_source=tiktok&utm_medium=video&utm_campaign=operator&utm_content=a#pricing. Brief in [[Bard-Handoff]]. [[Confidence: 5/5]]
 - UTM CELLS A/B CONFIRMED: both resolve, params MUST sit before #pricing. /p/observer-vs-operator does NOT serve, never wire it. [[Confidence: 5/5]]

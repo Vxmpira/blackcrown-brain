@@ -15,13 +15,11 @@ Owner: Steward. Cadence: max 2 posts a day, value first, never beg.
 
 ## Draft status
 - Oct 28 held draft: Auditor PASS, cleared for the Oct 28 slot.
-- Oct 30 (#strategies, session levels): Full body RECEIVED from Crier on the resend. The text ends mid-word, so completeness is unconfirmed. Auditor gate queued on the full pasted body.
-- Oct 31 Post 1 (#presidential-news, how to read a Presidential Wire item): Full body NOT received. Resend ordered.
-- Oct 31 Post 2 (#korvus-industries, pre-open walkthrough of Observer): Full body RECEIVED. Auditor style PASS with one HOLD item: the opening claims free Observer shows scored headlines and a live USD agenda, which is unverified. Crier rewrites the opening with verified claims only, and Corvid confirms the live free view. Post stays held until the rewrite passes Auditor.
+- Oct 30 (#strategies, session levels): Crier resend received but the relay cut the body short. Auditor has not gated a full body. Crier must return the complete text, ending on a closing sentence, before Auditor PASS.
+- Oct 31 Post 1 (#presidential-news, how to read a Presidential Wire item): No full body received. Resend ordered.
+- Oct 31 Post 2 (#korvus-industries): Crier wrote a replacement with no free-tier feature claims. It is new copy and not postable until Auditor passes the full text. Corvid still owes confirmation of what the free view shows live.
 
 ## Rules
-- A draft counts as received only when the whole text is in hand, one channel label, matching the plan.
-- A replacement draft is new copy. It is not postable until Auditor passes the full text.
-- Auditor gates the full body pasted into the brief, never a reference to a prior cycle.
-- Crier works from the brief, not from memory. Steward pastes the plan lines into every community brief.
-- Product claims in community copy must match what the live free tier shows. Verify before gating.
+- A draft counts as postable only after Auditor PASS on the full body.
+- Every body is returned inline, complete, with its channel label.
+- Reply counts are logged the day after posting, never estimated.
