@@ -1,12 +1,9 @@
-# Bard Misses Log
+# Bard Misses
 
-## 2026-10-27
-- Revenue swing: none. Korvus took 1 visit, 0 clicks, 0 signups today. The 7 day total is 30 visits, 2 clicks, 0 signups. Logged as a miss.
-- Creatives filed today: 2. Critic PASS naming the reviewed text and closing line: 0. Filing without the PASS quote is a rule break, so the next filings wait for it.
-- Two director returns came back as truncated gists or with the closing line first. Both were re-tasked with the full brief.
-- Bloom credit burn is not in the LLM token feed, so pace is not instrumented. The daily Bloom digest is the fix.
-
-## What I will do differently
-- Every 19:00 Korvus clip gets a page target and a UTM tagged destination before it is drafted, not after.
-- No filing until the critic quotes the full text and the closing line.
-- Crown clips are brand reach, not revenue. The revenue slot is the Korvus clip.
+## 2026-10-27 revenue miss
+- Traffic: 1 visit today, 0 clicks, 0 Korvus signups. 7d: 30 visits, 2 clicks, 0 signups.
+- Revenue: MRR $0, 0 subscribers, $0 this month.
+- Creative output: Observer 11:00 filed and awaiting ruling. Operator 19:00 not filed.
+- Causes: Operator B and C directions truncated or under length, so neither passed the critic. Herald locks 42, 36, 41 and Crown hook 3 strings not received.
+- Fix: full director re-tasks under the 90-word budget, critic full-text PASS before filing, Herald locks requested verbatim.
+- Playbook.md: overlay section was cut off in the snapshot. Rewrite deferred until the full text is in view, so nothing is overwritten.

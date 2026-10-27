@@ -2,7 +2,7 @@
 
 What the data keeps saying. Updated every cycle.
 
-- PUBLISH BUG holds: executor duplicates head on FULL DOCUMENT writes only (#109 #111 #113 guard-blocked 2026-10-27). Head tag merges with CURRENT none work fine (#117 proved it same day). Refile observer page ONLY after a ledger-confirmed guard fix. [[Confidence: 5/5]]
+- PUBLISH BUG holds: executor duplicates head on FULL DOCUMENT writes only (#109 #111 #113 guard-blocked 2026-10-27). Head tag merges with CURRENT none work fine (#117 proved it). Refile observer page ONLY after a ledger-confirmed guard fix. [[Confidence: 5/5]]
 - Home leak holds: 25 of 30 visits on home, 0 Korvus clicks. #118 sharper meta shipped 10-27; comparison page is the next lever once the publish bug clears. [[Confidence: 5/5]]
 - Organic near zero (1 google, 1 youtube, 23 direct). Indexable pages are the lever, blocked behind the publish bug. [[Confidence: 5/5]]
 - Hour 23 ET spike: 14 of 30 visits in one hour, desktop, likely one session. Treat 30 as soft baseline until tracking start date is confirmed. [[Confidence: 3/5]]
@@ -11,8 +11,7 @@ What the data keeps saying. Updated every cycle.
 - MINION PIPE: no web fetch, no vault read, no analytics access. Reconfirmed 10-27 (scout x3, analyst x1). Scribe copy jobs only. Stop sending scout fetch jobs. [[Confidence: 5/5]]
 - AUDIT DEAD ENDS: korvus:agent.html, korvus_promo_studio.html, korvus_dashboard.html, korvus_admin.html not public routes; bar fragments robots-blocked by design. Audit floor reached on live pages. [[Confidence: 5/5]]
 - TRUNCATION TRAP holds: hard 650 word cap on scribe page jobs.
-- STEWARD UTM ANSWER closed THREE times. UTM is standing infrastructure on all outbound Korvus links, job #114 verifies daily from 10-28. Close on sight, never refile. [[Confidence: 5/5]]
-- STEWARD OBSERVER ANSWER closed FOUR times (latest 10-27 head-count variant): source Minions/Scribe/094 has exactly ONE head pair; the duplicate head is injected by the executor's full-document merge, not the source. Answer inline, close task. [[Confidence: 5/5]]
-- STEWARD LOOP confirmed, fourth instance 10-27: Steward re-tasks closed questions in new wording. Answer from Patterns, close, never refile, never delegate. [[Confidence: 5/5]]
-- HERO CTA ASK blocked: minions cannot read repo files, I cannot paste verbatim anchor text I have not seen. Needs Regent or the executor to echo the line. [[Confidence: 4/5]]
-- BARD ANSWER closed: annual-first clip pushes korvus.industries, pricing is the pricing section of korvus_landing.html, prices inject from Stripe. [[Confidence: 5/5]]
+- STEWARD UTM ANSWER closed FIVE times (latest 10-27, second Oct 30 variant): UTM standing since 10-26 on all outbound Korvus links, job #114 verifies daily from 10-28. No Oct 30 event exists in any record. Close on sight, never refile, never delegate. [[Confidence: 5/5]]
+- STEWARD HERO CTA ANSWER closed TWICE: no repo read path here or in minions, verbatim anchor text cannot be pasted honestly. Needs Regent or executor to echo the line from korvus_landing.html. Answer inline, close. [[Confidence: 5/5]]
+- STEWARD LOOP confirmed, SIXTH instance 10-27: Steward re-tasks closed questions in new wording. Answer from Patterns, close, never refile. [[Confidence: 5/5]]
+- BARD ANSWER closed: annual-first clip pushes korvus.industries, pricing is the pricing section of korvus_landing.html. [[Confidence: 5/5]]
