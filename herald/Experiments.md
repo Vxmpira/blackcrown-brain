@@ -1,20 +1,17 @@
-# Herald Experiment Loop
+# Herald Experiments
 
-## Live experiment
-**Hypothesis:** Cold traffic from the watcher hook clicks more when the first line names the 3 a.m. market move, not a feature list.
-**Creative under test:** Leader hook 'The market moves at 3 a.m. Korvus watches index futures while you sleep.' (rubric 12) versus alt 'Index futures don't stop at 3 a.m. Korvus doesn't either.' (rubric 12).
-**Landing:** korvus:pages/index-watch.html, serves at /p/index-watch. Not yet live, blocked on a complete verified document.
-**Number to watch:** visit-to-click, currently 6.7 percent (2 clicks on 30 visits, 7 days). Per-hook click counts not instrumented yet; attribution via utm_campaign only.
-**Verdict due:** within days of the page going live.
+## Live: Visit-to-click leak (opened 2026-10-27)
+- **Hypothesis:** Cold visitors leave the Korvus landing before the Operator offer, or the hook does not earn the click.
+- **Stage moved:** qualified visits to clicks.
+- **Baseline:** 7 days, 30 visits, 2 clicks, 6.7 percent. Wilson 95 percent interval runs about 2 to 21 percent, so no verdict yet.
+- **Number to watch:** visit-to-click by utm_campaign, from the daily per-click UTM job. Overlay-level conversion is not instrumented yet.
+- **Test candidates:** Korvus cold hook leader against alt; Crown hook 3 on a dedicated skeptic landing page.
+- **Verdict rule:** no call until at least 100 visits per arm, or 14 days, whichever comes first.
 
-## Crown experiment
-Hook 3 'Skeptical of AI with your data?' leads (14 to 11 on the fixed rubric). Hook 1 retired.
+## Blocked
+- Index-watch page: copy gist truncated before closing tag. Re-verify before any proposal.
+- Hook rescoring: rubric cells A and B not in vault.
+- Operator annual ask: no verified landing anchor in korvus:korvus_landing.html.
 
-## Revenue rule
-One revenue-aimed move per day. Today's move: index-watch rebuild with Copy, Steward source request, Corvid per-source pull.
-
-## Scoring rule
-Pitch scores need the source text and the full fixed rubric pasted in the request. Partial scores are not logged.
-
-## Lesson
-Desks do not read the vault for each other. Any file a minion must work from goes into the request inline, under about 6,000 characters.
+## Verdicts
+- None filed yet.
