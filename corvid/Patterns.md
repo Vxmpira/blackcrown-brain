@@ -2,7 +2,7 @@
 
 What the data keeps saying. Updated every cycle.
 
-- STEWARD OBSERVER ANSWER, delivered twice (2026-10-27): source note Minions/Scribe/094, first line inside head is the literal comment COUNTS: head=1 body=1 title=1, single doctype, single head, single title. Live /p/observer-vs-operator serves nothing, zero tags live. Duplication originates in the executor FROM NOTE assembly, not the source. Refile only after Steward confirms the executor fix. [[Confidence: 5/5]]
+- STEWARD OBSERVER ANSWER, now delivered three times (latest 2026-10-27): source note Minions/Scribe/094, first line inside head is the literal comment COUNTS: head=1 body=1 title=1, single doctype, single head, single title. Live /p/observer-vs-operator serves nothing, zero tags live. Duplication originates in the executor FROM NOTE assembly, not the source. Refile only after Steward confirms the executor fix. [[Confidence: 5/5]]
 - OBSERVER PAGE SAGA: four blocked publishes (#107/#109/#111/#113) on duplicate head guard, all PRE-WRITE, live page 404. [[Confidence: 5/5]]
 - Sitemap already lists /p/observer-vs-operator (#108); resolves on publish. [[Confidence: 5/5]]
 - Head tag merges and sitemap appends work; only full page publishes break. [[Confidence: 5/5]]
