@@ -1,30 +1,30 @@
 # Bard Projects
 
 ## Active
-- Two video creatives per day, 11:00 and 19:00 ET, Bloom budget permitting. Bloom credit burn is not instrumented in the LLM token feed. The daily Bloom burn digest already runs as a server job.
-- Annual Operator creative: filed 2026-10-27, awaiting owner ruling on 79.99 a year, LodeStone included. Filing IDs requested from Steward again, not yet in my feed. Do not refile while pending.
-- 19:00 Korvus Operator direction: critic FIX returned truncated, so it is a re-task. Director redrafting with Korvus product angle and the all seeing watcher, about 90 words, three shots, closing line last. Do not file until PASS quotes the full reviewed text and the closing line.
-- Watcher creative: filed 2026-10-27, awaiting owner ruling. Overlay lock pending from Herald; re-requested.
-- Crown Creativity clips: full brief received, closing line last, sent to critic for full-text PASS.
+- Two video creatives per day, 11:00 and 19:00 ET, Bloom budget permitting. Bloom burn is not in the LLM token feed; the daily Bloom burn digest already runs as a server job.
+- 19:00 Korvus Operator creative: re-task in progress. Both critic returns on 2026-10-27 were FIX and cut off mid sentence. Director is redrafting the full direction (about 90 words, three shots, closing No Text Law line last). Nothing files until a PASS quotes the full reviewed text.
+- Overlays-1900: filed in Herald vault on 2026-10-27, receipt confirmed. Exact lines and timings to be read from the vault before render. Fallback is Quill's three backup lines (hook 0 to 3s, payoff 3 to 6s, destination 6 to 9s), each within 44 characters and spelling-checked.
+- Annual Operator creative: filed 2026-10-27, awaiting owner ruling on 79.99 a year, LodeStone included. Do not refile while pending.
+- Watcher creative: filed 2026-10-27, awaiting owner ruling. Overlay lock still pending from Herald.
+- Crown Creativity clips: brief received, closing line last, awaiting critic full-text PASS.
 - Eclipse-X join clips: parked until the community channel is wired.
 
 ## Baseline on 2026-10-27
-- Korvus: 1 visit today, 0 clicks, 0 signups. 7 day total 30 visits, 2 clicks, 0 signups.
+- Korvus: 1 visit today, 0 clicks, 0 signups. 7 day: 30 visits, 2 clicks, 0 signups.
 - Stripe: $0 MRR, 0 subscribers, $0 this month.
-- Creatives filed today: 2. Critic PASS naming reviewed text and closing line: 0.
+- Creatives filed today: 2. Critic PASS quoting full text and closing line: 0.
 - Revenue swing today: none. Logged as a miss.
 
 ## Blocked
-- Video posting is youtube only in the wired pipeline. TikTok ships by the owner's hand from the render package. X is parked.
+- Youtube is the only wired video platform. TikTok ships by the owner's hand. X is parked.
 - No render delivery yet, so no MEDIA link exists.
-- Watcher overlay lock and 19:00 overlay lines pending from Herald.
-- Filing IDs for annual and watcher creatives: not in my feed, re-requested from Steward.
-- Bloom October credits: not instrumented. The token spend feed is LLM tokens, not Bloom credits.
-- Eclipse-X join counts: no readable data path until the community channel is wired.
+- Overlay lines for 19:00 pending exact text from Herald.
+- Filing IDs for annual and watcher creatives: re-requested from Steward.
+- Bloom October credits: not instrumented.
+- Eclipse-X join counts: no data path until the community channel is wired.
 
 ## Rules learned
-- A critic PASS that does not quote the full reviewed text is not fileable. Re-send the full text for review.
-- A critic FIX must come back with complete text and a stated reason. A FIX cut off mid sentence is a re-task even when the reason is sound.
-- A critic return that reads Re-task with no direction attached is a dead return. Re-send the full brief, never the label.
-- A director brief that omits the product angle gets a FIX from critic. Name Korvus in the direction before review.
-- A director return that stops at a stray character or puts the closing line first is a dead return. Re-task with the full brief.
+- A critic PASS that does not quote the full reviewed text is not fileable. Re-send the full text.
+- A critic FIX cut off mid sentence is a re-task. Re-send the full brief with the closing line named first.
+- A critic return reading Re-task with no direction attached is dead. Re-send the full brief, never the label.
+- Overlay lines come only from the overlay field. Never describe overlay text inside a direction.
