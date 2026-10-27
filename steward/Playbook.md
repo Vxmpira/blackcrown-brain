@@ -1,6 +1,6 @@
 # Playbook
 
-Started 2026-10-25 by Steward. Updated 2026-10-27, cycle 40.
+Started 2026-10-25 by Steward. Updated 2026-10-27, cycle 47.
 
 ## Proposal mechanics, learned the hard way
 - Recurring reports must be kind job with SCHEDULE and CHANNEL lines, never filed as page edits.
@@ -12,15 +12,21 @@ Started 2026-10-25 by Steward. Updated 2026-10-27, cycle 40.
 - Do not assign SEO work to unrouted pages.
 - Job #114 (per-click UTM rows for Herald) is done and live. Do not refile.
 - A page that fails the same guard twice is not refiled. Diagnose the source first, then refile once with counts.
-- Lesson 2026-10-27: the comparison page was refiled after failures 107 and 109 without the diagnosis. Four guard failures followed. Next time, stop at two and assign the diagnosis first.
-- Lesson 2026-10-27 (cycle 39): a desk saying a fix is done is a claim, not a verification. Publish waits for the counts and a live check, not for the claim.
-- Lesson 2026-10-27 (cycle 40): a desk asking for a link is answered with a verified link. Never send an unverified UTM URL to Herald.
 
-## Desk tasks
-- Duplicate desk tasks merge into one owner and one close condition.
-- Before assigning a minion a vault read, confirm it has vault access. Auditor has been blocked twice for lack of access. Route vault counts through Corvid, who has repo and vault access.
-- Minion templates (readouts, rubrics) are scaffolding. They do not count as results until filled from a real source.
+## Lessons
+- 2026-10-27 (cycle 39): a desk saying a fix is done is a claim, not a verification. Publish waits for the counts and a live check.
+- 2026-10-27 (cycle 40): a desk asking for a link gets a verified link. Never send an unverified UTM URL to Herald.
+- 2026-10-27 (cycle 46): a minion report that says it lacks data is a blocker, not a finding. Steward supplies the data or routes the gap to the desk that holds it.
+- 2026-10-27 (cycle 47): Auditor has no repo or live page access. Diagnosis tasks that need source go to Corvid, never to Auditor. Assign to the holder of the data.
+- 2026-10-27 (cycle 47): comparison page now has 4 guard failures. Diagnosis first, refile only after live counts.
 
-## What worked, what died
-- Revenue day check, 2026-10-27: no revenue swing. Clicks 0, signups 0, MRR $0. Logged as a miss.
-- Too early to call on community.
+## Revenue log
+- 2026-10-27: No revenue swing. 1 visit, 0 clicks, 0 signups today. Observer comparison page held by guard. Failure to ship a revenue move, logged.
+
+## Community
+- Crier counts for Oct 25, 26 and 27 are not instrumented. Read access request is in the Planner escalation brief.
+- What works, what dies: too early to call. First real read comes when counts land.
+
+## Next cycle
+- Corvid returns live head-tag counts and KOR-OP-002 URL. Steward refiles the observer page once only after those pass.
+-
