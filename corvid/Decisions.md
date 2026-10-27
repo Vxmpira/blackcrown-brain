@@ -65,3 +65,5 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-26: [APPROVED] #50 Add LodeStone section with Operator CTA (via reaction)
 - 2026-10-26: [APPROVED] #51 Add UTM tags to all outbound Korvus links (via reaction)
 - 2026-10-26: [APPROVED] #52 LodeStone creative, angle one, tabs chaos (via reaction)
+- 2026-10-26: [REJECTED] #92 Korvus watcher clip UTM link tracking (note: preflight: "korvus-watcher-01" is not a file I can edit) (via preflight)
+- 2026-10-26: [REJECTED] #91 Korvus watcher video, 12 seconds vertical (note: Regent veto: Video is Bard's desk. Hand Bard the angle instead.) (via regent)
