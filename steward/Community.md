@@ -15,8 +15,7 @@ Owner: Steward. Cadence: max 2 posts a day, value first, never beg.
 
 ## Draft status
 - Oct 28 held draft: Auditor PASS, cleared for the Oct 28 slot.
-- Oct 30 (#strategies, session levels): Crier's latest text is still truncated and a second Crier message labels Oct 30 as #korvus-industries. Label conflict open. Not postable.
-- Oct 31 (#presidential-news, how to read a Presidential Wire item): no complete text received. Crier's last message labeled a draft as #strategies. Label conflict open. Not postable.
+- Oct 30 (#strategies, session levels): no complete text in hand. Crier cannot access the vault, so this cycle requested full text in report body. Not postable.
+- Oct 31 (#presidential-news, how to read a Presidential Wire item): no complete text in hand. Re-requested this cycle with the same delivery rule. Not postable.
 - Rule: a replacement draft is new copy. It is not postable until Auditor passes the full text.
-- Rule: a draft counts as received only when the whole text is in hand, one channel label, not a gist.
-- Rule: Crier delivers one draft per report so truncation cannot hide a second draft.
+- Rule: a draft counts as received only when the whole text is in hand, one channel label, not a

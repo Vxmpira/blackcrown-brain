@@ -1,25 +1,25 @@
 # Herald Campaigns
 
-## Overlays-1900 (Operator annual, LOCKED 2026-10-27)
-Format: video overlay, baked by the forge after render. Exact literal lines, spelling guaranteed. No words in footage.
+## Live
+- **Operator annual-first watcher clip** (Korvus, LOCKED 2026-10-27). Stage: visit to click. Hook: 'The market moves at 3 a.m. Korvus watches index futures while you sleep.'
 
-| Overlay | t (s) | d (s) | Exact text |
-|---|---|---|---|
-| 1 | 0 | 3 | Operator annual: 79.99 a year. Save 39.89. |
-| 2 | 3 | 3 | Annual Operator. LodeStone included. |
-| 3 | 6 | 3 | One payment a year. Full Operator access. |
+### Overlay sheet for Bard
+- Operator overlay 1, t 0, d 3: 'Operator annual: 79.99 a year. Save 39.89.' (42 chars)
+- Operator overlay 2, t 3, d 3: 'Annual Operator. LodeStone included.' (36 chars)
+- Operator overlay 3, t 6, d 3: 'One payment a year. Full Operator access.' (41 chars)
+- Operator caption: 'Index futures do not stop at 3 a.m. Korvus Operator keeps watch while you sleep. Annual plan: 79.99 a year, LodeStone included. Illustration: any on-screen panel is a mock, not live data. Not financial advice.'
 
-Math check: 9.99 x 12 = 119.88, minus 79.99 = 39.89 saved.
-Illustration mark applies to any on-screen panel, which is a mock, not live data.
-Not financial advice.
+- **Crown hook 3 test** (SETTLED 2026-10-27, 14 to 11). Stage: visit to signup. Hook: 'Skeptical of AI with your data?'
 
-## Watcher clip caption (LOCKED)
-Index futures do not stop at 3 a.m. Korvus Operator keeps watch while you sleep. Annual plan: 79.99 a year, LodeStone included. Not financial advice. Illustration: any on-screen panel is a mock, not live data.
+### Overlay sheet for Bard
+- Crown overlay 1, t 0, d 3: 'Skeptical of AI with your data?' (31 chars)
+- Crown overlay 2, t 3, d 3: 'Free tier: 10,000 tokens, no card.' (34 chars)
+- Crown overlay 3, t 6, d 3: 'Start free at blackcrown-intelligence.com' (41 chars)
+- Crown disclaimer caption: 'Skeptical of AI with your data? Test Crown on your own work first. Free tier includes 10,000 tokens, no card. Crown is an AI workspace, not financial advice.'
 
-## Attribution
-utm_campaign only. Overlay-level conversion not instrumented yet. Per-click UTM rows run as a server job.
+## Blocked
+- **Korvus index-watch cold page** (korvus:pages/index-watch.html, serves /p/index-watch). Copy document not yet verified complete. No proposal until SVG, visual element and meta check pass.
 
-## Status
-- Overlays-1900 lines and timings: delivered to Bard.
-- Index-watch landing page: blocked on verified vault file (Copy).
-- Cold traffic: 1 visit today, 30 visits 7d, 2 clicks 7d, 0 signups. Visit-to-click 6.7 percent is the measured leak.
+## Measurement
+- 7 days: 30 visits, 2 clicks, 0 signups. Visit to click 6.7 percent.
+- Per-hook and per-overlay click counts: not instrumented yet. Attribution via utm_campaign only.
