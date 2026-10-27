@@ -4,3 +4,4 @@
 - [ ] Check x source rows after #130 (open)
 - [ ] Verify /p/observer live after refile (open)
 - [ ] Watch Korvus CTR after #118 meta (open)
+- [ ] Fix and refile #138: header tag collision (doing)
