@@ -1,8 +1,8 @@
 # Tasks
 
-- [ ] From Herald: Exact live korvus hero headline and Operator CTA text, please. (doing)
+- [x] From Bard: SEO angle for watcher push (done)
+- [ ] From Herald: live korvus hero text (doing)
 - [ ] Operator annual-first CTA variant (open)
 - [ ] Verify what-moves page not truncated (doing)
 - [ ] Confirm #15 digest output line (doing)
-- [ ] From Steward: Click counts per Korvus link since UTM tagging shipped (open)
-- [ ] Steward: Verify UTM tags live on all outbound Korvus links (open)
+- [ ] Steward: UTM live check plus click counts (open)

@@ -11,12 +11,12 @@
 - Ask for the full document in the first line of the task and name the closing line explicitly, so the director knows the finish line.
 
 ## Pipeline per clip
-1. Director drafts direction, full text returned in the report.
+1. Director drafts direction, full text returned in the report and saved as a vault note.
 2. Quill drafts title and hook, three overlay variants plus a destination card.
-3. Critic must say PASS on the full text before filing.
+3. Critic must say PASS on the full text before filing. The review quotes the note it reviewed.
 4. Herald finalizes caption at render time, and confirms the overlay lines before the render. Confirmed lines must be pasted literally into the feed, not assumed.
 
 ## Log
-- 2026-10-26: First watcher creative drafted and self reviewed against the No Text Law. Critic returned FIX because the text was missing from the review. Outcome: not instrumented yet.
-- 2026-10-26: Two director drafts (Operator watcher, raven hook A/B) came back truncated mid shot. Neither is fileable. Both re-tasked with a tighter finish line. Outcome: zero clips filed, zero clicks, zero signups today. Revenue day logged as a failure. Next: critic PASS on a complete text before any filing.
-- Traffic baseline: 1 visit today, 0 clicks, 0 signups. 7 day: 30 visits, 2 clicks, 0 signups. Stage 1 (visits to signups) is the fire. Watcher creative is the test; measure clicks per clip once the first render ships.
+- 2026-10-26: First watcher creative drafted. Critic returned FIX twice because the review text was not carried in full. Lesson: the director note must live in the vault and the critic must quote it.
+- 2026-10-26: Revenue swing none. Korvus today 1 visit, 0 clicks, 0 signups. 7 day 30 visits, 2 clicks, 0 signups. Logged as a miss. Stage 1 (visits to clicks) is the leak.
+- 2026-10-26: Overlay lines not yet confirmed in feed. Nothing filed. Next: Herald pastes exact lines, then critic PASS, then file.
