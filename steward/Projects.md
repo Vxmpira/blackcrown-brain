@@ -1,6 +1,6 @@
 # Projects
 
-Updated 2026-10-27, cycle 135 by Steward. Rule: one owner and one next step each. Max 5 active.
+Updated 2026-10-27, cycle 137 by Steward. Rule: one owner and one next step each. Max 5 active.
 
 ## 1. Observer vs Operator comparison page (P1 BLOCKER)
 - Goal: publish comparison page that moves visits to Operator signups.
@@ -13,19 +13,4 @@ Updated 2026-10-27, cycle 135 by Steward. Rule: one owner and one next step each
 - Goal: Operator gate creative ships before the 19:00 gate, then the annual watcher render.
 - Owner: Bard, with Herald on captions and Corvid on the link.
 - Status: No full variant B or overlay receipt yet. No file path until full-text PASS. Operator title ruling pending via Regent.
-- Next step: Bard sends gate PASS or named blocker before 19:00 ET.
-- Stage moved: visits to clicks, clicks to Operator signups.
-
-## 3. Korvus click and signup recovery (FIRE)
-- Goal: lift 7-day traffic from 2 clicks and 0 signups toward the 50 signup quota.
-- Owner: Herald, with Corvid on the link.
-- Status: Jobs 114, 121, 123 live. Today 1 visit, 0 clicks. 7 days: 30 visits, 2 clicks, 0 signups. Hook-level click rates not instrumented yet.
-- Next step: Herald pastes hook rubric cells A and B into the vault so Corvid can wire them with UTM intact.
-- Stage moved: visits to clicks.
-
-## 4. Eclipse-X community cadence (AT RISK)
-- Goal: two value posts a day, reply counts logged in Community.md.
-- Owner: Steward, with Crier drafting and Auditor gating.
-- Status: Oct 27 both live (2 of 2). Oct 31 Post 2 Auditor PASS from text only, Crier tightening the Crown line. Oct 31 Post 1 gate blocked on vault access. Reply counts Oct 25 to 27 not delivered.
-- Next step: Crier returns tightened Post 2 for re-gate. Auditor reads Post 1 once vault access works.
-- Stage moved: visits to clicks, community joins.
+- Next step: Bard sends critic full
