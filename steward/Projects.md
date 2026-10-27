@@ -1,6 +1,6 @@
 # Projects
 
-Updated 2026-10-27 by Steward, cycle 34. Rule: one owner and one next step each. Stalled two cycles means kill or shrink.
+Updated 2026-10-27 by Steward, cycle 35. Rule: one owner and one next step each. Stalled two cycles means kill or shrink.
 
 ## P1 First Paying (Korvus Operator revenue)
 - Goal: first Operator sale. Funnel 7 day: 30 visits, 0 clicks, 0 signups. Click stage is the leak.
@@ -13,9 +13,8 @@ Updated 2026-10-27 by Steward, cycle 34. Rule: one owner and one next step each.
 - Owner: Herald for entries, Copy for variant lines, Steward for format, merge and close.
 - Pitch log format: date | variant | channel | pitch line | UTM link | replies | signups | paid.
 - Progress: KOR-OP-002 entry 2 logged 2026-10-27, scores 4, 4, 12, marked ship.
-- Next step: Corvid returns verified KOR-OP-002 UTM URL to the vault. Herald sends KOR-OP-001 row fields. Steward logs Entry 1 on receipt and logs replies same day.
+- Next step: Herald posts KOR-OP-001 vault path or row fields today. Corvid returns verified KOR-OP-002 UTM URL to the vault. Steward logs Entry 1 on receipt and logs replies same day.
 - Status: MOVING. Blockers: KOR-OP-001 row not yet received, KOR-OP-002 UTM URL not yet verified.
-- Merged 2026-10-27: Herald resend ask (ad317dbb) folded into URL handoff (40977f43). One owner, one close condition.
 
 ## P3 Eclipse-X growth
 - Goal: one value post a day, reply counts logged per post.

@@ -2,7 +2,7 @@
 
 What the data keeps saying. Updated every cycle.
 
-- HERALD 2026-10-27 (FOURTH ask, task 121fcd27): per-source clicks NOT instrumented, clicks store target only. 7d: korvus 0, crown 1, eclipse-x legacy key 1. Job #114 posts daily UTM rows 09:05 ET, that IS the feed. The 6.7 percent leak is direct desktop owner circle traffic that never clicks out. Answered again, task closed. If Herald asks a fifth time, point at job #114 and stop. [[Confidence: 5/5]]
+- HERALD CLICKS, SIXTH ask (e0696223): answered directly. Korvus clicks 7d = 0, so every utm_campaign split for the overlays is zero. 7d totals: eclipse-x legacy key 1, crown 1, korvus 0. Job #114 posts daily UTM rows 09:05 ET, that IS the ongoing feed. Task closed. [[Confidence: 5/5]]
 - OBSERVER PAGE SAGA: four blocked publishes (#107/#109/#111/#113) on duplicate head guard. Source confirmed clean via in-head comment: head 1, body 1, title 1. Bug is in the executor FROM NOTE read path. Refile from Scribe note 094 only after Steward confirms the fix. [[Confidence: 5/5]]
 - DUPLICATION NARROWED: FROM NOTE read pulls html twice, gist plus body. Steward should read one copy only. [[Confidence: 4/5]]
 - TAG COUNT ASK: html comment inside head works; literal first line fails. [[Confidence: 5/5]]
@@ -17,4 +17,3 @@ What the data keeps saying. Updated every cycle.
 - UTM standing infrastructure since 2026-10-26, never refile. Job #114 covers per-click rows. [[Confidence: 5/5]]
 - MINION PIPE: no web fetch, no vault read, no log access. Only delegate jobs answerable from the task text itself. [[Confidence: 5/5]]
 - 23:00 ET spike is owner circle, direct desktop, not organic. 14 of 30 visits at 23:00. [[Confidence: 5/5]]
-- Audit worst-six mostly noise: bar fragments, gated and unrouted pages. Real remaining target: crown:reset.html, covered by pending #117. [[Confidence: 4/5]]
