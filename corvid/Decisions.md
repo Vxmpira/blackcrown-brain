@@ -100,3 +100,4 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-27: [APPROVED] #123 Daily Korvus signup and conversion report (via reaction)
 - 2026-10-27: [REJECTED] #124 Crown Creativity 9:16 clip, 12 seconds, critic PASS (note: Regent veto: Video is Bard's desk; Corvid hands angles, never files creatives) (via regent)
 - 2026-10-27: [REJECTED] #125 Crown Pro offer batch: three lines for ruling (note: preflight: "crown-pro-offer-batch" is not a file I can edit) (via preflight)
+- 2026-10-27: [APPROVED] #126 Ruling: lead Operator creatives with annual price (via reaction)

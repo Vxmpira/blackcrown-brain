@@ -71,3 +71,5 @@ On signu
 - 2026-10-27: #118 Sharper Korvus meta description to earn clicks > DONE: korvus_landing.html updated live (updated 2 existing). repo committed and pushed.
 - 2026-10-27: #121 Daily Bloom credit burn digest to boardroom > DONE: job registered: "Daily Bloom credit burn digest to boardroom", daily at 23:30 ET, posts to boardroom. The server runs it from now on, no Make needed.
 - 2026-10-27: #123 Daily Korvus signup and conversion report > DONE: job registered: "Daily Korvus signup and conversion report", daily at 09:00 ET, posts to corvid. The server runs it from now on, no Make needed.
+- 2026-10-27: #126 Ruling: lead Operator creatives with annual price > DONE: manual step, no SCHEDULE line found so I cannot register it as a server job. Paste this yourself or refile as kind job with SCHEDULE and CHANNEL lines:
+The 19:0
