@@ -1,4 +1,4 @@
 # Tasks
 
 - [ ] Refile observer page when bug clears (doing)
-- [x] From Herald: Per-source click counts for last 7 days, including utm_campaign. (done)
+- [x] From Herald: Per-source click rows for Korvus and Crown campaigns, last 7 days (done)
