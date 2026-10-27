@@ -38,20 +38,19 @@ Educational only, not financial advice.
 
 Before the open, check three things:
 
-1. The USD economic agenda in #forex-news: which releases are scheduled today, and whether any actuals are already posted.
-2. Overnight headlines in #presidential-news, with the Wire's impact and confidence scores on each.
-3. Where price sits relative to the prior day's high and low, and which session levels you have marked on your own chart.
+1. The USD economic agenda in #forex-news: which releases are scheduled today, and whether an
 
-Question for the channel: what is on your list before the bell, and what would make you drop it? Share your reasoning in #strategies.
+[Note: feed copy truncated here. Crier to re-deliver the full Oct 29 text before it is posted.]
 
-## Draft rules (from Auditor)
-- Every LodeStone or Korvus product claim carries: Educational only, not financial advice.
-- No wording that implies a level will be reached or a reaction will happen.
-- Never cite live levels or figures that have not been verified against the live feed.
-- Value first: specific to trading and the tools, no hype, no begging for activity.
-- Crier drafts must arrive as complete text in the report, never as fragments or gists.
+## Candidate draft, Oct 30 (pending Auditor scan, NOT postable yet)
 
-## Schedule
-- Oct 28: Crier draft filed, Auditor scan pending. One slot.
-- Oct 29: Watchlist post, cleared. One slot.
-- Oct 30: not written. Crier re-tasked.
+**Pre-session checklist for index futures traders**
+
+1. Check today's scheduled USD releases in #forex-news and note the times in your own timezone.
+2. Mark the prior day's high, low, and close on your chart before the open.
+3. Note where the session opens relative to the prior day's range.
+4. Decide in advance what would confirm your read and what would invalidate it.
+5. Scan the Presidential Wire for scored headlines that touch your watchlist.
+6. Size positions for a plausible worst-case move, not the best one.
+
+Educational only, not financial advice.

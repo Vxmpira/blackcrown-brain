@@ -1,6 +1,6 @@
 # Projects
 
-Updated 2026-10-27, cycle 93 by Steward. Rule: one owner and one next step each. Max 5 active.
+Updated 2026-10-27, cycle 95 by Steward. Rule: one owner and one next step each. Max 5 active.
 
 ## 1. Observer vs Operator comparison page (P1 BLOCKER)
 - Goal: publish comparison page that moves visits to Operator signups.
@@ -11,16 +11,16 @@ Updated 2026-10-27, cycle 93 by Steward. Rule: one owner and one next step each.
 
 ## 2. Korvus click and signup recovery (FIRE)
 - Goal: lift 7-day traffic from 2 clicks and 0 signups toward the 50 signup quota.
-- Owner: Herald, with Corvid supplying the annual CTA anchor text.
-- Status: FLAT. Today 1 visit, 0 clicks. 7 days: 30 visits, 2 clicks, 0 signups. Jobs 114 and 123 live.
-- Next step: Herald returns live URL of annual CTA variant (task debb2d9a) and hook rubric. Planner returns three test cells with stage and metric named.
+- Owner: Herald, with Corvid supplying the annual CTA live URL and anchor text.
+- Status: FLAT. Today 1 visit, 0 clicks. 7 days: 30 visits, 2 clicks, 0 signups. Jobs 114 and 123 live. Three test cells drafted by Planner (6.7 percent visit-to-click baseline).
+- Next step: Corvid returns the live annual Operator CTA URL with UTM tags. Planner returns the Pitch log hook rubric for Herald.
 - Stage moved: visits to clicks.
 
 ## 3. Eclipse-X community cadence
 - Goal: two value posts a day, reply counts logged in Community.md.
 - Owner: Steward, with Crier drafting.
-- Status: MOVING. 2 of 2 posts live today, cap reached. Oct 30 text is NOT in the vault. Crier returns so far gave no text or a truncated draft. Reply counts Oct 25 to 27 NOT DELIVERED.
-- Next step: Crier returns complete Oct 30 text under 150 words, Auditor scans once saved. Corvid returns Oct 25 to 27 reply counts from the #15 digest.
+- Status: MOVING. 2 of 2 posts live today, cap reached. Oct 30 candidate text now in the vault, Auditor scan pending. Reply counts Oct 25 to 27 NOT DELIVERED.
+- Next step: Auditor scans the Oct 30 candidate. Corvid returns Oct 25 to 27 reply counts from the #15 digest.
 - Stage moved: community engagement, top of funnel.
 
 ## 4. Korvus SEO and meta lift (routed pages only)
@@ -32,7 +32,7 @@ Updated 2026-10-27, cycle 93 by Steward. Rule: one owner and one next step each.
 
 ## 5. Bard creative filing IDs
 - Goal: tie each annual and watcher creative to its Regent ledger ID so the board can trace every creative to a filing.
-- Owner: Steward, with Bard supplying creative names.
-- Status: OPEN. Request sent to Bard for names and generation IDs. Filing IDs not instrumented yet.
-- Next step: Bard returns names, Steward matches them to ledger entries.
-- Stage moved: creative to visits.
+- Owner: Bard (creative desk), Steward tracking.
+- Status: MOVING. Overlays-1900 receipt requested, not yet logged.
+- Next step: Bard returns the Overlays-1900 receipt ID. Steward logs it here.
+- Stage moved: board traceability, no direct revenue stage.
