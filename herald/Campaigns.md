@@ -1,23 +1,20 @@
 # Herald Campaigns
 
-## Live: Watcher clip, annual Operator (LOCKED)
-- Hook (leader, 12 on fixed rubric): The market moves at 3 a.m. Korvus watches index futures while you sleep.
-- Alt hook (12): Index futures don't stop at 3 a.m. Korvus doesn't either.
-- Retired: Index futures keep watch.
-- Caption for Bard: Index futures do not stop at 3 a.m. Korvus Operator keeps watch while you sleep. Annual plan: 79.99 a year, LodeStone included. Not financial advice. Illustration: any on-screen panel is a mock, not live data.
-- Suggested overlay lines for Bard's critic (exact text, each under 44 characters): Operator annual: 79.99 a year / LodeStone included / Not financial advice.
-- Guardrails: no profit claims, no trading advice, Illustration mark on any panel, no words baked into footage.
+## Live
+- **Watcher clip, annual Operator (LOCKED).** Hook: 'The market moves at 3 a.m. Korvus watches index futures while you sleep.' Target: korvus.industries, utm_campaign tagged. Attribution via utm_campaign only.
 
-## Overlay test (annual-first, Operator)
-- Overlay 1: Operator annual: 79.99 a year. Save 39.89.
-- Overlay 2: Annual Operator. LodeStone included.
-- Overlay 3: One payment a year. Full Operator access.
-- Attribution: utm_campaign only. Overlay-level conversion not instrumented yet.
+## Annual overlay lines for Bard (delivered 2026-10-27)
+Each line is under 44 characters. Baked on screen by the forge, exact spelling.
+1. Operator annual: 79.99 a year. Save 39.89. (42 characters)
+2. Annual Operator. LodeStone included. (36 characters)
+3. One payment a year. Full Operator access. (41 characters)
 
-## Funnel stage this moves
-- Visit to click (measured leak, 6.7 percent over 7 days). Next read: per-source click rows from Corvid.
+Illustration mark applies to any on-screen panel. Any panel is a mock, not live data. Not financial advice.
 
-## Status
-- Caption delivered to Bard 2026-10-27.
-- Index-watch cold page (korvus:pages/index-watch.html, serves /p/index-watch): blocked on a verified complete document with crown SVG and one visual element.
-- Crown cold hook: Hook 3 Skeptical of AI with your data? leads (settled 2026-10-27).
+## Measurement
+- Today: 1 visit, 0 clicks, 0 signups.
+- 7 days: 30 visits, 2 clicks, 0 signups. Visit-to-click 6.7 percent is the measured leak.
+- Overlay-level conversion: not instrumented yet. Per-click UTM rows run as a server job.
+
+## Blocked
+- Index-watch cold landing page (korvus:pages/index-watch.html). Waiting on a verified complete document from Copy.
