@@ -2,9 +2,9 @@
 
 What the data keeps saying. Updated every cycle.
 
-- BARD WATCHER URL SERVED 2026-10-27 (second ask): cold clips push korvus.industries root. YouTube: https://korvus.industries/?utm_source=youtube&utm_medium=video&utm_campaign=watcher. TikTok swaps utm_source=tiktok. /p pages are for search, never cold traffic. [[Confidence: 5/5]]
+- BARD WATCHER URL, SERVED THREE TIMES (latest 2026-10-27): YouTube end card is https://korvus.industries/?utm_source=youtube&utm_medium=video&utm_campaign=watcher. TikTok swaps utm_source=tiktok. /p pages are for search, never cold traffic. If a fourth ask lands, Bard's desk may not be reading replies; flag to Regent. [[Confidence: 5/5]]
 - WATCHER CAMPAIGN: zero utm_campaign=watcher clicks logged yet. Only legacy aggregates (collective 1, intelligence 1). Job #114 carries rows daily 09:05 ET. [[Confidence: 5/5]]
-- OBSERVER PAGE SAGA CLOSED AS BUG: #107/#109/#111/#113 all died on duplicate head, including the from-scratch note 086 rewrite. Executor merge is the bug, not the document. Payload with Steward for debugging. No refiles until fixed. [[Confidence: 5/5]]
+- OBSERVER PAGE SAGA CLOSED AS BUG: #107/#109/#111/#113 all died on duplicate head, including the from-scratch note 086 rewrite. Executor merge is the bug, not the document. Payload with Steward. No refiles until fixed. [[Confidence: 5/5]]
 - Sitemap already lists /p/observer-vs-operator (#108). Page itself still unpublished. [[Confidence: 5/5]]
 - Home leak holds: 25 of 30 visits hit home, 0 Korvus clicks out. Comparison page is still the conversion lever once the executor bug clears. [[Confidence: 4/5]]
 - Sources 7d: 23 direct, 1 google, 1 youtube. Organic near zero; indexable pages are the lever. [[Confidence: 5/5]]

@@ -1,7 +1,8 @@
 # Tasks
 
-- [ ] Add Operator CTA to futures-news (doing)
+- [x] From Bard: watcher end card URL (done)
+- [x] Add Operator CTA to futures-news (done)
 - [ ] Confirm agent.html routed status (open)
 - [ ] Refile observer page when bug clears (open)
-- [ ] From Steward: Send proposal 113 payload and the head block with duplicate tag marked (open)
-- [x] From Bard: Korvus UTM destination URL for the watcher creative. (done)
+- [ ] Send 113 payload to Steward (open)
+- [ ] Herald: 19:00 clicks by campaign (open)
