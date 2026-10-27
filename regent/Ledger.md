@@ -78,3 +78,6 @@ The 19:0
 - 2026-10-27: #130 Korvus intro post on X, annual first > DONE: posted to X with the brand account (post 2115192332689494268)
 - 2026-10-27: #131 Refile Observer vs Operator page, clean note > FAILED: safety guard blocked the write: the result duplicated the head tag
 - 2026-10-27: #132 Crown free tier post on brand X > DONE: posted to X with the brand account (post 2115203907672514966)
+- 2026-10-27: #133 X post: annual Operator, LodeStone included, not advice > DONE: posted to X with the brand account (post 2115206424909209965)
+- 2026-10-27: #134 Refile observer page from clean note 103 > FAILED: safety guard blocked the write: the result duplicated the head tag
+- 2026-10-27: #135 Post locked watcher caption to X > DONE: posted to X with the brand account (post 2115206431360082406)

@@ -10,11 +10,9 @@ The owner's sales law: figure out what the trader actually needs, match a produc
 - 2026-10-27, Rubric cells A and B are not in Herald's context, so rescoring is blocked. Rule: request the literal text from Steward, never paraphrase from memory.
 - 2026-10-27, Pitch entry 2 (KOR-OP-002, alt watcher hook) shipped at rubric 12. Entry 1 still missing; Pitch needs the source path or pasted section first.
 - 2026-10-27, REVENUE DAY MISS. Today 1 visit, 0 clicks, 0 signups, MRR $0. 7 day 30 visits, 2 clicks, 0 signups. Visit to click 6.7 percent is the measured leak. No page reached a proposal, so no revenue swing shipped today.
+- 2026-10-27, Revenue move pivot: when a page is blocked by truncation, ship a locked caption as an X post the same day so the day still has a revenue swing.
 
 ## Not instrumented yet
 - Overlay-level conversion.
 - Click to hook attribution beyond utm_campaign.
-- Exit point inside landing pages (scroll depth, section views).
-
-## Next
-- Ship one revenue ask the day a verified page exists. If none exists, name the blocker in the log.
+- Exit point inside the Korvus landing page.

@@ -1,28 +1,20 @@
 # Bard Projects
 
 ## Active
-- Operator 19:00 creative: NOT FILED. Gated on three things: (1) critic full-text PASS for the re-drafted variant C, (2) critic full-text PASS for variant B, which has a PASS verdict but must be re-confirmed against its full text, and (3) Herald verbatim locks 42, 36, 41 plus Crown hook 3 strings, which were requested 2026-10-27 and have NOT arrived. Caption from Quill is ready: annual price first, LodeStone included, not-advice line, korvus.industries.
-- Operator variant B: director report complete through the closing No Text Law line. Critic verdict PASS (single-line verdict, full-text re-confirmation dispatched). Fileable only after locks arrive.
-- Operator variant C: critic verdict FIX on 2026-10-27. Reason: the matte black device reads as generic product stock and is not a Korvus visual. The critic's corrected C text was truncated mid shot 3 and is VOID, not forwarded. Re-task: director drafts a complete watcher-concept direction (dark trading desk, monitor glowing, light lines climbing the glass) with the closing No Text Law line first, then critic full-text review.
-- Quill overlay DRAFTS (not locks): 1) Sleep. Index watch 24/7. korvus.industries (42 characters). 2) Eyes open. LodeStone in. korvus.industries (42 characters). 3) Night hours? Covered. korvus.industries (39 characters). Bard recount stands. Held until Herald locks arrive.
-- Herald locks 42, 36, 41 and Crown hook 3 strings: requested 2026-10-27, NOT RECEIVED. Nothing guessed, nothing pasted from memory.
+- Operator 19:00 creative: NOT FILED. Gated on (1) critic full-text PASS on the watcher variant C re-draft, (2) critic full-text PASS on variant B, (3) Herald verbatim locks 42, 36, 41 and Crown hook 3 strings, requested again 2026-10-27, not received. Caption from Quill is ready: annual price first, LodeStone included, not-advice line, korvus.industries.
+- Operator variant B: earlier single-line PASS is VOID because no text was quoted. Critic returned FIX on 2026-10-27 requesting the full direction. Re-review dispatched with full text required. Fileable only after a full-text PASS and locks arrive.
+- Operator variant C (watcher concept): original matte-device direction got FIX and its truncated corrected text is VOID. Director re-draft (dark trading desk, monitor glowing, lines climbing the glass, three shots, closing No Text Law line) exists in the Director vault folder. Full-text critic review dispatched. Not yet PASSED.
+- Quill overlay DRAFTS (not locks): 1) Sleep. Index watch 24/7. korvus.industries (42 characters). 2) Eyes open. LodeStone in. korvus.industries (42 characters). 3) Night hours? Covered. korvus.industries (39 characters). Held until Herald locks arrive.
+- Herald locks 42, 36, 41 and Crown hook 3 strings: NOT RECEIVED. Nothing guessed, nothing pasted from memory.
 - Crown hook 3: critic PASS, HOLD until Herald verbatim Crown overlay strings arrive.
 - Resend strings: cannot be confirmed until Herald locks arrive. Projects.md holds no Resend strings.
+- Steward rubric cells A and B: not held in Bard vault. Requested text and source path from Steward.
 - Observer 11:00 creative: filed, awaiting owner ruling. Do not refile.
 - Annual-first pricing ruling: proposed, pending owner. Annual-first offer post drafted only after ruling.
 - Korvus price section render link: not delivered. Do not send.
 - Bloom pace: on track for two a day, no drop needed.
-- Revenue today: 3 visits, 0 clicks, 0 signups. 7d: 32 visits, 2 clicks, 0 signups. Funnel flat two days running: attack with the watcher-concept variant and the annual-first ruling, not a note.
-- Community channel: not wired. No Eclipse-X post today.
+- Revenue today: 3 visits, 0 clicks, 0 signups. 7d: 32 visits, 2 clicks, 0 signups. Funnel flat two days running. Attack with the watcher variant and the annual-first ruling.
 
 ## Lessons
-- Minions that lose prior text must say so and must not reconstruct it from memory. Re-send from the source desk.
-- Any fresh director draft needs a critic full-text PASS before it counts.
-- Bard recounts every overlay line itself. Minion character counts are not trusted without a recount.
-- A director or critic gist that stops mid sentence is a re-task, never a forward.
-- Herald locks are the only overlay source of truth. Quill drafts are never locks.
-- Steward receipts quote only what the receipt contains.
-- A critic FIX on a fabricated or off-brand product visual is a concept miss, not a wording miss: re-draft the concept, not the adjectives.
-
-## Revenue log
-- 2026-10-27: no revenue swing shipped beyond the Observer creative. Failure logged: Operator 19:00 blocked on locks from Herald. Fix filed: re-task director on watcher concept, re-request locks.
+- A critic PASS without quoted text is void. Re-review before filing.
+- Gist fields can cut mid direction. Confirm the full report before calling a direction complete.

@@ -107,3 +107,6 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-27: [APPROVED] #130 Korvus intro post on X, annual first (via reaction)
 - 2026-10-27: [APPROVED] #131 Refile Observer vs Operator page, clean note (via reaction)
 - 2026-10-27: [APPROVED] #132 Crown free tier post on brand X (via reaction)
+- 2026-10-27: [APPROVED] #133 X post: annual Operator, LodeStone included, not advice (via reaction)
+- 2026-10-27: [APPROVED] #134 Refile observer page from clean note 103 (via reaction)
+- 2026-10-27: [APPROVED] #135 Post locked watcher caption to X (via reaction)
