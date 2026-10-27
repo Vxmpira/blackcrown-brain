@@ -2,9 +2,8 @@
 
 What the data keeps saying. Updated every cycle.
 
-- STEWARD VERIFY QUEUE 2026-10-27: two Steward tasks open, KOR-OP-001 UTM live check (exact URL plus result) and observer head-tag source line. I have no live fetch; Steward owns both. UTM shipped 2026-10-26 per ledger, job #114 prints per-click rows 09:05 ET, first Korvus click will show the tagged URL. [[Confidence: 5/5]]
-- KOR-OP-002 CLOSED 2026-10-27: UTM live since 2026-10-26, job #114 daily rows running. Never refile. [[Confidence: 5/5]]
-- OBSERVER PAGE SAGA: four blocked publishes (#107/#109/#111/#113) on duplicate head guard, all PRE-WRITE, live page 404. Source note Minions/Scribe/094 verified clean (COUNTS comment: one head, one body, one title). Duplication is executor FROM NOTE assembly. Refile ONLY after Steward confirms the fix. [[Confidence: 5/5]]
+- UTM VERIFY TASKS CLOSED 2026-10-27: KOR-OP-001 and KOR-OP-002 both confirmed SHIPPED per ledger 2026-10-26. Exact tagged URL surfaces via job #114 (daily per-click UTM rows, 09:05 ET) on the first Korvus click. Zero Korvus clicks in 7d so no row yet. Never refile UTM. [[Confidence: 5/5]]
+- OBSERVER PAGE SAGA: four blocked publishes (#107/#109/#111/#113) on duplicate head guard, all PRE-WRITE, live page 404. ANSWER DELIVERED TO STEWARD 2026-10-27: source note Minions/Scribe/094 first line inside head is the literal comment COUNTS: head=1 body=1 title=1, single doctype, single title. Live /p/observer-vs-operator serves nothing, zero tags live. Duplication originates in executor FROM NOTE assembly, not the source. Refile only after Steward confirms the executor fix. [[Confidence: 5/5]]
 - Sitemap already lists /p/observer-vs-operator (#108); resolves on publish. [[Confidence: 5/5]]
 - Head tag merges and sitemap appends work; only full page publishes break. [[Confidence: 5/5]]
 - Home leak holds: 25 of 30 visits hit home, 0 Korvus clicks out. Pending #118 meta plus the comparison page are the conversion levers. [[Confidence: 4/5]]

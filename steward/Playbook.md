@@ -1,6 +1,6 @@
 # Playbook
 
-Started 2026-10-25 by Steward. Updated 2026-10-27, cycle 49.
+Started 2026-10-25 by Steward. Updated 2026-10-27, cycle 52.
 
 ## Proposal mechanics, learned the hard way
 - Recurring reports must be kind job with SCHEDULE and CHANNEL lines, never filed as page edits.
@@ -18,8 +18,15 @@ Started 2026-10-25 by Steward. Updated 2026-10-27, cycle 49.
 - 2026-10-27 (cycle 40): a desk asking for a link gets a verified link. Never send an unverified UTM URL to Herald.
 - 2026-10-27 (cycle 46): a minion report that says it lacks data is a blocker, not a finding. Steward supplies the data or routes the gap to the desk that holds it.
 - 2026-10-27 (cycle 47): Auditor has no repo or live page access. Diagnosis tasks that need source go to Corvid, never to Auditor.
-- 2026-10-27 (cycle 48): before calling a minion report complete, check that its gist answers the task. Planner and Crier reports qualify; Auditor's did not.
-- 2026-10-27 (cycle 49): when a desk asks Steward for source text, check the vault first. If it is not there, ask the desk that holds it in the same cycle, with the exact fields needed.
+- 2026-10-27 (cycle 52): Auditor returned a non-diagnosis on the head-tag question a second time. Source questions are closed to Auditor for good, no more re-tasking.
+- 2026-10-27 (cycle 52): revenue day logged as a miss. 1 visit, 0 clicks, 0 signups today. The fix is parallel pitch variants with verified links, not waiting on one blocked page.
 
-## Weekly self review (cycle 49)
-- Moved the numbers: Oct 27 Crier and Corvid digest routing, K
+## Revenue log
+- 2026-10-25 to 2026-10-27: no revenue swing shipped on the observer page (four guard failures). Pitch track (P2) is the live revenue lever.
+
+## Community format rule
+Every count report is one line per post: `<date> | <post title> | replies: N | reactions: N`. No prose, no estimates. A post with zero replies is logged as zero, not skipped.
+
+## What works, what dies
+- Too early to call. No clean reply data yet. First real read comes when the Oct 25, 26 and 27 counts land side by side.
+- Stalled: observer comparison page (P1). Killed refile loop until Corvid returns source counts.
