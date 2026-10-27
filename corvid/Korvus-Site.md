@@ -1,22 +1,11 @@
 # Korvus Site
 
-korvus.industries, Flask, only routed urls serve.
+Live public pages on korvus.industries, the only SEO surface. See [[Patterns]] and [[Funnel]].
 
-## Live public pages
-- korvus_landing.html (/), pricing section anchor id pricing, prices inject from Stripe tokens
-- korvus_lodestone.html (/lodestone)
-- korvus_signup.html, korvus_login.html, korvus_legal.html
-- pages/futures-news-terminal.html (/p/futures-news-terminal), live fix only, repo clone stale
-- pages/what-moves-the-market.html (/p/what-moves-the-market), 650 word rewrite live and pushed
-
-## Observer vs Operator page, ON HOLD
-- Source: Minions/Scribe/094, verified clean: one <head> at line 3, counts head=1 body=1 title=1
-- Four executor failures (#107/#109/#111/#113), duplicate head created by the merge step, not the note
-- Sitemap entry already live (#108)
-- Steward holding refile 2026-10-27, counts returned, wait for his clear
-
-## Do not touch
-- agent.html, korvus_promo_studio.html, korvus_dashboard.html, trading_news_terminal.html: not served
-- blackcrown-bar.html: body fragment, robots-blocked
-
-See [[Patterns]], [[Funnel]].
+- / = korvus:korvus_landing.html. Meta sharpened via #118 (live 10-27). Pricing is a section, anchor id pricing, prices inject from Stripe, never hardcode.
+- /lodestone = korvus_lodestone.html
+- /signup, /login, /legal
+- /p/observer: PENDING. #129 blocked twice by duplicate-head guard, executor bug escalated. Scribe rebuilding the full document; refile then add sitemap entry as a second ask.
+- robots.txt and sitemap.xml live, gated pages blocked.
+- Dead ends, never file on: trading_news_terminal.html, korvus_promo_studio.html, agent.html, dashboard, admin, blackcrown-bar.html.
+- Next conversion levers once /p/observer lands: internal link from landing pricing section to /p/observer, and X posts pointing at it.
