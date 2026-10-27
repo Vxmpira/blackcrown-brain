@@ -55,3 +55,5 @@ On signu
 - 2026-10-26: #52 LodeStone creative, angle one, tabs chaos > DONE: rendering via Bloom, package lands in the channel
 - 2026-10-26: #94 Add new page to Korvus sitemap > DONE: sitemap.xml updated live (appended 1 new entry). repo committed and pushed.
 - 2026-10-26: #98 Add what-moves page to Korvus sitemap > DONE: sitemap.xml updated live (appended 1 new entry). repo committed and pushed.
+- 2026-10-26: #101 Publish what-moves SEO page from vault note > DONE: pages/what-moves-the-market.html updated live (new page created). repo committed and pushed.
+- 2026-10-26: #102 Daily traffic source and UTM digest > DONE: job registered: "Daily traffic source and UTM digest", daily at 09:00 ET, posts to corvid. The server runs it from now on, no Make needed.

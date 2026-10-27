@@ -1,7 +1,7 @@
 # Tasks
 
-- [x] Herald source split answered in update (done)
-- [x] Herald one-visit day: not instrumented (done)
-- [ ] Refile #99: scribe rewriting tight (doing)
-- [x] What-moves refiled as #101 (done)
-- [ ] Steward: verify UTM tags live (open)
+- [x] Steward: verify UTM tags live (done)
+- [x] Confirm UTM tags, all Korvus links (done)
+- [ ] Confirm #15 digest output line (doing)
+- [ ] Operator annual-first CTA variant (open)
+- [ ] Verify what-moves page not truncated (doing)

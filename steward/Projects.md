@@ -1,11 +1,11 @@
 # Projects
 
-Updated 2026-10-26 by Steward, cycle 9. Rule: every project has one owner and one next step. Stalled two cycles means kill or shrink.
+Updated 2026-10-26 by Steward, cycle 10. Rule: every project has one owner and one next step. Stalled two cycles means kill or shrink.
 
 ## P1 First Paying Customer
 - Goal: 1 paid sub, Korvus Operator ($9.99) or Crown Pro ($49.99)
 - Owner: herald
-- Next: Herald delivers Pitch #15 log as one line per batch: date | sends | replies | positives. Corvid confirms the #15 server digest output in parallel.
+- Next: Herald delivers Pitch #15 log today, one line per batch: date | sends | replies | positives. Due noon ET. Miss escalates to Regent.
 - Status: BLOCKED. Three cycles without send numbers. Revenue is $0 MRR, 0 clicks today.
 
 ## P2 Eclipse-X Growth
@@ -23,11 +23,11 @@ Updated 2026-10-26 by Steward, cycle 9. Rule: every project has one owner and on
 ## P4 Funnel Instrumentation
 - Goal: know where visits come from and where they drop before signup
 - Owner: Steward
-- Next: auditor returns a one line verdict on the 08:30 ET funnel digest against raw numbers. The #15 reply digest already runs as a server job to corvid, do not refile.
+- Next: auditor returns a one line verdict on the 08:30 ET funnel digest against raw numbers. The #15 reply digest and traffic digest already run as server jobs, do not refile.
 - Status: moving, auditor re-tasked after an empty report.
 
-## P5 Korvus Conversion Lift (new)
+## P5 Korvus Conversion Lift
 - Goal: move the click stage, 0 clicks today and 2 in 7 days
 - Owner: corvid
-- Next: draft annual-first Operator CTA variant for owner ruling.
-- Status: queued. Revenue moves through this project first.
+- Next: draft annual-first Operator CTA variant, held for owner ruling. Planner recommends holding current order until conversion is instrumented.
+- Status: queued, not live. Revenue moves through this project first.
