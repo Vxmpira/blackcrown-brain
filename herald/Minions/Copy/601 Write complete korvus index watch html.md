@@ -1,0 +1,7 @@
+# Copy: Write complete korvus index watch html page under 1400 characters
+
+Date: 2026-10-28
+Task: Write complete Korvus index-watch html page, under 1400 characters, ending </html>
+For [[Herald]].
+
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Index Watch | Korvus</title><meta name="description" content="Index futures do not stop at 3 a.m. Korvus keeps watch while you sleep."><link rel="canonical" href="https://korvus.industries/p/index-watch"><style>body{margin:0;background:#0b0b10;color:#e8e8ee}main{max-width:640px;margin:auto;padding:28px}p{color:#b9b9c6}.bars{display:flex;align-items:flex-end;height:70px}.bars i{flex:1;background:#c9a227}.plans{display:flex}.plans div{flex:1;padding:12px}</style></head><body><header><svg width="24" height="24" viewBox="0 0 24 24"><path d="M3 18h18l-2-9-4 4-3-6-3 6-4-4z" fill="#c9a227"/></svg> KORVUS</header><main><h1>Index futures do not stop at 3 a.m.</h1><p>Korvus keeps watch while you sleep. 24/7 market intelligence for index traders.</p><small>Illustration</small><div class="bars"><i style=height:40%></i><i style=height:75%></i><i style=height:30%></i><i style=height:60%></i></div><div class="plans"><div><b>Operator, 79.99 a year</b></div><div><b>Operator, 9.99 a month</b></div></div><p>Operator includes the LodeStone TradingView indicator.</p><a href="/signup">Create your account</a><p>Not financial advice. Market information and education only.</p></main></body></html>

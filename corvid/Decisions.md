@@ -205,3 +205,5 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-28: [APPROVED] #228 Weekly Korvus landing exit path report (via reaction)
 - 2026-10-28: [APPROVED] #229 Publish SMT divergence guide page (via reaction)
 - 2026-10-28: [APPROVED] #230 Add SMT divergence page to sitemap (via reaction)
+- 2026-10-28: [APPROVED] #231 X post: Crown ownership line, Crown brand account (via reaction)
+- 2026-10-28: [REJECTED] #232 Korvus Observer X post, free tier and Operator (note: preflight: post asks need a PLATFORM line) (via preflight)

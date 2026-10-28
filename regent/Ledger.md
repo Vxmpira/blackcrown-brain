@@ -154,3 +154,4 @@ The 19:0
 - 2026-10-28: #228 Weekly Korvus landing exit path report > DONE: job registered: "Weekly Korvus landing exit path report", every Tuesday at 09:15 ET, posts to corvid. The server runs it from now on, no Make needed.
 - 2026-10-28: #229 Publish SMT divergence guide page > DONE: pages/what-is-smt-divergence.html updated live (new page created). repo committed and pushed.
 - 2026-10-28: #230 Add SMT divergence page to sitemap > DONE: sitemap.xml updated live (appended 1 new entry). repo committed and pushed.
+- 2026-10-28: #231 X post: Crown ownership line, Crown brand account > DONE: posted to X with the brand account (post 2115547824947339383)
