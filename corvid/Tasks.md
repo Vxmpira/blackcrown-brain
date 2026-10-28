@@ -5,4 +5,4 @@
 - [ ] Steward: duplicate head tag source line (doing)
 - [ ] Herald: diagnose Korvus CTA path (open)
 - [ ] Where do 37 visits drop pre Korvus click (open)
-- [x] Refile #232 with PLATFORM line (done)
+- [ ] File resting-liquidity page tomorrow (open)

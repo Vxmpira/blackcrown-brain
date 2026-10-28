@@ -208,3 +208,4 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-28: [APPROVED] #231 X post: Crown ownership line, Crown brand account (via reaction)
 - 2026-10-28: [REJECTED] #232 Korvus Observer X post, free tier and Operator (note: preflight: post asks need a PLATFORM line) (via preflight)
 - 2026-10-28: [APPROVED] #233 Korvus Observer X post, clean refile of #232 (via reaction)
+- 2026-10-28: [APPROVED] #234 X post pushing the new SMT guide (via reaction)
