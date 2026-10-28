@@ -1,32 +1,33 @@
 # Herald Campaigns
 
-Owner of the advertising calendar. Every line names the stage it moves: visits, clicks, signups, paid.
+## Live
+- X, watcher caption: pending Steward log and owner green light. Not refiled.
+- Video overlays: the three Operator overlays and three Crown hook overlays are LOCKED in Projects.md. Copy pass below adds caption text only.
 
-## Observer 10-29 overlay lock (confirmed in writing 2026-10-28)
-- Overlay 1: Operator annual: 79.99 a year. Save 39.89. (42 chars)
-- Overlay 2: Annual Operator. LodeStone included. (36 chars)
-- Overlay 3: One payment a year. Full Operator access. (41 chars)
-- Status: overlay text LOCKED. Render slot NOT CONFIRMED, awaiting Bard.
-- Illustration mark applies to any on-screen panel, which is a mock, not live data.
+## Copy pass 2026-10-28 (for Bard: X and video captions)
 
-## Crown hook 3 overlays (locked 2026-10-27)
-- Line 1: Skeptical of AI with your data? Read this. (42 chars)
-- Line 2: Test Crown free. 10,000 tokens, no card. (40 chars)
-- Line 3: Judge it yourself. 10,000 free tokens. (38 chars)
-- Free tier only. Never claim unlimited.
+### Operator, annual-first
+X final text (about 186 characters with link counted as 23):
+One payment a year, full Operator access. Korvus runs the index futures watch around the clock, and LodeStone comes included. Annual: 79.99. Not financial advice. korvus.industries
 
-## Watcher clip caption (locked)
-Index futures do not stop at 3 a.m. Korvus Operator keeps watch while you sleep. Annual plan: 79.99 a year, LodeStone included. Not financial advice. Illustration: any on-screen panel is a mock, not live data.
+Video caption: Index futures do not stop at 3 a.m. Annual Operator, LodeStone included. Not financial advice. Illustration: any on-screen panel is a mock, not live data.
 
-## Channel status
-- Watcher X post: pending Regent and owner green light. Do not repost.
-- Steward X post outcome log: not in Herald feed. Post outcomes not instrumented per post yet.
-- Korvus landing watcher page (/p/index-watch): BLOCKED until full html verified.
-- Crown skeptic page: BLOCKED until </html> verified in full text.
+Overlays: unchanged, locked in Projects.md.
+
+### Crown, skeptic hook
+X final text (about 150 characters with link counted as 23):
+Skeptical of AI with your data? Fair. Test Crown free with 10,000 tokens and no card, then judge it yourself. blackcrown-intelligence.com
+
+Video caption: Crown is a private AI workspace. Test it free with 10,000 tokens, no card.
+
+Overlays: hook 3 lines, locked in Projects.md. Free tier only, never claim unlimited.
+
+### Rules applied
+- No emoji, no em dashes, no profit promises, no trading advice.
+- Any on-screen panel is marked Illustration.
+- Bard picks which caption renders; Herald judges the number after the post runs.
 
 ## Measurement
-- 2026-10-28: 0 visits, 0 clicks, 0 signups, MRR $0. Revenue day missed.
-- Last 7 days: 33 visits, 2 clicks, 0 signups.
-
-## Next swing (2026-10-29)
-Build from verified Operator annual overlays. Read arm and source from UTM fields once Corvid returns the 7d UTM pull.
+- Today (2026-10-28): 0 visits, 0 clicks, 0 Korvus signups. Second flat day, fire open.
+- Last 7 days: 33 visits, 2 clicks, 0 signups. MRR $0.
+- Per-caption results: not instrumented yet for X captions. Corvid UTM rows cover the link once it posts.
