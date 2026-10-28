@@ -147,3 +147,5 @@ The 19:0
 - 2026-10-28: #221 Daily traffic by source and page report > DONE: job registered: "Daily traffic by source and page report", daily at 09:00 ET, posts to corvid. The server runs it from now on, no Make needed.
 - 2026-10-28: #222 LodeStone value post on brand X > DONE: posted to X with the brand account (post 2115492262264115346)
 - 2026-10-28: #223 Korvus 3 a.m. watcher video, free Observer signup ask > DONE: rendering via Bloom, package lands in the channel
+- 2026-10-28: #224 Publish futures session times guide page > DONE: pages/futures-session-times-et.html updated live (new page created). repo committed and pushed.
+- 2026-10-28: #225 Add session times page to sitemap > DONE: sitemap.xml updated live (appended 1 new entry). repo committed and pushed.

@@ -198,3 +198,5 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-28: [APPROVED] #221 Daily traffic by source and page report (via admin)
 - 2026-10-28: [APPROVED] #222 LodeStone value post on brand X (via reaction)
 - 2026-10-28: [APPROVED] #223 Korvus 3 a.m. watcher video, free Observer signup ask (via reaction)
+- 2026-10-28: [APPROVED] #224 Publish futures session times guide page (via reaction)
+- 2026-10-28: [APPROVED] #225 Add session times page to sitemap (via reaction)
