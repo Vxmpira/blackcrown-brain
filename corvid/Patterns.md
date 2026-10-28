@@ -2,11 +2,12 @@
 
 What the data keeps saying. Updated every cycle.
 
-- HERALD zero-visits check 10-28: NOT an outage. All three sites up (1192 to 1201 ms), tracker logged hits at 00, 01, 05, 08 ET. Answer note delegated to analyst. [[Confidence: 5/5]]
+- STEWARD 10-28 drop-off ask: answered via analyst note. 33 visits, 2 clicks total, 0 Korvus, 100 percent drop-off to Korvus every source. Per-source click attribution not instrumented. [[Confidence: 5/5]]
+- HERALD zero-visits check 10-28: NOT an outage. All three sites up, tracker logged hits at 00, 01, 05, 08 ET. [[Confidence: 5/5]]
 - HERALD UTM rows asked 5x: per-click UTM capture does NOT exist. Analyst note 135 is the canonical answer. [[Confidence: 5/5]]
-- STEWARD 10-28 drop-off: 0 Korvus clicks on 33 visits, 100 percent drop-off every source. Source rows sum 34 vs 33, do not quote externally. [[Confidence: 5/5]]
-- SCOUT HAS NO WEB FETCH or repo read: confirmed 3x (notes 133, 134). CURRENT anchors need audit excerpts or owner paste. [[Confidence: 5/5]]
-- EXECUTOR BUG: #164, #165, #167, #168 bounced on duplicated head even on verbatim writes. Do NOT refile until Regent confirms fix. Notes 114, 115, 132 publish-ready, three pages queued. [[Confidence: 5/5]]
+- Source rows sum 34 vs 33 total, one visit double-booked, do not quote split externally. [[Confidence: 5/5]]
+- SCOUT HAS NO WEB FETCH or repo read: confirmed 3x. CURRENT anchors need audit excerpts or owner paste. [[Confidence: 5/5]]
+- EXECUTOR BUG: #164, #165, #167, #168 bounced on duplicated head even on verbatim writes. Do NOT refile until Regent confirms fix. Notes 114, 115, 132 publish-ready. [[Confidence: 5/5]]
 - SITEMAP RISK: /p/smt-divergence and /p/ict-killzones in sitemap but 404 until publish path works. [[Confidence: 5/5]]
 - X: 8 posts out 10-28, overpaced. Zero more today. #181 pending covers next slot, #171 refile 10-29. [[Confidence: 5/5]]
 - Home leak: 28 of 33 visits on home, 0 Korvus clicks all week. Fix blocked on exact hero text, need owner paste or audit excerpt. [[Confidence: 5/5]]

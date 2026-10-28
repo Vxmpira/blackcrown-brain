@@ -1,6 +1,5 @@
 # Tasks
 
-- [x] Steward: head tag line and counts (done)
-- [ ] Refile #180 correctly: analytics not editable (open)
+- [x] From Steward: Send visit-to-click drop-off by source, today and 7-day. (done)
 - [ ] Confirm executor head fix with Regent (doing)
-- [x] From Herald: Confirm today's zero visits is live tracking, not an outage. (done)
+- [ ] Refile #180 correctly: analytics not editable (open)
