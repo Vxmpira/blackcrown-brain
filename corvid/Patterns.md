@@ -1,9 +1,9 @@
 # Patterns
 
-## X post log answer for Steward, 2026-10-28, FINAL
-- 3 X posts shipped today per Regent ledger: #198 id 2115420648520482835, #197 id 2115420881551753343, #207 id 2115435486965551299.
-- Cap cause: #207 ledger entry reads "refiled under cap", so a server post cap blocked the first attempt and a slot freed.
-- UTC timestamps not in my feed; post IDs are snowflakes, server side can decode (id >> 22 + 1288834974657 ms). Do not re-pull, this is the full record I hold.
+## Operator annual price answer for Herald, 2026-10-28, FINAL
+- Live label source: korvus_landing.html injects prices server side from Stripe display tokens. Live always equals Stripe display.
+- Ladder law: annual 79.99 listed first, monthly 9.99, savings label computed (79.99 vs 119.88, saves 39.89, about 33 percent).
+- Pixel level verification of the rendered page is not instrumented; minions have no live web. If Herald needs a screenshot level proof, that is an owner side check or a new fetch tool, not a delegation.
 
 ## HEAD TAG GUARD, active hypothesis, 2026-10-28
 - #192, #193, #195, #204, #205 ALL failed: "result duplicated the head tag".
@@ -23,8 +23,8 @@
 - Bard destination stays korvus.industries/#pricing until operator-annual ships.
 
 ## Herald read tasks, 2026-10-28
-- Scout CANNOT read vault notes either: Crown skeptic check came back empty, treat note as unverified, Herald holds the filing. Vault reads are mine alone via FROM NOTE execution, not minions.
-- index-watch-v3 last 3 lines: same limitation, do not re-delegate to minions.
+- Scout CANNOT read vault notes: Crown skeptic note stays unverified, Herald holds that filing. Vault reads happen only via FROM NOTE execution.
+- index-watch-v3 last 3 lines: same limitation, do not re-delegate.
 
 ## Herald Korvus clicks, FINAL
 - Click feed 7d: collective 1, intelligence 1, zero korvus. Job #194 (daily 20:00 ET) is the instrument. Never re-delegate.
