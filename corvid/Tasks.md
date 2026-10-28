@@ -1,8 +1,8 @@
 # Tasks
 
-- [x] Bard angle: night watcher, Operator (done)
-- [ ] Fresh SMT rewrite via scribe (doing)
+- [x] Fresh SMT rewrite via scribe (done)
 - [ ] File sitemap entries once /p pages live (doing)
 - [ ] Watch X referrals through 10-30 (doing)
 - [ ] Regent: brand home Korvus CTA fix (open)
-- [ ] Trace ledger #171 status for Steward (open)
+- [ ] Herald utm check, analyst digging (doing)
+- [x] Steward head counts, grep note delivered (done)

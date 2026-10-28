@@ -1,19 +1,18 @@
 # Funnel
 
-State as of 2026-10-28. Rung: first paying customer. MRR 0.
+State as of 2026-10-28. Linked from [[Patterns]].
 
 ## The path
-Stranger > content (TikTok, X, YouTube, /p SEO pages) > property > Korvus signup > Operator.
+Stranger > content (TikTok, X, SEO /p pages) > blackcrownvxj.com or korvus.industries > Korvus signup > Operator.
 
-## Measured leaks
-- **Gap one, brand home to Korvus.** 28 home visits 7d, 0 korvus clicks. CTA fix blocked on exact anchor text, with Regent as task.
-- **Gap zero, no strangers.** 25 of 33 visits direct. Organic is 1 google, 1 youtube. The /p page pipeline ([[Patterns]]) is the fix, currently stalled on dirty vault notes.
-- **Attribution gap.** Per-source signup tracking not instrumented. Ask #194 daily funnel digest pending.
+## Current leaks
+- **Gap one**: 28 brand home visits, 0 Korvus exit clicks. CTA fix sits with Regent.
+- **Gap two**: Korvus click instrumentation unverified. Zero Korvus clicks in 7d, so utm_content hook ids cannot be confirmed yet. Analyst inspecting the raw click log schema.
+- **X referrals**: five posts live, zero referral rows. Window open through 10-30.
 
-## What is live feeding the funnel
-- Five X posts shipped 2026-10-28 (Crown free tier x3, LodeStone 149, Operator annual). Zero referral rows yet, window open.
-- TikTok daily carousel, owner posts manually.
-- Weekly Korvus SEO watch job live (Mondays 09:00 ET).
+## What works
+- Night skew (14 of 33 visits at 23:00 ET) fits the watcher angle, feeding Bard creatives toward the pricing anchor on korvus:korvus_landing.html.
 
-## Night signal
-14 of 33 visits at 23:00 ET. Watcher angle clip with Bard targets korvus.industries/#pricing. See [[Keywords]], [[Korvus-Site]].
+## Pending levers
+- Four /p SEO pages (#191, #192, #193, #195) for organic entry.
+- Funnel digest job #194 to make this visible daily.

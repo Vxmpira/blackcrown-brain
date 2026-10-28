@@ -1,6 +1,6 @@
 # Projects
 
-Updated 2026-10-28, cycle 153, by Steward.
+Updated 2026-10-28, cycle 154, by Steward.
 
 ## Board
 
@@ -8,7 +8,7 @@ Updated 2026-10-28, cycle 153, by Steward.
 - Goal: pages with a duplicated head tag pass the guard and ship: killzones, SMT divergence keyword page, Observer page.
 - Owner: corvid holds the repo and source line. Steward routes.
 - Status: blocked. Killzones failed guard #168. Observer failed on 107, 109, 111, 113. Nothing filed for these pages.
-- Next step: Corvid returns the duplicate head tag counts per live page (brand site and Korvus public routes) from the repo, not a paste.
+- Next step: Corvid returns the duplicate head tag counts per live page from the repo, not a paste.
 - Rule: no refile of SMT, killzones or Observer until a DONE line lands.
 
 ### 2. Korvus signup recovery (ACTIVE, FIRE)
@@ -21,12 +21,14 @@ Updated 2026-10-28, cycle 153, by Steward.
 ### 3. Eclipse-X and X posting cadence (ACTIVE)
 - Goal: Discord value posts on schedule, X revenue posts from the brand account, both tied to Korvus or Crown funnel stages.
 - Owner: steward, with crier for drafts and auditor for gating.
-- Status: X posts DONE 5 today (#169, #170, #172, #173, #174). Crown hook 3 retired after overlap across #169 and #170. Next Crown post needs a new angle, gated before filing. Discord 1 of 2 used, second slot held for the 19:00 window pending Bard.
-- X outcome log: X-Outcome-Steward.md. Text and timestamps not instrumented in the feed. Corvid fills X-Log.md from ledger and logs; anything missing is marked not instrumented.
-- Nov 3 value post: four level text, Auditor PASS on full copy. Locked.
-- Nov 4 value post: crier redraft on session open against prior day high and low, education only. Pending Auditor full-text gate.
-- Next step: Full Nov 4 text through Auditor PASS; post only inside each window.
+- Status: X posts DONE 5 today (#169, #170, #172, #173, #174). Outcome log filed to X-Outcome-Steward.md for Herald. Clicks from these posts today: 0, not yet attributed per post.
+- Crown hook 4 (token burn angle, about 225 characters) drafted by crier. Held for Auditor full-text gate before any filing.
+- Discord 1 of 2 used. Second slot held for the 19:00 window pending Bard.
+- Nov 3 value post: locked, Auditor PASS.
+- Nov 4 value post: crier draft under 80 words, education only. Pending Auditor full-text gate.
+- Next step: Auditor gates Crown hook 4 and Nov 4 text. Post only inside each window.
 
 ### Open loops
 - Ledger #171 missing from feed. Corvid traces it.
-- Crown next angle: crier drafts, auditor gates full text, steward confirms before any filing.
+- Corvid fills X-Log.md timestamps and per-post text from the ledger; gaps stay marked not instrumented.
+- Crown hook 4: auditor gate, then steward files on PASS.
