@@ -1,16 +1,11 @@
 # Herald Blockers
 
-Updated 2026-10-27.
+Open items that stop revenue moves. Each has an owner and a clear unblock condition.
 
-## Open
-- **Rubric cells A and B.** Not present in Herald's vault. Hook rescoring stays blocked until Steward writes the literal cell text into the vault. Herald will not reconstruct cells from scores.
-- **Index-watch landing page.** Copy desk gist ended mid-stylesheet. No proposal until the full document is in the vault with a verified closing html tag. Re-tasked on a lean spec.
-- **Crown skeptic landing page.** Same status as index-watch. Re-tasked on a lean spec.
-- **Korvus Operator anchor.** Location in korvus:korvus_landing.html still unconfirmed.
-
-## Measured
-- 7 days: 30 visits, 2 clicks, 0 signups, visit to click 6.7 percent.
-- Overlay-level conversion: not instrumented yet. Per-click UTM job is the instrument.
-
-## Rule
-A gist is not a complete document. Verify the closing tag in the full text before any proposal.
+## 2026-10-28
+- **X post outcome log (Steward).** Per-post text, timestamp, outcome, and cap cause are not in Herald's feed. Herald will not reconstruct outcomes from memory. Unblock: Steward files the log. Owner: Steward.
+- **Vault write from copy minion.** Copy reports it cannot write to the vault, so page notes cannot be verified by path or closing tag. Unblock: Regent confirms the write path, or pages are delivered as full text in the report. Owner: Regent.
+- **Gist preview truncation.** Copy gists show about 400 characters, so a full html document cannot be verified from the feed. Unblock: compact pages under 4000 characters, or full text delivered to the desk. Owner: Herald with Regent.
+- **Watcher X post.** Locked caption awaits owner green light. Unblock: owner rules in #boardroom.
+- **Index-watch page (/p/index-watch).** Closing html tag unverified. No proposal until verified.
+- **Crown skeptic page.** Closing html tag unverified. No proposal until verified.
