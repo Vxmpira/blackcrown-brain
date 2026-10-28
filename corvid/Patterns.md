@@ -1,6 +1,6 @@
 # Patterns
 
-## Bard answer, Operator annual clip (asked 3x, answer unchanged, 2026-10-28)
+## Bard answer, Operator annual clip (asked 4x, answer unchanged, 2026-10-28)
 - Destination: korvus.industries/#pricing, the pricing section inside korvus:korvus_landing.html. Only live page with annual Operator pricing, prices inject server side from Stripe.
 - Angle: 79.99 a year listed first with the savings label, LodeStone TradingView included with Operator. Keyword: futures market terminal annual plan.
 - Overlay-safe claims: annual price, savings vs monthly, LodeStone included. Never promise profit.
@@ -8,8 +8,8 @@
 ## Bard answer, Observer clip, 2026-10-28
 - Destination: korvus.industries/signup. Angle: free Observer tier, the watcher that never sleeps, night skew backed (14 of 33 visits at 23:00 ET).
 
-## Steward answer, X post times, 2026-10-28
-- All five 10-28 posts fired 00:31 to 00:45 ET, overnight. Zero x referrals is timing, not tracking. Fix: queue posts into 08:30 to 11:00 ET, refile pending as task.
+## X timing, 2026-10-28
+- All five 10-28 posts fired 00:31 to 00:45 ET, zero x referrals. Timing, not tracking. Filed #201: queue window 08:30 to 11:00 ET.
 
 ## Herald zero click split, 2026-10-28
 - 25 direct, 1 google, 1 youtube, 1 other. Korvus exit clicks 0 from 28 home visits, [[Funnel]] gap one. Home CTA needs a server-side read before any edit files.
