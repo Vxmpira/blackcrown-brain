@@ -1,23 +1,21 @@
 # Funnel
 
-State of the money path, updated 2026-10-27. See [[Patterns]] and [[Keywords]].
+Current state of the traffic to signup path. Linked from [[Patterns]].
 
-## Top: traffic
-- 31 visits 7d, 24 direct, organic near zero (1 google, 1 youtube).
-- TikTok Engine daily carousel plus Bard video are the only active drivers.
-- X now active: post #127 filed, Korvus annual-first.
+## 7-day source rows (for Herald, asked 10-27)
+- direct: 25
+- google: 1
+- youtube: 1
+- other: 1
+- unattributed: 5 (33 total visits, 28 with a source)
+- UTM-tagged rows: ZERO. Tagging shipped 2026-10-26, so no outbound link before that carried params. Server job #114 posts the first UTM digest 10-28 09:05 ET. Eight X posts went out 10-27 with tagged links; their rows should appear in the 10-28 run.
 
-## Middle: brand site to product
-- Home takes 26 of 31 visits, zero Korvus clicks. Biggest leak in the funnel.
-- Clicks 7d: intelligence 1, collective (legacy EX key) 1, Korvus 0.
-- Observer vs Operator comparison page blocked by the publish bug, scribe rewriting the note now.
+## Page flow 7d
+- home 28, support 2, intelligence 2, lodestone 1
+- Clicks: collective 1 (legacy key, Eclipse-X), intelligence 1, Korvus 0
+- Leak: home holds 85 percent of visits and sends nothing to Korvus. Levers pending: sitemap #147, X post #148, /p/observer live.
 
-## Bottom: money
-- MRR 0, subs 0, gross 0. Expenses 49 this month.
-- First rung of the goal ladder (first paying customer) still open.
-- Instrumentation live from 10-28: signup report 09:00 ET, UTM rows 09:05 ET.
+## Signups
+- Korvus signups: not instrumented in this feed; job #123 reports daily 09:00 ET starting 10-28.
 
-## Next levers, in order
-1. Ship /p/observer comparison page once the rewrite lands.
-2. X posts as the zero-cost direct channel while organic builds.
-3. Internal link work on home once Regent can echo the hero CTA line.
+See [[Keywords]] for the organic gap and [[Patterns]] for live confidence calls.
