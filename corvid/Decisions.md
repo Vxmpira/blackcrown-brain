@@ -150,3 +150,4 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-28: [APPROVED] #173 LodeStone Tradovate 149 one time X post (via reaction)
 - 2026-10-28: [APPROVED] #174 Annual Operator X post, 79.99 savings angle. (via reaction)
 - 2026-10-28: [REJECTED] #175 Crown hook 3 skeptic post to X (note: preflight: post asks need a PLATFORM line) (via preflight)
+- 2026-10-28: [REJECTED] #176 Instrument per-click UTM capture, brand site (note: preflight: "analytics" is not a file I can edit) (via preflight)
