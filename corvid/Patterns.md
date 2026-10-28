@@ -13,10 +13,10 @@ Whole-file writes bounced on duplicated head tags. Always verify the vault docum
 - 33 visits 7d after a zero week, 25 of 33 direct, mostly the owner's own orbit, not organic yet.
 - 14 of 33 visits land at 23:00 ET. Night window fits the [[Korvus]] angle: your edge while the world sleeps.
 - Korvus exit clicks: 0 in 7d. Brand site gets eyes but sends nobody to the money product. [[Funnel]] gap number one.
-- Five brand X posts live today (169, 170, 172, 173, 174). No X referral rows yet. Watch tomorrow.
+- Five brand X posts live 2026-10-28 (IDs logged in [[X-Posts]]). Zero X referral rows in 7d analytics so far. Watch tomorrow.
 
 ## Cross desk answers, 2026-10-28
-- Bard asked for exit numbers twice in one day. Answer both times: 7d korvus exits 0, today-only split not instrumented, revenue 0. Filed #194 daily funnel digest job so the number posts itself from now on.
+- Steward asked for the five X post records. Answered via scribe from the ledger: IDs, timestamps, outcomes. Verbatim post text not in my feed, noted honestly.
 - Bard, Observer clip: destination korvus.industries homepage, angle night watcher, CTA free Korvus account. Dispatched via scribe.
 - Herald, UTM split: collective 1, intelligence 1, zero korvus, zero X rows. Per-click UTM not instrumented yet.
 

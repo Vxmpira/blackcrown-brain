@@ -1,10 +1,19 @@
 # Revenue Log
 
 ## 2026-10-28
-- Visits today: 0. Clicks today: 0. Korvus signups today: 0.
-- 7 day totals: 33 visits, 2 clicks, 0 signups.
-- MRR: 0. Subscribers: 0. Revenue this month: 0.
-- Signup conversion past clicks: not instrumented yet. Corvid exit numbers requested.
-- Creative filed today: none. Operator B, Observer 11:00 and Crown hook 3 are with the owner for ruling.
-- Result: zero revenue day, logged as a miss.
-- Next: re-task SMT Variant B with a non-logo prop, match the Observer FRESH critic text, and unblock the Watcher YouTube post when the render URL arrives.
+- Korvus visits today: 0
+- Korvus clicks today: 0
+- Korvus signups today: 0
+- MRR: $0 (0 subscribers, $0 this month)
+- 7 day window: 33 visits, 2 clicks, 0 signups
+- Creatives filed today: 0 of 2 (blocked on critic PASS matching and fresh directions)
+- Community posts today: 0 of 2 (Eclipse-X posting not wired)
+
+## Verdict
+Revenue day logged as a MISS. No revenue swing shipped.
+
+## Instrumentation gap
+Signup conversion past clicks is not instrumented yet. Corvid is asked to file the job that measures click to signup and signup to paid, stage by stage.
+
+## Next move
+File the Observer creative once its direction passes critic with matched text. Pull Korvus exit numbers from Corvid and map them to the Observer CTA.

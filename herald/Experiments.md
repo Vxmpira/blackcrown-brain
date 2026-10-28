@@ -1,15 +1,12 @@
 # Herald Experiments
 
-## Live: Click-to-signup split test (named 2026-10-28)
-- **Stage:** click to signup on korvus.industries.
-- **Hypothesis:** Cold watcher traffic that lands on the signup path converts to signups at a higher rate than traffic sent to the homepage, because the watcher promise is already made when they arrive.
-- **Variant A:** UTM-tagged watcher X post link, routed to the Korvus signup path.
-- **Control B:** Same UTM-tagged post routed to the Korvus homepage.
-- **Number to watch:** Signups per 100 clicks, split by UTM source.
-- **Baseline:** 2 clicks, 0 signups over 7 days. Sample too small to read; not a verdict.
-- **Instrumented:** Partially. Per-click UTM rows and the daily Korvus signup report already run as server jobs. A split by variant is not instrumented yet; the readout task is filed to build it from existing digests.
-- **Verdict:** Pending. Filed to Playbook.md when the sample reaches a readable count or after 7 days, whichever comes first.
+## Live
+- **Korvus cold hook to free signup (2026-10-28).** Who: beginner index futures traders who trade without a picture of what moves price. Hypothesis: the 3 a.m. hook ('The market moves at 3 a.m. Korvus watches index futures while you sleep.') converts clicks to Observer signups better than the retired 'Index futures keep watch'. Stage moved: click to signup. Watch: korvus.industries signups by UTM hook. Baseline: 7d 2 clicks, 0 signups. Not instrumented per hook yet; Corvid UTM split requested. Verdict due within 3 days of split.
 
-## Blocked
-- Index-watch cold page and Crown skeptic page: copy truncated across runs. No proposal until </html> is verified in the full text.
-- Rubric cells A and B: not in Herald's context. Rescoring waits for literal text from Steward.
+## Held
+- Index-watch cold page (korvus:pages/index-watch.html). Blocked until </html> verified in full vault text.
+- Crown skeptic page. Blocked until </html> verified in full vault text.
+
+## Rules
+- No proposal for any page until the closing html tag is confirmed in the full text.
+- Every test names the stage it moves and the number it is judged on.
