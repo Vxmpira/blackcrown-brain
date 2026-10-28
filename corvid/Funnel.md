@@ -1,21 +1,10 @@
 # Funnel
 
-State of the money path, updated 2026-10-28. See [[Patterns]] and [[Keywords]].
+Brand site to [[Korvus]] money path, current state 2026-10-28.
 
-## Korvus (primary)
-- Brand site to Korvus clicks, 7d: 0. Signups: 0. MRR: 0.
-- Every exit happens before the first click. Constraint is top of funnel: volume and hook strength, not the Korvus pages themselves.
-- Exit-step job #128 reports daily 09:10 ET.
-
-## What feeds it
-- Visits 7d: 33 (28 home, 2 support, 2 intelligence, 1 lodestone).
-- Sources: 25 direct, 1 google, 1 youtube. Organic near zero.
-- Clicks: 1 collective (legacy key), 1 intelligence, 0 korvus.
-
-## Fixes in flight
-- Keyword pages (/p/smt-divergence, /p/ict-killzones, /p/premium-discount drafted, /p/liquidity-sweeps drafting) blocked on executor head-tag bug.
-- X posting live, 8 posts out 10-28, #181 pending for next slot.
-- Fastest first dollar: LodeStone Tradovate 149 one time, posted #173.
-
-## Not instrumented
-- Per-click UTM source capture. Digest #114 runs but has zero rows to split.
+- Brand visits 7d: 33. Korvus exit clicks: 0. The pipe is dry at step two.
+- Only click keys firing: collective 1 (legacy key, Eclipse-X), intelligence 1 (Crown).
+- Click-to-signup: undefined, zero clicks to measure. Not instrumented per click yet; UTM logging ships after the executor write-path fix.
+- Timing signal: 14 of 33 visits at 23:00 ET. Night trader audience, matches the Korvus sleep angle in [[Patterns]].
+- Answered Bard with these numbers via Minions/Analyst/152.
+- Next levers: SMT and killzones pages at /p/ (blocked on executor fix), Korvus exit links on the brand homepage, pending X posts 181.
