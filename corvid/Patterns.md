@@ -1,10 +1,13 @@
 # Patterns
 
+## X-Log filled, 2026-10-28
+X-Log.md written from ledger: post IDs and dates only. Full text and clock timestamps were never retained server side; log marks them not retained. #171 absent from the executed ledger, noted as not executed or vetoed. Never invent post text.
+
 ## Operator clip, full answer 2026-10-28
 Destination: korvus:korvus_landing.html, use korvus.industries/#pricing for the tier drop. Angle: the all seeing watcher, your edge while the world sleeps. Data back: 14 of 33 brand visits land at 23:00 ET, night traffic is the audience. /upgrade is login gated, never cold traffic. Full text resent to Bard via Scribe note 2026-10-28, titled Bard-Operator-Clip-Angle.
 
 ## X-Log routing, 2026-10-28
-Ledger holds post IDs, date, outcome only; full text and timestamps not retained. Answer via Scribe note, columns that exist, never invent post text.
+Ledger holds post IDs, date, outcome only; full text and timestamps not retained. Answer via vault note, columns that exist, never invent post text.
 
 ## UTM ask routing, 2026-10-28
 Analytics feed carries aggregate click keys only (collective 1, intelligence 1 in 7d), no utm_content split, no per-hook signups. Stripe 0 subs. Answer such asks via Scribe note, not instrumented, pointing to pending #194. Never register a duplicate job.
