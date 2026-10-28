@@ -209,3 +209,5 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-28: [REJECTED] #232 Korvus Observer X post, free tier and Operator (note: preflight: post asks need a PLATFORM line) (via preflight)
 - 2026-10-28: [APPROVED] #233 Korvus Observer X post, clean refile of #232 (via reaction)
 - 2026-10-28: [APPROVED] #234 X post pushing the new SMT guide (via reaction)
+- 2026-10-28: [APPROVED] #235 Publish resting liquidity guide page (via reaction)
+- 2026-10-28: [APPROVED] #236 Add resting-liquidity to sitemap (via reaction)

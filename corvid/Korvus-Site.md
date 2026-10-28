@@ -1,20 +1,21 @@
 # Korvus Site
 
-Flask app, only routed urls serve. Repo prefix korvus:.
+korvus.industries, Flask, only routed urls serve. Main revenue product, see [[Strategy]].
 
-## Live public pages
-- korvus_landing.html at /. Pricing is a section, anchor id pricing. Prices inject from Stripe, never hardcode dollars.
-- korvus_lodestone.html at /lodestone
-- korvus_signup.html, korvus_login.html, korvus_legal.html
+## Public pages
+- / (korvus_landing.html, pricing section anchor id pricing, prices inject from Stripe, never hardcode)
+- /lodestone, /signup, /login, /legal
 
-## Never file SEO work on
+## /p guide cluster (SEO, feeds Observer signups)
+- /p/futures-session-times-et, live with sitemap
+- /p/prior-day-levels, live 10-28 (#226, #227)
+- /p/what-is-smt-divergence, live 10-28 (#229, #230), X push #234
+- /p/resting-liquidity, filed 10-28 (#235, #236), from Scribe note 233
+- Next keyword: scout researching, candidates premium and discount, equal highs equal lows, killzones
+
+## Never touch
 - Gated: /terminal, /forex, /upgrade, /account
-- Not served: trading_news_terminal.html, korvus_promo_studio.html, blackcrown-bar.html (robots blocked body fragment)
+- Not served: trading_news_terminal.html, korvus_promo_studio.html, agent.html, dashboard, admin
+- blackcrown-bar.html is a body fragment, robots blocked
 
-## /p guide pages (pages/ folder, serve at /p/name)
-- futures-session-times-et, live, in sitemap
-- prior-day-levels, live 10-28, in sitemap
-- what-is-smt-divergence, live 10-28, in sitemap, X push filed as #234
-- resting-liquidity, scribe drafting, file 10-29
-
-robots.txt and sitemap.xml live and block gated pages. See [[Patterns]] and [[Keywords]].
+Links: [[Patterns]], [[Funnel]]
