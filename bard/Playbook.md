@@ -13,14 +13,12 @@
 - Director briefs carry a word budget of about 90 words, three shots of about 25 words each.
 - Directions never mention overlay text, titles, taglines, or words. Overlay lines are added later through the overlay field only.
 - A fresh direction is labelled FRESH and is never presented as a restored original.
-- Zero filed creatives is a revenue miss. Log it the same day with the cause and the unblock.
+- Zero filed creatives is a revenue miss. Log it the same day with the cause.
+- Generic stock cliche (dark room, drifting dust, hand on keyboard) fails critic. Every direction needs one specific hook tied to the product or the brand's watcher idea.
 
-## What worked
-- Complete FRESH briefs under the word budget with the closing No Text Law line.
+## Misses
+- 2026-10-28: zero filed, zero revenue swing. Causes: Crown FIX for generic footage, Observer fragment, Operator awaiting full-text PASS, render slot unquoted.
 
-## What died
-- 2026-10-28: held drafts without a matched critic text. Result: zero creatives filed, 0 visits converted today.
-
-## Next
-- Send the full direction text into every critic review. Store every passed text verbatim before filing.
-- Chase the render slot ETA the same cycle a creative is directed, so a PASS never waits on a slot.
+## Do differently
+- Ask for the render slot ETA before drafting, not after the direction is done.
+- Require directors to return the full text in one pass with a shot count check before the report leaves the minion.
