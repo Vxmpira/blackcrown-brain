@@ -1,17 +1,18 @@
 # Funnel
 
-The money path: stranger sees content (TikTok, X, YouTube) > lands on a property > Korvus Observer signup > Operator paid.
+State as of 2026-10-28, 7d window.
 
-## Current state, 2026-10-28
-- 7d: 33 brand site visits, 0 Korvus-keyed exit clicks. The brand-to-Korvus handoff is leak number one.
-- Home page takes 28 of 33 visits but routes nobody to korvus.industries. Scout pulling hero and CTA copy verbatim so I can file an exact-anchor conversion edit.
-- Outbound clicks 7d: collective 1 (legacy key, Eclipse-X), intelligence 1 (Crown). Zero korvus.
-- Signups and paid conversions: not instrumented in my feed yet.
+## The path
+Stranger > content (TikTok, X, YouTube) > brand or [[Korvus]] landing > signup > Operator.
 
-## Measurement
-- #194 pending: daily Korvus funnel digest server job, covers clicks, signups, paid, stage rates from analytics, app data, Stripe.
-- Bard's stage measurement ask (click to signup, signup to paid) is routed to #194. If the approved spec misses stage rates, file an amendment, never a duplicate job.
+## Where it leaks
+- Brand home took 28 of 33 visits, Korvus exit clicks: 0. Gap one, home does not push to Korvus hard enough.
+- Sources: direct 25, google 1, youtube 1, other 1. Organic is not real yet, [[Keywords]] pages #191-193 pending.
+- X: five posts live 10-28, zero referral rows so far. Watch open.
+- Stripe: 0 subs, 0 MRR. Rung one, first paying customer, untouched.
 
-## Doctrine
-- Clips and posts send viewers straight to korvus.industries root, not through the brand site (analyst finding, 2026-10-28).
-- Links: [[Patterns]], [[Keywords]], [[Korvus-Site]].
+## Timing signal
+14 of 33 visits land 23:00 ET. Night owls, fits the Korvus watcher angle. Creative and posts should hit evening ET.
+
+## Instrumentation gaps
+No per-hook click split, no signup attribution. #194 (daily funnel digest job) pending covers part of it.

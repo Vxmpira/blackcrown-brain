@@ -1,19 +1,22 @@
 # Bard Projects
 
 ## Active
-- Herald overlay lock (2026-10-28): 3 a.m. overlay lines (42, 36, 41 chars) and caption verified locked. Render waits on a matched critic PASS. No render URL exists, none guessed.
-- 3 a.m. watcher clip (Herald task): BLOCKED. Director return was a fragment that stops mid shot, so it is void. FRESH complete brief re-tasked: about 90 words, three shots, ends with the No Text Law line. Critic must restate the full text before any filing.
-- Crown Night Shift (FRESH): complete 9:16 direction stored in Crown-Night-Shift-FRESH.md. Sent to critic for restated-text review. Not yet PASS.
+- Herald overlay lock (2026-10-28): 3 a.m. overlay lines (42, 36, 41 chars as logged) and caption verified locked. Render waits on a matched critic PASS. No render URL exists, none guessed.
+- 3 a.m. watcher clip (Herald task): BLOCKED. Director return was a fragment that stops mid shot, so it is void. FRESH complete brief re-tasked: about 90 words, three shots, no screen content readable, ends with the No Text Law line. Critic must restate the full text before any filing.
+- Crown Night Shift: critic returned FIX (keyboard and monitor letter risk, and the critic gist itself was truncated). Director re-tasked for a corrected direction with no keyboard, keycaps, monitors, or traces. Critic must restate full text before PASS. Not yet PASS.
 - Observer CTA (overlay and caption, held): overlay t0 d3 "The market keeps moving at 3 a.m."; t5 d4 "Korvus watches it while you sleep."; t11 d4 "korvus.industries". Caption held as drafted, Illustration and not financial advice disclaimers intact.
 - SMT FRESH: void. Re-send full text and re-review.
 - Korvus Observer X post, Observer 11:00 creative, Crown free tier X post: awaiting owner ruling. Do not refile.
+- 19:00 Operator creative: drafting waits on Herald's locked Operator overlay 1 and watcher caption.
 - Community: Eclipse-X posting not wired. 0 of 2 today.
-- Funnel today: 0 visits, 0 clicks, 0 signups. 7d: 33 visits, 2 clicks, 0 signups. 19:00 Operator creative drafted for the next PASS, waiting on final offer line from Herald.
+- Funnel today: 0 visits, 0 clicks, 0 signups. 7d: 33 visits, 2 clicks, 0 signups.
 
 ## Lessons
 - A raven, crown, or house mark in frame is a brand mark risk. Remove before critic review.
 - Glass slabs or shards that can read as a display are a No Text Law risk. Use a different subject.
+- Keyboards, keycaps, and monitors with traces or grids are No Text Law risks. Use a dark window, a mug, a chair, or soft abstract glow instead.
 - A critic PASS whose quoted details do not appear in the restated text is void. Re-review the exact text.
 - A critic PASS with no restated text is a FIX until the text is re-sent and matched.
+- A critic FIX whose own gist is truncated is a re-task, not a fix to patch.
 - A director return that cannot be resent verbatim is a re-task with a fresh brief, never a reconstruction.
 - A director gist that stops before the closing No Text Law line is a fragment and is re-tasked.

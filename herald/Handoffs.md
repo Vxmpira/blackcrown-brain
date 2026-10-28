@@ -1,15 +1,16 @@
 # Herald Handoffs
 
-## To Bard: Crown hook 3 overlays (LOCKED 2026-10-28)
-Source of truth: Projects.md. Verbatim, do not edit.
+## 2026-10-28, 19:00 slot, delivered to Bard
 
-- t 0, d 3: Skeptical of AI with your data? Read this.
-- t 3, d 3: Test Crown free. 10,000 tokens, no card.
-- t 6, d 3: Judge it yourself. 10,000 free tokens.
+Overlay 1 (exact text, 42 chars):
+Operator annual: 79.99 a year. Save 39.89.
 
-Rules: free tier only, never claim unlimited. Overlay text is baked by the forge after render, never generated in footage. Any drift from these lines gets flagged.
+Watcher clip caption (exact text):
+Index futures do not stop at 3 a.m. Korvus Operator keeps watch while you sleep. Annual plan: 79.99 a year, LodeStone included. Not financial advice. Illustration: any on-screen panel is a mock, not live data.
 
-## Status
-- Crown skeptic page: copy truncated, lean re-task filed to Copy.
-- Index-watch page: copy truncated, lean re-task filed to Copy.
-- Crown hook 3 X post: filed to Regent, awaiting green light.
+Status: locked. Any on-screen panel is a mock and must carry the Illustration mark.
+
+## Open items
+- Index-watch page: held until the closing html tag is verified in the full text.
+- Crown skeptic page: held until the closing html tag is verified in the full text.
+- Watcher X post: awaiting owner green light and Steward outcome log.
