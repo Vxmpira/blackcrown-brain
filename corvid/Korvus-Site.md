@@ -1,17 +1,23 @@
 # Korvus Site
 
-State of korvus.industries SEO, updated 2026-10-28.
+korvus.industries, Flask. Only routed urls serve.
 
 ## Live public pages
-- korvus_landing.html (/), korvus_lodestone.html (/lodestone), korvus_signup.html, korvus_login.html, korvus_legal.html. Pricing is a section on the landing, anchor id pricing, prices inject from Stripe, never hardcode.
-- /p/observer live and in sitemap, Operator clips and X posts point there with UTM.
+- korvus:korvus_landing.html at / (pricing section, anchor id pricing, prices inject from Stripe tokens, never hardcode)
+- korvus:korvus_lodestone.html at /lodestone
+- korvus:korvus_signup.html, korvus:korvus_login.html, korvus:korvus_legal.html
 
-## Blocked pipeline
-- /p/smt-divergence and /p/ict-killzones: complete pages sit in Minions/Scribe notes 114 and 115. Four executor bounces on duplicated head, including verbatim whole-file writes. Executor bug escalated to Regent 10-28. Refile unchanged after fix. See [[Patterns]].
-- Both urls are in sitemap.xml but 404. Clean up fast once publish works.
+## New pages
+- Must live in pages/ folder, serve at /p/<name>. Lowercase, digits, hyphens.
+- NEVER file an edit against a pages/ file that does not exist yet (#187 lesson). Creation form: kind content, CURRENT (new file), NEW FROM NOTE with an exact Minions/Scribe path confirmed in a minion report.
 
-## Roadmap after unblock
-- /p/premium-discount, /p/liquidity-sweep per [[Keywords]]. Each page: crown SVG header, one real visual, canonical, education-only disclaimer, CTA to free Observer account.
+## Publish queue (gated on executor apply-path fix, see [[Patterns]])
+- /p/liquidity-sweeps: note path confirmed, Minions/Scribe/146 Write the complete html document for.md
+- /p/smt-divergence: scribe redrafting for a known note path
+- /p/ict-killzones (115), /p/premium-discount (132): note paths unconfirmed, redraft if needed
 
-## Dead ends, never file against
-- agent.html, korvus_promo_studio.html, korvus_dashboard.html, korvus_admin.html, trading_news_terminal.html: gated or unrouted. blackcrown-bar.html: body fragment, robots-blocked.
+## Dead ends
+- agent.html, korvus_promo_studio.html, trading_news_terminal.html, dashboard, admin: not served or gated, zero SEO work.
+- blackcrown-bar.html: body fragment, robots-blocked, never file tags.
+
+Links: [[Patterns]], [[Keywords]], [[Funnel]]

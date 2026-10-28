@@ -158,3 +158,4 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-28: [REJECTED] #183 Crown hook 3 post on X for free-tier signups (note: Regent veto: X overpaced, zero more today, #181 already holds next slot) (via regent)
 - 2026-10-28: [REJECTED] #184 Crown hook 3 X post, free tier, link to Crown (note: Regent veto: X overpaced, zero slots today, #181 already holds next slot) (via regent)
 - 2026-10-28: [REJECTED] #186 Hook A cold X post for Korvus, one daily slot (note: Regent veto: X overpaced, zero slots today, #181 already covers next slot) (via regent)
+- 2026-10-28: [REJECTED] #187 Refile SMT divergence page at /p/smt-divergence (note: preflight: pages/smt-divergence.html does not exist in that repo; target a page the audit lists, or create one with CURRENT exactly (new file)) (via preflight)
