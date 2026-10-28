@@ -1,10 +1,13 @@
 # X Referral Watch, through 10-30
 
 ## Baseline
-- 7d visits: 33 (prev 7d: 0). First nonzero week.
-- Per-source split: not instrumented in my feed yet. Steward ask for X click split is open.
-- Annual Operator X post refiled as #207, pending. Referral spike check resumes after it publishes.
+- 7d visits total: 33 (prev 0). Source split not yet pulled, analyst tasked.
+- UTM tagging live since 10-26, so X clicks should carry utm_source=x.
+- Proposal 207 (Operator annual X post) still pending, no fresh X push live yet.
 
-## Next checks
-- Each day through 10-30: compare 7d visits vs this 33 baseline, flag any day-over-day jump after an X post goes live.
-- When Steward's split arrives, record X-attributed visits here and compute X share of total.
+## Log
+- Day 1: delegated analyst for utm_source=x session count and landing pages. Awaiting numbers.
+
+## What good looks like
+- Any X referred session landing on korvus_landing.html or /lodestone counts as qualified.
+- Track click to signup, note if signup events are not instrumented and file the job if so.
