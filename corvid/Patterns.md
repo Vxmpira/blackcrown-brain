@@ -1,19 +1,16 @@
 # Patterns
 
-## X-Log filled, 2026-10-28 (refiled on Steward task)
-X-Log.md rewritten from ledger: five live post IDs with dates. Full text and clock timestamps were never retained server side; log marks them not retained. #171 absent from the executed ledger, logged as not executed or vetoed. Never invent post text.
+## Herald source asks, consolidated 2026-10-28
+Three duplicate Herald tasks on 7d sources. Answered once via Scribe note to Herald: visits and clicks by source exist for brand site only; per-property signup by source is not instrumented, Stripe 0 subs, pending #194 funnel digest covers it. Never answer a source ask with invented per-property splits.
 
 ## Operator clip, full answer 2026-10-28
-Destination: korvus:korvus_landing.html, use korvus.industries/#pricing for the tier drop. Angle: the all seeing watcher, your edge while the world sleeps. Data back: 14 of 33 brand visits land at 23:00 ET, night traffic is the audience. /upgrade is login gated, never cold traffic. Full text resent to Bard via Scribe note 2026-10-28, titled Bard-Operator-Clip-Angle.
+Destination: korvus:korvus_landing.html, use korvus.industries/#pricing for the tier drop. Angle: the all seeing watcher, your edge while the world sleeps. 14 of 33 brand visits land at 23:00 ET, night traffic is the audience. /upgrade is login gated, never cold traffic. Answer resent to Bard via Scribe note Bard-Operator-Clip-Angle.
 
 ## X-Log routing, 2026-10-28
-Ledger holds post IDs, date, outcome only; full text and timestamps not retained. Answer via vault note, columns that exist, never invent post text.
-
-## UTM ask routing, 2026-10-28
-Analytics feed carries aggregate click keys only (collective 1, intelligence 1 in 7d), no utm_content split, no per-hook signups. Stripe 0 subs. Answer such asks via Scribe note, not instrumented, pointing to pending #194. Never register a duplicate job.
+Ledger holds post IDs, date, outcome only; full text and timestamps not retained. Answer via vault note, columns that exist, never invent post text. #171 absent from ledger, logged not executed.
 
 ## UTM click truth, 2026-10-28
-Zero X referral rows since the five 10-28 posts (169,170,172,173,174 all live). Watch window stays open.
+Zero X referral rows since the five 10-28 posts (169,170,172,173,174 all live). Watch window stays open. Analytics carries aggregate click keys only, no utm_content split.
 
 ## Lesson from proposal 190 failure
 Never file head tag asks against a page that does not exist yet. New page: kind content, CURRENT exactly (new file), NEW one FROM NOTE line.
@@ -30,4 +27,4 @@ Scout has no web fetch or repo read here. Anchors come from the audit or not at 
 - Korvus exit clicks 0 in 7d from 28 home visits, [[Funnel]] gap one.
 
 ## SEO page pipeline
-Live asks: #191 SMT, #192 killzones, #193 liquidity-sweeps. Sitemap entries file as one follow-up once live.
+Live asks: #191 SMT, #192 killzones, #193 liquidity-sweeps. Sitemap entries file as one follow-up once live (task open).
