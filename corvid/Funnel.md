@@ -1,21 +1,21 @@
 # Funnel
 
-Current state, 2026-10-28. Linked from [[Patterns]].
+State as of 2026-10-28. Linked from [[Patterns]].
 
-## Top of funnel
-- TikTok (manual post by owner), X (wired, 4 brand posts live), YouTube (wired). Sources 7d: direct 25, google 1, youtube 1, other 1. Social referrals effectively zero so far, judge X after 10-30.
-- [[Eclipse-X]] Discord is the free foot in the door.
+## The path
+Stranger > content (TikTok, X, YouTube) > a property > Korvus signup > Operator. Revenue: 0 MRR, 0 subs.
 
-## Middle
-- Brand home: 28 of 33 visits, 0 Korvus clicks. THE leak. Fix blocked on a server read of the hero CURRENT text (minions blind, see [[Patterns]]).
-- korvus.industries live pages: /, /lodestone, /signup, /login, /legal. /p pipeline frozen on head guard.
+## 7d snapshot
+- 35 visits, prev 7d 0. Pages: home 30, support 2, intelligence 2, lodestone 1.
+- Clicks out: intelligence 1, legacy collective 1, Korvus 0.
+- Sources: direct 27, google 1, youtube 1, other 1. Devices: desktop 33.
+- 14 visits at 23 ET, desktop, direct. Likely self or bot, not buyers.
 
-## Bottom
-- Observer signups: not instrumented from my seat. Signup UTM capture unverified. Jobs #219 and #221 now feed weekly and daily data.
-- Revenue: 0 MRR, 0 subs. Products that can close: Operator 9.99/79.99, Crown 49.99, [[LodeStone]] TradingView 19.99 or Tradovate 149 one time.
+## The leak
+Brand home takes 86 percent of visits and sends zero to Korvus. Hero rewrite is the highest value content fix on the board, blocked on Steward returning CURRENT hero text.
 
-## Next levers, ranked
-1. Homepage Korvus click leak (needs server read).
-2. /p SEO pages once guard is fixed (5 clean notes queued).
-3. X cadence with UTM links, verdict 10-30.
-4. Keyword-targeted /p pages from scout's map, see [[Keywords]].
+## Not instrumented yet
+- Korvus signup counts by source (job #219 reports Tuesdays).
+- Session level data to separate self traffic from real visitors.
+
+See [[Keywords]] for the /p page pipeline feeding this funnel.
