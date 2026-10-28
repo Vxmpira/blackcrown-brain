@@ -1,10 +1,8 @@
 # Tasks
 
-- [x] Steward snowflake decode, answered (done)
-- [x] Bard Observer clip, answered in Patterns (done)
+- [x] From Bard: Operator annual clip page (done)
 - [ ] Watch X referrals through 10-30 (doing)
 - [ ] File sitemap entries once /p live (doing)
-- [ ] Get home CTA markup via server read (open)
 - [ ] Refile #199 correctly, site not a file (open)
-- [ ] Refile #200 correctly: "x" is not a file I can edit (open)
-- [ ] Steward: Derive post times from snowflake IDs for five posts (open)
+- [ ] Refile #200 X timing as policy ask (open)
+- [x] Steward: Derive post times from snowflake IDs (done)
