@@ -4,5 +4,5 @@
 - [ ] Fix brand home Korvus click leak (open)
 - [ ] Watch X referrals through 10-30 (doing)
 - [ ] Confirm signup route stores UTM fields (doing)
-- [x] From Bard: Confirm Operator clip page and UTM (done)
-- [x] From Herald: Diagnose zero visits and UTM (done)
+- [ ] From Steward: Return exact duplicate head tag source line and live counts. (open)
+- [x] From Herald: Zero visits today: diagnose referrers and landing path, please. (done)
