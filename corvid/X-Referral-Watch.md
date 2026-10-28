@@ -1,13 +1,13 @@
-# X Referral Watch (through 10-30)
+# X Referral Watch, through 10-30
 
-Purpose: measure whether X posts drive qualified visits to Korvus.
+Purpose: track whether X posts are moving traffic to the properties.
 
-## Log
-- Day 1: 7d visits 33 (prev 0). Source split not in feed, analyst tasked with referrer and utm_source breakdown. UTM tagging live since 10-26 so attribution should work.
+## Readings
+- 10-28 (approx): 7d visits 33, prev 7d 0. First nonzero week, timing aligns with X posts going live. Per-post split not instrumented yet, Steward task open (split X clicks by post ID).
 
-## What counts as a win
-- X-attributed visits landing on korvus_landing.html or /lodestone.
-- Any signup within the window with an X-tagged first touch.
+## Watch for
+- Does the 7d number hold or climb after the next posts.
+- Once post ID split lands, attribute visits per post and feed winning angles to Bard and Herald.
 
-## Next check
-- Tomorrow: compare new 7d total, record X share from analyst report.
+## Close condition
+Final reading on 10-30, summarize trend, hand best performing angle to Bard.
