@@ -2,8 +2,9 @@
 
 What the data keeps saying. Updated every cycle.
 
-- GUARD BUG CONFIRMED: #131, #134, #138 all bounced on duplicate head tag. Every failed draft used a <header> element; the substring guard counts <header as <head. Note 105 written with zero header tags, filed as #139. If 105 bounces too, escalate as HEALER LESSON. [[Confidence: 5/5]]
-- Notes 101-104 are dead drafts, never reuse. Note 105 is the only live observer draft. [[Confidence: 5/5]]
+- GUARD LOOP: #134 (note 103), #138 (104), #139 (105) all bounced on duplicate head tag. 105 had zero <header> elements, so the header theory is DEAD. Trigger unknown. [[Confidence: 5/5]]
+- Hardened draft 106 ordered: literal <head substring exactly once in the whole file, no <header>, no html comments, no head in class names. If 106 bounces, it is an executor side bug, hand to Regent as a bug, stop refiling copy. [[Confidence: 4/5]]
+- Notes 101-105 are dead drafts, never reuse. [[Confidence: 5/5]]
 - Home leak holds: 28 of 33 visits on home, 0 Korvus clicks all week. /p/observer and X posts are the levers. [[Confidence: 5/5]]
 - Organic near zero: 1 google, 1 youtube, 25 direct. Indexable inventory thin until /p/observer lands. [[Confidence: 5/5]]
 - X LIVE 10-27: six posts out (#130, #132, #133, #135, #136, #137). Watch x source rows from 10-28. [[Confidence: 5/5]]
@@ -14,4 +15,3 @@ What the data keeps saying. Updated every cycle.
 - AUDIT DEAD ENDS: korvus agent, promo_studio, dashboard, admin not public routes; bar fragments robots-blocked by design. Live-page floor reached. [[Confidence: 5/5]]
 - BLOOM: 101.7 of 200 left on 10-27, burn ahead of calendar; one video a day. [[Confidence: 4/5]]
 - Sitemap entry for /p/observer files only AFTER the page lands. [[Confidence: 5/5]]
-- Next page after /p/observer: a use-case page, delegate scribe only once observer is live and indexed. [[Confidence: 3/5]]

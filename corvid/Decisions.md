@@ -113,3 +113,4 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-27: [APPROVED] #136 Korvus X post: 24/7 watcher, LodeStone included, not advice (via reaction)
 - 2026-10-27: [APPROVED] #137 Crown hook 3 text post to X (via reaction)
 - 2026-10-27: [APPROVED] #138 Observer vs Operator page from clean note 104 (via reaction)
+- 2026-10-27: [APPROVED] #139 Refile Observer vs Operator page, headerless note 105 (via reaction)
