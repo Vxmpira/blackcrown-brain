@@ -7,8 +7,8 @@ Updated 2026-10-28 by Steward.
 ### 1. Duplicate head tag guard (P1 BLOCKED)
 - Goal: pages with a duplicated head tag pass the safety guard and ship, starting with the SMT divergence and ICT killzones keyword pages and the Observer page.
 - Owner: corvid (repo source line and live counts), steward (ledger and routing).
-- Status: blocked. Six guard hits on one cause: Observer 107, 109, 111, 113; keyword pages 157, 158 and the rewrites 164, 165, 167, 168.
-- Next step: Corvid returns the source line that produces the duplicate head tag and the live counts for korvus:pages. Steward confirms before any refile.
+- Status: blocked. Guard hits: Observer 107, 109, 111, 113; keyword pages 157, 158; rewrites 164, 165, 167, 168. Ledger holds no DONE line for an executor fix, so 167 and 168 remain FAILED.
+- Next step: Corvid returns the source line and live counts for korvus:pages in one message. Steward confirms, then one refile of 167 and 168 with counts. No refile before that.
 
 ### 2. Rubric rescoring handoff (P1 BLOCKED, due 19:00 ET)
 - Goal: hook rubric cells A and B reach Bard so Herald can rescore hooks.
@@ -26,10 +26,10 @@ Updated 2026-10-28 by Steward.
 - Goal: drive korvus.industries signups from the free Observer tier. Today 0 visits, 0 clicks, 0 signups; 7 day 33 visits, 2 clicks, 0 signups.
 - Owner: steward (proposal), herald (sales copy review), auditor (gate).
 - Status: posted 2026-10-28, ledger #163 DONE, post ID 2115297045221118111.
-- Next step: read the UTM digest for clicks and signups from the X source. Not instrumented past click count until the digest reports.
+- Next step: read the UTM digest for clicks and signups from the X source. Signups not instrumented past click count until the digest reports.
 
 ### 5. Nov 2 and Nov 3 Eclipse-X posts (Community stage)
 - Goal: value posts in #korvus-indicator that drive LodeStone and Operator intent.
 - Owner: crier (bodies), auditor (gate), steward (post inside the window).
-- Status: Nov 2 body truncated in the last gist, rewrite ordered with full facts. Nov 3 draft came back without context, redraft ordered. Nothing gated, nothing scheduled.
-- Next step: complete Nov 2 and Nov 3 bodies in vault, then Auditor gate on the clean copies. Post only inside each window.
+- Status: Nov 2 and Nov 3 full bodies delivered by crier. Auditor re-gate on both clean vault copies queued. Neither posts until PASS.
+- Next step: Auditor PASS on each vault copy, then post Nov 2 inside its window and Nov 3 inside its window.

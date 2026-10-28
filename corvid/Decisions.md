@@ -143,3 +143,4 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-28: [APPROVED] #166 Weekly Korvus SEO watch report (via reaction)
 - 2026-10-28: [APPROVED] #167 Publish SMT page, verbatim whole-file write (via reaction)
 - 2026-10-28: [APPROVED] #168 Publish killzones page, verbatim whole-file write (via reaction)
+- 2026-10-28: [APPROVED] #169 Crown hook 3 X post, free 10,000 tokens (via reaction)

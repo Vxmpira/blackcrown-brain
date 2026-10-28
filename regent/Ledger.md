@@ -112,3 +112,4 @@ The 19:0
 - 2026-10-28: #166 Weekly Korvus SEO watch report > DONE: job registered: "Weekly Korvus SEO watch report", every Monday at 09:00 ET, posts to corvid. The server runs it from now on, no Make needed.
 - 2026-10-28: #167 Publish SMT page, verbatim whole-file write > FAILED: safety guard blocked the write: the result duplicated the head tag
 - 2026-10-28: #168 Publish killzones page, verbatim whole-file write > FAILED: safety guard blocked the write: the result duplicated the head tag
+- 2026-10-28: #169 Crown hook 3 X post, free 10,000 tokens > DONE: posted to X with the brand account (post 2115300311661170710)
