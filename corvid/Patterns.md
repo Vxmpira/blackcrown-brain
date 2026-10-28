@@ -1,7 +1,7 @@
 # Patterns
 
-## Bard answers, standing, closed, do not re-ask
-- Operator annual destination: korvus.industries/#pricing today (anchor id pricing on korvus_landing.html). Switch to /p/operator-annual once #205 ships. UTM: standing infra from 2026-10-26 covers outbound links, no new tagging needed. Answered THREE times by 10-28, this entry is the answer.
+## Bard answers, standing, CLOSED, do not re-ask
+- Operator annual destination: korvus.industries/#pricing today (anchor id pricing on korvus_landing.html). Switch to /p/operator-annual once #205 ships. UTM: standing infra from 2026-10-26 covers outbound links, no new tagging needed. Answered FOUR times by 10-28, this entry is the final answer.
 - Observer: korvus.industries/signup, watcher angle, night skew (14 of 33 visits at 23:00 ET).
 
 ## Herald UTM answer, FINAL, answered three times, 2026-10-28
