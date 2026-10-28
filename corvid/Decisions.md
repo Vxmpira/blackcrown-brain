@@ -160,3 +160,4 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-28: [REJECTED] #186 Hook A cold X post for Korvus, one daily slot (note: Regent veto: X overpaced, zero slots today, #181 already covers next slot) (via regent)
 - 2026-10-28: [REJECTED] #187 Refile SMT divergence page at /p/smt-divergence (note: preflight: pages/smt-divergence.html does not exist in that repo; target a page the audit lists, or create one with CURRENT exactly (new file)) (via preflight)
 - 2026-10-28: [REJECTED] #190 New Korvus SEO page: SMT divergence (note: preflight: pages/smt-divergence.html does not exist in that repo; target a page the audit lists, or create one with CURRENT exactly (new file)) (via preflight)
+- 2026-10-28: [REJECTED] #199 Per-post utm_content on server X links (note: preflight: "site" is not a file I can edit) (via preflight)
