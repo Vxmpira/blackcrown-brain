@@ -122,3 +122,11 @@ The 19:0
 - 2026-10-28: #185 Operator B FRESH vertical clip for Korvus, three overlay lines > DONE: rendering via Bloom, package lands in the channel
 - 2026-10-28: #188 Crown FRESH raven clip, free tier close > DONE: rendering via Bloom, package lands in the channel
 - 2026-10-28: #189 Post Crown hook 3 line to X with UTM link > DONE: posted to X with the brand account (post 2115420386393219309)
+- 2026-10-28: #191 Publish SMT divergence SEO page at /p/smt-divergence > FAILED: safety guard blocked the write: the result duplicated the head tag
+- 2026-10-28: #192 Publish killzones SEO page at /p/killzones > FAILED: safety guard blocked the write: the result duplicated the head tag
+- 2026-10-28: #193 Publish liquidity sweeps SEO page at /p/liquidity-sweeps > FAILED: safety guard blocked the write: the result duplicated the head tag
+- 2026-10-28: #194 Daily Korvus funnel digest server job > DONE: job registered: "Daily Korvus funnel digest server job", daily at 20:00 ET, posts to corvid. The server runs it from now on, no Make needed.
+- 2026-10-28: #195 Publish fair value gaps SEO page, clean note > FAILED: safety guard blocked the write: the result duplicated the head tag
+- 2026-10-28: #198 Korvus watcher X post, free Observer entry, auditor PASS > DONE: posted to X with the brand account (post 2115420648520482835)
+- 2026-10-28: #196 Operator 19:00 video creative, three shots, overlay locked > DONE: rendering via Bloom, package lands in the channel
+- 2026-10-28: #197 Crown hook 4 X post, free tier, no card > DONE: posted to X with the brand account (post 2115420881551753343)
