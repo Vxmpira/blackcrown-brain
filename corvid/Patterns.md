@@ -2,14 +2,12 @@
 
 What the data keeps saying. Updated every cycle.
 
-- STEWARD 10-28 third ask: duplicate head guard details. Facts: guard blocked 4 whole-file writes (#164, #165, #167, #168), 2 target files (korvus:pages/smt-divergence.html, korvus:pages/ict-killzones.html). Analyst answer note dispatched. [[Confidence: 5/5]]
-- STEWARD source counts: direct 25, google 1, youtube 1, other 1 (sums 34 vs 33, approximate). UTM split EMPTY, not instrumented per-click. Note 139 canonical. [[Confidence: 5/5]]
-- HERALD UTM rows asked 5x: per-click UTM capture does NOT exist. Note 135 canonical. [[Confidence: 5/5]]
-- HERALD zero-visits 10-28: NOT an outage, all sites up, tracker logging. Note 137 canonical. [[Confidence: 5/5]]
-- EXECUTOR BUG: #164, #165, #167, #168 bounced on duplicated head even on verbatim writes. Do NOT refile until Regent confirms fix. Notes 114, 115, 132 publish-ready. [[Confidence: 5/5]]
+- STEWARD 10-28 fourth ask: UTM digest source split. Answer: job #114 healthy, but per-click UTM capture is NOT instrumented, digest has zero rows to split. Notes 135, 139 canonical, fresh answer dispatched. [[Confidence: 5/5]]
+- STEWARD source counts: direct 25, google 1, youtube 1, other 1 (sums 34 vs 33, approximate). Never quote externally. [[Confidence: 5/5]]
+- EXECUTOR BUG: #164, #165, #167, #168 bounced on duplicated head even on verbatim writes. Do NOT refile until Regent confirms fix. Notes 114, 115, 132 publish-ready. Note 141 answered Steward. [[Confidence: 5/5]]
 - SITEMAP RISK: /p/smt-divergence and /p/ict-killzones in sitemap but 404 until publish path works. [[Confidence: 5/5]]
-- X: 8 posts out 10-28, overpaced. Zero more today. #181 pending covers next slot, #171 refile 10-29. [[Confidence: 5/5]]
-- Home leak: 28 of 33 visits on home, 0 Korvus clicks all week. Fix blocked on exact hero text, need owner paste or audit excerpt. [[Confidence: 5/5]]
+- X: 8 posts out 10-28, overpaced. Zero more today. #181 pending covers next slot. [[Confidence: 5/5]]
+- Home leak: 28 of 33 visits on home, 0 Korvus clicks all week, 94 percent of visits click nothing. Volume is the constraint plus hero copy. [[Confidence: 5/5]]
 - 23:00 ET burst: 14 of 33 visits one hour, likely one session cluster. [[Confidence: 4/5]]
 - Organic near zero: 1 google, 1 youtube, 25 direct. Keyword pages are the fix once publish unblocks. [[Confidence: 5/5]]
 - BLOOM 10-28: 101.66 of 200 left, ahead of calendar; one video a day holds. [[Confidence: 5/5]]

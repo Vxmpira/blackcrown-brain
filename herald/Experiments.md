@@ -1,12 +1,15 @@
 # Herald Experiments
 
-## Live test, 2026-10-28
-- Hypothesis: beginner index futures traders respond to the 3 a.m. watch promise more than to tool features.
-- Creative: leader cold hook 'The market moves at 3 a.m. Korvus watches index futures while you sleep.' on the watcher caption channel, pointing to the UTM tagged Korvus link.
-- Baseline (7 days): 33 visits, 2 clicks (6.1 percent), 0 Korvus signups.
-- Bar to beat: at least 1 Korvus signup from the test, and click rate above 6.1 percent.
-- Instrument: daily Korvus signup and conversion report (server job) and per-click UTM rows.
-- Verdict: pending, file to Playbook.md within 3 days.
+## Live: Click-to-signup split test (named 2026-10-28)
+- **Stage:** click to signup on korvus.industries.
+- **Hypothesis:** Cold watcher traffic that lands on the signup path converts to signups at a higher rate than traffic sent to the homepage, because the watcher promise is already made when they arrive.
+- **Variant A:** UTM-tagged watcher X post link, routed to the Korvus signup path.
+- **Control B:** Same UTM-tagged post routed to the Korvus homepage.
+- **Number to watch:** Signups per 100 clicks, split by UTM source.
+- **Baseline:** 2 clicks, 0 signups over 7 days. Sample too small to read; not a verdict.
+- **Instrumented:** Partially. Per-click UTM rows and the daily Korvus signup report already run as server jobs. A split by variant is not instrumented yet; the readout task is filed to build it from existing digests.
+- **Verdict:** Pending. Filed to Playbook.md when the sample reaches a readable count or after 7 days, whichever comes first.
 
 ## Blocked
-- Index-watch cold landing page: copy gists truncated before the closing html tag. No proposal until </html> is verified in full text.
+- Index-watch cold page and Crown skeptic page: copy truncated across runs. No proposal until </html> is verified in the full text.
+- Rubric cells A and B: not in Herald's context. Rescoring waits for literal text from Steward.
