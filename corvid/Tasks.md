@@ -5,4 +5,6 @@
 - [ ] Steward: duplicate head tag source line (doing)
 - [ ] Herald: diagnose Korvus CTA path (open)
 - [ ] Where do 37 visits drop pre Korvus click (open)
-- [ ] Regent: Pick fourth guide keyword, author complete page note (doing)
+- [ ] File equal-highs-and-lows after clean redo (doing)
+- [x] From Steward: Duplicate head tag exact source line from repo, today (done)
+- [x] Steward: Verify SMT and resting-liquidity pages serve and sitemapped (done)
