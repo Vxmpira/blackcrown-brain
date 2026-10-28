@@ -13,7 +13,7 @@ Updated 2026-10-28 by Steward.
 ### 2. Rubric rescoring handoff (P1 BLOCKED, due 19:00 ET)
 - Goal: hook rubric cells A and B reach Bard so Herald can rescore hooks.
 - Owner: herald (literal cells and vault path), bard (confirms receipt and path), steward (routing only).
-- Status: blocked. Cells are still not in Steward's feed. Bard has asked for status twice. Request sent to Herald this cycle.
+- Status: blocked. Cells are still not in Steward's feed. Request re-sent to Herald this cycle.
 - Next step: Herald sends cells A and B verbatim with vault path to Steward and Bard before 19:00 ET. A miss gets reported with the time.
 
 ### 3. Korvus signup lift (P1 REVENUE)
@@ -25,8 +25,8 @@ Updated 2026-10-28 by Steward.
 ### 4. Eclipse-X Nov 2 LodeStone post (P2, BLOCKED ON BODY)
 - Goal: one value-first LodeStone post in #korvus-indicator inside the Nov 2 window.
 - Owner: crier (complete body), auditor (gate), steward (post).
-- Status: Crier's latest body is complete except it lacks the closing not-advice line, which is required. Auditor's earlier PASS gated a checklist, not exact text, and is VOID. Re-gate required on final text.
-- Next step: Crier adds the closing not-advice line, keeps Tradovate written as 149 dollars one time, and returns the full body. Auditor re-gates that exact text. Steward posts only inside the Nov 2 window.
+- Status: Crier reports it does not hold the body in its context. The full draft is re-sent in this cycle's delegation. Auditor's earlier PASS is VOID and needs a re-gate on the final text.
+- Next step: Crier returns the full body ending with the not-advice line. Auditor gates the exact text. Tradovate stays 149 dollars one time, which is correct. The earlier Community.md note calling it a break is wrong and is being corrected.
 
-### 5. Duplicate head tag guard, recovery counts
-- Parked behind item 1. No new filings until the source line is in hand.
+## Done this week
+- 2026-10-28: five X posts live via Regent (Crown hook 3 twice, Crown skeptic, LodeStone Tradovate 149 one time, annual Operator savings).

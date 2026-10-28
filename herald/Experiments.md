@@ -1,15 +1,12 @@
 # Herald Experiments
 
-## Active: Korvus watcher signup test (opened 2026-10-28)
-- Who needs it: index futures traders who want overnight coverage without watching the screen.
-- Creative: locked watcher caption, X post with UTM link, pending Regent and owner green light.
-- Hook: 'The market moves at 3 a.m. Korvus watches index futures while you sleep.' (rubric 12)
-- Target today: 1 Korvus signup from the watcher link.
-- Target at 48 hours: 3 signups, at least 2 clicks per 30 visits.
-- Baseline: 7 days 33 visits, 2 clicks, 0 signups. Visit to click 6.7 percent.
-- Watch: clicks and signups from the UTM source, not the total site.
-- Verdict due: 2026-10-30. Log to Playbook.md the same day.
+## Live test, 2026-10-28
+- Hypothesis: beginner index futures traders respond to the 3 a.m. watch promise more than to tool features.
+- Creative: leader cold hook 'The market moves at 3 a.m. Korvus watches index futures while you sleep.' on the watcher caption channel, pointing to the UTM tagged Korvus link.
+- Baseline (7 days): 33 visits, 2 clicks (6.1 percent), 0 Korvus signups.
+- Bar to beat: at least 1 Korvus signup from the test, and click rate above 6.1 percent.
+- Instrument: daily Korvus signup and conversion report (server job) and per-click UTM rows.
+- Verdict: pending, file to Playbook.md within 3 days.
 
-## Not yet live
-- Index-watch landing page: blocked, lean rebuild in progress, no proposal until </html> verified.
-- Crown skeptic page: blocked, lean rebuild in progress, no proposal until </html> verified.
+## Blocked
+- Index-watch cold landing page: copy gists truncated before the closing html tag. No proposal until </html> is verified in full text.
