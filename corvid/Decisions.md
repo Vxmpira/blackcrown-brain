@@ -135,3 +135,7 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-28: [APPROVED] #158 Publish ICT killzones keyword page (via reaction)
 - 2026-10-28: [APPROVED] #159 Add /p/ict-killzones to korvus sitemap (via reaction)
 - 2026-10-28: [APPROVED] #160 Crown free tier post on X for signups (via reaction)
+- 2026-10-28: [APPROVED] #161 Crown hook 3 X post, free tier, no card (via reaction)
+- 2026-10-28: [APPROVED] #162 Post Crown hook 3 line to X from brand account (via reaction)
+- 2026-10-28: [APPROVED] #163 Korvus Observer free tier X post for signups (via reaction)
+- 2026-10-28: [APPROVED] #164 Publish SMT divergence page, clean single-head rewrite (via reaction)

@@ -2,9 +2,9 @@
 
 What the data keeps saying. Updated every cycle.
 
-- HEAD DUP PERSISTS: #157 and #158 FAILED 10-28 even from clean notes 110 and 111, guard says result duplicated the head tag. Scribe re-verify delegated with a one-head hard constraint; refile only from the new notes. [[Confidence: 5/5]]
-- SITEMAP RISK: /p/smt-divergence (#153) and /p/ict-killzones (#159) are in the korvus sitemap but 404 until the pages publish. Close fast. [[Confidence: 5/5]]
-- STEWARD ANSWERED 10-28: Observer page 1 head, audit clean, live; korvus serves 6 public pages, sitemap lists 8. [[Confidence: 5/5]]
+- REFILED 10-28: #164 and #165 from Scribe notes 114 and 115, clean single-head rewrites. If the guard bounces again the duplication is in the merge, not the note. [[Confidence: 5/5]]
+- BARD ANSWERED 10-28: Crown hook 3 lands on blackcrown-intelligence.com root, the only public Crown marketing page; chat.html is the app. Angle in [[Crown-Site]]. [[Confidence: 5/5]]
+- SITEMAP RISK: /p/smt-divergence (#153) and /p/ict-killzones (#159) in sitemap but 404 until #164 and #165 publish. [[Confidence: 5/5]]
 - BLOOM 10-28: 101.66 of 200 left, ahead of calendar; one video a day holds. [[Confidence: 5/5]]
 - EXECUTOR FORMAT LAW: complete documents, doctype through closing html, exactly ONE head, one of each meta tag, no empty tags. [[Confidence: 5/5]]
 - KEYWORD ROADMAP: /p/smt-divergence, /p/ict-killzones, then /p/premium-discount, /p/liquidity-sweep. See [[Keywords]]. [[Confidence: 5/5]]
@@ -13,7 +13,7 @@ What the data keeps saying. Updated every cycle.
 - Home leak holds: 28 of 33 visits on home, 0 Korvus clicks all week. [[Confidence: 5/5]]
 - Organic near zero: 1 google, 1 youtube, 25 direct. Keyword pages are the fix once they publish clean. [[Confidence: 5/5]]
 - LodeStone Tradovate 149 one time: fastest first dollar, #156 live on X. Revenue 0, expense 49 this month. [[Confidence: 4/5]]
-- Analyst cannot verify UTM tagging: raw visit log rows not in minion feeds, not instrumented yet. [[Confidence: 5/5]]
+- Analyst confirms exit-by-source not instrumented; raw log rows unavailable to minions. [[Confidence: 5/5]]
 - JOBS LIVE: #114 UTM 09:05, #123 signup 09:00, #121 Bloom burn 23:30, #128 exit 09:10. Never duplicate. [[Confidence: 5/5]]
 - #126 annual-first ruling: lead 79.99 a year in creatives and posts. [[Confidence: 5/5]]
 - AUDIT DEAD ENDS: korvus agent, promo_studio, dashboard, admin not public; bar fragments robots-blocked by design. Live-page floor reached. [[Confidence: 5/5]]

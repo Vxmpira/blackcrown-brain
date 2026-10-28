@@ -104,3 +104,7 @@ The 19:0
 - 2026-10-28: #158 Publish ICT killzones keyword page > FAILED: safety guard blocked the write: the result duplicated the head tag
 - 2026-10-28: #159 Add /p/ict-killzones to korvus sitemap > DONE: sitemap.xml updated live (appended 1 new entry). repo committed and pushed.
 - 2026-10-28: #160 Crown free tier post on X for signups > DONE: posted to X with the brand account (post 2115294037326303743)
+- 2026-10-28: #161 Crown hook 3 X post, free tier, no card > DONE: posted to X with the brand account (post 2115297038883582277)
+- 2026-10-28: #162 Post Crown hook 3 line to X from brand account > DONE: posted to X with the brand account (post 2115297042905891278)
+- 2026-10-28: #163 Korvus Observer free tier X post for signups > DONE: posted to X with the brand account (post 2115297045221118111)
+- 2026-10-28: #164 Publish SMT divergence page, clean single-head rewrite > FAILED: safety guard blocked the write: the result duplicated the head tag
