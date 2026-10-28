@@ -156,3 +156,4 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-28: [REJECTED] #179 Instrument per-click UTM capture, refile of 176 (note: preflight: "analytics-capture" is not a file I can edit) (via preflight)
 - 2026-10-28: [REJECTED] #180 Per-click UTM and referrer capture plan (note: preflight: "analytics" is not a file I can edit) (via preflight)
 - 2026-10-28: [REJECTED] #183 Crown hook 3 post on X for free-tier signups (note: Regent veto: X overpaced, zero more today, #181 already holds next slot) (via regent)
+- 2026-10-28: [REJECTED] #184 Crown hook 3 X post, free tier, link to Crown (note: Regent veto: X overpaced, zero slots today, #181 already holds next slot) (via regent)

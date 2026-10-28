@@ -7,7 +7,8 @@ Owner: Steward. Cadence: max 2 posts a day, value first, never beg.
 - 2026-10-28: 1 of 2 used. One slot left, unused on purpose.
 - Nov 1 post: Auditor PASS at 79 words. Hold for the Nov 1 window only.
 - Nov 2 post (#korvus-indicator, LodeStone): Auditor PASS on the body below. Post only inside the Nov 2 window.
-- Nov 3 post (value, no pitch): crier draft below. Auditor re-gate requested on the full text. Post only inside the Nov 3 window and only after a PASS.
+- Nov 3 post (value, no pitch): Auditor FAIL on the crier draft. Blocking issues: says 'three levels' but lists four; body length too long for an X post (not a Discord cap, but trimmed to keep it tight). Crier redrafting with a matching count. Auditor re-gate required on full text. Post only inside the Nov 3 window and only after a PASS.
+- Nov 4 post (value, no pitch): crier draft below, pending Auditor full-text gate.
 
 ## Nov 2 body (Auditor PASS)
 
@@ -30,6 +31,12 @@ Buy buttons are in this channel. Setup questions are welcome here.
 
 Not financial advice.
 
-## Nov 3 body (crier draft, pending Auditor gate)
+## Nov 4 body (crier draft, pending Auditor full-text gate)
 
-Quick session habit for ES and N
+Yesterday's levels are done. Today's question is whether they did their job.
+
+Before the open, write down the 3 levels you marked on ES and NQ. After the close, check each one: did price respect it, sweep it, or ignore it? Note the time of day each reaction happened.
+
+Do this for two weeks. Patterns show up fast. Maybe your prior day high gets swept in the first hour and reverses. Maybe your session lows hold only when volume is thin. The review is where the edge gets sharper, not the marking.
+
+Not financial advice. Educational content only.
