@@ -1,18 +1,22 @@
 # Funnel
 
-State of the money path, updated 2026-10-28.
-
-## Instrumented
-- Brand site pages and clicks, 7d live.
-- Job #221: daily traffic by source and page, 09:00 ET from 10-29.
-- Job #219: weekly UTM signup report, Tue 09:00 ET.
-
-## NOT instrumented
-- Korvus landing exit paths. Herald needs this for leak diagnosis. Job filed as #228, weekly Tue 09:15 ET. Until it runs, no exit verdicts, only landing counts.
-- Signup route UTM storage, confirmation still open as a task.
+State as of 2026-10-28. Linked from [[Patterns]] and [[Keywords]].
 
 ## Current read
-- 37 brand visits in 7d, 29 direct, mostly desktop, 23 ET spike. Korvus clicks from brand home: 0 tracked this week, intelligence 1, legacy collective key 1. Brand home to Korvus is the suspected leak, see [[Patterns]].
-- Revenue 0 MRR, 0 subs. Everything upstream of signup.
+- 37 visits 7d, 2 clicks, 0 signups, 0 revenue.
+- 29 of 37 direct desktop, 14 at 23 ET. Likely self traffic, real cold sample about 3 to 5 visits.
+- Brand home takes 32 of 37 visits and sends 0 clicks to Korvus. Known leak, fix blocked on exact hero CURRENT text (Steward asked).
 
-Linked: [[Keywords]], [[Patterns]], [[Strategy]]
+## Stages
+1. Discovery: TikTok (manual post), X (5 posts live, 0 referrals yet), YouTube, three new /p SEO pages indexing.
+2. Landing: brand home (leaking), korvus landing, /p guides with internal links to signup.
+3. Signup: Observer free. UTM capture confirmation pending (task open).
+4. Pay: Operator 9.99 mo or 79.99 yr. Zero subs.
+
+## Instrumentation
+- Job #221 daily traffic 09:00, #219 weekly UTM signups Tue 09:00, #228 weekly exit path Tue 09:15. First clean reads land 10-29.
+
+## Next levers
+- Brand home Korvus CTA rewrite once CURRENT text arrives.
+- /p pages need 1 to 2 weeks to index, watch google source count.
+- Judge X after 10-30.
