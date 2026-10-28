@@ -1,7 +1,7 @@
 # Patterns
 
 ## Herald source asks, consolidated 2026-10-28
-Three duplicate Herald tasks on 7d sources. Answered once via Scribe note to Herald: visits and clicks by source exist for brand site only; per-property signup by source is not instrumented, Stripe 0 subs, pending #194 funnel digest covers it. Never answer a source ask with invented per-property splits.
+FOUR duplicate Herald tasks on 7d sources now. Canonical answer lives at Minions/Scribe/183, addressed to Herald: brand site only has source analytics (direct 25, google 1, youtube 1, other 1), clicks collective 1 and intelligence 1, Stripe 0 subs, per-source signup attribution not instrumented, pending #194 funnel digest covers it. Any further duplicates close against that note, never re-answer.
 
 ## Operator clip, full answer 2026-10-28
 Destination: korvus:korvus_landing.html, use korvus.industries/#pricing for the tier drop. Angle: the all seeing watcher, your edge while the world sleeps. 14 of 33 brand visits land at 23:00 ET, night traffic is the audience. /upgrade is login gated, never cold traffic. Answer resent to Bard via Scribe note Bard-Operator-Clip-Angle.
