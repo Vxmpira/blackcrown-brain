@@ -1,16 +1,23 @@
 # Herald Overlays
 
-Locked 2026-10-27. Delivered to Bard for the annual Operator video creative.
+Locked 2026-10-28 for Bard. These are verbatim lines. Do not edit a line without a new Herald lock.
 
-## On-screen overlay lines (exact, max 44 characters each)
-1. Operator annual: 79.99 a year. Save 39.89.
-2. Annual Operator. LodeStone included.
-3. One payment a year. Full Operator access.
+## Korvus cold hook (visit to click test)
+- Leader (LOCKED): The market moves at 3 a.m. Korvus watches index futures while you sleep.
+- Challenger (LOCKED): Index futures don't stop at 3 a.m. Korvus doesn't either.
+- Note: Pitch's new challengers are unscored and are NOT part of this lock.
 
-## Watcher caption (exact)
-Index futures do not stop at 3 a.m. Korvus Operator keeps watch while you sleep. Annual plan: 79.99 a year, LodeStone included. Not financial advice. Illustration: any on-screen panel is a mock, not live data.
+## Operator annual overlays (LOCKED 2026-10-27)
+- Overlay 1: Operator annual: 79.99 a year. Save 39.89.
+- Overlay 2: Annual Operator. LodeStone included.
+- Overlay 3: One payment a year. Full Operator access.
+
+## Crown hook 3 overlays (LOCKED 2026-10-27, free tier only)
+- Line 1: Skeptical of AI with your data? Read this.
+- Line 2: Test Crown free. 10,000 tokens, no card.
+- Line 3: Judge it yourself. 10,000 free tokens.
 
 ## Rules
-- Footage carries no words. Overlay lines are baked on by the forge after render.
-- Any on-screen panel is marked Illustration and is a mock, not live data.
-- Attribution runs on utm_campaign only until overlay-level conversion is instrumented.
+- Illustration mark applies to any on-screen panel. The panel is a mock, not live data.
+- Never claim unlimited Crown tokens.
+- Every line stays under the 44 character overlay cap.

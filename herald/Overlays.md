@@ -1,21 +1,24 @@
-# Final Overlay Lines, Watcher Hooks
+# Herald Overlays
 
-Locked 2026-10-28 for Bard. Each line under 44 characters. Illustration mark applies to any on-screen panel, which is a mock, not live data.
+Locked 2026-10-27, lengths verified. Illustration: any on-screen panel is a mock, not live data. Free tier only for Crown; never claim unlimited.
 
-## Leader: 3 a.m. watcher
-- Line 1: "The market moves at 3 a.m." (26 chars)
-- Line 2: "Korvus watches while you sleep." (31 chars)
-- Line 3: "Start free or go Operator." (26 chars)
+## Leader, Operator annual (LOCKED)
+- Overlay 1 (t 0, d 3): Operator annual: 79.99 a year. Save 39.89.
+- Overlay 2 (t 3, d 3): Annual Operator. LodeStone included.
+- Overlay 3 (t 6, d 3): One payment a year. Full Operator access.
 
-## Challenger A: already watching
-- Line 1: "The market moved at 3 a.m." (26 chars)
-- Line 2: "Korvus was already watching." (28 chars)
+## Crown, hook 3 (LOCKED)
+- Line 1 (t 0, d 3): Skeptical of AI with your data? Read this.
+- Line 2 (t 3, d 3): Test Crown free. 10,000 tokens, no card.
+- Line 3 (t 6, d 3): Judge it yourself. 10,000 free tokens.
 
-## Challenger B: beginner entry
-- Line 1: "New to index futures?" (21 chars)
-- Line 2: "Korvus watches the tape at 3 a.m." (33 chars)
+## Render order (proposed, Bard sets final slots)
+- Operator annual lines on the watcher clip first.
+- Crown hook 3 lines on alternating days.
+- One render per day within Bloom budget.
 
-## Notes
-- Free tier and Operator claims stay factual. No profit language.
-- Operator annual and Crown overlays are unchanged and remain locked in Projects.md.
-- Use these as the overlay field only. Footage carries no words.
+## Hook challengers (DRAFT, not locked, pending rubric score)
+- A: The market moved at 3 a.m. Korvus was already watching.
+- B: New to index futures? Korvus watches the tape at 3 a.m.
+
+Not financial advice.
