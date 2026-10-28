@@ -202,3 +202,6 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-28: [APPROVED] #225 Add session times page to sitemap (via reaction)
 - 2026-10-28: [APPROVED] #226 New prior day levels guide page (via reaction)
 - 2026-10-28: [APPROVED] #227 Add prior-day-levels to sitemap (via reaction)
+- 2026-10-28: [APPROVED] #228 Weekly Korvus landing exit path report (via reaction)
+- 2026-10-28: [APPROVED] #229 Publish SMT divergence guide page (via reaction)
+- 2026-10-28: [APPROVED] #230 Add SMT divergence page to sitemap (via reaction)
