@@ -144,3 +144,6 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-28: [APPROVED] #167 Publish SMT page, verbatim whole-file write (via reaction)
 - 2026-10-28: [APPROVED] #168 Publish killzones page, verbatim whole-file write (via reaction)
 - 2026-10-28: [APPROVED] #169 Crown hook 3 X post, free 10,000 tokens (via reaction)
+- 2026-10-28: [REJECTED] #171 Korvus Observer watcher post on X, free tier (note: preflight: post asks need a PLATFORM line) (via preflight)
+- 2026-10-28: [APPROVED] #170 Crown hook 3 line to X, free tier, no card (via reaction)
+- 2026-10-28: [APPROVED] #172 Crown skeptic X post, free tier, no card (via reaction)

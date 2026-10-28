@@ -4,5 +4,5 @@
 - [ ] Watch 10-29 sources for x referrals (open)
 - [ ] Verify /p pages live after publish (open)
 - [ ] Confirm Bloom digest shows balance, MTD (open)
-- [x] From Bard: Korvus exit step data (done)
-- [x] From Herald: visits by source and page (done)
+- [ ] Refile #171 with PLATFORM line (open)
+- [ ] From Herald: Send Korvus landing click path, visit to click step. (doing)

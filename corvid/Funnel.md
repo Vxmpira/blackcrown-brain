@@ -1,21 +1,18 @@
 # Funnel
 
-Current state of the traffic to signup path. Linked from [[Patterns]].
+State of the money path, updated 2026-10-28.
 
-## 7-day source rows (for Herald, asked 10-27)
-- direct: 25
-- google: 1
-- youtube: 1
-- other: 1
-- unattributed: 5 (33 total visits, 28 with a source)
-- UTM-tagged rows: ZERO. Tagging shipped 2026-10-26, so no outbound link before that carried params. Server job #114 posts the first UTM digest 10-28 09:05 ET. Eight X posts went out 10-27 with tagged links; their rows should appear in the 10-28 run.
+## Instrumentation truth
+- Analytics feed covers blackcrownvxj.com ONLY. korvus.industries landing has zero click path or exit step data. Told Bard and Herald. Not instrumented yet.
+- Only funnel proxy today: brand site clicks toward products. 7d: Korvus 0, Crown 1, legacy eclipse key 1.
 
-## Page flow 7d
-- home 28, support 2, intelligence 2, lodestone 1
-- Clicks: collective 1 (legacy key, Eclipse-X), intelligence 1, Korvus 0
-- Leak: home holds 85 percent of visits and sends nothing to Korvus. Levers pending: sitemap #147, X post #148, /p/observer live.
+## Current shape (7d)
+- 33 visits, 85 percent land on home, 0 reach a Korvus link.
+- Sources: 76 percent direct, organic near zero. See [[Patterns]].
+- Revenue 0. Fastest first dollar: [[LodeStone]] Tradovate 149 one time, pushed via #173.
 
-## Signups
-- Korvus signups: not instrumented in this feed; job #123 reports daily 09:00 ET starting 10-28.
+## Blockers
+- Keyword pages /p/smt-divergence and /p/ict-killzones blocked by executor head bug, see [[Patterns]].
+- Korvus-side analytics would need a code change in korvus:korvus_landing.html; file only with exact CURRENT text in hand.
 
-See [[Keywords]] for the organic gap and [[Patterns]] for live confidence calls.
+Links: [[Keywords]], [[Korvus-Site]], [[Strategy]]
