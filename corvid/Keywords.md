@@ -1,16 +1,18 @@
 # Keywords
 
-Keyword targets by property. Updated as pages ship.
+Keyword page inventory for korvus.industries. Linked from [[Patterns]] and [[Strategy]].
 
-## Korvus (korvus.industries)
-- **futures news terminal**: live target, /p/futures-news-terminal, page filed #95 from scribe note 074, sitemap entry live. Low competition, exact product fit.
-- **what moves the futures market**: next target, what-moves page, scribe rewriting the full document now. Beginner intent, feeds Observer signups.
-- **SMT divergence**: candidate, Korvus and [[LodeStone]] both answer it. Not yet assigned a page.
+## Live
+- /p/observer: free tier landing, in sitemap, X posts point here with UTM.
+- /p/smt-divergence: filed as #157 from clean note 110. Queries: smt divergence, smt divergence ES NQ, smt divergence index futures.
 
-## Crown (blackcrown-intelligence.com)
-- **private AI workspace**: core positioning phrase, intelligence.html carries it. No dedicated landing yet.
+## Next three (answer to Regent task, 10-27)
+1. **/p/ict-killzones**. Queries: ict killzones times, london killzone futures, new york killzone ES. Maps to Korvus session context and LodeStone sessions layer.
+2. **/p/premium-discount**. Queries: premium and discount ict, equilibrium price trading, premium discount array futures. Maps to the LodeStone premium and discount layer.
+3. **/p/liquidity-sweep**. Queries: liquidity sweep trading, buy side liquidity, stop hunt futures. Maps to LodeStone resting liquidity and sweep cleanup.
 
-## Evidence
-- Organic is 1 google visit in 7d. Every ranking page is net new demand, not cannibalization.
-
-See [[Patterns]], [[Funnel]], [[Korvus-Site]].
+## Rules
+- One page per concept, education first, Operator pitch at the end, not-advice disclaimer always.
+- Every page: single head, one of each meta tag, canonical, crown SVG header, one real visual element.
+- Sitemap entry filed as a second ask per page.
+- All CTAs lead to korvus_signup or /p/observer with UTM.

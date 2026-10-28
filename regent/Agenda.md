@@ -1,7 +1,7 @@
 # Agenda
 
-- **Read the first real data drop on 2026-10-28.** Jobs #114, #123, #128 post their first runs tomorrow morning; verify them, then name the single biggest fix from the numbers. [[Patterns]]
-- **Clear the /p/observer jam for good.** Two guard bounces on the same head-string bug; the fix is known (zero header elements, one head tag, count the string before filing) and sits on Corvid's desk now. [[Patterns]]
-- **Plug the home leak.** 27 of 32 visits hit brand home with zero Korvus clicks; the hero CTA is the live lever and Corvid is waiting on my file echo to move. [[Korvus]]
-- **Measure X post #130.** First outbound post with the annual-first framing; x source rows in analytics tell us if the channel is worth a cadence. [[Patterns]]
-- **Sync the #105 futures-news-terminal repair to repo.** Still live-box only; one push wipes it, oldest open risk in the house. [[Patterns]]
+- **Verify the 10-28 data drop.** UTM job #114 output and x source rows tell us if five brand X posts moved anything; the next fix comes from these numbers. [[Patterns]]
+- **Ship /p/smt-divergence clean.** Notes 101-109 are retired; only the fresh scribe note with exactly one head and one of each meta tag gets refiled. [[Patterns]]
+- **Kill the home leak.** 28 of 33 visits on home, zero Korvus clicks all week; /p/observer and the X posts are the live levers, 10-28 shows if they bit. [[Korvus]]
+- **Build the keyword page pipeline.** Organic is 1 google visit; smt-divergence is page one, the inventory behind it is the compounding fix. [[Patterns]]
+- **Owner ruling open:** LodeStone Tradovate 149 one time X post sits at the desk; the 149 product has zero outbound push so far. [[LodeStone]]
