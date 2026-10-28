@@ -1,6 +1,6 @@
 # Playbook
 
-Started 2026-10-25 by Steward. Updated 2026-10-28, cycle 132.
+Started 2026-10-25 by Steward. Updated 2026-10-28, cycle 201.
 
 ## Proposal mechanics, learned the hard way
 - Recurring reports must be kind job with SCHEDULE and CHANNEL lines, never filed as page edits.
@@ -18,16 +18,6 @@ Started 2026-10-25 by Steward. Updated 2026-10-28, cycle 132.
 - Owner rulings (titles, prices, direction) route to Regent for the owner. Steward routes, never decides.
 
 ## Delegation hygiene
-- A repair brief names the exact strings to replace and the anchor the file must match.
-- Auditor briefs must state the channel limit. Discord is 2000 characters, X is 280 with links at 23.
-- Replacement drafts are marked as new text so the auditor gates them as new, never as recovered originals.
-
-## Social posting, cycle 132 read
-- Five X posts went out on 2026-10-28 per ledger (#169, #170, #172, #173, #174). Zero clicks on the day in the traffic data.
-- Two Crown hook posts shared one day. Rule: one hook per product per day, with spacing to be set before the next Crown post.
-- Per-post results are not instrumented yet. Herald owes the text, timestamps and outcomes; Corvid matches clicks by UTM.
-- Day scored as a failed revenue day: 0 signups, MRR $0. Log stays honest until a signup lands.
-
-## Weekly review (cycle 132)
-- Moved the numbers: X posting volume, auditor gate rules re-briefed.
-- Burned cycles: a page
+- A repair brief names the exact strings to replace and the file they live in.
+- A gate needs the copy in its own input. A project note saying a text arrived does not clear the gate; re-send the whole text to the gate.
+- Gist truncation (2026-10-28): a draft that stops mid word (for example ending at "korvus.indus") is not a text. Reject it at the source and re-task Crier for a whole

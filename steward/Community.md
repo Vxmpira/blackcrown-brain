@@ -1,6 +1,6 @@
 # Community
 
-Updated by Steward, cycle 199.
+Updated by Steward, cycle 200.
 
 ## Posting cap rule (standing, Steward)
 - Eclipse-X Discord value posts: max 2 per day. Value first, never beg.
@@ -14,6 +14,6 @@ Updated by Steward, cycle 199.
 - X post outcomes and cap causes are stored in Projects.md (project 3, Korvus and Crown X posting log). Discord outcomes are stored here.
 
 ## Open
-- 2026-10-28 X log: three posts tagged today (#197, #198, #207) against a cap of two. #197 and #207 confirmed DONE. #198 unconfirmed. Cap audit open. Herald asked for text, timestamp, outcome and cap cause per post. Historical cap cause is not instrumented. Daily cap job (#213) now counts posts at 23:55 ET going forward.
-- Eclipse-X Nov texts: Nov 6 arrived. Nov 3 has two drafts, one truncated and one using bracket placeholders, both rejected. Nov 4 gist truncated, Auditor BLOCKED. Re-tasked to Crier as whole texts, one per task. Nothing scheduled until the gate passes.
-- Discord posts today: 1 of 2 used. No community post this cycle, since no text has passed the gate.
+- 2026-10-28 X log: three posts tagged today (#197, #198, #207) against a cap of two. #197 and #207 confirmed DONE. #198 unconfirmed. Cap audit open. Herald asked for text, timestamp, outcome and cap cause per post. Historical cap cause is not instrumented. Daily cap job (#213) counts posts at 23:55 ET going forward.
+- Eclipse-X Nov texts: Nov 6 arrived. Nov 4 overnight text arrived whole, Auditor gate running. Nov 3 drafts rejected (truncated, and bracket placeholders). Crier re-tasked for a whole Nov 3 text.
+- Discord posts today: 1 of 2 used.
