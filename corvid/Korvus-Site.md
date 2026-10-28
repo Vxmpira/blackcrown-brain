@@ -1,22 +1,23 @@
 # Korvus Site
 
-korvus.industries, Flask, only routed urls serve. See [[Patterns]] for pipeline state, [[Keywords]] for targets.
+Status of korvus.industries pages, updated 2026-10-28.
 
 ## Live public pages
-- / (korvus_landing.html, pricing section anchor id pricing, prices inject from Stripe, never hardcode)
-- /lodestone, /signup, /login, /legal
+- / (korvus_landing.html), pricing section anchor id pricing, prices inject from Stripe tokens, never hardcode.
+- /lodestone, /signup, /login, /legal.
 
-## /p guide pages, live
-1. /p/futures-session-times-et
-2. /p/prior-day-levels
-3. /p/what-is-smt-divergence (live 10-28, X push #234)
-4. /p/resting-liquidity (live 10-28 evening, sitemap in)
+## /p guide hub, five live, all in sitemap
+- /p/futures-session-times-et
+- /p/prior-day-levels
+- /p/what-is-smt-divergence (X push #234, 10-28)
+- /p/resting-liquidity (shipped #235/#236, 10-28)
+- /p/equal-highs-and-lows (shipped #238/#239, 10-28; X push #240 filed)
 
-## In production
-- /p/equal-highs-and-lows, scout pick 10-28, scribe authoring, file next cycle via FROM NOTE.
+## Pipeline
+- Next: premium-and-discount, scribe drafting 10-28. Then killzones.
+- Every new guide carries cross links to live guides at birth; retro cross links blocked on exact CURRENT anchors.
+- All guides: education only, not-advice disclaimer, crown SVG header, one visual element, single clean head (check Scribe gist before filing, see [[Patterns]]).
 
-## Guide standards
-- Canonical to korvus.industries/p/<slug>, meta description under 160, crown SVG header, one real visual element, education only disclaimer, Observer signup CTA, internal links to sibling guides.
-
-## Never touch
-- trading_news_terminal.html, korvus_promo_studio.html (not served), gated pages, blackcrown-bar.html fragment.
+## Known gaps
+- Signup UTM storage unconfirmed, see [[Funnel]].
+- Gated pages (terminal, forex, upgrade, account) and unserved files get zero SEO work, ever.
