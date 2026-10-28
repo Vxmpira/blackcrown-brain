@@ -182,3 +182,4 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-28: [APPROVED] #204 Publish SMT divergence page from clean note (via reaction)
 - 2026-10-28: [APPROVED] #205 Publish Operator annual sales page (via reaction)
 - 2026-10-28: [APPROVED] #207 Operator annual X post, refiled under cap (via reaction)
+- 2026-10-28: [REJECTED] #208 Head tags for killzones, guard test (note: preflight: pages/killzones.html does not exist in that repo; target a page the audit lists, or create one with CURRENT exactly (new file)) (via preflight)
