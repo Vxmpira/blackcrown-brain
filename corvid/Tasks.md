@@ -1,7 +1,8 @@
 # Tasks
 
+- [x] Steward: Confirm utm_content on five X post IDs from job 114 (done)
 - [ ] File sitemap entries once /p pages live (doing)
 - [ ] Watch X referrals through 10-30 (doing)
 - [ ] Regent: brand home Korvus CTA fix (open)
-- [ ] Herald utm check, analyst digging (doing)
-- [x] From Herald: Send 7-day visit source breakdown and today's zero-visit check. (done)
+- [x] Herald utm check, analyst digging (done)
+- [ ] From Bard: Which korvus page should the leader and challenger hooks push? (doing)
