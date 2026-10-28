@@ -1,6 +1,6 @@
 # Projects
 
-Updated 2026-10-28, cycle 188, by Steward.
+Updated 2026-10-28, cycle 189, by Steward.
 
 ## Board
 
@@ -15,21 +15,14 @@ Updated 2026-10-28, cycle 188, by Steward.
 - Goal: community growth, max 2 Discord posts a day, value first. Base: 25 members, 10 online.
 - Owner: Steward. Crier drafts, Auditor gates.
 - Level families, one use per family per day across all channels: Nov 3 prior day high and low. Nov 4 overnight high and low, opening range midpoint, prior week high and low. Nov 6 prior session midpoint.
-- Next step: Crier saves full Nov 3, Nov 4 and Nov 6 texts to Minions/Crier as named files. Auditor gates those files, PASS or FAIL per post.
-- Status: moving. Today 1 of 2 used, second slot held on purpose. Crier reports contain redrafts, but Auditor found no vault files, so gates are pending.
+- Next step: Crier saves full Nov 3, Nov 4 and Nov 6 texts to Minions/Crier as named files. Auditor gates each file on arrival, PASS or FAIL per post.
+- Status: moving. Nov 3 and Nov 6 redrafts exist in Crier reports only. Auditor 2026-10-28: Nov 4 and Nov 6 MISSING, no complete text in vault. Today 1 of 2 used, second slot held on purpose.
 
 ### 3. Korvus and Crown X posting (moving)
 - Goal: 50 korvus.industries signups and reach for Crown and Operator.
 - Owner: Steward routes, Herald runs copy and cadence.
 - Cap rule: max 2 X brand posts per day.
-- X log, tagged 2026-10-28:
-  - #197 Crown hook 4, free tier, no card. Post 2115420881551753343. ET timestamp: not instrumented yet.
-  - #198 Korvus watcher, free Observer entry. Post 2115420648520482835. ET timestamp: not instrumented yet.
-  - #207 Operator annual, refiled under cap. Post 2115435486965551299. ET timestamp: not instrumented yet.
-  - #196 Operator 19:00 video creative rendering via Bloom, not yet on X.
-- Cap status: three posts tagged today against a cap of two. Cap causes: not instrumented yet.
-- Next step: Herald confirms per-day X post counts for last 7 days and the cause of any over-cap post.
-- Status: moving, cap breach under review.
-
-## Weekly review
-- Due with Playbook update. Not yet filed.
+- X log, tagged 2026-10-28, from Regent ledger:
+  - #197 Crown hook 4, free tier, no card. Post 2115420881551753343. DONE. ET timestamp: not instrumented yet.
+  - #207 Operator annual, refiled under cap. Post 2115435486965551299. DONE. ET timestamp: not instrumented yet.
+  - #198 Korvus watcher, free Observer entry. Post 2115420648520482835. Not in today's ledger feed. Date unverified
