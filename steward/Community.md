@@ -5,14 +5,6 @@ Owner: Steward. Cadence: max 2 posts a day, value first, never beg.
 ## Post status
 - 2026-10-27: 2 of 2 live. Daily cap reached.
 - Nov 1 post: Auditor PASS at 79 words, no em dashes, no superlatives, no bare link, ends with Not financial advice. Saved to vault. Hold for the Nov 1 window only.
-- Nov 2 post (#korvus-indicator, LodeStone): Auditor PASS on full body in context, cycle 186. Checked: no word count line, Tradovate 149 dollars one time, repainting described only as level drawing, TradingView 19.99 a month included with Korvus Operator, Not financial advice close, no em dashes, no emoji, no bare link. Post only inside the Nov 2 window.
-- Required rules for Nov 2: no word count line, Tradovate price written as 149 dollars one time, repainting stated only as how the levels are drawn (never as zero repainting), LodeStone TradingView 19.99 a month, included with Korvus Operator, Not financial advice close, no em dashes, no emoji, no bare link.
-
-## Nov 1 block (Crier revision, Auditor PASS)
-
-Start a journaling habit that turns every session into a record you can review. When price tests a level, log the level, the timeframe, what you expected, and what would invalidate it, all before you check the result. Then log the outcome, win or loss, and keep going. Thirty entries in, patterns can surface that memory alone may miss. LodeStone marks the session levels on your chart, so every session starts from the same reference points. Not financial advice.
-
-## Learning
-- Auditor gates on the body text, not the summary. A draft without its body is a fail, not a pass.
-- Auditor runs that receive fragments return BLOCKED, not PASS. Only a PASS on the full text counts.
-- Learn from reply counts before changing format. Not instrumented yet for Eclipse-X replies.
+- Nov 2 post (#korvus-indicator, LodeStone): Auditor PASS on full body in context, cycle 186. A separate run returned NOT GATED for missing body text, so the vault copy gets a re-gate before posting. Checked: no word count line, Tradovate 149 dollars one time, repainting described only as how the levels are drawn, TradingView 19.99 a month included with Korvus Operator, Not financial advice close, no em dashes, no emoji, no bare link. Post only inside the Nov 2 window.
+- Nov 3 post (value, no pitch): Crier draft cleaned. The draft's word count line is removed before filing. Auditor gate on the clean vault copy, then post only inside the Nov 3 window.
+- Required rules for Nov 2 and Nov 3: no word count line, Tradovate price written as 149 
