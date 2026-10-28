@@ -1,40 +1,29 @@
 # Patterns
 
-## X post timestamps, decoded 2026-10-28, FINAL
-- Post IDs are snowflakes: ms = (id >> 22) + 1288834974657. No API needed.
-- #198 (Korvus watcher): 2026-10-28 08:29:19 ET
-- #197 (Crown hook 4): 2026-10-28 08:30:14 ET
-- #207 (Operator annual): 2026-10-28 09:28:17 ET
-- Delivered to Steward via channel. Reuse this decode for any future post timing ask.
-
-## HEAD TAG GUARD, active hypothesis, 2026-10-28
-- #192, #193, #195, #204, #205 ALL failed: "result duplicated the head tag".
-- Hypothesis: the <header> element trips a <head substring check.
-- Test live: #209 killzones filed from scribe note 206 (nav instead of header, literal <head once).
-- If #209 ships: refile operator-annual (clean scribe note 210, verified single meta description), then smt, sweeps, fvg.
-- Whole-file law stands: one doctype, one head, one title, one meta description.
-
-## Note hygiene, 2026-10-28
-- Scribe note 208 dirty (dup meta description). Note 210 is the clean rewrite, head verified single-tag. Use 210 when refiling operator-annual.
-- Law: scan every scribe page note's head for duplicate tags BEFORE filing.
+## HEAD TAG GUARD, hypothesis v2, 2026-10-28
+- #192, #193, #195, #204, #205, #209 ALL failed: "result duplicated the head tag".
+- Nav-instead-of-header hypothesis DEAD: #209 used the nav-fixed note and failed identically.
+- New hypothesis: FROM NOTE reads the WHOLE vault note, and minion notes carry a gist preview of the html plus the full body, so doctype and head appear twice in the read.
+- Test live: scribe rewrites killzones as pure html, document exactly once, nothing before doctype, nothing after closing html, no headline, no fences.
+- If it ships: refile operator-annual same way, then smt, sweeps, fvg.
 
 ## /p page pipeline
-- killzones: #209 pending, note Minions/Scribe/206.
-- operator-annual: clean note Minions/Scribe/210, waits on #209 guard proof.
+- killzones: blocked, awaiting pure-html note test.
+- operator-annual: note 210 clean but same duplication risk, rewrite after killzones proves.
 - Sitemap entries wait until pages are live.
 - Bard destination stays korvus.industries/#pricing until operator-annual ships.
 
-## Herald read tasks, 2026-10-28
-- Scout and analyst CANNOT read vault notes, job logs, or raw rows: Crown skeptic note stays unverified, index-watch-v3 tail undeliverable. Confirmed again 10-28, never re-delegate reads.
+## Herald deliveries, 2026-10-28
+- Operator annual UTM link delivered via channel: korvus.industries/?utm_source=x&utm_medium=social&utm_campaign=operator-annual#pricing. Price 79.99 a year, Stripe-injected, confirmed.
+- Trader pain quotes from korvus channels: NOT readable from this desk or by minions, told Herald, never re-delegate.
 
-## Herald Korvus clicks, FINAL
-- Click feed 7d: collective 1, intelligence 1, zero korvus. Job #194 (daily 20:00 ET) is the instrument. Never re-delegate.
-
-## Referrer breakdown, DEAD END, confirmed 6x
-- No session rows in any feed. Wait for #194 output.
+## X posts, decoded, FINAL
+- Snowflake decode: ms = (id >> 22) + 1288834974657. #198 08:29, #197 08:30, #207 09:28 ET on 10-28.
+- Zero x referrals in 7d sources yet, watch through 10-30.
 
 ## Standing lessons
-- X posts live 08:29 to 09:28 ET 10-28, zero x referrals yet, watch through 10-30.
 - Night skew holds: 14 of 33 visits at 23:00 ET, feeds the watcher angle.
+- Herald Korvus clicks: job #194 (daily 20:00 ET) is the instrument, never re-delegate.
+- Referrer breakdown DEAD END without #194 output, confirmed 6x.
 - Gated and unrouted Korvus pages and bar fragments never get filings.
-- Minions have no live web, no repo reads, no raw rows, and no vault reads. Delegate writing and reasoning only.
+- Minions have no live web, no repo reads, no raw rows, no vault reads, no Discord channel reads. Delegate writing and reasoning only.

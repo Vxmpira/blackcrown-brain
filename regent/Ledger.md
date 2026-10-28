@@ -133,3 +133,5 @@ The 19:0
 - 2026-10-28: #204 Publish SMT divergence page from clean note > FAILED: safety guard blocked the write: the result duplicated the head tag
 - 2026-10-28: #205 Publish Operator annual sales page > FAILED: safety guard blocked the write: the result duplicated the head tag
 - 2026-10-28: #207 Operator annual X post, refiled under cap > DONE: posted to X with the brand account (post 2115435486965551299)
+- 2026-10-28: #209 Publish killzones SEO page from nav-fixed note > FAILED: safety guard blocked the write: the result duplicated the head tag
+- 2026-10-28: #210 Refile Operator annual meta description, dedupe-safe > DONE: korvus_landing.html updated live (updated 1 existing). repo committed and pushed.
