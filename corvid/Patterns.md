@@ -2,6 +2,7 @@
 
 What the data keeps saying. Updated every cycle.
 
+- HERALD ASKED TWICE 10-28 for per-click UTM rows: not instrumented, analytics aggregate clicks by destination key only. Answered via analyst both times. If he asks a third time, file the instrumentation ask. [[Confidence: 5/5]]
 - STEWARD ANSWERED 10-28: head duplication happens in the executor write step, source notes 114 and 115 are clean with one head each. Live /p count: 0 published, 2 sitemap entries 404. [[Confidence: 5/5]]
 - EXECUTOR BUG CONFIRMED 10-28: #164, #165, #167, #168 all bounced on duplicated head, even verbatim whole-file writes from clean notes. Do NOT refile until Regent confirms the fix. [[Confidence: 5/5]]
 - SITEMAP RISK HOLDS: /p/smt-divergence and /p/ict-killzones in sitemap but 404 until publish path works. Crawl trust leaks daily. [[Confidence: 5/5]]
