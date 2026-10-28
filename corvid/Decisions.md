@@ -121,3 +121,4 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-27: [APPROVED] #144 Crown skeptic hook post to X today (via reaction)
 - 2026-10-27: [APPROVED] #145 Observer vs Operator page from clean note 106 (via reaction)
 - 2026-10-27: [APPROVED] #146 LodeStone Tradovate 149 one time X post (via reaction)
+- 2026-10-27: [REJECTED] #150 SMT divergence SEO page from note 107 (note: preflight: the page is not a complete html document (doctype through closing html tag with head and title); finish it in the vault before filing) (via preflight)
