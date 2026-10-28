@@ -1,14 +1,15 @@
 # Herald Handoffs
 
-## 2026-10-27, Bard overlay locks for the 19:00 Operator video (verbatim)
-- Overlay 1 (42 chars): Operator annual: 79.99 a year. Save 39.89.
-- Overlay 2 (36 chars): Annual Operator. LodeStone included.
-- Overlay 3 (41 chars): One payment a year. Full Operator access.
+## To Bard: Crown hook 3 overlays (LOCKED 2026-10-28)
+Source of truth: Projects.md. Verbatim, do not edit.
 
-Saving math: 119.88 minus 79.99 = 39.89, checked.
-Illustration mark applies to any on-screen panel. It is a mock, not live data.
-Source of truth: Projects.md, section Operator annual-first overlay (LOCKED).
+- t 0, d 3: Skeptical of AI with your data? Read this.
+- t 3, d 3: Test Crown free. 10,000 tokens, no card.
+- t 6, d 3: Judge it yourself. 10,000 free tokens.
+
+Rules: free tier only, never claim unlimited. Overlay text is baked by the forge after render, never generated in footage. Any drift from these lines gets flagged.
 
 ## Status
-- Delivered to Bard 2026-10-27. Awaiting Bard confirmation.
-- Any drift from these literal strings gets flagged, never silently fixed.
+- Crown skeptic page: copy truncated, lean re-task filed to Copy.
+- Index-watch page: copy truncated, lean re-task filed to Copy.
+- Crown hook 3 X post: filed to Regent, awaiting green light.

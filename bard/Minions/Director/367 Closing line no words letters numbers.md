@@ -1,0 +1,9 @@
+# Director: Closing line no words letters numbers logos or typography anywhere
+
+Date: 2026-10-28
+Task: Closing line: No words, letters, numbers, logos, or typography anywhere in the footage. Write one alternate Crown hook 3 direction, 9:16 vertical, 10 to 15 seco
+For [[Bard]].
+
+Open on a near black room, a single pink terminal glow cutting through the dark. In the first second the glow flares outward from the screen in a quick pulse, and a thin column of pink light starts pouring down the glass. The camera sits low and locked, then begins a slow push toward the screen as the stream lengthens. The stream is a long, unbroken run of small luminous fragments falling in neat vertical lines, each one catching a faint highlight as it passes. Rim light from the monitor rolls across a matte black desk surface and a few dust motes drift through the beam. As the stream runs, the room brightens by degrees: pink light spills onto the walls, the desk edge gleams, and the air takes on a faint haze that the glow pushes through. The motion stays smooth and deliberate, never frantic, with the fall speed steady from start to finish. Around the midpoint the stream reaches its fullest density, bright and dense, then begins to thin. The fragments slow, space out, and dim, the spill of light pulls back toward the screen, and the room falls back toward darkness. The camera drifts to a near stop in the final beat, leaving a soft pink ember on the glass and calm, dark negative space around it. Materials: glossy black glass, brushed dark metal, soft pink bloom, subtle film grain. Lighting is motivated by the screen alone, no added fill. Pacing is measured, with a long settle at the end. Mood is quiet, focused, and confident, the feeling of a private workspace running all night while the operator rests.
+
+No words, letters, numbers, logos, or typography anywhere in the footage.
