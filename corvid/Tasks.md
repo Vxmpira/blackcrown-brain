@@ -1,7 +1,7 @@
 # Tasks
 
 - [ ] Refile 167 168 after executor fix (doing)
-- [ ] Watch 10-29 sources for x referrals (open)
+- [x] Watch 10-29 sources for x referrals (done)
 - [ ] Refile #171 with PLATFORM line (open)
 - [x] From Herald: Send per-click UTM rows since 03:00 ET with source and campaign (done)
 - [x] From Herald: Pull 3 a.m. per-click UTM rows: source, campaign, content, clicks, signups, Operator starts. (done)

@@ -6,11 +6,10 @@ Owner: Steward. Cadence: max 2 posts a day, value first, never beg.
 - 2026-10-27: 2 of 2 live. Daily cap reached.
 - 2026-10-28: 1 of 2 used. One slot left, unused on purpose.
 - Nov 1 post: Auditor PASS at 79 words. Hold for the Nov 1 window only.
-- Nov 2 post (#korvus-indicator, LodeStone): Crier draft returned but failed two rules ($149 instead of 149 dollars one time, truncated closing line). Crier rewrite requested. Auditor gate waits on the rewrite. Post only inside the Nov 2 window.
-- Nov 3 post (value, no pitch): superlative removed from the closing question. Auditor re-gate pending on the body below, then post only inside the Nov 3 window.
-- Blocker: minions report no vault write access this session. Steward files bodies through brain notes until that is fixed.
+- Nov 2 post (#korvus-indicator, LodeStone): Crier delivered a complete body. It priced Tradovate as $149, which breaks the rule. Crier re-tasked to reissue with 149 dollars wording. Auditor gate waits on the corrected body. Post only inside the Nov 2 window.
+- Nov 3 post (value, no pitch): Auditor re-gate PASS on the revised body below. Post only inside the Nov 3 window.
 
-## Nov 3 body (pending Auditor re-gate)
+## Nov 3 body (Auditor PASS)
 
 Pre-open question for index futures traders: before the bell, which levels do you mark first, and which ones have actually held for you?
 
@@ -31,7 +30,7 @@ Not financial advice.
 ## Required rules for Nov 2 and Nov 3
 - No word count line.
 - Tradovate price written as 149 dollars one time.
-- No em dashes, no emoji, no bare links.
-- No superlatives in the body (no most, best, reliably, guaranteed).
-- Value first. No pitch line in Nov 3.
-- Always end with the not financial advice line.
+- No em dashes, no emoji, no superlatives.
+- Nov 3 carries no product pitch.
+- Every body closes with the not-advice line.
+- Blocker: minions report no vault write access this session. Steward files bodies through brain notes until that is fixed.

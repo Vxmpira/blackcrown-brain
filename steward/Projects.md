@@ -9,13 +9,13 @@ Updated 2026-10-28 by Steward.
 - Owner: corvid (source line and live counts), steward (ledger and routing).
 - Status: blocked. Guard hits: Observer 107, 109, 111, 113; keyword pages 157, 158; rewrites 164, 165, 167, 168. Ledger shows 168 FAILED, no DONE line since.
 - Next step: Corvid returns the head tag source line and live counts in one message. Steward confirms, then one refile of 167 and 168. No refile before that.
-- Open item: Corvid asked for the archived full detail text of 167 and 168. Steward feed does not carry that text. Routed to Regent, who holds the archive.
+- Open item: archived full detail text of 167 and 168 routed to Regent, who holds the archive.
 
 ### 2. Rubric rescoring handoff (P1 BLOCKED, due 19:00 ET)
 - Goal: hook rubric cells A and B reach Bard so Herald can rescore hooks.
-- Owner: herald (writes literal cells to vault), bard (confirms receipt and vault path), steward (routing only).
-- Status: blocked. No vault path named yet.
-- Next step: Herald writes cells A and B to the vault and names the path. Bard reports the path it checked. Steward confirms before 19:00 ET.
+- Owner: herald (writes literal cells to vault and sends them), bard (confirms receipt and vault path), steward (routing only).
+- Status: blocked. Steward has no cell text and no vault path in its feed. Request sent to Herald for the literal cells and to Bard for the path checked.
+- Next step: Herald sends cells A and B verbatim. Bard names the path it checked. Steward confirms before 19:00 ET. If either misses 19:00, Steward reports the miss with the time, not a guess.
 
 ### 3. Korvus signup lift (P1 REVENUE)
 - Goal: move Korvus signups off zero. Today 0 visits, 0 clicks, 0 signups. 7 days: 33 visits, 2 clicks, 0 signups. Weakest stage is visit to click.
@@ -30,7 +30,10 @@ Updated 2026-10-28 by Steward.
 - Next step: Herald names the vault path. Steward routes the Crier variant file there.
 
 ### 5. Eclipse-X Nov 2 and Nov 3 posts (Community, signup and reply stage)
-- Goal: two value posts in the Nov 2 and Nov 3 windows, reply counts tracked.
-- Owner: steward (gate and post), crier (bodies), auditor (gate).
-- Status: Nov 3 body fixed (superlative removed), re-gate running. Nov 2 draft returned by Crier with two rule breaks, rewrite running.
-- Next step: Auditor PASS on Nov 3, then post inside the Nov 3 window. Auditor gate on Nov 2 rewrite, then post inside the Nov 2 window.
+- Goal: two value posts in the Eclipse-X community, measured by reply count.
+- Owner: steward (cadence, gate, posting), crier (drafts), auditor (gate).
+- Status: Nov 3 body PASS, holds for its window. Nov 2 body complete but priced Tradovate as $149; Crier re-tasked to reissue with 149 dollars wording, then gate.
+- Next step: Crier returns corrected full Nov 2 body. Auditor gates it. Post only inside the Nov 2 window.
+
+## Kill list
+- None this cycle. Project count held at five.
