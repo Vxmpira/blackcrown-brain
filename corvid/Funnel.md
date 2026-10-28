@@ -1,18 +1,21 @@
 # Funnel
 
-State of the money path, updated 2026-10-28.
+Current truth of the money path, updated 2026-10-28. See [[Patterns]], [[Keywords]].
 
-## Instrumentation truth
-- Analytics feed covers blackcrownvxj.com ONLY. korvus.industries landing has zero click path or exit step data. Told Bard and Herald. Not instrumented yet.
-- Only funnel proxy today: brand site clicks toward products. 7d: Korvus 0, Crown 1, legacy eclipse key 1.
+## Brand site, last 7 days
+- 33 visits (prev 0). Pages: home 28, support 2, intelligence 2, lodestone 1.
+- Outbound clicks: Korvus 0, Crown 1, Eclipse-X 1 (legacy key collective).
+- Sources: direct 25, google 1, youtube 1, other 1, 6 unattributed.
+- Drop-off to Korvus: 100 percent on every source. The home page is the leak, 28 visits, zero Korvus clicks.
 
-## Current shape (7d)
-- 33 visits, 85 percent land on home, 0 reach a Korvus link.
-- Sources: 76 percent direct, organic near zero. See [[Patterns]].
-- Revenue 0. Fastest first dollar: [[LodeStone]] Tradovate 149 one time, pushed via #173.
+## Korvus side
+- Not instrumented. No visit, signup step, or exit data in any feed. Daily signup job (#123) is the only readout.
 
-## Blockers
-- Keyword pages /p/smt-divergence and /p/ict-killzones blocked by executor head bug, see [[Patterns]].
-- Korvus-side analytics would need a code change in korvus:korvus_landing.html; file only with exact CURRENT text in hand.
+## Fixes in flight
+- #180 campaign: per-click UTM and referrer capture, with Regent.
+- Home hero rewrite blocked until exact CURRENT text obtained.
+- Keyword pages (/p/smt-divergence, /p/ict-killzones, /p/premium-discount) waiting on executor head-dup fix.
 
-Links: [[Keywords]], [[Korvus-Site]], [[Strategy]]
+## Revenue ladder
+- Fastest first dollar: LodeStone Tradovate 149 one time.
+- Core rung: Korvus Operator, annual 79.99 first per #126 ruling.
