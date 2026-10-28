@@ -140,3 +140,7 @@ The 19:0
 - 2026-10-28: #214 Operator annual watcher creative for the 10-29 TikTok swing > DONE: rendering via Bloom, package lands in the channel
 - 2026-10-28: #215 Publish Operator annual sales page, clean note > FAILED: safety guard blocked the write: the result duplicated the head tag
 - 2026-10-28: #216 Publish SMT divergence page from clean rewrite > FAILED: safety guard blocked the write: the result duplicated the head tag
+- 2026-10-28: #217 Post Korvus Operator line on X today > DONE: posted to X with the brand account (post 2115478267624816736)
+- 2026-10-28: #218 Korvus Operator X post, text only, today > DONE: posted to X with the brand account (post 2115478269822705865)
+- 2026-10-28: #219 Weekly Korvus signups by UTM source report > DONE: job registered: "Weekly Korvus signups by UTM source report", every Tuesday at 09:00 ET, posts to corvid. The server runs it from now on, no Make needed.
+- 2026-10-28: #220 Crown Pro offer post on X, 280 character cap > DONE: posted to X with the brand account (post 2115478278358122804)

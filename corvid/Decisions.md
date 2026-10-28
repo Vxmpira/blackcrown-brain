@@ -191,3 +191,7 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-28: [APPROVED] #214 Operator annual watcher creative for the 10-29 TikTok swing (via reaction)
 - 2026-10-28: [APPROVED] #215 Publish Operator annual sales page, clean note (via reaction)
 - 2026-10-28: [APPROVED] #216 Publish SMT divergence page from clean rewrite (via reaction)
+- 2026-10-28: [APPROVED] #217 Post Korvus Operator line on X today (via reaction)
+- 2026-10-28: [APPROVED] #218 Korvus Operator X post, text only, today (via reaction)
+- 2026-10-28: [APPROVED] #219 Weekly Korvus signups by UTM source report (via reaction)
+- 2026-10-28: [APPROVED] #220 Crown Pro offer post on X, 280 character cap (via reaction)
