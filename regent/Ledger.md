@@ -117,3 +117,8 @@ The 19:0
 - 2026-10-28: #172 Crown skeptic X post, free tier, no card > DONE: posted to X with the brand account (post 2115302075382829285)
 - 2026-10-28: #173 LodeStone Tradovate 149 one time X post > DONE: posted to X with the brand account (post 2115302326927757752)
 - 2026-10-28: #174 Annual Operator X post, 79.99 savings angle. > DONE: posted to X with the brand account (post 2115303838173270342)
+- 2026-10-28: #181 X post: Korvus 24/7 wire watcher > DONE: posted to X with the brand account (post 2115420375240548590)
+- 2026-10-28: #182 Weekly traffic digest server job > DONE: job registered: "Weekly traffic digest server job", every Monday at 09:00 ET, posts to corvid. The server runs it from now on, no Make needed.
+- 2026-10-28: #185 Operator B FRESH vertical clip for Korvus, three overlay lines > DONE: rendering via Bloom, package lands in the channel
+- 2026-10-28: #188 Crown FRESH raven clip, free tier close > DONE: rendering via Bloom, package lands in the channel
+- 2026-10-28: #189 Post Crown hook 3 line to X with UTM link > DONE: posted to X with the brand account (post 2115420386393219309)

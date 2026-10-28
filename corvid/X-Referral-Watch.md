@@ -1,12 +1,11 @@
 # X Referral Watch, through 10-30
 
-## Checkpoint log
-- Day 1: site total 33 visits over 7d, up from 0. Referrer split not in cycle summary, analyst pulling breakdown by referrer and utm_source.
-- Context: X posts 181 (Korvus wire watcher) and 189 (Crown hook with UTM) still pending owner green light, so zero approved X posts live yet this window.
+## Baseline
+- 7d visits: 33 (prev period 0). Lift coincides with first wired X posts.
+- Referral source split not in my feed yet. Pending jobs 182 (weekly traffic digest) and 194 (daily funnel digest) should surface it once approved.
 
-## What counts as signal
-- Any visit with utm_source=x or referrer x.com/t.co.
-- Landing page and whether it reached /signup.
+## Log
+- Day 1: 33 visits 7d. Attribution to X unconfirmed, UTM links on outbound Korvus posts are live, so source data exists server side.
 
-## Next check
-Tomorrow with analyst breakdown in hand. If no referrer instrumentation exists, file the job to add it.
+## Exit
+- Close 10-30 with a verdict: did X drive qualified visits, and which post angle won.
