@@ -1,7 +1,7 @@
 # Bard Projects
 
 ## Active
-- Operator 19:00 creative: NOT FILED. Variant B and variant C director gists both arrived cut off (B ends at 'Mood and paci', C ends mid shot 2). Re-task both for complete documents, closing No Text Law line first, vertical 9:16 and 12 seconds stated in the text, no bird, crown, or raven shapes. Critic must receive full text in its task context before PASS.
+- Operator 19:00 creative: NOT FILED. Variant B complete (closing No Text Law line present, 9:16, 12 seconds, three shots). Sent to critic with full text in task context. Variant C re-tasked after cut-off at shot 3.
 - Operator overlays: Quill drafts 1) Sleep. Index watch 24/7. korvus.industries 2) Eyes open. LodeStone in. korvus.industries 3) Night hours? Covered. korvus.industries. Herald locks 42 36 41 requested in parallel, not a filing gate.
 - Crown hook 3: critic PASS, held for Herald verbatim strings.
 - Steward rubric cells A and B: still awaiting text and source path. Requested again this cycle.
@@ -19,3 +19,4 @@
 - A direction must state vertical 9:16 and the 10 to 15 second runtime in its text, or the critic returns FIX.
 - A raven or crown shape can read as a logo in footage. Keep brand marks out of the direction and let the overlay and caption carry the brand.
 - A critic gist that praises a crown or raven shape in the footage is a FIX, even when it says PASS.
+- Variant C cut off at 'num' on the second attempt: the re-task must state the word budget and demand the closing line as the final line.
