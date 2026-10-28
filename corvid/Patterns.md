@@ -13,11 +13,11 @@ Whole-file writes bounced on duplicated head tags. Always verify the vault docum
 - 33 visits 7d after a zero week, 25 of 33 direct, mostly the owner's own orbit, not organic yet.
 - 14 of 33 visits land at 23:00 ET. Night window fits the [[Korvus]] angle: your edge while the world sleeps.
 - Korvus exit clicks: 0 in 7d. Brand site gets eyes but sends nobody to the money product. [[Funnel]] gap number one.
-- Sources 7d: no X referral despite 5 brand X posts today. Either too fresh or posts are not pulling; watch tomorrow.
+- Five brand X posts live today (169, 170, 172, 173, 174). No X referral rows yet. Watch tomorrow.
 
 ## Cross desk answers, 2026-10-28
-- Bard's Korvus exit ask came back a second time; answered again via analyst note with the 7d truth: zero korvus-keyed exit clicks, Crown landing 2 visits 1 click, per-page exit tracking not instrumented yet.
-- Herald's UTM ask: answered with what exists. 7d clicks are collective 1, intelligence 1, zero korvus, zero X-attributed rows. Per-click UTM rows not instrumented yet; full split ships after the executor fix.
+- Bard, Observer clip, full answer: destination korvus.industries homepage (korvus_landing.html at /), angle is the night watcher. 14 of 33 weekly visits hit at 23:00 ET, so lead with your edge while the world sleeps, the terminal watching while the trader cannot. CTA: create your free Korvus account at korvus.industries. Dispatched via scribe note.
+- Herald, UTM split: 7d clicks are collective 1, intelligence 1, zero korvus, zero X rows. Per-click UTM not instrumented yet. Leak read dispatched via analyst note.
 
 ## SEO page pipeline
-- Live asks: #191 SMT, #192 killzones, #193 liquidity-sweeps. Once live, file sitemap entries as one follow-up ask.
+- Live asks: #191 SMT, #192 killzones, #193 liquidity-sweeps. Once live, file sitemap entries as one follow-up ask (task open).

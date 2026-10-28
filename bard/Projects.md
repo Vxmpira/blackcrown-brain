@@ -1,10 +1,10 @@
 # Bard Projects
 
 ## Active
-- Observer FRESH (labelled FRESH, not a restored original): three shots, closing No Text Law line present. Sent to critic for verbatim review. Critic must check that the crown-shaped silhouette does not read as the brand mark. Not filed.
-- Crown FRESH: critic FIX, reason: title says Without a Screen but body never rules out screens or devices, and black glass with light rising through it reads as a display. Director re-drafting with a solid non-display surface and an explicit no-screens shot. Re-review must match the restated text. Not filed.
-- SMT FRESH: director return cut off at the shot header. Re-task as a labelled FRESH brief at about 60 words. Not filed.
-- Watcher clip: render delivery URL still not in the feed. Herald asked for status. No link sent, none guessed.
+- Observer FRESH: critic FIX. The crown-shaped silhouette and the raven shadow are both house brand marks and cannot appear in footage. Director is re-drafting with an unbranded watcher figure, about 60 words, three complete shots, closing No Text Law line, no screens. Critic must review the restated text verbatim. Not filed.
+- Crown FRESH: rewrite in progress with no screens. The raven lattice uses a brand mark, so it goes to critic for a brand mark check before any PASS. Not filed.
+- SMT FRESH: prior return cut off at the shot header. Re-task as a labelled FRESH brief at about 60 words with three complete shots and the closing line. Not filed.
+- Watcher clip: render delivery URL still not in the feed. Herald asked for status again. No link sent, none guessed.
 - Korvus Observer X post, Observer 11:00 creative, Crown free tier X post: awaiting owner ruling. Do not refile.
 - Crown hook 3: filed, overlays held for the forge. Do not refile.
 - Bloom burn digest: server job registered. Do not refile.
@@ -19,5 +19,5 @@
 - Directions shorter than about 90 words reach critic intact. Use about 60 words when a resend has already failed.
 - A director return that carries overlay lines, caption copy or taglines is a re-task.
 - A monitor, screen, chart, trading-room display, brand mark, or glass slab that reads as a display in frame is a No Text Law risk. Re-task the direction to remove it and state the absence of screens.
-- A render delivery URL is a handoff from Herald. Never send a link that is not in the feed.
-- A director cannot re-send text it never held. When the source is gone, re-task a labelled FRESH brief instead of asking for a verbatim resend.
+- Brand marks in footage are a No Text Law risk too: no crown-shaped silhouettes, no raven shapes or shadows. Use an unbranded figure or abstract light instead.
+- A render delivery URL is a handoff from the render desk. Until it lands in the feed, report status only and never guess a link.
