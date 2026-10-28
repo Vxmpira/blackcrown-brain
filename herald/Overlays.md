@@ -1,24 +1,15 @@
-# Herald Overlays
+# Locked Operator and Crown overlays
 
-Locked 2026-10-27, lengths verified. Illustration: any on-screen panel is a mock, not live data. Free tier only for Crown; never claim unlimited.
+Source of truth for on-screen overlay lines. Copy verbatim. Illustration mark applies to any on-screen panel, which is a mock, not live data.
 
-## Leader, Operator annual (LOCKED)
-- Overlay 1 (t 0, d 3): Operator annual: 79.99 a year. Save 39.89.
-- Overlay 2 (t 3, d 3): Annual Operator. LodeStone included.
-- Overlay 3 (t 6, d 3): One payment a year. Full Operator access.
+## Operator annual, Bard overlay set (LOCKED 2026-10-27)
+1. Operator annual: 79.99 a year. Save 39.89. (42 chars)
+2. Annual Operator. LodeStone included. (36 chars)
+3. One payment a year. Full Operator access. (41 chars)
 
-## Crown, hook 3 (LOCKED)
-- Line 1 (t 0, d 3): Skeptical of AI with your data? Read this.
-- Line 2 (t 3, d 3): Test Crown free. 10,000 tokens, no card.
-- Line 3 (t 6, d 3): Judge it yourself. 10,000 free tokens.
+## Crown hook 3 overlay set (LOCKED 2026-10-27)
+1. Skeptical of AI with your data? Read this. (42 chars)
+2. Test Crown free. 10,000 tokens, no card. (40 chars)
+3. Judge it yourself. 10,000 free tokens. (38 chars)
 
-## Render order (proposed, Bard sets final slots)
-- Operator annual lines on the watcher clip first.
-- Crown hook 3 lines on alternating days.
-- One render per day within Bloom budget.
-
-## Hook challengers (DRAFT, not locked, pending rubric score)
-- A: The market moved at 3 a.m. Korvus was already watching.
-- B: New to index futures? Korvus watches the tape at 3 a.m.
-
-Not financial advice.
+Rules: all lines under the 44 character cap. Crown is free tier only, never claim unlimited.
