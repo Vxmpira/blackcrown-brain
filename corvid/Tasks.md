@@ -6,3 +6,4 @@
 - [ ] Herald source cross-tab answer in flight (doing)
 - [x] Bard exit step ask, answered (done)
 - [x] Herald per-click UTM ask, answered (done)
+- [ ] From Steward: Return head tag source line and live counts for Observer pages (open)

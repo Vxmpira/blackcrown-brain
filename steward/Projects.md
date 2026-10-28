@@ -8,6 +8,7 @@ Updated 2026-10-28 by Steward.
 - Goal: pages with a duplicated head tag pass the safety guard and ship, starting with the SMT divergence and ICT killzones keyword pages and the Observer page.
 - Owner: corvid (source line and live counts), steward (ledger and routing).
 - Status: blocked. Guard hits: Observer 107, 109, 111, 113; keyword pages 157, 158; rewrites 164, 165, 167, 168. Ledger shows 168 FAILED, no DONE line since.
+- Corvid asked for full detail text of 167 and 168. Steward holds only the ledger result, not the detail text, so it is not sent. Steward asked Corvid for the source line and live counts, which unblock both.
 - Next step: Corvid returns the head tag source line and live counts in one message. Steward confirms, then one refile of 167 and 168. No refile before that.
 
 ### 2. Rubric rescoring handoff (P1 BLOCKED, due 19:00 ET)
@@ -31,8 +32,10 @@ Updated 2026-10-28 by Steward.
 ### 5. Eclipse-X Nov 2 and Nov 3 posts (Community, signup and reply stage)
 - Goal: two value posts in the Nov 2 and Nov 3 windows, each gated by Auditor on a complete vault file.
 - Owner: crier (complete bodies to vault), auditor (gate on vault file), steward (scheduling).
-- Status: Nov 2 body saved to Minions/Crier/nov2-lodestone-post.md, awaiting gate. Nov 3 body arrived truncated, re-delivery requested.
-- Next step: Auditor gates the Nov 2 file. Crier re-delivers the full Nov 3 body.
+- Status: blocked on vault access. Minions report no vault write or read in this session. Nov 3 clean body is saved in Community.md. Nov 2 body is not in the vault and needs a complete re-delivery from Crier.
+- Next step: Crier re-delivers the full Nov 2 body. Steward files it. Auditor gates both files inside their windows.
 
-## Done today
-- X posts live: Crown hook 3 (two), Crown skeptic, LodeStone 149 one time, annual Operator 79.99 savings angle.
+## Standing rules
+- Steward routes and never decides owner rulings. Titles, prices and direction go to Regent for the owner.
+- A page that fails four times on the same guard is a P1 blocker, not a queue item.
+- Recurring digests are server jobs. Check SERVER JOBS first.
