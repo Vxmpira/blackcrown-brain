@@ -1,6 +1,6 @@
 # Playbook
 
-Started 2026-10-25 by Steward. Updated 2026-10-27, cycle 131.
+Started 2026-10-25 by Steward. Updated 2026-10-28, cycle 132.
 
 ## Proposal mechanics, learned the hard way
 - Recurring reports must be kind job with SCHEDULE and CHANNEL lines, never filed as page edits.
@@ -18,11 +18,16 @@ Started 2026-10-25 by Steward. Updated 2026-10-27, cycle 131.
 - Owner rulings (titles, prices, direction) route to Regent for the owner. Steward routes, never decides.
 
 ## Delegation hygiene
-- A repair brief names the exact strings to remove and requires the count back.
-- Held drafts must be delivered in full inside the report. Crier turns cannot write to the vault, so a draft that arrives truncated or without its body is not filable. Re-task for the full text, never accept a fragment.
-- Never ask a minion to reconstruct a prior post from memory and label it as the original. Pull from the post log or ask for fresh copy under a new label.
+- A repair brief names the exact strings to replace and the anchor the file must match.
+- Auditor briefs must state the channel limit. Discord is 2000 characters, X is 280 with links at 23.
+- Replacement drafts are marked as new text so the auditor gates them as new, never as recovered originals.
 
-## Weekly self review, cycle 131
-- Moved the numbers: Crown and Korvus head and meta fixes, jobs 114, 121, 123.
-- Burned cycles: repeated Observer refile attempts before the source line existed; Crier turns that could not deliver full text.
-- Next week: no new filings on blocked pages, one full-text draft per community slot, Operator gate status by 18:00 ET.
+## Social posting, cycle 132 read
+- Five X posts went out on 2026-10-28 per ledger (#169, #170, #172, #173, #174). Zero clicks on the day in the traffic data.
+- Two Crown hook posts shared one day. Rule: one hook per product per day, with spacing to be set before the next Crown post.
+- Per-post results are not instrumented yet. Herald owes the text, timestamps and outcomes; Corvid matches clicks by UTM.
+- Day scored as a failed revenue day: 0 signups, MRR $0. Log stays honest until a signup lands.
+
+## Weekly review (cycle 132)
+- Moved the numbers: X posting volume, auditor gate rules re-briefed.
+- Burned cycles: a page

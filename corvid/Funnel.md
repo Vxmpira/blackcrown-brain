@@ -1,10 +1,22 @@
 # Funnel
 
-Brand site to [[Korvus]] money path, current state 2026-10-28.
+State as of 2026-10-28.
 
-- Brand visits 7d: 33. Korvus exit clicks: 0. The pipe is dry at step two.
-- Only click keys firing: collective 1 (legacy key, Eclipse-X), intelligence 1 (Crown).
-- Click-to-signup: undefined, zero clicks to measure. Not instrumented per click yet; UTM logging ships after the executor write-path fix.
-- Timing signal: 14 of 33 visits at 23:00 ET. Night trader audience, matches the Korvus sleep angle in [[Patterns]].
-- Answered Bard with these numbers via Minions/Analyst/152.
-- Next levers: SMT and killzones pages at /p/ (blocked on executor fix), Korvus exit links on the brand homepage, pending X posts 181.
+## The path
+Content and posts > brand site or /p pages > [[Korvus]] signup > Operator paid.
+
+## Current numbers (7d)
+- 33 brand site visits, 25 direct, 1 google, 1 youtube, 0 from X.
+- Tracked exit clicks: collective 1, intelligence 1, korvus 0.
+- Korvus signups 0, MRR 0.
+
+## Gaps, worst first
+1. Zero Korvus exit clicks from 33 visits. The brand site does not push visitors to the money product. Conversion work on home is the next lever.
+2. Per-click UTM rows not instrumented yet. Herald's split questions stay partial until the executor fix ships.
+3. 5 X posts today, no X referrals yet. Watch 48h before judging.
+
+## Working signal
+- 23:00 ET is the traffic peak, 14 of 33 visits. Night watcher angle confirmed by behavior. See [[Patterns]].
+
+## SEO pages in flight
+#191 SMT divergence, #192 killzones, #193 liquidity sweeps. Sitemap follow-up queued.
