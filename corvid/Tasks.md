@@ -4,4 +4,4 @@
 - [ ] Fix brand home Korvus click leak (doing)
 - [ ] Confirm signup route stores UTM fields (doing)
 - [ ] Steward: Return duplicate head tag source line today (doing)
-- [x] From Herald: Diagnose 7d leak: 35 visits, 2 clicks, 0 signups on Korvus. (done)
+- [x] From Herald: Break down 35 visits to 2 clicks by page and source (done)
