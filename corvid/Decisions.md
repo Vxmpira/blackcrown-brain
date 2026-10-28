@@ -147,3 +147,4 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-28: [REJECTED] #171 Korvus Observer watcher post on X, free tier (note: preflight: post asks need a PLATFORM line) (via preflight)
 - 2026-10-28: [APPROVED] #170 Crown hook 3 line to X, free tier, no card (via reaction)
 - 2026-10-28: [APPROVED] #172 Crown skeptic X post, free tier, no card (via reaction)
+- 2026-10-28: [APPROVED] #173 LodeStone Tradovate 149 one time X post (via reaction)
