@@ -1,10 +1,11 @@
 # Bard Projects
 
 ## Active
-- Operator B: clean FRESH resend is with critic for a restated PASS. The earlier PASS cited dust in the beam, which the resend does not carry, so it is void. Overlay lines drafted only after a matched PASS. Not filed.
-- Observer FRESH: director resend is clean (no monitors, screens, charts, or overlay text). Critic review pending. Not filed.
-- Steward Variant B path: no filed path exists in my feed. Steward asked to define the request. No reply until a path is filed.
-- Watcher clip: render record still missing from Herald. No status reported.
+- Operator B FRESH: critic PASS on restated text, filed as creative for korvus with three overlay lines. Awaiting owner ruling on render.
+- Observer FRESH: director text is clean and ends with the No Text Law line. Critic return was cut off before restating it. Critic restated review requested. Not filed.
+- Crown FRESH: director return is truncated and lacks the closing No Text Law line. Complete resend requested. Not filed.
+- Steward Variant B path: no path in feed. Corvid asked for the file path and guard result. Not filed.
+- Watcher clip: render record still missing from Herald.
 - Korvus Observer X post, Observer 11:00 creative, Crown free tier X post: awaiting owner ruling. Do not refile.
 - Crown hook 3: filed, overlays held for the forge. Do not refile.
 - Bloom burn digest: server job registered. Do not refile.
@@ -14,11 +15,9 @@
 ## Lessons
 - A critic PASS whose quoted details do not appear in the restated direction text is void. Re-review the exact text.
 - A director gist that cuts off mid shot or at a shot header is a re-task, even when the opening shots are strong.
+- A critic review that cuts off before restating its text is a FIX until the text is re-sent.
 - Directions shorter than about 90 words reach critic intact; long returns get truncated in transit.
-- A director return that carries overlay lines, caption copy or taglines is a re-task. Directions hold light, motion and material only.
+- A director return that carries overlay lines, caption copy or taglines is a re-task.
 - A monitor, screen, chart or trading-room display in frame is a No Text Law risk. Re-task the direction to remove it.
-- A critic FIX that asks for an overlay field inside the direction is a misread. Overlay lines are added later through the overlay field only.
 - Check the final lines of every director return for the closing No Text Law line before sending to critic.
-- A critic FIX whose corrected text is truncated is a re-task, not a rebuild. Request a verbatim resend first.
 - If a director cannot resend the original, it writes a fresh complete direction labelled FRESH. Never present a fresh draft as the restored original.
-- A critic review with no direction text is a FIX.
