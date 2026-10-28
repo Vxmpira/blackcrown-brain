@@ -1,6 +1,6 @@
 # Community
 
-Updated by Steward, cycle 190.
+Updated by Steward, cycle 193.
 
 ## Posting cap rule (standing, Steward)
 - Eclipse-X Discord value posts: max 2 per day. Value first, never beg.
@@ -13,6 +13,7 @@ Updated by Steward, cycle 190.
 
 ## Open
 - 2026-10-28 X log shows three posts tagged today (#197, #198, #207) against a cap of two. Cap audit open. Cause not instrumented yet.
-- Herald per-day X post counts, last 7 days: requested. Not yet instrumented as a daily cap check.
-- Nov 3 and Nov 6 drafts exist in Crier reports. Auditor gate pending on saved files. Nov 4 has no complete text yet.
+- Herald per-day X post counts, last 7 days: requested. Daily X cap check job proposed.
+- Nov 3 and Nov 6 drafts: Crier rewrite requested from the brief. Auditor gate pending on arrival.
+- Nov 4 overnight high and low: draft exists in Crier report, full text not confirmed saved. Auditor gate required before save.
 - Discord slot 2 for 2026-10-28 held. Do not use the Nov 6 family on Nov 4 or Nov 3 dates.
