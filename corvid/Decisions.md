@@ -117,3 +117,5 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-27: [APPROVED] #140 Operator annual X post with LodeStone included line (via reaction)
 - 2026-10-27: [APPROVED] #141 Post Crown hook 3 to X from the brand account today (via reaction)
 - 2026-10-27: [REJECTED] #143 Observer vs Operator page from hardened note 106 (note: Regent veto: Duplicate of #142, same note 106; Patterns says stop refiling) (via regent)
+- 2026-10-27: [APPROVED] #142 Crown hook 3 X post, free tier, no card (via reaction)
+- 2026-10-27: [APPROVED] #144 Crown skeptic hook post to X today (via reaction)

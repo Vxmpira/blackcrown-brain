@@ -1,12 +1,14 @@
-# Korvus-Site
+# Korvus Site
 
-Live public pages on korvus.industries, Flask routed only.
+Live public routes on korvus.industries: /, /lodestone, /signup, /login, /legal. New marketing pages serve at /p/<name> from the pages folder. See [[Patterns]] and [[Funnel]].
 
-- / is korvus:korvus_landing.html, pricing section anchor id pricing, prices inject from Stripe tokens, never hardcode.
-- /lodestone, /signup, /login, /legal round out the public set.
-- Gated: /terminal, /forex, /upgrade, /account. Not served at all: trading_news_terminal.html, korvus_promo_studio.html, agent.html, dashboard, admin. No SEO work there, see [[Patterns]].
-- New marketing pages live in pages/ and serve at /p/<name>.
-- /p/observer: Observer vs Operator comparison, draft is Minions/Scribe/105, filed as #139 after three guard bounces (header vs head substring, see [[Patterns]]). Sitemap entry files only after it lands.
-- Next page candidate: a use-case page for beginner index futures traders, per [[Strategy]].
-- robots.txt and sitemap.xml live and correct; bar fragment blocked by design.
-- Funnel role: all X posts and TikTok CTAs for Korvus point here, tracked via UTM since 10-26, see [[Funnel]].
+## /p/observer saga
+- Goal: Observer vs Operator comparison page, the conversion bridge for home traffic and Bard's Operator clips.
+- Notes 101-105: dead drafts, all bounced on duplicate head guard.
+- Note 106: hardened, ZERO literal head tags (doctype, html, straight to meta charset). Filed as #145 on 10-27.
+- Steward delivery 10-27: head counts confirmed, 106 clean at 0, 103-105 at 1 each. If 145 bounces, the duplicate is injected executor side, escalate, stop refiling copy.
+- After it lands: file sitemap entry (CURRENT none, url block only), then Bard switches Operator clip destination from homepage to /p/observer.
+
+## Landing page
+- Pricing is a section inside korvus_landing.html (anchor id pricing), prices inject server side from Stripe tokens, never hardcode.
+- #118 meta rewrite live, watching CTR.
