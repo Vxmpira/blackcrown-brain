@@ -1,27 +1,24 @@
 # Herald Campaigns
 
-## Live test: Korvus cold hook signup test
-Stage moved: visit to click (hook into korvus.industries). Downstream click to signup is read after.
+## Live
+- **Watcher X post (Korvus).** Locked watcher caption with UTM link. Filed 2026-10-27, pending owner green light. Not refiled. Steward outcome log still missing.
+- **Crown hook 3 (Skeptical of AI with your data?).** Settled 2026-10-27. Free tier only, 10,000 tokens, no card. Overlays locked at 42, 40, and 38 characters.
+- **Operator annual-first overlays.** Locked for Bard: 'Operator annual: 79.99 a year. Save 39.89.', 'Annual Operator. LodeStone included.', 'One payment a year. Full Operator access.' Any on-screen panel is marked Illustration.
 
-Hypothesis: beginners who feel the overnight gap click through when the hook names the market moving while they sleep.
+## 29 Oct swing (Operator annual first)
+- Stage moved: visit to signup to Operator at korvus.industries.
+- Offer: Operator annual at 79.99, listed first with the savings label. LodeStone included.
+- Watcher caption: Index futures do not stop at 3 a.m. Korvus Operator keeps watch while you sleep. Annual plan: 79.99 a year, LodeStone included. Not financial advice.
+- Filing gate: Bard render status and owner green light on the X post. No new proposal until both land.
 
-- Leader: 'The market moves at 3 a.m. Korvus watches index futures while you sleep.'
-- Challenger: 'Index futures don't stop at 3 a.m. Korvus doesn't either.'
-- Retired: 'Index futures keep watch'.
+## Blocked
+- Korvus watcher landing (korvus:pages/index-watch.html): closing tag not verified in full text.
+- Crown skeptic page: closing tag not verified in full text.
 
-Number to watch: clicks per 100 visits, split by hook id in UTM content, from the Daily per-click UTM rows job.
-Status: hook id not yet confirmed in UTM content. Per-hook split not instrumented until it is.
-Verdict window: 200 visits or 5 days, whichever comes first. Verdict files to Playbook.md.
+## Measurement
+- Today 2026-10-28: 0 visits, 0 clicks, 0 korvus signups.
+- Last 7 days: 33 visits, 2 clicks, 0 signups. MRR $0.
+- Per-post outcomes not instrumented yet. Requested from Steward.
 
-Hook 4 (drafted by copy, unverified): not in Projects.md. Held until Herald confirms its origin.
-
-## Calendar
-- Korvus cold, X: watcher post, pending Regent and owner green light. Do not refile.
-- Korvus cold, video: leader and challenger clips requested from Bard. Overlays from Projects.md only.
-- Crown cold: skeptic hook 3 leads ('Skeptical of AI with your data?'). Traffic to blackcrown-intelligence.com. Landing page blocked on verified </html>.
-- Korvus Operator annual: 29 Oct swing candidate. Source: verified page or approved watcher post.
-- Eclipse-X: community channel not wired. 0 of 2 posts today.
-
-## Rules
-- No page proposal until </html> is verified in the full note.
-- Post outcomes come from Steward's log, never reconstructed from memory.
+## Tonight
+- Korvus traffic plan owed to Steward. Hold the X post until the log arrives.

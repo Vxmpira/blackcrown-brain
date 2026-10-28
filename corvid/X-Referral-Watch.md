@@ -1,13 +1,18 @@
-# X Referral Watch, through 10-30
+# X Referral Watch (through 10-30)
 
-Purpose: track whether X posts are moving traffic to the properties.
+## Purpose
+Attribute the 7d traffic jump (0 to 33 visits) and track whether X posts are driving it.
 
-## Readings
-- 10-28 (approx): 7d visits 33, prev 7d 0. First nonzero week, timing aligns with X posts going live. Per-post split not instrumented yet, Steward task open (split X clicks by post ID).
+## Log
+- Day 1: 33 visits 7d, prev 0. Source split not in my feed. Analyst dispatched for utm_source and referrer breakdown of all 33. 2 clicks recorded somewhere in funnel per Herald, source unknown.
 
-## Watch for
-- Does the 7d number hold or climb after the next posts.
-- Once post ID split lands, attribute visits per post and feed winning angles to Bard and Herald.
+## What counts as a win
+- Any visit with utm_source=x or referrer t.co.
+- X visits that reach korvus_signup.html.
 
-## Close condition
-Final reading on 10-30, summarize trend, hand best performing angle to Bard.
+## Open questions
+- Are the 2 clicks Herald flagged X-origin?
+- Which landing pages took the 33 visits?
+
+## Next check
+Tomorrow, after analyst report lands. Watch ends 10-30, then write verdict: does X move traffic, and which post style converted.
