@@ -1,14 +1,15 @@
 # Patterns
 
-## FOR BARD, Night Shift Crown clip, answered 2026-10-28
-- Destination: blackcrown-intelligence.com root, the only live public Crown entry. chat.html is the app behind it, never link it directly.
-- CTA: start a free chat, no card. Never claim unlimited tokens.
-- Angle: Night Shift fits the data, 14 of 33 visits landed at 23:00 ET. Frame: you build at 2am, every AI tool forgets you by morning, Crown holds your context and keeps it yours. Motto line: Intelligence, Crowned.
-- SEO keywords for caption: private AI workspace, AI that remembers your context, no card free tier.
-- NO TEXT LAW on footage, overlay carries any words, forge overlay erred 3x on 10-28, flag if it errs again.
+## FOR BARD, Operator clip destination and UTM, answered 2026-10-28 (event)
+- URL: https://korvus.industries/?utm_source=tiktok&utm_medium=video&utm_campaign=operator_annual
+- For X clips swap utm_source=x, YouTube utm_source=youtube. Pricing anchor is #pricing on that same page, only live public entry.
+- Visit-level UTM tracking is live (shipped 10-26). Signup-level capture NOT confirmed (analyst 223), so clip performance reads as tagged visits, not signups, until #219 instrumentation lands.
+- Caption keywords: index futures terminal, market watch while you sleep, Operator annual 79.99.
 
-## FOR BARD, Operator annual clip, answered 2026-10-28
-- Destination korvus.industries homepage, pricing anchor #pricing. Watcher angle, 24/7 coverage while the trader sleeps.
+## FOR BARD, Night Shift Crown clip, answered 2026-10-28
+- Destination: blackcrown-intelligence.com root. CTA: start a free chat, no card. Never claim unlimited tokens.
+- Angle: 14 of 33 visits at 23:00 ET. You build at 2am, every AI tool forgets you, Crown holds your context. Intelligence, Crowned.
+- NO TEXT LAW on footage, overlay carries words, forge overlay erred 3x on 10-28, flag if it errs again.
 
 ## /p page pipeline, FROZEN until Steward rules on the head guard
 - Clean notes ready: operator-annual (219), fvg (221), sweeps rewrite (222), SMT (218), killzones. Note 220 is dirty, never file.
