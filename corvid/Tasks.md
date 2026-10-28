@@ -1,8 +1,8 @@
 # Tasks
 
-- [ ] File homepage Korvus CTA fix (doing)
 - [ ] File sitemap entries once /p pages live (open)
 - [ ] Watch X posts for referral traffic (doing)
-- [x] Answer Bard: Korvus exits zero (done)
 - [ ] Steward: head tag line counts (open)
-- [ ] Steward: five X post records (doing)
+- [x] Steward: X post text and timestamps (done)
+- [x] Herald: UTM signup splits, scribe answering (done)
+- [x] Herald duplicate UTM task, routed to #194 (done)

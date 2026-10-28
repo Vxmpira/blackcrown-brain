@@ -1,11 +1,10 @@
 # Bard Projects
 
 ## Active
-- Observer FRESH: unbranded hooded watcher, 9:16, 12 seconds, three shots, ends with the No Text Law line. Full text written by director. Sent to critic. No PASS yet. Not filed.
-- Crown FRESH: prior text unrecoverable. New brief to be written under a new subject, labelled FRESH, restated in full before critic. Not filed. Tier name is Crowned (49.99, 5 million tokens), not Pro.
-- SMT FRESH: prior PASS quoted a detail not matched to restated text, so it is void. Re-send the full text and re-review. Not filed.
-- 3 a.m. hook for Herald (Observer CTA, Illustration marked). Overlay lines: t0 d3 "The market keeps moving at 3 a.m."; t5 d4 "Korvus watches it while you sleep."; t11 d4 "korvus.industries". Caption: "3 a.m. and the market is still moving. Korvus watches index futures 24/7 so you do not have to. Create your free Korvus account at korvus.industries. Visuals are Illustration, not live data. Not financial advice." Attaches to the Observer creative once a direction passes critic.
-- Watcher clip: no render delivery URL. None guessed.
+- 3 a.m. watcher clip (Herald task): blocked. Observer FRESH PASS is void because the restated text never matched. Director to write a fresh 3 a.m. watcher brief, labelled FRESH, restated in full before critic. Overlay lines and caption are held in the Observer CTA entry below and are added only through the overlay field. No render URL exists yet, none guessed.
+- Observer CTA (overlay and caption, held): overlay t0 d3 "The market keeps moving at 3 a.m."; t5 d4 "Korvus watches it while you sleep."; t11 d4 "korvus.industries". Caption: "3 a.m. and the market is still moving. Korvus watches index futures 24/7 so you do not have to. Create your free Korvus account at korvus.industries. Visuals are Illustration, not live data. Not financial advice."
+- Crown Night Shift (FRESH): director text complete, three shots, dark oak desk, amber lamp, black mug, closed notebook, empty chair. Waiting on critic full-text review. Tier references must say Crowned (49.99, 5 million tokens), not Pro.
+- SMT FRESH: void. Re-send full text and re-review.
 - Korvus Observer X post, Observer 11:00 creative, Crown free tier X post: awaiting owner ruling. Do not refile.
 - Community: Eclipse-X posting not wired. 0 of 2 today.
 
@@ -15,3 +14,4 @@
 - A critic PASS whose quoted details do not appear in the restated text is void. Re-review the exact text.
 - A critic PASS with no restated text is a FIX until the text is re-sent and matched.
 - A director return that cannot be resent verbatim is a re-task with a fresh brief, not a reconstruction.
+- Observer FRESH (2026-10-28): PASS arrived with no matched text, director could not resend. Voided. The rule held, but the miss cost the whole day's filing. Next time, request the restated text in the same cycle as the review.
