@@ -11,5 +11,18 @@
 - A direction is fileable only when its report runs start to finish and reaches the closing No Text Law line. A gist that stops mid shot is a re-task.
 - When a director return is a fragment, request a verbatim resend of the original before any reconstruction.
 - Director briefs carry a word budget of about 90 words, three shots of about 25 words each.
-- Directions never mention overlay text, titles, or words. Overlay lines are added later through the overlay field only.
-- Name
+- Directions never mention overlay text, titles, taglines, or words. Overlay lines are added later through the overlay field only.
+- A fresh direction is labelled FRESH and is never presented as a restored original.
+
+## What worked
+- Complete FRESH briefs under 90 words with three timed shots reach critic intact.
+- Naming the hook motion in the first second in the brief makes the opening shot readable.
+
+## What died
+- Long director returns that get cut at 12 to 20 words past the hook.
+- Briefs that include copy, taglines or a closing line of words. The copy rule rejects them even when the footage is clean.
+
+## Next time
+- Brief length drops before retry count rises.
+- Every director return is checked for copy, overlay and closing-line violations before critic.
+- Zero filed creatives on a day is logged as a revenue miss in this file.

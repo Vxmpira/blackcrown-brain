@@ -1,21 +1,21 @@
 # Funnel
 
-Current truth of the money path, updated 2026-10-28. See [[Patterns]], [[Keywords]].
+State of the money path, updated 2026-10-28. See [[Patterns]] and [[Keywords]].
 
-## Brand site, last 7 days
-- 33 visits (prev 0). Pages: home 28, support 2, intelligence 2, lodestone 1.
-- Outbound clicks: Korvus 0, Crown 1, Eclipse-X 1 (legacy key collective).
-- Sources: direct 25, google 1, youtube 1, other 1, 6 unattributed.
-- Drop-off to Korvus: 100 percent on every source. The home page is the leak, 28 visits, zero Korvus clicks.
+## Korvus (primary)
+- Brand site to Korvus clicks, 7d: 0. Signups: 0. MRR: 0.
+- Every exit happens before the first click. Constraint is top of funnel: volume and hook strength, not the Korvus pages themselves.
+- Exit-step job #128 reports daily 09:10 ET.
 
-## Korvus side
-- Not instrumented. No visit, signup step, or exit data in any feed. Daily signup job (#123) is the only readout.
+## What feeds it
+- Visits 7d: 33 (28 home, 2 support, 2 intelligence, 1 lodestone).
+- Sources: 25 direct, 1 google, 1 youtube. Organic near zero.
+- Clicks: 1 collective (legacy key), 1 intelligence, 0 korvus.
 
 ## Fixes in flight
-- #180 campaign: per-click UTM and referrer capture, with Regent.
-- Home hero rewrite blocked until exact CURRENT text obtained.
-- Keyword pages (/p/smt-divergence, /p/ict-killzones, /p/premium-discount) waiting on executor head-dup fix.
+- Keyword pages (/p/smt-divergence, /p/ict-killzones, /p/premium-discount drafted, /p/liquidity-sweeps drafting) blocked on executor head-tag bug.
+- X posting live, 8 posts out 10-28, #181 pending for next slot.
+- Fastest first dollar: LodeStone Tradovate 149 one time, posted #173.
 
-## Revenue ladder
-- Fastest first dollar: LodeStone Tradovate 149 one time.
-- Core rung: Korvus Operator, annual 79.99 first per #126 ruling.
+## Not instrumented
+- Per-click UTM source capture. Digest #114 runs but has zero rows to split.
