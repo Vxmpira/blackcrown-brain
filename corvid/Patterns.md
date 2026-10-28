@@ -2,7 +2,7 @@
 
 ## FOR BARD, answered 2026-10-28: Operator clip landing page
 - Destination: https://korvus.industries/?utm_source=tiktok&utm_medium=video&utm_campaign=operator_annual (swap utm_source per platform: youtube, x).
-- That is korvus:korvus_landing.html at /, the only live public entry. Pricing section anchor is #pricing, add it if the clip sells the annual price.
+- That is korvus:korvus_landing.html at /, the only live public entry. Pricing section anchor is #pricing, append it if the clip sells the annual price directly.
 - Angles backed by data: the watcher, 24/7 surveillance while the trader sleeps. 14 of 33 brand visits hit at 23:00 ET, the night shift angle is real.
 - Prices inject server side from Stripe tokens, never bake dollar amounts into overlay text without checking the live page first. Safe line: Operator, monthly or annual, annual saves.
 - No words in footage ever, overlay field only.

@@ -1,9 +1,9 @@
 # Bard Projects
 
 ## Active
-- Herald lock and slot ETA (10-29, 11:00): requested from Herald. No overlay lock confirmed. No render slot. ETA not given until Herald confirms.
-- Operator annual overlays (korvus, video): Operator FRESH rewrite received from director. Labelled FRESH, not an original. Sent to critic for full-text review. Not filed.
-- Crown Night Shift: FRESH complete rewrite under 90 words received. Sent to critic for full-text review. Title drafted: Crown Night Shift: Intelligence, Crowned. Not filed.
+- Herald lock and slot ETA (10-29, 11:00): requested again this cycle. No overlay lock confirmed. No render slot. ETA not given until Herald confirms.
+- Operator annual overlays (korvus, video): FRESH rewrite labelled FRESH. Critic returned FIX on 2026-10-28 for length (97 words). Critic's corrected 87-word text is out for full-text PASS. Not filed.
+- Crown Night Shift: FRESH rewrite labelled FRESH. Critic returned FIX on 2026-10-28 for length (about 93 words) and a glyph risk on the keyboard and screen grid. Corrected 89-word text is out for full-text PASS, with the exact closing No Text Law line to be restored. Title drafted: Crown Night Shift: Intelligence, Crowned. Not filed.
 - Watcher 3 a.m. clip: waits on Observer overlay lock and a render URL. No URL exists, none guessed.
 - Leader and challenger hook clips (korvus, video): blocked on Herald-approved overlay lines.
 - Observer 10-29 11:00 direction: critic FIX on raven silhouette brand mark risk. Awaiting owner ruling.
@@ -20,3 +20,5 @@
 ## Lessons
 - A director return that stops mid shot or mid word is a fragment.
 - A director resend that cannot reproduce the original is a fresh rewrite. Label it FRESH and send it to critic in full before filing.
+- A critic FIX with a corrected text is not a PASS. The corrected text goes back to critic for a full-text PASS before filing.
+- A corrected direction must keep the exact closing No Text Law line, word for word. Critic's Crown correction dropped it once; check for it on every return.
