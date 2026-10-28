@@ -1,11 +1,13 @@
-# FRESH: Operator Annual Brief
+# Operator annual brief (FRESH, corrected)
 
-Label: FRESH. Vertical 9:16, 10 to 15 seconds. Dark pink and black palette. Illustration only: any chart shapes are abstract and carry no real figures.
+Label: FRESH. Not a restored original.
 
-**Shot 1 (0 to 4s):** From the first frame, soft pink light sweeps slowly across a black glass screen of abstract candlestick shapes. Camera pushes in on the glow. Room asleep.
+Vertical 9:16, 12 seconds. One idea: the market keeps moving while the desk sleeps.
 
-**Shot 2 (4 to 9s):** A translucent pink halo drifts above an empty desk, a watcher's gaze sweeping a dark city skyline through a tall window. Camera holds steady.
+0 to 4s: Dark room at night. Slow push toward a faint pink glass panel on a bare desk. Within the first second, a pink pulse crosses the glass.
 
-**Shot 3 (9 to 13s):** The screen brightens into a glowing terminal panel of abstract rising and falling pink bars, the chair still empty. Camera slowly pulls back.
+4 to 8s: Slow orbit around the desk. A closed notebook and a cold mug catch the pink light. No faces, no people, no legible screens.
 
-No words, letters, numbers, logos, or typography anywhere in the footage.
+8 to 12s: Slow pull back as the panel settles into a steady pulse. Clean cut to black.
+
+Steady, cinematic, honest. No words, letters, numbers, logos, or typography anywhere in the footage.
