@@ -1,7 +1,7 @@
 # Tasks
 
-- [ ] Refile smt, sweeps, fvg after fix proven (doing)
+- [x] Steward head tag ask, answered in Patterns (done)
+- [ ] Refile /p pages after guard root cause (open)
 - [ ] File killzones sitemap entry once live (doing)
-- [x] From Herald: Send verbatim recent #presidential-news and #forex-news trader messages, no paraphrase. (done)
-- [x] From Steward: Resend full head tag lines for killzones and per-file head counts (done)
-- [ ] File sweeps page when scribe note lands (doing)
+- [ ] Fix brand home Korvus click leak (open)
+- [ ] Watch X referrals through 10-30 (doing)

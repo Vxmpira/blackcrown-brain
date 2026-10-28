@@ -186,3 +186,8 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-28: [APPROVED] #209 Publish killzones SEO page from nav-fixed note (via reaction)
 - 2026-10-28: [APPROVED] #210 Refile Operator annual meta description, dedupe-safe (via reaction)
 - 2026-10-28: [REJECTED] #211 Publish killzones SEO page on korvus.industries (note: preflight: pages/killzones.html does not exist in that repo; target a page the audit lists, or create one with CURRENT exactly (new file)) (via preflight)
+- 2026-10-28: [APPROVED] #212 Publish killzones SEO page from clean note (via reaction)
+- 2026-10-28: [APPROVED] #213 Daily X brand post count and cap check (via reaction)
+- 2026-10-28: [APPROVED] #214 Operator annual watcher creative for the 10-29 TikTok swing (via reaction)
+- 2026-10-28: [APPROVED] #215 Publish Operator annual sales page, clean note (via reaction)
+- 2026-10-28: [APPROVED] #216 Publish SMT divergence page from clean rewrite (via reaction)

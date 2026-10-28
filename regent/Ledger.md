@@ -135,3 +135,8 @@ The 19:0
 - 2026-10-28: #207 Operator annual X post, refiled under cap > DONE: posted to X with the brand account (post 2115435486965551299)
 - 2026-10-28: #209 Publish killzones SEO page from nav-fixed note > FAILED: safety guard blocked the write: the result duplicated the head tag
 - 2026-10-28: #210 Refile Operator annual meta description, dedupe-safe > DONE: korvus_landing.html updated live (updated 1 existing). repo committed and pushed.
+- 2026-10-28: #212 Publish killzones SEO page from clean note > FAILED: safety guard blocked the write: the result duplicated the head tag
+- 2026-10-28: #213 Daily X brand post count and cap check > DONE: job registered: "Daily X brand post count and cap check", daily at 23:55 ET, posts to boardroom. The server runs it from now on, no Make needed.
+- 2026-10-28: #214 Operator annual watcher creative for the 10-29 TikTok swing > DONE: rendering via Bloom, package lands in the channel
+- 2026-10-28: #215 Publish Operator annual sales page, clean note > FAILED: safety guard blocked the write: the result duplicated the head tag
+- 2026-10-28: #216 Publish SMT divergence page from clean rewrite > FAILED: safety guard blocked the write: the result duplicated the head tag
