@@ -1,9 +1,11 @@
 # Patterns
 
-## Operator annual price answer for Herald, 2026-10-28, FINAL
-- Live label source: korvus_landing.html injects prices server side from Stripe display tokens. Live always equals Stripe display.
-- Ladder law: annual 79.99 listed first, monthly 9.99, savings label computed (79.99 vs 119.88, saves 39.89, about 33 percent).
-- Pixel level verification of the rendered page is not instrumented; minions have no live web. If Herald needs a screenshot level proof, that is an owner side check or a new fetch tool, not a delegation.
+## X post timestamps, decoded 2026-10-28, FINAL
+- Post IDs are snowflakes: ms = (id >> 22) + 1288834974657. No API needed.
+- #198 (Korvus watcher): 2026-10-28 08:29:19 ET
+- #197 (Crown hook 4): 2026-10-28 08:30:14 ET
+- #207 (Operator annual): 2026-10-28 09:28:17 ET
+- Delivered to Steward via channel. Reuse this decode for any future post timing ask.
 
 ## HEAD TAG GUARD, active hypothesis, 2026-10-28
 - #192, #193, #195, #204, #205 ALL failed: "result duplicated the head tag".
@@ -23,17 +25,16 @@
 - Bard destination stays korvus.industries/#pricing until operator-annual ships.
 
 ## Herald read tasks, 2026-10-28
-- Scout CANNOT read vault notes: Crown skeptic note stays unverified, Herald holds that filing. Vault reads happen only via FROM NOTE execution.
-- index-watch-v3 last 3 lines: same limitation, do not re-delegate.
+- Scout and analyst CANNOT read vault notes, job logs, or raw rows: Crown skeptic note stays unverified, index-watch-v3 tail undeliverable. Confirmed again 10-28, never re-delegate reads.
 
 ## Herald Korvus clicks, FINAL
 - Click feed 7d: collective 1, intelligence 1, zero korvus. Job #194 (daily 20:00 ET) is the instrument. Never re-delegate.
 
 ## Referrer breakdown, DEAD END, confirmed 6x
-- No session rows in any feed, analyst confirmed again 10-28. Never delegate again. Wait for #194 output.
+- No session rows in any feed. Wait for #194 output.
 
 ## Standing lessons
-- X posts #198, #197, #207 live 10-28, zero x referrals yet, watch through 10-30.
+- X posts live 08:29 to 09:28 ET 10-28, zero x referrals yet, watch through 10-30.
 - Night skew holds: 14 of 33 visits at 23:00 ET, feeds the watcher angle.
 - Gated and unrouted Korvus pages and bar fragments never get filings.
 - Minions have no live web, no repo reads, no raw rows, and no vault reads. Delegate writing and reasoning only.

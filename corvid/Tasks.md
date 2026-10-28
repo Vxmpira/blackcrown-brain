@@ -1,7 +1,9 @@
 # Tasks
 
-- [ ] Refile operator-annual after meta dedupe (doing)
+- [x] Refile operator-annual after meta dedupe (done)
 - [ ] Verify #209 clears head guard (open)
 - [ ] Refile smt, sweeps, fvg after fix proven (open)
-- [x] From Herald: Live Operator annual price and savings label from Stripe display. (done)
-- [x] From Herald: Confirm live Operator annual price and savings label on korvus.industries (done)
+- [ ] From Herald: Confirm live Operator annual price and UTM-tagged Operator link. (open)
+- [ ] From Steward: Head tag source line and live counts for Observer pages, now (open)
+- [x] Steward: Pull ET timestamps for X posts 197, 198, 207 (done)
+- [ ] From Herald: Export last 7 days trader pain quotes from korvus channels. (open)
