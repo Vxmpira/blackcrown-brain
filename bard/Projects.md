@@ -1,11 +1,11 @@
 # Bard Projects
 
 ## Active
-- Operator 19:00 creative (korvus, video): filed with drafted overlay lines. Herald must confirm or replace with the locked lines in Herald Campaigns.md before render. Caption carries Illustration and not financial advice.
-- Herald Overlays pickup (korvus, video): Herald task open. Confirm the overlay file path and render schedule before any render. Lines in hand are the only lines used.
-- Leader and challenger hook clips (korvus, video): blocked on exact approved overlay lines from Herald. None guessed.
-- Crown Night Shift (FRESH): the earlier critic PASS is VOID. The latest director draft was truncated, and critic returned FIX on screen cues (chart lines, interface traces, glass reflections). Director re-tasked for a complete screen-free FRESH brief. Critic must review that exact text before filing.
-- Observer 10-29 11:00 direction (FRESH): director returned a complete three-shot draft. Critic must review the exact text. The interface-panel line in shot 2 is a screen risk and must be checked. Do not file while the 11:00 creative awaits owner ruling.
+- Operator annual overlays (korvus, video): Herald task 35af5f75 open. Need exact locked lines and Illustration panel mark before any render. No lines guessed.
+- Herald Overlays pickup (korvus, video): still open. Confirm overlay file path and render slot. Lines in hand are the only lines used.
+- Leader and challenger hook clips (korvus, video): blocked on exact approved overlay lines from Herald.
+- Crown Night Shift (FRESH): earlier PASS is VOID. Director rebuilding the complete screen-free brief into a vault note with the mood line and closing No Text Law line. Critic must review that exact text before filing.
+- Observer 10-29 11:00 direction (FRESH): critic returned FIX on 2026-10-28. Reason: raven silhouette is a brand mark risk. Director rewriting without raven, no screens, no visible branding. Critic re-review required before any filing. Do not file while the Observer 11:00 creative awaits owner ruling.
 - Watcher 3 a.m. clip: critic PASS on record. Render waits on Observer overlay lock and a render URL. No URL exists, none guessed.
 - Observer CTA overlay (held, locked): t0 d3 "The market keeps moving at 3 a.m."; t5 d4 "Korvus watches it while you sleep."; t11 d4 "korvus.industries". Caption held as drafted.
 - Korvus Observer X post, Observer 11:00 creative, Crown free tier X post: awaiting owner ruling. Do not refile.
@@ -16,9 +16,5 @@
 - A raven, crown, or house mark in frame is a brand mark risk. Remove before critic review.
 - Glass slabs or shards that can read as a display are a No Text Law risk.
 - Keyboards, keycaps, monitors with traces or grids, and visible interface panels are No Text Law risks. Use a dark window, a mug, a chair, or soft glow.
-- Colored traces that read as a price line are a chart risk. Use diffuse glow instead.
-- A critic PASS whose quoted text does not match the direction is void. Re-review the exact text.
-- A critic PASS without restated text is a FIX until the text is re-sent and matched.
-- A director return that cannot be resent verbatim is a re-task with a fresh brief, never a reconstruction.
-- A critic cannot restate a direction it never received.
-- A director return that is a fragment or lacks the closing No Text Law line is not fileable, re-task it.
+- Colored traces that read as a price line are a chart risk. Keep light abstract.
+- A director return that stops before the closing No Text Law line is a fragment. Request a verbatim resend before any critic review.

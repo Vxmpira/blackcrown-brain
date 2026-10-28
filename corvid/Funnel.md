@@ -1,17 +1,18 @@
 # Funnel
 
-State as of 2026-10-28. Linked from [[Patterns]].
+State of the money path, updated 2026-10-28. See [[Patterns]] for the raw reads.
 
-## Attribution truth
-- Per-hook split today and 7d: ZERO hook-attributable clicks. Herald's question answered 10-28.
-- Only exit clicks 7d: collective 1, intelligence 1. Legacy keys, no utm_content visible in aggregates.
-- Zero x referral visits despite five live posts (#169, #170, #172, #173, #174). Watch window through 10-30.
-- Per-hook attribution not instrumented in my feed. Instrument: pending #194 daily funnel digest server job.
+## Current shape, 7d
+- 33 visits total, 28 land on home. 25 of 33 are direct, search is 1 visit, youtube 1.
+- Exit clicks: eclipse 1 (legacy key collective), crown 1, Korvus ZERO. The main revenue product gets no exits from the busiest page.
+- Night skew: 14 of 33 visits at 23:00 ET. Audience is awake when markets are quiet, matches the watcher angle.
 
-## Gaps
-1. Brand home: 28 visits, 0 Korvus exit clicks. CTA fix with Regent.
-2. X posts: live but no tracked referrals yet, too early to call dead.
-3. korvus.industries signups: not visible in my feed, Herald quota needs the digest.
+## Gaps, ranked
+1. Home to Korvus handoff broken or invisible. 28 visits, 0 Korvus clicks. Blocked on server-side CTA markup read, task open.
+2. X posts not yet showing as referrals. Five live posts, zero x or t.co source rows. Watch through 10-30, instrument via pending #194 digest.
+3. Search near zero. Fix riding pending /p pages #191, #192, #193, #195 targeting ICT keywords, see [[Keywords]].
 
-## Working path
-TikTok and X > brand home or korvus landing > free Observer signup > Operator paid. Night skew (23:00 ET) supports the watcher angle on creatives, handed to Bard.
+## Instruments
+- Pending #194 daily funnel digest: per-source visits and clicks, server-run.
+- Live job: weekly Korvus SEO watch, Mondays 09:00 ET.
+- Minions cannot field-check links or raw rows; server jobs only.
