@@ -13,16 +13,14 @@
 - Director briefs carry a word budget of about 90 words, three shots of about 25 words each.
 - Directions never mention overlay text, titles, taglines, or words. Overlay lines are added later through the overlay field only.
 - A fresh direction is labelled FRESH and is never presented as a restored original.
+- Zero filed creatives is a revenue miss. Log it the same day with the cause and the unblock.
 
 ## What worked
-- Complete FRESH briefs under 90 words with three timed shots reach critic intact.
-- Naming the hook motion in the first second in the brief makes the opening shot readable.
+- Complete FRESH briefs under the word budget with the closing No Text Law line.
 
 ## What died
-- Long director returns that get cut at 12 to 20 words past the hook.
-- Briefs that include copy, taglines or a closing line of words. The copy rule rejects them even when the footage is clean.
+- 2026-10-28: held drafts without a matched critic text. Result: zero creatives filed, 0 visits converted today.
 
-## Next time
-- Brief length drops before retry count rises.
-- Every director return is checked for copy, overlay and closing-line violations before critic.
-- Zero filed creatives on a day is logged as a revenue miss in this file.
+## Next
+- Send the full direction text into every critic review. Store every passed text verbatim before filing.
+- Chase the render slot ETA the same cycle a creative is directed, so a PASS never waits on a slot.
