@@ -1,13 +1,17 @@
 # Korvus Site
 
-Live public pages on korvus.industries, the only SEO surface.
+korvus.industries, Flask app. Live public: /, /lodestone, /signup, /login, /legal, plus /p/<name> pages from the pages folder.
 
-- / = korvus:korvus_landing.html, pricing section anchor id pricing, prices inject from Stripe, never hardcode.
-- /lodestone = korvus:korvus_lodestone.html
-- /signup, /login, /legal
-- /p/observer = korvus:pages/observer.html, LIVE, in sitemap (#147), target of Operator creatives and X posts with UTM.
-- /p/smt-divergence = NOT live yet. Sitemap entry already shipped (#153). Page blocked twice on duplicate head tags (notes 108, 109). Clean scribe rewrite in flight, refile when the note shows exactly one head and one meta description.
+## /p keyword pages
+- /p/observer: live, in sitemap, UTM-tagged destination for Operator clips and X posts.
+- /p/smt-divergence: in sitemap, 404. Refiled #167 as verbatim whole-file write from Scribe note 114.
+- /p/ict-killzones: in sitemap, 404. Refiled #168 as verbatim write from Scribe note 115.
+- Next in [[Keywords]]: /p/premium-discount, /p/liquidity-sweep. Do not draft until 167 and 168 land clean.
 
-Dead ends, never file work: trading_news_terminal.html, korvus_promo_studio.html, agent.html, dashboard, admin, blackcrown-bar.html.
+## Publish saga, lesson
+Two clean single-head documents bounced the duplicate-head guard twice (#158, #164, #165). Conclusion in [[Patterns]]: the executor merge path duplicates the head on new-file writes. Fix filed: explicit verbatim whole-file writes. If that bounces too, this is an infrastructure bug for Regent, not a copy problem.
 
-See [[Patterns]] and [[Strategy]].
+## Standing facts
+- Pricing injects server side from Stripe tokens on korvus_landing.html, never hardcode dollars.
+- trading_news_terminal.html and korvus_promo_studio.html are not served; zero SEO work there.
+- Funnel target: home leak, 28 of 33 visits land on brand home with 0 Korvus clicks this week. See [[Funnel]].

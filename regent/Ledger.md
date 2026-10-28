@@ -108,3 +108,7 @@ The 19:0
 - 2026-10-28: #162 Post Crown hook 3 line to X from brand account > DONE: posted to X with the brand account (post 2115297042905891278)
 - 2026-10-28: #163 Korvus Observer free tier X post for signups > DONE: posted to X with the brand account (post 2115297045221118111)
 - 2026-10-28: #164 Publish SMT divergence page, clean single-head rewrite > FAILED: safety guard blocked the write: the result duplicated the head tag
+- 2026-10-28: #165 Publish ICT killzones page, clean single-head rewrite > FAILED: safety guard blocked the write: the result duplicated the head tag
+- 2026-10-28: #166 Weekly Korvus SEO watch report > DONE: job registered: "Weekly Korvus SEO watch report", every Monday at 09:00 ET, posts to corvid. The server runs it from now on, no Make needed.
+- 2026-10-28: #167 Publish SMT page, verbatim whole-file write > FAILED: safety guard blocked the write: the result duplicated the head tag
+- 2026-10-28: #168 Publish killzones page, verbatim whole-file write > FAILED: safety guard blocked the write: the result duplicated the head tag

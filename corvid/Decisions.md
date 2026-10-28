@@ -139,3 +139,7 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-28: [APPROVED] #162 Post Crown hook 3 line to X from brand account (via reaction)
 - 2026-10-28: [APPROVED] #163 Korvus Observer free tier X post for signups (via reaction)
 - 2026-10-28: [APPROVED] #164 Publish SMT divergence page, clean single-head rewrite (via reaction)
+- 2026-10-28: [APPROVED] #165 Publish ICT killzones page, clean single-head rewrite (via reaction)
+- 2026-10-28: [APPROVED] #166 Weekly Korvus SEO watch report (via reaction)
+- 2026-10-28: [APPROVED] #167 Publish SMT page, verbatim whole-file write (via reaction)
+- 2026-10-28: [APPROVED] #168 Publish killzones page, verbatim whole-file write (via reaction)
