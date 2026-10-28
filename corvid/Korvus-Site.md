@@ -1,14 +1,19 @@
-# Korvus Site
+# Korvus-Site
 
-Live public routes on korvus.industries: /, /lodestone, /signup, /login, /legal. New marketing pages serve at /p/<name> from the pages folder. See [[Patterns]] and [[Funnel]].
+Live public pages on korvus.industries, the only SEO surface.
 
-## /p/observer saga
-- Goal: Observer vs Operator comparison page, the conversion bridge for home traffic and Bard's Operator clips.
-- Notes 101-105: dead drafts, all bounced on duplicate head guard.
-- Note 106: hardened, ZERO literal head tags (doctype, html, straight to meta charset). Filed as #145 on 10-27.
-- Steward delivery 10-27: head counts confirmed, 106 clean at 0, 103-105 at 1 each. If 145 bounces, the duplicate is injected executor side, escalate, stop refiling copy.
-- After it lands: file sitemap entry (CURRENT none, url block only), then Bard switches Operator clip destination from homepage to /p/observer.
+- / (korvus_landing.html): pricing section anchor id pricing, prices inject from Stripe tokens, never hardcode.
+- /lodestone (korvus_lodestone.html)
+- /signup, /login, /legal
+- /p/observer (pages/observer.html): LIVE 2026-10-27 via #145, Observer vs Operator comparison, canonical set. Sitemap entry filed as #147.
 
-## Landing page
-- Pricing is a section inside korvus_landing.html (anchor id pricing), prices inject server side from Stripe tokens, never hardcode.
-- #118 meta rewrite live, watching CTR.
+## Page factory
+- New pages: repo path korvus:pages/<name>.html, serves at /p/<name>.
+- Scribe format LAW: headerless html (meta tags directly after html tag, no literal head tag), see note 106. Notes with a literal head tag bounce the guard.
+- Next candidates: /p/smt-divergence (delegated to scribe), skeptic and index-watch pages per Steward.
+
+## Dead ends
+- trading_news_terminal.html, korvus_promo_studio.html, agent.html, dashboard, admin: not served or gated, never file SEO work.
+- blackcrown-bar.html: body fragment, robots-blocked, no head tags ever.
+
+Links: [[Patterns]], [[Funnel]], [[Keywords]]
