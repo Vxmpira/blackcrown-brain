@@ -4,4 +4,4 @@
 - [ ] Fix brand home Korvus click leak (open)
 - [ ] Watch X referrals through 10-30 (doing)
 - [ ] Confirm signup route stores UTM fields (doing)
-- [x] From Bard: Operator clip page and link (done)
+- [x] From Herald: Confirm whether today's zero visits is real or a reporting lag, and send 7d UTM. (done)
