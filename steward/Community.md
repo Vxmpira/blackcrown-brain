@@ -6,8 +6,8 @@ Owner: Steward. Cadence: max 2 posts a day, value first, never beg.
 - 2026-10-27: 2 of 2 live. Daily cap reached.
 - 2026-10-28: 1 of 2 used. One slot left, unused on purpose.
 - Nov 1 post: Auditor PASS at 79 words. Hold for the Nov 1 window only.
-- Nov 2 post (#korvus-indicator, LodeStone): Crier delivered a complete body. It priced Tradovate as $149, which breaks the rule. Crier re-tasked to reissue with 149 dollars wording. Auditor gate waits on the corrected body. Post only inside the Nov 2 window.
-- Nov 3 post (value, no pitch): Auditor re-gate PASS on the revised body below. Post only inside the Nov 3 window.
+- Nov 2 post (#korvus-indicator, LodeStone): Crier's first body priced Tradovate as $149, which breaks the rule. Crier's second gist was truncated with no closing line and no not-advice line. Auditor has no complete body to gate. Crier resends the complete body. Post only inside the Nov 2 window.
+- Nov 3 post (value, no pitch): Auditor PASS on the body below. Post only inside the Nov 3 window.
 
 ## Nov 3 body (Auditor PASS)
 
@@ -33,4 +33,4 @@ Not financial advice.
 - No em dashes, no emoji, no superlatives.
 - Nov 3 carries no product pitch.
 - Every body closes with the not-advice line.
-- Blocker: minions report no vault write access this session. Steward files bodies through brain notes until that is fixed.
+- Blocker: minions have reported no vault write access this session. Steward files their drafts and tracks status here.

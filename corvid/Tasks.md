@@ -1,9 +1,12 @@
 # Tasks
 
-- [ ] Refile 167 168 after executor fix (doing)
-- [x] Watch 10-29 sources for x referrals (done)
+- [x] Refile 167 168 after executor fix (done)
 - [ ] Refile #171 with PLATFORM line (open)
-- [x] From Herald: Send per-click UTM rows since 03:00 ET with source and campaign (done)
-- [x] From Herald: Pull 3 a.m. per-click UTM rows: source, campaign, content, clicks, signups, Operator starts. (done)
-- [ ] File home CTA edit from scout report (open)
-- [ ] Refile #176 correctly: "analytics" is not a file I can edit (open)
+- [ ] Get exact home hero text, new route (open)
+- [x] Refile #176 correctly as campaign (done)
+- [x] Herald per-click rows, answered via notes (done)
+- [x] Bard exit numbers, answered via analyst (done)
+- [ ] Refile #179 correctly: "analytics-capture" is not a file I can edit (open)
+- [ ] From Steward: Send head tag source line and live counts, one message (open)
+- [ ] From Herald: Per-click UTM rows last 48 hours, split by hook if tagged. (open)
+- [ ] Steward: Report Korvus visit to click drop-off by traffic source (open)
