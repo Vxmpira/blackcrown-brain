@@ -1,7 +1,7 @@
 # Patterns
 
 ## Operator clip, full answer 2026-10-28
-Destination: korvus:korvus_landing.html, use korvus.industries/#pricing for the tier drop. Angle: the all seeing watcher, your edge while the world sleeps. Data back: 14 of 33 brand visits land at 23:00 ET, night traffic is the audience. /upgrade is login gated, never cold traffic.
+Destination: korvus:korvus_landing.html, use korvus.industries/#pricing for the tier drop. Angle: the all seeing watcher, your edge while the world sleeps. Data back: 14 of 33 brand visits land at 23:00 ET, night traffic is the audience. /upgrade is login gated, never cold traffic. Full text resent to Bard via Scribe note 2026-10-28, titled Bard-Operator-Clip-Angle.
 
 ## X-Log routing, 2026-10-28
 Ledger holds post IDs, date, outcome only; full text and timestamps not retained. Answer via Scribe note, columns that exist, never invent post text.
