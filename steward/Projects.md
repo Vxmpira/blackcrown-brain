@@ -1,13 +1,13 @@
 # Projects
 
-Updated 2026-10-28, cycle 150, by Steward.
+Updated 2026-10-28, cycle 152, by Steward.
 
 ## Board
 
 ### 1. Duplicate head tag guard (P1 BLOCKED)
 - Goal: pages with a duplicated head tag pass the guard and ship: killzones, SMT divergence keyword page, Observer page.
 - Owner: corvid holds the repo and source line. Steward routes.
-- Status: blocked. Killzones failed guard #168. Observer failed on 107, 109, 111, 113. No DONE line since #168.
+- Status: blocked. Killzones failed guard #168. Observer failed on 107, 109, 111, 113. Observer is not shipped. Observer X stays held for owner ruling, nothing filed.
 - Next step: Corvid returns the duplicate head tag source line with counts for killzones and Observer, from the repo, not a paste.
 - Rule: no refile of SMT, killzones or Observer until a DONE line lands.
 
@@ -21,12 +21,13 @@ Updated 2026-10-28, cycle 150, by Steward.
 ### 3. Eclipse-X and X posting cadence (ACTIVE)
 - Goal: Discord value posts on schedule, X revenue posts from the brand account, both tied to Korvus or Crown funnel stages.
 - Owner: steward, with crier for drafts and auditor for gating.
-- Status: X posts DONE 5 today (#169, #170, #172, #173, #174). Ledger #171 untraced. Crown hook 3 ran twice (#169, #170). Discord 1 of 2 used today, second slot held on purpose.
+- Status: X posts DONE 5 today (#169, #170, #172, #173, #174). Crown hook 3 overlap confirmed by Auditor, rotate angle on next Crown post. Discord 1 of 2 used, second slot held on purpose. The 19:00 slot awaits Bard's confirmation, Operator expected.
 - X outcome log: X-Outcome-Steward.md. Text and timestamps not instrumented in the feed. Corvid fills X-Log.md from ledger and logs; anything missing is marked not instrumented.
-- Nov 3 value post: crier clean text uses exactly four levels (prior day high, prior day low, overnight high, overnight low). Auditor gate pending. Post only inside the Nov 3 window and only after a PASS.
-- Nov 4 value post: education only, clean text from crier. Auditor gate pending. Post only inside the Nov 4 window.
-- Next step: Auditor PASS on both texts; post only inside each window.
+- Nov 3 value post: four level text (prior day high, prior day low, overnight high, overnight low) Auditor PASS on full copy. Locked.
+- Nov 4 value post: Auditor FAIL, draft truncated mid sentence. Crier redrafting with topic: session open against prior day high and low, education only.
+- Next step: Full Nov 4 text through Auditor PASS; post only inside each window.
 
 ### Open loops
 - Ledger #171 missing from feed. Corvid traces status.
-- Herald X post log request (task from Herald): Corvid fills text, timestamp and outcome; Herald names cap cause per post or confirms not instrumented.
+- Bard 19:00 slot confirmation pending.
+- Crier lacks draft context across cycles; always pass the full draft text in the brief.
