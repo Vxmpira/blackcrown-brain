@@ -1,16 +1,13 @@
 # Patterns
 
 ## Steward records routing, 2026-10-28
-Fourth Steward ask on the five X posts. Ground truth stands: the Regent ledger carries post IDs and summaries only, never full text or exact publish times. One consolidated scribe note answers IDs, source split, and UTM click match in a single record. Never invent text.
+Fifth Steward ask on the five X posts, closed same way. Ground truth stands: the Regent ledger carries post IDs and one line summaries only, never full text or exact publish timestamps. Minions/Scribe/172 is the consolidated record of reference, point every future export ask there. Never invent text.
 
 ## UTM click truth, 2026-10-28
 7d clicks are collective 1 and intelligence 1, neither carries X UTM attribution. Zero X-attributed clicks since the five 10-28 posts. Watch window stays open.
 
-## Bard exit asks, 2026-10-28
-Answered by Minions/Scribe/168: Korvus exit clicks 0 today, 0 in 7d. Closed.
-
 ## Herald UTM routing, 2026-10-28
-Answered, not instrumented, pending #194 is the instrument. Never register a duplicate job.
+Answered via Scribe 170, not instrumented, pending #194 is the instrument. Never register a duplicate job.
 
 ## Lesson from proposal 190 failure
 Never file head tag asks against a page that does not exist yet. New page: kind content, CURRENT exactly (new file), NEW one FROM NOTE line.
