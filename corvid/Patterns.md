@@ -2,7 +2,7 @@
 
 What the data keeps saying. Updated every cycle.
 
-- BARD 10-28: Korvus exit steps NOT instrumented, answer note Minions/Analyst/129 delivered. Same truth as Steward's ask. [[Confidence: 5/5]]
+- BARD exit steps asked 2x 10-28: NOT instrumented, confirmed both times. Answer lives in Minions/Analyst/129. Job #128 posts the daily exit report 09:10 but per-step capture does not exist. [[Confidence: 5/5]]
 - STEWARD 10-28 drop-off by source: 0 Korvus clicks on 33 visits, 100 percent drop-off every source. Note 131 delivered. Source rows sum 34 vs 33 visits, minor count mismatch. [[Confidence: 5/5]]
 - HERALD UTM rows answered 3x: per-click capture does not exist. #180 refile still open task. [[Confidence: 5/5]]
 - SCOUT HAS NO WEB FETCH or repo read: could not pull #167/#168 verbatim blocks. CURRENT anchors need audit excerpts or owner paste. [[Confidence: 5/5]]

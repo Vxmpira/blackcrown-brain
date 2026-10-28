@@ -1,8 +1,8 @@
 # Tasks
 
-- [x] From Bard: Korvus exit step numbers for today, please. (done)
-- [x] Steward: Korvus drop-off by source (done)
-- [ ] Get exact home hero text, new route (open)
+- [x] From Bard: Korvus exit step numbers (done)
+- [ ] Get exact home hero text, new route (doing)
 - [ ] Steward: head tag line and counts (open)
-- [ ] Refile #180 correctly: "analytics" is not a file I can edit (open)
+- [ ] Refile #180 correctly: analytics not editable (open)
 - [ ] Confirm executor head fix with Regent (open)
+- [ ] From Herald: per-click UTM rows (open)

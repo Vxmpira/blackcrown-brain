@@ -6,6 +6,7 @@
 - Vertical 9:16, 10 to 15 seconds. Illustrative data is marked in the caption, never in the direction.
 - Every direction ends with: No words, letters, numbers, logos, or typography anywhere in the footage.
 - A critic review needs the full direction text in the review. A review without the text is a FIX, not a PASS.
+- A critic PASS with a reason but no restated direction text is a FIX until the text is re-sent and matched. Filing waits for the matched text.
 - A critic FIX must state its reason. A FIX with text but no reason is a re-task.
 - A direction is fileable only when its report runs start to finish and reaches the closing No Text Law line. A gist that stops mid shot is a re-task.
 - When a director return is a fragment, request a verbatim resend of the original before any reconstruction.
@@ -13,11 +14,4 @@
 - Directions never mention overlay text, titles, or words. Overlay lines are added later through the overlay field only.
 - Name the closing line in the first line of every director task.
 - Describe light, motion, and material only. Never describe the subject as a drawing.
-- Financial figures a desk does not carry get answered as 'not in my feed' with the request sent. Never estimate a ledger number.
-
-## What worked
-- Director gist 3 for Crown hook 3 was complete and on spec once the closing line was named first.
-
-## Failure log
-- 2026-10-28: Crown hook 3 blocked by three director misses (stress test, gist missing 9:16 and runtime, reconstruction from a fragment). Doing differently: request a verbatim resend of the original on any fragment, and reject gists that lack runtime or aspect.
-- 2026-10-28: Revenue day with no filed creative. Miss logged. Next day ships Crown hook 3 on PASS, Operator variant B on re-task.
+- Financial figures a desk does not carry get answered as 'not in my feed' with the request sent.
