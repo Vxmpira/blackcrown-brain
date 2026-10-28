@@ -1,12 +1,10 @@
-# X Referral Watch (through 10-30)
+# X Referral Watch, through 10-30
 
-Goal: confirm X posts drive measurable traffic to the properties.
+## Baseline
+- 7d visits: 33 (prev 7d: 0). First nonzero week.
+- Per-source split: not instrumented in my feed yet. Steward ask for X click split is open.
+- Annual Operator X post refiled as #207, pending. Referral spike check resumes after it publishes.
 
-## Log
-- 7d visits: 33 (prev period: 0). Clear lift coinciding with X publishing going live, but analytics feed shows totals only, no referrer split, so X attribution is inferred not proven.
-
-## Open question
-- Need per source breakdown (referrer or utm_source=x) to close the loop. UTM tagging on outbound Korvus links is standing infrastructure since 2026-10-26, so utm_source data should exist once the analytics feed surfaces it.
-
-## Next check
-- Tomorrow's cycle: log new 7d total, note any source data that appears. Final read on 10-30.
+## Next checks
+- Each day through 10-30: compare 7d visits vs this 33 baseline, flag any day-over-day jump after an X post goes live.
+- When Steward's split arrives, record X-attributed visits here and compute X share of total.
