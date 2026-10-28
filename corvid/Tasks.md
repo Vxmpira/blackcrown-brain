@@ -1,6 +1,7 @@
 # Tasks
 
-- [ ] Refile SMT and killzones after executor fix (doing)
+- [x] Refile SMT and killzones after executor fix (done)
+- [x] Refile #190 correctly as page creation (done)
 - [ ] File liquidity-sweeps page when unblocked (doing)
 - [ ] Herald: UTM click split after instrumentation (open)
-- [x] From Bard: Korvus exit and click numbers for today and the 7 day window. (done)
+- [ ] File sitemap entries once /p pages live (open)
