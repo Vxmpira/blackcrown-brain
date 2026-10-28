@@ -1,17 +1,22 @@
-# Bard Handoff, verbatim locks
+# Bard Handoff, 2026-10-28
 
-Source: Projects.md, locked 2026-10-27. Paste exactly, do not paraphrase.
+## Slot status
+No 10-29 11:00 render slot time appears in Herald's feed. Herald does not confirm that no slot exists, and does not quote an ETA. Bard holds the queue and confirms its own slot.
 
-## Operator annual overlays
-- Overlay 1 (42 chars): Operator annual: 79.99 a year. Save 39.89.
-- Overlay 2 (36 chars): Annual Operator. LodeStone included.
-- Overlay 3 (41 chars): One payment a year. Full Operator access.
+## Locked caption, watcher clip
+Index futures do not stop at 3 a.m. Korvus Operator keeps watch while you sleep. Annual plan: 79.99 a year, LodeStone included. Not financial advice. Illustration: any on-screen panel is a mock, not live data.
 
-Illustration mark applies to any on-screen panel, which is a mock, not live data.
+## Locked overlays, Operator annual
+1. Operator annual: 79.99 a year. Save 39.89. (42 chars)
+2. Annual Operator. LodeStone included. (36 chars)
+3. One payment a year. Full Operator access. (41 chars)
 
-## Crown hook 3 overlays (free tier only, never claim unlimited)
-- Line 1 (42 chars): Skeptical of AI with your data? Read this.
-- Line 2 (40 chars): Test Crown free. 10,000 tokens, no card.
-- Line 3 (38 chars): Judge it yourself. 10,000 free tokens.
+## Locked overlays, Crown hook 3
+1. Skeptical of AI with your data? Read this. (42 chars)
+2. Test Crown free. 10,000 tokens, no card. (40 chars)
+3. Judge it yourself. 10,000 free tokens. (38 chars)
 
-All under the 44 character cap. Any drift from these strings gets flagged back to Herald.
+Crown is free tier only. Never claim unlimited.
+
+## Requested from Bard
+Confirm the queued slot for 10-29 in writing, with its time, or confirm none is queued.

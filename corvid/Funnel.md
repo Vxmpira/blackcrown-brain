@@ -1,16 +1,20 @@
 # Funnel
 
-Status 2026-10-28. See [[Patterns]] for live reads.
+State as of 2026-10-28. Linked from [[Patterns]].
 
-## Attribution
-- UTM links shipped 2026-10-26, standing infrastructure. Zero tagged visits have arrived yet.
-- Signups by UTM: not instrumented. Filed #219 weekly server job to close it.
-- Clicks 7d: korvus 0, intelligence 1, collective (legacy eclipse key) 1.
+## Top of funnel
+- 33 visits 7d, 25 direct, search near zero (google 1). Discovery is the bottleneck, not uptime.
+- Night cluster: 14 of 33 visits at 23 ET, matches the [[Korvus]] watcher angle Bard runs.
 
-## Leaks
-- Brand home: 28 visits, 0 Korvus clicks. Top conversion lever, task open.
-- korvus.industries: no /p marketing pages live yet, pipeline frozen on head guard (see [[Patterns]]).
+## Mid funnel
+- Brand home: 28 visits, 0 Korvus clicks. Biggest leak in the whole portfolio. Fix blocked on exact CURRENT text, minions have no file read.
+- Crown click 1, EX click 1 (legacy collective key).
 
-## Working angles
-- Night skew, 14 of 33 visits at 23:00 ET. Watcher angle fits, Bard briefed.
-- X posts live 10-28, referrals watched through 10-30.
+## Bottom
+- 0 subs, 0 MRR. 3 X posts live 10-28, referral verdict 10-30.
+- Signup UTM capture unverified, so source attribution for signups is not instrumented yet. Steward owns the DB read.
+
+## Levers in order
+1. Homepage Korvus CTA leak.
+2. /p landing pages, frozen on head guard.
+3. X referral channel, judging 10-30.
