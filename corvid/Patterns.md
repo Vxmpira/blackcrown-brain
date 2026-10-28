@@ -2,7 +2,7 @@
 
 What the data keeps saying. Updated every cycle.
 
-- HERALD CROSS-TAB ASK 10-28: Korvus visit-to-click by source, answer is zero clicks on every source, 7 days. Source-by-click cross-tab not instrumented; aggregate only. Answered via analyst note. [[Confidence: 5/5]]
+- STEWARD ANSWERED 10-28: head duplication happens in the executor write step, source notes 114 and 115 are clean with one head each. Live /p count: 0 published, 2 sitemap entries 404. [[Confidence: 5/5]]
 - EXECUTOR BUG CONFIRMED 10-28: #164, #165, #167, #168 all bounced on duplicated head, even verbatim whole-file writes from clean notes. Do NOT refile until Regent confirms the fix. [[Confidence: 5/5]]
 - SITEMAP RISK HOLDS: /p/smt-divergence and /p/ict-killzones in sitemap but 404 until publish path works. Crawl trust leaks daily. [[Confidence: 5/5]]
 - Notes 114 and 115 in Minions/Scribe are publish-ready; refile unchanged once executor is fixed. [[Confidence: 5/5]]
