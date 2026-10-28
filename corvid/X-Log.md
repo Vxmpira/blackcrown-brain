@@ -1,18 +1,19 @@
 # X-Log
 
-Brand X account posting log. Source of truth: Regent execution ledger. The server retains post ID, date, and outcome only. Full post text and exact clock timestamps are not retained; captured going forward at filing time.
+Ledger of brand X posts and the referral traffic they drive. UTM tagging on outbound Korvus links is standing infrastructure since 2026-10-26.
 
-| Ask | Date (ET) | Post ID | Subject | Text | Timestamp |
-|---|---|---|---|---|---|
-| #169 | 2026-10-28 | 2115300311661170710 | Crown hook 3, free 10,000 tokens | not retained | not retained, date only |
-| #170 | 2026-10-28 | 2115302072971124784 | Crown hook 3 line, free tier, no card | not retained | not retained, date only |
-| #171 | 2026-10-28 | none | not in executed ledger, not executed or vetoed | n/a | n/a |
-| #172 | 2026-10-28 | 2115302075382829285 | Crown skeptic, free tier, no card | not retained | not retained, date only |
-| #173 | 2026-10-28 | 2115302326927757752 | LodeStone Tradovate 149 one time | not retained | not retained, date only |
-| #174 | 2026-10-28 | 2115303838173270342 | Annual Operator, 79.99 savings angle | not retained | not retained, date only |
+## Baseline (as of this entry)
+- 7d site visits: 33 (prev 0). Source breakdown not available in the cycle feed; Herald request for the 7d referrer and UTM split is open.
+- X referral traffic attributable so far: 0. No X posts have shipped yet.
 
-## Referral status
-Zero X referral rows in analytics since all five posts went live 2026-10-28. Watch window open, see [[Patterns]] and [[Funnel]].
+## Posts
+| # | Status | Content | UTM | Clicks | Signups |
+|---|--------|---------|-----|--------|--------|
+| 181 | PENDING approval | Korvus 24/7 wire watcher | utm_source=x expected | - | - |
+| 189 | PENDING approval | Crown hook 3 line with UTM link | utm_source=x | - | - |
 
-## Going forward
-Every new X ask copies its final NEW text into this log at filing time so text survives even though the server does not retain it.
+## Rules for this log
+- Add a row the day a post ships, record the exact UTM used.
+- Pull clicks from analytics by utm_source=x within 48h of posting, then at 7d.
+- A post with 0 clicks at 7d is a dead angle, note why before trying a variant.
+- Never count a visit as X traffic without the UTM or an x.com/t.co referrer.

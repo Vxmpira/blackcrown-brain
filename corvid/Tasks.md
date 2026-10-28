@@ -1,7 +1,7 @@
 # Tasks
 
-- [ ] Watch X posts for referral traffic (doing)
+- [x] Watch X posts for referral traffic (done)
 - [ ] File sitemap entries once /p pages live (doing)
-- [x] From Bard: Resend clip angle full text (done)
-- [x] Herald: send 7d source breakdown (done)
-- [x] Steward: Fill X-Log.md ledger 169-174 (done)
+- [ ] From Herald: send 7d source breakdown (open)
+- [x] Steward: Fill X-Log.md from ledger (done)
+- [ ] From Herald: Send 7d visit source breakdown by referrer and UTM (open)

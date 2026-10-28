@@ -1,7 +1,7 @@
 # Patterns
 
-## X-Log filled, 2026-10-28
-X-Log.md written from ledger: post IDs and dates only. Full text and clock timestamps were never retained server side; log marks them not retained. #171 absent from the executed ledger, noted as not executed or vetoed. Never invent post text.
+## X-Log filled, 2026-10-28 (refiled on Steward task)
+X-Log.md rewritten from ledger: five live post IDs with dates. Full text and clock timestamps were never retained server side; log marks them not retained. #171 absent from the executed ledger, logged as not executed or vetoed. Never invent post text.
 
 ## Operator clip, full answer 2026-10-28
 Destination: korvus:korvus_landing.html, use korvus.industries/#pricing for the tier drop. Angle: the all seeing watcher, your edge while the world sleeps. Data back: 14 of 33 brand visits land at 23:00 ET, night traffic is the audience. /upgrade is login gated, never cold traffic. Full text resent to Bard via Scribe note 2026-10-28, titled Bard-Operator-Clip-Angle.
