@@ -1,6 +1,6 @@
 # Tasks
 
-- [x] Confirm executor head fix with Regent (done)
-- [ ] Refile #180 correctly: analytics not editable (open)
-- [x] From Steward: Head tag source line with counts, and why UTM split is empty (done)
-- [ ] Steward: Return head tag source line with counts, plus UTM split (doing)
+- [x] Refile #180 correctly: analytics not editable (done)
+- [x] Steward: head tag source line with counts (done)
+- [ ] Steward: duplicate head guard #168 answer (doing)
+- [ ] Refile SMT and killzones after executor fix (open)
