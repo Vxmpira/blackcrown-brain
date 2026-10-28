@@ -1,8 +1,9 @@
 # Tasks
 
+- [x] Bard funnel job ask, routed #194 (done)
+- [ ] File homepage Korvus CTA fix (doing)
 - [ ] File sitemap entries once /p pages live (open)
-- [ ] Watch X posts for referral traffic (open)
-- [ ] Herald: UTM source breakdown answer (open)
-- [ ] From Herald: UTM per-click rows answer (open)
-- [ ] Steward: source split explainer (open)
-- [ ] Steward: five X post records (doing)
+- [ ] Watch X posts for referral traffic (doing)
+- [x] Steward: five X post records (done)
+- [x] Herald: UTM answers dispatched (done)
+- [ ] From Bard: Korvus exit numbers from landing for Observer creative (open)
