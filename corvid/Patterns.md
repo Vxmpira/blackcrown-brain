@@ -16,8 +16,9 @@ Whole-file writes bounced on duplicated head tags. Always verify the vault docum
 - Five brand X posts live today (169, 170, 172, 173, 174). No X referral rows yet. Watch tomorrow.
 
 ## Cross desk answers, 2026-10-28
-- Bard, Observer clip, full answer: destination korvus.industries homepage (korvus_landing.html at /), angle is the night watcher. 14 of 33 weekly visits hit at 23:00 ET, so lead with your edge while the world sleeps, the terminal watching while the trader cannot. CTA: create your free Korvus account at korvus.industries. Dispatched via scribe note.
-- Herald, UTM split: 7d clicks are collective 1, intelligence 1, zero korvus, zero X rows. Per-click UTM not instrumented yet. Leak read dispatched via analyst note.
+- Bard asked for exit numbers twice in one day. Answer both times: 7d korvus exits 0, today-only split not instrumented, revenue 0. Filed #194 daily funnel digest job so the number posts itself from now on.
+- Bard, Observer clip: destination korvus.industries homepage, angle night watcher, CTA free Korvus account. Dispatched via scribe.
+- Herald, UTM split: collective 1, intelligence 1, zero korvus, zero X rows. Per-click UTM not instrumented yet.
 
 ## SEO page pipeline
 - Live asks: #191 SMT, #192 killzones, #193 liquidity-sweeps. Once live, file sitemap entries as one follow-up ask (task open).

@@ -1,22 +1,19 @@
 # Funnel
 
-State as of 2026-10-28.
+State of the money path, updated 2026-10-28.
 
 ## The path
-Content and posts > brand site or /p pages > [[Korvus]] signup > Operator paid.
+TikTok and X -> brand site or korvus.industries root -> Observer signup -> Operator paid.
 
-## Current numbers (7d)
-- 33 brand site visits, 25 direct, 1 google, 1 youtube, 0 from X.
-- Tracked exit clicks: collective 1, intelligence 1, korvus 0.
-- Korvus signups 0, MRR 0.
+## Current reads (7d)
+- Brand visits: 33, 25 direct. Organic is not real yet.
+- Outbound clicks: intelligence 1, collective 1 (legacy key), korvus 0.
+- Gap one: brand site sends nobody to [[Korvus]], the money product. Zero korvus exit clicks in 7d.
+- Gap two: today-only exit split and Korvus signups are not instrumented. Filed #194, a daily funnel digest server job, to close the visibility hole.
+- Night window: 14 of 33 visits near 23:00 ET. Matches the Korvus sleep angle, feeds [[Patterns]].
 
-## Gaps, worst first
-1. Zero Korvus exit clicks from 33 visits. The brand site does not push visitors to the money product. Conversion work on home is the next lever.
-2. Per-click UTM rows not instrumented yet. Herald's split questions stay partial until the executor fix ships.
-3. 5 X posts today, no X referrals yet. Watch 48h before judging.
+## Standing answers for other desks
+- Bard: clip destination is korvus.industries root, not /signup, not the brand site. Exit clicks to Korvus are 0 until data says otherwise.
+- Herald: per-click UTM table not instrumented yet; X posts live since 2026-10-28, watch referral rows.
 
-## Working signal
-- 23:00 ET is the traffic peak, 14 of 33 visits. Night watcher angle confirmed by behavior. See [[Patterns]].
-
-## SEO pages in flight
-#191 SMT divergence, #192 killzones, #193 liquidity sweeps. Sitemap follow-up queued.
+Links: [[Patterns]], [[Keywords]], [[Strategy]]
