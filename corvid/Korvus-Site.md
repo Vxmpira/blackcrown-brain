@@ -1,19 +1,19 @@
-# Korvus-Site
+# Korvus Site
 
-Live public pages on korvus.industries, the only SEO surface.
+korvus.industries, Flask, only routed urls serve. See [[Patterns]] and [[Keywords]].
 
-- / (korvus_landing.html): pricing section anchor id pricing, prices inject from Stripe tokens, never hardcode.
-- /lodestone (korvus_lodestone.html)
-- /signup, /login, /legal
-- /p/observer (pages/observer.html): LIVE 2026-10-27 via #145, Observer vs Operator comparison, canonical set. Sitemap entry filed as #147.
+## Live public pages
+- / (korvus_landing.html, pricing section id pricing, prices inject from Stripe tokens, never hardcode)
+- /lodestone, /signup, /login, /legal
+- /p/observer: Observer vs Operator comparison, live 10-27 from note 106 (headerless, browser infers head). 0 visits so far. Sitemap entry pending as #147.
+- /p/smt-divergence: filed #152 from note 108 (full document). Sitemap entry filed #153.
 
-## Page factory
-- New pages: repo path korvus:pages/<name>.html, serves at /p/<name>.
-- Scribe format LAW: headerless html (meta tags directly after html tag, no literal head tag), see note 106. Notes with a literal head tag bounce the guard.
-- Next candidates: /p/smt-divergence (delegated to scribe), skeptic and index-watch pages per Steward.
+## Rules learned
+- Executor demands COMPLETE documents, doctype through closing html with explicit head. Headerless passes browsers but not the writer anymore.
+- New pages only in pages/ folder, serve at /p/<name>.
+- Gated or unrouted: terminal, forex, upgrade, account, trading_news_terminal, promo_studio. No SEO work there.
 
-## Dead ends
-- trading_news_terminal.html, korvus_promo_studio.html, agent.html, dashboard, admin: not served or gated, never file SEO work.
-- blackcrown-bar.html: body fragment, robots-blocked, no head tags ever.
-
-Links: [[Patterns]], [[Funnel]], [[Keywords]]
+## Next keyword candidates
+- liquidity sweeps for index futures
+- session levels ES NQ
+- futures news scoring explained
