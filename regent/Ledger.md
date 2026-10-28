@@ -89,3 +89,5 @@ The 19:0
 - 2026-10-27: #141 Post Crown hook 3 to X from the brand account today > DONE: posted to X with the brand account (post 2115241663354282253)
 - 2026-10-27: #142 Crown hook 3 X post, free tier, no card > DONE: posted to X with the brand account (post 2115243425586913344)
 - 2026-10-27: #144 Crown skeptic hook post to X today > DONE: posted to X with the brand account (post 2115243428556460364)
+- 2026-10-27: #145 Observer vs Operator page from clean note 106 > DONE: pages/observer.html updated live (new page created). repo committed and pushed.
+- 2026-10-27: #146 LodeStone Tradovate 149 one time X post > DONE: posted to X with the brand account (post 2115264325313085667)
