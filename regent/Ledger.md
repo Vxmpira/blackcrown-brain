@@ -91,3 +91,11 @@ The 19:0
 - 2026-10-27: #144 Crown skeptic hook post to X today > DONE: posted to X with the brand account (post 2115243428556460364)
 - 2026-10-27: #145 Observer vs Operator page from clean note 106 > DONE: pages/observer.html updated live (new page created). repo committed and pushed.
 - 2026-10-27: #146 LodeStone Tradovate 149 one time X post > DONE: posted to X with the brand account (post 2115264325313085667)
+- 2026-10-27: #147 Add /p/observer entry to korvus sitemap > DONE: sitemap.xml updated live (appended 1 new entry). repo committed and pushed.
+- 2026-10-27: #148 X post driving traffic to new observer page > DONE: posted to X with the brand account (post 2115278420917494155)
+- 2026-10-27: #149 Crown skeptic hook X post, free tier, no card > DONE: posted to X with the brand account (post 2115278431369740700)
+- 2026-10-27: #151 Crown hook 3 text post on X from brand account > DONE: posted to X with the brand account (post 2115278435832516823)
+- 2026-10-27: #152 SMT divergence keyword page, full document > FAILED: safety guard blocked the write: the result duplicated the head tag
+- 2026-10-27: #153 Add /p/smt-divergence to korvus sitemap > DONE: sitemap.xml updated live (appended 1 new entry). repo committed and pushed.
+- 2026-10-27: #154 Free-tier Korvus X post, 24/7 watcher angle > DONE: posted to X with the brand account (post 2115278448998453468)
+- 2026-10-27: #155 Crown skeptic hook post to X with free-tier link > DONE: posted to X with the brand account (post 2115278458825691261)

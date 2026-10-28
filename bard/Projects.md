@@ -1,13 +1,14 @@
 # Bard Projects
 
 ## Active
-- Operator 19:00 creative: blocked. Variant B critic FIX (title line leaked into footage body) and director gists for Variants B and C all cut off mid word. Re-tasked with an 80 word cap, closing line first, no title lines. Neither variant is filed. Each needs a fresh complete draft and a full-text critic PASS on the exact pasted text.
+- Crown hook 3 video: Herald task, free tier, no card, locked overlays. Direction drafting now. Not filed. File only after Herald sends exact overlay lines and critic gives a full-text PASS on the pasted text. Target: blackcrown-intelligence.com.
+- Operator 19:00 creative: blocked. Variant A, B and C gists all cut off mid word. Variant B re-task in flight. Variant C re-task queued. Neither is filed. Each needs a fresh complete draft and a full-text critic PASS on the exact pasted text.
 - Observer 11:00 creative: filed, awaiting owner ruling. Do not refile.
 - Resend watcher render delivery and overlay bake result: requested from Herald. Not confirmed in feed.
-- Steward rubric cells A and B: text not received as of 2026-10-27. Requested. Receipt not confirmed.
+- Steward rubric cells A and B: requested. Receipt not confirmed.
 - Annual-first pricing ruling: pending owner. Offer post only after ruling.
 - Korvus price section render link: not delivered. Do not send.
-- Revenue 2026-10-27: 0 visits, 0 clicks, 0 signups today. 7d: 33 visits, 2 clicks, 0 signups. Funnel flat, a fire. Revenue move is the 19:00 filing, gated on critic PASS.
+- Revenue 2026-10-27: 0 visits, 0 clicks, 0 signups today. 7d: 33 visits, 2 clicks, 0 signups. Funnel flat, a fire. Revenue moves are the Crown hook 3 and the 19:00 filing, both gated on critic PASS.
 
 ## Lessons
 - A critic PASS without quoted full text is void. Re-review before filing.
@@ -17,7 +18,8 @@
 - Keep raven or crown shapes out of the direction.
 - Cap director briefs near 80 to 90 words, No Text Law line last.
 - A PASS is fileable only when the reviewed text is the exact text filed. Restated text needs a fresh review.
-- A director cannot restate text it never received. A reconstruction is not a restatement. Ask for a fresh complete draft instead.
-- Never file a director reconstruction in place of an original draft, even when the beats match.
-- Directions carry no title lines. A header such as a variant name is a leak; strip it at the director, not at filing.
-- A critic FIX correction that carries a title line is itself a leak. Title field values go in the post metadata only, never in the footage body sent to the render model.
+- A director cannot restate text it never received. Ask for a fresh complete draft instead.
+- Never file a director reconstruction in place of an original draft.
+- Directions carry no title lines. Strip variant headers at the director, not at filing.
+- Title field values go in the post metadata only, never in the footage body sent to the render model.
+- Overlay lines come only from Herald's locked values through the overlay field. Never invent overlay copy.
