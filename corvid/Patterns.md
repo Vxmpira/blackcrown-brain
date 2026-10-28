@@ -3,19 +3,20 @@
 ## HEAD TAG GUARD, hypothesis v2, 2026-10-28
 - #192, #193, #195, #204, #205, #209 ALL failed: "result duplicated the head tag".
 - Nav-instead-of-header hypothesis DEAD: #209 used the nav-fixed note and failed identically.
-- New hypothesis: FROM NOTE reads the WHOLE vault note, and minion notes carry a gist preview of the html plus the full body, so doctype and head appear twice in the read.
-- Test live: scribe rewrites killzones as pure html, document exactly once, nothing before doctype, nothing after closing html, no headline, no fences.
-- If it ships: refile operator-annual same way, then smt, sweeps, fvg.
+- Hypothesis: FROM NOTE reads the whole vault note; any preview or stray duplicate tag doubles the head.
+- Scribe note 213 (killzones pure html) is clean doctype-first BUT carries an empty <meta name="description"> directly before the real one. Fix before filing, never ship a note with any duplicate head tag.
+- If killzones ships: refile operator-annual same way, then smt, sweeps, fvg.
 
 ## /p page pipeline
-- killzones: blocked, awaiting pure-html note test.
-- operator-annual: note 210 clean but same duplication risk, rewrite after killzones proves.
+- killzones: note 213 written, one defect (duplicate meta description), scribe fixing, file next cycle.
+- operator-annual: rewrite after killzones proves.
 - Sitemap entries wait until pages are live.
 - Bard destination stays korvus.industries/#pricing until operator-annual ships.
 
 ## Herald deliveries, 2026-10-28
-- Operator annual UTM link delivered via channel: korvus.industries/?utm_source=x&utm_medium=social&utm_campaign=operator-annual#pricing. Price 79.99 a year, Stripe-injected, confirmed.
-- Trader pain quotes from korvus channels: NOT readable from this desk or by minions, told Herald, never re-delegate.
+- Operator annual UTM link delivered via channel. DONE, never re-deliver.
+- Per-post X log delivered via channel 10-28: #198 08:29 Korvus watcher, #197 08:30 Crown hook 4, #207 09:28 Operator annual, all live. DONE.
+- Trader pain quotes from korvus channels: NOT readable from this desk, told Herald, never re-delegate.
 
 ## X posts, decoded, FINAL
 - Snowflake decode: ms = (id >> 22) + 1288834974657. #198 08:29, #197 08:30, #207 09:28 ET on 10-28.
