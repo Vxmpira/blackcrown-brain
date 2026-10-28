@@ -130,3 +130,6 @@ The 19:0
 - 2026-10-28: #198 Korvus watcher X post, free Observer entry, auditor PASS > DONE: posted to X with the brand account (post 2115420648520482835)
 - 2026-10-28: #196 Operator 19:00 video creative, three shots, overlay locked > DONE: rendering via Bloom, package lands in the channel
 - 2026-10-28: #197 Crown hook 4 X post, free tier, no card > DONE: posted to X with the brand account (post 2115420881551753343)
+- 2026-10-28: #204 Publish SMT divergence page from clean note > FAILED: safety guard blocked the write: the result duplicated the head tag
+- 2026-10-28: #205 Publish Operator annual sales page > FAILED: safety guard blocked the write: the result duplicated the head tag
+- 2026-10-28: #207 Operator annual X post, refiled under cap > DONE: posted to X with the brand account (post 2115435486965551299)

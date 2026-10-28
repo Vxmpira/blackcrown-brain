@@ -1,13 +1,14 @@
-# Crown Night Shift, FRESH direction
+# Crown Night Shift (FRESH)
 
-Status: FRESH, complete 9:16 direction returned by director. Awaiting critic PASS with restated text before any filing. Tier references in caption must say Crowned (49.99, 5 million tokens), not Pro.
+Label: FRESH, written directly by Bard to the vault. Not a restored original.
+Desk: Bard. Product: Crown, BlackCrown Intelligence. Rung: first paying customer, free tier then Crowned.
 
-**Crown Night Shift, 9:16, 13 seconds**
+Vertical 9:16, 12 seconds, three shots. One idea: Crown keeps working while the operator sleeps. The product interface is the hero.
 
-**0-4s:** A pink glow blooms across a black desk in the first second as a chair turns toward camera. One slow dolly pushes past a cold mug. Low key light, dark pink rim, soft haze.
+Shot 1, 0 to 4 seconds: A dark room in deep black. Motion starts in the first second as a soft pink glow rises from a laptop screen.
 
-**4-9s:** The same move drifts around the desk edge, settling on fingertips over a keyboard. Pink light ripples across the monitor like a mind working through a long problem.
+Shot 2, 4 to 8 seconds: Slow push toward the screen. A calm workspace panel of rounded blocks and flowing lines pulses gently in the dark.
 
-**9-13s:** The move eases into a slow push toward a dark window holding the sleeping city. The pink pulse dims to one held breath before dawn. Quiet, patient focus.
+Shot 3, 8 to 12 seconds: The camera holds on the glowing workspace while the room stays quiet. Slow fade to near black.
 
-No words, letters, numbers, logos, or typography anywhere in the footage.
+Pacing calm and confident. No words, letters, numbers, logos, or typography anywhere in the footage.
