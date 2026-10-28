@@ -144,3 +144,4 @@ The 19:0
 - 2026-10-28: #218 Korvus Operator X post, text only, today > DONE: posted to X with the brand account (post 2115478269822705865)
 - 2026-10-28: #219 Weekly Korvus signups by UTM source report > DONE: job registered: "Weekly Korvus signups by UTM source report", every Tuesday at 09:00 ET, posts to corvid. The server runs it from now on, no Make needed.
 - 2026-10-28: #220 Crown Pro offer post on X, 280 character cap > DONE: posted to X with the brand account (post 2115478278358122804)
+- 2026-10-28: #221 Daily traffic by source and page report > DONE: job registered: "Daily traffic by source and page report", daily at 09:00 ET, posts to corvid. The server runs it from now on, no Make needed.

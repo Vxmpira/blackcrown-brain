@@ -195,3 +195,4 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-28: [APPROVED] #218 Korvus Operator X post, text only, today (via reaction)
 - 2026-10-28: [APPROVED] #219 Weekly Korvus signups by UTM source report (via reaction)
 - 2026-10-28: [APPROVED] #220 Crown Pro offer post on X, 280 character cap (via reaction)
+- 2026-10-28: [APPROVED] #221 Daily traffic by source and page report (via admin)
