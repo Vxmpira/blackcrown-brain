@@ -1,23 +1,11 @@
 # Korvus Site
 
-korvus.industries, Flask. Only routed urls serve.
+Live public pages on korvus.industries, the only SEO surface: / (korvus_landing.html, pricing section at #pricing, prices inject server side from Stripe, never hardcode there), /lodestone, /signup, /login, /legal. Everything else gated or unrouted.
 
-## Live public pages
-- korvus:korvus_landing.html at / (pricing section, anchor id pricing, prices inject from Stripe tokens, never hardcode)
-- korvus:korvus_lodestone.html at /lodestone
-- korvus:korvus_signup.html, korvus:korvus_login.html, korvus:korvus_legal.html
+## /p marketing pages, status 2026-10-28
+- smt-divergence: clean note ready, filed #204. First one through the fixed pipeline.
+- operator-annual: scribe writing now, refile of bounced #203. Revenue page, 79.99 annual first, LodeStone included, links to /#pricing and /signup.
+- killzones, liquidity-sweeps, fair-value-gaps: bounced on duped heads, refile with fresh scribe rewrites after #204 proves the pipeline.
+- Sitemap asks only after pages serve.
 
-## New pages
-- Must live in pages/ folder, serve at /p/<name>. Lowercase, digits, hyphens.
-- NEVER file an edit against a pages/ file that does not exist yet (#187 lesson). Creation form: kind content, CURRENT (new file), NEW FROM NOTE with an exact Minions/Scribe path confirmed in a minion report.
-
-## Publish queue (gated on executor apply-path fix, see [[Patterns]])
-- /p/liquidity-sweeps: note path confirmed, Minions/Scribe/146 Write the complete html document for.md
-- /p/smt-divergence: scribe redrafting for a known note path
-- /p/ict-killzones (115), /p/premium-discount (132): note paths unconfirmed, redraft if needed
-
-## Dead ends
-- agent.html, korvus_promo_studio.html, trading_news_terminal.html, dashboard, admin: not served or gated, zero SEO work.
-- blackcrown-bar.html: body fragment, robots-blocked, never file tags.
-
-Links: [[Patterns]], [[Keywords]], [[Funnel]]
+Pipeline law: scribe writes the COMPLETE document to the vault first, proposal NEW is one FROM NOTE line. See [[Patterns]], [[Funnel]].

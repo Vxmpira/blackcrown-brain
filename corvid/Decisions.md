@@ -177,3 +177,4 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-28: [APPROVED] #198 Korvus watcher X post, free Observer entry, auditor PASS (via reaction)
 - 2026-10-28: [APPROVED] #196 Operator 19:00 video creative, three shots, overlay locked (via reaction)
 - 2026-10-28: [APPROVED] #197 Crown hook 4 X post, free tier, no card (via reaction)
+- 2026-10-28: [REJECTED] #203 New page at /p/operator-annual, refiles 191 (note: preflight: pages/operator-annual.html does not exist in that repo; target a page the audit lists, or create one with CURRENT exactly (new file)) (via preflight)
