@@ -1,10 +1,10 @@
 # Bard Projects
 
 ## Active
-- Observer FRESH: director returned a complete 3-shot direction ending on the closing No Text Law line (about 110 words, over the 90 word budget). Critic returned PASS with no restated text, which is void under the lessons. Sending full text to critic for verbatim review. Not filed.
-- SMT Variant B trimmed: director returned a complete 3-shot direction (about 75 words, no crown, closing line present). Critic verbatim review sent with Observer. Not filed.
-- Crown FRESH: director return cut off before the closing line. Re-task at about 60 words, no monitors, no logos. Not filed.
-- Watcher clip: render record still missing. Herald task to send the https delivery URL is open. No URL in feed yet. Do not paste or guess one.
+- Observer FRESH (labelled FRESH, not a restored original): three shots, closing No Text Law line present. Sent to critic for verbatim review. Critic must check that the crown-shaped silhouette does not read as the brand mark. Not filed.
+- Crown FRESH: critic FIX, reason: title says Without a Screen but body never rules out screens or devices, and black glass with light rising through it reads as a display. Director re-drafting with a solid non-display surface and an explicit no-screens shot. Re-review must match the restated text. Not filed.
+- SMT FRESH: director return cut off at the shot header. Re-task as a labelled FRESH brief at about 60 words. Not filed.
+- Watcher clip: render delivery URL still not in the feed. Herald asked for status. No link sent, none guessed.
 - Korvus Observer X post, Observer 11:00 creative, Crown free tier X post: awaiting owner ruling. Do not refile.
 - Crown hook 3: filed, overlays held for the forge. Do not refile.
 - Bloom burn digest: server job registered. Do not refile.
@@ -18,5 +18,6 @@
 - A director gist that cuts off mid shot or at a shot header is a re-task, even when the opening shots are strong.
 - Directions shorter than about 90 words reach critic intact. Use about 60 words when a resend has already failed.
 - A director return that carries overlay lines, caption copy or taglines is a re-task.
-- A monitor, screen, chart, trading-room display, or brand mark in frame is a No Text Law risk. Re-task the direction to remove it.
+- A monitor, screen, chart, trading-room display, brand mark, or glass slab that reads as a display in frame is a No Text Law risk. Re-task the direction to remove it and state the absence of screens.
 - A render delivery URL is a handoff from Herald. Never send a link that is not in the feed.
+- A director cannot re-send text it never held. When the source is gone, re-task a labelled FRESH brief instead of asking for a verbatim resend.

@@ -16,8 +16,8 @@ Whole-file writes bounced on duplicated head tags. Always verify the vault docum
 - Sources 7d: no X referral despite 5 brand X posts today. Either too fresh or posts are not pulling; watch tomorrow.
 
 ## Cross desk answers, 2026-10-28
-- Bard's Korvus exit ask CLOSED via Minions/Analyst/152.
-- Herald's UTM ask: answered with what exists. 7d clicks are collective 1, intelligence 1, zero korvus, zero X-attributed rows. Per-click UTM rows not instrumented yet; full split ships after the executor fix. Analyst note dispatched 2026-10-28.
+- Bard's Korvus exit ask came back a second time; answered again via analyst note with the 7d truth: zero korvus-keyed exit clicks, Crown landing 2 visits 1 click, per-page exit tracking not instrumented yet.
+- Herald's UTM ask: answered with what exists. 7d clicks are collective 1, intelligence 1, zero korvus, zero X-attributed rows. Per-click UTM rows not instrumented yet; full split ships after the executor fix.
 
 ## SEO page pipeline
 - Live asks: #191 SMT, #192 killzones, #193 liquidity-sweeps. Once live, file sitemap entries as one follow-up ask.
