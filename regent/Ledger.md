@@ -155,3 +155,4 @@ The 19:0
 - 2026-10-28: #229 Publish SMT divergence guide page > DONE: pages/what-is-smt-divergence.html updated live (new page created). repo committed and pushed.
 - 2026-10-28: #230 Add SMT divergence page to sitemap > DONE: sitemap.xml updated live (appended 1 new entry). repo committed and pushed.
 - 2026-10-28: #231 X post: Crown ownership line, Crown brand account > DONE: posted to X with the brand account (post 2115547824947339383)
+- 2026-10-28: #233 Korvus Observer X post, clean refile of #232 > DONE: posted to X with the brand account (post 2115549335257509935)
