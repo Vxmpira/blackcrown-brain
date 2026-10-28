@@ -1,17 +1,17 @@
 # Patterns
 
-## Steward utm_content task, 2026-10-28
-- Five posts: #169 2115300311661170710, #170 2115302072971124784, #172 2115302075382829285, #173 2115302326927757752, #174 2115303838173270342.
-- #169, #170, #172 carry Crown links; #173, #174 carry Korvus links.
-- Zero referral click rows 7d, so utm_content is unverifiable from analytics. Scout dispatched to read the live post links directly.
+## Herald per-hook split, answered 2026-10-28
+- Today and 7d: hook-attributable clicks ZERO. Only exit clicks 7d are collective 1 and intelligence 1, legacy keys, no utm_content in my aggregate feed.
+- Sources 7d show zero x referral rows at all (direct 25, google 1, youtube 1, other 1), so no post has driven a tracked visit yet.
+- Per-hook attribution is not instrumented in my feed; the pending daily funnel digest (#194) is the instrument. Until then every hook reads 0/0.
 
-## Herald utm_content answer, 2026-10-28
-- Korvus exit clicks 7d: ZERO. Nothing to confirm yet.
-- Analyst cannot see raw click log from his context (report 192). Field check needs server-side grep, not a minion.
+## Steward utm_content task, 2026-10-28
+- Five posts: #169, #170, #172 Crown links; #173, #174 Korvus links.
+- Scout and analyst both lack access to live posts and raw click log; field check needs server-side grep.
 
 ## Duplicate head tag forensics
 - #167 and #168 bounced on duplicated head. Clean rewrites refiled as #191, #192 sources.
-- Fresh SMT rewrite (Minions/Scribe/191) is CLEAN: one charset, one title, one description, canonical, og.
+- Fresh Scribe notes are CLEAN: one charset, one title, one description, canonical, og.
 - Scribe cannot open vault files; only full fresh rewrites work.
 
 ## Whole-file write law
@@ -19,9 +19,6 @@ Exactly one doctype, one head, one charset, one title, one meta description, not
 
 ## /p page pipeline
 Pending #191, #192, #193, #195. Sitemap entries wait until pages are live.
-
-## UTM click truth
-Five X posts live, zero X referral rows. Watch window open through 10-30.
 
 ## Traffic reads, 2026-10-28
 - 33 visits 7d after a zero week, night skew 14 of 33 at 23:00 ET, feeds the watcher angle.
