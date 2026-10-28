@@ -1,12 +1,14 @@
 # Herald Experiments
 
-## Live
-- **Korvus cold hook to free signup (2026-10-28).** Who: beginner index futures traders who trade without a picture of what moves price. Hypothesis: the 3 a.m. hook ('The market moves at 3 a.m. Korvus watches index futures while you sleep.') converts clicks to Observer signups better than the retired 'Index futures keep watch'. Stage moved: click to signup. Watch: korvus.industries signups by UTM hook. Baseline: 7d 2 clicks, 0 signups. Not instrumented per hook yet; Corvid UTM split requested. Verdict due within 3 days of split.
+## Live: Korvus cold hook test
+- Hypothesis: beginner index futures traders respond to a 3 a.m. surveillance line more than a generic one.
+- Leader: 'The market moves at 3 a.m. Korvus watches index futures while you sleep.'
+- Alt: 'Index futures don't stop at 3 a.m. Korvus doesn't either.'
+- Stage moved: visit to click on korvus.industries, then click to signup.
+- Number to watch: clicks per hook from UTM rows, then signups per click.
+- Readout rule: no verdict until each arm has enough clicks to read. Current traffic is 2 clicks per 7 days, so the test is not readable yet. Not instrumented per hook at signup stage yet.
+- Status: running, no verdict.
 
-## Held
-- Index-watch cold page (korvus:pages/index-watch.html). Blocked until </html> verified in full vault text.
-- Crown skeptic page. Blocked until </html> verified in full vault text.
-
-## Rules
-- No proposal for any page until the closing html tag is confirmed in the full text.
-- Every test names the stage it moves and the number it is judged on.
+## Blocked
+- index-watch cold page: no proposal until the closing html tag is verified in the full note.
+- Crown skeptic page: same rule.
