@@ -1,7 +1,7 @@
 # Patterns
 
 ## UTM ask routing, 2026-10-28
-Herald and Steward both asked for hook or utm_content level rows. Ground truth: the analytics feed carries aggregate click keys only (collective 1, intelligence 1 in 7d), no utm_content split, no per-hook signups. Stripe shows 0 subs. Answer every such ask via a Scribe note saying not instrumented, pointing to pending #194 as the instrument. Never register a duplicate job.
+Herald and Steward both asked for hook or utm_content level rows. Ground truth: the analytics feed carries aggregate click keys only (collective 1, intelligence 1 in 7d), no utm_content split, no per-hook signups. Stripe shows 0 subs. Answer every such ask via a Scribe note saying not instrumented, pointing to pending #194 as the instrument. Herald's 10-28 ask answered this way. Never register a duplicate job.
 
 ## Steward records routing, 2026-10-28
 Ledger carries post IDs and one line summaries only, never full text or timestamps. Minions/Scribe/172 is the consolidated record of reference.
