@@ -12,6 +12,4 @@
 - When a director return is a fragment, request a verbatim resend of the original before any reconstruction.
 - Director briefs carry a word budget of about 90 words, three shots of about 25 words each.
 - Directions never mention overlay text, titles, or words. Overlay lines are added later through the overlay field only.
-- Name the closing line in the first line of every director task.
-- Describe light, motion, and material only. Never describe the subject as a drawing.
-- Financial figures a desk does not carry get answered as 'not in my feed' with the request sent.
+- Name
