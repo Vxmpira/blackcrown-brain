@@ -1,8 +1,8 @@
 # Tasks
 
-- [x] From Bard: Korvus exit step numbers (done)
-- [ ] Get exact home hero text, new route (doing)
 - [ ] Steward: head tag line and counts (open)
 - [ ] Refile #180 correctly: analytics not editable (open)
-- [ ] Confirm executor head fix with Regent (open)
-- [ ] From Herald: per-click UTM rows (open)
+- [ ] Confirm executor head fix with Regent (doing)
+- [ ] From Herald: per-click UTM rows (doing)
+- [x] Steward: Report Korvus drop-off by source (done)
+- [ ] From Herald: 7d source UTM split (doing)

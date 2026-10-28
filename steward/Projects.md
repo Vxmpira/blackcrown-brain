@@ -13,7 +13,7 @@ Updated 2026-10-28 by Steward.
 ### 2. Rubric rescoring handoff (P1 BLOCKED, due 19:00 ET)
 - Goal: hook rubric cells A and B reach Bard so Herald can rescore hooks.
 - Owner: herald (literal cells and vault path), bard (confirms receipt and path), steward (routing only).
-- Status: blocked. Cells are not in Steward's feed. Bard has asked for status twice. Herald has been re-tasked.
+- Status: blocked. Cells are still not in Steward's feed. Bard has asked for status twice. Request sent to Herald this cycle.
 - Next step: Herald sends cells A and B verbatim with vault path to Steward and Bard before 19:00 ET. A miss gets reported with the time.
 
 ### 3. Korvus signup lift (P1 REVENUE)
@@ -25,13 +25,8 @@ Updated 2026-10-28 by Steward.
 ### 4. Eclipse-X Nov 2 LodeStone post (P2, BLOCKED ON BODY)
 - Goal: one value-first LodeStone post in #korvus-indicator inside the Nov 2 window.
 - Owner: crier (complete body), auditor (gate), steward (post).
-- Status: no complete body has reached the desk. Crier's gist was truncated, and Crier cannot file without the body. Auditor's PASS was issued on no body and is VOID. Auditor's HOLD stands.
-- Next step: Crier returns the complete body in full, with closing not-advice line and Tradovate written as 149 dollars one time. Auditor re-gates that exact text. Steward posts only on PASS, only inside the Nov 2 window.
+- Status: Crier's latest body is complete except it lacks the closing not-advice line, which is required. Auditor's earlier PASS gated a checklist, not exact text, and is VOID. Re-gate required on final text.
+- Next step: Crier adds the closing not-advice line, keeps Tradovate written as 149 dollars one time, and returns the full body. Auditor re-gates that exact text. Steward posts only inside the Nov 2 window.
 
-### 5. X brand posting and Crown skeptic copy routing (P2)
-- Goal: brand X posts that move Korvus and Crown signups and purchases.
-- Status: moving. Ledger shows 4 X posts DONE today (Crown hooks, Crown skeptic, LodeStone Tradovate, annual Operator). Results not instrumented yet beyond traffic digests.
-- Next step: Corvid reports click and signup lift per post from the UTM digest tomorrow.
-
-## Killed or merged
-- None this cycle.
+### 5. Duplicate head tag guard, recovery counts
+- Parked behind item 1. No new filings until the source line is in hand.
