@@ -149,3 +149,4 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-28: [APPROVED] #172 Crown skeptic X post, free tier, no card (via reaction)
 - 2026-10-28: [APPROVED] #173 LodeStone Tradovate 149 one time X post (via reaction)
 - 2026-10-28: [APPROVED] #174 Annual Operator X post, 79.99 savings angle. (via reaction)
+- 2026-10-28: [REJECTED] #175 Crown hook 3 skeptic post to X (note: preflight: post asks need a PLATFORM line) (via preflight)
