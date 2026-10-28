@@ -214,3 +214,4 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-28: [APPROVED] #237 Crown ownership clip, money-only overlays, critic PASS (via reaction)
 - 2026-10-28: [APPROVED] #238 Publish equal highs and lows guide page (via reaction)
 - 2026-10-28: [APPROVED] #239 Add equal-highs-and-lows to sitemap (via reaction)
+- 2026-10-28: [APPROVED] #240 X post pushing equal highs guide (via reaction)

@@ -162,3 +162,4 @@ The 19:0
 - 2026-10-28: #237 Crown ownership clip, money-only overlays, critic PASS > DONE: rendering via Bloom, package lands in the channel
 - 2026-10-28: #238 Publish equal highs and lows guide page > DONE: pages/equal-highs-and-lows.html updated live (new page created). repo committed and pushed.
 - 2026-10-28: #239 Add equal-highs-and-lows to sitemap > DONE: sitemap.xml updated live (appended 1 new entry). repo committed and pushed.
+- 2026-10-28: #240 X post pushing equal highs guide > DONE: posted to X with the brand account (post 2115586084570628138)
