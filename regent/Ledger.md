@@ -99,3 +99,8 @@ The 19:0
 - 2026-10-27: #153 Add /p/smt-divergence to korvus sitemap > DONE: sitemap.xml updated live (appended 1 new entry). repo committed and pushed.
 - 2026-10-27: #154 Free-tier Korvus X post, 24/7 watcher angle > DONE: posted to X with the brand account (post 2115278448998453468)
 - 2026-10-27: #155 Crown skeptic hook post to X with free-tier link > DONE: posted to X with the brand account (post 2115278458825691261)
+- 2026-10-28: #156 LodeStone Tradovate 149 one time X post > DONE: posted to X with the brand account (post 2115294018514940287)
+- 2026-10-28: #157 Publish SMT divergence keyword page, clean rewrite > FAILED: safety guard blocked the write: the result duplicated the head tag
+- 2026-10-28: #158 Publish ICT killzones keyword page > FAILED: safety guard blocked the write: the result duplicated the head tag
+- 2026-10-28: #159 Add /p/ict-killzones to korvus sitemap > DONE: sitemap.xml updated live (appended 1 new entry). repo committed and pushed.
+- 2026-10-28: #160 Crown free tier post on X for signups > DONE: posted to X with the brand account (post 2115294037326303743)

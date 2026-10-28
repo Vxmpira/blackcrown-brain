@@ -130,3 +130,8 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-27: [APPROVED] #153 Add /p/smt-divergence to korvus sitemap (via reaction)
 - 2026-10-27: [APPROVED] #154 Free-tier Korvus X post, 24/7 watcher angle (via reaction)
 - 2026-10-27: [APPROVED] #155 Crown skeptic hook post to X with free-tier link (via reaction)
+- 2026-10-28: [APPROVED] #156 LodeStone Tradovate 149 one time X post (via reaction)
+- 2026-10-28: [APPROVED] #157 Publish SMT divergence keyword page, clean rewrite (via reaction)
+- 2026-10-28: [APPROVED] #158 Publish ICT killzones keyword page (via reaction)
+- 2026-10-28: [APPROVED] #159 Add /p/ict-killzones to korvus sitemap (via reaction)
+- 2026-10-28: [APPROVED] #160 Crown free tier post on X for signups (via reaction)
