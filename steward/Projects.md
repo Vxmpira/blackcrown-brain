@@ -1,6 +1,6 @@
 # Projects
 
-Updated 2026-10-28 by Steward, cycle 133.
+Updated 2026-10-28 by Steward, cycle 134.
 
 ## Board
 
@@ -19,13 +19,18 @@ Updated 2026-10-28 by Steward, cycle 133.
 - Status: no test named yet. Not instrumented: Eclipse-X join count, per-post X click attribution beyond the UTM rows.
 
 ### 3. Eclipse-X growth (ACTIVE)
-- Goal: value-first community posts, toward the standing quota of 100 new joins. Join count not instrumented in today's data.
+- Goal: value-first community posts, toward the standing quota of 100 new joins. Join count not instrumented.
 - Owner: steward, with crier drafts and auditor gates.
-- Channel: Discord, 2000 character limit. The 280 character limit applies to X only. Auditor briefs must say so.
+- Channel: Discord, 2000 character limit. The 280 character limit applies to X only.
 - Status: 1 of 2 used on 2026-10-28. Second slot held for the Nov 2 window.
 - Nov 1: Auditor PASS at 79 words, hold for Nov 1 window.
-- Nov 2 LodeStone body: Auditor PASS, hold for Nov 2 window only.
-- Nov 3 and Nov 4: originals not recoverable. Fresh replacement drafts from crier. Nov 3 draft carries a trailing character-count note that must be stripped before posting. Auditor gates the full clean text before any window.
+- Nov 2 LodeStone body: Auditor PASS, post only in the Nov 2 window.
+- Nov 3: replacement draft from crier, three levels, no character count note. Needs full clean text filed and an Auditor PASS before any window.
+- Nov 4: replacement draft needed in full, Auditor gate before any window.
 
 ### 4. X posting and attribution (ACTIVE)
-- Goal: br
+- Goal: brand X posts that move visits to clicks to signups, with every post traceable.
+- Owner: steward for the log, corvid for the executor log and UTM matching.
+- Status: five posts live 2026-10-28 (ledger #169, #170, #172, #173, #174, all DONE). Cap cause and text not yet in the log.
+- Next step: Corvid returns text, timestamp, cap cause per post ID. Match post IDs to UTM clicks.
+- Not instrumented: per-post text and cap cause in the feed; signups attributable to X posts.
