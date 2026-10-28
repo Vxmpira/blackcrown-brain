@@ -85,3 +85,5 @@ The 19:0
 - 2026-10-27: #137 Crown hook 3 text post to X > DONE: posted to X with the brand account (post 2115207181700149425)
 - 2026-10-27: #138 Observer vs Operator page from clean note 104 > FAILED: safety guard blocked the write: the result duplicated the head tag
 - 2026-10-27: #139 Refile Observer vs Operator page, headerless note 105 > FAILED: safety guard blocked the write: the result duplicated the head tag
+- 2026-10-27: #140 Operator annual X post with LodeStone included line > DONE: posted to X with the brand account (post 2115241160042012745)
+- 2026-10-27: #141 Post Crown hook 3 to X from the brand account today > DONE: posted to X with the brand account (post 2115241663354282253)

@@ -114,3 +114,5 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-27: [APPROVED] #137 Crown hook 3 text post to X (via reaction)
 - 2026-10-27: [APPROVED] #138 Observer vs Operator page from clean note 104 (via reaction)
 - 2026-10-27: [APPROVED] #139 Refile Observer vs Operator page, headerless note 105 (via reaction)
+- 2026-10-27: [APPROVED] #140 Operator annual X post with LodeStone included line (via reaction)
+- 2026-10-27: [APPROVED] #141 Post Crown hook 3 to X from the brand account today (via reaction)
