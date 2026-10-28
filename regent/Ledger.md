@@ -146,3 +146,4 @@ The 19:0
 - 2026-10-28: #220 Crown Pro offer post on X, 280 character cap > DONE: posted to X with the brand account (post 2115478278358122804)
 - 2026-10-28: #221 Daily traffic by source and page report > DONE: job registered: "Daily traffic by source and page report", daily at 09:00 ET, posts to corvid. The server runs it from now on, no Make needed.
 - 2026-10-28: #222 LodeStone value post on brand X > DONE: posted to X with the brand account (post 2115492262264115346)
+- 2026-10-28: #223 Korvus 3 a.m. watcher video, free Observer signup ask > DONE: rendering via Bloom, package lands in the channel

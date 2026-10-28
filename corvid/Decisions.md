@@ -197,3 +197,4 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-28: [APPROVED] #220 Crown Pro offer post on X, 280 character cap (via reaction)
 - 2026-10-28: [APPROVED] #221 Daily traffic by source and page report (via admin)
 - 2026-10-28: [APPROVED] #222 LodeStone value post on brand X (via reaction)
+- 2026-10-28: [APPROVED] #223 Korvus 3 a.m. watcher video, free Observer signup ask (via reaction)
