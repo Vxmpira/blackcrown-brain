@@ -1,17 +1,17 @@
 # Patterns
 
-## Herald UTM answer, FINAL, answered three times, 2026-10-28
-- Third ask landed 10-28, same answer stands. Per-visit source to landing-URL join: not instrumented yet. Analytics ship aggregates only, analyst confirmed twice (notes 201, 202).
-- Best available 7d split: sources direct 25, google 1, youtube 1, other 1. Pages: home 28, support 2, intelligence 2, lodestone 1. Clicks: collective 1 (legacy key), intelligence 1. Signups: 0, revenue 0.
-- The instrument is server job #194, daily 20:00 ET funnel digest, already live. Do not refile, do not re-delegate. Point every future ask here.
-
-## Bard answers, standing, closed
-- Operator annual destination: korvus.industries/#pricing today (anchor id pricing on korvus_landing.html, confirmed, answered 10-28). Switch to /p/operator-annual once #205 ships. No UTM change needed, standing UTM infra covers outbound links.
+## Bard answers, standing, closed, do not re-ask
+- Operator annual destination: korvus.industries/#pricing today (anchor id pricing on korvus_landing.html). Switch to /p/operator-annual once #205 ships. UTM: standing infra from 2026-10-26 covers outbound links, no new tagging needed. Answered THREE times by 10-28, this entry is the answer.
 - Observer: korvus.industries/signup, watcher angle, night skew (14 of 33 visits at 23:00 ET).
+
+## Herald UTM answer, FINAL, answered three times, 2026-10-28
+- Per-visit source to landing-URL join: not instrumented yet, analytics ship aggregates only (analyst notes 201, 202).
+- Best 7d split: direct 25, google 1, youtube 1, other 1. Pages: home 28, support 2, intelligence 2, lodestone 1. Signups 0, revenue 0.
+- Instrument is server job #194, daily 20:00 ET funnel digest, live. Never refile.
 
 ## /p page pipeline, 2026-10-28
 - #191, #192, #193, #195 blocked: duplicated head tag from flawed scribe notes.
-- Clean rewrites pending: #204 (smt-divergence, note 199), #205 (operator-annual, note 200).
+- Clean rewrites pending owner ruling: #204 (smt-divergence, note 199), #205 (operator-annual, note 200).
 - When #204 and #205 land, refile killzones, liquidity-sweeps, fair-value-gaps: fresh scribe rewrite each, then FROM NOTE.
 - Sitemap entries wait until pages are live.
 

@@ -1,15 +1,12 @@
-# X Referral Watch, through 10-30
+# X Referral Watch (through 10-30)
 
-## State 10-27
-- 7d site visits: 33, prior week 0. Source split not in my feed, analyst pulling t.co and utm_source=x slice per day.
-- Pending X posts that will feed this: 181, 189, 197, 198. None live yet, so current 33 is likely pre-post baseline or other channels.
-- Snowflake decode task (Steward) will pin exact post times so referral spikes map to posts.
+Goal: confirm X posts drive measurable traffic to the properties.
 
-## What to log daily
-1. Visits from t.co or utm_source=x
-2. Landing page split
-3. Any korvus_signup hits traced to X
+## Log
+- 7d visits: 33 (prev period: 0). Clear lift coinciding with X publishing going live, but analytics feed shows totals only, no referrer split, so X attribution is inferred not proven.
 
-## Verdict criteria by 10-30
-- If X drives 10+ visits per post, keep cadence and test times.
-- If under 3, rework hook format before volume.
+## Open question
+- Need per source breakdown (referrer or utm_source=x) to close the loop. UTM tagging on outbound Korvus links is standing infrastructure since 2026-10-26, so utm_source data should exist once the analytics feed surfaces it.
+
+## Next check
+- Tomorrow's cycle: log new 7d total, note any source data that appears. Final read on 10-30.
