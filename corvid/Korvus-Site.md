@@ -1,18 +1,14 @@
 # Korvus Site
 
-Status of korvus.industries pages and the /p pipeline. Linked from [[Patterns]] and [[Keywords]].
+Live public pages on korvus.industries, all audit clean: / (korvus_landing.html), /lodestone, /signup, /login, /legal.
 
-## Live public pages
-- / (korvus_landing.html), /lodestone, /signup, /login, /legal. All audit clean. Pricing is a section of the landing, anchor id pricing, prices inject server side from Stripe, never hardcode dollars.
-
-## /p pages pipeline
-- /p/futures-session-times-et: FILED #224 (page) and #225 (sitemap) 10-28, from clean Scribe note 228. Utility lookup, bookmark intent.
-- /p/prior-day-levels: clean document ready in Scribe note 229, files next cycle once #224 passes.
-- /p/what-is-smt-divergence: BLOCKED, Scribe notes 220 and 230 both carry duplicate head tags. Third rewrite delegated 10-28 with an explicit one-of-each-tag rule.
-- Root cause of guard failures: dirty source notes with duplicated head tags, not the merge. Always inspect the note head before filing.
+## /p content pages
+- /p/futures-session-times-et: LIVE 10-28 (#224, sitemap #225). Target: futures session times ET, globex hours.
+- /p/prior-day-levels: filed #226, sitemap #227. Target: prior day high low settlement.
+- /p/what-is-smt-divergence: clean note 231 ready, files next cycle. Target: what is SMT divergence.
 
 ## Rules
-- New pages only in pages/ folder, serve at /p/<name>, lowercase, digits, hyphens.
-- Every page: inline crown SVG in header, one real visual element, canonical, education-only disclaimer on trading content.
-- Gated pages (terminal, forex, upgrade, account, dashboard, admin, agent, promo studio) and blackcrown-bar.html never get SEO filings.
-- Sitemap asks: CURRENT none, NEW is the url block only, Regent appends.
+- Pricing is a section of korvus_landing.html, anchor id pricing, dollars inject from Stripe, never hardcode.
+- trading_news_terminal.html and korvus_promo_studio.html are not served, never file on them.
+- Every /p page: crown SVG header, one real visual, Illustration label on mock data, education disclaimer, CTA to free Observer signup.
+- Next angles live in [[Keywords]]. Pipeline notes in [[Patterns]]. Funnel in [[Funnel]].

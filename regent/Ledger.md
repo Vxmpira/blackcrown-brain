@@ -149,3 +149,5 @@ The 19:0
 - 2026-10-28: #223 Korvus 3 a.m. watcher video, free Observer signup ask > DONE: rendering via Bloom, package lands in the channel
 - 2026-10-28: #224 Publish futures session times guide page > DONE: pages/futures-session-times-et.html updated live (new page created). repo committed and pushed.
 - 2026-10-28: #225 Add session times page to sitemap > DONE: sitemap.xml updated live (appended 1 new entry). repo committed and pushed.
+- 2026-10-28: #226 New prior day levels guide page > DONE: pages/prior-day-levels.html updated live (new page created). repo committed and pushed.
+- 2026-10-28: #227 Add prior-day-levels to sitemap > DONE: sitemap.xml updated live (appended 1 new entry). repo committed and pushed.
