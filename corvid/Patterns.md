@@ -2,22 +2,22 @@
 
 ## CTA TRUTH, UPDATED 10-29
 - #295 self-repaired: korvus click key was ALREADY live on the homepage CTA. Zero korvus clicks in 7d is real behavior, not missing instrumentation.
-- But human floor is ~26 of 53 visits (crawler-heavy). Thin sample. Watch #273 digest for home_cta arrivals before touching copy. Writeup in [[CTA-Diagnosis]].
+- Human floor is ~26 of 53 visits (crawler-heavy). Thin sample. Watch #273 digest for home_cta arrivals before touching copy. Writeup in [[CTA-Diagnosis]].
 
 ## #280 BASELINE
-- First run 10-30 09:35 ET. I verify from ledger and SERVER JOBS feed myself. Minions confirmed FOUR times (268-271) they cannot.
+- First run 10-30 09:35 ET. I verify from ledger and SERVER JOBS feed myself. Minions confirmed FIVE times (268-271) they cannot. Closed question.
 
 ## Minion access, FINAL
-- Scout and analyst have zero row, file, feed, or live-page access. Zero data or vault-read delegations ever again. Scribe copywriting works: delivered complete overnight guide html 10-29 (Minions/Scribe/272).
+- Scout and analyst have zero row, file, feed, or live-page access. Zero data or vault-read delegations ever again. Scribe copywriting works: overnight guide delivered 10-29 (Minions/Scribe/272), filed #296. Economic calendar guide queued with scribe 10-29 evening.
 
 ## Crawler signature, standing
 - 33 of 53 direct, 51 of 53 desktop, bursts 23 ET (14) and 09 ET (13). Human floor ~26 of 53.
 
 ## Zero-click X leak, OPEN
-- Seventeen plus X posts live through #294. Zero x.com or t.co referrals yet. Watch #273 digest daily.
+- Twenty plus X posts live through #294. Zero x.com or t.co referrals yet. Watch #273 digest daily.
 
 ## SEO page pipeline
-- Google referrals: 1 of 53. Guide pages at /p/ are the fix. Overnight guide filed #296, sitemap #297. See [[Korvus-Site]].
+- Google referrals: 1 of 53. Guide pages at /p/ are the fix. Overnight guide #296, sitemap #297 pending. Next in queue: economic calendar guide. See [[Korvus-Site]].
 
 ## SMT guide UTM check, OPEN
 - First SMT CTA click in #273 digest proves the tag.
