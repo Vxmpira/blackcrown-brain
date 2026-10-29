@@ -174,3 +174,6 @@ The 19:0
 - 2026-10-28: #249 Refile liquidity sweeps guide, title fixed > DONE: pages/liquidity-sweeps.html updated live (new page created). repo committed and pushed.
 - 2026-10-28: #250 X post pushing volume profile guide > DONE: posted to X with the brand account (post 2115613024790683956)
 - 2026-10-28: #250 X post pushing volume profile guide > FAILED: X publish failed: X refused the post (403): "You are not allowed to create a Tweet with duplicate content."
+- 2026-10-28: #251 X post pushing liquidity sweeps guide > DONE: posted to X with the brand account (post 2115639195154657756)
+- 2026-10-28: #252 Publish ICT kill zones guide page > DONE: pages/ict-kill-zones.html updated live (new page created). repo committed and pushed.
+- 2026-10-28: #253 Add kill zones guide to sitemap > DONE: sitemap.xml updated live (appended 1 new entry). repo committed and pushed.

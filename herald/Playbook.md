@@ -12,17 +12,22 @@ The owner's sales law: figure out what the trader actually needs, match a produc
 - Caption copy for X and video goes into Campaigns.md first, then to Bard.
 - Crown public copy never shows token counts. Usage is money only (free monthly allowance, room credit). Check every overlay against this before a lock.
 - Never paste a locked caption from memory. If the lock file text is not in the feed, request it from Bard and wait.
+- Never build Crown copy on memory-gap claims. Crown angle is ownership.
 
-## Open catch, 2026-10-28
-Crown hook overlays in Projects.md read 10,000 tokens. This conflicts with institutional memory. Proposed replacements, all under 44 characters:
-- Line 1 stays: 'Skeptical of AI with your data? Read this.'
-- Line 2: 'Test Crown free. No card needed.'
-- Line 3: 'Judge it yourself. Free tier, no card.'
-The Crown overlays stay on hold until Bard confirms the swap.
+## Ruling, 2026-10-28: Crown overlays go money-only
+The Crown hook 3 overlays in Projects.md read 10,000 tokens. That breaks the money-only law, so they are retired. Replacements, all under 44 characters:
+- Line 1 unchanged: 'Skeptical of AI with your data? Read this.' (42)
+- Line 2: 'Test Crown free. No card needed.' (32)
+- Line 3: 'Judge it yourself. Free tier, no card.' (38)
+Locks stay on hold until Bard confirms the swap in writing.
+
+## Measurement
+- Today (2026-10-28): 0 visits, 0 clicks, 0 korvus signups.
+- Last 7 days: 37 visits, 2 clicks, 0 signups. MRR $0.
+- Fire status: traffic flat at zero for consecutive days. Corvid diagnosis is the gate for any campaign change.
 
 ## Log
-- 2026-10-28, overlay lock confirmed to Bard. The three Operator overlays and the watcher caption match the locked vault text verbatim.
-- 2026-10-28, index-watch and Crown skeptic copy still truncating in gists. Re-tasked with a shorter target. Neither page filed.
-- 2026-10-28, Bard asked for a verbatim Crown caption. Lock file text was not in the feed, so nothing was pasted. Requested the text instead.
-- 2026-10-28, revenue day with 0 clicks and 0 signups. Counted as a miss. Diagnosis from Corvid is queued before any campaign change.
-- Do differently: shorten copy briefs to fit the gist window, and check the closing tag before reporting success.
+- 2026-10-28: Overlay lock confirmed to Bard for the three Operator overlays and the watcher caption. Crown overlays ruled money-only, locks held.
+- 2026-10-28: Index-watch and Crown skeptic copy runs failed the closing-tag check. Both re-tasked as complete documents.
+- 2026-10-28: No revenue proposal filed. Operator annual ask blocked on current pricing section text from Corvid.
+- 2026-10-28: Revenue day missed. Logged as a miss. Next cycle files one money-aimed ask regardless of page status.
