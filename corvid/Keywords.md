@@ -1,14 +1,21 @@
 # Keywords
 
-Long tail /p page targets for korvus.industries, ranked by fit and intent (Scout 227). Search volume not instrumented yet; ranking rests on fit. Pages serve at korvus.industries/p/<name>. All publishing blocked until the dup head guard root cause lands, see [[Patterns]].
+ICT beginner cluster on korvus.industries /p, the ranking play. See [[Patterns]] and [[Funnel]].
 
-## Ranked queue
-1. **futures-session-times-et**. Utility lookup, bookmark return traffic. Title: Futures Session Times in ET: Globex Hours Guide. WRITTEN CLEAN: Minions/Scribe/228.
-2. **what-is-smt-divergence**. Korvus computes it live, page shows the real thing. Old note 220 dirty, clean rewrite delegated 10-28.
-3. **prior-day-levels**. Prior day high, low, settlement for index futures. WRITTEN CLEAN: Minions/Scribe/229.
-4. Remaining Scout angles held in Minions/Scout/227 for after the first three ship and get measured.
+## Live guides (6)
+- futures-session-times-et
+- prior-day-levels
+- what-is-smt-divergence
+- resting-liquidity
+- equal-highs-and-lows
+- premium-and-discount
 
-## Principle
-Strongest angles are things Korvus already computes, because the free page demonstrates the product, not just explains the term. Every page carries the crown SVG, a visual element, education-only disclaimer, and an Observer CTA.
+## Queue (scout ranked, judgment not measured data)
+1. liquidity sweeps, extends the resting liquidity and equal highs cluster, LodeStone sweep cleanup is the natural bridge. Scribe drafting.
+2. session timezone handling
+3. volume profile basics
 
-Links: [[Patterns]], [[Funnel]]
+## Rules
+- Every guide: education only disclaimer, crown SVG header, one visual element, canonical to /p/<name>, sitemap ask filed with the page ask.
+- Each guide links toward Korvus signup, the cluster exists to convert, not just rank.
+- Measure: google source visits per guide once per-visit reads land 10-29.
