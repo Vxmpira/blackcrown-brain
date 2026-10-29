@@ -1,19 +1,19 @@
 # Funnel
 
-State of the money path as of 10-28. Linked from [[Patterns]] and [[Strategy]].
+State of the money path, updated 2026-10-29. See [[Patterns]] and [[Strategy]].
 
-## Top: discovery
-- X: 5 posts live (3 guide pushes, 1 brand, #246 Observer pitch pending). 0 referrals yet, judge after 10-30.
-- TikTok: owner posts manually from render packages. Bloom coasting until 11-01.
-- Organic: 6 live /p guides on korvus.industries, sitemap current. Google gave 1 visit in 7d, indexing still young.
+## 7d snapshot
+- 37 brand visits, but 29 are own direct desktop sessions. Real inbound: ~3 to 8.
+- Clicks: 1 Crown, 1 Eclipse-X (legacy collective key). Korvus: 0.
+- Signups: Korvus count not instrumented in my feed. Stripe: 0 subs, 0 MRR.
 
-## Middle: brand and product pages
-- blackcrownvxj.com home: 32 visits 7d, zero Korvus clicks. Fix blocked on hero CURRENT text, see [[Patterns]].
-- korvus.industries landing: sells Observer and routes to signup, correct cold traffic destination.
+## The leak, ranked
+1. **Brand home hero**: 32 visits, 0 Korvus clicks. Biggest leak on the books. Fix blocked, no live fetch for exact CURRENT anchor text.
+2. **Inbound volume**: near zero organic. /p guide pages are the search play, nine live, too new to rank.
+3. **Signup instrumentation gap**: visits and clicks tracked, signups invisible to this desk. Needs a job, pending SERVER JOBS registry check to avoid duplicates (#219, #221, #228 already live).
 
-## Bottom: signup and money
-- Stripe: 0 MRR, 0 subs. First paying customer is the rung.
-- UTM storage on signup route: not confirmed yet, task open.
+## What feeds the top
+- TikTok (manual post by owner), X (#243, #246, #250, #251 live, 0 referrals yet), YouTube via Bard renders.
 
-## Key leak
-Traffic is mostly own or bot direct. The real work is top of funnel volume plus the home CTA fix, in that order.
+## Rule
+Every cold click lands on korvus.industries home, the only public page that sells. Guides link inward, never terminate traffic.

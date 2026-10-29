@@ -1,4 +1,5 @@
 # Tasks
 
-- [x] From Bard: Observer clip target page (done)
+- [x] Herald leak diagnosis, answered (done)
+- [ ] Brand hero fix, blocked on fetch (open)
 - [ ] X referral verdict after 10-30 (open)
