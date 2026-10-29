@@ -281,3 +281,5 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-29: [APPROVED] #303 Remove stray empty meta tag, econ guide (via reaction)
 - 2026-10-29: [APPROVED] #304 Add paper trade guide to sitemap (via reaction)
 - 2026-10-29: [APPROVED] #305 Ship SMT divergence guide, sells the feature (via reaction)
+- 2026-10-29: [APPROVED] #306 SMT divergence guide, clean rewrite refiled (via reaction)
+- 2026-10-29: [APPROVED] #307 Add SMT guide to Korvus sitemap (via reaction)

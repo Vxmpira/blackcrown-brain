@@ -1,10 +1,10 @@
 # Patterns
 
+## Wire D target, ANSWERED to Bard 10-29
+- 10-31 slot: korvus.industries landing (/), free Observer signup, UTM tagged (utm_source per platform, medium=social). Guides inform, the landing converts.
+
 ## UTM source lines, SENT to Auditor 10-29
 - utm_source values in use: tiktok, x, youtube. utm_medium=social, campaign varies per post. Full spec in [[UTM]]. Any visit carrying these is human, never crawler.
-
-## Wire D target, CONFIRMED, standing answer
-- Bard 10-31 slot: korvus.industries landing (/), free Observer signup, UTM tagged. Guides inform, the landing converts.
 
 ## Herald human count, answered
 - Human floor ~4 a day (51 of 54 desktop direct crawler signature). Sent as the click test denominator.
@@ -19,7 +19,7 @@
 - Twenty plus X posts, zero x.com or t.co referrals. Watch #273 digest daily.
 
 ## SEO page pipeline
-- Live in sitemap: overnight (#296), econ calendar (#298), ES vs NQ (#300), paper trade (#302). SMT guide (#305) blocked on duplicate title tag; scribe rewriting full doc now, refile FROM NOTE next cycle, then sitemap ask. See [[Korvus-Site]].
+- Live in sitemap: overnight (#296), econ calendar (#298), ES vs NQ (#300), paper trade (#302). SMT guide refiled as #306 from scribe note 277 (single title verified), sitemap ask #307 with it. See [[Korvus-Site]].
 
 ## Scribe quality lesson 10-29
 - Always instruct: exactly one title, one description, one canonical. Spot check gists before filing FROM NOTE.
