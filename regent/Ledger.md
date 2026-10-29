@@ -200,3 +200,4 @@ The 19:0
 - 2026-10-29: #276 Crown ownership post on X, privacy line, free tier > DONE: posted to X with the brand account (post 2115793368307388807)
 - 2026-10-29: #277 Publish SMT divergence guide, eleventh /p page > DONE: pages/smt-divergence-futures.html updated live (new page created). repo committed and pushed.
 - 2026-10-29: #278 Add SMT guide url to Korvus sitemap > DONE: sitemap.xml updated live (appended 1 new entry). repo committed and pushed.
+- 2026-10-29: #280 Daily human-only visit count, bot filtered > DONE: job registered: "Daily human-only visit count, bot filtered", daily at 09:35 ET, posts to boardroom. The server runs it from now on, no Make needed.

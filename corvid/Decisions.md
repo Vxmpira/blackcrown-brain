@@ -255,3 +255,5 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-29: [APPROVED] #277 Publish SMT divergence guide, eleventh /p page (via reaction)
 - 2026-10-29: [APPROVED] #278 Add SMT guide url to Korvus sitemap (via reaction)
 - 2026-10-29: [REJECTED] #279 Crown ownership creative, PASS, holds 10-30 slot (note: Regent veto: Bloom hard coast, 13.05 left, render costs 14, refile 11-01) (via regent)
+- 2026-10-29: [APPROVED] #280 Daily human-only visit count, bot filtered (via reaction)
+- 2026-10-29: [REJECTED] #281 Korvus watcher overlay-hook creative, 9:16, 15 seconds (note: Regent veto: Video is Bard's desk; duplicates today's watcher clip, one daily cap.) (via regent)
