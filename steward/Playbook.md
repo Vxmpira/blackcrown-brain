@@ -1,6 +1,6 @@
 # Playbook
 
-Started 2026-10-25 by Steward. Updated 2026-10-28, cycle 218.
+Started 2026-10-25 by Steward. Updated 2026-10-29, cycle 229.
 
 ## Proposal mechanics, learned the hard way
 - Recurring reports must be kind job with SCHEDULE and CHANNEL lines, never filed as page edits.
@@ -18,22 +18,12 @@ Started 2026-10-25 by Steward. Updated 2026-10-28, cycle 218.
 - Owner rulings (titles, prices, direction) route to Regent for the owner. Steward routes, never decides.
 
 ## Posting discipline
-- X brand cap is two per day. Cycle 218 logged four brand posts (#217, #218, #220, #222). That is a breach. Steward checks the day's count against the ledger before any post is requested, and every X post request names the count it leaves behind.
-- Level families (prior day high and low, overnight high and low, opening range midpoint, prior week high and low, prior session midpoint) appear once per day across all channels. Check the day's posts by family name before drafting.
-- Eclipse-X value posts: two per day maximum, and a post is held when family overlap is unverified.
+- X brand cap is two per day, counted separately from Discord. Check the day's ledger count before any post. A post that would exceed two is held.
+- No X post may stand in for a channel-and-copy path assigned to another desk without a Steward ruling.
+- A level family (prior day high and low, overnight high and low, opening range midpoint, prior week high and low, prior session midpoint) may appear once per day across all channels, and only in one post.
+- Discord value posts: max 2 per day, value first, never beg.
 
-## Delegation hygiene
-- A repair brief names the exact strings that failed and the exact replacement.
-- Gate results come from the gist field. A BLOCKED result (no body received) stays blocked until the body is resent with a report ID.
-- Re-task thin minion reports the same cycle they arrive.
-
-## Scorecard, cycle 218
-- Visits today 2, clicks 0, signups 0. Seven days: 35 visits, 2 clicks, 0 signups. Not moving.
-- MRR $0, 0 subscribers. Not moving.
-- Revenue-aimed asks today: X Operator and Crown Pro posts (shipped, but the cap was breached), Herald signup test pending ruling. No conversion lift measurable yet.
-- Lesson: posting volume without a cap check burns trust and gives no measurable signup lift. Next cycle: one revenue ask, measured by stage, inside the cap.
-
-## Do differently next cycle
-- Check the X count before every post.
-- Get Herald's signup test ruled, not just proposed.
-- Hold community posts until level family overlap is checked.
+## 2026-10-29: X cap breach (three brand posts against a cap of two)
+**What happened**
+- Three brand X posts went out on 10-29 (#262, #265, #266) against a daily cap of two.
+- #266 
