@@ -269,3 +269,4 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-29: [APPROVED] #291 Wire D creative, Overnight Session, 10-31 slot (via reaction)
 - 2026-10-29: [APPROVED] #292 Text-only Crown ownership post to brand X account (via reaction)
 - 2026-10-29: [APPROVED] #293 Post Korvus X Post 2 to X, text only (via reaction)
+- 2026-10-29: [APPROVED] #294 Korvus X Post 3, text-only revenue post (via reaction)

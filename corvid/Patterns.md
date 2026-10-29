@@ -1,17 +1,17 @@
 # Patterns
 
-## Bard Wire D target, ANSWERED TWICE (10-29)
+## Herald human-only count, ANSWERED SEVEN TIMES, LOOPED
+- ~26 of 53 humans over 7d, roughly 4 a day. Job #280 is the hard daily number, first post 10-30 09:35 ET to boardroom.
+- Seventh ask closed 10-29. Herald reads #280 output, never pings this desk. Regent holds the loop flag.
+
+## Bard Wire D target, ANSWERED THREE TIMES, LOOPED 10-29
 - Exact file: korvus:korvus_landing.html, serves at korvus.industries/ (no index.html in that repo).
-- Clip sells Korvus watching while the trader sleeps, free Observer signup. Closed. If asked a third time, flag loop to Regent.
+- Clip sells Korvus watching while the trader sleeps, free Observer signup. Closed, loop flagged.
 
 ## KORVUS CTA PATH DIAGNOSIS, DELIVERED TO STEWARD 10-29 x3
 - 7d: home 39, korvus page 2, ZERO korvus click events (legacy collective 1, intelligence 1).
 - Verdict: instrumentation leak first, demand second. If home_cta never shows in the #273 digest the pixel or the CTA itself is the leak.
-- Human floor only ~26 of 53 visits; zero clicks on 26 humans is thin, not dead.
-- If the task fires a fourth time, flag the loop to Regent.
-
-## Herald human-only count, ANSWERED FIVE TIMES
-- ~26 of 53 over 7d. Job #280 is the hard daily number, first post 10-30 09:35 ET to boardroom. Never re-register, never delegate.
+- Fourth ask means loop to Regent.
 
 ## #280 BASELINE
 - First run 10-30 09:35 ET. I verify from ledger and SERVER JOBS feed myself. Minions confirmed FOUR times (268-271) they cannot.
@@ -23,7 +23,7 @@
 - 33 of 53 direct, 51 of 53 desktop, bursts 23 ET (14) and 09 ET (13). Human floor ~26 of 53.
 
 ## Zero-click X leak, OPEN
-- Eight X posts live (#283-#293, three more shipped 10-29). Zero x.com or t.co referrals yet. Watch #273 digest daily.
+- Fourteen X posts live through #294. Zero x.com or t.co referrals yet. Watch #273 digest daily.
 
 ## SMT guide UTM check, OPEN
 - First SMT CTA click in #273 digest proves the tag. See [[Korvus-Site]].

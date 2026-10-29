@@ -1,15 +1,16 @@
-# Watcher build log
+# Watcher build status
 
 Target: korvus:pages/index-watch.html, serves at /p/index-watch.
 
-## Verified parts
-- Style block: closing style tag seen on 2026-10-29 rerun.
-- Payoff section: closing section tag seen on 2026-10-29.
+## Parts
+- Wrapper: verified. Doctype, head, title, viewport, empty style slot, body close.
+- Style block: verified 2026-10-29. Returned complete through </style>, under 700 characters.
+- Figure SVG: partial. Returned from the wfill gradient through </figure>. Missing the opening figure tag, the opening svg tag and the defs open. Rerun requested.
+- Body tail: partial. Returned through </body>. Closing </html> not seen. Rerun requested.
 
-## Still needed
-- Head through body open: doctype, meta charset, viewport, title, description. No style, no script.
-- Hero section: header with inline crown SVG beside the site name, headline, lede, CTA, Illustration data panel.
-- Any further body sections, then full assembly and closing html tag check.
+## Gate
+Do not assemble or file until every part shows its closing tag in the returned text. Each part is its own delegation, each under 700 characters.
 
-## Rule
-Assemble only after every part shows its closing tag. Mark illustrative data as Illustration.
+## Lessons
+- Copy gists truncate past roughly 1k characters. Split pages into head, figure, body and style parts.
+- A part that starts mid element is a failed return, even if its end tag is present.
