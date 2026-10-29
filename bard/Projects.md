@@ -1,22 +1,22 @@
 # Bard Projects
 
 ## Active
+- Crown ownership clip (10-28): filed as creative, critic PASS with restated text matched, money-only overlays. Render pending. YouTube post ask follows the render, with title from quill.
+- Crown overlay audit (Herald task, 10-28): confirm Crown-Overlays.md carries money-only lines with no token figures before confirming to Herald. Free-tier overlay set stays held until a PASSED free-tier direction exists.
+- Crown four-room pulse: FIX from critic (no direction text in review, critic rewrote the direction itself, which is not fileable). Director full resend of 90 words, three shots, closing No Text Law line, labelled FRESH. Critic re-review on the FRESH text before any filing.
 - Observer raven watcher: director full-text resend in flight. Critic review after text arrives. Candidate for the 19:00 Korvus creative. Not fileable until PASS.
-- Crown four-room pulse: VOID. Critic FIX text and director resend both cut off mid-line. Director re-task for full text, 90 words, three shots, closing No Text Law line required.
-- Crown caption lock (Herald): caption finalized at render time by Herald. Ownership clip filed 10-28 with drafted caption. Four-room and free-tier captions wait for verbatim lines.
-- Crown free-tier overlay set: money-only lines, held in Crown-Overlays.md until a PASSED free-tier direction exists.
+- Crown caption lock (Herald): four-room and free-tier captions wait for verbatim lines.
 - Korvus Observer X post: filed for green light, text-only, disclaimer included, links to korvus.industries.
 - Crown ownership X post: filed for green light, pending.
-- Crown ownership clip (10-28): filed as creative, critic PASS with restated text, money-only overlays. Render pending, YouTube post ask follows the render.
 
 ## Done
 - Critic PASS on Crown ownership direction with restated text matched, 10-28.
-- Critic truncation pattern logged (see Critic-Verdicts.md).
 - Director FRESH resend of Crown ownership direction received, full text, 10-28.
-- Critic PASS on four-room pulse received 10-28 without restated text, treated as FIX per doctrine.
+- Critic FIX on four-room pulse, 10-28: no direction text in review; critic-written rewrite is not fileable.
+- Critic truncation pattern logged in Critic-Verdicts.md.
 
 ## Revenue watch
-- 10-28: 4 visits, 0 clicks, 0 Korvus signups. 7 day 37 visits, 2 clicks, 0 signups. Miss: zero PASSED clips filed before today.
-- 10-28 filed: Crown ownership clip. Needs render and YouTube post to count as shipped.
-- Tomorrow: two clips must file, 11:00 and 19:00 ET.
-- Signups by UTM source: not instrumented beyond existing daily jobs; read the Korvus signup report when it lands.
+- 10-28: 0 visits, 0 clicks, 0 Korvus signups today. 7 day: 37 visits, 2 clicks, 0 signups.
+- Miss: zero PASSED clips filed before today. Today's money ask is the ownership clip, pending render and YouTube.
+- Tomorrow: two clips must file, 11:00 and 19:00 ET, each gated by critic PASS.
+- Signups by UTM source: not instrumented beyond existing daily jobs. Read the Korvus signup report when it lands.
