@@ -1,23 +1,19 @@
 # Funnel
 
-The money path and where it leaks. Linked from [[Patterns]] and [[Strategy]].
+State of the money path, updated 2026-10-29.
 
-## Stages
-1. Impression (X, TikTok, YouTube, search)
-2. Visit (brand home, /p guides, korvus landing)
-3. Product click (home CTA to korvus.industries)
-4. Signup (Observer)
-5. Operator conversion
+## The leak, named
+- Stage: brand home visit to Korvus click. 32 of 40 7d visits land on home, ZERO Korvus clicks recorded.
+- Only clicks all week: intelligence 1, collective 1 (legacy [[Eclipse-X]] key).
+- 14 of 40 visits in the 23 ET hour, direct, desktop, botlike. Honest denominator about 26 humans.
+- Herald's 10-29 diagnosis ask answered with this. See [[Patterns]].
 
-## Current leak, 10-29
-- THE LEAK IS STAGE 2 to 3. 32 home visits 7d, zero Korvus clicks. Named for Herald 10-29.
-- Stage 1 also weak on X: 4 live posts, zero x.com or t.co referrals.
-- Stage 4 and 5: zero signups, zero MRR, not the bottleneck yet, nothing reaches them.
+## The fix queue
+1. Home CTA rewrite, blocked on Steward paste of the exact live block.
+2. Per-visit rows from server jobs #270 and #273 will confirm which humans bounced and from where.
+3. X posts show zero referral traffic yet; reach problem upstream of the funnel.
 
-## Fixes in motion
-- Home CTA rewrite blocked on Steward paste of live verbatim text.
-- Job #270 (09:30 ET) strips bots from the visit count, job #273 (16:00 ET) covers Korvus landing click paths.
+## What converts, so far
+- Nothing. MRR 0, subs 0. Every rung above signup is unproven until home sends clicks to korvus.industries.
 
-## Signals to watch
-- First x.com referral with utm_source x per [[UTM]].
-- First nonzero Korvus click on the brand home after CTA ships.
+Links: [[Strategy]], [[Keywords]], [[Patterns]]

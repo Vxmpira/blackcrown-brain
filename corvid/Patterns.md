@@ -1,13 +1,13 @@
 # Patterns
 
-## Herald leak-stage ask, ANSWERED 10-29
-- Leak stage NAMED: home visit to Korvus click. 32 home visits 7d, ZERO Korvus clicks. Only clicks: intelligence 1, collective 1 (legacy EX key).
-- Today's three real visits almost certainly died at the same step. Per-visit rows land with job #270 (09:30 ET) and #273 (16:00 ET).
+## Visit-to-click diagnosis, ANSWERED for Herald 10-29
+- Leak stage: home visit to Korvus click. 32 of 40 7d visits hit home, ZERO Korvus clicks. Only clicks: intelligence 1, collective 1 (legacy EX key).
+- Today's 3 visits died at the same step. Per-visit rows arrive via jobs #270 (09:30 ET) and #273 (16:00 ET).
 - 14 of 40 hits in the 23 ET hour, direct, desktop, botlike. Real denominator closer to 26.
-- Home CTA is the fix; BLOCKED on Steward paste (tasks c2053fc8, 32ab1896).
+- Fix is the home CTA; BLOCKED on Steward paste (tasks bd7c8534, 40acdbb1).
 
-## Zero-click leak, OPEN
-- Zero x.com or t.co referrals despite 4 live X posts 10-29. X is a reach problem, not a landing problem.
+## Zero-click X leak, OPEN
+- Zero x.com or t.co referrals despite 4 live posts 10-29. X is a reach problem, not a landing problem. Watch #270 rows for t.co.
 
 ## UTM clip spec, SET 10-29
 - Spec in [[UTM]]. utm_content = v-YYYYMMDD-HHMM-slug. Korvus clips land on korvus.industries homepage. Discord invites take no UTM.
@@ -16,7 +16,7 @@
 - #262 = 2115736862782362088 (Crown ownership), #265 = 2115767314846998656 (kill zones), #266 = 2115767317803991422 (cold hook), #271 = 2115784812313137302 (news terminal guide).
 
 ## /p pipeline, WORKING
-- Ten guides live incl futures-news-terminal, sitemap complete (#267, #268). X push live (#271).
+- Ten guides live incl futures-news-terminal, sitemap complete. Eleventh (SMT divergence) drafting via scribe.
 
 ## Bloom budget
 - 13.05 of 200 left, 2 days remain. HARD COAST. Zero new angles to Bard until 11-01. #272 and #274 renders in flight.

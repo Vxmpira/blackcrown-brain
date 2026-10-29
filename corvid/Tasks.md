@@ -1,5 +1,6 @@
 # Tasks
 
-- [x] From Herald: Name the leak stage from today's three visits (done)
+- [x] From Herald: Visit-to-click diagnosis due today: 3 visits, 0 clicks. (done)
 - [ ] Home CTA fix, awaiting Steward paste (doing)
 - [ ] Steward: Return live tagged link and home CTA verbatim (open)
+- [ ] File SMT guide page from scribe note (open)
