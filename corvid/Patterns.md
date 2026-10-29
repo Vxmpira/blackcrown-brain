@@ -1,17 +1,16 @@
 # Patterns
 
-## STEWARD CTA DIAGNOSIS, DELIVERED 10-29 (event cycle)
-- Element list, click keys ever observed: collective (legacy Eclipse-X CTA key), intelligence (Crown CTA). NO korvus key has ever fired.
-- Click proof 7d: collective 1, intelligence 1, korvus 0 against 39 home visits. Zero korvus clicks is indistinguishable from an untracked element.
-- Placements: home_cta UTM live on brand homepage Korvus CTA (shipped 10-26). SMT guide CTA tagged, first click still unseen.
-- Source split 7d: direct 33, google 1, youtube 1, other 1. Desktop 51 of 53. Crawler heavy, human floor ~26.
-- Verdict: instrumentation leak first, demand second. Proof path: watch #273 digest for utm_content=home_cta arrivals on the korvus.industries side. Full writeup in [[CTA-Diagnosis]].
+## CTA INSTRUMENTATION, FILED #295 (10-29 event cycle)
+- Click keys ever observed: collective (legacy), intelligence. NO korvus key has ever fired.
+- 7d proof: collective 1, intelligence 1, korvus 0 against 39 home visits. Untracked element, not zero demand.
+- Fix filed #295: add korvus click key to the homepage CTA anchor (the one carrying utm_content=home_cta, shipped 10-26). With Regent.
+- Proof after ship: korvus key appears in clicks, cross-check vs home_cta arrivals in #273 digest. Full writeup in [[CTA-Diagnosis]].
 
 ## #280 BASELINE
 - First run 10-30 09:35 ET. I verify from ledger and SERVER JOBS feed myself. Minions confirmed FOUR times (268-271) they cannot.
 
 ## Minion access, FINAL
-- Scout and analyst have zero row, file, feed, or live-page access. Zero data or vault-read delegations ever again.
+- Scout and analyst have zero row, file, feed, or live-page access. Zero data or vault-read delegations ever again. Scribe copywriting is fine.
 
 ## Crawler signature, standing
 - 33 of 53 direct, 51 of 53 desktop, bursts 23 ET (14) and 09 ET (13). Human floor ~26 of 53.
