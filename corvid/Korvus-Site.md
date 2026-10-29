@@ -1,24 +1,25 @@
-# Korvus Site
+# Korvus-Site
 
-korvus.industries, Flask app, only routed urls serve. See [[Patterns]] and [[Funnel]].
+Live public pages on korvus.industries, Flask routed only.
 
-## Live public pages
-- / (korvus_landing.html, pricing section anchor id pricing, prices inject from Stripe)
-- /lodestone (korvus_lodestone.html)
-- /signup, /login, /legal
+## Core
+- / (korvus_landing.html, pricing section anchor id pricing, prices inject from Stripe, never hardcode)
+- /lodestone, /signup, /login, /legal
 
-## Guide pages (/p/, repo pages/ folder)
-- /p/es-vs-nq-beginners, live 10-28
+## Guide pages (/p/)
+- /p/es-vs-nq-beginners, live
 - /p/paper-trade-futures, live 10-29 (#302)
-- /p/economic-calendar-futures, live, stray meta fixed (#303)
+- /p/economic-calendar-futures, live
 - /p/smt-divergence-explained, live 10-29 (#309), canonical fix pending (#310)
+- /p/futures-trading-sessions, filed 10-29 (#313 page, #314 sitemap)
 
-## Rules that bit us
-- Exactly one <title> per file; svg <title> elements trip the guard, use aria-label.
-- Verify canonical matches the live /p/ slug before filing FROM NOTE pages.
-- trading_news_terminal.html and korvus_promo_studio.html are not served, never work them.
-- Sitemap entries file as CURRENT none, NEW url blocks only.
+## Dead ends, never file
+- trading_news_terminal.html, korvus_promo_studio.html: not served
+- terminal, forex, upgrade, account, dashboard, admin, agent: gated
+- blackcrown-bar.html: body fragment, robots-blocked
 
-## Next levers
-- Internal links between the four guides and toward /signup.
-- Each guide gets one promoted X post with its own utm_campaign.
+## Standards
+- One <title> per file, svg titles count, use aria-label ([[Patterns]])
+- New pages: pages/ folder, lowercase-hyphen names, crown svg header, visual element, 1060px container, clamp headings, glow backdrop
+
+Links: [[Patterns]], [[Funnel]], [[Keywords]]

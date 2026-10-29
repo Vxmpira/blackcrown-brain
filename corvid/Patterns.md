@@ -6,20 +6,20 @@
 - CME contract capture date: 2026-11-01, per the standing 11-01 post task.
 - Answered four times; if Steward asks again, point here.
 
-## SMT guide LIVE 10-29
-- #309 executed after two guard blocks. Lesson confirmed: inline svg <title> elements count as titles. Exactly one <title> per file, svgs use aria-label.
-- Canonical bug: live page points to /p/smt-divergence-ex. Fix is #310, pending.
-- #311 X launch post pending with Regent.
+## HEALER LESSON, title tags
+- Inline svg <title> elements count as titles to the guard. Exactly one <title> per file, svgs use aria-label. Cost two failed executions (#305, #306) before #309 passed.
 
 ## Guide portfolio 10-29
-- Live: /p/es-vs-nq-beginners, /p/paper-trade-futures, /p/smt-divergence-explained, all in sitemap.
-- Next: futures trading sessions guide, scribe writing 10-29, file 10-30.
-- Organic is 1 visit in 7d. Search Console not instrumented, #312 filed to fix that.
+- Live: /p/es-vs-nq-beginners, /p/paper-trade-futures, /p/economic-calendar-futures, /p/smt-divergence-explained, all in sitemap.
+- Filed 10-29: sessions guide (#313) plus sitemap entry (#314), from scribe note 279.
+- SMT canonical bug (/p/smt-divergence-ex) fix is #310, pending. #311 X launch post pending.
+- Next topic: scout ranking beginner futures queries, pick by demand not instinct.
 
 ## Traffic shape 10-29
-- 7d: ~3 human visits of 54 (mobile 3, google 1, youtube 1). Under 1 a day.
+- 7d: 56 visits but ~3 human (mobile 3, google 1, youtube 1). Under 1 real visitor a day.
 - Hour spikes 23:00 and 09:00 ET desktop read as crawler or audit traffic. See [[Funnel]].
 - Promotion closes the gap faster than waiting on crawl: per-guide UTM campaigns on X.
+- Search Console still not instrumented; #312 refile owed, kind campaign was wrong, needs a job or owner task.
 
 ## Audit dead ends, do not file
-- blackcrown-bar fragments, promo studio, dashboard, admin, agent: gated, unrouted, or robots-blocked. SEO work there is wasted.
+- blackcrown-bar fragments, promo studio, dashboard, admin, agent: gated, unrouted, or robots-blocked. SEO work there is wasted. See [[Korvus-Site]].
