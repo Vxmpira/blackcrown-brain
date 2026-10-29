@@ -192,3 +192,6 @@ The 19:0
 - 2026-10-29: #266 Korvus X click test: cold hook with disclaimer and homepage link > DONE: posted to X with the brand account (post 2115767317803991422)
 - 2026-10-29: #267 Tenth /p guide, futures news terminal, commercial intent > DONE: pages/futures-news-terminal.html already satisfies the ask, verified against the live file, nothing to change (self repaired)
 - 2026-10-29: #268 Add futures-news-terminal url to Korvus sitemap > DONE: sitemap.xml already lists every entry, nothing to add
+- 2026-10-29: #270 Daily visit quality digest with per-visit rows > DONE: job registered: "Daily visit quality digest with per-visit rows", daily at 09:30 ET, posts to corvid. The server runs it from now on, no Make needed.
+- 2026-10-29: #271 X post pushing futures news terminal guide > DONE: posted to X with the brand account (post 2115784812313137302)
+- 2026-10-29: #272 Korvus wire video, 10-30, critic PASS > DONE: rendering via Bloom, package lands in the channel

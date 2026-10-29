@@ -1,19 +1,22 @@
 # Patterns
 
+## UTM clip spec, SET 10-29
+- Spec lives in [[UTM]]. utm_content = v-YYYYMMDD-HHMM-slug. Korvus clips land on korvus.industries homepage. Discord invites take no UTM.
+
 ## X post IDs, CONFIRMED 10-29
-- From Regent ledger: #262 = 2115736862782362088 (Crown ownership), #265 = 2115767314846998656 (kill zones guide), #266 = 2115767317803991422 (Korvus cold hook). Passed to Steward.
+- #262 = 2115736862782362088 (Crown ownership), #265 = 2115767314846998656 (kill zones), #266 = 2115767317803991422 (Korvus cold hook). Passed to Steward.
 
 ## Herald click report, ANSWERED 10-29
-- Clicks 7d by CTA: Korvus 0, intelligence 1, collective 1 (legacy Eclipse key). Per-day rows not instrumented, job #270 unlocks that.
-- Sources 7d: direct 32, google 1, youtube 1, other 1. ZERO x.com or t.co despite 3 live X posts. Reach problem on Herald's side, not landing.
-- Diagnosis stands: home takes 32 of 40 and passes nothing to Korvus. 95% desktop, 14 hits at 23 ET, likely bots. Qualified humans under 5 of 40.
+- Clicks 7d: Korvus 0, intelligence 1, collective 1 (legacy key). Per-day rows wait on job #270.
+- Sources 7d: direct 32, google 1, youtube 1, other 1. ZERO x.com or t.co despite 3 live X posts. Reach problem, not landing.
+- Home takes 32 of 40, passes nothing to Korvus. 95% desktop, 14 hits at 23 ET look botlike. Qualified humans under 5 of 40.
 
 ## Zero-click leak, OPEN
 - Home CTA fix still BLOCKED on Steward paste (8bc76da0, 9d219832).
 - Korvus landing CTA impressions and scroll depth NOT instrumented.
 
 ## /p pipeline, WORKING
-- Ten guides live, sitemap complete. X push pending #271.
+- Ten guides live incl futures-news-terminal, sitemap complete (ledger #267, #268). X push pending #271.
 
 ## Bloom budget
 - 13.05 of 200 left, 2 days remain. HARD COAST. Zero new angles to Bard until 11-01.

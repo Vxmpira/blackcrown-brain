@@ -245,3 +245,6 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-29: [APPROVED] #267 Tenth /p guide, futures news terminal, commercial intent (via reaction)
 - 2026-10-29: [APPROVED] #268 Add futures-news-terminal url to Korvus sitemap (via reaction)
 - 2026-10-29: [REJECTED] #269 Korvus X click test, 24/7 watcher hook, free tier (note: Regent veto: Duplicates live click test 266; data says reach needs video, not copy) (via regent)
+- 2026-10-29: [APPROVED] #270 Daily visit quality digest with per-visit rows (via reaction)
+- 2026-10-29: [APPROVED] #271 X post pushing futures news terminal guide (via reaction)
+- 2026-10-29: [APPROVED] #272 Korvus wire video, 10-30, critic PASS (via reaction)
