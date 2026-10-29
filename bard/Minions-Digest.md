@@ -17,3 +17,12 @@
 - **Director/059 (Korvus watcher, 180-word version):** Low-key magenta rim light, deep black shadows, quick hook then slow steady pacing. Any chart on the screen is an illustrative mock tagged Illustration in the overlay field, never in the footage.
 - **Director/053 to 057 (closing-line drafts):** The No Text Law closing line is "No words, letters, numbers, logos, or typography anywhere in the footage." Title text such as "Convergence" is baked in post by the forge, never generated.
 - **Director/037, 038, 040 (Crown Creativity drafts):** Crown glow is a dark pink crown-shaped arc on the panel top edge. It stays soft and unlettered, never a readable mark, and brightens as fragments land.
+
+## 2026-10-29 (30 notes condensed)
+- Bard direction briefs run long and get cut off mid-sentence when they exceed the word cap (061). Keep briefs under 90 to 130 words so the closing No Text Law line survives.
+- Critic rule for Bard footage: the hook must show motion inside the first second, not just an ignition. Critic rejected a point that only lights up before anything moves (088).
+- Critic rule for Bard footage: avoid a symmetric four-stream convergence or a crown outline in the footage, since it can read as an emblem or logo. Use uneven entry angles and speeds instead (085, 088).
+- Every Bard direction needs explicit 9:16 framing, per-shot second timing that adds up to the stated length, and a closing beat. Critic failed directions that contradicted their own motion pace, such as "fast push-in" alongside "slow and steady" (084, 085).
+- Crown video palette spec: base near-black #0A0008, primary pink glow #FF2A8A used only for light sources, highlights #FFD6EA sparingly, low saturation outside pink, no warm skin tones, no bright whites (089).
+- Korvus Watcher 19:00 copy, reusable: title "The Watcher Never Blinks: Korvus Market Wire", hook "While you sleep, something is still watching the tape.", destination card korvus.industries, caption marked Illustration, not live data, not trading advice (064).
+- Korvus Watcher overlay Variant A, reusable: "Index futures. 24 hours." (0s), "Something is always watching." (7s), "Your edge while the world sleeps." (12s) (064).

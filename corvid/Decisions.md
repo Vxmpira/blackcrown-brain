@@ -275,3 +275,5 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-29: [APPROVED] #297 Add overnight guide to Korvus sitemap (via reaction)
 - 2026-10-29: [APPROVED] #298 New guide page: economic calendar for futures traders (via reaction)
 - 2026-10-29: [APPROVED] #299 Add economic calendar guide to Korvus sitemap (via reaction)
+- 2026-10-29: [APPROVED] #300 New guide page: ES vs NQ for beginners (via reaction)
+- 2026-10-29: [APPROVED] #301 Add ES vs NQ guide to sitemap (via reaction)

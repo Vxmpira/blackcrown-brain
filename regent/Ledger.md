@@ -216,3 +216,5 @@ The 19:0
 - 2026-10-29: #297 Add overnight guide to Korvus sitemap > DONE: sitemap.xml updated live (appended 1 new entry). repo committed and pushed.
 - 2026-10-29: #298 New guide page: economic calendar for futures traders > DONE: pages/economic-calendar-futures.html updated live (new page created). repo committed and pushed.
 - 2026-10-29: #299 Add economic calendar guide to Korvus sitemap > DONE: sitemap.xml updated live (appended 1 new entry). repo committed and pushed.
+- 2026-10-29: #300 New guide page: ES vs NQ for beginners > DONE: pages/es-vs-nq-beginners.html updated live (new page created). repo committed and pushed.
+- 2026-10-29: #301 Add ES vs NQ guide to sitemap > DONE: sitemap.xml updated live (appended 1 new entry). repo committed and pushed.
