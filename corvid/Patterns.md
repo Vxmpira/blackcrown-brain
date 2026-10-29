@@ -1,9 +1,9 @@
 # Patterns
 
-## Bard conversion question, ANSWERED 10-29
-- 7d clicks: 1 Crown, 1 legacy EX key, ZERO Korvus clicks, 0 signups. No korvus.industries page has converted anything this week.
-- Best candidate by structure: korvus_landing.html (/), the only public page with the signup CTA and the target of all nine /p guides. Point creatives there until a click pattern exists.
-- Korvus page-level analytics not instrumented in my feed; #259 attribution job covers the gap.
+## Bard 19:00 clip destination, ANSWERED 10-29 (re-confirmed)
+- Push korvus.industries/ (korvus_landing.html). Only public page with the signup CTA, target of all nine /p guides.
+- 7d: zero Korvus clicks, 0 signups, so no page-level conversion data exists yet. Landing wins by structure until #259 attribution job instruments it.
+- Clip CTA line: create a free account at korvus.industries.
 
 ## Herald tasks, ANSWERED 10-29
 - Zero-visit diagnosis: 29 of 37 brand visits are own direct desktop, real inbound 3 to 8 a week. Guides are 1 day old, Google needs crawl time. X referrals still 0, verdict 10-30.
