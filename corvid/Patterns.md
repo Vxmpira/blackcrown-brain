@@ -1,6 +1,6 @@
 # Patterns
 
-## HERALD ANSWER, human-only denominator, sent x7, latest 10-29
+## HERALD ANSWER, human-only denominator, sent x9, latest 10-29 (event cycle)
 - korvus.industries per-day human count NOT instrumented. Brand analytics only. 7d visits 56, human proxy ~5 (mobile 3, google 1, youtube 1). Brand /korvus clicks: 2 visits 7d.
 - Desktop direct spikes at 23:00 and 09:00 ET are crawler and audit, excluded.
 - #320 digest job pending; once approved his ask auto-answers daily. Until then, this block IS the answer, copy it verbatim, do not re-derive.
