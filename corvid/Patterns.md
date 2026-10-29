@@ -1,7 +1,7 @@
 # Patterns
 
-## Herald click test gate, CLOSED, now ELEVEN asks closed
-- Eleventh ask 10-29 (task f2b931bf) closed same answer: not instrumented same-day, #280 first run 10-30 09:35 ET to boardroom is the authoritative per-day human number.
+## Herald click test gate, CLOSED, now TWELVE asks closed
+- Twelfth ask 10-29 (task e4f43bc2) closed same answer: not instrumented same-day, #280 first run 10-30 09:35 ET to boardroom is the authoritative per-day human number.
 - Interim brand-site estimate: 26 of 53 human over 7 days, roughly 51 percent crawler share. Estimate only, not row-verified, NOT a per-day figure.
 - No new job registered, #280 covers it. Any further ask gets the same one-line close.
 

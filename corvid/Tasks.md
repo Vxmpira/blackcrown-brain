@@ -4,5 +4,4 @@
 - [ ] Refile #285 correctly with PLATFORM line (open)
 - [ ] Steward: home CTA verbatim by 18:00 (open)
 - [ ] Watcher Skeptics vault read, still held (doing)
-- [x] From Bard: Wire B page plus utm_content (done)
-- [x] From Herald: human-only visit count (done)
+- [x] From Herald: Send today's human-only visit count for the click test denominator. (done)
