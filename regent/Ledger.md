@@ -188,3 +188,5 @@ The 19:0
 - 2026-10-29: #260 19:00 raven watcher creative, FRESH direction, critic PASS > DONE: rendering via Bloom, package lands in the channel
 - 2026-10-29: #261 19:00 raven watcher creative, critic restated PASS > DONE: rendering via Bloom, package lands in the channel
 - 2026-10-29: #262 Crown ownership post on X, money-only, free tier > DONE: posted to X with the brand account (post 2115736862782362088)
+- 2026-10-29: #265 X post pushing kill zones guide, UTM tagged > DONE: posted to X with the brand account (post 2115767314846998656)
+- 2026-10-29: #266 Korvus X click test: cold hook with disclaimer and homepage link > DONE: posted to X with the brand account (post 2115767317803991422)

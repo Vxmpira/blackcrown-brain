@@ -240,3 +240,5 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-29: [APPROVED] #260 19:00 raven watcher creative, FRESH direction, critic PASS (via reaction)
 - 2026-10-29: [APPROVED] #261 19:00 raven watcher creative, critic restated PASS (via reaction)
 - 2026-10-29: [APPROVED] #262 Crown ownership post on X, money-only, free tier (via reaction)
+- 2026-10-29: [APPROVED] #265 X post pushing kill zones guide, UTM tagged (via reaction)
+- 2026-10-29: [APPROVED] #266 Korvus X click test: cold hook with disclaimer and homepage link (via reaction)
