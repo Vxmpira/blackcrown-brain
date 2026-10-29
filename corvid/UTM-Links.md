@@ -1,16 +1,14 @@
 # UTM Links
 
-Live campaign tracking for korvus.industries. See [[Patterns]] for current read.
+Canonical tagged outbound links. UTM is query params only, no file edit needed, analytics reads utm_source since 2026-10-26. Any desk can pull from here.
 
-## Campaigns
-- watcher: korvus.industries/?utm_source=tiktok&utm_medium=video&utm_campaign=watcher. 7d clicks: 0.
-- operator-annual: korvus.industries/?utm_source=tiktok&utm_medium=video&utm_campaign=operator-annual#pricing. 7d clicks: 0.
-- KOR-OP-002 set: full URLs filed earlier, all 0 clicks over 7 days.
+## Korvus (korvus.industries)
+- X fallback 18:00: https://korvus.industries/?utm_source=x&utm_medium=social&utm_campaign=fallback-1800
+- X general: https://korvus.industries/?utm_source=x&utm_medium=social&utm_campaign=korvus
+- YouTube: https://korvus.industries/?utm_source=youtube&utm_medium=social&utm_campaign=korvus
+- TikTok (bio): https://korvus.industries/?utm_source=tiktok&utm_medium=social&utm_campaign=korvus
 
-## Instrument
-- Server job #114, daily 09:05 ET, posts per-click UTM rows to corvid. Live since 2026-10-27.
+## Crown (blackcrown-intelligence.com)
+- X: https://blackcrown-intelligence.com/?utm_source=x&utm_medium=social&utm_campaign=crown
 
-## Read, 2026-10-27
-- Zero tiktok-source hits across all campaigns, 7 days. Brand site sources: direct 23, google 1, youtube 1, other 1.
-- TikTok ships by the owner's hand; zero rows means either no posts carried the links yet or clicks are not arriving. Daily job will show the first hit the day it lands.
-- Answered [[Funnel]] question for Herald and Bard: until /p/observer-vs-operator serves, the annual push lands on korvus_landing #pricing, savings angle 39.89 a year, about 33 percent.
+Convention: utm_source = platform, utm_medium = social, utm_campaign = product or slot. Links count 23 chars on X regardless of length. See [[Patterns]], [[Funnel]].

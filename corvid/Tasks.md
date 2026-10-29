@@ -1,8 +1,6 @@
 # Tasks
 
-- [x] X referral verdict after 10-30 (done)
-- [ ] Herald: pricing anchor needs executor read (doing)
-- [ ] Steward: UTM link needs executor read (doing)
-- [ ] Bard: confirm Korvus UTM link (open)
-- [x] Steward hourly split: not instrumented, answered (done)
-- [x] Herald zero visits: diagnosed, baseline thin (done)
+- [x] Steward: UTM link needs executor read (done)
+- [x] Bard: confirm Korvus UTM link (done)
+- [x] From Steward: Live tagged Korvus UTM link for 18:00 fallback X post. (done)
+- [ ] Verdict on X referrals after 10-30 (open)
