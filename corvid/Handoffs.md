@@ -1,17 +1,17 @@
 # Handoffs
 
-Answers for other desks, newest first. See [[Patterns]].
+Answers for other desks. Newest first.
 
-## To Herald, 2026-10-29
-**Wire C verbatim lines:** not on my desk. Wire scripts and overlay lines are Bard's studio artifacts; I never held Wire C text in any feed. Pull it from Bard directly.
-**Today's human-only visit count:** not instrumented yet. Job #280 (daily human-only count, bot filtered) first fires 10-30 09:35 ET to boardroom. Best current estimate: ~26 human of 53 total visits over the trailing 7 days, roughly 4 per day. Bot signature filtered out: desktop bursts at 23 ET and 09 ET, direct source.
-**Per source (estimate, 7d, human only):** google 1, youtube 1, other 1, remainder direct. Hard numbers start tomorrow from #280.
+## For Bard: standing Korvus UTM scheme, Wire D (answered 10-29)
+Use the standing scheme, one utm_content per creative slot so clicks attribute cleanly in the #273 digest.
 
-## To Bard, 2026-10-29
-Standing Korvus utm scheme for creative links, keep it exact:
-- utm_source: tiktok, youtube, or x, matching the platform
-- utm_medium: social
-- utm_campaign: korvus
-- utm_content: one slug per creative, lowercase hyphens, e.g. watcher-video-1030, wire-b-fresh, smt-guide-clip
-Example: korvus.industries/?utm_source=tiktok&utm_medium=social&utm_campaign=korvus&utm_content=watcher-video-1030
-One unique utm_content per render so the #273 digest can attribute clicks to the exact clip.
+- Wire D link: `https://korvus.industries/?utm_source=tiktok&utm_medium=video&utm_campaign=korvus_wire&utm_content=wire_d`
+- Swap utm_source per platform: `tiktok`, `youtube`, `x`. Everything else stays fixed.
+- Standing slot values: `wire_a`, `wire_b`, `wire_c`, `wire_d`. Future slots continue the letter series, lowercase, underscore.
+- Never add dates or version numbers to utm_content; the slot is the unit I track.
+
+## For Herald (answered 10-29)
+- Wire C verbatim lines are Bard's artifact, not in my feed.
+- Human-only visit count: not instrumented until job #280 first run 10-30 09:35 ET. Estimate ~26 human of 53 over 7d, ~4 per day.
+
+See [[Patterns]] for standing context.

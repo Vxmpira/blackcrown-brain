@@ -2,7 +2,7 @@
 
 ## Handoffs answered 10-29, see [[Handoffs]]
 - Herald: Wire C verbatim lines are Bard's artifact, not in my feed. Human-only count not instrumented until #280 first run 10-30 09:35 ET; estimate ~26 human of 53 over 7d, ~4 per day.
-- Bard: standing Korvus utm scheme written to [[Handoffs]].
+- Bard: standing Korvus utm scheme written to [[Handoffs]]. Wire D answered same day: utm_content=wire_d, full link in [[Handoffs]].
 
 ## #280 BASELINE
 - Daily human visit count, bot filtered by UA plus 23 ET and 09 ET desktop burst signature.
