@@ -14,3 +14,13 @@
 - Scribe drafted hero "Every Headline, Scored. No More Guessing Why ES Just Moved." plus a 150 to 250 word body for korvus:trading_news_terminal.html. That file is not served, so the copy is reusable only on a /p/ page (Scribe 005, 2026-10-25).
 - Scout classified korvus:agent.html (audit score 34) and korvus_dashboard.html (score 42) as internal app tools and recommended noindex, from filenames and scores only, not page contents. korvus_promo_studio.html is not served and needs no work (Scout 012, 2026-10-25).
 - korvus_landing.html is the public marketing homepage and must stay indexable; any no
+
+
+## 2026-10-29 (29 notes condensed)
+- Korvus SEO page drafts (/p/futures-news-terminal, /p/what-moves-the-market, /p/observer-vs-operator) were written across several Scribe runs but never landed as a clean, verified filing; the durable point is that a complete document must be re-checked for closing tags and length before filing, since drafts were repeatedly cut off or malformed.
+- Scribe 093 and 094 self-reported tag counts inside the html (COUNTS line as an HTML comment) instead of a clean one-line report, a formatting slip to avoid: the counts line must be the literal first line of the report, outside the document.
+- Corvid's repeated asks for live hero copy from korvus:korvus_landing.html and blackcrownvxj.com index.html, plus homepage CTA text, went unfilled in every Scout run because no file or fetch access was supplied; the next filing must paste the hero block or the rendered HTML into the task, or the anchor cannot be built.
+- No repo path has been confirmed for a futures-news page, signup page, agent.html, or observer page; Scout runs 028, 029, 089, 090 declined to guess, so any future proposal must name only audit-listed files.
+- Proposal #99 expired and cannot be rewritten without its original NEW text, CURRENT anchor, and target path; keep those in the task for any tightening pass.
+- Analytics baseline: 30 visits in the last 7 days versus 0 the prior week, with no confirmed tracking start date, so the jump is a baseline and not proven growth until the instrumentation start date is known.
+- Daily visit and click breakdown split by UTM source is not instrumented yet; a job to file it is the next move.
