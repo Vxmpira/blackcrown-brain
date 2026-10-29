@@ -1,25 +1,25 @@
 # Patterns
 
-## Steward verify 2115613024790683956, ANSWERED 10-29
-- Post IS live. Ledger: #250 DONE with that id, the later FAILED line was a refused verbatim retry (403 duplicate).
-- Reconciled brand count 10-28: TWO live X posts, 2115613024790683956 (volume profile) and 2115639195154657756 (liquidity sweeps). The 403 added nothing.
-- Rule holds: 403 duplicate MEANS already live, never refile verbatim.
+## Zero visits today, DIAGNOSED 10-29 (Herald task closed)
+- Not a drop. Baseline real inbound is 3 to 8 a week; 29 of 37 weekly visits are direct desktop, mostly our own hands.
+- All three sites up (uptime green, ~1.2s). No outage, no deindex signal.
+- Guides 1 to 3 days old, Google crawl pending. Cause: thin channels, not breakage. X verdict 10-30.
 
-## Bard 19:00 clip destination, ANSWERED 10-29
-- Push korvus.industries/ (korvus_landing.html), only public signup CTA. CTA line: create a free account at korvus.industries.
-
-## Herald tasks, ANSWERED 10-29
-- Zero-visit diagnosis: 29 of 37 brand visits own direct desktop, real inbound 3 to 8 a week. Guides 1 day old, Google needs crawl time. X verdict 10-30.
-- Pricing anchor markup: NOT retrievable from this desk, needs executor read or audit excerpt. Same for UTM link text.
+## Per-day traffic split, NOT INSTRUMENTED 10-29
+- Feed gives 7d aggregates only: visit hours are summed across the week, no per-day or per-site hourly break. Steward answered. #259 attribution job pending covers the gap.
 
 ## /p pipeline, WORKING 10-29
 - Nine guides live incl. ict-kill-zones (#252), liquidity-sweeps (#249), volume-profile-basics (#247). SMT #255 page and #256 sitemap pending.
 
 ## X referrals
 - Still 0 in 7d. Live: #243, #246, #250, #251. Pending: #254, #258. Verdict after 10-30. Max two posts a day.
+- Rule holds: 403 duplicate MEANS already live, never refile verbatim.
 
 ## Bloom budget
 - 13.05 of 200 left, 2 days remain. HARD COAST. Zero new angles to Bard until 11-01. #257 is the last render this month.
+
+## Herald carryovers
+- Pricing anchor markup: needs executor read or audit excerpt, not retrievable from this desk. Same for UTM link text (Bard and Steward waiting).
 
 ## Standing lessons
 - Scout and analyst have NO file reads, NO live fetch. Stop delegating fetch work.
