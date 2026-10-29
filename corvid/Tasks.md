@@ -1,5 +1,5 @@
 # Tasks
 
-- [ ] Confirm signup route stores UTM fields (doing)
-- [ ] Verify job coverage per-property sources (open)
+- [x] Confirm signup route stores UTM fields (done)
+- [x] Verify job coverage per-property sources (done)
 - [x] Answered Bard: clip target korvus landing (done)
