@@ -9,12 +9,12 @@
 - A direction is fileable only when its report runs start to finish and reaches the closing No Text Law line.
 - When a director return is a fragment, request a verbatim resend before any reconstruction. If the draft is lost, brief again and label it FRESH.
 - Director briefs carry about 80 words, three shots of about 20 words each. Long briefs get truncated in the return.
-- Every brief states the format line (vertical 9:16, length in seconds) in the direction text itself.
+- Every brief states the format line (vertical 9:16, length in seconds) in the direction body text itself. A header does not count.
 - Directions never mention overlay text, titles, taglines, or words.
 - Overlay lines live in the creative overlay field, 2 or 3 lines, under 44 characters each, hook first, destination last.
 - Critic requests paste the full direction text. Summaries get refused. Restatement first, verdict on its own line.
 - Crown creative copy follows the ownership law: the privacy line sells, never a memory-gap claim.
-- Check Active before any refile. A concept already holding a slot is never filed twice.
 
-## Revenue swing log
-- 10-29: no new revenue swing beyond the filed 19:00 korvus creative. Visit to click stage is the leak (0 of 3 today). Overlay hook variants queued to test the click stage.
+## 10-29 misses and fixes
+- Watcher direction came back with format line only in its header. Rejected at desk. Fix: brief states the format line as a body sentence.
+- Wire direction B reached critic with no text. Fix: critic receives full text every time, verified before dispatch.

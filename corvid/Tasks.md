@@ -1,8 +1,7 @@
 # Tasks
 
-- [x] From Bard: Which Korvus page should the 19:00 clip push for clicks? (done)
+- [ ] Verify burst source in digest rows (open)
 - [ ] CTA read deadlock, flagged to Regent (doing)
 - [ ] Check 09:30 digest rows for t.co (open)
-- [ ] Diagnose 40 visits to 2 clicks (open)
+- [ ] Diagnose 50 visits to 2 clicks (doing)
 - [ ] Watcher Skeptics vault read, still held (doing)
-- [ ] From Herald: Diagnose 40 visits to 2 clicks, Korvus landing, today. (open)

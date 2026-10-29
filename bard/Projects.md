@@ -1,33 +1,33 @@
 # Bard Projects
 
+## Steward status, 10-29 (answer to gate request)
+- Clip status: 0 directions PASSED. Nothing filed today.
+- 19:00 Korvus overlay-hook creative (filed earlier): render pending, YouTube post files the day the render link lands.
+- Crown ownership creative (filed earlier, holds the 10-30 slot): render pending. Do not refile.
+- Korvus watcher clip: FRESH direction rejected twice (format line missing from body, then cut off mid camera line). Re-brief in progress. Not filed.
+- Wire 11:00 10-30, direction B: no text on record. Full re-brief in progress. Not filed.
+- last_verified: 2026-10-29, from the critic log in this vault. No critic verdict has passed a full restate today.
+- PASS list: empty.
+- Gate source and export: not in the Bard vault. Requested from Steward, due 17:30 ET. Not reconstructed.
+
 ## Active
-- Crown ownership creative: filed as creative to crown, holds the 10-30 slot. Render pending. Do not refile.
-- Crown ownership direction A (FRESH resend): restated in full and critic PASS, but duplicates the filed Crown creative. Not refiled.
-- 11:00 wire 10-30, direction B: critic received no text, no verdict. NOT FILED. Next: full-text re-brief, critic restates full text, verdict on its own line, then file if PASS.
-- 19:00 slot 10-29: filed as creative to korvus. Render pending. YouTube post files the same day the render link lands.
-- Korvus watcher clip brief: director drafting FRESH, critic review pending.
-- Korvus overlay hooks from quill: three variants received. Pick one for the 19:00 or next clip. Variant 1 Watching while you sleep. korvus.industries (43 chars) fits the watcher angle.
-- Steward 17:30 export and clip status: requested gate source and last_verified. Not held by Bard.
-- Herald caption for the 11:00 slot and the #275 post text: requested, not in vault.
-- Approved PASS render library index: build open.
+- Watcher direction: needs verbatim resend with format line in body (Vertical 9:16, 12 seconds), then critic.
+- Overlay hooks from quill (variant 1 locked, variant 2 and 3 on file): Watching while you sleep. / Index futures, 24/7. / Tape keeps moving at 3am. All end korvus.industries.
+- Herald 11:00 caption and #275 text: requested, not in vault.
 - YouTube title held: Your AI Context Stays Yours. Crown Is Built That Way. Description drafted by quill.
 - Owner rulings pending, not refiled: Crown ownership X post, Korvus Observer X post.
 - Eclipse-X community channel not wired. 0 of 2 posts today.
-- Per-video utm_content tags for clip links: open.
+- Per-video utm_content tags for clip links: open. Per-video attribution not instrumented yet.
+- Approved PASS render library index: build open.
 
 ## Funnel, 10-29
-- Today: 3 visits, 0 clicks, 0 signups. Revenue: $0 MRR, 0 subscribers.
-- 7 days: 40 visits, 2 clicks, 0 signups.
-- Per-video attribution not instrumented yet.
-- Stage moved today: none. Visit to click is the leak, 0 of 3.
+- Today (feed): 16 visits, 0 clicks, 0 signups. Visit to click is the leak, 0 of 16.
+- 7 days: 53 visits, 2 clicks, 0 signups.
+- Revenue: $0 MRR, 0 subscribers, $0 this month.
+- Bloom balance: not in feed. Render cap math not confirmed.
 
 ## Lessons
 - A PASS needs the restated text in the same report. A verdict without text is a FIX.
-- Cut-off restate voids the PASS, even when the verdict line reads PASS. Check that the restate reaches the No Text Law line.
-- A summary of a direction is not a restatement. Critic must receive and restate the full text.
-- Every direction must state the format line (vertical 9:16, length in seconds) in its own text before critic review.
-- A direction returned without its format line is rejected at the desk, not sent to critic.
-- Keep Bard's own copy of each direction in the vault so a truncated return can be checked against it.
-- A fresh director resend of a concept already filed is a duplicate. Check Active before critic review.
-- A critic return with no direction text is a FIX, not a PASS. Re-brief and resend the full text.
-- 10-29: a critic report that cut off mid restate voided its verdict. Restate first, verdict last.
+- Cut-off restate voids the PASS, even when the verdict line reads PASS.
+- A direction returned without its format line is rejected at the desk.
+- A direction returned as a fragment gets a verbatim resend, not a rebuild.
