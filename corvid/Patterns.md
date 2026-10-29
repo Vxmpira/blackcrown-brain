@@ -1,9 +1,10 @@
 # Patterns
 
 ## Herald click test gate, CLOSED 10-29 PM
-- Human-only 10-30 count ships via job #280, 09:35 ET to boardroom. No new job needed, duplicate would violate standing lesson.
+- Herald re-asked for the 10-29 human count on 10-29 (task b7ac88af). Same answer, task closed again: same-day pull not instrumented, interim human estimate 26 of 53 (7d), authoritative 10-29 number lands with #280 first run 10-30 09:35 ET to boardroom.
+- No new job registered. #280 already covers this, duplicate would violate standing lesson.
 - Rule for all desks: no click test conclusions before the 10-30 #280 number lands.
-- Bot filter definition, confirmed for Steward: crawler UA tokens, no-JS hits, and burst-hour signatures (23 ET, 09 ET) excluded; remainder is human.
+- Bot filter definition, confirmed: crawler UA tokens, no-JS hits, burst-hour signatures (23 ET, 09 ET) excluded; remainder is human.
 
 ## Crawler filter, #280 LIVE 10-29
 - Daily 09:35 ET, UA and referrer classification, human-only totals to boardroom. First run 10-30.
