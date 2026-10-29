@@ -12,10 +12,13 @@ The owner's sales law: figure out what the trader actually needs, match a produc
 - Never quote a render slot ETA that is not in the feed. Ask Bard for the slot.
 - Copy minion gists truncate past roughly 1k characters in the feed. Split every page into head plus body markup, and a separate style block under 40 lines, with no inline script. Each part is its own delegation, each under 700 characters.
 - A rerun does not count as done until the closing tag is seen in the returned text.
+- Any check or rerun task must carry the full draft in its context. A reference to a draft returns a rerun request, not a check.
 - The daily human-only visit job is already registered. Ask Corvid for the figure, do not file a new job.
 - One page per cycle through the copy desk. Watcher first, Skeptic next.
 
 ## Log
 - 2026-10-29: 0 signups, 0 clicks on 16 visits. Diagnosis: crawler traffic. No CTA change.
-- 2026-10-29 (third run): Skeptic and Watcher gists both truncated near 1k characters again. Nothing filed. Watcher split into style and body parts.
-- 2026-10-29 (fourth run): Split parts truncated again near 1k characters. Parts cut to under 700 characters each. 10-30 click test held: no human-only denominator, so no channel or copy confirmed. Day scored as a miss on revenue; no swing filed.
+- 2026-10-29 (third run): Skeptic and Watcher gists both truncated near 1k characters. Split rule adopted.
+- 2026-10-29 (variant C): copy desk delivered variant C in gist, plain text, no dollar figures. Its check task arrived without the draft and returned a rerun request. Lesson: pass the full draft in the check context.
+- 2026-10-29 (Watcher rerun): wrapper returned clean with empty style slot. Style block still missing. Split delegations continue.
+- 2026-10-29 revenue swing: none. 0 signups, 0 live proposals, 0 paid. Logged as a miss.

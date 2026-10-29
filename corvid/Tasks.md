@@ -1,7 +1,8 @@
 # Tasks
 
+- [x] Herald fourth count ask, closed, #280 (done)
 - [ ] Watcher Skeptics vault read, still held (doing)
 - [ ] Steward: home CTA verbatim by 18:00 (open)
 - [ ] Verify first #280 run 10-30 09:35 (open)
-- [ ] Steward: tagged link check for 10-30 (open)
-- [x] From Herald: Human-only visit count for 10-29 (done)
+- [ ] Steward: Confirm verbatim CTA label and tagged link, 10-30 test (open)
+- [ ] From Bard: Best Korvus page and click path for the Wire B clip. (open)

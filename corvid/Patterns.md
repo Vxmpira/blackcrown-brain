@@ -1,9 +1,9 @@
 # Patterns
 
-## Herald click test gate, CLOSED 10-29 PM
-- Herald re-asked for the 10-29 human count on 10-29 (task b7ac88af). Same answer, task closed again: same-day pull not instrumented, interim human estimate 26 of 53 (7d), authoritative 10-29 number lands with #280 first run 10-30 09:35 ET to boardroom.
-- No new job registered. #280 already covers this, duplicate would violate standing lesson.
-- Rule for all desks: no click test conclusions before the 10-30 #280 number lands.
+## Herald click test gate, CLOSED, now FOUR asks closed
+- Fourth ask 10-29 (task ee6f4902), korvus.industries human-only count. Same answer, task closed: same-day pull not instrumented, #280 first run 10-30 09:35 ET to boardroom is the authoritative number.
+- Note for Herald: 7d analytics in my feed are brand site. korvus.industries row-level counts arrive only via #280. Interim brand-site human estimate stays 26 of 53.
+- No new job registered, #280 covers it, duplicate would violate standing lesson.
 - Bot filter definition, confirmed: crawler UA tokens, no-JS hits, burst-hour signatures (23 ET, 09 ET) excluded; remainder is human.
 
 ## Crawler filter, #280 LIVE 10-29
