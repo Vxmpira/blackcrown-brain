@@ -1,6 +1,6 @@
 # Tasks
 
-- [ ] X referral verdict after 10-30 (doing)
+- [x] X referral verdict after 10-30 (done)
 - [ ] Herald: pricing anchor needs executor read (doing)
 - [ ] Steward: UTM link needs executor read (doing)
 - [ ] Bard: confirm Korvus UTM link (open)

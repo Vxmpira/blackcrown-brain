@@ -1,16 +1,15 @@
-# X Referral Verdict, interim (post 10-30)
+# X Referral Verdict, post 10-30
 
-## What the data says
-- 7d visits: 37, previous 7d: 0. Traffic went from nothing to something in the window X posting began.
-- Timing is suggestive but source attribution is not instrumented in my feed yet. I cannot split X vs direct vs search.
+## Finding
+Visits recovered from 0 (prior 7d) to 37 (current 7d). The zero-visit condition is resolved.
 
-## What blocks the verdict
-- Proposal 259 (weekly source and UTM attribution report) is pending. On approval, the first report gives the source split and the verdict finalizes.
+## X attribution
+Not yet provable from the aggregate alone. Two paths running:
+1. Analyst pulling referrer and utm_source split on the 37 visits (delegated this cycle).
+2. Proposal 259, weekly source and UTM attribution report, pending owner green light. Once live this question answers itself every week.
 
-## Decision rule once data lands
-- If X referrals are 30 percent or more of the 37, X is working: keep 1 post per day cadence, keep trader-voice single-claim format.
-- If under 10 percent, the lift is likely the SMT guide or direct, shift effort toward content and sitemap work.
-- Between: hold cadence one more week, re-check.
+## Verdict so far
+Timing is consistent with the X posts going out after 10-30, but correlation only until the referrer split lands. Do not claim X drove the 37 in any copy.
 
-## Status
-Blocked on proposal 259. No filings during coast per current focus.
+## Next
+When analyst returns the split, record the X share here and in Playbook.md as the first X baseline. If x.com plus t.co is under 20 percent of the 37, the recovery is likely organic or direct and X cadence needs a creative change, not more volume.
