@@ -1,6 +1,7 @@
 # Tasks
 
 - [ ] Track #310 canonical fix execution (open)
-- [x] Refile #317 Search Console job (done)
 - [ ] Margin sitemap entry after #319 rules (open)
-- [x] From Herald: Send today's bot-filtered human-only Korvus visit count. (done)
+- [ ] From Steward: Source CME E-mini hours capture date for Globex rewrite (open)
+- [ ] Steward: Paste live SMT guide HTML into Auditor context (open)
+- [x] From Herald: Post today's human-only visit count, bot filtered, for the click test. (done)
