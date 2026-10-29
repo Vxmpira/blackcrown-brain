@@ -1,17 +1,16 @@
 # Korvus Site
 
-Live public routes on korvus.industries: /, /lodestone, /signup, /login, /legal.
+Live public routes: /, /lodestone, /signup, /login, /legal. Pricing is a section on korvus_landing.html, server injected, never hardcode.
 
-## /p/ guide pages, the SEO engine
-- /p/overnight-futures-session, live 10-29 (#296, sitemap #297)
-- /p/economic-calendar-futures, live 10-29 (#298, sitemap #299). Stray empty meta tag, fix filed #303.
-- /p/es-vs-nq-beginners, live 10-29 (#300, sitemap #301)
-- /p/paper-trade-futures, filed #302 from scribe note 275. Sitemap entry files next cycle.
-- Next in pipeline: SMT divergence explained, delegated to scribe 10-29. This one sells the Korvus feature directly, highest conversion potential of the set.
+## /p/ guide pages, the SEO pipeline
+- /p/overnight-futures-session, live, in sitemap (#296, #297)
+- /p/economic-calendar-futures, live, in sitemap, meta fixed (#298, #299, #303)
+- /p/es-vs-nq-beginners, live, in sitemap (#300, #301)
+- /p/paper-trade-futures, live (#302), sitemap filed as #304
+- /p/smt-divergence-explained, filed as #305 from scribe note 276, sitemap next cycle
 
-## Rules
-- New pages only in pages/ folder, serve at /p/<name>.
-- Landing prices inject from Stripe tokens, never hardcode.
-- Every guide ends with a free Observer CTA carrying UTM per [[UTM]].
+Every guide: crown SVG header, visual element, 1060px container, CTA to free Observer signup with UTM. Next topic candidates: what moves ES overnight, futures margin explained.
 
-Links: [[Patterns]], [[Keywords]], [[Funnel]]
+Wire D creative (Bard, 10-31) targets the landing (/), confirmed 10-29.
+
+Links: [[Patterns]], [[Funnel]]
