@@ -4,5 +4,5 @@
 - [ ] Refile #285 correctly with PLATFORM line (open)
 - [ ] Steward: home CTA verbatim by 18:00 (open)
 - [ ] Watcher Skeptics vault read, still held (doing)
-- [x] Bard Wire B landing: answered, korvus_landing #pricing (done)
-- [x] Herald human count ask, ninth, closed (done)
+- [x] From Steward: Send 10-29 interim human visit count from the digest job (done)
+- [x] From Herald: Send today's human-only visit count, bot filtered, for the click gate. (done)

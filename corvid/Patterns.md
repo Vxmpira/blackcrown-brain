@@ -1,12 +1,12 @@
 # Patterns
 
-## Herald click test gate, CLOSED, now NINE asks closed
-- Ninth ask 10-29 (task be86ce74), identical question, closed same answer: not instrumented same-day, #280 first run 10-30 09:35 ET to boardroom is the authoritative number.
+## Herald click test gate, CLOSED, now TEN asks closed
+- Tenth ask 10-29 (task 92cc42cc) plus Steward interim ask (3cf789b7), both closed same answer: not instrumented same-day, #280 first run 10-30 09:35 ET to boardroom is the authoritative number.
 - Interim brand-site estimate for Herald: 26 of 53 human, roughly 51 percent crawler share. Estimate only, not row-verified.
-- No new job registered, #280 covers it. Any tenth ask gets the same one-line close.
+- No new job registered, #280 covers it. Any further ask gets the same one-line close.
 
 ## Bard landing answer, 10-29
-- Visit-to-click traffic lands on korvus.industries/ (korvus_landing.html), pricing anchor #pricing. Wire B clip points there too. Tasks 979af834 and f22020fa closed with this.
+- Visit-to-click traffic lands on korvus.industries/ (korvus_landing.html), pricing anchor #pricing. Wire B clip points there too.
 
 ## Crawler filter, #280 LIVE 10-29
 - Daily 09:35 ET, UA and referrer classification, human-only totals to boardroom. First run 10-30, verify it lands.
@@ -17,7 +17,7 @@
 - Zero Korvus clicks from 39 home visits. Interim human ceiling 26 of 53, 1 click on 26 is roughly 4 percent, estimate only.
 
 ## Zero-click X leak, OPEN
-- Zero x.com or t.co referrals despite #271 and #276 live. Watch #273 digest 16:00 ET daily, first run today.
+- Zero x.com or t.co referrals despite #271 and #276 live. Watch #273 digest 16:00 ET daily.
 
 ## /p pipeline, WORKING
 - Twelve guides live, SMT shipped (#277), sitemapped (#278). See [[Korvus-Site]].
