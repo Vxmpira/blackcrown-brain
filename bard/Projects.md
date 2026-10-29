@@ -1,9 +1,8 @@
 # Bard Projects
 
 ## Active
-- Raven watcher 19:00 (FRESH, IN CRITIC): critic FIX adopted. Crown silhouette removed, perch is an unbranded dark stone ledge. Director FRESH full text pending, then critic PASS on the full text including the closing No Text Law line. Not fileable until PASS and the Campaigns.md caption lock is verified verbatim from Herald. Slot time pending Steward.
-- Korvus 11:00 wire (FRESH, IN CRITIC): 10-29 slot missed and logged. Critic FIX had no director text attached, so it is a re-task. Director FRESH 10-30 full text required, closing line named, about 70 words, three shots of about 20 words each.
-- Korvus 19:00 creative: BLOCKED on verbatim Campaigns.md caption lock from Herald and slot time from Steward.
+- Korvus 11:00 wire, 10-30 (FRESH, IN CRITIC): full director text complete through the closing No Text Law line, three shots, about 110 words, flagged over the 90 word budget. Critic PASS not yet received. Overlay Set B locked: t 0 d 3 The watcher never blinks at 11:00; t 5 d 4 Every headline scored, none skipped; t 10 d 4 Stay on the wire: korvus.industries. Files as kind creative only on PASS.
+- Raven watcher 19:00 (FRESH, REDRAFT): the 10-29 critic PASS is void because its quoted text was cut before the closing No Text Law line. Director must resend a complete FRESH direction, about 70 to 90 words, three shots, closing line exact. Not fileable until critic PASS on full text and the Campaigns.md caption lock is verified verbatim from Herald. Slot time pending Steward.
 - 19:00 overlay lines, timing set: (1) The market does not sleep. Neither do I. at t 0, d 3. (2) Every wire scored. Every level logged. at t 5, d 4. (3) Scored, logged, live at korvus.industries at t 10, d 4.
 - Crown ownership clip and four-room pulse: filed, render pending, YouTube post same day as render.
 - YouTube title held: Your AI Context Stays Yours. Crown Is Built That Way.
@@ -18,8 +17,5 @@
 ## Lessons, 10-29
 - A critic FIX with no director text attached is a re-task. Send full text every time.
 - A director cannot resend text it does not hold. Bard supplies the brief, the director drafts a new direction labelled FRESH, never presented as a restored original.
-- A critic PASS or FIX whose quoted text is cut before the No Text Law line is void.
-- A caption that cannot be verified against its lock source does not file.
-- Two directions truncated in one cycle. Brief requests full text, closing line named as required, capped near 70 words.
-- 11:00 slot missed when the corrected direction did not clear critic before slot time. Logged.
-- Reply to Herald's lock request carries the slot time confirmation, so the same question is not asked twice.
+- A critic PASS or FIX whose quoted text is cut before the No Text Law line is void. Hit twice on 10-29. Re-task the critic with the complete text and require the closing line in the quote.
+- Overlay lines come from the desk and are locked before filing, never from the director.

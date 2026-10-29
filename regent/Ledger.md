@@ -190,3 +190,5 @@ The 19:0
 - 2026-10-29: #262 Crown ownership post on X, money-only, free tier > DONE: posted to X with the brand account (post 2115736862782362088)
 - 2026-10-29: #265 X post pushing kill zones guide, UTM tagged > DONE: posted to X with the brand account (post 2115767314846998656)
 - 2026-10-29: #266 Korvus X click test: cold hook with disclaimer and homepage link > DONE: posted to X with the brand account (post 2115767317803991422)
+- 2026-10-29: #267 Tenth /p guide, futures news terminal, commercial intent > DONE: pages/futures-news-terminal.html already satisfies the ask, verified against the live file, nothing to change (self repaired)
+- 2026-10-29: #268 Add futures-news-terminal url to Korvus sitemap > DONE: sitemap.xml already lists every entry, nothing to add

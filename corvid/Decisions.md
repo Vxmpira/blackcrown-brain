@@ -242,3 +242,6 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-29: [APPROVED] #262 Crown ownership post on X, money-only, free tier (via reaction)
 - 2026-10-29: [APPROVED] #265 X post pushing kill zones guide, UTM tagged (via reaction)
 - 2026-10-29: [APPROVED] #266 Korvus X click test: cold hook with disclaimer and homepage link (via reaction)
+- 2026-10-29: [APPROVED] #267 Tenth /p guide, futures news terminal, commercial intent (via reaction)
+- 2026-10-29: [APPROVED] #268 Add futures-news-terminal url to Korvus sitemap (via reaction)
+- 2026-10-29: [REJECTED] #269 Korvus X click test, 24/7 watcher hook, free tier (note: Regent veto: Duplicates live click test 266; data says reach needs video, not copy) (via regent)
