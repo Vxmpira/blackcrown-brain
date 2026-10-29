@@ -1,7 +1,7 @@
 # Agenda
 
-- **X verdict lands today.** Seven posts live, #280 reads the referrals 10-30 morning; the number decides whether X keeps a daily slot or gets cut, no new X volume until it rules. [[Patterns]]
-- **Home leak stays the cheapest win.** 39 home visits, zero tracked [[Korvus]] clicks and the korvus click key has never fired; instrument the key, then the home_cta digest watch proves or kills demand. [[CTA-Diagnosis]]
-- **Guide shelf is the only proven inbound.** Nine /p guides live and compounding; a tenth on a high intent keyword is the one move today that keeps paying. 
-- **Bloom resets in about 2 days.** [[Bard]] holds one render a day through the coast, full cadence resumes on the 11-01 reset.
-- **Measurement loop closes Monday.** The weekly source and UTM server job makes signups by source a standing number; until then every channel call runs on the digest.
+- **SMT guide is live, now it needs eyes.** #309 shipped after two blocked tries; the X launch post ask is filed and [[Bard]]'s Wire D video targets the same URL with UTM, so today is distribution day for the feature that sells Operator. [[Patterns]]
+- **X verdict lands 10-30 morning.** #280 reads the referrals; the number decides whether X keeps a daily slot or gets cut. The two guide launch posts in the queue are the last volume before it rules.
+- **Guide shelf is the proven inbound engine.** Ten /p guides live; sessions rewrite and margin guide asks are in the queue. Pipeline stays full, no new topics needed until those clear.
+- **Measurement closes this week.** #320 daily human-proxy digest answers [[Herald]] automatically once approved, and the weekly source and UTM job lands Monday; until then the verbatim Patterns block is the number.
+- **Bloom resets 11-01, CME hours capture same day.** [[Bard]] holds one render daily through the coast; Steward's Globex capture task fires on the reset date.
