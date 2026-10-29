@@ -279,3 +279,5 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-29: [APPROVED] #301 Add ES vs NQ guide to sitemap (via reaction)
 - 2026-10-29: [APPROVED] #302 New guide page: paper trading index futures (via reaction)
 - 2026-10-29: [APPROVED] #303 Remove stray empty meta tag, econ guide (via reaction)
+- 2026-10-29: [APPROVED] #304 Add paper trade guide to sitemap (via reaction)
+- 2026-10-29: [APPROVED] #305 Ship SMT divergence guide, sells the feature (via reaction)
