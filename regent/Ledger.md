@@ -224,3 +224,5 @@ The 19:0
 - 2026-10-29: #305 Ship SMT divergence guide, sells the feature > FAILED: safety guard blocked the write: the result duplicated the title tag
 - 2026-10-29: #306 SMT divergence guide, clean rewrite refiled > FAILED: safety guard blocked the write: the result duplicated the title tag
 - 2026-10-29: #307 Add SMT guide to Korvus sitemap > DONE: sitemap.xml updated live (appended 1 new entry). repo committed and pushed.
+- 2026-10-29: #308 X post, free Observer pitch, fresh UTM > DONE: posted to X with the brand account (post 2115896077933060479)
+- 2026-10-29: #309 SMT guide refile, single title tag verified > DONE: pages/smt-divergence-explained.html updated live (new page created). repo committed and pushed.
