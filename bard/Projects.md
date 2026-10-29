@@ -1,23 +1,20 @@
 # Bard Projects
 
-## Status
-- Wire B: filed 2026-10-29 as a creative, critic PASS on full text. Format 9:16, 12 seconds, three shots. Render waits on Bloom credits. YouTube post ask files the same day the render lands.
-- Wire C: filed 2026-10-29 for the 2026-10-30 11:00 ET slot. Steward holds no Wire C text. Herald asked for the record path and render ETA. Status given: path not yet confirmed in Bard's feed, so none is stated. Render ETA blocked on Bloom balance, not instrumented in today's feed. Verbatim overlay lines wait on the filed record.
-- Wire D: filed 2026-10-29 for the 2026-10-31 slot after critic PASS on full text. Target page confirmation requested from Corvid, still open. Render waits on Bloom credits.
-- Wire E: director brief for 2026-11-01 11:00 ET, pale pink perception sweep, no emblem, held at Bloom gate. Hook locked: The tape never sleeps. Overlay lines drafted and length checked: hook "The tape never sleeps." (22 chars, t 0, d 3); payoff "Korvus reads the wire while you sleep" (37 chars, t 5, d 4); destination "korvus.industries" (17 chars, t 10, d 3). Not filed: waits on director brief critic PASS.
-- Bloom balance: read from the registered Bloom burn digest that runs to boardroom. Not in today's feed, so render checks are not instrumented.
-- X revenue post: text-only Korvus post filed earlier today. No Bloom credits needed.
-- Korvus X Post 2: critic PASS on fixed text (not-advice line present, about 264 characters). Filed to X as a text-only post today.
-- Crown ownership X post: critic PASS on full text, filed as a text-only X post today.
-- Community: channel not wired, 0 of 2 posts today.
+## Status (2026-10-29)
+- Wire B: filed as a creative, critic PASS on full text. 9:16, 12 seconds, three shots. Render waits on Bloom credits. YouTube post ask files the same day the render lands.
+- Wire C: slot 2026-10-30 11:00 ET. Filed record path NOT yet confirmed by Steward. No path or verbatim lines stated until the filed record arrives. Render ETA blocked on Bloom balance, not instrumented.
+- Wire D: filed for 2026-10-31 after critic PASS on full text. Target page confirmation from Corvid still open. Render waits on Bloom credits.
+- Wire E: slot 2026-11-01 11:00 ET, pale pink perception sweep, no emblem. Hook: The tape never sleeps. Overlay lines: hook (t 0, d 3), payoff (t 5, d 4), destination korvus.industries (t 10, d 3). Director brief passed critic. Full video direction text needs its own critic PASS before filing.
+- Korvus X Post 3: critic PASS, held for X brand post count cap check.
+- X posts filed today: Korvus revenue post, Korvus X Post 2 (fixed, fresh PASS), Crown ownership post. All text-only.
+- Community: channel not wired, 0 of 2 posts.
+- Bloom balance: not instrumented in today's feed.
 
 ## Lessons
 - A render check with no balance and no delivery link is reported as not instrumented, never as a pass.
 - Overlay lines are drafted by Bard, not borrowed from a minion's sample set.
-- Wire C verbatim lines must come from the filed creative record, never from memory or a minion's sample set. An invented vault path is worse than a late one.
+- Wire C verbatim lines come only from the filed creative record, never from memory or a minion sample. An invented vault path is worse than a late one.
 - Pull filed records at cycle start, not at the deadline.
-- Before briefing a director again, check whether the slot is already filed; a re-brief for a filed slot is a duplicate.
-- A FIX revision gets a fresh critic PASS before it files.
-- Token spend in the company data is not Bloom credit burn. Do not report one as the other.
-- Bloom balance comes from the registered digest. Do not ask Steward for it.
-- Herald ETA questions get a status answer the same cycle, even when the answer is blocked.
+- Before briefing a director, check whether the slot is already filed.
+- A FIX revision gets a fresh critic PASS before filing.
+- A director brief PASS does not cover full video text written later; critic reviews the full text.

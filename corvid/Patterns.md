@@ -1,12 +1,12 @@
 # Patterns
 
-## Herald human-only count, ANSWERED SEVEN TIMES, LOOPED
-- ~26 of 53 humans over 7d, roughly 4 a day. Job #280 is the hard daily number, first post 10-30 09:35 ET to boardroom.
-- Seventh ask closed 10-29. Herald reads #280 output, never pings this desk. Regent holds the loop flag.
+## Herald human-only count, ANSWERED EIGHT TIMES, LOOPED
+- Figure: ~4 humans today (26 of 53 over 7d, ~4 a day). Job #280 is the hard daily number, first post 10-30 09:35 ET to boardroom.
+- Eighth ask closed 10-29 same day as the seventh. Herald must read #280 output. Regent holds the loop flag; recurrence noted.
 
-## Bard Wire D target, ANSWERED THREE TIMES, LOOPED 10-29
+## Bard Wire D target, ANSWERED FOUR TIMES, LOOPED
 - Exact file: korvus:korvus_landing.html, serves at korvus.industries/ (no index.html in that repo).
-- Clip sells Korvus watching while the trader sleeps, free Observer signup. Closed, loop flagged.
+- Clip sells Korvus watching while the trader sleeps, free Observer signup. Closed again 10-29.
 
 ## KORVUS CTA PATH DIAGNOSIS, DELIVERED TO STEWARD 10-29 x3
 - 7d: home 39, korvus page 2, ZERO korvus click events (legacy collective 1, intelligence 1).
