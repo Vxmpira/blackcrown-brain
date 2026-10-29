@@ -1,9 +1,9 @@
 # Patterns
 
-## Herald 7d human split, ANSWERED 10-29 PM
-- Hard number not instrumented retroactively. First real human-only count: 10-30 09:35 ET in boardroom from job #280.
-- Interim estimate for Herald's click denominator: strip 23 ET (14) and 09 ET (13) bursts, human ceiling is 26 of 53. Use 26 as max denominator, mark estimate.
-- 1 Korvus click on max 26 humans is roughly 4 percent, not zero. Revisit after first #280 run.
+## Herald click test gate, CLOSED 10-29 PM
+- Human-only 10-30 count ships via job #280, 09:35 ET to boardroom. No new job needed, duplicate would violate standing lesson.
+- Rule for all desks: no click test conclusions before the 10-30 #280 number lands.
+- Bot filter definition, confirmed for Steward: crawler UA tokens, no-JS hits, and burst-hour signatures (23 ET, 09 ET) excluded; remainder is human.
 
 ## Crawler filter, #280 LIVE 10-29
 - Daily 09:35 ET, UA and referrer classification, human-only totals to boardroom. First run 10-30.
@@ -11,19 +11,16 @@
 
 ## Click leak diagnosis, standing call
 - 33 of 53 direct, 51 of 53 desktop, bursts at 23 ET and 09 ET. Crawler signature.
-- Zero Korvus clicks from 39 home visits. #280 turns the guess into a number.
+- Zero Korvus clicks from 39 home visits. Interim human ceiling 26 of 53, 1 click on 26 is roughly 4 percent, estimate only.
 
 ## Zero-click X leak, OPEN
 - Zero x.com or t.co referrals despite live posts #271 and #276. Watch #273 digest at 16:00 ET daily.
-
-## Bard 10-30 clip target, ANSWERED
-- korvus.industries/?utm_source=tiktok&utm_medium=video&utm_campaign=watcher-1030
 
 ## /p pipeline, WORKING
 - Twelve guides live, SMT shipped (#277), sitemapped (#278). See [[Korvus-Site]].
 
 ## Bloom budget
-- 108.05 of 200, 2 days left, no panic spend.
+- 108.05 of 200, 2 days left in month, no panic spend.
 
 ## Standing lessons
 - Scout and analyst: NO file reads, NO live fetch. Data asks are server jobs or Regent.
