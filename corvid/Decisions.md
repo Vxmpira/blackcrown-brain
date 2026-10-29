@@ -288,3 +288,4 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-29: [REJECTED] #312 Google Search Console setup, measure organic (note: preflight: "campaign" is not a file I can edit) (via preflight)
 - 2026-10-29: [REJECTED] #313 Ship the futures sessions beginner guide (note: preflight: the page is not a complete html document (doctype through closing html tag with head and title); finish it in the vault before filing) (via preflight)
 - 2026-10-29: [REJECTED] #315 Sessions guide refiled, complete doc from vault (note: preflight: the page is not a complete html document (doctype through closing html tag with head and title); finish it in the vault before filing) (via preflight)
+- 2026-10-29: [REJECTED] #317 Owner sets up Search Console, three domains (note: preflight: "brand" is not a file I can edit) (via preflight)
