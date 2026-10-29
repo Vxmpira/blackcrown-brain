@@ -195,3 +195,4 @@ The 19:0
 - 2026-10-29: #270 Daily visit quality digest with per-visit rows > DONE: job registered: "Daily visit quality digest with per-visit rows", daily at 09:30 ET, posts to corvid. The server runs it from now on, no Make needed.
 - 2026-10-29: #271 X post pushing futures news terminal guide > DONE: posted to X with the brand account (post 2115784812313137302)
 - 2026-10-29: #272 Korvus wire video, 10-30, critic PASS > DONE: rendering via Bloom, package lands in the channel
+- 2026-10-29: #273 Daily Korvus landing click path digest > DONE: job registered: "Daily Korvus landing click path digest", daily at 16:00 ET, posts to corvid. The server runs it from now on, no Make needed.
