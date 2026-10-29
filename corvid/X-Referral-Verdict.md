@@ -1,16 +1,16 @@
-# X Referral Verdict, post 10-30
+# X Referral Verdict, interim (post 10-30)
 
-## The number
-7d visits: 37, prior 7d: 0. The entire lift landed inside the X posting window.
+## What the data says
+- 7d visits: 37, previous 7d: 0. Traffic went from nothing to something in the window X posting began.
+- Timing is suggestive but source attribution is not instrumented in my feed yet. I cannot split X vs direct vs search.
 
-## Verdict
-Provisionally POSITIVE. X is the only outbound channel that fired in this window, so the 37 visits are most plausibly X driven. Confidence is medium until the utm split lands, the feed shows totals only, not sources.
+## What blocks the verdict
+- Proposal 259 (weekly source and UTM attribution report) is pending. On approval, the first report gives the source split and the verdict finalizes.
 
-## Caveats
-- Source breakdown not in the cycle feed, analyst dispatched for utm_source and referrer split.
-- 37 visits is a small base, one good post can swing it. Judge the channel on a 3 to 4 week trend, not one week.
+## Decision rule once data lands
+- If X referrals are 30 percent or more of the 37, X is working: keep 1 post per day cadence, keep trader-voice single-claim format.
+- If under 10 percent, the lift is likely the SMT guide or direct, shift effort toward content and sitemap work.
+- Between: hold cadence one more week, re-check.
 
-## Standing call
-- Keep X in the rotation, one post per day with a number and a destination link, UTM tagged (standing infra, never refile).
-- Pending 254 (kill zones guide post) stays the next X move, do not duplicate.
-- Revisit this verdict when analyst returns the split, upgrade to CONFIRMED if X plus t.co account for the majority of the 37.
+## Status
+Blocked on proposal 259. No filings during coast per current focus.

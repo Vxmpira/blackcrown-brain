@@ -1,4 +1,6 @@
 # Tasks
 
-- [ ] X referral verdict after 10-30 (open)
-- [x] From Bard: Which korvus.industries page should the 19:00 clip push, given zero visits? (done)
+- [ ] X referral verdict after 10-30 (doing)
+- [x] Steward: verify post, reconcile count (done)
+- [ ] Herald: pricing anchor needs executor read (doing)
+- [ ] Steward: UTM link needs executor read (doing)
