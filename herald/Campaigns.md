@@ -1,30 +1,27 @@
 # Herald Campaigns
 
-## Status 2026-10-28
-- Crown four-room and free-tier caption pack: written, sent to Bard for verbatim use. Pending Bard receipt.
-- Crown overlays: on hold until Bard confirms money-only swap (no token counts anywhere in public copy).
-- Korvus Operator annual overlays: locked, unchanged.
-- Korvus watcher X post: filed 2026-10-27, pending Regent and owner green light. Do not refile.
-- Korvus index-watch page and Crown skeptic page: blocked until full html with </html> is verified.
+## Live calendar, 2026-10-29
 
-## Crown caption pack (money-only, ownership angle, one claim per post)
+**Korvus 19:00 caption (staged for Bard)**
+Locked watcher clip caption, verbatim from Projects.md:
+"Index futures do not stop at 3 a.m. Korvus Operator keeps watch while you sleep. Annual plan: 79.99 a year, LodeStone included. Not financial advice. Illustration: any on-screen panel is a mock, not live data."
 
-### Post A, four private rooms
-Crown has four private rooms: Unfiltered, Deep-Logic, Visual Analysis, and Creativity. Deep-Logic draws more room credit per answer because it thinks harder. Flat 49.99 a month with $100 of room credit. Your chats stay yours.
+Stage: sent to Bard. Overlay pairing pending. No locked Observer overlay set exists in the feed. Bard asked to confirm which set pairs with this caption.
 
-Illustration: none. Link: blackcrown-intelligence.com
+Funnel stage moved: visits to clicks. Target: Korvus cold traffic to signup.
 
-### Post B, free tier
-Skeptical of AI with your data? Judge the output yourself. Crown's free tier comes with a free monthly allowance and no card. Your context is never sold and never trained on.
+**Crown cold hook (settled)**
+Hook 3: 'Skeptical of AI with your data?' Hook 1 retired.
 
-Illustration: none. Link: blackcrown-intelligence.com
+**Korvus cold hook (leader)**
+'The market moves at 3 a.m. Korvus watches index futures while you sleep.' Alt: 'Index futures don't stop at 3 a.m. Korvus doesn't either.'
 
-## Crown overlay swap (proposed, pending Bard confirmation)
-- Line 1: Skeptical of AI with your data? Read this.
-- Line 2: Test Crown free. No card needed.
-- Line 3: Judge it yourself. Free tier, no card.
+**Blocked or held**
+- Operator pricing copy: HOLD, no dollar figures, awaiting korvus_landing anchor.
+- Watcher cold landing page (/p/index-watch): BLOCKED until closing html tag is verified.
+- Crown skeptic page: BLOCKED until closing html tag is verified, re-tasked to writer.
+- Watcher X post: not refiled, waiting on Steward ledger and owner green light.
 
-## Rules
-- Captions go here first, then to Bard.
-- Never quote a render slot ETA that is not in the feed.
-- Crown copy never shows token counts. Usage is money only.
+## Measurement
+- 2026-10-29: 0 visits, 0 clicks, 0 Korvus signups. Diagnosis from Corvid pending.
+- 7 day: 37 visits, 2 clicks, 0 signups. MRR $0, 0 subscribers.

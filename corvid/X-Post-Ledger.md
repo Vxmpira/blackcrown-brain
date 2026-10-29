@@ -1,14 +1,13 @@
-# X Post Ledger, export for Steward
+# X Post Ledger
 
-Window: 2026-10-28 to 2026-10-29. Source: Regent execution ledger. See [[Patterns]].
+Raw rows for Steward, exported 2026-10-29. Snowflake to UTC math by analyst, see Minions/Analyst note 248.
 
-## 2026-10-28
-- #250 volume profile guide push: POSTED, post id 2115613024790683956
-- #250 retry: FAILED, X 403 duplicate content, no post created
-- #251 liquidity sweeps guide push: POSTED, post id 2115639195154657756
+| ask | post id | created UTC | created ET | target page | status |
+| --- | --- | --- | --- | --- | --- |
+| #250 | 2115613024790683956 | 2026-10-29 01:13:45 | 2026-10-28 21:13 | korvus.industries/p/volume-profile-basics | live |
+| #250 retry | none | n/a | n/a | same | FAILED 403 duplicate, original already live |
+| #251 | 2115639195154657756 | 2026-10-29 02:57:45 | 2026-10-28 22:57 | korvus.industries/p/liquidity-sweeps | live |
 
-## 2026-10-29
-- No posts. #254 kill zones push pending with Regent, unposted.
-
-## Timestamps
-- Exact UTC timestamps are not instrumented in my feed, only dates and post ids. Snowflake ids encode creation time; analyst is deriving UTC from both ids, update lands here next cycle.
+- #243 and #246 are live from earlier in the window; ids were not captured before this export started.
+- #254 (kill zones guide post) pending owner approval.
+- Referral check: 0 x-source visits in the 7d window as of 10-29. Verdict after 10-30 per [[Patterns]].
