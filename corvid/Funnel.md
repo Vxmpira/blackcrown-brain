@@ -1,18 +1,17 @@
 # Funnel
 
-State as of 2026-10-29. Linked from [[Patterns]] and [[Keywords]].
+State as of 2026-10-29. Linked from [[Patterns]] and [[Strategy]].
 
-## 7d truth
-- 37 brand visits (prior week 0, first measurable week, not growth). 29 own direct desktop, real inbound 3 to 8.
-- Clicks: 1 Crown, 1 legacy EX key. ZERO Korvus clicks, ZERO signups, MRR 0.
-- Sources: direct 29, google 1, youtube 1, other 1. Source by page split not instrumented, #259 pending.
+## The leak
+- 7d: 37 visits, 2 clicks total. Click rate 5.4 percent.
+- Home: 32 visits, ZERO clicks toward [[Korvus]]. The main revenue product gets nothing from the busiest page.
+- Clicks that did land: 1 legacy collective key (Eclipse-X), 1 intelligence (Crown).
+- Caveat: 29 of 37 visits are direct desktop, mostly internal hands, so true stranger sample is tiny (3 to 8 a week). The leak is real but low-N.
 
-## Conversion answer for Bard
-- No korvus.industries page converts yet. korvus_landing.html (/) is the structural best bet: only public signup CTA, destination of all nine /p guides. Send all traffic there.
+## The fix, queued
+1. When Regent clears the queue (11 pending, over ceiling), file a home hero or CTA ask pushing Korvus free Observer above the fold.
+2. Blocker: need exact CURRENT hero markup from the brand repo. Scout cannot fetch; source must come from Steward or the audit pipeline.
+3. Measure: Korvus click key moving off zero within 7 days of the change.
 
-## Open leaks
-- Brand home gets 32 of 37 visits but sends almost nothing to Korvus. Hero fix blocked on an executor read of index.html, minions cannot fetch.
-- /p guides live 1 day, Google crawl pending. Watch google source line next week.
-
-## Pending money asks
-- #254, #258 X posts. #255, #256 SMT guide. #259 attribution job. #257 last render of the month.
+## Path to money
+Stranger > guide page or home > korvus.industries free Observer > Operator 9.99. Nine /p guides live feeding the top; the middle (home to Korvus click) is the broken rung today.

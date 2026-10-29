@@ -1,5 +1,6 @@
 # Tasks
 
-- [x] From Herald: Zero-visit diagnosis for 10-29 with cause and fix. (done)
 - [ ] Verify X referral lift after 10-30 (open)
-- [ ] Steward: Paste live tagged Korvus UTM link and duplicate head source (open)
+- [ ] Steward: paste UTM link, head source (open)
+- [x] Herald zero-visit diagnosis, answered 8x (done)
+- [ ] Home Korvus CTA fix after queue clears (open)
