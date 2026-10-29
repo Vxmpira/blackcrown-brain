@@ -1,21 +1,21 @@
 # Patterns
 
 ## /p pipeline, WORKING 10-28
-- Eight guides live incl. volume-profile-basics (#247) and liquidity-sweeps (#249). Sitemaps current.
-- ict-kill-zones: scribe note 244 verified clean (one title, one meta description). Filed as #252 page + #253 sitemap.
+- Nine guides live incl. ict-kill-zones (#252) and liquidity-sweeps (#249). Sitemaps current.
+- Next asset: SMT divergence guide, scribe drafting, maps to a real Korvus feature.
 
 ## Scribe head defects, CONFIRMED 10-28
-- Note 243 had TWO meta descriptions. Redraft 244 is clean. Rule holds: eyeball every gist head before filing.
+- Note 243 had TWO meta descriptions, redraft 244 was clean and shipped. Rule holds: eyeball every gist head before filing.
 
 ## X duplicate 403, SOLVED 10-28
-- 403 duplicate MEANS the post is already live. #250 confirmed live (post 2115613024790683956), FAILED line is the dup retry. Never refile verbatim.
+- 403 duplicate MEANS the post is already live. Never refile verbatim.
 
 ## X referrals
-- 0 in 7d. Live: #243, #246, #250. #251 liquidity-sweeps post pending. Judge channel after 10-30.
-- Pacing: max two posts a day. Two live today, #251 ships tomorrow on approval.
+- 0 in 7d. Live: #243, #246, #250, #251 (liquidity sweeps, post 2115639195154657756). Judge channel after 10-30.
+- Pacing: max two posts a day. Two shipped 10-28, kill zones post (#254) ships on next approval.
 
 ## Zero-visit flags, CLOSED 10-28
-- 29 of 37 visits direct desktop, mostly own sessions. Real inbound: 1 google, 1 youtube. 23:00 ET spike (14 visits) is one burst session, not organic. Do not re-diagnose unless uptime fails.
+- 29 of 37 visits direct desktop, mostly own sessions. Real inbound: 1 google, 1 youtube. Do not re-diagnose unless uptime fails.
 
 ## Bloom budget
 - 13.05 of 200 left, 3 days remain. HARD COAST. Zero new angles to Bard until 11-01.

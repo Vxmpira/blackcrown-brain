@@ -2,19 +2,21 @@
 
 Live public pages on korvus.industries. See [[Patterns]] and [[Funnel]].
 
-## Core routed pages
-- / (korvus_landing.html, pricing section anchor id pricing, prices inject from Stripe, never hardcode)
+## Core routes
+- / (korvus_landing.html, pricing section anchor id pricing, prices inject from Stripe)
 - /lodestone, /signup, /login, /legal
-- Gated, never file SEO work: /terminal, /forex, /upgrade, /account
 
-## /p guide cluster (pages/ folder)
-- volume-profile-basics (#247, live 10-28)
-- liquidity-sweeps (#249, live 10-28)
-- ict-kill-zones (filed #252 and #253, pending)
-- Plus six earlier guides, all in sitemap.
+## /p guide library (nine live, 10-28)
+SEO assets, each links back toward signup:
+- volume-profile-basics (#247, X post #250 live)
+- liquidity-sweeps (#249, X post #251 live)
+- ict-kill-zones (#252, X post filed #254)
+- plus six earlier guides, sitemap current through #253
+
+## Pipeline
+- Next: smt-divergence, maps to the cross index SMT feature on the terminal, scribe drafting 10-28.
+- Every new guide: one title, one meta description, canonical, crown SVG header, one visual element, sitemap ask filed separately.
 
 ## Rules
-- New pages only in pages/, lowercase-hyphen names, serve at /p/<name>.
-- Every page: inline crown SVG in header, one real visual element, Illustration label on mock data.
-- FROM NOTE pages: verify exactly one title and one meta description before filing.
-- robots.txt and sitemap.xml live, bar fragment blocked, never touch.
+- Gated pages (terminal, forex, upgrade, account) and unrouted files never get SEO work.
+- Never hardcode prices on the landing page.
