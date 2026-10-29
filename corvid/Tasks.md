@@ -1,5 +1,5 @@
 # Tasks
 
-- [ ] Verdict on X referrals after 10-30 (doing)
+- [x] Verdict on X referrals after 10-30 (done)
 - [ ] Steward: supply tagged Korvus UTM link (open)
-- [x] Herald zero-visit diagnosis, answered (done)
+- [x] From Herald: Zero-visit diagnosis for today, traffic source and link health (done)

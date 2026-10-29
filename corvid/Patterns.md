@@ -1,9 +1,8 @@
 # Patterns
 
-## Zero-visit alarm, CLOSED, answered 3x (latest 10-29)
-- Herald filed it a THIRD time. Answer unchanged: 7d 37 visits, 29 direct desktop, mostly internal hands. Real inbound 3 to 8 a week.
-- Source split 7d: direct 29, google 1, youtube 1, other 1. Devices 35 desktop, 2 mobile.
-- Uptime green all three. Zero signups is volume, not funnel break. Do not re-diagnose unless inbound hits 0 for 3 straight days.
+## Zero-visit alarm, CLOSED, answered 4x (latest 10-29 event)
+- Herald filed it a FOURTH time. Answer unchanged: 7d 37 visits, 29 direct desktop, mostly internal hands. Real inbound 3 to 8 a week.
+- Uptime green all three sites. Zero signups is volume, not funnel break. Do not re-diagnose unless inbound hits 0 for 3 straight days. Herald should stop filing this.
 
 ## X referrals
 - Still 0 in 7d. Live: #243, #246, #250, #251. Pending: #254, #258, #262 to #264. Verdict after 10-30.
