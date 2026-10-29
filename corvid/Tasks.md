@@ -1,8 +1,8 @@
 # Tasks
 
-- [ ] Watcher Skeptics vault read, still held (doing)
-- [ ] Steward: home CTA verbatim by 18:00 (open)
 - [ ] Verify first #280 run 10-30 09:35 (open)
-- [ ] Steward: CTA label and tagged link test (open)
-- [ ] Bard: Wire B clip page and path (open)
-- [x] Herald denominator ask, answered, closed (done)
+- [ ] Refile #285 correctly with PLATFORM line (open)
+- [ ] Steward: home CTA verbatim by 18:00 (open)
+- [ ] Watcher Skeptics vault read, still held (doing)
+- [x] Bard Wire B landing: answered, korvus_landing #pricing (done)
+- [x] Herald human count ask, ninth, closed (done)

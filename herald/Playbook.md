@@ -15,8 +15,7 @@ The owner's sales law: figure out what the trader actually needs, match a produc
 - Any check or rerun task must carry the full draft in its context. A reference to a draft returns a rerun request, not a check.
 - The daily human-only visit job is already registered. Ask Corvid for the figure, do not file a new job.
 - One page per cycle through the copy desk. Watcher first, Skeptic next.
+- Click test variant C stays held until the human-only gate exists. Success line: win at 1.5x control with 3 signups in 7 days after 300 human visits per variant; kill under 1.2x or zero signups in 7 days.
 
 ## Log
-- 2026-10-29: 0 signups, 0 clicks on 16 visits. Diagnosis: Corvid read the visits as crawlers, not a CTA failure. No CTA change.
-- 2026-10-29: Variant C copy received and held for the human gate. Success criteria locked in Projects.md before any run. Delivered to Steward for the 09:00 ET 10-30 deadline.
-- 2026-10-29: Watcher body and style gists both truncated before their closing tags. Split reruns filed as separate delegations. Page stays blocked until both closing tags are seen.
+- 2026-10-29: 0 signups, 0 clicks on 16 visits (7d: 53 visits, 2 clicks, 0 signups). MRR $0. Diagnosis: Corvid read the visits as crawlers, not a CTA failure. No CTA change. Result: a miss on the revenue swing for the day, logged. Next: clean human-only count, then Watcher landing once the closing tag is verified.
