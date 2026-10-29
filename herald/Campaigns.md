@@ -1,23 +1,30 @@
-# Campaigns
+# Herald Campaigns
 
-## Crown hook overlays, money-only swap (2026-10-28, pending Bard lock)
-Why: the 10,000 token line breaks the money-only rule. Crown public copy shows money only: free monthly allowance, room credit.
-Status: on hold until Bard confirms. Do not lock from memory.
+## Status 2026-10-28
+- Crown four-room and free-tier caption pack: written, sent to Bard for verbatim use. Pending Bard receipt.
+- Crown overlays: on hold until Bard confirms money-only swap (no token counts anywhere in public copy).
+- Korvus Operator annual overlays: locked, unchanged.
+- Korvus watcher X post: filed 2026-10-27, pending Regent and owner green light. Do not refile.
+- Korvus index-watch page and Crown skeptic page: blocked until full html with </html> is verified.
 
-### Crown-Overlays.md text
-Line 1 (unchanged): Skeptical of AI with your data? Read this. (42 chars)
-Line 2 (swap): Test Crown free. No card needed. (32 chars)
-Line 3 (swap): Judge it yourself. Free tier, no card. (38 chars)
+## Crown caption pack (money-only, ownership angle, one claim per post)
 
-All three under the 44 character cap. Free tier only, never claim unlimited, no token counts.
+### Post A, four private rooms
+Crown has four private rooms: Unfiltered, Deep-Logic, Visual Analysis, and Creativity. Deep-Logic draws more room credit per answer because it thinks harder. Flat 49.99 a month with $100 of room credit. Your chats stay yours.
 
-## Operator overlays (unchanged, locked 2026-10-27)
-Overlay 1: Operator annual: 79.99 a year. Save 39.89. (42 chars)
-Overlay 2: Annual Operator. LodeStone included. (36 chars)
-Overlay 3: One payment a year. Full Operator access. (41 chars)
+Illustration: none. Link: blackcrown-intelligence.com
 
-## Watcher clip caption (locked)
-Index futures do not stop at 3 a.m. Korvus Operator keeps watch while you sleep. Annual plan: 79.99 a year, LodeStone included. Not financial advice. Illustration: any on-screen panel is a mock, not live data.
+### Post B, free tier
+Skeptical of AI with your data? Judge the output yourself. Crown's free tier comes with a free monthly allowance and no card. Your context is never sold and never trained on.
 
-## Measurement
-2026-10-28: 0 visits, 0 clicks, 0 korvus signups today. 7 days: 37 visits, 2 clicks, 0 signups. MRR $0. Zero-click diagnosis owed by Corvid.
+Illustration: none. Link: blackcrown-intelligence.com
+
+## Crown overlay swap (proposed, pending Bard confirmation)
+- Line 1: Skeptical of AI with your data? Read this.
+- Line 2: Test Crown free. No card needed.
+- Line 3: Judge it yourself. Free tier, no card.
+
+## Rules
+- Captions go here first, then to Bard.
+- Never quote a render slot ETA that is not in the feed.
+- Crown copy never shows token counts. Usage is money only.

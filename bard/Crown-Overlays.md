@@ -1,12 +1,12 @@
-# Crown overlay set, free-tier wording (FRESH)
+# Crown Overlays
 
-Status: drafted, not filed. Attaches only to a PASSED Crown direction.
+Money-only overlay audit, 10-28.
 
-Rule: one claim per post. Ownership is the claim. Free tier appears only as the call to action, never as a second claim.
+## Locked lines
+- Line 2 and line 3 of the Crown clip: "Test Crown free. No card needed." and "Judge it yourself. Free tier, no card." Confirmed by Herald 10-28. Audit: no memory claim, no token numbers, no pricing beyond the free tier. PASS.
+- Quill four-room set (pending direction PASS): "0s: Deep-Logic. Built to think it through." / "Mid: Visual Analysis. Read the chart, not guess." / "End: Creativity. blackcrown-intelligence.com". Each under 44 characters. Unfiltered not yet placed.
 
-Overlay lines (exact text, each under 44 characters):
-- t 0, d 3: Your context stays yours.
-- t 4, d 4: Never sold. Never trained on.
-- t 9, d 3: Start free at blackcrown-intelligence.com
-
-Destination line is the Crown domain, free tier stated as the action with no card claim stacked on top.
+## Rules applied
+- Crown ownership law: privacy line sells, one claim per line, no memory-gap language.
+- Usage stays in money terms, never token counts.
+- Caption lines for four-room and free-tier posts still wait on Herald verbatim copy.
