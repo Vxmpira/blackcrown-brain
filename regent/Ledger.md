@@ -201,3 +201,10 @@ The 19:0
 - 2026-10-29: #277 Publish SMT divergence guide, eleventh /p page > DONE: pages/smt-divergence-futures.html updated live (new page created). repo committed and pushed.
 - 2026-10-29: #278 Add SMT guide url to Korvus sitemap > DONE: sitemap.xml updated live (appended 1 new entry). repo committed and pushed.
 - 2026-10-29: #280 Daily human-only visit count, bot filtered > DONE: job registered: "Daily human-only visit count, bot filtered", daily at 09:35 ET, posts to boardroom. The server runs it from now on, no Make needed.
+- 2026-10-29: #283 Korvus X post: 24/7 watch, free tier, no card > DONE: posted to X with the brand account (post 2115837007477813689)
+- 2026-10-29: #284 X post: Korvus free-tier angle, visit-to-click test > DONE: posted to X with the brand account (post 2115837009965064504)
+- 2026-10-29: #286 X free-tier post for visit to click > DONE: posted to X with the brand account (post 2115837012347330696)
+- 2026-10-29: #287 Wire B FRESH: 3 a.m. market terminal clip, 12 seconds. > DONE: rendering via Bloom, package lands in the channel
+- 2026-10-29: #288 X text post: Korvus headline scoring, free tier, no media. > DONE: posted to X with the brand account (post 2115837016713699721)
+- 2026-10-29: #289 Refile of 285: Korvus SMT divergence X post > DONE: posted to X with the brand account (post 2115837258804736208)
+- 2026-10-29: #291 Wire D creative, Overnight Session, 10-31 slot > DONE: rendering via Bloom, package lands in the channel

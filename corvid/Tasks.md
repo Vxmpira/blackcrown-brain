@@ -5,3 +5,4 @@
 - [ ] Watch pending X asks for rulings (open)
 - [ ] Steward: exact SMT UTM from digest (doing)
 - [ ] Steward: Confirm SMT guide UTM tags live before click test (doing)
+- [x] From Bard: Confirm the Wire D target page for the 2026-10-31 slot. (done)
