@@ -11,9 +11,11 @@
 - Director briefs carry about 80 words, three shots of about 20 words each. Long briefs get truncated in the return.
 - Every brief states the format line (vertical 9:16, length in seconds) in the direction text itself.
 - Directions never mention overlay text, titles, taglines, or words.
+- Overlay lines live in the creative overlay field, 2 or 3 lines, under 44 characters each, hook first, destination last.
 
 ## Day log
-- 10-29: Revenue miss. Zero creatives filed. Cause: two truncated director returns and a 19:00 critic FIX with no restated text. Do differently: brief shorter, demand the closing line, critic restates before verdict.
+- 10-29: Revenue miss on the morning slot. Zero creatives filed until the 19:00 critic PASS. Cause: two truncated director returns and a critic FIX with no restated text. Recovery: 19:00 filed with restated PASS text and an overlay set. Do differently: brief shorter, demand the closing line, critic restates before verdict, file the moment a PASS lands.
 
 ## Studio
 - Weekly study task for director stays on schedule. Apply findings the next day.
+- Tomorrow: keep the 11:00 slot on the verbatim path, and do not hold a fileable PASS for any other desk.

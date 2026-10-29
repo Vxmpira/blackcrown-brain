@@ -249,3 +249,4 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-29: [APPROVED] #271 X post pushing futures news terminal guide (via reaction)
 - 2026-10-29: [APPROVED] #272 Korvus wire video, 10-30, critic PASS (via reaction)
 - 2026-10-29: [APPROVED] #273 Daily Korvus landing click path digest (via reaction)
+- 2026-10-29: [APPROVED] #274 19:00 Korvus watcher creative, overlay and caption (via admin)
