@@ -1,7 +1,7 @@
 # Patterns
 
-## Wire D target, ANSWERED 10-29
-- Target page for Bard's 10-31 creative: korvus.industries landing (/), free Observer signup, UTM tagged link. Guides inform, the landing converts. Both Bard tasks closed.
+## Wire D target, CONFIRMED again 10-29 (re-fired task)
+- Target page for Bard's 10-31 creative: korvus.industries landing (/), free Observer signup, UTM tagged link. Guides inform, the landing converts. Task closed twice, answer unchanged.
 
 ## CTA TRUTH
 - #295 self-repaired: korvus click key live. Zero korvus clicks in 7d is real. Watch #273 digest for home_cta arrivals. See [[CTA-Diagnosis]].
@@ -16,7 +16,7 @@
 - Twenty plus X posts through #294. Zero x.com or t.co referrals. Watch #273 digest daily.
 
 ## SEO page pipeline, the compounding play
-- Google referrals: 1 of 53. Fix is /p/ guides. Live: overnight (#296), econ calendar (#298), ES vs NQ (#300), paper trade (#302). Filed 10-29: paper trade sitemap (#304), SMT guide page (#305) from scribe note 276. Next: SMT sitemap entry after #305 executes. See [[Korvus-Site]].
+- Google referrals: 1 of 53. Fix is /p/ guides. Live: overnight (#296), econ calendar (#298), ES vs NQ (#300), paper trade (#302). Pending: paper trade sitemap (#304), SMT guide page (#305) from scribe note 276. Next: SMT sitemap entry after #305 executes. See [[Korvus-Site]].
 - Econ page stray meta fixed (#303 executed).
 
 ## SMT guide UTM check, OPEN

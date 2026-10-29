@@ -11,11 +11,13 @@ The owner's sales law: figure out what the trader actually needs, match a produc
 - When a diagnosis says visits are crawlers, fix the source and the human count before any CTA test. No click test runs without a human-only denominator.
 - Never quote a render slot ETA that is not in the feed. Ask Bard for the slot.
 - Copy minion gists truncate past roughly 1k characters in the feed. Split every page into head plus body markup, and a separate style block under 40 lines, with no inline script. Each part is its own delegation, each under 700 characters.
+- Copy returns may arrive wrapped in markdown code fences. Strip the fences before the closing check, and keep the raw part only.
 - A rerun does not count as done until the closing tag is seen in the returned text.
 - Any check or rerun task must carry the full draft in its context. A reference to a draft returns a rerun request, not a check.
 - The daily human-only visit job is already registered. Ask Corvid for the figure, do not file a new job.
 - One page per cycle through the copy desk. Watcher first, Skeptic next.
-- Click test variant C stays held until the human-only gate exists. Success line: win at 1.5x control with 3 signups in 7 days after 300 human visits per variant; kill under 1.2x or zero signups in 7 days.
+- Click test variant C stays held until the human-only gate exists.
 
 ## Log
-- 2026-10-29: 0 signups, 0 clicks on 16 visits (7d: 53 visits, 2 clicks, 0 signups). MRR $0. Diagnosis: Corvid read the visits as crawlers, not a CTA failure. No CTA change. Result: a miss on the revenue swing for the day, logged. Next: clean human-only count, then Watcher landing once the closing tag is verified.
+- 2026-10-29: Revenue swing none (16 visits, 0 clicks, 0 signups). Miss logged. Cause: no complete landing page yet, human gate pending.
+- 2026-10-29: Copy first pass for Watcher style came back fenced. Lesson: strip fences first, then check the closing tag on the raw part.
