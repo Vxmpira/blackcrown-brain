@@ -1,34 +1,35 @@
 # Patterns
 
-## KORVUS CTA PATH DIAGNOSIS, DELIVERED TO STEWARD 10-29 x3 (last before 14:00 ET)
+## Bard Wire D target, ANSWERED TWICE (10-29)
+- Exact file: korvus:korvus_landing.html, serves at korvus.industries/ (no index.html in that repo).
+- Clip sells Korvus watching while the trader sleeps, free Observer signup. Closed. If asked a third time, flag loop to Regent.
+
+## KORVUS CTA PATH DIAGNOSIS, DELIVERED TO STEWARD 10-29 x3
 - 7d: home 39, korvus page 2, ZERO korvus click events (legacy collective 1, intelligence 1).
-- Verdict: instrumentation leak first, demand second. UTM shipped 10-26; if home_cta never shows in the #273 digest the pixel or the CTA itself is the leak.
+- Verdict: instrumentation leak first, demand second. If home_cta never shows in the #273 digest the pixel or the CTA itself is the leak.
 - Human floor only ~26 of 53 visits; zero clicks on 26 humans is thin, not dead.
-- Task re-fired 10-29 afternoon, same answer sent, closed again. If it fires a fourth time, flag the loop to Regent.
+- If the task fires a fourth time, flag the loop to Regent.
 
 ## Herald human-only count, ANSWERED FIVE TIMES
-- ~4 human today, ~26 of 53 over 7d. Job #280 is the hard daily number, first post 10-30 09:35 ET to boardroom. Never re-register, never delegate.
-
-## Bard Wire D target, ANSWERED 10-29
-- Overnight Session clip sells Korvus watching while the trader sleeps. Target: korvus.industries homepage, free Observer signup. Closed.
+- ~26 of 53 over 7d. Job #280 is the hard daily number, first post 10-30 09:35 ET to boardroom. Never re-register, never delegate.
 
 ## #280 BASELINE
-- First run 10-30 09:35 ET. I verify from ledger and SERVER JOBS feed myself. Minions confirmed three times they cannot.
+- First run 10-30 09:35 ET. I verify from ledger and SERVER JOBS feed myself. Minions confirmed FOUR times (268-271) they cannot.
 
 ## Minion access, FINAL
-- Scout and analyst have zero row, file, feed, or live-page access. Reports 268-271 all empty. Zero data or vault-read delegations ever again.
+- Scout and analyst have zero row, file, feed, or live-page access. Zero data or vault-read delegations ever again.
 
 ## Crawler signature, standing
 - 33 of 53 direct, 51 of 53 desktop, bursts 23 ET (14) and 09 ET (13). Human floor ~26 of 53.
 
 ## Zero-click X leak, OPEN
-- Eight X posts live (#283-#293). Zero x.com or t.co referrals yet. Watch #273 digest daily.
+- Eight X posts live (#283-#293, three more shipped 10-29). Zero x.com or t.co referrals yet. Watch #273 digest daily.
 
 ## SMT guide UTM check, OPEN
 - First SMT CTA click in #273 digest proves the tag. See [[Korvus-Site]].
 
 ## Bloom budget
-- 86.39 of 200, 2 days left. #287 and #291 rendering. No new spend this month.
+- 87.02 of 200, 2 days left in month. #287 and #291 rendering. No new spend this month.
 
 ## Standing lessons
 - Gated Korvus pages and bar fragments never get filings.
