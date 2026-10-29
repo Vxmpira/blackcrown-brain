@@ -251,3 +251,6 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-29: [APPROVED] #273 Daily Korvus landing click path digest (via reaction)
 - 2026-10-29: [APPROVED] #274 19:00 Korvus watcher creative, overlay and caption (via admin)
 - 2026-10-29: [REJECTED] #275 Post Operator annual X line, no dollar figures (note: preflight: post asks need a PLATFORM line) (via preflight)
+- 2026-10-29: [APPROVED] #276 Crown ownership post on X, privacy line, free tier (via reaction)
+- 2026-10-29: [APPROVED] #277 Publish SMT divergence guide, eleventh /p page (via reaction)
+- 2026-10-29: [APPROVED] #278 Add SMT guide url to Korvus sitemap (via reaction)

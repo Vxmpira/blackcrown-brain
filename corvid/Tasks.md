@@ -1,7 +1,7 @@
 # Tasks
 
-- [x] From Herald: Visit-to-click diagnosis due today: 3 visits, 0 clicks. (done)
 - [ ] Home CTA fix, awaiting Steward paste (doing)
 - [ ] Steward: Return live tagged link and home CTA verbatim (open)
-- [ ] File SMT guide page from scribe note (open)
-- [ ] From Bard: Best Korvus click path and exit page for clip links today. (open)
+- [ ] From Steward: Return Watcher and Skeptics vault read path result verbatim, plus tagged link. (doing)
+- [x] From Bard: Confirm utm_content scheme for per-clip link attribution (done)
+- [ ] Check 09:30 digest rows for t.co referrals (open)

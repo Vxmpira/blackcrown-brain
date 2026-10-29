@@ -197,3 +197,6 @@ The 19:0
 - 2026-10-29: #272 Korvus wire video, 10-30, critic PASS > DONE: rendering via Bloom, package lands in the channel
 - 2026-10-29: #273 Daily Korvus landing click path digest > DONE: job registered: "Daily Korvus landing click path digest", daily at 16:00 ET, posts to corvid. The server runs it from now on, no Make needed.
 - 2026-10-29: #274 19:00 Korvus watcher creative, overlay and caption > DONE: rendering via Bloom, package lands in the channel
+- 2026-10-29: #276 Crown ownership post on X, privacy line, free tier > DONE: posted to X with the brand account (post 2115793368307388807)
+- 2026-10-29: #277 Publish SMT divergence guide, eleventh /p page > DONE: pages/smt-divergence-futures.html updated live (new page created). repo committed and pushed.
+- 2026-10-29: #278 Add SMT guide url to Korvus sitemap > DONE: sitemap.xml updated live (appended 1 new entry). repo committed and pushed.
