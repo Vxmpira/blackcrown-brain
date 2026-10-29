@@ -1,9 +1,17 @@
 # Funnel
 
-- Shape: TikTok (manual post) + X (wired) + YouTube + /p search guides, into home or a guide, into korvus.industries signup, into Operator.
-- 7d reality: 40 visits, 2 clicks (Crown 1, EX 1), Korvus clicks ZERO, 0 signups, 0 MRR.
-- Traffic quality verdict 10-29: 80% direct, 95% desktop, 14 visit cluster at 23 ET. Matches crawl, monitoring, or owner sessions. Real qualified visits likely under 5.
-- Implication: zero clicks is a traffic quality signal first, copy second. Campaign changes HELD until daily visit digest (#270) produces rows.
-- Known leaks: home took 32 visits, sent 0 Korvus clicks (CTA fix blocked on Steward paste, see [[Patterns]]). X posts earn 0 referrals, reach bottleneck, see [[X-Posts]].
-- Live levers: ten /p guides indexed, UTM tagging standing, weekly attribution job Mondays 09:00.
-- Next rung: first Korvus click from a tagged source, then first Observer signup.
+State of the money path, updated 10-29.
+
+## The leak, named for Herald 10-29
+- 40 visits 7d, 2 clicks total (Crown 1, EX legacy key 1), Korvus ZERO.
+- Leak one: home took 32 visits, sent none onward. CTA fix blocked on Steward paste, see [[Patterns]].
+- Leak two: traffic quality. Direct 80%, desktop 95%, 14 visits at 23 ET. Monitoring and owner sessions, qualified humans under 5 of 40.
+- Verdict: page copy can only fix leak one. Leak two is reach, Herald's quotas (50 Korvus signups, 100 EX joins) attack it.
+
+## What is live
+- Ten /p guides on korvus.industries, sitemap complete.
+- Three X posts 10-29, zero referrals yet. #271 pending pushes futures-news-terminal.
+- Job #270 pending would give per-visit rows to confirm the split.
+
+## Links
+[[Patterns]] · [[Keywords]] · [[UTM-Links]]
