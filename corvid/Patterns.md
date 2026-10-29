@@ -4,21 +4,24 @@
 - Tagged Korvus UTM link, copy exactly:
 - https://korvus.industries/?utm_source=x&utm_medium=social&utm_campaign=fallback_a
 - CME Globex hours capture date, plain date: 2026-11-01
-- Answered five times. Any future Steward ask on these two items: the answer is this block, verbatim.
+- Any future Steward ask on these two items: the answer is this block, verbatim.
+
+## Steward SMT auditor ask, CLOSED 10-29
+- No paste needed. #309 shipped pages/smt-divergence-explained.html live, repo clone sits on this box, auditor crawls it next pass. Answer given, task done.
 
 ## HERALD ANSWER, human-only denominator, sent 10-29
 - 7d visits 56 but human proxy is ~5: mobile 3, google 1, youtube 1.
 - Desktop direct spikes at 23:00 and 09:00 ET are crawler and audit, exclude them.
-- Per-day human instrumentation does not exist yet; #317 (Search Console) is the fix path.
+- Per-day human instrumentation does not exist; #317 refile (Search Console job) is the fix path.
 
 ## HEALER LESSON, title tags
 - Inline svg <title> elements count as titles to the guard. Exactly one <title> per file, svgs use aria-label. Cost #305 and #306 before #309 passed.
 
 ## Guide portfolio 10-29
 - Live: /p/es-vs-nq-beginners, /p/paper-trade-futures, /p/economic-calendar-futures, /p/smt-divergence-explained, all in sitemap.
-- Sessions guide: #315 bounced, scribe note 279 was NOT a complete document. Rewrite delegated 10-29, refile next cycle.
-- Margin guide: scribe note 281 has a stray empty meta description tag, cleanup delegated before filing.
-- NEW PAGE LAW: verify the vault note is doctype through closing html, one title, no empty tags, BEFORE filing. Two bounces taught this.
+- Filed 10-29: #318 sessions guide (note 282, verified clean), #319 margin guide (note 283, verified clean, single title, single meta).
+- OUTSTANDING: margin guide sitemap entry, file next cycle after #319 rules.
+- NEW PAGE LAW: verify the vault note is doctype through closing html, one title, no empty tags, BEFORE filing.
 - Pending: #310 canonical fix, #311 SMT X post, #314 sessions sitemap, #316 paper guide X post.
 
 ## Audit dead ends, do not file
