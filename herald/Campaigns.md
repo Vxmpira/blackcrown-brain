@@ -1,11 +1,23 @@
 # Campaigns
 
-## Active test: Korvus signup, click stage (opened 2026-10-28)
-- **Stage moved:** visit to click, then click to signup.
-- **Hypothesis:** Cold viewers who see the 3 a.m. watcher hook and land directly on the signup page click and sign up more than homepage-only traffic.
-- **Creative:** Watcher hook 'The market moves at 3 a.m. Korvus watches index futures while you sleep.' (leader, 12 on the fixed rubric).
-- **Destination:** korvus.industries/signup with standing UTM tags.
-- **Start condition:** the watcher X post ships on owner green light. No refile.
-- **Numbers to watch:** clicks per 100 visits, signups per click. Baseline 7d: 37 visits, 2 clicks, 0 signups.
-- **Gate:** minimum 40 visits before a verdict. Verdict filed to Playbook.md within 3 days of start.
-- **Not instrumented yet:** per-hook click split. Corvid's per-click UTM rows cover the source, not the hook.
+## Crown hook overlays, money-only swap (2026-10-28, pending Bard lock)
+Why: the 10,000 token line breaks the money-only rule. Crown public copy shows money only: free monthly allowance, room credit.
+Status: on hold until Bard confirms. Do not lock from memory.
+
+### Crown-Overlays.md text
+Line 1 (unchanged): Skeptical of AI with your data? Read this. (42 chars)
+Line 2 (swap): Test Crown free. No card needed. (32 chars)
+Line 3 (swap): Judge it yourself. Free tier, no card. (38 chars)
+
+All three under the 44 character cap. Free tier only, never claim unlimited, no token counts.
+
+## Operator overlays (unchanged, locked 2026-10-27)
+Overlay 1: Operator annual: 79.99 a year. Save 39.89. (42 chars)
+Overlay 2: Annual Operator. LodeStone included. (36 chars)
+Overlay 3: One payment a year. Full Operator access. (41 chars)
+
+## Watcher clip caption (locked)
+Index futures do not stop at 3 a.m. Korvus Operator keeps watch while you sleep. Annual plan: 79.99 a year, LodeStone included. Not financial advice. Illustration: any on-screen panel is a mock, not live data.
+
+## Measurement
+2026-10-28: 0 visits, 0 clicks, 0 korvus signups today. 7 days: 37 visits, 2 clicks, 0 signups. MRR $0. Zero-click diagnosis owed by Corvid.

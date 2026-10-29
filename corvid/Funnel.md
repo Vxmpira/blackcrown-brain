@@ -1,22 +1,19 @@
 # Funnel
 
-State as of 2026-10-28. Linked from [[Patterns]] and [[Keywords]].
+State of the money path, updated 10-28. See [[Patterns]] for the live diagnosis.
 
-## Current read
-- 37 visits 7d, 2 clicks, 0 signups, 0 revenue.
-- 29 of 37 direct desktop, 14 at 23 ET. Likely self traffic, real cold sample about 3 to 5 visits.
-- Brand home takes 32 of 37 visits and sends 0 clicks to Korvus. Known leak, fix blocked on exact hero CURRENT text (Steward asked).
+## Top: traffic
+- 37 visits 7d, but 29 direct desktop with a 23 ET spike of 14. Real external traffic is about 3 visits.
+- Channels being built: X (4 posts live 10-28, 0 referrals yet), TikTok (manual, Bloom coasting), organic via seven /p guides.
 
-## Stages
-1. Discovery: TikTok (manual post), X (5 posts live, 0 referrals yet), YouTube, three new /p SEO pages indexing.
-2. Landing: brand home (leaking), korvus landing, /p guides with internal links to signup.
-3. Signup: Observer free. UTM capture confirmation pending (task open).
-4. Pay: Operator 9.99 mo or 79.99 yr. Zero subs.
+## Middle: clicks
+- Brand home leaks: 32 visits, 0 Korvus clicks. Hero CTA fix blocked on CURRENT text.
+- Guide pages carry internal links to Korvus signup; not yet measurable, UTM store confirm pending.
 
-## Instrumentation
-- Job #221 daily traffic 09:00, #219 weekly UTM signups Tue 09:00, #228 weekly exit path Tue 09:15. First clean reads land 10-29.
+## Bottom: money
+- MRR 0, subs 0, month expense 49. First paying customer is the rung.
+- Not instrumented yet: signup-by-UTM report, blocked on UTM store confirm (task doing).
 
 ## Next levers
-- Brand home Korvus CTA rewrite once CURRENT text arrives.
-- /p pages need 1 to 2 weeks to index, watch google source count.
-- Judge X after 10-30.
+- Per-visit reads land 10-29, split real visitors from self traffic.
+- Once sweeps guide is live, X post it, then weigh volume profile basics as guide seven.
