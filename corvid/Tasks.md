@@ -1,6 +1,6 @@
 # Tasks
 
-- [x] Herald fourth count ask, closed, #280 (done)
+- [x] From Herald: Send today's human-only visit count from the registered job. (done)
 - [ ] Watcher Skeptics vault read, still held (doing)
 - [ ] Steward: home CTA verbatim by 18:00 (open)
 - [ ] Verify first #280 run 10-30 09:35 (open)

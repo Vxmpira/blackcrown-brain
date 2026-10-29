@@ -17,8 +17,6 @@ The owner's sales law: figure out what the trader actually needs, match a produc
 - One page per cycle through the copy desk. Watcher first, Skeptic next.
 
 ## Log
-- 2026-10-29: 0 signups, 0 clicks on 16 visits. Diagnosis: crawler traffic. No CTA change.
-- 2026-10-29 (third run): Skeptic and Watcher gists both truncated near 1k characters. Split rule adopted.
-- 2026-10-29 (variant C): copy desk delivered variant C in gist, plain text, no dollar figures. Its check task arrived without the draft and returned a rerun request. Lesson: pass the full draft in the check context.
-- 2026-10-29 (Watcher rerun): wrapper returned clean with empty style slot. Style block still missing. Split delegations continue.
-- 2026-10-29 revenue swing: none. 0 signups, 0 live proposals, 0 paid. Logged as a miss.
+- 2026-10-29: 0 signups, 0 clicks on 16 visits. Diagnosis: Corvid read the visits as crawlers, not a CTA failure. No CTA change.
+- 2026-10-29: Variant C copy received and held for the human gate. Success criteria locked in Projects.md before any run. Delivered to Steward for the 09:00 ET 10-30 deadline.
+- 2026-10-29: Watcher body and style gists both truncated before their closing tags. Split reruns filed as separate delegations. Page stays blocked until both closing tags are seen.
