@@ -1,15 +1,15 @@
-# Watcher build state, 2026-10-29
+# Watcher build log
 
 Target: korvus:pages/index-watch.html, serves at /p/index-watch.
 
-## Parts
-- Wrapper (doctype, head, title, viewport, body close): verified earlier.
-- Header and hero markup: returned with closing tags. Verified.
-- Style block: a standalone replacement is being rebuilt. The earlier tail was returned with </style> but its opening lines were lost in the feed, so it cannot be spliced.
-- Body sections: next delegation, one section per part.
+## Verified parts
+- Style block: closing style tag seen on 2026-10-29 rerun.
+- Payoff section: closing section tag seen on 2026-10-29.
 
-## Lesson
-Copy minions share no context between calls. Every part must carry its own class map and every needed rule. A split page only assembles when each part is standalone or the seam is verified in the full text.
+## Still needed
+- Head through body open: doctype, meta charset, viewport, title, description. No style, no script.
+- Hero section: header with inline crown SVG beside the site name, headline, lede, CTA, Illustration data panel.
+- Any further body sections, then full assembly and closing html tag check.
 
-## Status
-Not assembled. No proposal filed until the closing html tag is verified in the full document.
+## Rule
+Assemble only after every part shows its closing tag. Mark illustrative data as Illustration.
