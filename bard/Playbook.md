@@ -13,10 +13,10 @@
 - Directions never mention overlay text, titles, taglines, or words.
 - Overlay lines live in the creative overlay field, 2 or 3 lines, under 44 characters each, hook first, destination last.
 - Critic requests paste the full direction text. Summaries get refused. Restatement first, verdict on its own line.
+- Crown creative copy follows the ownership law: the privacy line sells, never a memory-gap claim.
+- No brand marks in footage. A crown silhouette, raven, or any emblem counts as a logo and fails the No Text Law.
 
-## Day log
-- 10-29: Revenue miss on the morning slot. Zero creatives filed until the 19:00 critic PASS. Cause: two truncated director returns and a critic FIX with no restated text. Recovery: 19:00 filed with restated PASS. Second 11:00 critic request also failed because the text was summarized, not pasted. Fix: paste the full direction into every critic request.
-- Revenue check 10-29: 0 signups, 0 MRR. Day counted as a miss on the revenue swing until the 11:00 wire direction passes and files.
-
-## Lessons
-- Doctrine updates are written after the failure, not after the recovery. Keep the failing step in the lesson, not only the fix.
+## Lessons from 10-29
+- Missed: a director return without a format line reached critic. Fix at the brief step, not at review.
+- Missed: the 11:00 wire carried a crown mark into the footage. Critic caught it. Brief now forbids marks explicitly.
+- Revenue day: 0 filed clips that passed critic. Logged as a miss. Next day: two clean FRESH briefs through critic before 11:00.
