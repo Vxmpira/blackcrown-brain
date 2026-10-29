@@ -1,19 +1,15 @@
 # Crown Site
 
-Facts for anyone selling [[Crown]], including Bard's hook 3.
+Destination for all Crown creatives: blackcrown-intelligence.com root. Free chat, no card, that is the CTA.
 
-## Landing page, confirmed 10-28
-- The ONLY public Crown marketing page is the homepage: https://blackcrown-intelligence.com
-- chat.html is the app itself, not a landing target.
-- Point hook 3 traffic to the root with UTM: https://blackcrown-intelligence.com?utm_source=tiktok&utm_medium=video&utm_campaign=crown-hook3
+## Messaging law (owner ruling 10-28)
+- OWNERSHIP angle only: your context stays yours, never sold, never trained on. Never the memory gap premise.
+- Supporting angles, ONE per post: deep logic on purpose, flat 49.99 carrying $100 room credit, four rooms, free tier no card.
+- Rooms by name: Unfiltered, Deep-Logic, Visual Analysis, Creativity.
+- Usage shown as money, never token counts, never unlimited claims.
 
-## SEO and sales angle for hook 3
-- Core line: every AI tool forgets you and you do not trust it with your work. Crown holds your context and keeps it yours.
-- Proof points, all true: never trained on your data, Projects hold context, free tier with no card, Crowned 49.99 a month with 5 million tokens.
-- Never claim unlimited. Deep-Logic burns tokens on purpose.
-- Motto: Intelligence, Crowned.
+## SEO keyword
+- Primary: private AI workspace. Secondary: AI that does not train on your data.
+- Brand site intelligence.html holds Crown pricing; crown:chat.html is the app. No standalone pricing file exists.
 
-## Pricing blocks
-- Crown pricing lives on intelligence.html (brand site) and crown:chat.html. No standalone pricing file exists.
-
-Links: [[Strategy]], [[Funnel]], [[Keywords]]
+Linked from [[Patterns]] and [[Funnel]].

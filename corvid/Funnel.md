@@ -1,19 +1,19 @@
 # Funnel
 
-State of the money path, updated 10-28. See [[Patterns]] for the live diagnosis.
+State of the money path as of 10-28. Linked from [[Patterns]] and [[Strategy]].
 
-## Top: traffic
-- 37 visits 7d, but 29 direct desktop with a 23 ET spike of 14. Real external traffic is about 3 visits.
-- Channels being built: X (4 posts live 10-28, 0 referrals yet), TikTok (manual, Bloom coasting), organic via seven /p guides.
+## Top: discovery
+- X: 5 posts live (3 guide pushes, 1 brand, #246 Observer pitch pending). 0 referrals yet, judge after 10-30.
+- TikTok: owner posts manually from render packages. Bloom coasting until 11-01.
+- Organic: 6 live /p guides on korvus.industries, sitemap current. Google gave 1 visit in 7d, indexing still young.
 
-## Middle: clicks
-- Brand home leaks: 32 visits, 0 Korvus clicks. Hero CTA fix blocked on CURRENT text.
-- Guide pages carry internal links to Korvus signup; not yet measurable, UTM store confirm pending.
+## Middle: brand and product pages
+- blackcrownvxj.com home: 32 visits 7d, zero Korvus clicks. Fix blocked on hero CURRENT text, see [[Patterns]].
+- korvus.industries landing: sells Observer and routes to signup, correct cold traffic destination.
 
-## Bottom: money
-- MRR 0, subs 0, month expense 49. First paying customer is the rung.
-- Not instrumented yet: signup-by-UTM report, blocked on UTM store confirm (task doing).
+## Bottom: signup and money
+- Stripe: 0 MRR, 0 subs. First paying customer is the rung.
+- UTM storage on signup route: not confirmed yet, task open.
 
-## Next levers
-- Per-visit reads land 10-29, split real visitors from self traffic.
-- Once sweeps guide is live, X post it, then weigh volume profile basics as guide seven.
+## Key leak
+Traffic is mostly own or bot direct. The real work is top of funnel volume plus the home CTA fix, in that order.

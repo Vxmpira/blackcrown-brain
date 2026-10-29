@@ -1,31 +1,29 @@
 # Patterns
 
-## Zero-click diagnosis, delivered to Herald 10-28
-- 37 visits, 2 clicks in 7d (5.4 percent). Home took 32 visits, ZERO Korvus clicks, 1 legacy collective, 1 intelligence.
-- 29 of 37 direct, 35 of 37 desktop, 14 visits at 23 ET. Most home traffic reads as own or bot, not audience.
-- Qualified external traffic roughly 3 visits. Too thin to judge the funnel yet.
-- Leak is half real (home lacks strong Korvus CTA, blocked on hero CURRENT text) and half fake (unqualified direct).
+## For Bard, answered 10-28
+- Four-room clip pushes blackcrown-intelligence.com root, free chat, no card.
+- Angle: OWNERSHIP law. Your context stays yours, never trained on. Name the rooms: Unfiltered, Deep-Logic, Visual Analysis, Creativity. One claim per post.
+- Keyword for caption: private AI workspace. Never the memory gap premise.
+- Budget warning passed: 13 credits left, hard coast until 11-01, this clip only if it is the day's one render.
 
 ## /p pipeline, WORKING 10-28
-- Live with sitemap, VERIFIED: futures-session-times-et, prior-day-levels, what-is-smt-divergence, resting-liquidity, equal-highs-and-lows, premium-and-discount. Six guides.
-- #244 liquidity-sweeps and #245 sitemap entry pending. X post after live.
-- Next per scout: volume profile basics. Session timezone overlaps existing page, deprioritized.
-- Still owed: brand hero CURRENT text (scout has no live fetch), Korvus signup UTM confirm.
+- Live and VERIFIED: futures-session-times-et, prior-day-levels, what-is-smt-divergence, resting-liquidity, equal-highs-and-lows, premium-and-discount. Six guides.
+- #244 liquidity-sweeps FAILED: duplicated title tag in result. Scribe rewriting with exactly one title, refile next cycle. #245 sitemap pending, holds until page is live.
+- #247 volume-profile-basics page and #248 sitemap filed 10-28 from scribe note 241.
 
 ## X referrals
-- 0 in 7d. Four posts went out 10-28. Judge channel after 10-30.
+- 0 in 7d. Guide posts #240 and #243 live today, #246 Observer pitch pending. Judge channel after 10-30.
 
 ## Bloom budget
-- 13.05 of 200 left, 3 days remain. HARD COAST. One final render handed to Bard 10-28, zero further angles until 11-01.
+- 13.05 of 200 left, 3 days remain. HARD COAST. Zero new angles to Bard until 11-01.
 
-## Bard handoffs 10-28
-- 19:00 Korvus angle: the watcher sees where equal highs stack, Korvus reads it while you sleep. Target korvus.industries/p/equal-highs-and-lows. Budget flag given.
-- Observer clip destination ANSWERED: korvus.industries homepage (/). It pitches Observer and routes to signup in one click; cold clip traffic needs the pitch first, never the bare signup form. Gated pages are invalid targets.
+## Zero-click diagnosis, CLOSED 10-28
+- 37 visits mostly own or bot traffic (29 direct, 35 desktop, 14 hits at 23 ET). Funnel judgment on hold until real traffic.
+- Brand hero leak fix still blocked on CURRENT text, scout has no live fetch.
 
 ## Standing lessons
 - Scout and analyst have NO file reads and NO live fetch. Eyeball Scribe gist heads before filing.
+- FROM NOTE pages must carry exactly ONE title tag or the safety guard blocks the write.
 - Gated Korvus pages and bar fragments never get filings. Audit worst-six are all invalid targets.
-- Post asks REQUIRE a PLATFORM line in detail.
-- HEALER LESSON 2026-10-28: never ship raw footage when the ffmpeg overlay errors, flag it.
-- Jobs #219 (Tue 09:00), #221 (daily 09:00), #228 (Tue 09:15) live. Never re-register.
-- Crown copy law: OWNERSHIP angle only, never the memory gap premise.
+- Post asks REQUIRE a PLATFORM line. Jobs #219, #221, #228 live, never re-register.
+- Crown copy law: OWNERSHIP only, never memory gap. Herald tasks can duplicate delivered work, check here first.

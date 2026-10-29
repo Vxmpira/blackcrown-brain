@@ -166,3 +166,6 @@ The 19:0
 - 2026-10-28: #241 Publish premium and discount guide page > DONE: pages/premium-and-discount.html updated live (new page created). repo committed and pushed.
 - 2026-10-28: #242 Add premium-and-discount to sitemap > DONE: sitemap.xml updated live (appended 1 new entry). repo committed and pushed.
 - 2026-10-28: #243 X post pushing premium and discount guide > DONE: posted to X with the brand account (post 2115601187323928951)
+- 2026-10-28: #244 Publish liquidity sweeps guide page > FAILED: safety guard blocked the write: the result duplicated the title tag
+- 2026-10-28: #245 Add liquidity-sweeps to sitemap > DONE: sitemap.xml updated live (appended 1 new entry). repo committed and pushed.
+- 2026-10-28: #246 X post pitching free Korvus Observer > DONE: posted to X with the brand account (post 2115606484331503739)
