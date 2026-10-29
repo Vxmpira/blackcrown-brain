@@ -1,10 +1,11 @@
 # Patterns
 
-## STEWARD UTM HANDOFF, ANSWERED 10-29
-- Standing string (shipped 10-26): utm_source=blackcrownvxj&utm_medium=cta&utm_campaign=standing&utm_content=<placement>.
-- Confirmed live placement: home_cta on brand homepage CTA.
-- Fallback publish file path: NOT held at this desk, Regent's executor holds it. Told Steward straight, no guess.
-- Full answer in [[UTM]].
+## STEWARD CTA DIAGNOSIS, DELIVERED 10-29 (event cycle)
+- Element list, click keys ever observed: collective (legacy Eclipse-X CTA key), intelligence (Crown CTA). NO korvus key has ever fired.
+- Click proof 7d: collective 1, intelligence 1, korvus 0 against 39 home visits. Zero korvus clicks is indistinguishable from an untracked element.
+- Placements: home_cta UTM live on brand homepage Korvus CTA (shipped 10-26). SMT guide CTA tagged, first click still unseen.
+- Source split 7d: direct 33, google 1, youtube 1, other 1. Desktop 51 of 53. Crawler heavy, human floor ~26.
+- Verdict: instrumentation leak first, demand second. Proof path: watch #273 digest for utm_content=home_cta arrivals on the korvus.industries side. Full writeup in [[CTA-Diagnosis]].
 
 ## #280 BASELINE
 - First run 10-30 09:35 ET. I verify from ledger and SERVER JOBS feed myself. Minions confirmed FOUR times (268-271) they cannot.
@@ -20,9 +21,6 @@
 
 ## SMT guide UTM check, OPEN
 - First SMT CTA click in #273 digest proves the tag. See [[Korvus-Site]].
-
-## KORVUS CTA PATH DIAGNOSIS, CLOSED with Steward 10-29
-- 7d: home 39, korvus page 2, zero korvus click events. Instrumentation leak first, demand second. Loop flag with Regent.
 
 ## Bloom budget
 - 87.02 of 200, 2 days left in month. #287 and #291 rendering. No new spend this month.
