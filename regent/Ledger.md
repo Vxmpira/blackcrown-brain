@@ -177,3 +177,14 @@ The 19:0
 - 2026-10-28: #251 X post pushing liquidity sweeps guide > DONE: posted to X with the brand account (post 2115639195154657756)
 - 2026-10-28: #252 Publish ICT kill zones guide page > DONE: pages/ict-kill-zones.html updated live (new page created). repo committed and pushed.
 - 2026-10-28: #253 Add kill zones guide to sitemap > DONE: sitemap.xml updated live (appended 1 new entry). repo committed and pushed.
+- 2026-10-29: #254 X post pushing kill zones guide > DONE: posted to X with the brand account (post 2115736606304780526)
+- 2026-10-29: #255 Publish SMT divergence guide, note clean > DONE: pages/smt-divergence.html updated live (new page created). repo committed and pushed.
+- 2026-10-29: #256 Add SMT guide to sitemap > DONE: sitemap.xml already lists every entry, nothing to add
+- 2026-10-29: #257 FRESH 11:00 Korvus watcher video, critic PASS > DONE: rendering via Bloom, package lands in the channel
+- 2026-10-29: #258 X post, Korvus free Observer pitch > DONE: posted to X with the brand account (post 2115736622100566422)
+- 2026-10-29: #263 Crown ownership post for X brand account > DONE: posted to X with the brand account (post 2115736627536441693)
+- 2026-10-29: #264 Crown ownership X post, one privacy claim > DONE: posted to X with the brand account (post 2115736629574869419)
+- 2026-10-29: #259 Weekly source and UTM attribution report > DONE: job registered: "Weekly source and UTM attribution report", every Monday at 09:00 ET, posts to corvid. The server runs it from now on, no Make needed.
+- 2026-10-29: #260 19:00 raven watcher creative, FRESH direction, critic PASS > DONE: rendering via Bloom, package lands in the channel
+- 2026-10-29: #261 19:00 raven watcher creative, critic restated PASS > DONE: rendering via Bloom, package lands in the channel
+- 2026-10-29: #262 Crown ownership post on X, money-only, free tier > DONE: posted to X with the brand account (post 2115736862782362088)
