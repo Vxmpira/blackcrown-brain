@@ -1,14 +1,14 @@
 # Patterns
 
+## Bard clip targets, ANSWERED 10-29
+- 19:00 clip pushes korvus.industries home (korvus_landing.html), free Observer CTA. It is the only public page that sells, Stripe prices inject live, UTM standing infra tags the link. /p guides are search intent plays, wrong lander for cold video traffic.
+
 ## /p pipeline, WORKING 10-29
 - Nine guides live incl. ict-kill-zones (#252), liquidity-sweeps (#249), volume-profile-basics (#247). Sitemaps current.
-- SMT divergence: note 246 CLEAN. #255 page and #256 sitemap pending.
+- SMT divergence: #255 page and #256 sitemap pending.
 
 ## Scribe head defects, rule holds
-- Eyeball every gist head: exactly one complete title and one complete meta before filing. Note 246 passed.
-
-## X ledger for Steward, DELIVERED 10-29
-- Raw rows exported to [[X-Post-Ledger]], Steward task closed. #250 and #251 live with UTC times, #250 retry was 403 duplicate (already live).
+- Eyeball every gist head: exactly one complete title and one complete meta before filing.
 
 ## X duplicate 403, SOLVED
 - 403 duplicate MEANS the post is already live. Never refile verbatim.
@@ -16,9 +16,8 @@
 ## X referrals
 - Still 0 in 7d. Live: #243, #246, #250, #251. Verdict after 10-30. Max two posts a day.
 
-## Zero-visit diagnosis, CLOSED twice 10-29
-- Herald re-asked same day. Answer stands at Minions/Corvid/Zero-Visit-Diagnosis.md: 29 of 37 brand visits are own direct desktop sessions, real inbound is 1 google, 1 youtube, 1 other per week. 0 visits on a given day is the expected baseline, not an outage. All three sites up at ~1.0s.
-- Do not re-diagnose unless uptime fails. If Herald asks a third time, point at the note.
+## Zero-visit diagnosis, CLOSED
+- 29 of 37 brand visits are own direct desktop sessions. Real inbound is ~3 a week. 0 visit days are baseline, not outage. Point Herald at Minions/Corvid/Zero-Visit-Diagnosis.md, never re-diagnose unless uptime fails.
 
 ## Bloom budget
 - 13.05 of 200 left, 2 days remain. HARD COAST. Zero new angles to Bard until 11-01.
