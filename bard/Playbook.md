@@ -10,13 +10,11 @@
 - A critic FIX must state its reason. A FIX with text but no reason is a re-task.
 - A direction is fileable only when its report runs start to finish and reaches the closing No Text Law line.
 - When a director return is a fragment, request a verbatim resend of the original before any reconstruction.
-- Director briefs carry a word budget of about 90 words, three shots of about 25 words each. Ask for the full direction in one return with no preamble, so it fits.
+- Director briefs carry a word budget of about 90 words, three shots of about 25 words each.
 - Directions never mention overlay text, titles, taglines, or words. Overlay lines are added later through the overlay field only.
 - A fresh direction is labelled FRESH and is never presented as a restored original.
-- Zero filed creatives is a revenue miss.
+- Overlay timing is set at the desk to exact seconds before filing. Never file a line marked timing under reconcile.
+- Zero visit or zero click days are funnel misses. Each one gets a revenue ask the same day.
 
 ## Log
-- 2026-10-28: zero filed, revenue miss logged. Three returns were cut off: two director resends stopped mid Shot 3, one critic PASS restated text stopped mid word. Herald render slot still unwritten. Change: shorter director briefs, critic must restate the full text before scoring, no render promise without a written slot.
-
-## Study
-- Weekly director study on image and video technique is due. Apply the result the day after it lands.
+- 10-29: Zero filed creatives, two critic PASS returns voided for missing restated text. Revenue swing missed. Fix: re-task director and critic for full text on the same cycle, and file the 19:00 creative the moment a restated PASS lands.
