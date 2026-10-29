@@ -1,19 +1,23 @@
 # Keywords
 
-Working keyword map for the /p guide pipeline. See [[Funnel]] for where each lands.
+Beginner index futures keyword roster for korvus.industries guide pages. See [[Funnel]] and [[Patterns]].
 
-## Live guides (9)
-- ict-kill-zones, liquidity-sweeps, volume-profile-basics, smt-divergence and six earlier. All educational intent.
+## Live pages and target queries
+- /p/es-vs-nq-beginners: es vs nq, difference between es and nq futures
+- /p/paper-trade-futures: how to paper trade futures, paper trading index futures
+- /p/smt-divergence-explained: smt divergence, smt divergence es nq
+- /p/economic-calendar-futures: economic calendar for futures traders
 
-## In flight
-- **futures news terminal** > korvus:pages/futures-news-terminal.html. Tenth guide, Regent-ordered, HIGHEST commercial intent in the map: searcher is shopping for exactly what Korvus is. Scribe drafting 10-29, file FROM NOTE next cycle.
+## In production
+- futures trading sessions explained (asia london new york), scribe writing 10-29. Fits Korvus session context feature, sells the terminal naturally.
 
-## Next candidates, intent order
-1. futures economic calendar (commercial-adjacent, maps to the scored wire)
-2. smt divergence indicator (maps to [[LodeStone]])
-3. premium and discount zones (educational, ICT cluster)
+## Backlog, highest intent first
+- what moves es futures (news angle, direct Korvus fit)
+- best free futures news feed (commercial intent, Observer pitch)
+- index futures for beginners (broad head term, hub page candidate)
+- cme contract rollover dates explained (ties to 11-01 capture)
 
 ## Rules
-- One keyword per page, title leads with it, canonical on korvus.industries/p/<name>.
-- Educational guides end on the free Observer CTA; commercial pages sell Operator directly.
-- Never build pages for gated routes.
+- Every guide links to korvus_landing with a per-guide UTM.
+- Measurement blocked until Search Console lands (#312 filed 10-29).
+- No advice language, information framing only, disclaimer on every guide.

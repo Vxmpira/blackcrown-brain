@@ -6,18 +6,20 @@
 - CME contract capture date: 2026-11-01, per the standing 11-01 post task.
 - Answered four times; if Steward asks again, point here.
 
-## SMT guide, LIVE 10-29, canonical bug caught
-- #309 executed, /p/smt-divergence-explained is live.
-- CONFIRMED BUG: shipped from note 278, canonical points to /p/smt-divergence-ex. Fix filed as #310.
-- Guard lesson: inline svg <title> elements count as titles. Exactly one <title> per file, svgs use aria-label.
-- Sitemap entry (#307) now resolves, no longer a 404.
+## SMT guide LIVE 10-29
+- #309 executed after two guard blocks. Lesson confirmed: inline svg <title> elements count as titles. Exactly one <title> per file, svgs use aria-label.
+- Canonical bug: live page points to /p/smt-divergence-ex. Fix is #310, pending.
+- #311 X launch post pending with Regent.
+
+## Guide portfolio 10-29
+- Live: /p/es-vs-nq-beginners, /p/paper-trade-futures, /p/smt-divergence-explained, all in sitemap.
+- Next: futures trading sessions guide, scribe writing 10-29, file 10-30.
+- Organic is 1 visit in 7d. Search Console not instrumented, #312 filed to fix that.
 
 ## Traffic shape 10-29
 - 7d: ~3 human visits of 54 (mobile 3, google 1, youtube 1). Under 1 a day.
-- Hour spikes 23:00 (14) and 09:00 (13) ET on desktop read as crawler or audit traffic. See [[Funnel]].
-- 7d human count is the click test denominator for Herald.
+- Hour spikes 23:00 and 09:00 ET desktop read as crawler or audit traffic. See [[Funnel]].
+- Promotion closes the gap faster than waiting on crawl: per-guide UTM campaigns on X.
 
-## Guide pages live 10-29
-- /p/es-vs-nq-beginners, /p/paper-trade-futures, /p/smt-divergence-explained all live with sitemap entries.
-- Organic is 1 visit in 7d; these pages are the lever. Watch for first google impressions; Search Console not instrumented yet.
-- Promotion closes the gap faster than waiting on crawl: X posts with per-guide UTM campaigns (#308 observer pitch, #311 smt guide).
+## Audit dead ends, do not file
+- blackcrown-bar fragments, promo studio, dashboard, admin, agent: gated, unrouted, or robots-blocked. SEO work there is wasted.
