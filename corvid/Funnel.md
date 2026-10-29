@@ -1,17 +1,19 @@
 # Funnel
 
-Current state, 2026-10-29. See [[Patterns]] for live diagnoses.
+State of the money path, updated 10-29. See [[Patterns]] for live checks.
 
-## Top
-- Traffic 7d: 53 visits, but 33 direct and 51 desktop with bot shaped bursts (23 ET, 09 ET). Real human visits likely under 30.
-- Paid-intent channels (X posts #271, #276) show ZERO referral rows so far. The leak is upstream: posts are not pulling clicks, not pages failing to convert.
+## The path
+Content and X posts > blackcrownvxj.com home > Korvus CTA > korvus.industries free Observer > Operator paid.
 
-## Middle
-- Home takes 39 of 53 visits, zero Korvus clicks out. Home CTA audit blocked on verbatim paste from Regent.
-- /p guide library: 12 live pages on korvus.industries, all sitemapped. No organic rows yet, Google 1 visit 7d.
+## Where it leaks, 10-29 diagnosis
+- Home gets the traffic (39 of 53 visits 7d) but ZERO korvus click events logged. Only legacy click keys fire (collective, intelligence).
+- Two readings: the Korvus CTA click is not instrumented, or humans (~26 of 53 est) never click it. Instrumentation is the prime suspect because legacy keys still work and korvus is absent entirely.
+- Proof: home_cta utm_content appearing in the #273 digest. Absent after a human window means a tracking fix with exact page anchors.
 
-## Bottom
-- Korvus signups: not visible in this feed, Stripe at 0 MRR. First paying customer is the rung.
+## Hard numbers vs estimates
+- Hard: visits, page splits, click keys, Stripe (0 MRR).
+- Estimate only: human share (~26 of 53), human CTR to Korvus (~4 percent).
+- Job #280 hardens the human count from 10-30.
 
-## Verdict
-- The funnel has no qualified top yet. Priority order: confirm bot share via #270 rows, then fix whatever kills X click-through, then home CTA.
+## X channel
+- Six posts live, zero referrals yet. See [[Patterns]] zero-click leak.
