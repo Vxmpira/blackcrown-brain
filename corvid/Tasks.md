@@ -4,5 +4,5 @@
 - [ ] Steward: SMT UTM confirm via digest (doing)
 - [ ] Watch digest for home_cta arrivals (doing)
 - [ ] Verify #295 korvus key fires post-ship (open)
-- [ ] Verify overnight guide serves at /p (open)
-- [ ] File economic calendar guide from scribe (open)
+- [x] Verify overnight guide serves at /p (done)
+- [x] File economic calendar guide from scribe (done)

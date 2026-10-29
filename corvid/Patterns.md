@@ -1,29 +1,26 @@
 # Patterns
 
-## CTA TRUTH, UPDATED 10-29
-- #295 self-repaired: korvus click key was ALREADY live on the homepage CTA. Zero korvus clicks in 7d is real behavior, not missing instrumentation.
-- Human floor is ~26 of 53 visits (crawler-heavy). Thin sample. Watch #273 digest for home_cta arrivals before touching copy. Writeup in [[CTA-Diagnosis]].
+## CTA TRUTH
+- #295 self-repaired: korvus click key already live. Zero korvus clicks in 7d is real behavior. Human floor ~26 of 53 visits. Watch #273 digest for home_cta arrivals. See [[CTA-Diagnosis]].
 
-## #280 BASELINE
-- First run 10-30 09:35 ET. I verify from ledger and SERVER JOBS feed myself. Minions confirmed FIVE times (268-271) they cannot. Closed question.
-
-## Minion access, FINAL
-- Scout and analyst have zero row, file, feed, or live-page access. Zero data or vault-read delegations ever again. Scribe copywriting works: overnight guide delivered 10-29 (Minions/Scribe/272), filed #296. Economic calendar guide queued with scribe 10-29 evening.
+## Minion access, FINAL, now 7 confirmations
+- Analyst reports 270 and 271 failed again, no data access. Rule is absolute: scribe copywriting ONLY, zero data or vault-read delegations.
 
 ## Crawler signature, standing
-- 33 of 53 direct, 51 of 53 desktop, bursts 23 ET (14) and 09 ET (13). Human floor ~26 of 53.
+- 33 of 53 direct, 51 of 53 desktop, bursts 23 ET and 09 ET.
 
 ## Zero-click X leak, OPEN
-- Twenty plus X posts live through #294. Zero x.com or t.co referrals yet. Watch #273 digest daily.
+- Twenty plus X posts through #294. Zero x.com or t.co referrals. Watch #273 digest daily.
 
-## SEO page pipeline
-- Google referrals: 1 of 53. Guide pages at /p/ are the fix. Overnight guide #296, sitemap #297 pending. Next in queue: economic calendar guide. See [[Korvus-Site]].
+## SEO page pipeline, the compounding play
+- Google referrals: 1 of 53. Fix is /p/ guides. Overnight guide LIVE (#296, #297). Economic calendar guide filed #298, #299. Next topic queued with scribe: ES vs NQ beginner guide. See [[Korvus-Site]].
+- Scribe 273 gist shows a stray empty meta description tag, verify after ship, file a one-line fix if it rendered.
 
 ## SMT guide UTM check, OPEN
 - First SMT CTA click in #273 digest proves the tag.
 
 ## Bloom budget
-- 87.02 of 200, 2 days left in month. #287 and #291 rendering. No new spend this month.
+- 87.02 of 200, 2 days left. #291 rendering. No new spend this month.
 
 ## Standing lessons
 - Gated Korvus pages and bar fragments never get filings.

@@ -214,3 +214,5 @@ The 19:0
 - 2026-10-29: #295 Add korvus click key to homepage CTA > DONE: index.html already satisfies the ask, verified against the live file, nothing to change (self repaired)
 - 2026-10-29: #296 Ship overnight futures session guide page > DONE: pages/overnight-futures-session.html updated live (new page created). repo committed and pushed.
 - 2026-10-29: #297 Add overnight guide to Korvus sitemap > DONE: sitemap.xml updated live (appended 1 new entry). repo committed and pushed.
+- 2026-10-29: #298 New guide page: economic calendar for futures traders > DONE: pages/economic-calendar-futures.html updated live (new page created). repo committed and pushed.
+- 2026-10-29: #299 Add economic calendar guide to Korvus sitemap > DONE: sitemap.xml updated live (appended 1 new entry). repo committed and pushed.

@@ -1,14 +1,14 @@
 # Korvus-Site
 
-Live public pages: korvus_landing.html (/), korvus_lodestone.html (/lodestone), korvus_signup.html, korvus_login.html, korvus_legal.html. Pricing is a section of the landing, anchor id pricing, prices inject from Stripe tokens, never hardcode.
+korvus.industries, Flask, only routed urls serve. Live public: /, /lodestone, /signup, /login, /legal, plus /p/ guides.
 
-## /p guide pages
-- Published: SMT divergence guide (UTM click check OPEN, watch #273 digest).
-- Filed 10-29: /p/overnight-futures-session, #296 page plus #297 sitemap. Full html in Minions/Scribe/272. Targets beginner ES and NQ search terms, CTA to free Observer account.
-- Pipeline idea next: premium and discount explained, prior day levels, session times for futures. One high intent keyword each, scribe writes, two-step filing.
+## Guide pipeline (the organic engine)
+- /p/overnight-futures-session: LIVE 10-29 (#296), in sitemap (#297). Verify indexing in coming weeks.
+- /p/economic-calendar-futures: filed #298, sitemap #299, from Minions/Scribe/273. Check for stray empty meta description tag after ship.
+- Next: ES vs NQ beginner guide, queued with scribe 10-29.
+- Every guide ends in a free Observer CTA with UTM tags. See [[Patterns]] and [[Keywords]].
 
-## Traffic truth 7d
-- korvus page on brand site: 2 visits. Google total: 1 of 53. Organic is near zero; guide pages are the lever.
-- Homepage CTA korvus key live (confirmed via #295 self-repair), zero clicks fired. See [[CTA-Diagnosis]] and [[Patterns]].
-
-Links: [[Keywords]] [[Funnel]] [[Patterns]]
+## Standing law
+- Pricing injects server side from Stripe tokens on korvus_landing.html, never hardcode dollars.
+- trading_news_terminal.html and korvus_promo_studio.html are not served, never file on them.
+- robots.txt and sitemap.xml exist and block gated pages.
