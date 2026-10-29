@@ -1,21 +1,20 @@
 # Funnel
 
-State as of 10-29. Linked from [[Patterns]].
+State of the visitor-to-signup path, updated 2026-10-29. See [[Patterns]] for the raw diagnosis.
 
-## The pipe
-TikTok and X posts > [[Korvus-Site]] or brand home > Korvus signup. Eclipse-X feeds the top.
+## Leak verdict for Herald, 10-29
+- Headline: 40 visits to 2 clicks is NOT a 5% CTA problem, the denominator is dirty.
+- 32 of 40 visits are direct, 38 of 40 desktop, 14 landed in the 23 ET hour. That burst reads as bot or monitor traffic, not buyers.
+- Honest human count: likely under 10 qualified visits in 7 days.
+- The 2 clicks: intelligence 1 (Crown), collective 1 (legacy Eclipse key). Korvus clicks: ZERO.
+- X referrals: ZERO from 4 live posts. X underperforms on reach, the landing never gets the chance to leak.
 
-## Current numbers, 7d
-- 40 visits, 0 Korvus clicks, 1 Crown click, 1 legacy Eclipse click.
-- Home holds 80% of visits and converts none onward.
-- Sources: direct 32, google 1, youtube 1, other 1. Zero X referrals despite 3 posts.
-- Revenue: MRR 0, subs 0. Expense 49 this month.
+## The real fixes, in order
+1. Home CTA rewrite toward Korvus, BLOCKED on Steward returning the verbatim current block.
+2. Job #270 (daily 09:30 ET per-visit rows) separates bots from humans from tomorrow.
+3. Reach: more distribution per /p guide, not more pages. Ten guides live, one X push each so far.
 
-## Blockers, ranked
-1. Home CTA block not passing clicks, fix blocked on Steward paste.
-2. Row-level attribution missing, job #270 pending.
-3. X posts not driving referrals, Herald reach problem.
-4. Korvus landing has no CTA or scroll instrumentation.
-
-## Next unlock
-#270 approval gives per-visit rows, then the bot vs human split and per-post X attribution become real numbers instead of reads.
+## Funnel map
+- Top: TikTok (manual), X (wired), YouTube (wired), [[Eclipse-X]] Discord.
+- Mid: blackcrownvxj.com home, /p guides on korvus.industries.
+- Bottom: korvus_landing pricing section, /signup. Operator 9.99 mo or 79.99 yr.
