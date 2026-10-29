@@ -1,8 +1,8 @@
 # Tasks
 
-- [ ] Watch digest: home_cta, SMT, korvus (doing)
+- [ ] Fix and refile #305 SMT guide (doing)
+- [ ] File SMT sitemap after refile (open)
+- [x] UTM source lines sent to Auditor (done)
+- [x] Herald: human floor 4 a day, sent (done)
 - [ ] Verify #280 first post 10-30 (open)
-- [ ] File SMT sitemap after #305 ships (open)
-- [ ] Send Herald human-only korvus visit count (open)
-- [ ] Fix and refile #305 SMT page (doing)
-- [x] From Bard: Confirm Wire D target (done)
+- [ ] Watch digest: home_cta, SMT, korvus (doing)

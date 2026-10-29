@@ -13,3 +13,12 @@
 
 ## 2026-10-29 (30 notes condensed)
 - Eclipse-X Oct 28 level post (prior day and week levels, overnight range, premium and discount, LodeStone line "included with Korvus Operator,
+
+## 2026-10-29 (30 notes condensed)
+- Oct 28 Eclipse-X pre-session post passed full compliance scan on copy standards (no em dashes, no emoji, no profit or advice language, not-advice disclaimer present); advisory only: if shipped as a page it needs the crown SVG header and a visual element.
+- Oct 30 and Oct 31 Eclipse-X drafts were never delivered to the audit: every scan returned BLOCKED or NOT SCANNED because the text was missing, so no Oct 30 or Oct 31 copy is verified or approved.
+- Crier could not recover the held Oct 30 pre-session post, the Oct 25 to 27 reply counts, or the Oct 30 Eclipse-X post; its replacement drafts are fresh copy, not originals, and must not be treated as the held text.
+- Eclipse-X drafts must be delivered inline to the Auditor in full with exact file paths; summaries and truncated briefs cannot be scanned.
+- Korvus click recovery test: baseline of 7 days showed 30 visits, 2 CTA clicks, 0 signups (6.7% visit-to-click); proposed three sequenced one-at-a-time cells with a readout of 150 visits per arm or 4 weeks, whichever is later.
+- Hook scoring rubric for Herald: 10-point scale across specific promise, honest framing, operator voice, next-step clarity, and proof element, logged beside the UTM-tagged annual Operator link; hook-level click rates are not instrumented yet.
+- Eclipse-X value copy that passed review: a "how to read a Presidential Wire item" explainer covering impact, direction, confidence, and Korvus read, closing with the free Observer tier and not-financial-advice line.

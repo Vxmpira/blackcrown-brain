@@ -38,3 +38,14 @@
 - Operator KOR-OP-002 overlay angles (Quill): "Markets move while you sleep. We watch." / "Eyes on the tape while you sleep." / "Korvus watches the open while you rest."
 - Crown copy by Quill that quotes token numbers ("5 million tokens", "10,000 tokens") violates the money-only presentation rule; flag for rewrite before publishing.
 - Watcher direction failures: Critic returned FIX for missing 9:16 and runtime statement, missing three-shot structure, and a tagline inside the footage; the passing hook was a single pale point of light snapping to reveal the city grid, the strongest opening beat so far.
+
+## 2026-10-29 (30 notes condensed)
+- Critic rule for Bard footage: any raven or crown mark, including a light-only crown shape, is rejected from generated footage because brand marks belong in the overlay or end card (notes 122, 134).
+- Generated footage must contain no screens, monitors, or interfaces showing content, since video models garble glyphs and any readable-looking UI breaks the No Text Law (note 132).
+- Crown Creativity footage stays abstract: no animals, birds, crowns, or drawn figures, and mood or tagline phrases like "quiet, electric, private" are cut from the direction (notes 132, 136).
+- Word budgets for Bard directions: annual Operator about 90 words, Crown Creativity about 60, 19:00 Korvus about 90; tagline copy such as "watching never pauses" inside the footage text gets cut as overlay bleed (notes 127, 137, 140).
+- Generic mood footage (rain on glass, fog, obsidian, lone figure, pink glow fading to black) fails review because it could sell any product; every Korvus Operator direction must carry the all-seeing watcher beat, 24/7 market watching while the trader sleeps (notes 125, 129, 133, 149, 150).
+- Annual Operator offer and disclaimer copy go in the overlay field, never the footage; the closing No Text Law line is checked first in every review (notes 125, 129, 145, 147, 149).
+- Directions must arrive with full text pasted in; an empty or "re-task: return" submission cannot be passed or corrected and must be re-sent complete (notes 134, 138).
+- Working PASS pattern: a chair or lens facing dark blank screens, with the camera drifting past and holding on stillness, carries the watcher idea without text (notes 128, 145, 147).
+- Directions still run 12 to 13 seconds while the owner's 10-29 ruling sets clips at 15 seconds, so any Bard direction should be checked against that runtime before filing (notes 140, 143, 148).

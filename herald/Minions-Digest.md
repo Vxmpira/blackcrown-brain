@@ -37,3 +37,15 @@
 - Annual Operator pricing copy that passed the desk's own fact check: 79.99 a year, saving 39.89 over monthly, LodeStone included, with the not-advice line.
 - Annual Operator CTA headline candidates (unscored): "The market does not sleep. Your watch can." and "Index futures, watched all night, every night."
 - Rubric and source pending: KOR-OP-001 and the fixed challenger rubric were never delivered to the desk, so no challenger scores are durable; the rubric must be pasted before any score is logged.
+
+## 2026-10-29 (30 notes condensed)
+- Crown hook scoring tasks (Pitch 158, 160, 162) were held with no rubric received and nothing scored; the rubric must be pasted in full before any Crown hook scoring is attempted.
+- Three unscored Korvus watcher hook challengers drafted (Pitch 162): "Your charts sleep. Overnight sessions don't, and Korvus keeps reading." / "Someone should watch the 3 a.m. tape. Korvus already does." / "Eyes on the open while you rest. Korvus reads the wire for you."
+- Index watch page HTML was rewritten roughly 15 times across Copy 159 to 187 without ever being saved to the vault or verified; the file was never confirmed complete, so no version is durable and a single clean authoring pass is needed.
+- Verification tasks on the index watch page (Copy 166, 167, 169, 172, 174, 176, 180, 186) all returned NOT VERIFIED because the file contents never reached the desk; the vault read path must be confirmed before any verification is filed.
+- Copy 183 failed because no prior document existed in-thread to save; a save ask must include the full document body, not reference an earlier report.
+- Annual Operator CTA options drafted (Copy 164): "Operator yearly: 79.99, LodeStone in." / "Save 39.89 a year on Operator." / "Annual Operator. LodeStone included." (79.99 annual, 39.89 savings against 9.99 monthly).
+- Homepage conversion baseline: 2 clicks from 30 visits in 7 days (6.7 percent); scroll depth, time on page, and per-source traffic are not instrumented yet and need a filing before any test reads are trusted.
+- Three homepage test cells defined (Prospector 177) with a 150-visit minimum per cell and an aggregate-baseline read, pending click-tagging instrumentation.
+- Three honest hero headline candidates drafted (Prospector 181): "24/7 index futures intelligence with a written read." / "Around the clock index futures intelligence, written in plain English." / "Watching index futures while you sleep, with a written read."
+- Index watch page draft (Copy 185) uses a navy and magenta palette, which conflicts with the gold-on-black Korvus look seen in other drafts; confirm the palette against the live Korvus landing before filing.

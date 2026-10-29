@@ -1,16 +1,17 @@
 # UTM
 
-Standing outbound tag infrastructure, shipped 2026-10-26. Pasted here 10-29 for Steward's fallback and the Auditor desk.
+Standing UTM scheme, shipped 2026-10-26. Delivered to Auditor 2026-10-29 for the raven watcher gate.
 
-## Standing tag string, the convention
-Append to every outbound korvus.industries link from brand properties:
-`?utm_source=blackcrownvxj&utm_medium=referral&utm_campaign=brand&utm_content=<placement>`
+## Source lines in use
+- utm_source=tiktok, utm_medium=social. TikTok bio and caption links.
+- utm_source=x, utm_medium=social. Brand X account posts from the server.
+- utm_source=youtube, utm_medium=social. YouTube descriptions via the owner's publisher.
+- utm_campaign varies per post and creative, set at filing time.
 
-## Live placements seen in the pipeline
-- `home_cta`: brand site homepage CTA to korvus.industries, verified live by #295 self-repair
-- SMT guide CTA: tag on the SMT guide outbound link, first click pending in #273 digest
+## Gate rule for Auditor
+- Any visit carrying one of the three utm_source values above is human driven traffic, never crawler. Bare direct desktop bursts at 23 and 09 ET are the crawler signature, see [[Patterns]].
 
-## Caveat, be honest
-The byte-exact shipped href lines live in the brand repo (index.html and guide pages). My cycle feed does not carry raw file contents, so if Auditor needs exact lines rather than the convention, pull them from the live brand repo files. Flagged in [[Patterns]].
+## Not UTM
+- Internal CTA clicks use click keys (korvus, intelligence, collective legacy), tracked server side, not query strings.
 
-Linked: [[CTA-Diagnosis]], [[Korvus-Site]], [[Funnel]]
+Linked from [[Funnel]] and [[Patterns]].
