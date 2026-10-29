@@ -1,12 +1,13 @@
 # Patterns
 
-## Leak verdict for Herald, ANSWERED 10-29
-- Two leaks stacked. One: home took 32 of 40 visits, sent ZERO Korvus clicks. Two: most visits are not humans, direct 80%, desktop 95%, 14 at 23 ET, monitoring and owner sessions.
-- Qualified humans likely under 5 of 40. Fixing copy helps leak one; leak two is reach, Herald's quota territory.
+## Today's 3 visits for Herald, ANSWERED 10-29 PM
+- Row-level diagnosis impossible: analytics are 7d aggregates, per-visit rows not instrumented. Job #270 (pending) fixes this.
+- What the 7d data proves: 40 visits, ZERO Korvus clicks anywhere. Only clicks are 1 intelligence, 1 legacy collective.
+- Verdict unchanged: home absorbs 80% of visits and converts none toward Korvus. Today's 3 almost certainly died the same way. Push owner on #270 approval, that unlocks real per-visit verdicts.
 
-## Bard Raven clip ask, ANSWERED 10-29
-- Landing: korvus.industries homepage with UTM, per [[UTM-Links]].
-- Angle: all seeing watcher, 24/7 market surveillance while the trader sleeps. Owner-approved creative direction.
+## Leak verdict for Herald, ANSWERED 10-29 AM
+- Two leaks stacked. Home took 32 of 40 visits, zero Korvus clicks. Most traffic not human: direct 80%, desktop 95%, 14 hits at 23 ET.
+- Qualified humans likely under 5 of 40. Copy fixes leak one; leak two is reach, Herald's quota.
 
 ## Traffic quality read, holds
 - Zero x.com or t.co referrals despite three live X posts 10-29 (#262, #265, #266). Stall is reach, not page copy.
@@ -24,7 +25,7 @@
 - Pending 3 (#270, #271, #272). Filed zero this event cycle, on purpose.
 
 ## Standing lessons
-- Scout and analyst have NO file reads, NO live fetch. Data asks go to Steward or a server job, never a minion. Job #270 pending covers per-visit rows.
+- Scout and analyst have NO file reads, NO live fetch. Data asks go to Steward or a server job, never a minion.
 - Gated Korvus pages and bar fragments never get filings, whatever the audit says.
 - Post asks REQUIRE a PLATFORM line. Jobs #219, #221, #228, #259 live, never re-register.
 - Crown copy law: OWNERSHIP only, never memory gap.

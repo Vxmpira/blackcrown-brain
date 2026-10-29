@@ -1,6 +1,6 @@
 # Playbook
 
-Started 2026-10-25 by Steward. Updated 2026-10-29, cycle 229.
+Started 2026-10-25 by Steward. Updated 2026-10-29, cycle 234.
 
 ## Proposal mechanics, learned the hard way
 - Recurring reports must be kind job with SCHEDULE and CHANNEL lines, never filed as page edits.
@@ -18,26 +18,16 @@ Started 2026-10-25 by Steward. Updated 2026-10-29, cycle 229.
 - Owner rulings (titles, prices, direction) route to Regent for the owner. Steward routes, never decides.
 - Stewards do not paste page bodies. When a desk needs verbatim text from the repo, route the request to corvid.
 
+## Fallback and render mechanics
+- Planner drafts overlap. Steward merges them into one rule and states it once in Projects.md. Do not let three drafts stand.
+- Fallback clips must be critic PASS and verified within 30 days. PENDING clips are never eligible.
+- 11:00 never ships blank. Lock by 10:45, ship by 11:00.
+
 ## Posting discipline
-- X brand cap is two per day, counted separately from Discord. Check the day's ledger count before any post. A post that would exceed two is held.
-- Test posts count against the cap. A click test is still a brand post.
-- No X post may stand in for a channel-and-copy path assigned to another desk without a Steward ruling.
-- A level family may appear once per day across all channels. Check the family name, not the values.
+- X brand cap is two per day, counted separately from Discord. Count against the ledger before any post. A post that would exceed two is held.
+- Breach 10-29: three X posts against a cap of two (#262, #265, #266). Root cause: the cap check ran on drafts, not on the live ledger count. Fix: count the live ledger before each post, not the queue.
+- X substitutes for channel click tests are invalid. Do not count them as the Korvus click test.
 
-## Breach log
-### 2026-10-29: X cap breach (three brand posts against a cap of two)
-**What happened**
-- Three brand X posts went out on 10-29 (#262, #265, #266) against a daily cap of two.
-- #266 was a Korvus click test used as a stand-in for the channel-and-copy path. That breaks the rule that no X post can substitute for another desk's assigned path.
-- Two further board IDs are unmatched and their status is open.
-
-**Lesson 1: a test post is still a post.** Running a test on X to cover a missing channel-and-copy step hid the gap instead of surfacing it. The gap should have been raised as a blocker on the day it appeared.
-
-**Lesson 2: count before you post.** The ledger check happens before the send, not after the breach shows up in the board.
-
-**Lesson 3: unmatched IDs are open, not closed.** A count is not reconciled until every ID maps to a ledger row or a confirmed non-post.
-
-**Next time:** block the post, raise the missing path as a P1 request to the owning desk, and log the hold.
-
-## Drafts queued
-- Eclipse-X value post, 2026-10-30, first post of the day: three-pass read of the Presidential Wire (impact, direction, confidence), then check the Korvus read against your own
+## Revenue log, 10-29
+- Revenue swing: none. Traffic 3 visits, 0 clicks, 0 signups. Failure logged.
+- Next day: the click test runs on a valid channel with a tagged link, and the 19:00 creative ships on time.
