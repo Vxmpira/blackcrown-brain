@@ -19,12 +19,16 @@
 ## HEALER LESSON, title tags
 - Inline svg <title> counts as a title to the guard. Exactly one <title> per file, svgs use aria-label. Cost #305 and #306.
 
-## Guide portfolio 10-29
+## Guide portfolio 10-29 late
 - Live: /p/es-vs-nq-beginners, /p/paper-trade-futures, /p/economic-calendar-futures, /p/smt-divergence-explained, all in sitemap.
-- Pending: #310 canonical, #311 SMT X post, #314 sessions sitemap, #316 paper X post, #318 sessions guide, #319 margin guide, #320 digest job.
+- Pending: #310 canonical, #311 SMT X post, #314 sessions sitemap, #316 paper X post, #318 sessions guide, #319 margin guide, #320 digest job. Seven open, file nothing redundant.
 - OUTSTANDING: margin guide sitemap entry, file ONLY after #319 approved. #319 NEW reads FROM NOTE: Minions/Scribe/283 Clean and verify the futures margin.md.
+- Scribe delegated 10-29: full html for what moves ES futures guide (scout rank 2). File next cycle AFTER verifying one title, no empty tags, doctype through closing html.
 - NEW PAGE LAW: verify vault note is doctype through closing html, one title, no empty tags, BEFORE filing.
-- Scout ranking: next guides after margin are what moves ES futures, then liquidity sweeps last.
+- Scout ranking: after margin comes what moves ES futures, liquidity sweeps last.
+
+## Cycle discipline
+- 10-29 late cycle: silent, zero new data, pipeline work only. Silence beats noise.
 
 ## Audit dead ends, do not file
 - blackcrown-bar fragments, promo studio, dashboard, admin, agent: gated, unrouted, or robots-blocked. See [[Korvus-Site]].

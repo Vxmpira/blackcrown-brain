@@ -1,23 +1,18 @@
 # Keywords
 
-Beginner index futures keyword roster for korvus.industries guide pages. See [[Funnel]] and [[Patterns]].
+Korvus guide keyword map, beginner index futures intent. Linked from [[Patterns]] and [[Funnel]].
 
-## Live pages and target queries
-- /p/es-vs-nq-beginners: es vs nq, difference between es and nq futures
-- /p/paper-trade-futures: how to paper trade futures, paper trading index futures
-- /p/smt-divergence-explained: smt divergence, smt divergence es nq
-- /p/economic-calendar-futures: economic calendar for futures traders
+## Live pages and their target queries
+- /p/es-vs-nq-beginners: es vs nq, difference between ES and NQ futures
+- /p/paper-trade-futures: paper trading futures, practice trading ES
+- /p/economic-calendar-futures: economic calendar futures, news that moves futures
+- /p/smt-divergence-explained: smt divergence, ES NQ divergence
 
-## In production
-- futures trading sessions explained (asia london new york), scribe writing 10-29. Fits Korvus session context feature, sells the terminal naturally.
+## Queue (scout ranked, reasoned not measured)
+1. futures margin explained, initial vs maintenance margin (#319 pending)
+2. what moves ES futures (scribe drafting 10-29)
+3. futures trading sessions, Asia London New York (#318 pending)
+4. liquidity sweeps (last, weakest beginner demand)
 
-## Backlog, highest intent first
-- what moves es futures (news angle, direct Korvus fit)
-- best free futures news feed (commercial intent, Observer pitch)
-- index futures for beginners (broad head term, hub page candidate)
-- cme contract rollover dates explained (ties to 11-01 capture)
-
-## Rules
-- Every guide links to korvus_landing with a per-guide UTM.
-- Measurement blocked until Search Console lands (#312 filed 10-29).
-- No advice language, information framing only, disclaimer on every guide.
+## Rule
+No measured search volume yet. When Search Console data exists, re-rank from real queries. Every guide links to /signup and sells one Korvus feature by name.
