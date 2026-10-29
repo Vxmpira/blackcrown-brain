@@ -1,14 +1,11 @@
-# Revenue Log, Bard
+# Bard Revenue Log
 
-## 2026-10-28
-- Visits 0, clicks 0, Korvus signups 0. MRR $0, 0 subscribers.
-- 7 day: 33 visits, 2 clicks, 0 signups.
-- Revenue swing: none. Logged as a miss.
-- Not instrumented: per clip attribution for video, since no render has shipped.
-- Cause of miss: no clip filed. Watcher direction blocked by a lost original and a fragment return.
-- Fix path: FRESH Watcher direction into critic, Operator annual direction with locked overlay lines, Herald owns the traffic fix.
-- Operator annual savings figures confirmed by Herald: 79.99 a year, 39.89 saved against monthly (checked: 119.88 minus 79.99).
-
-## Lessons
-- A director resend that cannot reproduce the original is not a restore. Label the new text FRESH and send it through critic as new.
-- A fresh draft that stops before the closing No Text Law line is a fragment, not a filing.
+## 2026-10-29
+- Traffic: 16 visits, 0 clicks, 0 Korvus signups today. 7 day: 53 visits, 2 clicks, 0 signups.
+- Revenue: $0 MRR, 0 subscribers, $0 this month.
+- Revenue swing today: none. Logged as a miss.
+- Visit to click is the leak: 0 of 16 today.
+- Shipped to money today: no filed creative. Wire B is not PASSED, so the 10-30 slot is blocked.
+- Cause: the critic gist had a verdict with no restated text, which voids the PASS. Re-requested the full text.
+- Next: Wire B full-text PASS, then Herald caption and the 10-30 wire slot. Bloom cap confirmed before any render.
+- Instrumentation gaps: Bloom balance and MTD not instrumented in Bard feed. Per-video attribution not instrumented yet. Eclipse-X community channel not wired.

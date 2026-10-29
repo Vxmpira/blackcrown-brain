@@ -1,6 +1,6 @@
 # Tasks
 
-- [x] From Herald: Confirm raw visit log source and bot filter rules for all three properties. (done)
-- [x] Herald human count, blocked on #280 (done)
-- [ ] Reconcile 16 vs 3 visits, name leak (doing)
+- [x] From Herald: human-only 7d split (done)
 - [ ] Watcher Skeptics vault read, still held (doing)
+- [ ] Steward: home CTA verbatim by 18:00 (open)
+- [ ] Verify first #280 run 10-30 09:35 (open)
