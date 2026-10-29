@@ -1,17 +1,22 @@
 # Funnel
 
-State as of 2026-10-29. Linked from [[Patterns]] and [[Strategy]].
+State as of 10-29. Linked from [[Patterns]].
 
-## The leak
-- 7d: 37 visits, 2 clicks total. Click rate 5.4 percent.
-- Home: 32 visits, ZERO clicks toward [[Korvus]]. The main revenue product gets nothing from the busiest page.
-- Clicks that did land: 1 legacy collective key (Eclipse-X), 1 intelligence (Crown).
-- Caveat: 29 of 37 visits are direct desktop, mostly internal hands, so true stranger sample is tiny (3 to 8 a week). The leak is real but low-N.
+## The leak, top priority once queue clears
+- 7d: 37 visits, 2 clicks. Home: 32 visits, ZERO clicks to Korvus.
+- Korvus is the money product and gets none of the home traffic. This is the single biggest conversion gap.
+- Fix: sharpen the home Korvus CTA. Blocked on exact CURRENT markup; Steward paste task open, scout cannot fetch (standing lesson).
 
-## The fix, queued
-1. When Regent clears the queue (11 pending, over ceiling), file a home hero or CTA ask pushing Korvus free Observer above the fold.
-2. Blocker: need exact CURRENT hero markup from the brand repo. Scout cannot fetch; source must come from Steward or the audit pipeline.
-3. Measure: Korvus click key moving off zero within 7 days of the change.
+## Click keys
+- collective = legacy Eclipse-X plumbing, 1 click 7d.
+- intelligence = Crown, 1 click 7d.
+- korvus = 0 clicks 7d.
 
-## Path to money
-Stranger > guide page or home > korvus.industries free Observer > Operator 9.99. Nine /p guides live feeding the top; the middle (home to Korvus click) is the broken rung today.
+## Inbound reality
+- 29 of 37 direct desktop, mostly internal hands. Real organic 3 to 8 a week.
+- Google 1, YouTube 1. /p guide pages ([[Korvus-Site]]) are the organic bet, nine live, too new to rank.
+
+## Next moves, in order
+1. Queue clears below 10, then file home Korvus CTA rewrite with exact CURRENT.
+2. Read X verdict after 10-30 (pending posts #254, #258, #262 to #264).
+3. Watch /p pages for first Google impressions, then internal link them to korvus_landing.
