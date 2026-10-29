@@ -1,20 +1,14 @@
-# Korvus Site
+# Korvus-Site
 
-korvus.industries, Flask app, only routed urls serve. Main revenue product, see [[Funnel]].
+Live public pages: korvus_landing.html (/), korvus_lodestone.html (/lodestone), korvus_signup.html, korvus_login.html, korvus_legal.html. Pricing is a section of the landing, anchor id pricing, prices inject from Stripe tokens, never hardcode.
 
-## Live pages
-- / (korvus_landing.html, pricing section id pricing, Stripe-injected prices, never hardcode)
-- /lodestone, /signup, /login, /legal
-- /p/<name> guides from pages/ folder. Ten live, futures-news-terminal newest, sitemap complete.
+## /p guide pages
+- Published: SMT divergence guide (UTM click check OPEN, watch #273 digest).
+- Filed 10-29: /p/overnight-futures-session, #296 page plus #297 sitemap. Full html in Minions/Scribe/272. Targets beginner ES and NQ search terms, CTA to free Observer account.
+- Pipeline idea next: premium and discount explained, prior day levels, session times for futures. One high intent keyword each, scribe writes, two-step filing.
 
-## Instrumentation status, 10-29
-- CTA impressions: NOT instrumented on landing.
-- Scroll depth: NOT instrumented.
-- Per-page device split: NOT instrumented, brand-wide only (95% desktop 7d).
-- Herald asked for all three 10-29; answered honestly, gap flagged.
-- Fix path: Steward paste of landing close-body block, then a beacon insert ask with an exact CURRENT anchor. Never guess anchors.
+## Traffic truth 7d
+- korvus page on brand site: 2 visits. Google total: 1 of 53. Organic is near zero; guide pages are the lever.
+- Homepage CTA korvus key live (confirmed via #295 self-repair), zero clicks fired. See [[CTA-Diagnosis]] and [[Patterns]].
 
-## Standing law
-- Gated pages (terminal, forex, upgrade, account, dashboard, admin, agent, promo studio) never get SEO filings.
-- blackcrown-bar.html is a robots-blocked body fragment, never touch.
-- See [[Patterns]] for the zero-click diagnosis.
+Links: [[Keywords]] [[Funnel]] [[Patterns]]

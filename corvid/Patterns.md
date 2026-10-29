@@ -1,25 +1,26 @@
 # Patterns
 
-## CTA INSTRUMENTATION, FILED #295 (10-29 event cycle)
-- Click keys ever observed: collective (legacy), intelligence. NO korvus key has ever fired.
-- 7d proof: collective 1, intelligence 1, korvus 0 against 39 home visits. Untracked element, not zero demand.
-- Fix filed #295: add korvus click key to the homepage CTA anchor (the one carrying utm_content=home_cta, shipped 10-26). With Regent.
-- Proof after ship: korvus key appears in clicks, cross-check vs home_cta arrivals in #273 digest. Full writeup in [[CTA-Diagnosis]].
+## CTA TRUTH, UPDATED 10-29
+- #295 self-repaired: korvus click key was ALREADY live on the homepage CTA. Zero korvus clicks in 7d is real behavior, not missing instrumentation.
+- But human floor is ~26 of 53 visits (crawler-heavy). Thin sample. Watch #273 digest for home_cta arrivals before touching copy. Writeup in [[CTA-Diagnosis]].
 
 ## #280 BASELINE
 - First run 10-30 09:35 ET. I verify from ledger and SERVER JOBS feed myself. Minions confirmed FOUR times (268-271) they cannot.
 
 ## Minion access, FINAL
-- Scout and analyst have zero row, file, feed, or live-page access. Zero data or vault-read delegations ever again. Scribe copywriting is fine.
+- Scout and analyst have zero row, file, feed, or live-page access. Zero data or vault-read delegations ever again. Scribe copywriting works: delivered complete overnight guide html 10-29 (Minions/Scribe/272).
 
 ## Crawler signature, standing
 - 33 of 53 direct, 51 of 53 desktop, bursts 23 ET (14) and 09 ET (13). Human floor ~26 of 53.
 
 ## Zero-click X leak, OPEN
-- Fourteen plus X posts live through #294. Zero x.com or t.co referrals yet. Watch #273 digest daily.
+- Seventeen plus X posts live through #294. Zero x.com or t.co referrals yet. Watch #273 digest daily.
+
+## SEO page pipeline
+- Google referrals: 1 of 53. Guide pages at /p/ are the fix. Overnight guide filed #296, sitemap #297. See [[Korvus-Site]].
 
 ## SMT guide UTM check, OPEN
-- First SMT CTA click in #273 digest proves the tag. See [[Korvus-Site]].
+- First SMT CTA click in #273 digest proves the tag.
 
 ## Bloom budget
 - 87.02 of 200, 2 days left in month. #287 and #291 rendering. No new spend this month.
