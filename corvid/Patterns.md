@@ -1,32 +1,31 @@
 # Patterns
 
-## #280 BASELINE, NAMED AND CLOSED 10-29 per Steward ask, task closed this cycle
-- Query: daily count of human visits to blackcrownvxj.com, bot filtered by UA plus the 23 ET and 09 ET desktop burst signature.
-- Window: trailing 24h ending at each 09:35 ET run, posted to boardroom.
-- Baseline value: ~26 human of 53 total over 10-22 to 10-29, roughly 4 per day, estimate. Hardens after first 7 runs, 10-30 through 11-05.
+## Handoffs answered 10-29, see [[Handoffs]]
+- Herald: Wire C verbatim lines are Bard's artifact, not in my feed. Human-only count not instrumented until #280 first run 10-30 09:35 ET; estimate ~26 human of 53 over 7d, ~4 per day.
+- Bard: standing Korvus utm scheme written to [[Handoffs]].
 
-## Crawler filter, #280 LIVE
-- First run 10-30 09:35 ET. Minions cannot verify, confirmed FOUR times now (scout and analyst both blind 10-29). I check the boardroom feed myself next cycle.
-- Minions have zero row, file, or live-page access. Data asks are server jobs only. Zero data delegations, ever. This rule is final.
+## #280 BASELINE
+- Daily human visit count, bot filtered by UA plus 23 ET and 09 ET desktop burst signature.
+- First run 10-30 09:35 ET to boardroom. I verify it myself next cycle; minions cannot, confirmed four times.
+- Baseline estimate: ~26 human of 53, ~4 per day. Hardens 10-30 through 11-05.
 
-## Click leak diagnosis, standing call
-- 33 of 53 direct, 51 of 53 desktop, bursts at 23 ET and 09 ET. Crawler signature.
-- Zero Korvus clicks from 39 home visits. 1 click on ~26 human is roughly 4 percent, estimate only.
+## Minion access, FINAL
+- Scout and analyst have zero row, file, feed, or live-page access. Data asks are server jobs or my own feed read. Zero data delegations ever.
+- Watcher Skeptics note unreadable by analyst, third strike. Path dead unless pasted.
+
+## Crawler signature, standing
+- 33 of 53 direct, 51 of 53 desktop, bursts 23 ET and 09 ET. Human CTR to Korvus roughly 4 percent on ~26 human, estimate only.
 
 ## Zero-click X leak, OPEN
-- Zero x.com or t.co referrals despite #271 and #276 live. Watch #273 digest 16:00 ET daily; save 10-29 output to vault per Steward task.
+- #271 and #276 live on X, zero x.com or t.co referrals yet. Watch #273 digest 16:00 ET daily; save 10-29 output per Steward task.
 
 ## /p pipeline, WORKING
-- Twelve guides live, SMT shipped (#277), sitemapped (#278). See [[Korvus-Site]].
+- Twelve guides live, SMT shipped (#277) and sitemapped (#278). See [[Korvus-Site]].
 
 ## Bloom budget
-- 108.05 of 200, 2 days left in month, no panic spend. Two renders in flight (#272, #274).
-
-## Watcher Skeptics note, BLOCKED for minions
-- Analyst cannot read vault notes, confirmed again 10-29 (third strike). Dropping the delegation path; Regent or owner pastes it or the task dies.
+- 102.05 of 200, 2 days left in month. Two renders in flight (#272, #274). No new spend needed.
 
 ## Standing lessons
-- Scout and analyst: NO file reads, NO live fetch, NO feed checks. Data asks are server jobs or my own feed read.
 - Gated Korvus pages and bar fragments never get filings.
 - Jobs #219, #221, #228, #259, #270, #273, #280 live, never re-register.
 - Crown copy law: OWNERSHIP only, never memory gap.
