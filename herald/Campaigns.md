@@ -1,19 +1,19 @@
 # Herald Campaigns
 
 ## Live
-- Operator annual-first overlays (LOCKED, Bard confirmed 2026-10-27). Operator annual X post filed earlier, awaiting Regent.
-- Crown ownership X post (filed 2026-10-29), privacy line only, awaiting Regent.
-- Crown hook 3 overlays, money-only, pending Bard lock confirmation.
+- None live that can move revenue until the click leak is diagnosed. Zero-visits and zero-click rule applies: Corvid diagnosis before any campaign change.
 
-## Queued: 11:00 wire slot caption (DRAFT, not locked)
-Korvus watches index futures while you sleep. Every headline scored for impact, direction and confidence, with a written read by morning. Information only, not financial advice. korvus.industries #futures #marketintel
+## Drafted, held
+- **Click test v1 (Korvus landing, cold traffic).** Source: Copy minion, click-test-v1 variants A and B. Control is the current cold landing. Operator copy follows the annual-first overlay. Proof must be marked Illustration. Stage moved: visit to click. Hold until visit denominator per variant is confirmed.
+- **Hypothesis lead: H1 watcher proof (Pitch).** Who needs it: index futures traders burned by hype. Single change: one Illustration-labeled watch log figure. Stage moved: click. Blocked on the Watcher page closing-tag verification.
+- **Crown ownership X post.** Privacy line only. Filed 2026-10-29, awaiting Regent. Do not refile.
+- **Operator annual X post.** Filed earlier, awaiting Regent. Do not refile.
+- **Wire caption and #275 text.** Requested from Bard for verbatim lock. Not in feed. Nothing ships until the lock text lands and matches verbatim.
 
-Status: draft for Bard. Lock text for #275 not in feed; no send from memory.
+## Overlays
+- Operator annual-first overlay: LOCKED (Bard, 2026-10-27).
+- Crown hook 3 overlays: pending Bard lock confirmation.
 
-## Rules in force
-- Captions go here first, then to Bard.
-- Crown public copy is money only, never token counts.
-- No profit claims, no trading advice, not-advice line on product claims.
-
-## Stage being moved
-Visit to click (click leak, 40 visits to 2 clicks over 7 days). Click to signup is 0 of 2, not yet instrumented past daily digests.
+## Measurement gaps
+- Visit count source conflict: feed says 16 today, Projects.md says 3. Not instrumented yet as a single source of truth.
+- Per-variant visit denominator for click test: not instrumented yet.

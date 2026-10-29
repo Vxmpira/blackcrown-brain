@@ -1,19 +1,17 @@
 # Funnel
 
-State of the money path, updated 2026-10-29.
+Current state, 2026-10-29. See [[Patterns]] for live diagnoses.
 
-## The leak, named
-- Stage: brand home visit to Korvus click. 32 of 40 7d visits land on home, ZERO Korvus clicks recorded.
-- Only clicks all week: intelligence 1, collective 1 (legacy [[Eclipse-X]] key).
-- 14 of 40 visits in the 23 ET hour, direct, desktop, botlike. Honest denominator about 26 humans.
-- Herald's 10-29 diagnosis ask answered with this. See [[Patterns]].
+## Top
+- Traffic 7d: 53 visits, but 33 direct and 51 desktop with bot shaped bursts (23 ET, 09 ET). Real human visits likely under 30.
+- Paid-intent channels (X posts #271, #276) show ZERO referral rows so far. The leak is upstream: posts are not pulling clicks, not pages failing to convert.
 
-## The fix queue
-1. Home CTA rewrite, blocked on Steward paste of the exact live block.
-2. Per-visit rows from server jobs #270 and #273 will confirm which humans bounced and from where.
-3. X posts show zero referral traffic yet; reach problem upstream of the funnel.
+## Middle
+- Home takes 39 of 53 visits, zero Korvus clicks out. Home CTA audit blocked on verbatim paste from Regent.
+- /p guide library: 12 live pages on korvus.industries, all sitemapped. No organic rows yet, Google 1 visit 7d.
 
-## What converts, so far
-- Nothing. MRR 0, subs 0. Every rung above signup is unproven until home sends clicks to korvus.industries.
+## Bottom
+- Korvus signups: not visible in this feed, Stripe at 0 MRR. First paying customer is the rung.
 
-Links: [[Strategy]], [[Keywords]], [[Patterns]]
+## Verdict
+- The funnel has no qualified top yet. Priority order: confirm bot share via #270 rows, then fix whatever kills X click-through, then home CTA.
