@@ -1,19 +1,36 @@
 # Herald Campaigns
 
 ## Live
-- None live that can move revenue until the click leak is diagnosed. Zero-visits and zero-click rule applies: Corvid diagnosis before any campaign change.
+- Korvus organic X and TikTok: running, posts ship through the wired desks. No paid spend.
+- Operator annual-first X post: filed earlier, awaiting Regent. Not refiled.
+- Crown ownership X post (privacy line only): filed 2026-10-29, awaiting Regent.
 
-## Drafted, held
-- **Click test v1 (Korvus landing, cold traffic).** Source: Copy minion, click-test-v1 variants A and B. Control is the current cold landing. Operator copy follows the annual-first overlay. Proof must be marked Illustration. Stage moved: visit to click. Hold until visit denominator per variant is confirmed.
-- **Hypothesis lead: H1 watcher proof (Pitch).** Who needs it: index futures traders burned by hype. Single change: one Illustration-labeled watch log figure. Stage moved: click. Blocked on the Watcher page closing-tag verification.
-- **Crown ownership X post.** Privacy line only. Filed 2026-10-29, awaiting Regent. Do not refile.
-- **Operator annual X post.** Filed earlier, awaiting Regent. Do not refile.
-- **Wire caption and #275 text.** Requested from Bard for verbatim lock. Not in feed. Nothing ships until the lock text lands and matches verbatim.
+## Held: Korvus cold landing click test
+Status: HOLD. No run until the human-only visit gate exists (see Projects.md).
+Hypothesis: cold traffic that reads a watch-line headline clicks through to Start free more often than the current landing.
 
-## Overlays
-- Operator annual-first overlay: LOCKED (Bard, 2026-10-27).
-- Crown hook 3 overlays: pending Bard lock confirmation.
+### Variant A: Watch Line
+- Headline: Your market, watched while you sleep. Start free.
+- Button: Start free
+- Proof: Illustration: overnight watch log, 2:40 AM ET, one wire item scored with impact and direction, Korvus read posted.
 
-## Measurement gaps
-- Visit count source conflict: feed says 16 today, Projects.md says 3. Not instrumented yet as a single source of truth.
-- Per-variant visit denominator for click test: not instrumented yet.
+### Variant B: Close Your Eyes
+- Headline: Close your eyes. Korvus keeps the watch.
+- Button: See Operator plans
+- Proof: Illustration, text truncated in feed, re-pull before any use.
+
+### Variant C
+Missing. Not written. Do not run a three-way test until C lands in full.
+
+## Kill rule
+Not set. Pitch must state the human-only denominator and the minimum visits per arm before any variant goes live.
+
+## Crown hook overlays (pending Bard lock)
+- Skeptical of AI with your data? Read this.
+- Test Crown free. No card needed.
+- Judge it yourself. Free tier, no card.
+
+## Operator annual overlay (LOCKED, Bard confirmed 2026-10-27)
+- Operator annual: 79.99 a year. Save 39.89.
+- Annual Operator. LodeStone included.
+- One payment a year. Full Operator access.
