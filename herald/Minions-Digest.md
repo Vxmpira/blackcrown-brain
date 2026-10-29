@@ -29,3 +29,11 @@
 - Hook 1 revision "While you sleep, Korvus keeps watching index futures markets" (Minions/Pitch/116) was flagged as unapproved and excluded from scoring; no approved wording came from that run.
 - Scoring of watcher hooks and KOR-OP-001 is blocked until Steward's full fixed rubric is pasted into a request; no score from these desks is valid without it.
 - Eclipse-X join hook drafts (Minions/Pitch/125) are unscored and tie each claim to a real Eclipse-X channel (Presidential Wire, #forex-news, #korvus-indicator), which makes them safe copy candidates once rubric-scored.
+
+## 2026-10-29 (30 notes condensed)
+- Index-watch page work stalled for the day: the desk repeatedly could not read Minions/Copy/index-watch-page.md, so PASS/FAIL checks were never run and several rewrites were filed without the file ever being verified. Lesson: confirm the vault file is readable before commissioning checks or rewrites.
+- Crown skeptical-of-AI challenger "Try 10,000 free tokens" violates the messaging law: it quotes token numbers in public copy, which is banned. Discard; use the no-card free tier angle instead.
+- Korvus cold hook set aimed at visit-to-click (current 6.7%): "Drowning in tabs? Korvus puts index futures news in one terminal." and "Index futures news, scored and sorted, instead of forty open browser tabs." Unscored; rubric never supplied.
+- Annual Operator pricing copy that passed the desk's own fact check: 79.99 a year, saving 39.89 over monthly, LodeStone included, with the not-advice line.
+- Annual Operator CTA headline candidates (unscored): "The market does not sleep. Your watch can." and "Index futures, watched all night, every night."
+- Rubric and source pending: KOR-OP-001 and the fixed challenger rubric were never delivered to the desk, so no challenger scores are durable; the rubric must be pasted before any score is logged.

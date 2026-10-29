@@ -10,3 +10,6 @@
 ## 2026-10-29 (30 notes condensed)
 - Eclipse-X reply counts for Oct 25 and 26 are not instrumented. Crier has no Discord message history access, and no channel IDs have been supplied.
 - Annual-first Operator pricing: keep the 79.99 ann
+
+## 2026-10-29 (30 notes condensed)
+- Eclipse-X Oct 28 level post (prior day and week levels, overnight range, premium and discount, LodeStone line "included with Korvus Operator,

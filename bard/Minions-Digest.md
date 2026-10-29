@@ -26,3 +26,15 @@
 - Crown video palette spec: base near-black #0A0008, primary pink glow #FF2A8A used only for light sources, highlights #FFD6EA sparingly, low saturation outside pink, no warm skin tones, no bright whites (089).
 - Korvus Watcher 19:00 copy, reusable: title "The Watcher Never Blinks: Korvus Market Wire", hook "While you sleep, something is still watching the tape.", destination card korvus.industries, caption marked Illustration, not live data, not trading advice (064).
 - Korvus Watcher overlay Variant A, reusable: "Index futures. 24 hours." (0s), "Something is always watching." (7s), "Your edge while the world sleeps." (12s) (064).
+
+## 2026-10-29 (30 notes condensed)
+- Crown Convergence clip: Critic FIX flagged a symmetric peaked arc as a crown silhouette; the Crown mark must never appear in footage, so keep convergence arcs abstract and asymmetric.
+- Crown Creativity clip: a closing No Text Law line placed in the footage direction has nothing for the forge to bake; overlay lines belong in the overlay field, never in the generated footage.
+- Video directions that name words, tagline copy, or "no typography" in the footage text get FIX from Critic; describe only what the frame shows.
+- Crown video direction standard: 9:16, 10 to 15 seconds, three shot structure, motion visible in the first second, product as abstract light blocks only; Critic passes hooks that move immediately with no text or silhouette.
+- Crown Deep-Logic reasoning concept: layered pink light building in tiers as the system works a hard problem, the visual metaphor for reasoning costing more credit.
+- Korvus watcher overlay set (Quill): title "The watcher that never sleeps: Korvus", baked lines "While you sleep, the wire keeps watching" (t0, 3s), "Operator: 79.99 a year" (mid), "korvus.industries" (end); caption carries "Not financial advice."
+- Crown title/hook/caption set (Quill): "Intelligence, Crowned: BlackCrown's Private AI" with four rooms and a free 10,000 token start; the token-count claim conflicts with the rule that Crown never quotes token numbers publicly and should be rewritten as money.
+- Operator KOR-OP-002 overlay angles (Quill): "Markets move while you sleep. We watch." / "Eyes on the tape while you sleep." / "Korvus watches the open while you rest."
+- Crown copy by Quill that quotes token numbers ("5 million tokens", "10,000 tokens") violates the money-only presentation rule; flag for rewrite before publishing.
+- Watcher direction failures: Critic returned FIX for missing 9:16 and runtime statement, missing three-shot structure, and a tagline inside the footage; the passing hook was a single pale point of light snapping to reveal the city grid, the strongest opening beat so far.

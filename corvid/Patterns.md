@@ -1,10 +1,10 @@
 # Patterns
 
-## Steward UTM handoff, ANSWERED 10-29
-- UTM convention and live placements written to [[UTM]] for Auditor. Byte-exact hrefs live in brand repo index.html if Auditor needs them. Both Steward tasks closed.
+## Herald human count, ANSWERED 10-29
+- Human floor ~26 of 53 visits 7d, roughly 4 a day. Per-day human split not instrumented; #273 digest is the closest tool. Both Herald tasks closed with this number.
 
 ## CTA TRUTH
-- #295 self-repaired: korvus click key already live. Zero korvus clicks in 7d is real behavior. Human floor ~26 of 53 visits. Watch #273 digest for home_cta arrivals. See [[CTA-Diagnosis]].
+- #295 self-repaired: korvus click key already live. Zero korvus clicks in 7d is real behavior. Watch #273 digest for home_cta arrivals. See [[CTA-Diagnosis]].
 
 ## Minion access, FINAL, 7 confirmations
 - Analyst has zero data access. Rule absolute: scribe copywriting ONLY.
@@ -16,8 +16,8 @@
 - Twenty plus X posts through #294. Zero x.com or t.co referrals. Watch #273 digest daily.
 
 ## SEO page pipeline, the compounding play
-- Google referrals: 1 of 53. Fix is /p/ guides. Live: overnight session (#296), economic calendar (#298). Filed 10-29 for real this cycle: ES vs NQ (#300, #301) from scribe note 274. Next with scribe: how to paper trade futures, delegated 10-29. See [[Korvus-Site]].
-- Scribe 273 gist carried a stray empty meta description tag; verify the shipped econ calendar page next cycle, file one-line fix with exact CURRENT if it rendered.
+- Google referrals: 1 of 53. Fix is /p/ guides. Live: overnight session (#296), economic calendar (#298), ES vs NQ (#300). Filed 10-29: paper trade (#302) from scribe note 275, sitemap entry next cycle. Next topic delegated: SMT divergence explained, the one that sells the product feature directly. See [[Korvus-Site]].
+- Econ page stray empty meta CONFIRMED in gist 273, fix filed as #303 with exact CURRENT.
 
 ## SMT guide UTM check, OPEN
 - First SMT CTA click in #273 digest proves the tag.
