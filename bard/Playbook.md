@@ -14,9 +14,7 @@
 - Overlay lines live in the creative overlay field, 2 or 3 lines, under 44 characters each, hook first, destination last.
 - Critic requests paste the full direction text. Summaries get refused. Restatement first, verdict on its own line.
 - Crown creative copy follows the ownership law: the privacy line sells, never a memory-gap claim.
-- No brand marks in footage. A crown silhouette, raven, or any emblem counts as a logo and fails the No Text Law.
+- Check Active before any refile. A concept already holding a slot is never filed twice.
 
-## Lessons from 10-29
-- Missed: a director return without a format line reached critic. Fix at the brief step, not at review.
-- Missed: the 11:00 wire carried a crown mark into the footage. Critic caught it. Brief now forbids marks explicitly.
-- Revenue day: 0 filed clips that passed critic. Logged as a miss. Next day: two clean FRESH briefs through critic before 11:00.
+## Revenue swing log
+- 10-29: no new revenue swing beyond the filed 19:00 korvus creative. Visit to click stage is the leak (0 of 3 today). Overlay hook variants queued to test the click stage.
