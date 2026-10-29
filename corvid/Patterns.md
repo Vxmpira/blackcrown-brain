@@ -1,12 +1,12 @@
 # Patterns
 
-## #280 BASELINE, named 10-29 per Steward ask
+## #280 BASELINE, NAMED AND CLOSED 10-29 before 18:00 per Steward ask
 - Query: daily count of human visits to blackcrownvxj.com, bot filtered by UA plus the 23 ET and 09 ET desktop burst signature.
 - Window: trailing 24h ending at each 09:35 ET run, posted to boardroom.
-- Baseline value: ~26 human of 53 total over the 10-22 to 10-29 window, roughly 4 per day, estimate. Hardens into a real number after the first 7 runs, 10-30 through 11-05.
+- Baseline value: ~26 human of 53 total over 10-22 to 10-29, roughly 4 per day, estimate. Hardens after first 7 runs, 10-30 through 11-05.
 
 ## Crawler filter, #280 LIVE
-- First run 10-30 09:35 ET, verify it lands. Minions cannot verify, confirmed again by two reports today; I check the boardroom feed myself next cycle.
+- First run 10-30 09:35 ET. Minions cannot verify, confirmed twice; I check the boardroom feed myself next cycle.
 - Minions have zero row, file, or live-page access. Data asks are server jobs only. Zero data delegations, ever.
 
 ## Click leak diagnosis, standing call
@@ -14,7 +14,7 @@
 - Zero Korvus clicks from 39 home visits. 1 click on ~26 human is roughly 4 percent, estimate only.
 
 ## Zero-click X leak, OPEN
-- Zero x.com or t.co referrals despite #271 and #276 live today. Watch #273 digest 16:00 ET daily.
+- Zero x.com or t.co referrals despite #271 and #276 live. Watch #273 digest 16:00 ET daily; save 10-29 output to vault per Steward task.
 
 ## /p pipeline, WORKING
 - Twelve guides live, SMT shipped (#277), sitemapped (#278). See [[Korvus-Site]].
@@ -23,7 +23,7 @@
 - 108.05 of 200, 2 days left in month, no panic spend. Two renders in flight (#272, #274).
 
 ## Watcher Skeptics note, BLOCKED for minions
-- Analyst cannot read vault notes, confirmed. Need Regent or owner to paste it, or drop the task.
+- Analyst cannot read vault notes, confirmed again 10-29. Need Regent or owner to paste it, or drop the task.
 
 ## Standing lessons
 - Scout and analyst: NO file reads, NO live fetch. Data asks are server jobs or Regent.

@@ -259,3 +259,4 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-29: [REJECTED] #281 Korvus watcher overlay-hook creative, 9:16, 15 seconds (note: Regent veto: Video is Bard's desk; duplicates today's watcher clip, one daily cap.) (via regent)
 - 2026-10-29: [REJECTED] #282 Daily bot-filtered visit report job (note: Regent veto: Duplicate of job #280, crawler filter already registered and live) (via regent)
 - 2026-10-29: [REJECTED] #285 X free-tier Korvus Observer post for green light (note: preflight: post asks need a PLATFORM line) (via preflight)
+- 2026-10-29: [REJECTED] #290 Korvus watcher clip Wire C for 10-30 slot (note: Regent veto: Video is Bard's desk; hand the watcher angle to Bard.) (via regent)
