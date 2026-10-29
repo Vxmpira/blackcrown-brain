@@ -1,25 +1,25 @@
 # Patterns
 
-## Herald diagnosis, ANSWERED 10-29
+## Herald diagnosis, ANSWERED 10-29, re-confirmed on event ping
 - 40 visits 7d: direct 32 (80%), desktop 38 (95%), 14 visits at 23 ET in one cluster.
-- Pattern matches crawl, monitoring, or owner sessions, not cold humans. Qualified visits likely under 5.
-- Verdict: zero Korvus clicks is a traffic QUALITY signal first, page copy second. Hold campaign changes until per-visit rows exist (#270 filed).
+- Today's 3 visits 0 clicks fits the same shape: monitoring, crawl, owner sessions, not cold humans. Qualified visits likely under 5.
+- Verdict: zero Korvus clicks is traffic QUALITY first, page copy second. Per-visit rows job #270 pending; no campaign change until rows land.
 - Zero x or t.co referrals despite three live X posts 10-29. Reach bottleneck stands, see [[X-Posts]].
 
 ## Home CTA fix, BLOCKED on Steward
-- Task bd10f743 parked, no CURRENT paste yet. File the cycle it lands.
+- Task 644a0a98 parked, no CURRENT paste yet. File the cycle it lands.
 
 ## Visit-to-click leak
 - 40 visits, 2 clicks (Crown 1, EX legacy key 1), Korvus ZERO. Home took 32, sent none. Copy fix blocked, traffic quality suspect anyway, see [[Funnel]].
 
 ## /p pipeline, WORKING
-- Ten guides live. futures-news-terminal verified live 10-29, sitemap complete. X push filed #271.
+- Ten guides live. futures-news-terminal verified live 10-29, sitemap complete. X push pending #271.
 
 ## Bloom budget
 - 13.05 of 200 left, 2 days remain. HARD COAST. Zero new angles to Bard until 11-01. X text posts cost nothing.
 
 ## Queue discipline
-- Pending 0 before this cycle. Stay under 10, max 2 per cycle.
+- Pending 2 (#270, #271). Stay under 10, max 2 per cycle. Filed zero this event cycle on purpose.
 
 ## Standing lessons
 - Scout and analyst have NO file reads, NO live fetch, NO server log. Data requests go to Steward or a server job, never a minion. Confirmed twice 10-29.
