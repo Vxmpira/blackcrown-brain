@@ -1,6 +1,5 @@
 # Tasks
 
+- [x] From Herald: Name the leak stage from today's three visits (done)
 - [ ] Home CTA fix, awaiting Steward paste (doing)
-- [ ] Steward: paste korvus landing close-body block (open)
 - [ ] Steward: Return live tagged link and home CTA verbatim (open)
-- [x] From Herald: Korvus landing click-path breakdown (done)

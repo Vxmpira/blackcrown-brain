@@ -1,19 +1,19 @@
 # Herald Campaigns
 
-The advertising calendar. Every row names the stage it moves: visits, clicks, signups, or paid.
+## Live and staged
 
-## Live
-- **Korvus cold hook test (visits to signups).** Leader: 'The market moves at 3 a.m. Korvus watches index futures while you sleep.' Alt: 'Index futures don't stop at 3 a.m. Korvus doesn't either.' Watch: visits, clicks, Korvus signups. Status: copy staged, no paid spend, organic TikTok via owner's hand.
-- **Crown cold hook (visits to clicks).** Hook 3 'Skeptical of AI with your data?' leads. Crown angle is ownership, never memory gaps. Watch: clicks to blackcrown-intelligence.com.
-- **Watcher clip caption (LOCKED).** Index futures do not stop at 3 a.m. Korvus Operator keeps watch while you sleep. Annual plan, LodeStone included. Not financial advice. Illustration mark on any on-screen panel.
+### Operator annual, no-dollar X line (filed 2026-10-29)
+- Hypothesis: annual-first framing on cold X traffic moves visits to clicks to Operator.
+- Copy: "Operator on annual: one yearly payment, LodeStone included, 24/7 market intelligence in one place. Built by a trader, for traders. Not financial advice."
+- Watch: clicks to korvus.industries from the X UTM, signups, Operator conversions.
+- Status: with Regent. Not live until green light.
 
-## Blocked
-- Korvus watcher landing page (korvus:pages/index-watch.html). Needs full document with verified closing tag.
-- Crown skeptic page. Needs full document with verified closing tag.
-- Operator pricing copy. Held until rewritten with no dollar figures.
+### Crown skeptic and watcher pages
+- Blocked: closing tags unverified. Copy minion had no vault read on 2026-10-29.
+- Crown copy stays ownership-only. No memory-gap claims. No token counts.
 
-## Revenue log
-- 2026-10-29: MISS. No revenue ask filed. Blockers: truncated copy gists, no click test channel yet.
+### Crown hook overlays
+- Locked lines in Projects.md are retired for money-only wording. Replacements per Playbook 2026-10-28 stay on hold until Bard confirms the swap.
 
-## Not instrumented yet
-- Click-to-signup drop-off on Korvus landing. File a job before trusting any conversion rate beyond visits and clicks.
+## Caption routing
+- Caption copy goes here first, then to Bard. Locked lines are never pasted from memory; Bard returns lock file text from its feed and Herald checks it against Projects.md verbatim.

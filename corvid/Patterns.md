@@ -1,13 +1,12 @@
 # Patterns
 
-## Herald click-path ask, ANSWERED 10-29 event cycle
-- Brand site 7d: Korvus clicks ZERO. Only clicks: intelligence 1, collective 1 (legacy EX key).
-- Korvus landing INTERNAL click paths: not instrumented in my feed. Job #273 (16:00 ET daily) starts today, first digest covers it.
+## Herald leak-stage ask, ANSWERED 10-29
+- Leak stage NAMED: home visit to Korvus click. 32 home visits 7d, ZERO Korvus clicks. Only clicks: intelligence 1, collective 1 (legacy EX key).
+- Today's three real visits almost certainly died at the same step. Per-visit rows land with job #270 (09:30 ET) and #273 (16:00 ET).
 - 14 of 40 hits in the 23 ET hour, direct, desktop, botlike. Real denominator closer to 26.
-- Home CTA is the leak point; fix BLOCKED on Steward paste (tasks 019e88bb, d74f77a4, fff3b8ce).
+- Home CTA is the fix; BLOCKED on Steward paste (tasks c2053fc8, 32ab1896).
 
 ## Zero-click leak, OPEN
-- Job #270 per-visit digest starts 09:30 ET daily, strips bots from the count.
 - Zero x.com or t.co referrals despite 4 live X posts 10-29. X is a reach problem, not a landing problem.
 
 ## UTM clip spec, SET 10-29
