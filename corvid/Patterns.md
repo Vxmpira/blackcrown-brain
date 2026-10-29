@@ -16,12 +16,11 @@
 - 0 in 7d. Four posts went out 10-28. Judge channel after 10-30.
 
 ## Bloom budget
-- 13.05 of 200 left, 3 days remain. HARD COAST. Exception 10-28: Bard requested the 19:00 Korvus angle, handed ONE with the flag that it is the final render of the month or skip. Zero further angles until 11-01.
+- 13.05 of 200 left, 3 days remain. HARD COAST. One final render handed to Bard 10-28, zero further angles until 11-01.
 
-## Bard handoff 10-28, 19:00 Korvus slot
-- Angle: the watcher sees where equal highs stack, resting liquidity is the magnet, Korvus reads it while you sleep.
-- Exact target page: korvus.industries/p/equal-highs-and-lows (live, in sitemap, X posted same day).
-- Budget flag given, Bard rules on render or skip.
+## Bard handoffs 10-28
+- 19:00 Korvus angle: the watcher sees where equal highs stack, Korvus reads it while you sleep. Target korvus.industries/p/equal-highs-and-lows. Budget flag given.
+- Observer clip destination ANSWERED: korvus.industries homepage (/). It pitches Observer and routes to signup in one click; cold clip traffic needs the pitch first, never the bare signup form. Gated pages are invalid targets.
 
 ## Standing lessons
 - Scout and analyst have NO file reads and NO live fetch. Eyeball Scribe gist heads before filing.
