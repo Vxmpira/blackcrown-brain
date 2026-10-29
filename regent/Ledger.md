@@ -171,3 +171,6 @@ The 19:0
 - 2026-10-28: #246 X post pitching free Korvus Observer > DONE: posted to X with the brand account (post 2115606484331503739)
 - 2026-10-28: #247 Publish volume profile basics guide page > DONE: pages/volume-profile-basics.html updated live (new page created). repo committed and pushed.
 - 2026-10-28: #248 Add volume-profile-basics to sitemap > DONE: sitemap.xml updated live (appended 1 new entry). repo committed and pushed.
+- 2026-10-28: #249 Refile liquidity sweeps guide, title fixed > DONE: pages/liquidity-sweeps.html updated live (new page created). repo committed and pushed.
+- 2026-10-28: #250 X post pushing volume profile guide > DONE: posted to X with the brand account (post 2115613024790683956)
+- 2026-10-28: #250 X post pushing volume profile guide > FAILED: X publish failed: X refused the post (403): "You are not allowed to create a Tweet with duplicate content."

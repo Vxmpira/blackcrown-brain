@@ -223,3 +223,6 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-28: [APPROVED] #246 X post pitching free Korvus Observer (via reaction)
 - 2026-10-28: [APPROVED] #247 Publish volume profile basics guide page (via reaction)
 - 2026-10-28: [APPROVED] #248 Add volume-profile-basics to sitemap (via reaction)
+- 2026-10-28: [APPROVED] #249 Refile liquidity sweeps guide, title fixed (via reaction)
+- 2026-10-28: [APPROVED] #250 X post pushing volume profile guide (via reaction)
+- 2026-10-28: [APPROVED] #250 X post pushing volume profile guide (via reaction)
