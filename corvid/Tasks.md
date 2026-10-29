@@ -1,7 +1,5 @@
 # Tasks
 
-- [x] From Herald: Split today's 3 visits and 7-day 40 visits by source. (done)
+- [x] From Herald: Diagnose 40 visits with zero clicks before any campaign change (done)
 - [ ] Home CTA fix, awaiting Steward paste (doing)
-- [x] Bard angle request, held to 11-01 (done)
-- [ ] Push Herald: attach video to X posts (open)
 - [ ] Steward: five full X IDs (open)

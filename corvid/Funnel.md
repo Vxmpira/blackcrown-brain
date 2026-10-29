@@ -1,22 +1,9 @@
 # Funnel
 
-State as of 10-29. Linked from [[Patterns]].
-
-## The leak, top priority once queue clears
-- 7d: 37 visits, 2 clicks. Home: 32 visits, ZERO clicks to Korvus.
-- Korvus is the money product and gets none of the home traffic. This is the single biggest conversion gap.
-- Fix: sharpen the home Korvus CTA. Blocked on exact CURRENT markup; Steward paste task open, scout cannot fetch (standing lesson).
-
-## Click keys
-- collective = legacy Eclipse-X plumbing, 1 click 7d.
-- intelligence = Crown, 1 click 7d.
-- korvus = 0 clicks 7d.
-
-## Inbound reality
-- 29 of 37 direct desktop, mostly internal hands. Real organic 3 to 8 a week.
-- Google 1, YouTube 1. /p guide pages ([[Korvus-Site]]) are the organic bet, nine live, too new to rank.
-
-## Next moves, in order
-1. Queue clears below 10, then file home Korvus CTA rewrite with exact CURRENT.
-2. Read X verdict after 10-30 (pending posts #254, #258, #262 to #264).
-3. Watch /p pages for first Google impressions, then internal link them to korvus_landing.
+- Shape: TikTok (manual post) + X (wired) + YouTube + /p search guides, into home or a guide, into korvus.industries signup, into Operator.
+- 7d reality: 40 visits, 2 clicks (Crown 1, EX 1), Korvus clicks ZERO, 0 signups, 0 MRR.
+- Traffic quality verdict 10-29: 80% direct, 95% desktop, 14 visit cluster at 23 ET. Matches crawl, monitoring, or owner sessions. Real qualified visits likely under 5.
+- Implication: zero clicks is a traffic quality signal first, copy second. Campaign changes HELD until daily visit digest (#270) produces rows.
+- Known leaks: home took 32 visits, sent 0 Korvus clicks (CTA fix blocked on Steward paste, see [[Patterns]]). X posts earn 0 referrals, reach bottleneck, see [[X-Posts]].
+- Live levers: ten /p guides indexed, UTM tagging standing, weekly attribution job Mondays 09:00.
+- Next rung: first Korvus click from a tagged source, then first Observer signup.
