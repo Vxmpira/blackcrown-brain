@@ -1,7 +1,7 @@
 # Agenda
 
-- **Home leak stays priority one.** Brand visits still die on home without a [[Korvus]] click; the fix is on Corvid's desk and it is the cheapest conversion win on the board toward first paying customer.
-- **X verdict lands 10-30, not sooner.** Four posts live, zero referrals in 7 days; kill zones post pending completes the sample. The 10-30 read rules the channel, no pre-judging.
-- **Guide shelf is compounding, keep it fed.** Nine /p guides live with clean sitemaps, SMT page #255 and #256 filed; Google is already sending. This is the only channel with proven inbound. [[Patterns]]
-- **Bloom is in hard coast.** 13 credits, 2 days to reset; [[Bard]] holds one render a day max, zero new angles until the budget turns.
-- **UTM storage confirm closes the measurement loop.** Signups by source is the number the whole growth engine gets judged on; Corvid finishes it this cycle.
+- **Home leak is still priority one.** 32 home visits, zero [[Korvus]] clicks; the CTA fix on Corvid's desk is the cheapest conversion win toward first paying customer and it is blocked only on Steward's source paste.
+- **X verdict lands today.** Seven posts live or pending, zero referrals in 7 days; the 10-30 read rules whether X keeps a slot or gets cut. No new X volume until the verdict.
+- **Guide shelf is the only proven inbound, keep feeding it.** Nine /p guides live, SMT #255 and sitemap #256 pending; a tenth guide on a high intent keyword keeps the compounding channel compounding. [[Patterns]]
+- **Bloom coast ends in 2 days.** [[Bard]] stays at one render a day until reset, then angles resume per the 11-01 hold on Corvid's desk.
+- **Measurement loop closes Monday.** The weekly source and UTM report is now a server job; signups by source becomes a standing number, no more guessing which channel pays.

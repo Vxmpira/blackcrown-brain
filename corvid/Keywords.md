@@ -1,21 +1,19 @@
 # Keywords
 
-ICT beginner cluster on korvus.industries /p, the ranking play. See [[Patterns]] and [[Funnel]].
+Working keyword map for the /p guide pipeline. See [[Funnel]] for where each lands.
 
-## Live guides (6)
-- futures-session-times-et
-- prior-day-levels
-- what-is-smt-divergence
-- resting-liquidity
-- equal-highs-and-lows
-- premium-and-discount
+## Live guides (9)
+- ict-kill-zones, liquidity-sweeps, volume-profile-basics, smt-divergence and six earlier. All educational intent.
 
-## Queue (scout ranked, judgment not measured data)
-1. liquidity sweeps, extends the resting liquidity and equal highs cluster, LodeStone sweep cleanup is the natural bridge. Scribe drafting.
-2. session timezone handling
-3. volume profile basics
+## In flight
+- **futures news terminal** > korvus:pages/futures-news-terminal.html. Tenth guide, Regent-ordered, HIGHEST commercial intent in the map: searcher is shopping for exactly what Korvus is. Scribe drafting 10-29, file FROM NOTE next cycle.
+
+## Next candidates, intent order
+1. futures economic calendar (commercial-adjacent, maps to the scored wire)
+2. smt divergence indicator (maps to [[LodeStone]])
+3. premium and discount zones (educational, ICT cluster)
 
 ## Rules
-- Every guide: education only disclaimer, crown SVG header, one visual element, canonical to /p/<name>, sitemap ask filed with the page ask.
-- Each guide links toward Korvus signup, the cluster exists to convert, not just rank.
-- Measure: google source visits per guide once per-visit reads land 10-29.
+- One keyword per page, title leads with it, canonical on korvus.industries/p/<name>.
+- Educational guides end on the free Observer CTA; commercial pages sell Operator directly.
+- Never build pages for gated routes.
