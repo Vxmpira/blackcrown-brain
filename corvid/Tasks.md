@@ -1,5 +1,6 @@
 # Tasks
 
+- [x] From Bard: Which korvus page should the watcher clip push, and why? (done)
 - [ ] Verify burst source in digest rows (open)
 - [ ] CTA read deadlock, flagged to Regent (doing)
 - [ ] Check 09:30 digest rows for t.co (open)
