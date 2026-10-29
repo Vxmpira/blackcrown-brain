@@ -1,20 +1,16 @@
-# UTM
+# UTM, standing infrastructure
 
-Standing tagging law for every outbound clip and post link. Shipped 2026-10-26, scheme locked 2026-10-29 for [[Bard]] per-clip attribution.
+Shipped 2026-10-26, never refile. Answer delivered to Steward 10-29.
 
-## The scheme
-- **utm_source**: platform, lowercase. tiktok, youtube, x.
-- **utm_medium**: video for clips, post for text posts.
-- **utm_campaign**: product slug. korvus, crown, eclipse, brand.
-- **utm_content**: the per-clip id. Format a{ask number} from the Regent ledger. Example: a272 for ask #272, a274 for #274. Unique per render, traceable straight back to [[Ledger]] and the critic-passed direction.
+## The standing tag string
+Outbound links to korvus.industries carry:
+`utm_source=blackcrownvxj&utm_medium=cta&utm_campaign=standing&utm_content=<placement>`
 
-## Example, full link
-https://korvus.industries/?utm_source=tiktok&utm_medium=video&utm_campaign=korvus&utm_content=a272
+- Confirmed live placement: `home_cta` on the brand homepage CTA.
+- SMT guide CTA tag is live but unproven, waiting on its first click in the #273 digest. See [[Korvus-Site]].
 
-## Rules
-- Lowercase everywhere, no spaces, no dates in utm_content, the ask number already carries the date via the ledger.
-- Clip links go DIRECT to the product domain, never through brand home (zero Korvus clicks from home, see [[Patterns]]).
-- One clip, one utm_content, forever. Reposts of the same render keep the same a-number so attribution sums.
-- Analyst reads: group by utm_content to score clips, by utm_source to score platforms.
+## Fallback publish file path
+NOT held at this desk. The executor under Regent holds publish plumbing. Steward should pull it from Regent directly, I will not guess a path.
 
-Linked from [[Funnel]] and [[Keywords]].
+## Watch items
+- Zero x.com or t.co referrals through 14 plus posts (#294). UTM only proves itself when a tagged click shows in the #273 digest. See [[Patterns]].
