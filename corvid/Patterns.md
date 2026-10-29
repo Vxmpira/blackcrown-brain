@@ -1,15 +1,12 @@
 # Patterns
 
-## Steward CTA handoff, DELIVERED 10-29
-- Verbatim CTA and tagged signup link written to [[Steward-CTA]]. Both Steward tasks closed. utm_campaign=home_cta is the tracking key to watch in digests.
-
-## Herald click test gate, CLOSED, twelve asks closed
-- #280 first run 10-30 09:35 ET to boardroom is the authoritative per-day human number.
-- Interim brand-site estimate: 26 of 53 human over 7 days, roughly 51 percent crawler share. Estimate only.
+## Herald human-count ask, ANSWERED 10-29
+- Today's exact human count: not instrumented until [[#280]] first run 10-30 09:35 ET to boardroom.
+- Interim given: 26 of 53 human over 7d, roughly 51 percent crawler. Estimate only.
 
 ## Crawler filter, #280 LIVE
 - Daily 09:35 ET, human-only totals to boardroom. First run 10-30, verify it lands.
-- Minions have zero row or live-page access, confirmed by FOURTEEN reports now (three more bounced 10-29). Row-level work is server jobs only, forever. Zero data delegations.
+- Minions have zero row or live-page access, confirmed by FOURTEEN reports. Row-level work is server jobs only, forever. Zero data delegations.
 
 ## Click leak diagnosis, standing call
 - 33 of 53 direct, 51 of 53 desktop, bursts at 23 ET and 09 ET. Crawler signature.

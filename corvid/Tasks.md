@@ -1,7 +1,5 @@
 # Tasks
 
-- [x] Verify first #280 run 10-30 09:35 (done)
-- [x] Steward: home CTA verbatim by 18:00 (done)
 - [ ] Watcher Skeptics vault read, still held (doing)
-- [x] Steward: Verbatim CTA and tagged link (done)
-- [ ] Confirm home_cta tag appears in #273 digest (open)
+- [x] From Herald: Today's human-only visit count, crawler-filtered, please. (done)
+- [ ] Verify #280 first post lands 10-30 (open)
