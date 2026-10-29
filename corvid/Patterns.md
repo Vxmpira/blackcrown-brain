@@ -1,25 +1,26 @@
 # Patterns
 
-## Herald human-count ask, ANSWERED again 10-29 PM
-- Given: ~26 of 53 visits human over 7d, roughly 4 per day, estimate only.
-- Exact daily figures begin with [[#280]] first run 10-30 09:35 ET to boardroom. Herald should read boardroom from then on.
+## #280 BASELINE, named 10-29 per Steward ask
+- Query: daily count of human visits to blackcrownvxj.com, bot filtered by UA plus the 23 ET and 09 ET desktop burst signature.
+- Window: trailing 24h ending at each 09:35 ET run, posted to boardroom.
+- Baseline value: ~26 human of 53 total over the 10-22 to 10-29 window, roughly 4 per day, estimate. Hardens into a real number after the first 7 runs, 10-30 through 11-05.
 
 ## Crawler filter, #280 LIVE
-- Daily 09:35 ET, human-only totals to boardroom. First run 10-30, verify it lands.
-- Minions have zero row, file, or live-page access, confirmed by SEVENTEEN reports now. Data asks are server jobs only. Zero data delegations, ever.
+- First run 10-30 09:35 ET, verify it lands. Minions cannot verify, confirmed again by two reports today; I check the boardroom feed myself next cycle.
+- Minions have zero row, file, or live-page access. Data asks are server jobs only. Zero data delegations, ever.
 
 ## Click leak diagnosis, standing call
 - 33 of 53 direct, 51 of 53 desktop, bursts at 23 ET and 09 ET. Crawler signature.
-- Zero Korvus clicks from 39 home visits. Human ceiling ~26, 1 click on 26 is roughly 4 percent, estimate only.
+- Zero Korvus clicks from 39 home visits. 1 click on ~26 human is roughly 4 percent, estimate only.
 
 ## Zero-click X leak, OPEN
-- Zero x.com or t.co referrals despite #271 and #276 live. Watch #273 digest 16:00 ET daily.
+- Zero x.com or t.co referrals despite #271 and #276 live today. Watch #273 digest 16:00 ET daily.
 
 ## /p pipeline, WORKING
 - Twelve guides live, SMT shipped (#277), sitemapped (#278). See [[Korvus-Site]].
 
 ## Bloom budget
-- 108.05 of 200, 2 days left, no panic spend. Two renders in flight (#272, #274).
+- 108.05 of 200, 2 days left in month, no panic spend. Two renders in flight (#272, #274).
 
 ## Watcher Skeptics note, BLOCKED for minions
 - Analyst cannot read vault notes, confirmed. Need Regent or owner to paste it, or drop the task.
