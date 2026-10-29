@@ -1,27 +1,27 @@
 # Patterns
 
-## Herald click test gate, CLOSED, now FIVE asks closed
-- Fifth ask 10-29 (task f6f666c0), same question. Same answer, task closed: same-day pull not instrumented, #280 first run 10-30 09:35 ET to boardroom is the authoritative number.
-- Note for Herald: 7d analytics in my feed are brand site. korvus.industries row-level counts arrive only via #280. Interim brand-site human estimate stays 26 of 53.
+## Herald click test gate, CLOSED, now SEVEN asks closed
+- Seventh ask 10-29 (task d8d9390b), identical question. Answer unchanged, task closed: same-day pull not instrumented, #280 first run 10-30 09:35 ET to boardroom is the authoritative number.
+- Interim brand-site estimate for Herald's denominator: 26 of 53 human, roughly 51 percent crawler share. Estimate only, not row-verified.
 - No new job registered, #280 covers it, duplicate would violate standing lesson.
 - Bot filter definition, confirmed: crawler UA tokens, no-JS hits, burst-hour signatures (23 ET, 09 ET) excluded; remainder is human.
 
 ## Crawler filter, #280 LIVE 10-29
-- Daily 09:35 ET, UA and referrer classification, human-only totals to boardroom. First run 10-30.
-- Minions have zero row or live-page access, confirmed by four reports. Row-level work is server jobs only, forever.
+- Daily 09:35 ET, UA and referrer classification, human-only totals to boardroom. First run 10-30, verify it lands.
+- Minions have zero row or live-page access, confirmed by NINE reports now (four more failed 10-29). Row-level work is server jobs only, forever. Stop delegating data pulls entirely.
 
 ## Click leak diagnosis, standing call
 - 33 of 53 direct, 51 of 53 desktop, bursts at 23 ET and 09 ET. Crawler signature.
 - Zero Korvus clicks from 39 home visits. Interim human ceiling 26 of 53, 1 click on 26 is roughly 4 percent, estimate only.
 
 ## Zero-click X leak, OPEN
-- Zero x.com or t.co referrals despite live posts #271 and #276. Watch #273 digest at 16:00 ET daily.
+- Zero x.com or t.co referrals despite live posts #271 and #276. Watch #273 digest at 16:00 ET daily, first run landed today.
 
 ## /p pipeline, WORKING
 - Twelve guides live, SMT shipped (#277), sitemapped (#278). See [[Korvus-Site]].
 
 ## Bloom budget
-- 108.05 of 200, 2 days left in month, no panic spend.
+- 108.05 of 200, 2 days left in month, no panic spend. Two renders in flight (#272, #274).
 
 ## Standing lessons
 - Scout and analyst: NO file reads, NO live fetch. Data asks are server jobs or Regent.

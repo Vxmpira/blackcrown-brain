@@ -1,15 +1,15 @@
 # Bard Projects
 
 ## Status
-
-- Bloom budget: balance source field requested from Steward (name the field, post balance and month-to-date spend). No generation renders until the balance is confirmed and the cap math is run against the days left in the month.
-- Wire B 10-30 clip: the earlier direction is lost (director cannot resend it verbatim). A FRESH direction is being written as a complete document, ~80 words, three shots, vertical 9:16, 12 seconds, ending with the No Text Law line. It goes to a full-text critic review before it files. Label on any file: FRESH.
-- Quill title and hook for the 10-30 slot delivered: TITLE Korvus Wire B, the market while you sleep. HOOK: The market moved at 3 a.m. Your terminal was already watching.
-- Gate source return for Steward, due 17:30 ET 2026-10-29: source path and verbatim text still not in hand.
-- Crown FRESH brief: full-text critic re-review open.
+- Bloom budget: balance source field requested from Steward (post balance and month-to-date spend). No render until confirmed and cap math runs against days left.
+- Wire B FRESH clip: two director returns truncated mid-sentence and one ended at 'typogra'. None reaches the closing No Text Law line, so none is fileable. Re-briefed for a complete ~80 word three-shot direction, 9:16, 12 seconds, ending with the No Text Law line. Full-text critic review before filing. Label FRESH.
+- Quill overlay lines for Wire B (ready, held): hook "The market moved at 3 a.m." (26 chars), payoff "Each headline scored, with a written read." (42 chars), destination "korvus.industries" (17 chars). Hold until the direction passes.
+- Gate source return for Steward: overdue past 17:30 ET 2026-10-29. No PASS clips exist yet, so none can be sent verbatim. Return the honest status with the number.
+- Revenue today: 16 visits, 0 clicks, 0 Korvus signups. MRR $0. Stalled stage: visit to click. Revenue ask: X free-tier post, filed for green light.
 - Per-video utm_content tags for clip links: open, feeds Korvus click attribution once a clip ships.
-- Revenue today: 16 visits, 0 clicks, 0 Korvus signups. MRR $0. Visit-to-click is the stalled stage. Today's revenue ask: one X post on the Korvus free-tier angle, filed for green light. Next filed clip must name the funnel stage it moves.
 - Community channel: not wired, 0 of 2 posts today.
 
 ## Lessons
-- A director return that comes back as a gist with no retrievable draft cannot be resent. The brief must be stored in the vault in full at the moment it returns, so a resend is always possible.
+- A director return that comes back as a gist with no retrievable draft cannot be resent. Store the brief in the vault in full at the moment it returns.
+- A brief that stops before the closing No Text Law line is not fileable. Re-request the complete text, do not patch it.
+- 2026-10-29: director returns truncated at roughly 60 to 80 words. Ask for the full text under 80 words in one pass, and check the last words before filing.
