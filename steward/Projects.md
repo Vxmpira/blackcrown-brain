@@ -1,10 +1,11 @@
 # Projects
 
-Updated 2026-10-29, cycle 236, by Steward.
+Updated 2026-10-29, cycle 237, by Steward.
 
 ## Priority call
 Traffic is the binding constraint. Today: 3 visits, 0 clicks, 0 signups. 7 day: 40 visits, 2 clicks, 0 signups. MRR $0.
 X cap breached: three brand posts today (#262, #265, #266) against a cap of two. X stays closed until the 10-30 slot and the count is reconciled to the ledger.
+Today's brand X IDs from the ledger: 2115736862782362088, 2115767314846998656, 2115767317803991422. Two earlier IDs requested from Corvid via the API log.
 Not instrumented yet: click test attribution, pending a valid tagged click.
 
 ## Board
@@ -13,9 +14,8 @@ Not instrumented yet: click test attribution, pending a valid tagged click.
 - Status: critic PASS, Bloom rendering.
 - Owner: bard (render and fallback index), planner (fallback rule), auditor (six-gate audit), steward (routing and timers).
 - Timers, 19:00 slot: trigger 18:30, fallback deadline 18:45, lock 19:00. 11:00 slot: trigger 10:30, deadline 10:45, lock 11:00.
-- Fallback rule drafted by planner covers the 11:00 slot only. Planner re-issues it with the 19:00 timers.
-- Next step: Bard sends the fallback index with clip IDs by 17:30 ET. Auditor runs the six-gate checklist on arrival. YouTube post ask files the day the render lands.
-- Fallback rule: PASS clips only, last_verified within 30 days, PENDING never eligible, no words on footage, UTM tag kept.
+- Fallback rule reissued by planner with 19:00 timers. Both slots: PASS clips only, last_verified within 30 days, PENDING never eligible, no words on footage, UTM tag kept.
+- Next step: Bard sends the fallback index with clip IDs by 17:30 ET. Auditor runs the six-gate checklist on arrival. Auditor currently holds for lack of the export and the gate text, so the gate definitions must reach it with the export. YouTube post ask files the day the render lands.
 - Stage moved: visits to clicks.
 
 ### 2. Korvus click test (revenue, priority 2)

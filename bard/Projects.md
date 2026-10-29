@@ -1,25 +1,22 @@
 # Bard Projects
 
 ## Active
-- 19:00 slot: RECOVERING. The raven direction is retired permanently. Animal forms in any styling read as the Korvus and BlackCrown raven mark, so they fail the logo test. The FRESH abstract direction (no bird, no emblem, no geometric mark) is in critic review as a corrected full text: vertical 9:16, 12 seconds. Critic must restate it in full and PASS it before filing.
-- 19:00 overlay lines, locked to exact seconds: (1) The market does not sleep. Neither do I. t 0 d 3. (2) Every wire scored. Every level logged. t 5 d 4. (3) Scored, logged, live at korvus.industries t 10 d 4.
-- 19:00 lock text for Herald: overlay lines plus caption. Caption is final only after Herald's lock.
-- 11:00 Korvus wire, 10-30: FILED as creative. Critic PASS was cut off, so it is void until the full text is re-sent and matched. Overlay Set B: t 0 d 3 The watcher never blinks at 11:00; t 5 d 4 Every headline scored, none skipped; t 10 d 4 Stay on the wire: korvus.industries. Herald 11:00 caption: requested, not yet in vault.
-- Steward ruling 11:00: a failed critic fills with the approved fallback, never blank. Fallback definition open. Index format requested from Steward.
-- Steward task: fallback index with 11:00 and 19:00 clip IDs by 17:30 ET. Current honest state: zero PASS-verified clips in the library, so the index lists the 11:00 wire as void and the 19:00 slot as open.
-- Approved PASS render library index: not found in feed or vault. Build task open.
+- 19:00 slot: OPEN, no PASS yet. Abstract direction (no bird, no emblem, no geometric mark), vertical 9:16, 12 seconds. The verbatim text in critic report 2 is complete and closes on the No Text Law line. Reports 1 and 3 said PASS without restating the text, so they count as FIX until a PASS lands on that exact text.
+- 19:00 overlay lines, locked: t0 d3 "The market does not sleep. Neither do I."; t5 d4 "Every wire scored. Every level logged."; t10 d4 "Scored, logged, live at korvus.industries".
+- 11:00 Korvus wire 10-30: filed on a PASS that was cut off, so the PASS is VOID. Re-verify is open: director resends the verbatim text, critic issues a full PASS or FIX. Overlay Set B: t0 d3 The watcher never blinks at 11:00; t5 d4 Every headline scored, none skipped; t10 d4 Stay on the wire: korvus.industries.
+- Steward fallback: index due 17:30 ET. Zero PASS-verified clips in the library, so the index lists the 11:00 wire as void and the 19:00 slot as open. Fallback definition requested from Steward.
+- Approved PASS render library index: not found in feed or vault. Build open.
 - Crown ownership clip and four-room pulse: render pending. YouTube post goes the same day as render.
 - YouTube title held: Your AI Context Stays Yours. Crown Is Built That Way. Description drafted by quill.
-- Crown ownership X post and Korvus Observer X post: owner green light pending, not refiled. Observer draft from quill is ready for the ruling.
+- Owner rulings pending, not refiled: Crown ownership X post, Korvus Observer X post.
 
 ## Funnel, 10-29
 - Today: 3 visits, 0 clicks, 0 signups. Revenue: $0 MRR, 0 subscribers.
 - 7 days: 40 visits, 2 clicks, 0 signups.
-- Per-video attribution not instrumented yet. UTM rows already flow to corvid digests. Plan per-video utm_content tags for clip links is open.
-- Revenue miss: no direction cleared the gate for the 19:00 slot. One creative filed on 10-29 at the 11:00 cycle.
+- Per-video attribution not instrumented yet. UTM rows flow to corvid digests. Per-video utm_content tags for clip links: open.
+- Revenue miss: no direction cleared the gate for 19:00. One creative filed on 10-29.
 
-## Lessons, 10-29
-- A critic PASS must quote the full direction through the closing No Text Law line. A PASS whose gist is cut off is void until re-sent in full.
-- A critic FIX with no director text attached is a re-task. Send full text every time.
-- An animal in natural form is still a logo under the No Text Law. Styling does not change that.
-- Direction briefs must include vertical 9:16 and the 10 to 15 second length before critic review, or critic returns FIX.
+## Lessons
+- A PASS needs the restated text in the same report. A verdict without text is a FIX.
+- Cut-off text voids the PASS. Re-send before any filing.
+- The 11:00 filing went out on a void PASS. That is a Bard desk miss; the re-verify task is the fix.

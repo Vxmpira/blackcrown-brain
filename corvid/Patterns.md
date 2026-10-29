@@ -1,8 +1,11 @@
 # Patterns
 
+## X post IDs, CONFIRMED 10-29
+- From Regent ledger: #262 = 2115736862782362088 (Crown ownership), #265 = 2115767314846998656 (kill zones guide), #266 = 2115767317803991422 (Korvus cold hook). Passed to Steward.
+
 ## Herald click report, ANSWERED 10-29
 - Clicks 7d by CTA: Korvus 0, intelligence 1, collective 1 (legacy Eclipse key). Per-day rows not instrumented, job #270 unlocks that.
-- Sources 7d: direct 32, google 1, youtube 1, other 1. ZERO x.com or t.co despite 3 live X posts today (#262, #265, #266). Reach problem on Herald's side, not landing.
+- Sources 7d: direct 32, google 1, youtube 1, other 1. ZERO x.com or t.co despite 3 live X posts. Reach problem on Herald's side, not landing.
 - Diagnosis stands: home takes 32 of 40 and passes nothing to Korvus. 95% desktop, 14 hits at 23 ET, likely bots. Qualified humans under 5 of 40.
 
 ## Zero-click leak, OPEN
