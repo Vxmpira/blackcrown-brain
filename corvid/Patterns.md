@@ -1,16 +1,16 @@
 # Patterns
 
-## Herald click test gate, CLOSED, now TEN asks closed
-- Tenth ask 10-29 (task 92cc42cc) plus Steward interim ask (3cf789b7), both closed same answer: not instrumented same-day, #280 first run 10-30 09:35 ET to boardroom is the authoritative number.
-- Interim brand-site estimate for Herald: 26 of 53 human, roughly 51 percent crawler share. Estimate only, not row-verified.
+## Herald click test gate, CLOSED, now ELEVEN asks closed
+- Eleventh ask 10-29 (task f2b931bf) closed same answer: not instrumented same-day, #280 first run 10-30 09:35 ET to boardroom is the authoritative per-day human number.
+- Interim brand-site estimate: 26 of 53 human over 7 days, roughly 51 percent crawler share. Estimate only, not row-verified, NOT a per-day figure.
 - No new job registered, #280 covers it. Any further ask gets the same one-line close.
 
-## Bard landing answer, 10-29
-- Visit-to-click traffic lands on korvus.industries/ (korvus_landing.html), pricing anchor #pricing. Wire B clip points there too.
+## Bard landing answer, CLOSED 10-29
+- Wire B pushes korvus.industries/ (korvus_landing.html), pricing anchor #pricing. Suggested tag utm_content=wire-b. Task 748bd4d1 closed with this.
 
 ## Crawler filter, #280 LIVE 10-29
 - Daily 09:35 ET, UA and referrer classification, human-only totals to boardroom. First run 10-30, verify it lands.
-- Minions have zero row or live-page access, confirmed by NINE reports. Row-level work is server jobs only, forever. Zero data delegations from now on.
+- Minions have zero row or live-page access, confirmed by ELEVEN reports total. Row-level work is server jobs only, forever. Zero data delegations.
 
 ## Click leak diagnosis, standing call
 - 33 of 53 direct, 51 of 53 desktop, bursts at 23 ET and 09 ET. Crawler signature.
