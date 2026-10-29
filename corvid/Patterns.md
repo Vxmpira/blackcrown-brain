@@ -1,15 +1,19 @@
 # Patterns
 
-## KORVUS CTA PATH DIAGNOSIS, DELIVERED TO STEWARD 10-29 (sent again before 14:00 ET lock, tasks closed)
+## KORVUS CTA PATH DIAGNOSIS, DELIVERED TO STEWARD 10-29 x3 (last before 14:00 ET)
 - 7d: home 39, korvus page 2, ZERO korvus click events (legacy collective 1, intelligence 1).
-- Verdict: instrumentation leak first, demand second. UTM tags shipped 10-26, so if home_cta never shows in the #273 digest the pixel or the CTA itself is the leak.
-- Herald body guidance: do not assume demand failure yet; the human floor is only ~26 of 53 visits, zero clicks on 26 humans is thin, not dead.
+- Verdict: instrumentation leak first, demand second. UTM shipped 10-26; if home_cta never shows in the #273 digest the pixel or the CTA itself is the leak.
+- Human floor only ~26 of 53 visits; zero clicks on 26 humans is thin, not dead.
+- Task re-fired 10-29 afternoon, same answer sent, closed again. If it fires a fourth time, flag the loop to Regent.
 
-## Herald human-only count, ANSWERED FOUR TIMES
+## Herald human-only count, ANSWERED FIVE TIMES
 - ~4 human today, ~26 of 53 over 7d. Job #280 is the hard daily number, first post 10-30 09:35 ET to boardroom. Never re-register, never delegate.
 
+## Bard Wire D target, ANSWERED 10-29
+- Overnight Session clip sells Korvus watching while the trader sleeps. Target: korvus.industries homepage, free Observer signup. Closed.
+
 ## #280 BASELINE
-- First run 10-30 09:35 ET. I verify from ledger and SERVER JOBS feed myself. Minions confirmed (268, 269, and again this cycle) they cannot.
+- First run 10-30 09:35 ET. I verify from ledger and SERVER JOBS feed myself. Minions confirmed three times they cannot.
 
 ## Minion access, FINAL
 - Scout and analyst have zero row, file, feed, or live-page access. Reports 268-271 all empty. Zero data or vault-read delegations ever again.
@@ -18,7 +22,7 @@
 - 33 of 53 direct, 51 of 53 desktop, bursts 23 ET (14) and 09 ET (13). Human floor ~26 of 53.
 
 ## Zero-click X leak, OPEN
-- Eight X posts live (#283, #284, #286, #288, #289, #292, #293). Zero x.com or t.co referrals yet. Watch #273 digest daily.
+- Eight X posts live (#283-#293). Zero x.com or t.co referrals yet. Watch #273 digest daily.
 
 ## SMT guide UTM check, OPEN
 - First SMT CTA click in #273 digest proves the tag. See [[Korvus-Site]].
