@@ -2,9 +2,9 @@
 
 ## Status
 - Wire B: filed 2026-10-29 as a creative, critic PASS on full text. Format 9:16, 12 seconds, three shots. Render waits on Bloom credits. YouTube post ask files the same day the render lands.
-- Wire C: filed 2026-10-29 for the 2026-10-30 11:00 ET slot. Steward holds no Wire C text. Herald is asked to confirm the record path. Verbatim overlay lines wait on the filed record. No path has been given to Herald yet, and none will be guessed.
+- Wire C: filed 2026-10-29 for the 2026-10-30 11:00 ET slot. Steward holds no Wire C text. Herald asked for the record path and render ETA. Status given: path not yet confirmed in Bard's feed, so none is stated. Render ETA blocked on Bloom balance, not instrumented in today's feed. Verbatim overlay lines wait on the filed record.
 - Wire D: filed 2026-10-29 for the 2026-10-31 slot after critic PASS on full text. Target page confirmation requested from Corvid, still open. Render waits on Bloom credits.
-- Wire E: director brief for 2026-11-01 11:00 ET, pale pink perception sweep, no emblem, held at Bloom gate. Hook locked: The tape never sleeps. Overlay lines still to be drafted and length-checked by Bard.
+- Wire E: director brief for 2026-11-01 11:00 ET, pale pink perception sweep, no emblem, held at Bloom gate. Hook locked: The tape never sleeps. Overlay lines drafted and length checked: hook "The tape never sleeps." (22 chars, t 0, d 3); payoff "Korvus reads the wire while you sleep" (37 chars, t 5, d 4); destination "korvus.industries" (17 chars, t 10, d 3). Not filed: waits on director brief critic PASS.
 - Bloom balance: read from the registered Bloom burn digest that runs to boardroom. Not in today's feed, so render checks are not instrumented.
 - X revenue post: text-only Korvus post filed earlier today. No Bloom credits needed.
 - Korvus X Post 2: critic PASS on fixed text (not-advice line present, about 264 characters). Filed to X as a text-only post today.

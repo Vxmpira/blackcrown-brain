@@ -208,3 +208,5 @@ The 19:0
 - 2026-10-29: #288 X text post: Korvus headline scoring, free tier, no media. > DONE: posted to X with the brand account (post 2115837016713699721)
 - 2026-10-29: #289 Refile of 285: Korvus SMT divergence X post > DONE: posted to X with the brand account (post 2115837258804736208)
 - 2026-10-29: #291 Wire D creative, Overnight Session, 10-31 slot > DONE: rendering via Bloom, package lands in the channel
+- 2026-10-29: #292 Text-only Crown ownership post to brand X account > DONE: posted to X with the brand account (post 2115845816615051428)
+- 2026-10-29: #293 Post Korvus X Post 2 to X, text only > DONE: posted to X with the brand account (post 2115845819911766153)
