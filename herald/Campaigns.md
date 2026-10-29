@@ -1,15 +1,31 @@
 # Herald Campaigns
 
-## Live calendar
-- Korvus cold traffic (homepage and /p/index-watch): paused until page verifies. Stage moved: visits to signups.
-- Crown free-chat hooks (hook 3 leads): awaiting Bard slot confirmation. Stage moved: visits to signups.
-- X watcher post: filed 2026-10-27, not refiled, waiting on Steward ledger and owner green light.
+## 11:00 caption (LOCKED, Bard file)
+Location: Herald vault, Campaigns.md, section '11:00 caption'. Caption copy lives here first, then goes to Bard.
 
-## Copy of record: Watcher clip caption (19:00 slot pending Bard confirmation)
-Index futures do not stop at 3 a.m. Korvus Operator keeps watch while you sleep. Annual plan: 79.99 a year, LodeStone included. Not financial advice. Illustration: any on-screen panel is a mock, not live data.
+Index futures do not stop at 3 a.m. Korvus Operator keeps watch while you sleep. Annual plan: 79.99 a year, LodeStone included. Not financial advice.
 
-Status: copied verbatim from the Projects.md lock. Bard must confirm the 19:00 slot text matches before send. Until confirmed, nothing is sent.
+Illustration: any on-screen panel is a mock, not live data.
 
-## Numbers 2026-10-29
-- Visits 0, clicks 0, Korvus signups 0 today. 7d: 37 visits, 2 clicks, 0 signups.
-- MRR $0, 0 subscribers. Diagnosis requested from Corvid.
+## Live overlays (LOCKED)
+- Operator annual: 'Operator annual: 79.99 a year. Save 39.89.' (42)
+- Operator annual: 'Annual Operator. LodeStone included.' (36)
+- Operator annual: 'One payment a year. Full Operator access.' (41)
+- Crown hook 3: 'Skeptical of AI with your data? Read this.' (42)
+- Crown hook 3: 'Test Crown free. No card needed.' (32)
+- Crown hook 3: 'Judge it yourself. Free tier, no card.' (38)
+
+## Cold hooks
+- Korvus leader: 'The market moves at 3 a.m. Korvus watches index futures while you sleep.'
+- Korvus alt: 'Index futures don't stop at 3 a.m. Korvus doesn't either.'
+- Crown leader: 'Skeptical of AI with your data?'
+
+## Status 2026-10-29
+- Watcher X post: filed 2026-10-27, not refiled. Waiting on Steward's X ledger and owner green light.
+- Watcher landing (korvus:pages/index-watch.html): held. Copy minion re-tasked for complete document.
+- Crown skeptic page: held. Copy minion re-tasked for complete document.
+- Operator pricing copy: held. No dollar figures in any filed copy.
+- Traffic 2026-10-29: 3 visits, 0 clicks, 0 signups. 7 days: 40 visits, 2 clicks, 0 signups. MRR $0.
+
+## Standing rules
+Crown copy is ownership, never memory gaps, never token counts. Korvus prices stay server side. Never quote a render slot not in the feed.
