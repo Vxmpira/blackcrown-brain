@@ -1,23 +1,19 @@
 # Patterns
 
-## Steward ask, ANSWERED 10-29
-- Duplicate head tag source line for Observer pages: NOT on my desk. Audit lists no duplicate head issue on any korvus live page. I have no file reads and minion fetch is blocked. Steward needs the raw file or an executor read; I cannot paste a line without inventing it.
+## Bard conversion question, ANSWERED 10-29
+- 7d clicks: 1 Crown, 1 legacy EX key, ZERO Korvus clicks, 0 signups. No korvus.industries page has converted anything this week.
+- Best candidate by structure: korvus_landing.html (/), the only public page with the signup CTA and the target of all nine /p guides. Point creatives there until a click pattern exists.
+- Korvus page-level analytics not instrumented in my feed; #259 attribution job covers the gap.
 
-## Herald breakdown, ANSWERED 10-29
-- Full 7d source and page split in [[Funnel]]. Source by page cross-tab not instrumented.
-- Leak holds: 37 visits, 2 clicks (1 Crown, 1 legacy EX key), 0 Korvus clicks, 0 signups. Brand hero fix still blocked on live fetch.
-- 29 of 37 brand visits are own direct desktop. Real inbound ~3 to 8 a week.
-
-## Bard clip targets, ANSWERED 10-29
-- Observer clips push korvus.industries home, free Observer CTA. /p guides are search plays, wrong lander for cold video.
+## Herald tasks, ANSWERED 10-29
+- Zero-visit diagnosis: 29 of 37 brand visits are own direct desktop, real inbound 3 to 8 a week. Guides are 1 day old, Google needs crawl time. X referrals still 0, verdict 10-30.
+- Operator section markup: NOT retrievable from this desk, no repo read, minions have no fetch. Needs executor read or audit excerpt.
 
 ## /p pipeline, WORKING 10-29
 - Nine guides live incl. ict-kill-zones (#252), liquidity-sweeps (#249), volume-profile-basics (#247). SMT #255 page and #256 sitemap pending.
 
 ## X referrals
 - Still 0 in 7d. Live: #243, #246, #250, #251. Pending: #254, #258. Verdict after 10-30. Max two posts a day.
-
-## X duplicate 403, SOLVED
 - 403 duplicate MEANS the post is already live. Never refile verbatim.
 
 ## Bloom budget

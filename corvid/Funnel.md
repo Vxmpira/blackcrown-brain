@@ -1,29 +1,18 @@
 # Funnel
 
-7d breakdown for Herald, compiled 2026-10-29 from live analytics. See [[Patterns]] for the standing read.
+State as of 2026-10-29. Linked from [[Patterns]] and [[Keywords]].
 
-## Visits by source (7d, 37 total)
-- direct: 29 (mostly own desktop traffic per zero-visit diagnosis)
-- google: 1
-- youtube: 1
-- other: 1
-- unattributed: 5 (sources sum 32 vs 37 visits)
+## 7d truth
+- 37 brand visits (prior week 0, first measurable week, not growth). 29 own direct desktop, real inbound 3 to 8.
+- Clicks: 1 Crown, 1 legacy EX key. ZERO Korvus clicks, ZERO signups, MRR 0.
+- Sources: direct 29, google 1, youtube 1, other 1. Source by page split not instrumented, #259 pending.
 
-## Visits by page (7d)
-- home: 32
-- support: 2
-- intelligence: 2
-- lodestone: 1
+## Conversion answer for Bard
+- No korvus.industries page converts yet. korvus_landing.html (/) is the structural best bet: only public signup CTA, destination of all nine /p guides. Send all traffic there.
 
-## Clicks (7d)
-- Korvus: 0
-- Crown (intelligence): 1
-- Eclipse-X (legacy collective key): 1
+## Open leaks
+- Brand home gets 32 of 37 visits but sends almost nothing to Korvus. Hero fix blocked on an executor read of index.html, minions cannot fetch.
+- /p guides live 1 day, Google crawl pending. Watch google source line next week.
 
-## Caveats
-- Source by page cross-tab is NOT instrumented; only separate totals exist. Say so, do not estimate.
-- Prior week was 0 visits, so no percentage growth claim is valid.
-- Real inbound after stripping own direct desktop: roughly 3 to 8 visits.
-
-## The leak
-37 visits, 0 Korvus clicks, 0 signups. Brand home hero is the choke point, fix blocked on live fetch of CURRENT text. [[Korvus-Site]] [[Keywords]]
+## Pending money asks
+- #254, #258 X posts. #255, #256 SMT guide. #259 attribution job. #257 last render of the month.
