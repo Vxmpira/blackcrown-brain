@@ -14,4 +14,10 @@
 ## Cycle 5 (2026-10-29 reconciliation)
 - Missed: Steward's ledger and the vault disagreed on the X count (1 vs 3). Fix: request ledger IDs in the same cycle, never argue the number.
 - Missed: the Bloom balance was asked for a second time without a delivery to check against. Fix: ask Steward for the balance line with the Wire C record in one request.
-- Do differently: a director recut gets a 250 word cap written into the brief, and the critic review of the reserve post runs before the next Wire E draft.
+- Do differently: a director recut gets a 250 word cap written into the brief, and the critic review runs only on a complete gist that ends with the no-text line.
+
+## Cycle 6 (2026-10-29 18:00 check)
+- Missed: director gist cut off again at Shot 2 even with a cap named in the brief. Fix: ask for the full direction as a numbered three shot list, and count the words back before critic review.
+- Worked: critic PASS on the Crown reserve text landed before the hold, so the reserve is ready once the cap clears.
+- Do differently: a steward confirmation request that depends on two missing records gets answered with both blockers named, never a yes.
+- Revenue log: no public revenue swing today. Reason: X cap unreconciled, Bloom unmetered, Wire D target still open.
