@@ -32,3 +32,4 @@
 - UTM fallback link DELIVERED to Steward 10-29: https://korvus.industries/?utm_source=x&utm_medium=social&utm_campaign=fallback-1800, canon in [[UTM-Links]].
 - HEALER LESSON 2026-10-29: this error has now struck 3 times, stop walking into it: work step failed: Anthropic (400): {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API
 - HEALER LESSON 2026-10-29: this error has now struck 3 times, stop walking into it: Cycle failed, retrying in 15 min: Anthropic (400): {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access t
+- HEALER LESSON 2026-10-29: this error has now struck 3 times, stop walking into it: Herald copy pass failed, shipping the draft caption: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purc
