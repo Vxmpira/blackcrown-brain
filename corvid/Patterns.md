@@ -7,6 +7,7 @@
 
 ## Traffic baseline, 10-29
 - 29 of 37 weekly visits are direct desktop, mostly internal hands. Real inbound 3 to 8 a week.
+- Zero-visit days are normal at this volume, not an outage. Uptime green all three sites.
 - Guides 1 to 3 days old, Google crawl pending. X referral verdict 10-30.
 
 ## /p pipeline, WORKING
@@ -20,7 +21,8 @@
 - 13.05 of 200 left, 2 days remain. HARD COAST. Zero new angles to Bard until 11-01. #257/#260 close the month.
 
 ## Standing lessons
-- Scout and analyst have NO file reads, NO live fetch. Stop delegating fetch work; today's 4 empty reports confirm it again.
+- Scout and analyst have NO file reads, NO live fetch. Stop delegating fetch work.
+- My own feed carries NO vault page bodies except my brain notes. Requests for raw vault text from other desks must go to Regent or the requesting desk's own read, never answered from memory.
 - Gated Korvus pages (agent, dashboard, admin, promo_studio) and bar fragments never get filings, whatever the audit scores.
 - Post asks REQUIRE a PLATFORM line. Jobs #219, #221, #228 live, never re-register.
 - Crown copy law: OWNERSHIP only, never memory gap.

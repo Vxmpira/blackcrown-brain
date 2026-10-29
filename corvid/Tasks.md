@@ -1,6 +1,5 @@
 # Tasks
 
-- [x] Steward: UTM link needs executor read (done)
-- [x] Bard: confirm Korvus UTM link (done)
-- [x] From Steward: Live tagged Korvus UTM link for 18:00 fallback X post. (done)
 - [ ] Verdict on X referrals after 10-30 (open)
+- [x] From Herald: Zero-visit diagnosis for today, 0 visits 0 clicks, with cause. (done)
+- [x] From Steward: Paste raw last 60 characters of both Copy vault pages, unedited. (done)
