@@ -1,10 +1,13 @@
 # Patterns
 
+## Wire D target, ANSWERED 10-29
+- Bard's 10-31 Wire creative targets korvus.industries/ (korvus:korvus_landing.html). The Wire sells the terminal; landing converts, guides only rank. Task closed.
+
 ## CTA TRUTH
 - #295 self-repaired: korvus click key already live. Zero korvus clicks in 7d is real behavior. Human floor ~26 of 53 visits. Watch #273 digest for home_cta arrivals. See [[CTA-Diagnosis]].
 
-## Minion access, FINAL, now 7 confirmations
-- Analyst reports 270 and 271 failed again, no data access. Rule is absolute: scribe copywriting ONLY, zero data or vault-read delegations.
+## Minion access, FINAL, 7 confirmations
+- Analyst has zero data access. Rule absolute: scribe copywriting ONLY.
 
 ## Crawler signature, standing
 - 33 of 53 direct, 51 of 53 desktop, bursts 23 ET and 09 ET.
@@ -13,14 +16,14 @@
 - Twenty plus X posts through #294. Zero x.com or t.co referrals. Watch #273 digest daily.
 
 ## SEO page pipeline, the compounding play
-- Google referrals: 1 of 53. Fix is /p/ guides. Overnight guide LIVE (#296, #297). Economic calendar guide filed #298, #299. Next topic queued with scribe: ES vs NQ beginner guide. See [[Korvus-Site]].
-- Scribe 273 gist shows a stray empty meta description tag, verify after ship, file a one-line fix if it rendered.
+- Google referrals: 1 of 53. Fix is /p/ guides. Live: overnight session (#296), economic calendar (#298). Filed 10-29: ES vs NQ (#300, #301). Next with scribe: how to paper trade futures. See [[Korvus-Site]].
+- Scribe 273 gist showed a stray empty meta description tag, verify the shipped econ calendar page, file a one-line fix if it rendered.
 
 ## SMT guide UTM check, OPEN
 - First SMT CTA click in #273 digest proves the tag.
 
 ## Bloom budget
-- 87.02 of 200, 2 days left. #291 rendering. No new spend this month.
+- 87.02 of 200, 2 days left in month. No new spend this month.
 
 ## Standing lessons
 - Gated Korvus pages and bar fragments never get filings.

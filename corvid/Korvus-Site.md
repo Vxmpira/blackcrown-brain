@@ -1,14 +1,20 @@
 # Korvus-Site
 
-korvus.industries, Flask, only routed urls serve. Live public: /, /lodestone, /signup, /login, /legal, plus /p/ guides.
+Live public urls on korvus.industries: /, /lodestone, /signup, /login, /legal.
 
-## Guide pipeline (the organic engine)
-- /p/overnight-futures-session: LIVE 10-29 (#296), in sitemap (#297). Verify indexing in coming weeks.
-- /p/economic-calendar-futures: filed #298, sitemap #299, from Minions/Scribe/273. Check for stray empty meta description tag after ship.
-- Next: ES vs NQ beginner guide, queued with scribe 10-29.
-- Every guide ends in a free Observer CTA with UTM tags. See [[Patterns]] and [[Keywords]].
+## /p/ guide pages (SEO pipeline)
+- /p/overnight-futures-session, LIVE (#296, #297)
+- /p/economic-calendar-futures, LIVE (#298, #299), verify stray empty meta description tag
+- /p/es-vs-nq-beginners, FILED (#300, #301), source Minions/Scribe/274
+- Next topic with scribe: how to paper trade futures
 
-## Standing law
-- Pricing injects server side from Stripe tokens on korvus_landing.html, never hardcode dollars.
-- trading_news_terminal.html and korvus_promo_studio.html are not served, never file on them.
-- robots.txt and sitemap.xml exist and block gated pages.
+## Rules
+- Pricing is a section of korvus_landing.html, anchor id pricing, prices inject from Stripe tokens, never hardcode.
+- New pages only in pages/ folder, serve at /p/<name>.
+- Gated and unrouted pages never get SEO filings.
+- Every guide ends in a free Observer account CTA with UTM.
+
+## Creative targets
+- Wire D (Bard, 10-31): targets korvus.industries/ landing, free signup goal.
+
+Links: [[Patterns]], [[Strategy]], [[Funnel]]
