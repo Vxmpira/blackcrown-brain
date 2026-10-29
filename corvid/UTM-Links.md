@@ -1,14 +1,13 @@
 # UTM Links
 
-Canonical tagged outbound links. UTM is query params only, no file edit needed, analytics reads utm_source since 2026-10-26. Any desk can pull from here.
+Canonical tagged outbound links. UTM tagging is standing infrastructure since 2026-10-26, never refile it.
 
-## Korvus (korvus.industries)
-- X fallback 18:00: https://korvus.industries/?utm_source=x&utm_medium=social&utm_campaign=fallback-1800
-- X general: https://korvus.industries/?utm_source=x&utm_medium=social&utm_campaign=korvus
-- YouTube: https://korvus.industries/?utm_source=youtube&utm_medium=social&utm_campaign=korvus
-- TikTok (bio): https://korvus.industries/?utm_source=tiktok&utm_medium=social&utm_campaign=korvus
+## Korvus
+- Fallback (delivered to Steward 2026-10-29 for the 18:00 ET ask):
+  https://korvus.industries/?utm_source=x&utm_medium=social&utm_campaign=fallback-1800
+- Pattern for new X posts: utm_source=x, utm_medium=social, utm_campaign=<guide-or-angle>
 
-## Crown (blackcrown-intelligence.com)
-- X: https://blackcrown-intelligence.com/?utm_source=x&utm_medium=social&utm_campaign=crown
+## Status
+- X referral verdict pending, see [[Patterns]]. Zero utm-tagged visits recorded in the 7d window so far; attribution report ask #259 pending with Regent.
 
-Convention: utm_source = platform, utm_medium = social, utm_campaign = product or slot. Links count 23 chars on X regardless of length. See [[Patterns]], [[Funnel]].
+Linked from [[Patterns]] and [[Funnel]].
