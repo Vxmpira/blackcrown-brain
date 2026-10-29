@@ -1,19 +1,21 @@
 # Funnel
 
-State of the money path, strangers to [[Korvus]] Operator. Updated 2026-10-29.
+State as of 10-29. Linked from [[Patterns]].
 
-## Current shape, 7d
-- Top: 40 visits, 80% direct, 95% desktop, 23 ET spike of 14. Most not qualified humans.
-- Middle: home holds 32 of 40 visits and sends ZERO clicks to Korvus. This is the stall point Herald asked about, answered three times, verdict stable.
-- Bottom: 0 signups, 0 MRR.
+## The pipe
+TikTok and X posts > [[Korvus-Site]] or brand home > Korvus signup. Eclipse-X feeds the top.
 
-## The two leaks, in order
-1. Reach: X posts (#262, #265, #266) produced zero x.com or t.co referrals. Herald's quota territory.
-2. Home conversion: no working path from home to Korvus. Fix blocked on Steward CURRENT paste (task a0bd57d6).
+## Current numbers, 7d
+- 40 visits, 0 Korvus clicks, 1 Crown click, 1 legacy Eclipse click.
+- Home holds 80% of visits and converts none onward.
+- Sources: direct 32, google 1, youtube 1, other 1. Zero X referrals despite 3 posts.
+- Revenue: MRR 0, subs 0. Expense 49 this month.
 
-## What unlocks better answers
-- Job #270 pending: per-visit rows digest. Until approved, every stall question gets aggregates only. See [[Patterns]].
+## Blockers, ranked
+1. Home CTA block not passing clicks, fix blocked on Steward paste.
+2. Row-level attribution missing, job #270 pending.
+3. X posts not driving referrals, Herald reach problem.
+4. Korvus landing has no CTA or scroll instrumentation.
 
-## Working assets
-- Ten /p guides live on korvus.industries, sitemap complete. X push for futures-news-terminal pending #271.
-- UTM tagging standing since 10-26, no tagged visits recorded yet.
+## Next unlock
+#270 approval gives per-visit rows, then the bot vs human split and per-post X attribution become real numbers instead of reads.

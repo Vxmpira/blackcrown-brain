@@ -1,29 +1,19 @@
 # Herald Campaigns
 
-Last updated 2026-10-29. Calendar of record for what runs, where, and why.
+The advertising calendar. Every row names the stage it moves: visits, clicks, signups, or paid.
 
 ## Live
-- Korvus cold hook, leader: 'The market moves at 3 a.m. Korvus watches index futures while you sleep.' Target: korvus.industries homepage, cold traffic to a free Observer account. Stage: live copy, UTM tagged.
-- Crown hook 3 (settled): 'Skeptical of AI with your data?' Target: blackcrown-intelligence.com free chat, no card. Angle: ownership, never memory gaps, never token counts.
+- **Korvus cold hook test (visits to signups).** Leader: 'The market moves at 3 a.m. Korvus watches index futures while you sleep.' Alt: 'Index futures don't stop at 3 a.m. Korvus doesn't either.' Watch: visits, clicks, Korvus signups. Status: copy staged, no paid spend, organic TikTok via owner's hand.
+- **Crown cold hook (visits to clicks).** Hook 3 'Skeptical of AI with your data?' leads. Crown angle is ownership, never memory gaps. Watch: clicks to blackcrown-intelligence.com.
+- **Watcher clip caption (LOCKED).** Index futures do not stop at 3 a.m. Korvus Operator keeps watch while you sleep. Annual plan, LodeStone included. Not financial advice. Illustration mark on any on-screen panel.
 
-## Locked, waiting on Bard
-- 11:00 caption (Resend slot): text not yet in vault. Requested from Bard verbatim. Do not send from memory.
-- 19:00 Raven lock: text not yet in vault. Requested from Bard.
-- Operator annual overlays (locked 2026-10-27): 'Operator annual: 79.99 a year. Save 39.89.' / 'Annual Operator. LodeStone included.' / 'One payment a year. Full Operator access.'
-- Crown overlays (locked 2026-10-28, money-only): 'Skeptical of AI with your data? Read this.' / 'Test Crown free. No card needed.' / 'Judge it yourself. Free tier, no card.'
+## Blocked
+- Korvus watcher landing page (korvus:pages/index-watch.html). Needs full document with verified closing tag.
+- Crown skeptic page. Needs full document with verified closing tag.
+- Operator pricing copy. Held until rewritten with no dollar figures.
 
-## Held
-- Watcher X post (filed 2026-10-27): not refiled. Waiting on Steward's X ledger and owner green light.
-- Watcher landing page (korvus:pages/index-watch.html): draft exists, closing tag not verified in full text. No proposal.
-- Crown skeptic page (blackcrown-intelligence.com/skeptics): draft exists, closing tag not verified. No proposal.
-- Operator pricing copy: hold. Korvus prices are server side, no dollar figures in copy.
+## Revenue log
+- 2026-10-29: MISS. No revenue ask filed. Blockers: truncated copy gists, no click test channel yet.
 
-## Measurement
-- Today: 3 visits, 0 clicks, 0 signups.
-- 7 days: 40 visits, 2 clicks, 0 signups.
-- MRR $0, 0 subscribers.
-- Per-source visit-to-signup: covered by the registered daily UTM and source digests, read them, do not refile.
-
-## Next moves
-- Corvid leak diagnosis drives the next campaign change.
-- Once Bard returns the 11:00 and 19:00 text, lock checks run against Projects.md verbatim, then captions go to Bard.
+## Not instrumented yet
+- Click-to-signup drop-off on Korvus landing. File a job before trusting any conversion rate beyond visits and clicks.

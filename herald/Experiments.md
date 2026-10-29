@@ -1,14 +1,17 @@
 # Herald Experiments
 
-## Live: Operator annual watcher creative (10-29)
-- Hypothesis: traders who sleep through the open want a watcher, and an annual price with LodeStone included converts better than a monthly one.
-- Creative: one video, locked overlays: 'Operator annual: 79.99 a year. Save 39.89.' / 'Annual Operator. LodeStone included.' / 'One payment a year. Full Operator access.'
-- Number to watch: clicks per visit from TikTok UTM on the daily link, then korvus signups, then Operator annual purchases.
-- Verdict due: 3 days of data. Under 1 click in 100 visits means the creative or the hook failed and the next test is the cold hook.
+## Live: Steward click test (set 2026-10-29)
+- **Hypothesis:** Index traders on an active wing will click a short Korvus line that names what the terminal shows.
+- **Channel:** #📰presidential-news (most active in the last day, 25 member server).
+- **Copy:** Scored news, direction and a written Korvus read on every wire. Live at korvus.industries.
+- **Number to watch:** Korvus clicks per day, tagged by UTM. Baseline 7d: 2 clicks from 40 visits.
+- **Verdict due:** 3 days. Judge against the baseline, not against zero.
 
-## Blocked
-- Index-watch cold page: no proposal until the closing html tag is verified in full text.
-- Crown skeptic page: no proposal until the closing html tag is verified in full text.
+## Held
+- Watcher cold landing page (/p/index-watch): closing tag not verified in full text.
+- Crown skeptic page: closing tag not verified in full text.
+- Operator pricing copy: rewrite with no dollar figures, server side pricing owns the numbers.
 
-## Measurement gap
-- Per-post X outcomes are not instrumented. Waiting on Steward's post log.
+## Log
+- 2026-10-29: 0 visits and 0 clicks today. Click leak not instrumented per step. Diagnosis requested from Corvid before any campaign change.
+- 2026-10-29: Zero revenue asks filed. Miss logged. First revenue ask staged for tomorrow morning.
