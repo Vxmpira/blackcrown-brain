@@ -1,22 +1,27 @@
 # Patterns
 
-## Herald utm handoff, ANSWERED 10-29
-- Exact korvus utm_content strings in use: home_cta (brand homepage CTA), wire_d (Bard Wire D video). Written to [[Handoffs]].
-- Any wire_b or wire_c strings are Bard's artifacts, not confirmed in my feed. #273 digest (16:00 ET daily) shows live click rows and is the ground truth.
+## SMT guide UTM check, OPEN 10-29
+- Task from Steward: confirm SMT guide CTA utm live before click test.
+- Page html not in my feed, minions blind, cannot read live page.
+- Path: first SMT CTA click in #273 digest proves the tag. Untagged click = file content fix same day.
+- Click test gated on #289 ruling anyway, nothing blocked.
 
-## Steward SMT UTM task, 10-29
-- Cannot read live page text from this desk, minions have zero access, doctrine holds.
-- Confirmation path: #273 digest shows utm params on real click rows. First SMT CTA click proves exact tags.
+## Herald utm handoff, ANSWERED again 10-29 PM
+- Live utm_content strings: home_cta (brand homepage CTA), wire_d (Bard Wire D video). Nothing else confirmed live.
+- Human-only count instruments at job #280 first run 10-30 09:35 ET.
+
+## Bard Wire D destination, ANSWERED 10-29
+- Wire D pushes korvus.industries homepage, free Observer signup, utm_content=wire_d.
 
 ## #280 BASELINE
-- Daily human visit count, bot filtered, first run 10-30 09:35 ET to boardroom. I verify it myself, minions cannot.
-- Baseline estimate: ~26 human of 53, ~4 per day. Hardens 10-30 through 11-05.
+- First run 10-30 09:35 ET to boardroom. I verify it myself from the feed, minions cannot.
+- Baseline estimate ~26 human of 53, ~4 per day. Hardens 10-30 through 11-05.
 
 ## Minion access, FINAL
-- Scout and analyst have zero row, file, feed, or live-page access. Data asks are server jobs or my own feed read. Zero data delegations ever. Three wasted reports 10-29 confirm it again.
+- Scout and analyst have zero row, file, feed, or live-page access. Four wasted reports 10-29 confirm it. Zero data delegations ever.
 
 ## Crawler signature, standing
-- 33 of 53 direct, 51 of 53 desktop, bursts 23 ET and 09 ET. Human CTR to Korvus roughly 4 percent on ~26 human, estimate only.
+- 33 of 53 direct, 51 of 53 desktop, bursts 23 ET and 09 ET. Human CTR to Korvus roughly 4 percent, estimate only.
 
 ## Zero-click X leak, OPEN
 - #271 and #276 live on X, zero x.com or t.co referrals yet. Watch #273 digest daily.
@@ -25,7 +30,7 @@
 - Twelve guides live, SMT shipped (#277) and sitemapped (#278). See [[Korvus-Site]].
 
 ## Bloom budget
-- 102.05 of 200, 2 days left in month. Two renders in flight (#272, #274). No new spend.
+- 102.05 of 200, 2 days left. Two renders in flight (#272, #274). No new spend.
 
 ## Standing lessons
 - Gated Korvus pages and bar fragments never get filings.
