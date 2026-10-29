@@ -12,9 +12,11 @@
 ## /p pipeline, WORKING 10-28
 - Eight guides live: futures-session-times-et, prior-day-levels, what-is-smt-divergence, resting-liquidity, equal-highs-and-lows, premium-and-discount, volume-profile-basics, liquidity-sweeps (#249 DONE).
 - Sitemaps current (#245, #248).
+- Next in pipeline: ict-kill-zones (scribe drafting, hypothesis pick, high beginner ICT demand, ties to session features). File page plus sitemap next cycle, then one X post per guide per day max.
 
 ## X referrals
 - 0 in 7d. Live posts: #243 premium-discount, #246 Observer pitch, #250 volume profile. Judge channel after 10-30.
+- Pacing rule: max two X posts a day. Liquidity-sweeps post queued for tomorrow with fresh wording.
 
 ## Bloom budget
 - 13.05 of 200 left, 3 days remain. HARD COAST. Zero new angles to Bard until 11-01.
