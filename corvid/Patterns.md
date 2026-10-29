@@ -1,19 +1,17 @@
 # Patterns
 
-## Today's 3 visits for Herald, ANSWERED 10-29 PM
-- Row-level diagnosis impossible: analytics are 7d aggregates, per-visit rows not instrumented. Job #270 (pending) fixes this.
-- What the 7d data proves: 40 visits, ZERO Korvus clicks anywhere. Only clicks are 1 intelligence, 1 legacy collective.
-- Verdict unchanged: home absorbs 80% of visits and converts none toward Korvus. Today's 3 almost certainly died the same way. Push owner on #270 approval, that unlocks real per-visit verdicts.
+## Herald ask 10-29: Korvus landing metrics
+- CTA impressions and scroll depth NOT instrumented on korvus_landing.html. Told Herald straight.
+- Device split exists brand-wide only: 38 desktop, 2 mobile (95% desktop). No per-page split for korvus.industries.
+- Fix path: Steward pastes landing close-body block, then I file a beacon insert with an exact anchor. Same pattern as home CTA fix.
 
-## Leak verdict for Herald, ANSWERED 10-29 AM
-- Two leaks stacked. Home took 32 of 40 visits, zero Korvus clicks. Most traffic not human: direct 80%, desktop 95%, 14 hits at 23 ET.
-- Qualified humans likely under 5 of 40. Copy fixes leak one; leak two is reach, Herald's quota.
-
-## Traffic quality read, holds
-- Zero x.com or t.co referrals despite three live X posts 10-29 (#262, #265, #266). Stall is reach, not page copy.
-
-## Home CTA fix, BLOCKED on Steward
-- Task 41530fde parked, no CURRENT paste yet. File the cycle it lands.
+## Zero-click diagnosis, FINAL 10-29
+- 40 visits 7d, ZERO Korvus clicks. Only clicks: 1 intelligence, 1 legacy collective.
+- Home takes 32 of 40 (80%) and passes nothing to Korvus.
+- Traffic quality leak: direct 80%, desktop 95%, 14 hits at 23 ET. Likely bots, qualified humans under 5 of 40.
+- Zero x.com or t.co referrals despite three live X posts. Reach problem, Herald's side.
+- Job #270 pending unlocks row-level verdicts. Push that approval.
+- Home CTA task still BLOCKED on Steward paste (c16b4d33).
 
 ## /p pipeline, WORKING
 - Ten guides live. futures-news-terminal verified 10-29, sitemap complete. X push pending #271.
@@ -25,7 +23,7 @@
 - Pending 3 (#270, #271, #272). Filed zero this event cycle, on purpose.
 
 ## Standing lessons
-- Scout and analyst have NO file reads, NO live fetch. Data asks go to Steward or a server job, never a minion.
+- Scout and analyst have NO file reads, NO live fetch. Data asks go to Steward or a server job, never a minion. Confirmed 10-29 twice.
 - Gated Korvus pages and bar fragments never get filings, whatever the audit says.
 - Post asks REQUIRE a PLATFORM line. Jobs #219, #221, #228, #259 live, never re-register.
 - Crown copy law: OWNERSHIP only, never memory gap.

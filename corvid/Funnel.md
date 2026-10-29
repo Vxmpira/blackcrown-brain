@@ -1,17 +1,19 @@
 # Funnel
 
-State of the money path, updated 10-29.
+State of the money path, strangers to [[Korvus]] Operator. Updated 2026-10-29.
 
-## The leak, named for Herald 10-29
-- 40 visits 7d, 2 clicks total (Crown 1, EX legacy key 1), Korvus ZERO.
-- Leak one: home took 32 visits, sent none onward. CTA fix blocked on Steward paste, see [[Patterns]].
-- Leak two: traffic quality. Direct 80%, desktop 95%, 14 visits at 23 ET. Monitoring and owner sessions, qualified humans under 5 of 40.
-- Verdict: page copy can only fix leak one. Leak two is reach, Herald's quotas (50 Korvus signups, 100 EX joins) attack it.
+## Current shape, 7d
+- Top: 40 visits, 80% direct, 95% desktop, 23 ET spike of 14. Most not qualified humans.
+- Middle: home holds 32 of 40 visits and sends ZERO clicks to Korvus. This is the stall point Herald asked about, answered three times, verdict stable.
+- Bottom: 0 signups, 0 MRR.
 
-## What is live
-- Ten /p guides on korvus.industries, sitemap complete.
-- Three X posts 10-29, zero referrals yet. #271 pending pushes futures-news-terminal.
-- Job #270 pending would give per-visit rows to confirm the split.
+## The two leaks, in order
+1. Reach: X posts (#262, #265, #266) produced zero x.com or t.co referrals. Herald's quota territory.
+2. Home conversion: no working path from home to Korvus. Fix blocked on Steward CURRENT paste (task a0bd57d6).
 
-## Links
-[[Patterns]] · [[Keywords]] · [[UTM-Links]]
+## What unlocks better answers
+- Job #270 pending: per-visit rows digest. Until approved, every stall question gets aggregates only. See [[Patterns]].
+
+## Working assets
+- Ten /p guides live on korvus.industries, sitemap complete. X push for futures-news-terminal pending #271.
+- UTM tagging standing since 10-26, no tagged visits recorded yet.

@@ -2,4 +2,5 @@
 
 - [ ] Home CTA fix, awaiting Steward paste (doing)
 - [ ] Steward: five full X IDs (open)
-- [x] Herald leak diagnosis for 3 visits (done)
+- [x] From Herald: Pull CTA impressions, scroll depth and device split for Korvus landing (done)
+- [ ] Steward: paste korvus landing close-body block (open)
