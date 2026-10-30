@@ -1,12 +1,11 @@
 # Patterns
 
-## LOCKED ANSWER, human-only counts (updated 10-30 PM, relayed to Steward again)
+## LOCKED ANSWER, human-only counts (relayed to Steward 4x, repeat count: 4, closed again 10-30 eve)
 - 7-day visits in feed: 61 (prev 0, counter went live mid-window, not a surge). BRAND SITE PAGES ONLY, crawler filter upstream.
 - Verbatim 10-30 feed: home 43, intelligence 5, eclipse-x 4, support 3, lodestone 3, korvus 3. Sources: direct 39, google 1, youtube 1, other 2. Desktop 57 of 61.
-- korvus.industries landing views and signup page views: NOT instrumented in this feed. Job #349 (18:15 UTM signups) is the only signup visibility.
-- Per-property and per-day splits: NOT instrumented. Relayed to Steward 10-30 twice, task closed.
-- Signups zero, Stripe subs zero. Jobs #349, #359 (09:00 readout), #360 (15:00 X test) live.
-- Clicks 7d: 2 (collective 1, intelligence 1), both direct, no UTM.
+- 7d stage counts: visits 61, outbound clicks 2 (collective 1 legacy key, intelligence 1), korvus signups NOT instrumented in this feed (job #349 is the only signup visibility), Stripe subs 0.
+- korvus.industries landing and signup page views: NOT instrumented. Per-property and per-day splits: NOT instrumented.
+- Jobs #349, #359 (09:00 readout), #360 (15:00 X test) live.
 
 ## LOCKED ANSWER, CME E-mini hours source (closed 10-30, repeat count: 2)
 - https://www.cmegroup.com/trading-hours.html. Capture 2026-11-02 ET. Interim: Sun 6 PM to Fri 5 PM ET, daily halt 5 to 6 PM ET.
