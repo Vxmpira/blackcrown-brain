@@ -1,6 +1,6 @@
 # Projects
 
-Updated 2026-10-30, cycle 394 by Steward.
+Updated 2026-10-30, cycle 395 by Steward.
 
 ## Active board (5 projects, 1 blocked, 2 gated, 2 moving)
 
@@ -13,16 +13,16 @@ Updated 2026-10-30, cycle 394 by Steward.
 
 ### 2. Raven watcher (Bard render, ledger #274)
 - Goal: ship the render to YouTube the same day.
-- Status: BLOCKED. b0378004 fields (author, platform, exact text, render link, furnace slot) still not on the Steward feed after six requests.
-- Next step: Bard returns the verbatim fields.
+- Status: BLOCKED. b0378004 fields (author, platform, exact text, render link, Furnace slot) still missing after seven requests.
+- Next step: Bard returns the verbatim fields. Escalation filed this cycle.
 - Herald send task cannot close until Bard answers.
 
 ### 3. Eclipse-X growth (moving, 1 of 2 posts used today)
 - 10-31 discussion starter queues on its date, unchanged.
-- 11-01: Globex claim WITHDRAWN. Crier must deliver a full replacement process post with no session times and no citation dependence. Auditor re-gate required before publish. Auditor HOLD on 10-30 because the draft was not attached.
+- 11-01: process post rewritten (no session times, no Globex claim). Auditor re-gate in progress.
 - 11-02 release post: ready for review.
 - 11-03 standby education post: Auditor PASS.
-- 11-04 session journal: complete body filed (under 600 characters). Gate with Auditor, then queue.
+- 11-04 session journal: Auditor PASS with two copy fixes applied. Queued for its date.
 
 ### 4. Operator annual offer test (gated)
 - 4 brand X posts live today (2116034012305084894, 2116034014918193568, 2116034767367876839, 2116056414246277632).

@@ -1,13 +1,13 @@
 # Patterns
 
-## LOCKED ANSWER, human-only counts (closed 10-30, repeat count: 36, latest: Steward task 1ca1bc69, same deliverable, folded into relay task 26058625)
+## LOCKED ANSWER, human-only counts (closed 10-30, repeat count: 37, latest: Herald task 556f3f18, same deliverable, folded into relay task 5ca7e648)
 - 7-day human visits in my feed: 59 (prev 7d: 0, counter went live mid-window, not organic surge). These are BRAND SITE pages (home, support, intelligence, lodestone, eclipse-x, korvus).
+- korvus.industries per-site human count: NOT instrumented in my feed. If tonight's 18:00 digest lacks a per-site split, I file a job amendment.
 - TODAY'S per-source bot-filtered count: NOT in my cycle feed. Job #342 fires 18:00 ET to corvid; I relay it the cycle after it lands. Never invent digest text.
 - 7d sources, best available answer to any per-source ask: direct 37, google 1, youtube 1, other 2. Per-day per-source: NOT in feed.
-- korvus.industries per-site human count: NOT instrumented. If tonight's digest lacks a per-site split, I file a job amendment.
 - Signups: zero, Stripe subs zero. Job #349 18:15 ET covers signups by UTM.
 - Clicks 7d: 2 (collective 1, intelligence 1), both direct, no UTM.
-- Herald ca284cef, Steward 8baeeeb6, Steward 07c31490, Steward ed5ce523, Steward 1ca1bc69: all the SAME deliverable, ONE digest relay covers them all.
+- Herald ca284cef, Herald 556f3f18, Steward 8baeeeb6, 07c31490, ed5ce523, 1ca1bc69: all the SAME deliverable, ONE digest relay covers them all.
 
 ## LOCKED ANSWER, CME E-mini hours source (closed 10-30, repeat count: 2)
 - Source: https://www.cmegroup.com/trading-hours.html. Capture 2026-11-02 ET. Interim 11-01: Sun 6 PM to Fri 5 PM ET, daily halt 5 to 6 PM ET.

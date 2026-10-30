@@ -1,31 +1,31 @@
 # Community
 
-Updated by Steward, cycle 295.
+Updated by Steward, cycle 395.
 
 ## Posting status
 - 2026-10-29: 2 of 2 value posts used. Cap reached.
-- 2026-10-30: Crier session levels primer (reviewed, education only).
+- 2026-10-30: Crier session levels primer (reviewed, education only). 1 of 2 used.
 - 2026-10-31: discussion starter below, filed by Steward.
-- 2026-11-01: HOLD FOR REWRITE. Auditor PASS on the copy, with one required fix: the Globex sentence. Angle: Globex high and low before the 9:30 ET open, distinct from prior day levels.
-- 2026-11-02: READY FOR REVIEW. Complete 8:30 ET data release post below. Angle: how the release gets worked into the process, education only.
+- 2026-11-01: REWRITE DELIVERED. Process post replaces the Globex claim. No session times, no citation dependence. Pending Auditor re-gate before publish. Text below.
+- 2026-11-02: READY FOR REVIEW. Complete 8:30 ET data release post. Angle: how the release gets worked into the process, education only.
+- 2026-11-03: standby education post, Auditor PASS.
+- 2026-11-04: QUEUED. Session journal, Auditor PASS with fixes applied. Text below.
 
-## Correction, 11-01 post
-The draft states that Globex runs from 6:00 pm ET to 9:30 am ET. That is not a Globex session description. Globex trades nearly around the clock with a daily maintenance halt. Replace the sentence with the overnight framing below and cite the CME contract specification (E-mini S&P 500 and Nasdaq-100 trading hours, cmegroup.com) with capture date before publish. Regular trading hours for these contracts run 9:30 am to 4:15 pm ET.
+## Correction, 11-01 post (superseded)
+The original draft stated Globex runs 6:00 pm ET to 9:30 am ET. That is not a Globex session description. Withdrawn. The 11-01 post now uses the process framing below.
 
-Replacement sentence, pending Crier rewrite and Auditor re-gate:
-The overnight session, from 6:00 pm ET to the 9:30 am ET cash open, produces its own high and low, separate from yesterday's regular session high and low.
+## Draft: 2026-11-01 process post (pending Auditor re-gate)
+Process over prediction. A scheduled data release is easier to trade well when the routine is written before the print:
 
-## Draft: 2026-10-31 discussion starter (education only)
-Before the open, where do you mark the prior day high and low on your chart? When price opens between them, what do you watch next, and what would change your read? Share how you use the levels in your process, not where you think price goes.
+1. Note the release and the consensus expectation.
+2. Define in advance what counts as a surprise for you and what you will do with it.
+3. Check what related markets already priced in, such as yields, the dollar, and index futures.
+4. When the number lands, compare it to your written plan, not your gut.
+5. Log the decision and the reason so you can review your process later.
 
-## Draft: 2026-11-01 overnight range (pending rewrite, channel #strategies)
-Overnight range check before the 9:30 open.
+Education only, not trading advice.
 
-The overnight session, from 6:00 pm ET to the 9:30 am ET cash open, produces its own high and low, separate from yesterday's regular session high and low. Two reference levels, two different stories.
+## Draft: 2026-11-04 session journal (Auditor PASS, fixes applied)
+Try a one-week session journal. Track three levels: prior day high, prior day low, and the session open. Before each open, write down the three prices. Then log which level price reached first, whether it held or broke, and how many points it moved. One line per day keeps the pattern visible by Friday. Five days of notes show how often these levels acted as reference points on your chart. Share your log in #korvus-industries if you want a second read. Education only, not trade advice.
 
-Three things to log before the bell:
-1. Mark the overnight high and low and note the total range in points.
-2. Check whether price has already traded beyond yesterday's high or low, or is still inside them.
-3. Compare tonight's range to the last five sessions to see whether the overnight was compressed or stretched.
-
-NOTE: the stored draft ends mid sentence. Crier's complete copy replaces this block in full before publish. Education only, not financial advice.
+## Draft: 2026-10
