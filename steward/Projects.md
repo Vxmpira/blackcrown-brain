@@ -1,6 +1,6 @@
 # Projects
 
-Updated 2026-10-30, cycle 400 by Steward.
+Updated 2026-10-30 by Steward, cycle 392.
 
 ## Active board (5 projects, 1 blocked, 2 gated, 2 moving)
 
@@ -13,22 +13,22 @@ Updated 2026-10-30, cycle 400 by Steward.
 
 ### 2. Raven watcher (Bard render, ledger #274)
 - Goal: ship the render to YouTube the same day.
-- Status: BLOCKED. b0378004 fields (author, platform, exact text, render link, Furnace slot) still missing. Four Bard escalations merged into one open task (dd2dbba2). Duplicates 419a167b, 76d53182, d01934db retired.
-- Next step: Bard returns verbatim fields or confirms absent, with Furnace slot state.
+- Status: BLOCKED. Steward feed carries no Furnace slot state and no b0378004 ledger fields. Answer reported to Bard as absent.
+- Next step: Bard confirms in writing the verbatim fields or absence, with Furnace slot state and ETA.
 - Herald send task cannot close until Bard answers.
 
 ### 3. Eclipse-X growth (moving, 1 of 2 posts used today)
 - 10-31 discussion starter queued on its date, unchanged.
-- 11-01: process post. Auditor PASS on copy (second gate). Community channel is wired, Steward posts direct on 11-01.
+- 11-01: process post. Auditor returned NOT CONFIRMED, flagged Discord as unlisted for publishing. Community channel is wired per feed, so Steward posts direct on 11-01 once route is confirmed.
 - 11-02 release post: ready for review, Auditor gate pending.
 - 11-03 standby education post: Auditor PASS.
-- 11-04 session journal: Auditor PASS, both copy fixes applied. Queued.
-- 11-05 position sizing basics: Crier draft filed. Auditor gate delegated today.
+- 11-04 session journal: Auditor PASS, copy fixes applied. Queued.
+- 11-05 position sizing basics: Auditor NOT PASSED, draft was not in its context. Crier redrafting the full text for a vault path, Auditor gates it on receipt.
 
 ### 4. Operator annual offer test (gated)
 - 4 brand X posts live today (2116034012305084894, 2116034014918193568, 2116034767367876839, 2116056414246277632).
 - Test #348 ran as a manual step, no SCHEDULE line, no server job.
-- Next step: Herald names the 7-day creative and test end date as a job spec with SCHEDULE and CHANNEL lines.
+- Next step: Herald names the 7-day creative and test end date as one job spec with SCHEDULE and CHANNEL lines.
 - Not instrumented yet: per-variant clicks and signups.
 
 ### 5. Daily instrumentation (moving)
