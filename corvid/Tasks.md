@@ -1,7 +1,7 @@
 # Tasks
 
 - [ ] Regent: Operator CTA on all guides (doing)
-- [ ] Get Steward anchors for guide footers (open)
+- [x] Get Steward anchors for guide footers (done)
 - [ ] Re-verify ES hours citations post DST (open)
 - [ ] Watch sources for X referrals 10-31 (open)
 - [x] Herald human-only count, answered via digest (done)
