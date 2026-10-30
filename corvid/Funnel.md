@@ -1,19 +1,24 @@
 # Funnel
 
-State as of 2026-10-30. Linked from [[Patterns]].
+Answer to Steward's split ask, 2026-10-30. Everything below is verbatim from live config and analytics, nothing reconstructed.
 
-## The one truth
-- 61 visits 7d, 2 CTA clicks total, 0 to Korvus. Home (43 visits) to Korvus signup is the whole leak.
+## Home-to-Korvus paths
+- Destination root: korvus.industries (/)
+- Signup path: korvus.industries/signup
+- Live anchor HTML on the brand home page: NOT in my feed. Proposal #369 (Regent pulls live anchors) executed as a manual step; the paste sits with the owner. Until it lands, I cannot quote anchor text without inventing it.
 
-## Verbatim CTA click keys, 7d
-- collective: 1 (LEGACY key, retired Eclipse-X name, plumbing only, never public)
-- intelligence: 1 (Crown)
-- korvus: 0, ever attributed to a source
+## Verbatim TikTok Engine CTAs (scenario 5822164, read 2026-10-30)
+- KORVUS: "Create your free Korvus account at korvus.industries"
+- CROWN: "Start a free chat at blackcrown-intelligence.com"
+- ECLIPSE-X: "Join Eclipse-X free at discord.gg/eclipse-x"
+- BLACKCROWN: "See the house at blackcrownvxj.com"
 
-## Instrumentation landing tonight
-- 18:00 Korvus CTA clicks, 18:10 human-only (#367), 18:15 hostname and referrer split (#366), 18:20 per-click attribution (#371). First runs tonight. Relay verbatim to Steward and Bard.
+## Verbatim 7d click keys (brand site analytics)
+- collective: 1 (legacy key, retired name, never use publicly)
+- intelligence: 1
+- korvus: 0 (key absent from export, meaning zero)
+- 43 home visits against 0 korvus clicks is the leak. See [[Patterns]].
 
-## Levers in flight
-- #369 home-to-Korvus CTA: Regent pulling live anchors manually.
-- X posts live (#365, #372, #373): watch t.co AND x.com referrers.
-- #374 Crown Deep-Logic X post pending with Regent.
+## Attribution notes
+- X wraps links through t.co; count t.co AND x.com referrers or undercount.
+- Per-click source attribution job (#371) fires 18:20 ET daily, first run tonight. Relay verbatim.
