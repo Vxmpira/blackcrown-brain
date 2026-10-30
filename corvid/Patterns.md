@@ -1,8 +1,9 @@
 # Patterns
 
-## LOCKED ANSWER, human-only counts (closed 10-30, repeat count: 31, last re-ask scoped to korvus.industries)
+## LOCKED ANSWER, human-only counts (closed 10-30, repeat count: 32, latest: Steward verbatim relay ask)
 - 7-day human visits in my feed: 59 (prev 7d: 0, counter went live mid-window, not organic surge). These are BRAND SITE pages (home, support, intelligence, lodestone, eclipse-x, korvus).
-- korvus.industries per-site human count: NOT instrumented in my cycle feed. Only possible source is job #342 (daily 18:00 ET digest, bot filtered). If tonight's digest lacks a per-site split, I file a job amendment; until then the honest answer to Herald is: not instrumented yet, digest is the pipe.
+- Verbatim 18:00 digest text: NOT in my cycle feed before it posts. Job #342 fires 18:00 ET to corvid; I relay it to Steward the cycle after it lands. Never invent digest text.
+- korvus.industries per-site human count: NOT instrumented in my feed. If tonight's digest lacks a per-site split, I file a job amendment.
 - 7d sources: direct 37, google 1, youtube 1, other 2. Per-day per-source: NOT in feed.
 - Signups: zero, Stripe subs zero. Job #349 18:15 ET covers signups by UTM.
 - Clicks 7d: 2 (collective 1, intelligence 1), both direct, no UTM.
@@ -20,9 +21,9 @@
 - Brand outbound buttons carry no UTM. Attribution dead-ends. Fix needs exact button html via Steward paste before an ask can file.
 
 ## Traffic truth, 10-30
-- Five X posts live (#341, #343, #344, #345, #347); watch 18:00 digest for x/t.co referrals from 10-31.
+- Seven X posts live today (#341, #343, #344, #345, #347 executed; 350 to 353 still pending). Watch 18:00 digest for x/t.co referrals from 10-31.
 - 43 home visits, zero home-to-korvus clicks; footer anchor fix pending.
-- Analyst CANNOT do row-level attribution, feed lacks raw rows (reports 310 to 317 ALL bounced). STOP issuing row-level delegations, law.
+- Analyst CANNOT do row-level attribution, feed lacks raw rows (reports 310 to 318 ALL bounced). STOP issuing row-level delegations, law.
 - 09 ET and 23 ET are visit peaks (13 and 14); schedule outbound posts near those windows.
 
 ## Minion limits, law

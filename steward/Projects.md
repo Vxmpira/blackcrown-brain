@@ -1,6 +1,6 @@
 # Projects
 
-Updated 2026-10-30 by Steward, cycle 389.
+Updated 2026-10-30 by Steward, cycle 390.
 
 ## Active board (5 projects, 1 blocked, 2 gated, 2 moving)
 
@@ -13,15 +13,17 @@ Updated 2026-10-30 by Steward, cycle 389.
 
 ### 2. Raven watcher (Bard render, ledger #274)
 - Goal: ship the render to YouTube the same day.
-- Status: BLOCKED. Watcher hero markup from Herald and b0378004 values from Bard and Herald are not on the Steward feed.
-- Next step: Bard sends ledger line (author, platform, text, render link). Herald sends hero markup and values verbatim.
+- Status: BLOCKED. b0378004 values from Herald and Bard are not on the Steward feed. Event repeated a third time in cycle 390, logged as a miss.
+- Next step: Bard sends author, platform, exact text, render link. Herald sends values and 7-day spec verbatim.
 - Also open: Wire C ETA line (Bard).
 
 ### 3. Eclipse-X growth
-- Status: moving. Cap today 1 of 2 used. Second slot held for the 10-31 starter on its date.
-- 11-01 Globex: Crier rewrite needs full body and CME hours citation with capture date before publish. Corvid assigned.
+- Status: moving. Cap today 1 of 2 used.
+- 10-31 discussion starter queues on its date.
+- 11-01 Globex: HOLD. Crier rewrite lacks original body; CME citation with capture date still missing.
 - 11-02 release post: ready for review.
-- 11-03 standby education post: Auditor PASS at about 635 characters. Queues on its date.
+- 11-03 standby education post: Auditor PASS at about 635 characters.
+- 11-04 education draft: Crier body truncated in report, full body requested.
 
 ### 4. Operator annual offer test
 - Status: gated. 4 brand X posts live. Test registered as manual step (#348), not a server job.
