@@ -302,3 +302,7 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-29: [APPROVED] #324 Add ES movers guide to sitemap (via reaction)
 - 2026-10-29: [APPROVED] #325 New guide, tick and point value math (via reaction)
 - 2026-10-29: [APPROVED] #326 Add tick value guide to sitemap (via reaction)
+- 2026-10-29: [APPROVED] #327 X launch post for ES movers guide (via reaction)
+- 2026-10-29: [APPROVED] #328 X launch post for tick value guide (via reaction)
+- 2026-10-29: [APPROVED] #329 New guide, futures vs stocks small accounts (via reaction)
+- 2026-10-29: [APPROVED] #330 Add vs-stocks guide to sitemap (via reaction)

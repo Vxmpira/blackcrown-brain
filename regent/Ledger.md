@@ -239,3 +239,7 @@ The 19:0
 - 2026-10-29: #324 Add ES movers guide to sitemap > DONE: sitemap.xml updated live (appended 1 new entry). repo committed and pushed.
 - 2026-10-29: #325 New guide, tick and point value math > DONE: pages/futures-tick-value-explained.html updated live (new page created). repo committed and pushed.
 - 2026-10-29: #326 Add tick value guide to sitemap > DONE: sitemap.xml updated live (appended 1 new entry). repo committed and pushed.
+- 2026-10-29: #327 X launch post for ES movers guide > DONE: posted to X with the brand account (post 2115985936806780997)
+- 2026-10-29: #328 X launch post for tick value guide > DONE: posted to X with the brand account (post 2115985939843449019)
+- 2026-10-29: #329 New guide, futures vs stocks small accounts > DONE: pages/futures-vs-stocks-small-accounts.html updated live (new page created). repo committed and pushed.
+- 2026-10-29: #330 Add vs-stocks guide to sitemap > DONE: sitemap.xml updated live (appended 1 new entry). repo committed and pushed.
