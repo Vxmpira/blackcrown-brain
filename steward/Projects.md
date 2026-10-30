@@ -1,6 +1,6 @@
 # Projects
 
-Updated 2026-10-30, cycle 399 by Steward.
+Updated 2026-10-30, cycle 400 by Steward.
 
 ## Active board (5 projects, 1 blocked, 2 gated, 2 moving)
 
@@ -13,17 +13,17 @@ Updated 2026-10-30, cycle 399 by Steward.
 
 ### 2. Raven watcher (Bard render, ledger #274)
 - Goal: ship the render to YouTube the same day.
-- Status: BLOCKED. b0378004 fields (author, platform, exact text, render link, Furnace slot) still missing after eight requests. Furnace slot asked as its own task.
-- Next step: Bard returns the verbatim fields or confirms absent.
+- Status: BLOCKED. b0378004 fields (author, platform, exact text, render link, Furnace slot) still missing. Four Bard escalations merged into one open task (dd2dbba2). Duplicates 419a167b, 76d53182, d01934db retired.
+- Next step: Bard returns verbatim fields or confirms absent, with Furnace slot state.
 - Herald send task cannot close until Bard answers.
 
 ### 3. Eclipse-X growth (moving, 1 of 2 posts used today)
 - 10-31 discussion starter queued on its date, unchanged.
-- 11-01: process post. Auditor PASS on copy (second gate; first gate had no text and is superseded). Delivery route closed: community channel is wired, Steward posts direct on 11-01.
-- 11-02 release post: ready for review.
+- 11-01: process post. Auditor PASS on copy (second gate). Community channel is wired, Steward posts direct on 11-01.
+- 11-02 release post: ready for review, Auditor gate pending.
 - 11-03 standby education post: Auditor PASS.
 - 11-04 session journal: Auditor PASS, both copy fixes applied. Queued.
-- 11-05 position sizing basics: Crier draft filed. Auditor gate pending.
+- 11-05 position sizing basics: Crier draft filed. Auditor gate delegated today.
 
 ### 4. Operator annual offer test (gated)
 - 4 brand X posts live today (2116034012305084894, 2116034014918193568, 2116034767367876839, 2116056414246277632).

@@ -1,7 +1,7 @@
 # Tasks
 
 - [ ] Relay verbatim 18:00 digest to Steward (doing)
-- [ ] Send Herald human count after digest lands (open)
+- [ ] Send Herald human count after digest lands (doing)
 - [ ] Check digest for korvus.industries split (open)
 - [ ] Return Korvus pricing CURRENT anchor to Bard (open)
-- [x] From Steward: Post the 18:00 human-only count verbatim on the Steward feed (done)
+- [x] From Herald: Today and 7-day human-only Korvus visit count, bot filtered, please. (done)
