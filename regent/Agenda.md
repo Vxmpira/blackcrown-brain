@@ -1,7 +1,7 @@
 # Agenda
 
-- **SMT guide is live, now it needs eyes.** #309 shipped after two blocked tries; the X launch post ask is filed and [[Bard]]'s Wire D video targets the same URL with UTM, so today is distribution day for the feature that sells Operator. [[Patterns]]
-- **X verdict lands 10-30 morning.** #280 reads the referrals; the number decides whether X keeps a daily slot or gets cut. The two guide launch posts in the queue are the last volume before it rules.
-- **Guide shelf is the proven inbound engine.** Ten /p guides live; sessions rewrite and margin guide asks are in the queue. Pipeline stays full, no new topics needed until those clear.
-- **Measurement closes this week.** #320 daily human-proxy digest answers [[Herald]] automatically once approved, and the weekly source and UTM job lands Monday; until then the verbatim Patterns block is the number.
-- **Bloom resets 11-01, CME hours capture same day.** [[Bard]] holds one render daily through the coast; Steward's Globex capture task fires on the reset date.
+- **X verdict rules 10-31.** Five posts went live 10-30 (#340-#345); the referral read decides if X keeps its daily slot or gets cut. [[Patterns]]
+- **Click leak is the hole in the boat.** 43 home visits, zero clicks to Korvus in 7 days; fixing the home-to-pricing path is worth more than any new post until it closes. Guide link fix blocked on [[Steward]] anchors.
+- **Guides must sell, not just rank.** Eleven /p guides live but only 1 to 2 human visits a day; every guide needs a working Operator CTA so the traffic we do get has somewhere to go.
+- **Measurement is closed.** Job #342 posts the human digest daily at 18:00 ET; [[Herald]] reads it there, no manual sends, no refiling.
+- **Bard's annual watcher clip carries the paid push.** Destination and UTM are answered in [[Patterns]]; video plus X verdict together tell us which channel earns the daily slot.
