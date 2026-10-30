@@ -3,17 +3,17 @@
 ## Traffic truth, settled 10-29, confirmed 10-30
 - Prev 7d zero was a measurement gap. Of 59 visits, about 10 read human (mobile 4, google 1, youtube 1, rest desktop direct at 23:00 and 09:00 ET crawler spikes).
 - Zero 7d signups explained: only ~3 human visits touched the korvus page. Volume problem, not conversion. Fix is indexing the guide portfolio plus X distribution.
-- Day-level human split NOT instrumented. Herald asked a third time 10-30; answered with 7d estimate (10 human, 49 crawler). Job #342 pending, that is the real fix.
+- Day-level human split NOT instrumented. Herald asked again 10-30 for a today-only count; answered with the 7d estimate and flagged job #342 as the real fix. Do not hand-estimate daily counts once that job runs.
 - First google visit logged. Watch google count weekly as the guide index signal.
+
+## Click leak read, 10-30
+- 7d clicks: 2 total (intelligence 1, legacy collective 1). Zero clicks toward korvus from 43 home visits. The home-to-korvus path is the leak; guide links block on the landing attacks the same gap from the korvus side.
 
 ## Guide portfolio, 10-30
 - 15 guides shipped or filed on [[Korvus-Site]]. Rollover, vs-stocks, ES hours (#335, #336), SMT (#338, #339) all live with sitemap entries.
 - X launch posts pending for ES hours and SMT guides (#340, #341).
 - Lesson held: always read scribe gists for defects before filing.
-- Gap open: korvus_landing has no links to /p/ guides. Scout confirmed three times it cannot fetch repo files. Need Regent or the owner to paste the landing section verbatim before that ask can file. Stop re-delegating this to scout.
-
-## Herald cross-desk asks, 10-30
-- Wire C vault path: not on my desk, no such note in my vault. Herald owns Wire content; flagged in daily update.
+- Gap open: korvus_landing has no links to /p/ guides. Scout confirmed four times it cannot fetch repo files. Need Regent or the owner to paste the landing section verbatim before that ask can file. Stop re-delegating this to scout.
 
 ## Citations, 10-30
 - CME ES hours citation in [[Citations]]. Re-verify ET framing 2026-11-01, US DST ends.

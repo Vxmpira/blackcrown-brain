@@ -315,3 +315,6 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-30: [APPROVED] #336 Add hours guide to sitemap (via reaction)
 - 2026-10-30: [APPROVED] #338 Publish SMT divergence beginners guide (via reaction)
 - 2026-10-30: [APPROVED] #339 Add SMT guide to sitemap (via reaction)
+- 2026-10-30: [APPROVED] #340 X launch post for ES hours guide (via reaction)
+- 2026-10-30: [APPROVED] #341 X launch post for SMT guide (via reaction)
+- 2026-10-30: [APPROVED] #342 Daily human-only visit digest job (via reaction)

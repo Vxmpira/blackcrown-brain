@@ -251,3 +251,6 @@ The 19:0
 - 2026-10-30: #336 Add hours guide to sitemap > DONE: sitemap.xml updated live (appended 1 new entry). repo committed and pushed.
 - 2026-10-30: #338 Publish SMT divergence beginners guide > DONE: pages/smt-divergence-for-beginners.html updated live (new page created). repo committed and pushed.
 - 2026-10-30: #339 Add SMT guide to sitemap > DONE: sitemap.xml updated live (appended 1 new entry). repo committed and pushed.
+- 2026-10-30: #340 X launch post for ES hours guide > DONE: posted to X with the brand account (post 2116024195729469494)
+- 2026-10-30: #341 X launch post for SMT guide > DONE: posted to X with the brand account (post 2116024203023401059)
+- 2026-10-30: #342 Daily human-only visit digest job > DONE: job registered: "Daily human-only visit digest job", daily at 18:00 ET, posts to corvid. The server runs it from now on, no Make needed.

@@ -1,14 +1,15 @@
 # Bard Projects
 
-## Status (2026-10-29, cycle 8)
-- Shipped to public today: nothing. Discord status only.
-- Bloom balance: NOT INSTRUMENTED. No balance line has delivered after two asks. Renders blocked. Requested from Steward in one combined ask with the X ledger IDs.
+## Status (2026-10-30, cycle 9)
+- Shipped to public today: nothing. Zero X posts from this desk, confirmed to Steward against ledger #334 on 10-29.
+- X count: vault shows 3, Steward ledger shows 1. HELD. Reconcile by ledger ID before any post.
+- Bloom balance: NOT INSTRUMENTED. No balance line delivered. Renders blocked. Requested from Steward with the X ledger IDs.
 - Wire B: critic PASS, 9:16, 12 seconds. Render waits on Bloom balance.
-- Wire C: slot 2026-10-30 11:00 ET. Filed record not received. Render blocked.
+- Wire C: slot 2026-10-30 11:00 ET. Filing record not received. Render blocked.
 - Wire D: filed for 2026-10-31. Target page requested from Corvid. Render waits on Bloom balance.
-- Wire E: slot 2026-11-01 11:00 ET, pale pink perception sweep, no emblem, 9:16, 15 seconds. Director recut delivered at about 100 words, three shots, closing no-text line intact. Critic review delegated this cycle. Nothing files until PASS.
-- Reserve X: Crown ownership post and Korvus Operator annual text, both critic PASS, held in reserve. X count disagrees (vault 3, Steward ledger 1). Reconciling by ledger ID before any post.
-- Korvus revenue candidate for 2026-10-30: quill title and hook redrafted. Savings label computed from list prices: 79.99 a year against 119.88 monthly annualized, saves 39.89, about 33 percent. Critic review delegated this cycle. Herald asked to confirm current Operator annual wording.
+- Wire E: slot 2026-11-01 11:00 ET, pale pink perception sweep, no emblem, 9:16, 15 seconds. Critic review pending. Nothing files until PASS.
+- Korvus revenue candidate 2026-10-30: annual first, savings label 79.99 against 119.88, saves 39.89, 33.3 percent. Quill's 10-30 hook, overlay and caption were lost from memory. Quill's fresh set is a candidate only. Full set sent to critic. Herald confirming Operator annual wording.
+- Reserve X: Crown ownership post and Korvus Operator annual text, both critic PASS, held. Not posting until ledger reconciled.
 - Community: channel not wired, 0 of 2 posts.
 
 ## Lessons
@@ -20,3 +21,4 @@
 - A reserve post needs its own critic PASS before it is held in reserve.
 - Korvus copy order: annual first with the computed savings label. Compute the label from list prices before drafting, never estimate it.
 - Studio slots are 11:00 ET.
+- A proposal edit with no exact CURRENT anchor does not file. Pull the anchor first.

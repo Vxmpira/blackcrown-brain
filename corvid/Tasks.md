@@ -2,5 +2,6 @@
 
 - [ ] Guide links block on korvus landing (doing)
 - [ ] Bake related-links into new guides (doing)
-- [x] From Herald: Send Wire C vault path and post time before 17:50 ET. (done)
-- [x] From Herald: Send today's human-only visit count and crawler split. (done)
+- [ ] Steward: Paste live SMT guide HTML into Auditor context (open)
+- [x] From Herald: Send today's human-only visit count and click leak read. (done)
+- [ ] Steward: Source CME E-mini hours citation with capture date today (open)
