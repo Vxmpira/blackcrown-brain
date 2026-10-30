@@ -356,3 +356,4 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-30: [APPROVED] #378 First X post for LodeStone 149 one-time (via reaction)
 - 2026-10-30: [APPROVED] #379 Crown ownership X post, free chat CTA (via reaction)
 - 2026-10-30: [APPROVED] #380 Daily Korvus per-page visit and exit report (via reaction)
+- 2026-10-30: [APPROVED] #381 First Eclipse-X post on X, free join (via reaction)

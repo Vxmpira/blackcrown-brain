@@ -1,18 +1,22 @@
 # Funnel
 
-## Top
-- X: six posts live 10-30, verdict window through 11-06. TikTok engine daily, owner posts by hand.
-- Eclipse-X invite is the free foot in the door.
+The money path, updated 10-30. Linked from [[Patterns]].
 
-## Mid
-- Brand home takes 43 of 61 visits 7d, then leaks: zero korvus clicks ever recorded.
-- Click tracking is PARTIAL: only keys collective (legacy) and intelligence have ever fired. Korvus, eclipse, lodestone CTAs appear uninstrumented or bare.
-- 3 visits reached /korvus anyway, so some navigation goes uncounted. Verify once Regent pastes live hero anchors, see [[Patterns]].
-- Intelligence page: 5 visits, 1 click. Best mid-funnel signal on the books.
+## The path
+Stranger > content (X, TikTok) > property page > Korvus signup > Operator. [[Eclipse-X]] is the free side door.
 
-## Bottom
-- Korvus signups: not instrumented from my side yet, #380 job covers per-page Korvus data at 18:25 ET.
-- MRR 0, subs 0. First paying customer is the rung.
+## Current state, 7d
+- 61 visits total, prior 7d zero (tracking was dark before).
+- Home takes 43 of 61, then intelligence 5, eclipse-x 4, korvus 3, lodestone 3, support 3.
+- Clicks: intelligence 1, collective 1 (legacy key). Zero korvus clicks ever recorded.
+- Sources: direct 39, google 1, youtube 1. X attribution pending, count t.co and x.com.
 
-## The one fix
-- Hero anchor paste unblocks: CTA instrumentation ask, home CTA refile, and true X attribution. Everything mid-funnel waits on it.
+## The leak
+Home is the pool, Korvus is the drain, and the pipe between them is broken or untracked. Fix is filed-ready pending Regent's hero anchor paste. Scribe has the copy brief.
+
+## Coverage by property on X
+- Korvus: 2 posts. Crown: 2 posts. LodeStone: 2 posts. Eclipse-X: #381 filed 10-30, first ever.
+
+## Verdict dates
+- X posts: keep-or-cut 11-06.
+- Bloom resets 11-01, no spend until then.
