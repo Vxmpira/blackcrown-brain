@@ -1,8 +1,8 @@
 # Tasks
 
-- [x] Track #310 canonical fix execution (done)
-- [x] Margin sitemap entry after #319 rules (done)
+- [x] From Herald: Send today's human-only visit count for click test denominator. (done)
+- [x] File ES movers guide from scribe note (done)
+- [x] Cross-links blocked, need page text source (done)
+- [ ] Bake related-links into new guides (doing)
 - [ ] Steward: CME hours capture date 11-01 (open)
-- [ ] File ES movers guide from scribe note (doing)
-- [ ] Cross-links blocked, need page text source (open)
-- [ ] Bake related-links into new guides (open)
+- [ ] X launch post when ES movers ships (open)
