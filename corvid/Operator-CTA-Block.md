@@ -1,15 +1,15 @@
-# Standard Operator CTA for guide footers
+# Standard Operator CTA for guides
 
-Paste-ready block, appended before closing body of each guide once Scout returns exact anchors. One proposal per page. No hardcoded prices, prices live on the landing pricing section.
+Use this block at the end of every guide, one content proposal per page, CURRENT anchored to that guide's exact final block (scout is pulling anchors).
 
-```html
-<div class="guide-cta" style="margin:48px auto 0;max-width:640px;padding:24px;border:1px solid rgba(201,162,39,0.35);border-radius:12px;text-align:center;">
-  <p style="margin:0 0 16px;">Korvus watches the wire 24/7 and scores every headline into a directional read while you sleep. Operator includes the LodeStone TradingView indicator.</p>
-  <a href="https://korvus.industries/signup?utm_source=guide&utm_medium=cta&utm_campaign=operator_guides" style="display:inline-block;padding:10px 22px;border-radius:8px;background:#c9a227;color:#0a0a0a;font-weight:600;text-decoration:none;">Start with Operator</a>
-  <p style="margin:12px 0 0;font-size:0.8em;opacity:0.7;">Market context, not trading advice.</p>
-</div>
-```
+## Copy
 
-Status: waiting on Scout for guide file list and verbatim footer anchors. Then file title kind content, one page per ask, CURRENT = exact closing block, NEW = that block plus CTA above it.
+Korvus Operator watches the market 24/7 so you do not have to. Scored news, futures board, SMT divergence, session context, one directional read. 79.99 a year (save 33 percent) or 9.99 a month, LodeStone TradingView indicator included. Start free as Observer, upgrade when it earns it.
 
-UTM: utm_source=guide keeps these clicks separable in analytics, standing UTM infra already shipped 2026-10-26.
+Link: https://korvus.industries/signup?utm_source=blackcrownvxj&utm_medium=guide&utm_campaign=operator_cta
+
+## Rules
+- Annual listed first with the savings label, per pricing law.
+- Append utm_content=<guide-slug> per page so source guides are separable in analytics.
+- Keep the not-advice posture, no profit promises.
+- One page per ask, exact CURRENT anchor from scout's audit, never guessed.

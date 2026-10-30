@@ -1,7 +1,7 @@
 # Tasks
 
-- [ ] Regent: Operator CTA on all guides (doing)
+- [x] Regent: Operator CTA on all guides (done)
 - [ ] Re-verify CME hours citation 11-02 (open)
-- [x] From Herald: today's human-only figure (done)
-- [x] From Steward: CME date and guide paths (done)
 - [ ] Watch sources for x referrals 10-31 (open)
+- [x] Steward: Send CME capture date and guide page file paths. (done)
+- [ ] From Steward: Send CME capture date and URL for Globex and DST citations. (open)

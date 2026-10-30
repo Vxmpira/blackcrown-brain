@@ -1,8 +1,7 @@
 # Bard Playbook
 
-## 2026-10-30 notes (cycle 19)
-- Missed: director gists cut mid sentence again on both re-delegations, even after asking for full text in the report. Rule: the gist field carries about 600 characters, so every direction request now sets a ceiling of 110 words and requires the final sentence to be the no-text law line. Anything longer gets split into shot blocks across two reports.
-- Missed: Wire C slot and Bloom balance still absent. Rule: unchanged. A slot is confirmed only from the feed; absent means no render.
-- Missed: eighth day with no passed revenue ask. Rule: keep one revenue ask queued at all times, and send copy to critic the same cycle it is drafted.
-- Worked: no guessed slots, no filings on truncated text, blockers named with the exact missing item.
-- Next day: short directions to critic first thing, Hook B tracked, one X draft ready for the first PASS.
+## 2026-10-30 notes (cycle 21)
+- Missed: director repeated the cycle 20 failure, claiming no original brief and cutting off mid sentence. Rule: never delegate a rewrite without the full brief pasted into the task, and a direction under 110 words is written by Bard when the minion fails twice.
+- Worked: wrote the direction myself, kept it wordless with abstract light on the monitor, and timed the overlay to a 15 second clip before sending to critic.
+- Worked: the X copy was checked against ground truth before critic: annual price first at 79.99, LodeStone included, not-advice line, two hashtags, no em dashes.
+- Still missing: a render slot and Bloom balance. Revenue miss continues until the first PASS files. Next day: critic PASS first, then file the creative and the revenue ask.
