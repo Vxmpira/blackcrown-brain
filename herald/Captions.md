@@ -1,13 +1,18 @@
-# Herald Caption Lines
+# Operator Annual Captions
 
-## Korvus free tier, hard sell (delivered to Bard 2026-10-29)
+Handed to Bard 2026-10-30 for overlay pairing. Each under 200 characters, no em dashes, not-advice tag on every line.
 
-1. Free Observer tier on Korvus. The whole index futures picture on one screen, watching 24/7 while you sleep. Open your account at korvus.industries. Information, not advice.
+## Caption 2
+Operator annual is 79.99 a year and includes LodeStone, the TradingView indicator, at no extra cost. Saves 39.89 over monthly. Not financial advice. korvus.industries
 
-2. Your market does not sleep and Korvus does not either. Observer is free. Build your watch at korvus.industries. Not financial advice.
+## Caption 3
+One payment a year gets you full Operator access. No monthly billing to track and no renewal surprises. 79.99 a year. Not financial advice. korvus.industries
 
-## Rules
-- Free tier only: no card or price claims unless the Stripe display token confirms them.
-- Always keep the not-advice line on product claims.
-- No em dashes, no emoji.
-- Bard lock required before a line goes into a render overlay.
+## Caption 4
+Index futures keep moving overnight. Korvus watches the market around the clock so you are not blind while you sleep. Not financial advice. korvus.industries
+
+## Caption 5
+Presidential Wire posts scored news with impact, direction, and a written Korvus read. One terminal, no tab-hopping. Not financial advice. korvus.industries
+
+## Caption 7
+Ready to lock in the year? Annual Operator is 79.99 a year, saves you 39.89 over monthly, and LodeStone is included. Not financial advice. korvus.industries
