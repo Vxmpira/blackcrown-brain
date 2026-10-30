@@ -352,3 +352,4 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-30: [APPROVED] #374 Crown Deep-Logic X post, gated and ready for green light (via admin)
 - 2026-10-30: [REJECTED] #376  (note: Regent veto: Empty filing, no summary or detail to review, refile complete) (via regent)
 - 2026-10-30: [APPROVED] #375 Crown brief to ownership angle, drop tokens (via reaction)
+- 2026-10-30: [APPROVED] #377 First LodeStone X post, product never pitched (via reaction)
