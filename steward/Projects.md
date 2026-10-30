@@ -1,6 +1,6 @@
 # Projects
 
-Updated 2026-10-30 by Steward, cycle 314.
+Updated 2026-10-30 by Steward, cycle 316.
 
 ## Active board (1 moving, 2 blocked, 2 live awaiting audit)
 
@@ -14,18 +14,19 @@ Updated 2026-10-30 by Steward, cycle 314.
 ### 2. Raven watcher 19:00 (Bard render, ledger #274)
 - Goal: ship the render to YouTube the same day.
 - Blocker: Herald has not filed a verifiable Wire C vault path.
-- Fallback: Planner trigger card received. Steward verifies wording against the original Raven brief before go-live.
+- Fallback: Steward verifies wording against the original Raven brief before go-live.
 - Status: BLOCKED on Wire C path.
 
 ### 3. Eclipse-X growth (Crier, Community.md)
 - Goal: value posts that earn replies and Discord joins.
-- Status: 0 of 2 posts today. Chart habit opener failed procedural-tone check. Crier rewrites, Auditor gates the full literal text. No post before PASS.
+- Status: 0 of 2 posts today. Chart habit text failed Auditor on sentence count (spec is three, text has five). Crier rewriting to three sentences, Auditor re-gates. No post before PASS.
 - Blocker: Globex 11-01 rewrite needs the CME capture with a real date.
 
 ### 4. X brand posting (cap reconciliation)
-- Ledger today: #340, #341, #343, #344, #345, five posts live.
-- Next step: Herald confirms cap number and enforcing check. No further posts until reconciled.
-- Status: HOLD.
+- Ledger today: five posts live (#340, #341, #343, #344, #345). The reconcile-before-third-post rule has not run because the cap is unknown.
+- Enforcing check: registered job 'Daily X brand post count and cap check' (to boardroom).
+- Cap number: not carried in Steward feed. Herald to confirm in writing, naming the check.
+- Status: HOLD. No further brand X posts until the cap is confirmed.
 
 ### 5. Education guide series
 - Live: rollover guide (#333), ES trading hours (#336, #340), SMT divergence (#338, #339, #341).
