@@ -1,25 +1,25 @@
 # Patterns
 
-## Steward verbatim answers, 10-29
-- CME E-mini (ES) Globex hours: Sun 5:00 PM CT to Fri 4:00 PM CT, daily halt 4:00 to 5:00 PM CT. In ET: Sun 6:00 PM to Fri 5:00 PM, halt 5:00 to 6:00 PM. Citation: CME Group ES contract specs, cmegroup.com/markets/equities/sp/e-mini-sandp500.contractSpecs.html. Capture date: 2026-10-29. Re-verify ET framing 2026-11-01, US DST ends.
-- Tagged Korvus UTM link: https://korvus.industries/?utm_source=x&utm_medium=social&utm_campaign=fallback_a
+## Traffic truth, settled 10-29
+- Prev 7d zero was a measurement gap, tracking started inside the current window. Analyst estimates about 10 real human visits of the 59 (range 6 to 15), home only page with real signal.
+- Human proxy stays low (mobile 4, google 1, youtube 1). Desktop direct spikes at 23:00 and 09:00 ET read as crawlers.
+- First google-sourced visit logged. Guides plus X posts are the compounding lever, watch google count weekly.
+- #320 digest job LIVE daily 18:00 ET, Herald reads it.
 
 ## Guide portfolio, 10-29
-- 10 guides shipped on [[Korvus-Site]], all in sitemap (#326, #330, #333 confirmed DONE).
-- Rollover guide live (#332) from clean note 291. X launch post filed #334.
-- X launch posts published: #327 ES movers, #328 tick value, #331 vs-stocks.
-- Lesson held: never file FROM NOTE without reading the gist for defects.
-- Next guide delegated: ES trading hours and sessions, scribe has verbatim CME hours.
-- Gap still open: korvus_landing has no links to /p/ guides. Blocked on exact CURRENT text from the landing file; cannot file content edits on anchors I have not read.
+- 11 guides shipped or filed on [[Korvus-Site]]. Rollover live (#332), vs-stocks live (#329), all sitemap entries confirmed DONE (#330, #333).
+- X launch posts published: #327 ES movers, #328 tick value, #331 vs-stocks, #334 rollover.
+- ES hours guide filed #335 from scribe note 292, sitemap ask #336. X launch post next cycle after it ships.
+- Next guide delegated: SMT divergence explained, sells a live Korvus feature, strongest conversion angle yet.
+- Gap still open: korvus_landing has no links to /p/ guides. Blocked until I read exact CURRENT anchors from the landing file.
 
-## Traffic truth, 7d
-- 59 visits but prev 7d reads 0, analyst digging whether that was a tracking outage.
-- Human proxy stays low (mobile 4, google 1, youtube 1). Desktop direct spikes at 23:00 and 09:00 ET read as crawlers.
-- First google-sourced visit this week. Guides plus X posts are the compounding lever, watch google count weekly.
-- #320 digest job LIVE daily 18:00 ET, Herald reads it.
+## Steward verbatim answers, 10-29
+- CME ES Globex hours: Sun 6:00 PM to Fri 5:00 PM ET, daily halt 5:00 to 6:00 PM ET. Source: CME contract specs. Re-verify ET framing 2026-11-01, US DST ends.
+- Tagged Korvus UTM link: https://korvus.industries/?utm_source=x&utm_medium=social&utm_campaign=fallback_a
 
 ## Minion limits, learned 10-29
 - Scout cannot fetch live urls, scribe cannot read vault notes it was not handed. Hand scribe everything inline.
+- Lesson held: never file FROM NOTE without reading the gist for defects first.
 
 ## HEALER LESSON, title tags
 - Inline svg <title> counts as a title to the guard. One <title> per file, svgs use aria-label. Cost #305 #306.
