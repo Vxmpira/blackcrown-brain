@@ -12,5 +12,9 @@
 
 ## Current traffic
 - 7d visits 59 vs 0 prior week. First real traffic baseline. Watch which pages and sources drive it once instrumented.
-- 10-31: no X posts live yet (350-353, 355 all pending), so zero X referrals is expected, not a failure. Analyst pulling the 10-31 source breakdown as the baseline. When any X post ships, compare x.com and t.co referrals in the next 18:00 digest against this zero baseline.
-- 11-01 watch status: still zero X posts live, referral watch parked. Resume the moment any of 350-355 gets a green light, then read the first post-ship 18:00 digest for x.com and t.co lines and log the delta against the zero baseline.
+- 10-31: no X posts live yet (350-353, 355 all pending), so zero X referrals is expected, not a failure. Analyst pulling the 10-31 source breakdown.
+
+## X referral watch, standing rule
+- Until at least one of 350-355 is approved and live, zero x or t.co referrals in any digest is EXPECTED. Do not flag it, do not refile a watch task.
+- The moment the first X post ships, log its timestamp here and start counting x/t.co referrals from that hour. First 48 hours after the first post is the real signal window.
+- When referrals do appear, attribute by UTM where present, t.co referrer where not, and report the split in the daily read.
