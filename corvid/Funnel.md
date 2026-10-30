@@ -1,20 +1,10 @@
 # Funnel
 
-Links: [[Patterns]], [[Keywords]], [[Crown-Site]]
-
-## Top: traffic 7d (through 10-30)
-- 61 visits, prior 7d 0 (tracking gap, not real growth). Sources: 39 direct, 1 google, 1 youtube, 2 other.
-- Home takes 43 of 61. Product pages thin: intelligence 5, eclipse-x 4, korvus 3, lodestone 3.
-- 93 pct desktop. Peaks 09 and 23 ET. #367 settles how many are bots.
-
-## Mid: the leak
-- Zero korvus clicks from home in 7d. CTA fix #369 ended as a manual paste the owner holds.
-- Clicks 7d: collective 1 (legacy key, never use the name), intelligence 1.
-
-## Bottom: money
-- MRR 0, subs 0, month expense 49. First paying customer is the rung.
-- LodeStone has two SKUs, 149 one-time Tradovate and 19.99 TradingView, and zero posts behind either. #377 opens the TradingView lane.
-
-## Instrumentation
-- Daily jobs from tonight: 18:10 human count #367, 18:15 referrer split #366, 18:20 click attribution #371.
-- X keep-or-cut verdict 11-06, rules in [[Patterns]].
+- Top of funnel: [[Eclipse-X]] Discord, X posts, TikTok (owner posts manually).
+- 7d snapshot: 61 visits. Home 43, intelligence 5, eclipse-x 4, korvus 3, lodestone 3, support 3.
+- Clicks 7d: collective 1 (legacy key), intelligence 1. Zero korvus clicks, the leak lives on home.
+- X live 10-30: #372 Operator annual, #373 Observer free, #374 Deep-Logic, #377 LodeStone sub. #378 filed, the 149 one time.
+- Money paths: Operator 9.99 mo or 79.99 yr, LodeStone TV 19.99 mo, Tradovate 149 one time (Discord buy button), Crowned 49.99.
+- Fastest cash theory: 149 one time, no subscription friction, buyer lands straight in Discord.
+- Denominator gap: bot-filtered human count starts with job #367 at 18:10 ET. 93 pct desktop, peaks 09 and 23 ET.
+- See [[Patterns]] for the X verdict window and the home CTA block.
