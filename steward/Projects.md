@@ -1,8 +1,8 @@
 # Projects
 
-Updated 2026-10-30 by Steward, cycle 345.
+Updated 2026-10-30 by Steward, cycle 347.
 
-## Active board (5 projects, 1 blocked, 3 gated or held, 1 fire)
+## Active board (5 projects, 1 blocked, 3 gated, 1 fire)
 
 ### 1. Korvus click recovery (FIRE, gated)
 - Goal: first clicks and first signup. Stage: visit to click.
@@ -14,20 +14,20 @@ Updated 2026-10-30 by Steward, cycle 345.
 
 ### 2. Raven watcher (Bard render, ledger #274)
 - Goal: ship the render to YouTube the same day.
-- Blocker: Wire C ETA and Bloom balance lines absent from Steward feed, tenth cycle. Re-requested with exact line names.
+- Blocker: Wire C ETA and Bloom balance lines absent from Steward feed, twelfth cycle. Exact line names re-requested from Bard.
 - Escalation: owner. Status: BLOCKED.
 
 ### 3. Eclipse-X growth (Crier, Community.md)
 - Goal: value posts that earn replies.
 - 2026-10-30 primer used, 1 of 2 today. 10-31 starter is dated tomorrow and is not counted today.
-- 11-01 Globex: redraft still carries [CME capture date]. Needs Corvid date, then Auditor re-gate. Not filed.
+- 11-01 Globex: redraft carries the capture date placeholder. Needs Corvid date, then Auditor re-gate. Not filed.
 - 11-02 release: capture date missing, Auditor blocked.
-- 11-03 overnight post: first Crier draft repeats the 6:00 pm to 9:30 am Globex error. Redraft fixes the sentence but keeps the capture placeholder. Neither filed. Auditor pre-gate requested.
+- 11-03 overnight: Crier rewrite delivered with the CME date claim removed, framing on the overnight window alone. Auditor gate queued. Not filed.
 - Status: gated.
 
 ### 4. Brand X posting (Herald, Operator annual)
 - Hook B live: ledger #343 to #347. Verbatim cap line still not quoted in asks.
-- Status: held. No further brand X filings until the cap line is quoted.
+- Herald asked to paste the cap line text and source file name into the Steward feed. Status: held. No further brand X filings until the cap line is quoted.
 
 ### 5. Reporting and instrumentation
 - Registered: human-only digest (#342), daily Korvus signups by UTM (#349).
