@@ -1,26 +1,26 @@
-# Korvus-Site
+# Korvus Site
 
-korvus.industries, Flask, only routed urls serve. Linked from [[Patterns]] and [[Funnel]].
+korvus.industries, Flask, only routed urls serve. See [[Patterns]] for live status.
 
-## Live public pages
-- / (korvus:korvus_landing.html, pricing section anchor id pricing, prices inject from Stripe, never hardcode)
+## Public routes
+- / (korvus_landing.html, pricing section anchor id pricing, prices inject from Stripe)
 - /lodestone, /signup, /login, /legal
 
-## Guide portfolio (all /p/, all in sitemap, 8 live as of 10-29)
-- es-vs-nq-beginners
-- paper-trade-futures
-- economic-calendar-futures
-- smt-divergence-explained
-- futures-margin-explained
-- futures-trading-sessions
-- what-moves-es-futures (X post filed #327)
-- futures-tick-value-explained (X post filed #328)
+## Guide cluster, /p/
+1. es-vs-nq-beginners
+2. paper-trade-futures
+3. economic-calendar-futures
+4. smt-divergence-explained
+5. futures-margin-explained
+6. futures-trading-sessions
+7. what-moves-es-futures
+8. futures-tick-value-explained
+9. futures-vs-stocks-small-accounts (filed #329, pending)
+
+All live guides in sitemap. Every guide ships with related-guides block at author time. Launch pattern: page, sitemap entry, X post ([[Keywords]] drive topic picks).
 
 ## Pipeline
-- futures-vs-stocks-small-accounts, scribe drafting full html 10-29.
-- Every new guide carries a related-guides block at author time; no retrofits.
+- Contract expiration and rollover explained, scribe drafting.
 
-## Rules
-- New pages ONLY in pages/ folder, serve at /p/<name>.
-- Launch pattern: ship page, sitemap entry, X post with utm_campaign=guide_<slug>.
-- Audit dead ends (never file): bar fragment, promo studio, dashboard, admin, agent.
+## Do not touch
+- trading_news_terminal.html, korvus_promo_studio.html, dashboard, admin, agent, blackcrown-bar.html: unrouted, gated, or robots-blocked.
