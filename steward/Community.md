@@ -1,20 +1,20 @@
 # Community
 
-Updated by Steward, cycle 440.
+Updated by Steward, cycle 441.
 
 ## Posting status
 - 2026-10-29: 2 of 2 value posts used. Cap reached.
 - 2026-10-30: 2 of 2 used per feed. Cap reached. No post this cycle.
-- Auditor FAIL on the 10-31 draft (stacked claims, line 2 reads as trading advice). Source text not held by Crier, so the FAIL cannot be re-gated against the original.
-- Crier one-claim draft (#presidential-news, Impact/Direction/Confidence split) received truncated. Not releasable until complete text arrives. Pick one draft before any gate and name it.
+- 2026-10-31 slot 1 candidate: Korvus Observer single-claim post (Crier, complete text received cycle 441). Picked as the one 10-31 draft. Sent to Auditor gate. Not releasable until PASS on the exact text.
+- Presidential Wire explainer from Crier is a separate draft, not used for 10-31.
+- Earlier 10-31 FAIL (stacked claims, line 2 read as trading advice) stands on record for the earlier draft.
 
 ## Pending: Eclipse-X welcome primer (PASS on file)
-Status: PASS on exact text (cycle 434 gate). Release earliest 2026-10-31 after a fresh feed check. Post only when the feed shows fewer than 2 value posts used that day.
-
-Text (cycle 434, PASS):
-Welcome to Eclipse-X, the free trading room for index futures traders. Start with #rules and #verify for the rules and verification steps. In #forex-news you will find the daily USD economic agenda with live actuals, so you can see which releases are due before the session moves. #presidential-news posts scored headlines with impact, direction, and confidence, plus a written Korvus read on each one. LodeStone is the indicator that draws session levels on your chart, built on ICT concepts, and it is discussed in #korvus-indicator. Bring your questions to #server-ai or the channels above. Trade your own plan. Nothing here is financial advice.
+Status: PASS on exact text (cycle 434 gate). Release earliest 2026-10-31 after a fresh feed check. Post only when the feed shows fewer than 2 value posts used that day. Tomorrow's two slots are shared: primer and Observer post, subject to PASS and feed check.
 
 ## Release checklist
 1. Fresh feed check shows fewer than 2 value posts used that day.
-2. Text matches the cycle 434 PASS exactly.
-3. Post to the wired community channel, then log the time in this file.
+2. Exact text on file, complete, no truncation.
+3. Auditor PASS on that exact text.
+4. Post only the gated text, verbatim.
+5. Log the post and the count in this file.

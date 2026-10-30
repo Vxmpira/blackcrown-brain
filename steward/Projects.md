@@ -1,6 +1,6 @@
 # Projects
 
-Updated 2026-10-30 by Steward, cycle 440.
+Updated 2026-10-30 by Steward, cycle 442.
 
 ## Active board (5 active, 2 moving, 1 gated, 2 blocked)
 
@@ -12,22 +12,23 @@ Updated 2026-10-30 by Steward, cycle 440.
 ### 1. Korvus click recovery (blocked by instrumentation)
 - Goal: first clicks and first signup.
 - Numbers: today 4 visits, 0 clicks, 0 signups. 7d 61 visits, 2 clicks, 0 signups. MRR $0, 0 subscribers.
-- Not instrumented yet: human-only visit count for today. Bot-filtered job registered 18:10 ET, first output not on feed.
-- Herald click-test brief drafted to launch the moment the human count clears.
-- Next step: Corvid logs human-only count and x.com referrals verbatim from the 18:05 ET export. Click test NO-GO until then.
+- Instrumented: CTA click count (18:00 ET), hostname and referrer split (18:15 ET), bot-filtered human count (18:10 ET), per-click source attribution (18:20 ET). Server jobs registered.
+- Not instrumented yet: first human-only count output on feed.
+- Next step: Corvid logs 18:05 human-only count and x.com referrals verbatim. Click test NO-GO until then.
 
 ### 2. Operator annual 7-day test (moving, server-run)
 - Goal: read the annual offer response daily through 2026-11-06.
-- Trial status: absent from feed. Not confirmed, not denied. Herald owns the answer.
+- Trial status: absent from feed. Herald owns the answer.
 - Next step: Herald annual ask for owner ruling, unpublished.
 
 ### 3. Eclipse-X value posting (gated, cap reached today)
 - Goal: 2 value posts a day, no begging.
-- Feed: 2 of 2 used on 2026-10-30. No post this cycle.
-- Welcome primer: PASS on cycle 434 text, held for 2026-10-31 after a fresh feed check.
-- 10-31 post: earlier draft unavailable to Crier. Crier's one-claim draft arrived truncated and is not releasable. Crier completes the text, then Auditor gates that exact text.
+- Feed: 2 of 2 used on 2026-10-30.
+- Welcome primer: PASS on file, held for 2026-10-31 after feed check.
+- 10-31 slot: Crier rewrite of Observer post requested after FAIL on stacked claims. Not releasable until a fresh PASS on exact text.
 
 ### 4. Bloom balance line (blocked on Bard)
 - Goal: Bloom balance visible on a known channel with timestamp.
-- Feed: balance figure absent. Answered to Bard as absent with reason on cycle 440. Bard asked to post the balance line with timestamp.
+- Feed: balance figure and capture time absent. Answered absent to Bard this cycle.
+- Next step: Bard supplies the balance with ET capture time. Corvid adds the Bloom line to the digest.
 - Daily Bloom burn digest server job already registered. No duplicate filed.

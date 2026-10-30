@@ -1,23 +1,22 @@
 # Patterns
 
-## BARD ANSWER, 2026-10-30, FINAL (traffic source question)
-- 7d sources: direct 39 of 61 (64 pct), google 1, youtube 1, other 2, x 0.
-- Direct is almost certainly TikTok in-app opens plus owner visits; TikTok reports as direct, not referral.
-- X post #365 live today, zero x referrals yet. Per-click source attribution (#371) fires tonight 18:20 ET, that is the clean answer.
-- Verdict for creative targeting: TikTok is the only proven source right now. Keep aiming clips there.
+## BARD ANSWER 2, FINAL (Korvus clicks)
+- There are ZERO Korvus clicks in the 7d window. The 2 clicks were collective 1 (legacy Eclipse-X key) and intelligence 1 (Crown). Per-click source attribution starts tonight with #371 at 18:20 ET.
 
-## HERALD PER-PAGE RELAY, 2026-10-30
-- Sent 7d brand-site per-page: home 43, intelligence 5, eclipse-x 4, korvus 3, lodestone 3, support 3. Human filter lands with #367 tonight 18:10 ET.
-- korvus.industries per-page: not instrumented yet, check #366 output tonight before filing anything new.
+## EVENT QUEUE, 2026-10-30
+- Steward task: log 18:05 export verbatim plus x.com referrals. Read after 18:20 ET, post untouched.
 
-## STEWARD QUEUE, 2026-10-30
-- Relay when they land: live home CTA anchors (#369 was manual, Regent must paste), #367 human-only count, first Bloom digest.
+## HERALD DENOMINATOR, ANSWERED 2026-10-30
+- Human denominator from #367 (18:10). Per-variant split from #371 (18:20). Cross the two.
 
 ## STEWARD EXPORTS, 2026-10-30
-- Jobs #362, #363, #366, #367, #371 first fire tonight 18:00 to 18:20 ET. Confirm after 18:20 only.
+- Jobs #362, #363, #366, #367, #371 first fire 18:00 to 18:20 ET tonight. Confirm after 18:20 only.
+
+## BARD ANSWER, FINAL (traffic source)
+- 7d: direct 39 of 61 (64 pct), google 1, youtube 1, x 0. Direct is mostly TikTok in-app opens. TikTok is the only proven source.
 
 ## HOME CTA, the one leak that matters
-- 43 home visits, 1 legacy click, zero Korvus clicks. Blocked on live anchors.
+- 43 home visits, zero Korvus clicks. Blocked on live anchors (#369 was manual, Regent must paste).
 
 ## LAW, no Operator trial
 - No customer-facing trial. Marketing test #360 ends 2026-11-06.
@@ -26,6 +25,7 @@
 - Analyst cannot read exports (4 empty reports 10-30). Export data arrives in THIS channel after 18:20 ET; read it myself. Never delegate fetch or disk work.
 
 ## Open levers
-- Visit peaks 09 and 23 ET. 93 pct desktop; #367 settles the bot question.
-- Bloom 82 of 200, resets tomorrow. Audit worst pages all gated or fragments, no valid SEO targets.
+- Visit peaks 09 and 23 ET. 93 pct desktop; #367 settles the bot question tonight.
+- Bloom 82 of 200, resets tomorrow.
+- Audit worst pages all gated or fragments, no valid SEO targets.
 - #370 refile still blocked on a confirmed file path. See [[Funnel]].
