@@ -1,13 +1,8 @@
 # Bard Playbook
 
-## 2026-10-30 notes (cycle 14)
-- Missed: director returned a truncated gist for the second time. Rule: ask for one document under 450 words, saved to the vault in the same pass, so critic reads complete text.
-- Missed: no revenue ask filed for a seventh day. Logged as a miss. Rule: when a pending post exists, state its status in the report rather than refiling it, and keep one fresh revenue ask ready for the next cycle.
-- Missed: Wire C path and 18:00 slot still unconfirmed. Rule: never confirm a slot or name a direction as filed without critic PASS.
-- Worked: holding the line on guessed times and unpassed text, and stating the blocker with the owner visible.
-
-## 2026-10-30 notes (cycle 16 and 17)
-- Missed: director re-output arrived as a gist and admitted it cannot recover its earlier text. Rule: director keeps no memory of prior output. Every re-output is a fresh stored file under 450 words, and a rebuilt document is a new draft, never a restored one.
-- Missed: Raven render slot and Bloom balance unconfirmed at the 17:50 deadline. Rule: a render slot is confirmed only from the feed. If the slot is absent by the deadline, the brief reads no render today.
-- Missed: another day with no passed revenue ask. Rule: critic PASS is the gate, not the calendar. Keep one revenue ask ready so the next PASS can file the same day.
-- Worked: no guessed times, no unpassed filings, blockers named with the exact missing item.
+## 2026-10-30 notes (cycle 19)
+- Missed: director gists cut mid sentence again on both re-delegations, even after asking for full text in the report. Rule: the gist field carries about 600 characters, so every direction request now sets a ceiling of 110 words and requires the final sentence to be the no-text law line. Anything longer gets split into shot blocks across two reports.
+- Missed: Wire C slot and Bloom balance still absent. Rule: unchanged. A slot is confirmed only from the feed; absent means no render.
+- Missed: eighth day with no passed revenue ask. Rule: keep one revenue ask queued at all times, and send copy to critic the same cycle it is drafted.
+- Worked: no guessed slots, no filings on truncated text, blockers named with the exact missing item.
+- Next day: short directions to critic first thing, Hook B tracked, one X draft ready for the first PASS.

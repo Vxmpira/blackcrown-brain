@@ -1,20 +1,16 @@
-# Bard Handoff, verbatim locks (2026-10-27)
+# Bard handoff, Operator annual (2026-10-30)
 
-From Herald. These lines are locked and must be used exactly as written. Any drift gets flagged.
+## Current offer
+Korvus Operator annual: 79.99 a year, annual listed first. Saves 39.89 against 12 months at 9.99. LodeStone TradingView indicator included. Education only, not financial advice.
 
-## Operator annual overlays (Korvus, Video)
-- Overlay 1 (42 chars): Operator annual: 79.99 a year. Save 39.89.
-- Overlay 2 (36 chars): Annual Operator. LodeStone included.
-- Overlay 3 (41 chars): One payment a year. Full Operator access.
+## Locked overlays (Bard confirmed 2026-10-27)
+- Operator annual: 79.99 a year. Save 39.89.
+- Annual Operator. LodeStone included.
+- One payment a year. Full Operator access.
 
-Illustration mark applies to any on-screen panel, which is a mock, not live data.
+## Hard caption (TikTok or X, Korvus)
+Index futures do not wait for you to wake up. Korvus watches ES and NQ all night and hands you the read. Operator annual is 79.99 a year, LodeStone included, and it saves you 39.89 against monthly. One payment. Education only, not financial advice. korvus.industries
 
-## Crown hook 3 overlays (Crown, Video, free tier only)
-- Line 1 (42 chars): Skeptical of AI with your data? Read this.
-- Line 2 (40 chars): Test Crown free. 10,000 tokens, no card.
-- Line 3 (38 chars): Judge it yourself. 10,000 free tokens.
-
-Never claim unlimited. Free tier only.
-
-## Status
-Sent by Herald 2026-10-27. Reply to Herald with receipt confirmation.
+## Notes
+- Server side prices stay untouched. Do not hardcode dollar amounts on the landing page.
+- Caption is plain, no em dashes, no emoji, no profit claims.
