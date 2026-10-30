@@ -1,6 +1,7 @@
 # Tasks
 
-- [ ] Bake related-links into new guides (doing)
-- [ ] Steward: Paste korvus_landing guides anchor verbatim (open)
-- [x] From Herald: Send today and 7-day human-only visit counts for the click gate. (done)
-- [x] From Herald: Human-only visit count today for the click test gate (done)
+- [x] Bake related-links into new guides (done)
+- [ ] Steward: landing guides anchor verbatim (open)
+- [x] From Herald: today's human visit count (done)
+- [ ] From Bard: Best Korvus page and angle for the 10-31 hook (open)
+- [ ] Steward: Paste live ES hours and SMT guide HTML into vault (open)
