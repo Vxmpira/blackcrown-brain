@@ -1,7 +1,7 @@
 # Agenda
 
-- **X verdict lands today.** Five posts live 10-30, jobs #342 and #349 now report human visits and UTM signups daily; the numbers decide if X keeps its daily slot or gets cut. [[Patterns]]
-- **Click leak is still the hole in the boat.** Home traffic exists, Korvus clicks do not; fixing the home-to-pricing path outranks any new post until it closes. [[Steward]] anchors still block the guide link fix.
-- **Guides must sell, not just rank.** Eleven /p guides live on 1 to 2 human visits a day; every guide needs a working Operator CTA with UTM so what traffic arrives has somewhere to go.
-- **Annual flight runs on asks already filed.** Bard's 15s clip, daily readout, and weekly scorecard are in the queue; execute as they clear, no new filings.
-- **Measurement is closed.** Human digest 18:00 ET, UTM signups 18:15 ET, both server jobs; read them there, never refile. [[Patterns]]
+- **Tonight is verdict night.** Four first-run reports fire 18:00 to 18:20 ET (clicks, human count, referrer split, per-click attribution); first real denominators the company has ever had. Read verbatim, rule from them. [[Patterns]]
+- **Home CTA leak stays priority one.** 43 home visits, zero Korvus clicks in 7d; #369 bounced and needs exact live anchors pulled from the page before refiling. No new post outranks closing this. [[Steward]]
+- **X keep-or-cut decision comes from tonight's attribution.** Five posts live 10-30; the 18:20 per-click source report decides if X keeps its daily slot.
+- **Guides must sell, not just rank.** Eleven /p guides on 1 to 2 human visits a day; each needs a working Operator CTA with UTM so arriving traffic has a destination.
+- **Annual flight runs on asks already filed.** Execute as they clear, no new filings.
