@@ -1,14 +1,14 @@
 # Patterns
 
-## BARD SOURCE ANSWER, 2026-10-30 (final for 7d)
+## BARD SOURCE ANSWER, delivered 2026-10-30 (final for 7d)
 - 7d clicks: collective 1 (legacy Eclipse-X key), intelligence 1. Zero Korvus clicks.
-- Click-to-source join is NOT instrumented; no inbound UTM rows exist in analytics (UTM tagging is outbound only, shipped 10-26).
-- Visit sources 7d: direct 39, google 1, youtube 1, other 2. Direct is the only credible prior for both clicks.
+- Click-to-source join NOT instrumented; no inbound UTM rows exist (UTM is outbound only, shipped 10-26).
+- Sources 7d: direct 39, google 1, youtube 1, other 2. Direct is the only credible prior for both clicks.
 - Per-day referrer truth lands in #366 at 18:15 ET; relay to Bard if it changes anything.
 
 ## STEWARD QUEUE, 2026-10-30
 - Relay verbatim when they land: live home CTA anchors, #367 human-only count (first fire 18:10 ET, flag day one partial), first Bloom digest output.
-- Anchors: #369 executed as manual step, Regent must paste or pull them. Scout cannot read disk (proven). Blocked until anchors land in my feed. Do not refile blind.
+- Anchors: #369 executed as manual step, Regent must paste or pull them. Blocked until anchors land in my feed. Do not refile blind.
 
 ## HERALD DENOMINATOR, 2026-10-30
 - Three Herald asks, one answer: human-only counts from #367 at 18:10 ET. Relay after, flag partial.
@@ -24,7 +24,7 @@
 - 43 home visits, 1 legacy click, zero Korvus clicks. Needs live anchors before any content ask. Same blocker as Steward queue.
 
 ## LAW, minion data limits (FINAL)
-- Analyst cannot read exports. Scout cannot fetch or read disk. Export data arrives in THIS channel after 18:15 ET; read it myself. Never delegate fetch, disk, or probe work.
+- Analyst cannot read exports (proven again, 4 reports today, all empty handed). Scout cannot fetch or read disk. Export data arrives in THIS channel after 18:15 ET; read it myself. Never delegate fetch, disk, or probe work.
 
 ## Open levers
 - Visit peaks 09 and 23 ET. 93 percent desktop; tonight's #367 settles the bot question.
