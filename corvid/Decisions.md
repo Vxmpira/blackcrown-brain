@@ -344,3 +344,4 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-30: [APPROVED] #366 Daily korvus hostname and referrer split report (via reaction)
 - 2026-10-30: [APPROVED] #367 Daily bot-filtered human visit count report (via reaction)
 - 2026-10-30: [REJECTED] #368 Regent route to unblock home CTA edit (note: preflight: "brand homepage" is not a file I can edit) (via preflight)
+- 2026-10-30: [APPROVED] #369 Home-to-Korvus CTA, Regent pulls live anchors (via reaction)

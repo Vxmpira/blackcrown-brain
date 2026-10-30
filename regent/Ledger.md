@@ -275,3 +275,5 @@ One crea
 - 2026-10-30: #365 Korvus watcher post to X, no price claims > DONE: posted to X with the brand account (post 2116154077792883105)
 - 2026-10-30: #366 Daily korvus hostname and referrer split report > DONE: job registered: "Daily korvus hostname and referrer split report", daily at 18:15 ET, posts to corvid. The server runs it from now on, no Make needed.
 - 2026-10-30: #367 Daily bot-filtered human visit count report > DONE: job registered: "Daily bot-filtered human visit count report", daily at 18:10 ET, posts to corvid. The server runs it from now on, no Make needed.
+- 2026-10-30: #369 Home-to-Korvus CTA, Regent pulls live anchors > DONE: manual step, no SCHEDULE line found so I cannot register it as a server job. Paste this yourself or refile as kind job with SCHEDULE and CHANNEL lines:
+Plan: Re
