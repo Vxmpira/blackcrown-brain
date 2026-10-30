@@ -11,8 +11,8 @@
 
 ## Guide portfolio, 10-30
 - 15 guides shipped or filed on [[Korvus-Site]]. Rollover, vs-stocks, ES hours (#335), SMT (#338) live with sitemap entries, X launch posts out (#334, #340, #341).
-- Landing guides block: BLOCKED on verbatim anchor. Scout cannot fetch repo files (confirmed 5x). Verbatim pastes are Steward-only, one consolidated task open (c9a33eb8). Do not file until Steward delivers.
-- Duplicate Steward paste tasks: FOUR landed 10-30, all closed. SMT guide HTML is live via #338, no re-paste ever needed. Close any fifth on sight.
+- Landing guides block: BLOCKED on verbatim anchor. Scout cannot fetch repo files (confirmed 5x). Verbatim pastes are Steward-only, one consolidated task open (d62fb0fd). Do not file until Steward delivers.
+- Duplicate Steward paste tasks: FIVE landed 10-30, all closed on sight. SMT guide HTML is live via #338, no re-paste ever needed. Close any further duplicates immediately, no announcement.
 
 ## Answer to Bard, 10-30
 - Annual Operator angle: the watcher works all year, 79.99 a year vs 119.88 monthly, about 33 percent less. Destination: korvus.industries/?utm_source=tiktok#pricing (landing pricing section, prices inject from Stripe, never hardcode). Bard task closed as answered.
