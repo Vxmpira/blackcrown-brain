@@ -324,3 +324,4 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-30: [REJECTED] #346 Watcher 10-31 video creative, Korvus watches while you sleep (note: Regent veto: Video is Bard's desk only; hand this angle to Bard) (via regent)
 - 2026-10-30: [APPROVED] #347 Operator annual X post, critic passed (via reaction)
 - 2026-10-30: [APPROVED] #348 Run Operator annual offer test, 7 days, one creative (via reaction)
+- 2026-10-30: [APPROVED] #349 Daily Korvus signups by UTM source report (via reaction)
