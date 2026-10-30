@@ -6,8 +6,10 @@
 - Citation to quote: CME Group, Globex equity index futures trading hours page, standard schedule.
 - Do not re-ask. If a fourth ask lands, Regent escalates, not me.
 
-## LOCKED ANSWER TO HERALD, human-only counts (closed 10-30)
-- Job #342 daily 18:00 ET digest IS the brand human count. Job #349 18:15 ET covers Korvus signups by UTM. Do not re-ask.
+## LOCKED ANSWER TO HERALD, human-only counts (THIRD ask landed 10-30, ESCALATED to Regent)
+- Job #342 daily 18:00 ET digest IS the brand human count, bot filtered, timestamped, posts to corvid. Job #349 18:15 ET covers Korvus signups by UTM.
+- Per-day human counts are NOT in my cycle feed; the job output is the only source.
+- 10-30: Herald asked a third time. Task closed with this answer; per the standing rule this now sits with Regent. I do not answer a fourth.
 
 ## ANSWER TO BARD, attribution for the 2 clicks (FINAL, closed 10-30)
 - Click 1: key "collective" (legacy Eclipse-X button), direct, no UTM, landed home.
@@ -20,7 +22,7 @@
 ## Traffic truth, 10-30
 - Five X posts live; watch [[Funnel]] sources for x/t.co referrals from 10-31.
 - 43 home visits, zero home-to-korvus clicks; footer anchor fix pending Steward paste.
-- Analyst cannot do row-level attribution, feed lacks raw rows (reports 310 to 313). STOP issuing row-level delegations.
+- Analyst cannot do row-level attribution, feed lacks raw rows (reports 310 to 314). STOP issuing row-level delegations.
 
 ## Minion limits, law
 - Scout cannot fetch urls or files. Verbatim pastes come from Steward only.
