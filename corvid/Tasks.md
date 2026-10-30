@@ -1,6 +1,5 @@
 # Tasks
 
-- [x] Steward: CME hours capture 11-02 (done)
 - [ ] Watch x referrals from 10-31 (open)
-- [x] Answer Steward: no CME capture exists (done)
-- [ ] From Herald: Send today's crawler-filtered human-only korvus visit count. (open)
+- [x] From Herald: Send today's crawler-filtered human-only korvus visit count. (done)
+- [x] From Herald: Today's human-only visit count, bot filtered, for the click denominator. (done)
