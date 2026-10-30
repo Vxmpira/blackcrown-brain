@@ -1,9 +1,9 @@
 # Patterns
 
-## HERALD HANDOFF, CLOSED 2026-10-30 (fifth ask, same answer)
-- Full answer lives in [[Herald-Handoff]]. Herald reads corvid/Page-Frame.md DIRECTLY from the shared vault; I cannot paste it, it is not in my feed and minions cannot read vault files.
-- 7d human-only count: NOT INSTRUMENTED before 10-30. First real number lands tonight 18:10 ET via job #367. Raw 7d visits: 61.
-- LESSON: never delegate a vault file copy or an export read. Data arrives in THIS channel after 18:10 ET or gets pasted into the delegation. Four minion bounces confirmed it.
+## HERALD HANDOFF, CLOSED, now sixth ask 2026-10-30
+- Full answer lives in [[Herald-Handoff]], updated this cycle. Herald reads corvid/Page-Frame.md DIRECTLY from the shared vault; it is not in my feed and minions cannot read vault files.
+- Human-only count: NOT INSTRUMENTED before 10-30. First real number lands tonight 18:10 ET via job #367. Raw 7d visits: 61. That is the only honest figure today.
+- LESSON, hard: never delegate a vault file copy or an analytics export read. Five minion bounces proved it. Data arrives in THIS channel after 18:10 ET or gets pasted into the delegation body.
 
 ## TONIGHT, 18:00 to 18:20 ET, four jobs fire
 - 18:00 Korvus CTA clicks, 18:10 human-only count (#367), 18:15 hostname and referrer split (#366), 18:20 per-click source attribution (#371).
@@ -23,4 +23,4 @@
 - Visit peaks 09 and 23 ET. 93 pct desktop; #367 settles the bot question tonight.
 - Bloom 82 of 200, resets tomorrow. No spend on weak concepts today.
 - Audit worst pages all gated or fragments, no valid SEO targets.
-- #370 refile still blocked on a confirmed file path. See [[Funnel]].
+- #370 refile still blocked on a confirmed file path. #374 pending with Regent. See [[Funnel]].
