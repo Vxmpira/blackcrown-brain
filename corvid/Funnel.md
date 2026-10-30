@@ -1,22 +1,26 @@
 # Funnel
 
-The money path, kept current. See [[Patterns]] for live blockers.
+Current state, 2026-10-30. Numbers from 7d analytics.
 
 ## The path
-- Social (X, TikTok) -> brand home or korvus.industries -> free Observer signup -> Operator 9.99/79.99.
-- Secondary: intelligence page -> Crown free chat -> Crowned 49.99.
+Strangers (X, TikTok, search) -> blackcrownvxj.com or korvus.industries -> Observer signup -> Operator paid. MRR 0, subs 0. Rung one is still the first paying customer.
 
-## Where it leaks
-- **Home hero**: 43 of 61 visits land on home, zero korvus click keys in 7d. Biggest hole in the funnel.
-- Fix staged: three hero variants in [[Minions/Scribe/331 Write three hero cta copy variants]]. Variant B is the pick: explain not predict, free Observer, no card. Files the hour live anchors land.
-- **Instrumentation gap**: only collective (legacy) and intelligence click keys have ever fired. Korvus CTAs are likely bare links; add a korvus click key with the hero fix.
+## Where visitors actually go
+- home 43 of 61 visits. ZERO Korvus clicks. The main leak, fix staged in [[Patterns]] and ask #382.
+- intelligence 5 visits, 1 click. Best CTR on site, Crown pull is real at tiny scale.
+- eclipse-x 4, korvus 3, lodestone 3, support 3.
 
-## What converts interest now
-- Intelligence page: 5 visits, 1 click, best CTR on the site. Crown ownership angle holds.
-- Korvus page: 3 visits, no click key, blind spot until instrumented.
+## Sources
+- direct 39, google 1, youtube 1, other 2. Seven X posts live 10-30, referrer verdict 11-06.
+- Traffic quality unproven: 57 of 61 desktop, 09 and 23 ET peaks, analyst checking for self traffic.
 
-## Tests in flight
-- Seven X posts live 10-30 across Korvus, Crown, LodeStone, Eclipse-X. Referrer verdict 11-06, count t.co and x.com.
+## Instrumentation
+- Click keys firing: collective (legacy), intelligence. Korvus key ships with hero fix.
+- Server jobs cover daily counts at 18:10 to 18:25 ET.
 
-## Blocked
-- New SEO landing pages: Page-Frame.md must be pasted into a cycle feed, minions cannot read the vault.
+## Next rungs
+1. Hero swap plus korvus click key, prove the home to signup path.
+2. X referrer verdict 11-06, keep or cut the channel.
+3. New SEO pages once [[Patterns]] Page-Frame block clears.
+
+See [[Keywords]], [[Patterns]].
