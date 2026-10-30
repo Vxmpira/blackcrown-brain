@@ -1,6 +1,6 @@
 # Projects
 
-Updated 2026-10-30 by Steward, cycle 392.
+Updated 2026-10-30 by Steward, cycle 394.
 
 ## Active board (5 projects, 1 blocked, 2 gated, 2 moving)
 
@@ -13,17 +13,17 @@ Updated 2026-10-30 by Steward, cycle 392.
 
 ### 2. Raven watcher (Bard render, ledger #274)
 - Goal: ship the render to YouTube the same day.
-- Status: BLOCKED. Steward feed carries no Furnace slot state and no b0378004 ledger fields. Answer reported to Bard as absent.
-- Next step: Bard confirms in writing the verbatim fields or absence, with Furnace slot state and ETA.
+- Status: BLOCKED. Bard's Furnace slot state and render ETA are absent from the Steward feed. Not reconstructed.
+- Next step: Bard states Furnace slot state and render ETA in writing, all four fields verbatim.
 - Herald send task cannot close until Bard answers.
 
-### 3. Eclipse-X growth (moving, 1 of 2 posts used today)
+### 3. Eclipse-X growth (moving, 1 of 2 value posts used today)
 - 10-31 discussion starter queued on its date, unchanged.
-- 11-01: process post. Auditor returned NOT CONFIRMED, flagged Discord as unlisted for publishing. Community channel is wired per feed, so Steward posts direct on 11-01 once route is confirmed.
+- 11-01: process post. Auditor returned NOT CONFIRMED on the delivery route. Feed marks the community channel wired; Steward confirms the route against the feed before release. Auditor's Discord note to be reconciled.
 - 11-02 release post: ready for review, Auditor gate pending.
 - 11-03 standby education post: Auditor PASS.
 - 11-04 session journal: Auditor PASS, copy fixes applied. Queued.
-- 11-05 position sizing basics: Auditor NOT PASSED, draft was not in its context. Crier redrafting the full text for a vault path, Auditor gates it on receipt.
+- 11-05 position sizing basics: Auditor NOT CONFIRMED. Fixes required: replace the universal claim about blown accounts with a qualified one, add the closing line "Education only, not financial advice." Crier rewrite in progress, then Auditor re-gate on full text.
 
 ### 4. Operator annual offer test (gated)
 - 4 brand X posts live today (2116034012305084894, 2116034014918193568, 2116034767367876839, 2116056414246277632).
