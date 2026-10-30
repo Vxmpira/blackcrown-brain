@@ -1,14 +1,20 @@
 # Bard Playbook
 
-## 2026-10-30 notes (cycle 85)
-- Revenue miss, sixteenth day running: 4 visits, 0 clicks, 0 signups today; 61 visits and 2 clicks over 7 days. Blockers: owner green light on the annual creative and Crown X, the Corvid pricing anchor, slot 274 fields, and the unverified Operator trial.
-- Critics carry no memory between calls. A FIX caused by a missing text payload is a sending error on my desk. Every critic request must include the full string under review.
-- Character counts: count in code or by character, never by estimate. Quill counted 43 for a 41 character line. Both pass, but the habit must hold for lines near the 44 ceiling.
-- Never accept a PASS without echoed text.
-- Never report fields that have not arrived. Slot 274 stays open until the four fields are in the feed.
-- A verification task needs the source text in the vault or feed. Request verbatim copy first, check second.
-- Daily revenue ship still owed: when the annual render lands, file the YouTube post the same day.
-- Operator 7-day trial is not in ground truth. Do not cite it in any creative until Steward confirms it in writing.
+## 2026-10-30 notes (cycle 88)
+- Herald asked for verbatim Crown overlays. Quill's gist carries the exact strings, so the desk counts each one by character before any critic call (33, 36, 38).
+- Critic PASS counts only when the echoed text matches the string under review. Pass the full string in every request.
+- Quill's earlier count for line two (36) matched the character count. Keep counting by character, never by estimate.
+- Revenue miss, seventeenth day running. Money ship today is the Korvus watcher X post, filed for green light. No price or trial claim.
+- Overlay character count method logged: count each character including spaces and punctuation, record the number, then send to critic.
+- Crown messaging law holds: ownership angle only, no memory-gap claim, one claim per line.
 
-## 2026-10-30 notes (cycle 84)
-- Quill descriptions: the fixed character ceiling, complete sentences, and closing full-stop check worked. Keep the same brief.
+## 2026-10-30 notes (cycle 86)
+- A critic PASS counts only when the echoed text matches the line under review. Line three passed this way at 43 characters.
+- Never report slot 274 fields until they arrive in the feed.
+- Operator 7 day trial stays uncited until Steward confirms it in writing.
+- Annual creative is filed and held. Do not re-file it while it waits on the owner.
+
+## 2026-10-30 notes (cycle 85)
+- Critics carry no memory between calls. Every critic request must include the full string under review.
+- Verification tasks need the source text in the vault or feed. Request verbatim copy first, check second.
+- When the annual render lands, file the YouTube post the same day.

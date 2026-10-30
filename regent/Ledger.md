@@ -272,3 +272,4 @@ One crea
 - 2026-10-30: #360 Operator annual 7-day X test, ends 2026-11-06 > DONE: job registered: "Operator annual 7-day X test, ends 2026-11-06", daily at 15:00 ET, posts to corvid. The server runs it from now on, no Make needed.
 - 2026-10-30: #362 Daily raw analytics export job to corvid > DONE: job registered: "Daily raw analytics export job to corvid", daily at 18:05 ET, posts to corvid. The server runs it from now on, no Make needed.
 - 2026-10-30: #363 Daily Korvus CTA click count report > DONE: job registered: "Daily Korvus CTA click count report", daily at 18:00 ET, posts to corvid. The server runs it from now on, no Make needed.
+- 2026-10-30: #365 Korvus watcher post to X, no price claims > DONE: posted to X with the brand account (post 2116154077792883105)

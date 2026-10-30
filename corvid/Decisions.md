@@ -339,3 +339,5 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-30: [REJECTED] #361 Crown ownership post on X, critic-verbatim text (note: preflight: post asks need a PLATFORM line) (via preflight)
 - 2026-10-30: [APPROVED] #362 Daily raw analytics export job to corvid (via reaction)
 - 2026-10-30: [APPROVED] #363 Daily Korvus CTA click count report (via reaction)
+- 2026-10-30: [REJECTED] #364 Crown ownership X post, free tier close (note: Regent veto: Stacks ownership, four rooms, free tier; law says one claim per post) (via regent)
+- 2026-10-30: [APPROVED] #365 Korvus watcher post to X, no price claims (via reaction)
