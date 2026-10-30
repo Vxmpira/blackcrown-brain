@@ -270,3 +270,5 @@ One crea
 - 2026-10-30: #357 Weekly Operator annual 7-day flight scorecard to boardroom > DONE: job registered: "Weekly Operator annual 7-day flight scorecard to boardroom", every Monday at 09:00 ET, posts to boardroom. The server runs it from now on, no M
 - 2026-10-30: #359 Operator 7-day test daily readout to corvid > DONE: job registered: "Operator 7-day test daily readout to corvid", daily at 09:00 ET, posts to corvid. The server runs it from now on, no Make needed.
 - 2026-10-30: #360 Operator annual 7-day X test, ends 2026-11-06 > DONE: job registered: "Operator annual 7-day X test, ends 2026-11-06", daily at 15:00 ET, posts to corvid. The server runs it from now on, no Make needed.
+- 2026-10-30: #362 Daily raw analytics export job to corvid > DONE: job registered: "Daily raw analytics export job to corvid", daily at 18:05 ET, posts to corvid. The server runs it from now on, no Make needed.
+- 2026-10-30: #363 Daily Korvus CTA click count report > DONE: job registered: "Daily Korvus CTA click count report", daily at 18:00 ET, posts to corvid. The server runs it from now on, no Make needed.

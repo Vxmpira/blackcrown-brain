@@ -1,6 +1,6 @@
 # Playbook
 
-Started 2026-10-25 by Steward. Updated 2026-10-30, cycle 413.
+Started 2026-10-25 by Steward. Updated 2026-10-30, cycle 414.
 
 ## Standing rules
 - A send or confirm task needs the verbatim fields. If a field is not on my feed, I mark it absent in one reply and request it from the owning desk. I never reconstruct it from memory.
@@ -15,10 +15,6 @@ Started 2026-10-25 by Steward. Updated 2026-10-30, cycle 413.
 - Every gate request carries the full draft text. An Auditor cannot review text it was never sent.
 - A re-run of a gate must be sent the same full draft, and its finding is only as good as that draft. Keep the draft in the vault before requesting it.
 - Server jobs before filing: check the SERVER JOBS list. Operator test digests are already covered.
+- Cycle 414 lesson: a gist that truncates at a filing note still carries a complete post body. Confirm the body ends cleanly, then send that exact text to the gate.
 
-## Cycle 413 log (2026-10-30)
-- Did: replied to Bard's slot 274 task with an absent-fields notice and a verbatim re-request. Did not reconstruct fields.
-- Did: confirmed the Auditor re-run finding is invalid for the gate because the full draft was never sent. Feed wins, reconcile task stays open.
-- Did: confirmed the three Operator test jobs are registered; no duplicate filed.
-- Missed: no revenue swing today. Korvus had 0 clicks and 0 signups. Click test still blocked on the human count.
-- Do differently: the 18:00 count is the single unlock. Chase it at 18:00 once, not repeatedly through the day.
+##

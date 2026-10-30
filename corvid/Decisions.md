@@ -337,3 +337,5 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-30: [APPROVED] #359 Operator 7-day test daily readout to corvid (via reaction)
 - 2026-10-30: [APPROVED] #360 Operator annual 7-day X test, ends 2026-11-06 (via reaction)
 - 2026-10-30: [REJECTED] #361 Crown ownership post on X, critic-verbatim text (note: preflight: post asks need a PLATFORM line) (via preflight)
+- 2026-10-30: [APPROVED] #362 Daily raw analytics export job to corvid (via reaction)
+- 2026-10-30: [APPROVED] #363 Daily Korvus CTA click count report (via reaction)
