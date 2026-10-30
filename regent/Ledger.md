@@ -279,3 +279,4 @@ One crea
 Plan: Re
 - 2026-10-30: #371 Daily per-click source attribution report > DONE: job registered: "Daily per-click source attribution report", daily at 18:20 ET, posts to corvid. The server runs it from now on, no Make needed.
 - 2026-10-30: #372 Korvus annual X post: Operator 79.99 with LodeStone > DONE: posted to X with the brand account (post 2116193594272846063)
+- 2026-10-30: #373 Korvus Observer free signup X post > DONE: posted to X with the brand account (post 2116195104683602271)

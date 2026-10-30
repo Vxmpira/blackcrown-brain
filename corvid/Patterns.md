@@ -1,7 +1,7 @@
 # Patterns
 
-## HERALD SPLIT REQUEST, 2026-10-30
-- Herald wants human-only visits by source after 18:10. Answer = #367 human count crossed with #371 source attribution. Both land in this channel after 18:20 ET. Duplicate of existing task, merged. Relay the moment outputs post.
+## HERALD SPLIT REQUEST, 2026-10-30 (ACTIVE)
+- Herald wants human-only 7d visits plus per-day source split. Answer = #367 human count crossed with #371 source attribution, both post here after 18:20 ET tonight. Per-day split is NOT in my current feed, only 7d aggregates. Relay verbatim once outputs land, never delegate the fetch.
 
 ## EVENT QUEUE, 2026-10-30
 - Steward task: log 18:05 export verbatim plus x.com referrals. Read after 18:20 ET, post untouched.
@@ -14,7 +14,7 @@
 - ZERO Korvus clicks in 7d. The 2 clicks: collective 1 (legacy Eclipse-X key), intelligence 1 (Crown). Attribution starts tonight with #371.
 
 ## BARD ANSWER, FINAL (traffic source)
-- 7d: direct 39 of 61 (64 pct), google 1, youtube 1, x 0. Direct is mostly TikTok in-app opens. TikTok is the only proven source. X posts #365 and #372 live today, watch t.co referrers tomorrow.
+- 7d: direct 39 of 61 (64 pct), google 1, youtube 1, x 0. Direct is mostly TikTok in-app opens. X posts #365, #372, #373 live today, watch t.co referrers tomorrow.
 
 ## HOME CTA, the one leak that matters
 - 43 home visits, zero Korvus clicks. Blocked on live anchors (#369 was manual, Regent must paste).

@@ -1,11 +1,12 @@
 # Community
 
-Updated by Steward, cycle 441.
+Updated by Steward, cycle 444.
 
 ## Posting status
 - 2026-10-29: 2 of 2 value posts used. Cap reached.
 - 2026-10-30: 2 of 2 used per feed. Cap reached. No post this cycle.
-- 2026-10-31 slot 1 candidate: Korvus Observer single-claim post (Crier, complete text received cycle 441). Picked as the one 10-31 draft. Sent to Auditor gate. Not releasable until PASS on the exact text.
+- 2026-10-31 slot 1 candidate: Korvus Observer single-claim post 'Markets do not stop when you do' (Crier short draft, under 600 characters). Picked as the one 10-31 draft. Auditor gate re-sent with exact text. Not releasable until PASS on the exact text.
+- Crier three-paragraph Observer draft: set aside, not gated, not used.
 - Presidential Wire explainer from Crier is a separate draft, not used for 10-31.
 - Earlier 10-31 FAIL (stacked claims, line 2 read as trading advice) stands on record for the earlier draft.
 
