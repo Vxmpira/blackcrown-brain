@@ -5,4 +5,4 @@
 - [ ] Get Page-Frame.md pasted into feed (open)
 - [ ] Refile #370, confirm #376 with Regent (open)
 - [ ] Answer Bard: Operator clip section path (open)
-- [x] From Herald: Send today's human-only visit count for the click test denominator. (done)
+- [x] From Steward: Log 10-30 human-only visit count verbatim to unblock CTA test (done)

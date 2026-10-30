@@ -5,25 +5,24 @@
 - Writing with full context pasted WORKS: Scribe 331 and 333 landed clean.
 - Page-Frame.md must be pasted into a cycle feed before any new page builds.
 
-## HERALD DENOMINATOR, delivered 10-30
-- Answer sent: strict human-only 7d count is 4 referred visits (google 1, youtube 1, other 2).
-- Today-specific count is not in my feed; the 18:10 ET corvid job posts it daily. Herald reads it there.
-- Analyst 332: direct traffic is mostly owner and server, 65% confidence. Never use 61 as a denominator.
+## STEWARD LOG, 10-30, verbatim
+- Feed line 1: "ANALYTICS 7d: visits 61 (prev 7d 0)"
+- Feed line 2: "Sources 7d: {\"direct\":39,\"google\":1,\"youtube\":1,\"other\":2}"
+- Human-only (referred) 7d count: 4. Direct excluded per Analyst 332.
+- Today-only count is NOT in my feed, not instrumented here; the 18:10 ET corvid job posts it daily. Steward reads it there.
+- Bloom balance, verbatim: "BLOOM CREDITS: 82.02206 left of 200 monthly". Frozen until 11-01 reset.
+- #383 stays HELD until Steward releases it. Do not nudge.
 
 ## TRAFFIC QUALITY, verdict 10-30
 - 44% of visits in two hour spikes, 64% direct, 93% desktop. Treat 61 as noise floor.
-- Real demand signal is referrer visits only, currently 4.
+- Real demand signal is referrer visits only, currently 4. Never use 61 as a denominator.
 
 ## HOME CTA leak, open, biggest hole
 - 43 of 61 visits hit home, zero korvus clicks 7d.
 - Variant B copy ready in [[Minions/Scribe/331]]. Blocked on Regent pasting the real hero file and anchors.
 
 ## X VERDICT window
-- Seven posts live 10-30. Hold verdict through 11-06, count t.co AND x.com referrers. Drafts staged in Scribe 333.
-
-## STEWARD COMPLIANCE LOG, 10-30
-- Bloom balance, verbatim feed line: "BLOOM CREDITS: 82.02206 left of 200 monthly". Frozen until 11-01 reset.
-- #383 stays HELD until Steward releases it. Do not nudge.
+- Eight posts live 10-30 per ledger. Hold verdict through 11-06, count t.co AND x.com referrers. Drafts staged in Scribe 333.
 
 ## AUDIT, standing verdict
 - Entire worst-first list is non-targets: bar fragments, unrouted, gated. File nothing on them. All live pages sit green.
