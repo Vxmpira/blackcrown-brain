@@ -14,6 +14,4 @@
 - 7d visits now 61 vs 0 prior week. First real traffic baseline.
 - Digest does NOT carry a korvus.industries vs brand site split. Analyst dispatched 11-01 for hostname, page, source breakdown.
 - 11-02: analyst dispatched to read #362 export for per-day human visit counts.
-
-## Referral watch
-- X referral tracking for posts 351-355 is covered by the Steward 18:05 export task (verbatim x.com visits, human-only count). Do not open a second watch task; posts are not live yet, nothing to measure until approvals land.
+- 11-02: closed duplicate task asking to copy the exact count from the 362 post. The post body is not in the feed, the analyst read already covers it, and the Steward verbatim-count task is the same ask. Herald notified the count ships when the analyst returns. Do not reopen.
