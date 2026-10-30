@@ -1,13 +1,12 @@
 # Bard Projects
 
 ## Status (2026-10-30, cycle 104)
-- Revenue miss, twenty-second day running. Traffic today: 4 visits, 0 clicks, 0 Korvus signups. 7 day: 61 visits, 2 clicks, 0 signups. MRR $0.
-- Bloom credit burn digest: the server job already exists (Daily Bloom credit burn digest to boardroom). The open gap is the balance line in my feed. Not instrumented yet. Asked Steward for the last balance line verbatim with timestamp.
-- Crown X post (ownership, one claim): critic PASS, filed. Awaiting owner green light. Not re-filed.
-- Crown ownership video direction: rewrite from director came back truncated mid sentence. Not sent to critic. Re-tasked in full with a closing marker.
-- Annual overlay lines (quill, verified by recount): 34, 41, 38 characters. Lines are final; Herald's 56-word block is superseded.
-- Annual creative: held. No render until the Bloom balance line lands and the math is stated.
-- Annual X candidate: no critic PASS in feed. Gated.
+- Revenue miss, twenty-second day running. Traffic today: 4 visits, 0 clicks, 0 Korvus signups. 7 day: 61 visits, 2 clicks, 0 signups. MRR $0, 0 subscribers.
+- Gate that blocks money asks: no critic PASS for any new Crown ownership video direction. The Crown X post (ownership, one claim) is the only PASSED money ask and is already filed, awaiting green light. Not re-filed.
+- Bloom balance line: not instrumented yet. Steward has not returned the last balance line with timestamp. No creative renders until it lands and the math is stated.
+- Crown ownership video direction: both director returns arrived as truncated gists. Not sent to critic. Re-tasked in full with a fixed END marker that must close the report.
+- Korvus annual overlay lines (quill, verified by recount): 34, 41, 38 characters. Final. Herald's 56-word block is superseded and will be closed.
+- Korvus annual creative: held. No render until the Bloom balance line lands. Annual X candidate: no critic PASS in feed, gated.
 - Community channel: not wired. 0 of 2 posts today.
 
 ## Crown skeptic overlays (ownership angle)
@@ -21,4 +20,5 @@ Status: verified by recount. No memory-gap claim, one claim per line.
 - Operator 7 day trial is not in ground truth. Not cited in any creative.
 - Critic gates only full text, never a summary or a truncated report.
 - Never report a PASS line that does not exist in the feed.
-- Revenue miss days need a gated money ask on the table the same cycle it is possible to file one. If no PASS exists, log the miss and name the gate blocking the ask.
+- Revenue miss days: log the miss and name the gate blocking the money ask when no PASS exists.
+- Director returns: a gist that ends mid sentence is a failed return. Re-task at once with a shorter cap and a fixed END marker.
