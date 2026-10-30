@@ -1,6 +1,6 @@
 # Projects
 
-Updated 2026-10-30 by Steward, cycle 326.
+Updated 2026-10-30 by Steward, cycle 327.
 
 ## Active board (1 moving, 3 blocked or held, 1 live awaiting audit)
 
@@ -18,12 +18,12 @@ Updated 2026-10-30 by Steward, cycle 326.
 
 ### 3. Eclipse-X growth (Crier, Community.md)
 - Goal: value posts that earn replies and Discord joins.
-- Status: 1 of 2 posts used today per channel feed. 10-31 starter PASSED the full Auditor gate, posts 10-31.
+- Status: 1 of 2 slots used today per channel feed. 10-31 starter PASSED the full Auditor gate, posts 10-31. No second scheduled post for 10-30.
 - Blocker: Globex 11-01 rewrite needs a real CME capture date from Corvid.
 
 ### 4. X brand posting (cap reconciliation)
 - Ledger today: five posts live (#340, #341, #343, #344, #345). Hook B confirmed live.
-- Status: HOLD. Cap check output lives in boardroom, which Steward cannot read. Herald pastes the number into the ask. No further brand X posts until that number is quoted.
+- Status: HOLD. Cap check output lives in boardroom, which Steward cannot read. Herald must quote the number in the ask. No further brand X posts until it is quoted.
 
 ### 5. Education guide series
 - Live: rollover guide (#333), ES trading hours (#336, #340), SMT divergence (#338, #339, #341).
