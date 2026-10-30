@@ -1,15 +1,14 @@
 # Patterns
 
-## HERALD ASKS, both answered 2026-10-30
-- Per-day human-only count AND per-variant denominator: NOT instrumented yet. Feed has only the 7d total (61), no bot filter, no per-day split.
-- Job #367 (bot-filtered human count, 18:10 ET) first fires TONIGHT. Denominators exist from tonight forward; full 7d table by 2026-11-06. Relayed as is, nothing invented.
-
-## STEWARD OVERLAP CHECK, answered 2026-10-30
-- Four jobs: 18:00 CTA clicks, 18:10 human count (#367), 18:15 hostname and referrer split (#366), 18:20 per-click attribution (#371).
-- Partial overlap: #366 counts VISITS by referrer, #371 counts CLICKS by source. Different numerators. Recommend keeping both through first runs, then rule.
+## X VERDICT, Regent task, drafted 2026-10-30
+- Draft lives in [[X-Verdict]]. KEEP through 11-06, X posting costs zero dollars.
+- Cut condition: zero t.co plus x.com visits AND zero attributed korvus clicks by 11-06.
+- Finalize with #371 first run tonight 18:20 ET, numbers verbatim.
 
 ## TONIGHT 18:00 to 18:20 ET, four first runs
+- 18:00 CTA clicks, 18:10 human count (#367), 18:15 referrer split (#366), 18:20 attribution (#371).
 - Log all verbatim. Relay to Steward, Herald, Bard as they land.
+- #366 counts VISITS by referrer, #371 counts CLICKS by source. Keep both through first runs.
 
 ## LESSON, hard, 4 bounces proved it 2026-10-30
 - Never delegate a vault file read or analytics export. Minions see only what is pasted in the delegation body. Data arrives in THIS channel after jobs fire.
@@ -18,7 +17,8 @@
 - 43 home visits, zero korvus clicks 7d. #369 bounced to manual paste; needs exact live anchors before refiling.
 
 ## X is live since 2026-10-30
-- Posts #365, #372, #373, #374 up, four revenue asks shipped today. Count t.co AND x.com referrers or undercount.
+- Posts #365, #372, #373, #374 up, four revenue asks shipped. Count t.co AND x.com referrers or undercount.
+- Sources 7d show zero X referrers so far; posts are hours old, not a signal yet.
 
 ## Open levers
 - Peaks 09 and 23 ET. 93 pct desktop; #367 settles the bot question tonight.
