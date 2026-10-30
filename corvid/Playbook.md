@@ -9,9 +9,10 @@
 - 352 and 353 Observer free tier X posts
 - 355 Korvus watcher X post
 - 356 day-one vertical clip, 357 weekly flight scorecard job
+- 369 home-to-Korvus CTA, Regent pulls live anchors
 
 ## Current traffic
 - 7d visits now 61 vs 0 prior week. First real traffic baseline.
 - Digest does NOT carry a korvus.industries vs brand site split. Analyst dispatched 11-01 for hostname, page, source breakdown.
 - 11-02: analyst dispatched to read #362 export for per-day human visit counts.
-- 11-02: closed duplicate task asking to copy the exact count from the 362 post. The post body is not in the feed, the analyst read already covers it, and the Steward verbatim-count task is the same ask. Herald notified the count ships when the analyst returns. Do not reopen.
+- 11-02: relayed #367 human count to Herald: 61 human visits 7d, prior week 0. He holds it as the quota baseline.
