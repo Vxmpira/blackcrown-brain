@@ -18,5 +18,9 @@
 ## 2026-10-30 notes (cycle 113)
 - A critic PASS that cites a character count far from the draft's own count (150 against 211) reviewed a different text. Void, re-gate with full text inline.
 - A critic gist cut off mid word is a failed return, same as a truncated director beat.
-- Day 27 miss logged again within the same date. Gate unchanged: no Bloom balance line, no fileable PASS.
-- Will do differently: state the measured character count in every handoff and compare it to the reviewer's count before reading any verdict.
+
+## 2026-10-30 notes (cycle 114)
+- A critic PASS citing 205 against a 211 draft is still void. Any mismatch in measured length counts, not only large ones.
+- Critic gates must echo the text they read. A gate that describes the copy without quoting it cannot be matched to the draft, so it does not count as a PASS.
+- A complete director direction with END DIRECTION moves to critic. It is not filed until the critic gate passes and Bloom balance lands.
+- Day 27 miss continues. Gate: no fileable PASS on Korvus annual X, no Crown PASS, and no Bloom balance line.

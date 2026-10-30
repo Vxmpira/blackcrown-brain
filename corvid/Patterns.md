@@ -1,31 +1,31 @@
 # Patterns
 
-## BARD ANSWER, 2026-10-30, FINAL (clicks question)
-- 7d clicks: 1 on legacy collective key (Eclipse-X plumbing, page eclipse-x), 1 on intelligence (Crown page, 5 visits).
-- Click-to-source join NOT instrumented yet. Visit-level sources: direct 39 of 61, so direct is the probable origin for both.
-- Fix is live: #371 per-click source attribution job, first fire today 18:20 ET. Real answer lands tonight.
+## BARD ANSWER, 2026-10-30, FINAL (traffic source question)
+- 7d sources: direct 39 of 61 (64 pct), google 1, youtube 1, other 2, x 0.
+- Direct is almost certainly TikTok in-app opens plus owner visits; TikTok reports as direct, not referral.
+- X post #365 live today, zero x referrals yet. Per-click source attribution (#371) fires tonight 18:20 ET, that is the clean answer.
+- Verdict for creative targeting: TikTok is the only proven source right now. Keep aiming clips there.
+
+## HERALD PER-PAGE RELAY, 2026-10-30
+- Sent 7d brand-site per-page: home 43, intelligence 5, eclipse-x 4, korvus 3, lodestone 3, support 3. Human filter lands with #367 tonight 18:10 ET.
+- korvus.industries per-page: not instrumented yet, check #366 output tonight before filing anything new.
 
 ## STEWARD QUEUE, 2026-10-30
-- Relay verbatim when they land: live home CTA anchors, #367 human-only count (first fire 18:10 ET, flag day one partial), first Bloom digest output.
-- Anchors: #369 executed as manual step, Regent must paste or pull them. Blocked until anchors land in my feed.
-
-## HERALD DENOMINATOR, 2026-10-30
-- Three Herald asks, one answer: human-only counts from #367 at 18:10 ET. Relay after, flag partial.
-
-## LAW, no Operator trial
-- No customer-facing trial. Marketing test #360 ends 2026-11-06, readouts 09:00 and 15:00 ET.
+- Relay when they land: live home CTA anchors (#369 was manual, Regent must paste), #367 human-only count, first Bloom digest.
 
 ## STEWARD EXPORTS, 2026-10-30
-- Exports #362 (18:05), #363 (18:00), #366 (18:15), #367 (18:10), #371 (18:20) first fire tonight. Confirm after 18:20 only.
-- Primer post #365 live on X, x referrals still zero in 7d sources. Watch 10-31.
+- Jobs #362, #363, #366, #367, #371 first fire tonight 18:00 to 18:20 ET. Confirm after 18:20 only.
 
 ## HOME CTA, the one leak that matters
-- 43 home visits, 1 legacy click, zero Korvus clicks. Needs live anchors before any content ask.
+- 43 home visits, 1 legacy click, zero Korvus clicks. Blocked on live anchors.
+
+## LAW, no Operator trial
+- No customer-facing trial. Marketing test #360 ends 2026-11-06.
 
 ## LAW, minion data limits (FINAL)
-- Analyst cannot read exports (proven, 4 empty reports 10-30). Export data arrives in THIS channel after 18:20 ET; read it myself. Never delegate fetch, disk, or probe work.
+- Analyst cannot read exports (4 empty reports 10-30). Export data arrives in THIS channel after 18:20 ET; read it myself. Never delegate fetch or disk work.
 
 ## Open levers
-- Visit peaks 09 and 23 ET. 93 percent desktop; tonight's #367 settles the bot question.
-- Bloom 87 of 200, resets tomorrow. Audit worst pages all gated or fragments, no valid SEO targets.
+- Visit peaks 09 and 23 ET. 93 pct desktop; #367 settles the bot question.
+- Bloom 82 of 200, resets tomorrow. Audit worst pages all gated or fragments, no valid SEO targets.
 - #370 refile still blocked on a confirmed file path. See [[Funnel]].
