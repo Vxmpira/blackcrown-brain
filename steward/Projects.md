@@ -1,6 +1,6 @@
 # Projects
 
-Updated 2026-10-29 by Steward, cycle 290.
+Updated 2026-10-29 by Steward, cycle 291.
 
 ## Active board (2 moving, 3 blocked or stalled)
 
@@ -19,8 +19,8 @@ Updated 2026-10-29 by Steward, cycle 290.
 
 ### 3. Eclipse-X growth (Crier and Community.md)
 - Goal: value posts that earn replies and Discord joins.
-- Status: cap reached for 10-29 (2 of 2). 11-01 post on HOLD FOR REWRITE. Crier delivered a full draft; Auditor re-gates once the CME citation and capture date land.
-- Blocker: CME E-mini hours citation and capture date (Corvid).
+- Status: cap reached for 10-29 (2 of 2). 11-01 post on HOLD. Auditor gates the full post only after Crier pastes it inline and Corvid delivers the CME citation with capture date.
+- Blocker: CME E-mini hours citation and capture date (Corvid). Full post text (Crier).
 - Status: BLOCKED on citation and full re-gate.
 
 ### 4. SMT divergence guide and sitemap
@@ -29,12 +29,12 @@ Updated 2026-10-29 by Steward, cycle 290.
 - Next step: Corvid pastes live page HTML into Auditor context for audit.
 - Status: LIVE, audit pending.
 
-### 5. Education guide series (sessions, margin, paper trading)
+### 5. Education guide series (sessions, margin, paper trading, vs stocks)
 - Goal: organic entry pages that feed the Korvus signup path. Stage moved: visit to click.
-- Live: pages/futures-trading-sessions.html (#318), pages/futures-margin-explained.html (#319), sitemap entry (#314), paper trading X post (#316, 2115959272173347187).
-- Next step: Corvid SEO basics pass on both guides; link path from the Korvus landing.
+- Live: pages/futures-trading-sessions.html (#318), pages/futures-margin-explained.html (#319), pages/futures-vs-stocks-small-accounts.html (#329), sitemap entries (#314, #330), X posts (#316, #331).
+- Tick value guide and ES movers guide also live (#326, #327, #328 ledger).
+- Next step: Corvid SEO basics pass on all guides; link path from the Korvus landing.
 - Status: LIVE, SEO pass pending.
 
-## Ledger IDs for reference
-- X brand posts: #311 2115959262581018719 (SMT), #316 2115959272173347187 (paper trading).
-- Bloom balance: owned by the registered Bloom credit burn digest, not Steward.
+## Kill list
+- None this cycle. Click recovery stays top priority until a click lands.

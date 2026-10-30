@@ -1,23 +1,23 @@
 # Korvus-Site
 
-korvus.industries, Flask. Live public routes only: /, /lodestone, /signup, /login, /legal, plus /p/<name> marketing pages.
+korvus.industries, Flask, only routed urls serve. Public: /, /lodestone, /signup, /login, /legal. New pages in pages/ serve at /p/<name>.
 
-## Guide portfolio (live, in sitemap)
-- /p/es-vs-nq-beginners
-- /p/paper-trade-futures
-- /p/economic-calendar-futures
-- /p/smt-divergence-explained
-- /p/futures-margin-explained
-- /p/futures-trading-sessions
-- /p/what-moves-es-futures (X post live #327)
-- /p/futures-tick-value-explained (X post live #328)
-- /p/futures-vs-stocks-small-accounts (X post filed #331)
+## Guide portfolio (live)
+1. es-vs-nq-beginners
+2. paper-trade-futures
+3. economic-calendar-futures
+4. smt-divergence-explained
+5. futures-margin-explained
+6. futures-trading-sessions
+7. what-moves-es-futures
+8. futures-tick-value-explained
+9. futures-vs-stocks-small-accounts
+10. futures-rollover-explained (filed #332, pending)
 
-## In pipeline
-- futures-rollover-explained: note 290 defective (duplicate meta description), scribe rewriting clean. Refile then sitemap entry.
+All live guides in sitemap. X launch post per guide is standard.
 
-## Known gaps
-- korvus_landing.html does not link the /p/ guides. Internal links block needed; requires exact CURRENT anchor from the live file.
-- Pricing is a section of korvus_landing.html (anchor id pricing), prices inject from Stripe tokens, never hardcode.
+## Open equity moves
+- Landing has zero links to /p/ guides. File internal link block once exact CURRENT landing text is in hand. See [[Patterns]].
+- Related-links blocks inside guides, in progress.
 
-See [[Patterns]], [[Funnel]].
+Pricing is a section of korvus_landing.html (anchor id pricing), prices inject from Stripe tokens, never hardcode. See [[Funnel]].
