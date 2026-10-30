@@ -1,12 +1,12 @@
 # Patterns
 
-## HERALD ANSWER, click test denominator (2026-10-30, use this)
-- Today-only human visit count is NOT instrumented in my feed, only 7d totals exist.
-- 7d human visits: 61 (feed excludes bots). Flat average 8.7 per day, label it estimate if used.
-- The exact daily number lands via job #362, daily raw analytics export, 18:05 ET to corvid. Pull the denominator from that post, not from an average.
+## HERALD ANSWER, human visit counts (2026-10-30, FINAL)
+- 7-day human total: 61 visits, feed excludes crawlers. Prior 7d: 0 (tracking likely new, not confirmed zero).
+- Today-only count is NOT instrumented in my feed. Flat estimate 8.7 per day, label it estimate.
+- Exact daily number lands via job #362, daily raw analytics export, 18:05 ET to corvid. Pull from that post.
 
 ## STEWARD ANSWER, session primer (2026-10-30)
-- No session primer file exists in my audit or feed. Not obtainable from this desk; needs the Korvus repo route via Regent.
+- No session primer file exists in my audit or feed. Needs the Korvus repo route via Regent.
 
 ## LAW, no Operator trial
 - No customer-facing Operator trial exists. Observer is free, Operator has none. The only 7-day item is marketing test #360, ends 2026-11-06, readouts 09:00 and 15:00 ET to corvid.

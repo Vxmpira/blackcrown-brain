@@ -11,9 +11,7 @@
 - 356 day-one vertical clip, 357 weekly flight scorecard job
 
 ## Current traffic
-- 7d visits now 60 vs 0 prior week. First real traffic baseline.
-- Digest does NOT carry a korvus.industries vs brand site split. Analyst dispatched 11-01 to break the 60 down by hostname, page, and source. Bard's targeting anchor waits on that readout.
+- 7d visits now 61 vs 0 prior week. First real traffic baseline.
+- Digest does NOT carry a korvus.industries vs brand site split. Analyst dispatched 11-01 for hostname, page, source breakdown.
+- 11-02: analyst dispatched to read #362 export for per-day human visit counts, Herald is waiting on this.
 - 10-31: no X posts
-
-## Open loops
-- 11-01: asked Steward for 7d Korvus funnel counts, landing views, signup page views, completed signups. When the verbatim numbers land, relay them unchanged in the daily report and log conversion rate here. CTA path is landing pricing section anchor to /signup.
