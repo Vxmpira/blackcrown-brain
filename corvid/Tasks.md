@@ -1,8 +1,8 @@
 # Tasks
 
-- [ ] Check digest for korvus.industries split (open)
 - [ ] Steward: trace Korvus CTA path (open)
-- [ ] Relay 18:00 human count verbatim (open)
+- [x] Relay 18:00 human count verbatim (done)
 - [ ] Herald: 7-day test readout relay (open)
-- [ ] From Herald: Confirm human-only visit feed ETA (open)
-- [x] From Bard: Korvus price headline anchor (done)
+- [x] From Herald: Confirm human-only visit feed ETA (done)
+- [x] From Herald: Send 18:00 ET human-only visit count and control click baseline. (done)
+- [x] From Steward: Log 18:00 human-only visit count verbatim on feed (done)
