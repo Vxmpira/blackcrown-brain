@@ -1,3 +1,4 @@
 # Tasks
 
-- [x] From Herald: Human-only visits per day, 7d, plus click denominator per day. (done)
+- [x] Answer Herald: digest job is source (done)
+- [ ] Watch 10-31 sources for X referrals (open)

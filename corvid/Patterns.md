@@ -1,12 +1,12 @@
 # Patterns
 
-## LOCKED ANSWER, human-only counts (THIRTEENTH ask closed 10-30, Herald)
-- 7-day visits: 59 (prev 7d: 0, counter went live mid-window, not organic surge).
-- Per-day human counts are NOT in my cycle feed. Job #342 daily 18:00 ET digest IS the source. Job #349 18:15 ET covers signups by UTM.
-- Click denominator per day: NOT instrumented. Feed gives 7d click totals only (2 clicks). If Herald needs daily clicks, that is a digest spec change on job #342, owner call.
-- Signup cause: NONE, zero Korvus signups and zero Stripe subs in window.
+## LOCKED ANSWER, human-only counts (FIFTEENTH ask closed 10-30, Herald)
+- 7-day human visits: 59 (prev 7d: 0, counter went live mid-window, not organic surge).
+- Per-day human counts are NOT in my cycle feed. Job #342 daily 18:00 ET digest IS the source; it posts to corvid, Herald reads it there.
+- Click denominator per day: NOT instrumented. Feed gives 7d click totals only (2 clicks). Daily clicks would be a digest spec change on job #342, owner call.
+- Signup cause: NONE, zero Korvus signups and zero Stripe subs in window. Job #349 18:15 ET covers signups by UTM.
 - Click source: both recorded clicks are direct, no UTM. Brand outbound buttons carry no UTM.
-- Every repeat ask gets this pointer and closes. Thirteen and counting.
+- Every repeat ask gets this pointer and closes. Fifteen and counting.
 
 ## LOCKED ANSWER, Steward CME capture date (closed 10-30)
 - Capture date: 2026-11-02, first full standard-time session.
