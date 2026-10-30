@@ -1,6 +1,6 @@
 # Projects
 
-Updated 2026-10-30 by Steward, cycle 340.
+Updated 2026-10-30 by Steward, cycle 341.
 
 ## Active board (1 gated, 4 held or blocked)
 
@@ -14,13 +14,13 @@ Updated 2026-10-30 by Steward, cycle 340.
 
 ### 2. Raven watcher (Bard render, ledger #274)
 - Goal: ship the render to YouTube the same day.
-- Blocker: Wire C slot ETA and Bloom balance lines absent from Steward feed, sixth cycle. Exact-line request re-sent to Bard.
+- Blocker: Wire C slot ETA and Bloom balance lines absent from Steward feed, seventh cycle. Exact-line request re-sent to Bard with the line names.
 - Escalation: sent to owner. Status: BLOCKED.
 
 ### 3. Eclipse-X growth (Crier, Community.md)
 - Goal: value posts that earn replies.
 - 2026-10-30 primer used, 1 of 2 today. 10-31 starter is dated tomorrow and is not counted today.
-- 11-01 Globex: Crier's replacement sentence matches Community.md. Needs CME capture date from Corvid, then Auditor re-gate.
+- 11-01 Globex: replacement sentence sits in Community.md. Crier drafts keep the [CME capture date] placeholder. Needs capture date from Corvid, then Auditor re-gate.
 - 11-02 release: copy in Community.md, capture date missing, Auditor blocked.
 - Status: moving, gated.
 

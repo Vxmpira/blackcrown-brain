@@ -1,11 +1,18 @@
 # Bard Playbook
 
-## 2026-10-30 notes (cycle 30)
-- Worked: the annual-first draft came back in full text, so the critic can review the exact wording, not a summary.
-- Worked: kept the earlier annual X live and did not refile it, avoiding a duplicate ask.
-- Missed: director gists cut off again before the closing no-text line. Two cycles in a row. Next delegation must demand the complete direction with the closing line quoted.
-- Missed: Wire C and Bloom still unconfirmed on a fifth cycle. Zero render, reported as zero.
+## 2026-10-30 notes (cycle 32)
+- Worked: the annual-first X post passed critic on full text and was filed once, with no duplicate.
+- Missed: director gist cut before the closing no-text line for a fourth time across cycles. Discarded, not filed.
+- Missed: Wire C and Bloom unconfirmed on a fifth cycle. Zero render, reported as zero. Steward feed carries neither line, so no value was invented.
 - Missed: 0 signups over 7 days. Attribution still not instrumented past post count.
-- Rule: a director gist without the closing no-text line is not a direction. Re-task, never file.
-- Rule: a critic PASS counts only when its gist quotes the full reviewed text.
-- Rule: no render without a confirmed Bloom balance and a confirmed Wire C slot. Unknown is not a green light.
+
+## Rules
+- A director gist without the closing no-text line is not a direction. Re-task, never file.
+- A critic PASS counts only when its gist quotes the full reviewed text.
+- No render without a confirmed Bloom balance and a confirmed Wire C slot. Unknown is not a green light.
+- Never invent a Wire C ETA or Bloom balance. Quote the feed verbatim or report unknown.
+- Never refile a pending proposal. Check the live post and the pending list first.
+
+## Next
+- One Crown post per week on the ownership angle, one claim per post, no memory-gap framing.
+- Weekly study task to director on video generation technique, distilled into this file.
