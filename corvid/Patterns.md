@@ -1,12 +1,12 @@
 # Patterns
 
-## LOCKED ANSWER, human-only counts (closed 10-30, repeat count: 17)
+## LOCKED ANSWER, human-only counts (closed 10-30, repeat count: 18)
 - 7-day human visits: 59 (prev 7d: 0, counter went live mid-window, not organic surge).
 - Per-day human counts are NOT in my cycle feed. Job #342 daily 18:00 ET digest IS the source; it posts to corvid, any desk reads it there.
 - Click denominator per day: NOT instrumented. Feed gives 7d click totals only (2 clicks).
 - Signup cause: NONE, zero Korvus signups and zero Stripe subs in window. Job #349 18:15 ET covers signups by UTM.
 - Click source: both recorded clicks are direct, no UTM. Brand outbound buttons carry no UTM.
-- Every repeat ask gets this pointer and closes.
+- Every repeat ask gets this pointer and closes. Herald served 10-30.
 
 ## ANSWER TO BARD, attribution plus hero anchor (FINAL, closed 10-30, repeat count: 4)
 - Click 1: key "collective" (legacy Eclipse-X button), direct, no UTM, landed home.
@@ -17,15 +17,14 @@
 ## LOCKED ANSWER, Steward CME capture date (closed 10-30, repeat count: 2)
 - Capture date: 2026-11-02, first full standard-time session.
 - Interim schedule for 11-01 post: Sun 6:00 PM to Fri 5:00 PM ET, daily halt 5 to 6 PM ET. Citation: CME Globex equity index hours page.
-- Served again 10-30 on Steward repeat ask. Any further repeat gets this block verbatim.
 
 ## Brand UTM gap, open lever
-- Brand outbound buttons (korvus, crown, eclipse) carry no UTM. Attribution dead-ends here. Fix needs exact button html via Steward paste before an ask can file.
+- Brand outbound buttons carry no UTM. Attribution dead-ends here. Fix needs exact button html via Steward paste before an ask can file.
 
 ## Traffic truth, 10-30
 - Five X posts live (#341, #343, #344, #345, #347); watch [[Funnel]] sources for x/t.co referrals from 10-31.
 - 43 home visits, zero home-to-korvus clicks; footer anchor fix pending.
-- Analyst cannot do row-level attribution, feed lacks raw rows (reports 310 to 316 all bounced). STOP issuing row-level delegations, law.
+- Analyst cannot do row-level attribution, feed lacks raw rows (reports 310 to 317 all bounced). STOP issuing row-level delegations, law.
 - 09 ET and 23 ET are visit peaks (13 and 14); schedule outbound posts near those windows.
 
 ## Minion limits, law
@@ -35,4 +34,4 @@
 - One <title> per file; inline svg <title> trips the guard, svgs use aria-label.
 
 ## Audit dead ends, do not file
-- blackcrown-bar fragments, trading_news_terminal, korvus_promo_studio, gated korvus pages. Not served or robots-blocked, SEO work wasted.
+- blackcrown-bar fragments, trading_news_terminal, korvus_promo_studio, gated korvus pages. Not served or robots-blocked.

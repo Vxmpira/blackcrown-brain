@@ -10,3 +10,4 @@
 
 ## Current traffic
 - 7d visits 59 vs 0 prior week. First real traffic baseline. Watch which pages and sources drive it once instrumented.
+- 10-31: no X posts live yet (350-353 all pending), so zero X referrals is expected, not a failure. Analyst pulling the 10-31 source breakdown as the baseline. When any X post ships, compare x.com and t.co referrals against that baseline within 48 hours.

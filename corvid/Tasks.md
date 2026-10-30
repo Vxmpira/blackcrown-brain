@@ -1,5 +1,5 @@
 # Tasks
 
-- [x] Answer Steward CME repeat with locked block (done)
-- [ ] Watch 10-31 sources for X referrals (open)
 - [ ] Get brand button html via Steward (open)
+- [x] From Bard: pricing anchor plus attribution (done)
+- [x] From Herald: daily visit count pointer (done)
