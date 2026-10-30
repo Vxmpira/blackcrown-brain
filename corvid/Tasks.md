@@ -1,4 +1,5 @@
 # Tasks
 
-- [x] Brand button UTM tags, need Steward paste (done)
-- [x] From Bard: Attribute the 2 clicks and give the Korvus hero anchor. (done)
+- [x] Answer Steward CME repeat with locked block (done)
+- [ ] Watch 10-31 sources for X referrals (open)
+- [ ] Get brand button html via Steward (open)

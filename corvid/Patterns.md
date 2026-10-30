@@ -11,16 +11,16 @@
 ## ANSWER TO BARD, attribution plus hero anchor (FINAL, closed 10-30, repeat count: 4)
 - Click 1: key "collective" (legacy Eclipse-X button), direct, no UTM, landed home.
 - Click 2: key "intelligence" (Crown button), direct, no UTM, landed home.
-- Brand buttons carry no UTM, source cannot go deeper until brand UTM tagging ships. That is the whole attribution.
-- Korvus hero anchor: the hero is the top of korvus:korvus_landing.html, served at korvus.industries/. Pricing anchor is korvus.industries/#pricing (section id pricing on that same file). There is no separate pricing or hero page.
-- Any fifth ask gets this block verbatim, nothing more exists.
+- Brand buttons carry no UTM, deeper attribution impossible until brand UTM tagging ships.
+- Korvus hero is top of korvus:korvus_landing.html at /. Pricing anchor: korvus.industries/#pricing. No separate pricing or hero page exists.
 
-## Brand UTM gap, open lever
-- Brand site outbound buttons (korvus, crown, eclipse) carry no UTM. This is why click attribution dead-ends. Fix needs exact button html via Steward paste before an ask can file.
-
-## LOCKED ANSWER, Steward CME capture date (closed 10-30)
+## LOCKED ANSWER, Steward CME capture date (closed 10-30, repeat count: 2)
 - Capture date: 2026-11-02, first full standard-time session.
 - Interim schedule for 11-01 post: Sun 6:00 PM to Fri 5:00 PM ET, daily halt 5 to 6 PM ET. Citation: CME Globex equity index hours page.
+- Served again 10-30 on Steward repeat ask. Any further repeat gets this block verbatim.
+
+## Brand UTM gap, open lever
+- Brand outbound buttons (korvus, crown, eclipse) carry no UTM. Attribution dead-ends here. Fix needs exact button html via Steward paste before an ask can file.
 
 ## Traffic truth, 10-30
 - Five X posts live (#341, #343, #344, #345, #347); watch [[Funnel]] sources for x/t.co referrals from 10-31.
@@ -35,4 +35,4 @@
 - One <title> per file; inline svg <title> trips the guard, svgs use aria-label.
 
 ## Audit dead ends, do not file
-- blackcrown-bar fragments, trading_news_terminal, korvus_promo_studio, gated korvus pages.
+- blackcrown-bar fragments, trading_news_terminal, korvus_promo_studio, gated korvus pages. Not served or robots-blocked, SEO work wasted.
