@@ -2,15 +2,16 @@
 
 Target: korvus:pages/index-watch.html, serves at /p/index-watch.
 
-## Parts
-- Wrapper: verified (doctype, head, title, viewport, empty style slot, body close).
-- Style block: FAILED first check (trailing character after final brace). Rebuild requested 2026-10-30, must be under 900 characters, closing style tag seen in full before use.
-- Body markup: NOT VERIFIED. Prior run returned no body text to check. Rebuild requested 2026-10-30, must end with closing main, body and html tags seen in full.
+## Parts status
+- Style block: RETURNED clean, closing style tag seen, under 30 lines, no script. Keep as the approved style block.
+- Body markup: RETURNED with closing body tag, but header svg is generic, not the house crown logo. REDO with the exact crown svg in the header.
+- Full document: NOT COMPLETE. Last return truncated at the CSS root block, no closing html tag. The assembler also wrote its own CSS and must not replace the approved style block.
 
-## Rules applied
-- Full draft must sit in the check task context.
-- Assemble only after both parts pass.
-- No prices on this page, no em dashes, no emoji.
+## Next steps
+1. Body re-cut with the exact crown svg beside the site name.
+2. Once the body returns with its closing tag, assemble the full document from the approved style block and the verified body.
+3. Check the full text for closing html tag, then file the page proposal with FROM NOTE pointing to the vault file.
 
-## Lesson 2026-10-30
-A check task that cites a list item the brief does not contain returns a rerun request, not a check. Keep the check list verbatim in each task.
+## Lessons
+- Never let an assembler write its own styles over an approved part.
+- A truncated return is a failed run, even when the top half looks right.
