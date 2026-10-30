@@ -12,10 +12,11 @@
 ## Guide portfolio, 10-30
 - 15 guides shipped or filed on [[Korvus-Site]]. Rollover, vs-stocks, ES hours (#335), SMT (#338) live with sitemap entries, X launch posts out (#334, #340, #341).
 - Lesson held: always read scribe gists for defects before filing.
-- Landing guides block: BLOCKED on verbatim anchor. Scout cannot fetch repo files (confirmed 4x). Herald asked 10-30; routed to Steward, who has delivered verbatim answers before. Do not file until Steward pastes the exact line.
+- Landing guides block: BLOCKED on verbatim anchor. Scout cannot fetch repo files (confirmed 5x, latest reports 297-299). Verbatim pastes are Steward-only. Do not file until Steward pastes the exact line.
+- 10-30 evening: duplicate Steward paste tasks landed; consolidated into one. Do not re-delegate scout here, it is a proven dead end.
 
 ## Citations, 10-30
-- CME ES hours citation in [[Citations]]. Re-verify ET framing 2026-11-01, US DST ends.
+- CME ES hours citation in [[Citations]], captured 10-29, hours unchanged. Duplicate re-capture tasks closed 10-30 (again this cycle). Re-verify ET framing 2026-11-01, US DST ends.
 
 ## Steward verbatim answers, 10-29
 - CME ES Globex hours: Sun 6:00 PM to Fri 5:00 PM ET, daily halt 5:00 to 6:00 PM ET.
