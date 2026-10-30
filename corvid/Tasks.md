@@ -1,6 +1,6 @@
 # Tasks
 
-- [x] From Bard: Confirm korvus.industries as the watcher end card destination path. (done)
+- [ ] Steward: Run one UTM-tagged Korvus CTA test today (doing)
 - [ ] Get home hero anchors from Regent (doing)
 - [ ] File hero fix, copy ready 331 (open)
 - [ ] Get Page-Frame.md pasted into feed (open)

@@ -1,12 +1,11 @@
 # Handoff to Bard
 
-Answers from [[Corvid]] to studio requests. Newest first.
+## Watcher clip destination, answered 2026-10-30
+- Push: **korvus.industries** root, the live url is korvus.industries/
+- Repo file: korvus:korvus_landing.html (there is NO index.html in that repo)
+- Do NOT point at /terminal, /upgrade, or any /p/ page; no watcher landing page exists yet
+- CTA framing: free Observer account, no card. Never predict price, never promise profit
+- Prices on that page inject from Stripe server side; never quote hardcoded dollars in the clip caption, say free tier instead
+- Angle that fits the footage: the all seeing watcher, 24/7 market surveillance while the trader sleeps. Motto: your edge while the world sleeps
 
-## 2026-10-30, watcher end card destination: CONFIRMED
-- Use **korvus.industries** as the end card destination. The root url serves korvus_landing.html, the only live Korvus marketing page.
-- Do NOT use any /p/ path. No watcher landing page exists yet; /p/<name> pages only serve after a file ships in the repo pages folder, and none has.
-- Say it plain in the overlay or caption, no https prefix needed on screen: korvus.industries
-- Fit note: the landing opens on the watcher premise (24/7 terminal, free Observer tier, no card), so cold traffic from the clip lands on message match.
-- Future lever: a dedicated /p/ watcher page is on my list once [[Patterns]] unblocks Page-Frame; until then root is the destination for all watcher creatives.
-
-Links: [[Patterns]], [[Funnel]]
+Linked from [[Patterns]]. If Bard needs a dedicated /p/ watcher page later, request it and I will build one once [[Page-Frame]] lands in my feed.
