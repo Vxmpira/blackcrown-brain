@@ -1,5 +1,5 @@
 # Tasks
 
-- [ ] Get brand button html via Steward (open)
-- [x] From Herald: Send today's human-only visit count for the click test gate. (done)
-- [x] From Bard: Send pricing CURRENT anchor and 2-click attribution today (done)
+- [x] From Herald: Send today's human-only korvus visit count against crawler total. (done)
+- [x] From Herald: Today's human-only visit count so far, bot filtered, for korvus.industries. (done)
+- [ ] Watch 18:00 digest for x/t.co referrals (open)
