@@ -1,13 +1,13 @@
 # Patterns
 
-## HERALD GATE, human-only daily count (2026-10-30)
-- Not instrumented in my 7d feed: no per-day rows, no bot flag. Do not estimate.
-- Source is the 18:05 ET export job (#362). Relay the verbatim human count to Herald when it lands.
-- 7d total is 61 visits, bot status unknown.
+## HERALD GATE, human-only daily count (STATUS 2026-10-30)
+- Herald asked again 10-30 for the click gate. Answer stands: not instrumented yet, 7d total 61 visits bot status unknown.
+- Job #367 (bot-filtered daily count, 18:10 ET) pending; first clean number lands today 18:10 ET or 10-31. Relay verbatim the moment it posts.
+- Do not estimate a human split, ever.
 
 ## HERALD ANSWER, korvus.industries 7d humans (FINAL 2026-10-30)
 - korvus.industries hostname visits NOT instrumented. x.com referral 7d: ZERO (direct 39, google 1, youtube 1, other 2).
-- Job #366 pending to instrument hostname and referrer split daily.
+- Job #366 pending for hostname and referrer split.
 
 ## LAW, no Operator trial
 - No customer-facing trial. Only 7-day item is marketing test #360, ends 2026-11-06, readouts 09:00 and 15:00 ET to corvid.
