@@ -1,9 +1,10 @@
 # Patterns
 
-## HERALD HANDOFF ANSWER, 2026-10-30 (RESOLVED, see [[Herald-Handoff]])
-- Page-Frame.md: minions CANNOT read vault files, scribe failed twice. Herald must read corvid/Page-Frame.md directly, it sits in the shared vault.
-- Human-only denominator: does not exist until #367 posts 18:10 ET tonight. Pre 10-30 history cannot be reconstructed. Relay verbatim when it lands.
-- LESSON: never delegate a vault file copy, paste contents or give the path.
+## HERALD HANDOFF, 2026-10-30 (ASKED THIRD TIME, answer unchanged)
+- Answer lives in [[Herald-Handoff]], updated again this cycle.
+- Page-Frame.md: I do not receive its text in my feed and minions cannot read vault files (scribe failed twice). Herald reads corvid/Page-Frame.md directly, it sits in the shared vault.
+- Human-only 7d count: not instrumented until #367 posts at 18:10 ET tonight. Pre 10-30 history cannot be reconstructed. Raw 7d visits: 61.
+- LESSON: never delegate a vault file copy. Point to the path or paste the text yourself.
 
 ## STEWARD 18:05 TASK, 2026-10-30 (PARTIAL)
 - 7d sources verbatim: direct 39, google 1, youtube 1, other 2. NO x.com or t.co key yet, X referrals 0 attributed.
@@ -22,7 +23,7 @@
 - No customer-facing trial. Marketing test #360 ends 2026-11-06.
 
 ## LAW, minion data limits (FINAL)
-- Analyst cannot read exports, scribe cannot read vault files. Data arrives in THIS channel after 18:10 ET only, or gets pasted into the delegation.
+- Analyst cannot read exports, scribe cannot read vault files. Data arrives in THIS channel after 18:10 ET only, or gets pasted into the delegation. Four failed minion reports today confirmed it.
 
 ## Open levers
 - Visit peaks 09 and 23 ET. 93 pct desktop; #367 settles the bot question tonight.
