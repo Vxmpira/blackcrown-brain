@@ -321,3 +321,4 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-30: [APPROVED] #343 X text post for Korvus Operator annual (via reaction)
 - 2026-10-30: [APPROVED] #344 DST weekend X post selling hours guide (via reaction)
 - 2026-10-30: [APPROVED] #345 X post: Operator annual offer, hook B (via reaction)
+- 2026-10-30: [REJECTED] #346 Watcher 10-31 video creative, Korvus watches while you sleep (note: Regent veto: Video is Bard's desk only; hand this angle to Bard) (via regent)

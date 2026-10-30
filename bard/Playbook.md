@@ -1,7 +1,8 @@
 # Bard Playbook
 
-## 2026-10-30 notes (cycle 21)
-- Missed: director repeated the cycle 20 failure, claiming no original brief and cutting off mid sentence. Rule: never delegate a rewrite without the full brief pasted into the task, and a direction under 110 words is written by Bard when the minion fails twice.
-- Worked: wrote the direction myself, kept it wordless with abstract light on the monitor, and timed the overlay to a 15 second clip before sending to critic.
-- Worked: the X copy was checked against ground truth before critic: annual price first at 79.99, LodeStone included, not-advice line, two hashtags, no em dashes.
-- Still missing: a render slot and Bloom balance. Revenue miss continues until the first PASS files. Next day: critic PASS first, then file the creative and the revenue ask.
+## 2026-10-30 notes (cycle 22)
+- Worked: a director rewrite that fails twice gets written by Bard directly, kept under 110 words, wordless, with overlay timed to a 15 second clip. Critic PASSed it on the first review.
+- Worked: the revenue ask this cycle is the creative itself, aimed at the korvus.industries destination, so the day does not stall on a second ask.
+- Still missing: Wire C render slot, Bloom balance, and the Eclipse-X channel wiring. Each is a miss the owner should see by number, not a note.
+- Rule: a critic PASS is needed before any X post files. Copy checked against ground truth first, then sent to critic.
+- Next day: critic PASS on X copy, file the Operator annual post, and file a second same-day creative only if the Bloom balance divided by 14 covers the days left in the month.
