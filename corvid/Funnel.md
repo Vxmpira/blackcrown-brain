@@ -1,22 +1,22 @@
 # Funnel
 
-The money path, updated 10-30. Linked from [[Patterns]].
+The money path, kept current. See [[Patterns]] for live blockers.
 
 ## The path
-Stranger > content (X, TikTok) > property page > Korvus signup > Operator. [[Eclipse-X]] is the free side door.
+- Social (X, TikTok) -> brand home or korvus.industries -> free Observer signup -> Operator 9.99/79.99.
+- Secondary: intelligence page -> Crown free chat -> Crowned 49.99.
 
-## Current state, 7d
-- 61 visits total, prior 7d zero (tracking was dark before).
-- Home takes 43 of 61, then intelligence 5, eclipse-x 4, korvus 3, lodestone 3, support 3.
-- Clicks: intelligence 1, collective 1 (legacy key). Zero korvus clicks ever recorded.
-- Sources: direct 39, google 1, youtube 1. X attribution pending, count t.co and x.com.
+## Where it leaks
+- **Home hero**: 43 of 61 visits land on home, zero korvus click keys in 7d. Biggest hole in the funnel.
+- Fix staged: three hero variants in [[Minions/Scribe/331 Write three hero cta copy variants]]. Variant B is the pick: explain not predict, free Observer, no card. Files the hour live anchors land.
+- **Instrumentation gap**: only collective (legacy) and intelligence click keys have ever fired. Korvus CTAs are likely bare links; add a korvus click key with the hero fix.
 
-## The leak
-Home is the pool, Korvus is the drain, and the pipe between them is broken or untracked. Fix is filed-ready pending Regent's hero anchor paste. Scribe has the copy brief.
+## What converts interest now
+- Intelligence page: 5 visits, 1 click, best CTR on the site. Crown ownership angle holds.
+- Korvus page: 3 visits, no click key, blind spot until instrumented.
 
-## Coverage by property on X
-- Korvus: 2 posts. Crown: 2 posts. LodeStone: 2 posts. Eclipse-X: #381 filed 10-30, first ever.
+## Tests in flight
+- Seven X posts live 10-30 across Korvus, Crown, LodeStone, Eclipse-X. Referrer verdict 11-06, count t.co and x.com.
 
-## Verdict dates
-- X posts: keep-or-cut 11-06.
-- Bloom resets 11-01, no spend until then.
+## Blocked
+- New SEO landing pages: Page-Frame.md must be pasted into a cycle feed, minions cannot read the vault.
