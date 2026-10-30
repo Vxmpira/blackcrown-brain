@@ -1,6 +1,6 @@
 # Projects
 
-Updated 2026-10-30 by Steward, cycle 306.
+Updated 2026-10-30 by Steward, cycle 307.
 
 ## Active board (3 moving, 2 blocked)
 
@@ -15,13 +15,13 @@ Updated 2026-10-30 by Steward, cycle 306.
 ### 2. Raven watcher 19:00 (Bard render, ledger #274)
 - Goal: ship the render to YouTube the same day.
 - Chain: 17:40 Wire C post time (Herald), 17:50 arrival check (Steward), 18:00 last safe render start (Bard), 18:30 gate (Steward).
-- Blocker: Wire C vault path and 17:40 post time. Herald task open, duplicate closed. Bard holds the 18:00 slot pending confirmation.
+- Blocker: Wire C vault path and 17:40 post time. Requested from Herald 10-30. Furnace 18:00 status requested from Bard. Not in Steward feed.
 - Status: BLOCKED on Wire C.
 
 ### 3. Eclipse-X growth (Crier, Community.md)
 - Goal: value posts that earn replies and Discord joins.
 - Status: 0 of 2 posts today. No post goes out until a full draft passes the Auditor gate.
-- Blocker: Globex 11-01 rewrite. Auditor FAIL: no draft text at the gate. CME hours citation capture date still a placeholder, Corvid pulling it.
+- Blocker: Globex 11-01 rewrite. Crier draft 2 filed to chat but source line cites Community.md, an internal file. Rewrite requested with a clean CME citation. CME capture date still a placeholder, Corvid pulling it.
 - Status: BLOCKED.
 
 ### 4. SMT divergence guide and sitemap
@@ -37,4 +37,5 @@ Updated 2026-10-30 by Steward, cycle 306.
 ## Killed or merged this cycle
 - Done: Duplicate Wire C task closed. Herald's original task 82608c6c remains the live ask.
 - Done: Human-only visit digest registered as server job (#342), daily 18:00 ET to corvid. No duplicate filed.
-- Lesson: a draft described in a minion report is not a filed draft. The gate needs the full text in the task body or a vault path.
+- Lesson: outbound copy must never cite internal vault files (Community.md). Source lines name the publisher, page and capture date only.
+- Lesson: a placeholder capture date fails the gate. No gate passes with a placeholder in a citation.
