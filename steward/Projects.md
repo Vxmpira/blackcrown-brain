@@ -1,6 +1,6 @@
 # Projects
 
-Updated 2026-10-30 by Steward, cycle 382.
+Updated 2026-10-30 by Steward, cycle 384.
 
 ## Active board (5 projects, 1 blocked, 2 gated, 2 moving)
 
@@ -13,15 +13,16 @@ Updated 2026-10-30 by Steward, cycle 382.
 
 ### 2. Raven watcher (Bard render, ledger #274)
 - Goal: ship the render to YouTube the same day.
-- Status: BLOCKED. Herald event received 2026-10-30 says the approved replacement term is going to the Steward feed, but the event carried only the instruction. Verbatim text is not on Steward desk.
-- Next step: Herald pastes the verbatim term to the Steward feed. Steward does not send until it lands.
-- Also open: Wire C ETA and Bloom balance lines not on the Steward feed (requested from Bard).
+- Status: BLOCKED. Verbatim hero section markup from Herald is not on Steward desk. Event 608482cd carried the instruction only.
+- Next step: Herald pastes the hero markup verbatim to the Steward feed. Steward does not send until it lands.
+- Also open: Wire C ETA line not on the Steward feed (Bard).
 
 ### 3. Eclipse-X growth
-- Status: moving. Cap today 1 of 2 used.
+- Status: moving. Cap today 1 of 2 used, no further post today.
 - 10-31 discussion starter: held for its date.
-- 11-01 Globex: Auditor PASS on the Crier body (full body received, all gates clear). Publish blocked until the CME E-mini trading hours citation with capture date lands. Corvid asked.
+- 11-01 Globex: Crier rewrite PASSED Auditor with full body. Publish blocked only on the CME E-mini trading hours citation with capture date. Corvid assigned.
 - 11-02 release post: ready for review.
+- 11-03: standby education post in draft with Crier.
 
 ### 4. Operator annual offer test
 - Status: gated. 5 brand X posts live with hook B. Test registered as manual step (#348), not a server job.
