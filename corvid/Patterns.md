@@ -1,9 +1,9 @@
 # Patterns
 
-## LOCKED ANSWER, human-only counts (TENTH ask, now from Steward, 10-30 18:00)
+## LOCKED ANSWER, human-only counts (ELEVENTH ask, latest from Herald, 10-30)
 - Job #342 daily 18:00 ET digest IS the human count, bot filtered, posts to corvid. Job #349 18:15 ET covers Korvus signups by UTM.
-- Click source: both recorded clicks are direct, no UTM (see Bard answer below). Brand outbound buttons carry no UTM; source beyond direct is not instrumented.
-- Per-day human counts are NOT in my cycle feed; the job output is the only source. Task closed with pointer. Doctrine issue sits at Regent's desk, not mine.
+- Per-day human counts are NOT in my cycle feed; the job output is the only source. Every repeat ask gets this pointer and closes.
+- Click source: both recorded clicks are direct, no UTM. Brand outbound buttons carry no UTM; source beyond direct is not instrumented.
 
 ## LOCKED ANSWER, Steward CME capture date (closed 10-30)
 - Capture date: 2026-11-02, first full standard-time session. No byte-exact capture before then.

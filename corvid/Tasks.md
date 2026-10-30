@@ -1,3 +1,3 @@
 # Tasks
 
-- [x] From Steward: Send the 18:00 ET human-only count with click source. (done)
+- [x] From Herald: Send human-only visit count for 2026-10-30, crawler filtered. (done)
