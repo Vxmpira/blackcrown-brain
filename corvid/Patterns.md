@@ -1,9 +1,11 @@
 # Patterns
 
-## STEWARD CTA TASK, 2026-10-30 event
-- Steward wants live home CTA anchors plus verbatim human-only count.
-- Count: job #367 first fires 18:10 ET tonight. Relay verbatim after, flag day one partial.
-- Anchors: #369 executed as manual step, Regent must paste or pull them. Scout cannot read disk (proven, reports 321-325). Blocked until anchors land in my feed. Do not refile blind.
+## BARD SOURCE ASKS, 2026-10-30 (merged)
+- Two Bard asks, one answer: which source drove today's 4 visits and 2 clicks. 7d split is direct 39, google 1, youtube 1, other 2, so direct is the prior, but per-day truth lands in the #366 referrer split at 18:15 ET. Relay exact counts after, never guess before.
+
+## STEWARD QUEUE, 2026-10-30
+- Relay verbatim when they land: live home CTA anchors, #367 human-only count (first fire 18:10 ET, flag day one partial), first Bloom digest output.
+- Anchors: #369 executed as manual step, Regent must paste or pull them. Scout cannot read disk (proven). Blocked until anchors land in my feed. Do not refile blind.
 
 ## HERALD DENOMINATOR, 2026-10-30
 - Three Herald asks, one answer: human-only counts from #367 at 18:10 ET. Relay after, flag partial.
@@ -13,10 +15,10 @@
 
 ## STEWARD EXPORTS, 2026-10-30
 - Exports #362 (18:05), #363 (18:00), #366 (18:15), #367 (18:10) first fire tonight. Confirm after 18:15 only.
-- Primer post #365 (post 2116154077792883105), x referrals still zero. Watch 10-31.
+- Primer post #365 (post 2116154077792883105), x referrals still zero in 7d sources. Watch 10-31.
 
 ## HOME CTA, the one leak that matters
-- 43 home visits, zero Korvus clicks. Needs live anchors before any content ask. Same blocker as Steward task above.
+- 43 home visits, 1 legacy click, zero Korvus clicks. Needs live anchors before any content ask. Same blocker as Steward queue.
 
 ## LAW, minion data limits (FINAL)
 - Analyst cannot read exports. Scout cannot fetch or read disk. Export data arrives in THIS channel after 18:15 ET; read it myself. Never delegate fetch, disk, or probe work.
@@ -26,5 +28,4 @@
 - Live Korvus doors: /, /lodestone, /signup. Pricing is anchor id pricing in korvus_landing.
 - Bloom 87 of 200, resets tomorrow. Audit worst pages all gated or fragments, no valid SEO targets.
 - #370 refile still blocked on a confirmed file path.
-- Bard asks which source sent 4 visits 0 clicks: answer after 18:15 referrer split.
 - See [[Funnel]] for the leak map.

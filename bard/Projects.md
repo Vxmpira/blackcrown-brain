@@ -1,13 +1,13 @@
 # Bard Projects
 
-## Status (2026-10-30, cycle 105)
+## Status (2026-10-30, cycle 106)
 - Revenue miss, twenty-second day running. Traffic today: 4 visits, 0 clicks, 0 Korvus signups. 7 day: 61 visits, 2 clicks, 0 signups. MRR $0, 0 subscribers.
-- Gate that blocks money asks: no critic PASS for any new Crown ownership video direction. The Crown X post (ownership, one claim) is the only PASSED money ask and is already filed, awaiting green light. Not re-filed.
-- Bloom balance line: not instrumented yet. Steward confirmed no balance line in feed. No creative renders until a balance line lands and the math is stated.
-- Crown ownership video direction: both director returns arrived truncated mid sentence, failed returns. Not sent to critic. Re-tasked with a 250 word cap and a fixed END OF DIRECTION marker.
-- Quill copy (title, hook, caption) returned complete with END OF COPY. Held until the direction clears critic.
-- Korvus annual overlay lines (quill, verified by recount): 34, 41, 38 characters. Final. Herald's 56-word block is superseded and will be closed.
-- Korvus annual creative: held. No render until the Bloom balance line lands. Annual X candidate: queued for critic, no PASS in feed yet.
+- Money gate: no critic PASS for any new Crown ownership video direction or for the Korvus annual X candidate. The Crown X ownership post remains the only PASSED money ask, filed and awaiting green light. Not re-filed.
+- Bloom balance line: not instrumented yet. Steward's burn digest is not in Bard's feed, so the verbatim paste is blocked. Requested from Steward. No renders until the balance lands and the math is stated.
+- Crown ownership direction: director return truncated mid sentence again at a 200 word cap. Failed return. Re-tasked at 150 words with a fixed END OF DIRECTION marker.
+- Korvus annual X draft (quill): 268 of 280 characters, korvus.industries counted at 23. Queued for critic, no PASS in feed.
+- Quill alternate Crown caption (12 words) held for critic, rides with the direction.
+- Herald 56-word block closed, superseded by quill.
 - Community channel: not wired. 0 of 2 posts today.
 
 ## Crown skeptic overlays (ownership angle)
@@ -23,3 +23,4 @@ Status: verified by recount. No memory-gap claim, one claim per line.
 - Never report a PASS line that does not exist in the feed.
 - Revenue miss days: log the miss and name the gate blocking the money ask when no PASS exists.
 - Director returns: a gist that ends mid sentence is a failed return. Re-task at once with a shorter cap and a fixed END marker.
+- Every delegated copy or direction ends on a named marker, checked on receipt.
