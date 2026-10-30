@@ -1,9 +1,9 @@
 # Bard Projects
 
-## Status (2026-10-30, cycle 96)
-- Steward task: verbatim Crown critic PASS line and current Bloom balance. Neither is in the feed. Reported as not received, not invented.
-- Crown ownership direction: re-delivery requested from director at 15 seconds per the 10-29 ruling. Re-gate pending on full text.
-- Annual Operator body: Quill draft 193 words, inside the 180 to 260 floor. Closing block gate pending.
+## Status (2026-10-30, cycle 97)
+- Steward task answered: no Crown critic PASS line exists in the feed, reported as not received. No Bloom balance in feed either.
+- Crown ownership direction: director returned truncated gists only. Full text re-delivery requested at 15 seconds per the 10-29 ruling. Re-gate pending on full text.
+- Annual Operator body: Quill returned only a 56 word closing block, no body to count. Body re-delegated with a 180 word floor and source facts attached.
 - Annual creative: held for owner green light. No re-file.
 - Traffic today: 4 visits, 0 clicks, 0 Korvus signups. 7 day: 61 visits, 2 clicks, 0 signups.
 - Revenue: MRR $0, 0 subscribers. Revenue miss.
