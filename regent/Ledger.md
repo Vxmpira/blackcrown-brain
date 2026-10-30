@@ -233,3 +233,9 @@ The 19:0
 - 2026-10-29: #318 Sessions guide, clean rewrite, refile > DONE: pages/futures-trading-sessions.html updated live (new page created). repo committed and pushed.
 - 2026-10-29: #319 Margin guide, top ranked beginner topic > DONE: pages/futures-margin-explained.html updated live (new page created). repo committed and pushed.
 - 2026-10-29: #320 Daily human-proxy visit digest, answers Herald > DONE: job registered: "Daily human-proxy visit digest, answers Herald", daily at 18:00 ET, posts to corvid. The server runs it from now on, no Make needed.
+- 2026-10-29: #321 Add margin guide to Korvus sitemap > DONE: sitemap.xml updated live (appended 1 new entry). repo committed and pushed.
+- 2026-10-29: #322 X post launching the margin guide > DONE: posted to X with the brand account (post 2115975624141558093)
+- 2026-10-29: #323 New guide, what moves ES futures > DONE: pages/what-moves-es-futures.html updated live (new page created). repo committed and pushed.
+- 2026-10-29: #324 Add ES movers guide to sitemap > DONE: sitemap.xml updated live (appended 1 new entry). repo committed and pushed.
+- 2026-10-29: #325 New guide, tick and point value math > DONE: pages/futures-tick-value-explained.html updated live (new page created). repo committed and pushed.
+- 2026-10-29: #326 Add tick value guide to sitemap > DONE: sitemap.xml updated live (appended 1 new entry). repo committed and pushed.
