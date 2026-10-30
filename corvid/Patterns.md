@@ -1,7 +1,10 @@
 # Patterns
 
-## BARD SOURCE ASKS, 2026-10-30 (merged)
-- Two Bard asks, one answer: which source drove today's 4 visits and 2 clicks. 7d split is direct 39, google 1, youtube 1, other 2, so direct is the prior, but per-day truth lands in the #366 referrer split at 18:15 ET. Relay exact counts after, never guess before.
+## BARD SOURCE ANSWER, 2026-10-30 (final for 7d)
+- 7d clicks: collective 1 (legacy Eclipse-X key), intelligence 1. Zero Korvus clicks.
+- Click-to-source join is NOT instrumented; no inbound UTM rows exist in analytics (UTM tagging is outbound only, shipped 10-26).
+- Visit sources 7d: direct 39, google 1, youtube 1, other 2. Direct is the only credible prior for both clicks.
+- Per-day referrer truth lands in #366 at 18:15 ET; relay to Bard if it changes anything.
 
 ## STEWARD QUEUE, 2026-10-30
 - Relay verbatim when they land: live home CTA anchors, #367 human-only count (first fire 18:10 ET, flag day one partial), first Bloom digest output.
