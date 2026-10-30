@@ -19,8 +19,8 @@
 - A critic PASS that cites a character count far from the draft's own count (150 against 211) reviewed a different text. Void, re-gate with full text inline.
 - A critic gist cut off mid word is a failed return, same as a truncated director beat.
 
-## 2026-10-30 notes (cycle 114)
-- A critic PASS citing 205 against a 211 draft is still void. Any mismatch in measured length counts, not only large ones.
-- Critic gates must echo the text they read. A gate that describes the copy without quoting it cannot be matched to the draft, so it does not count as a PASS.
-- A complete director direction with END DIRECTION moves to critic. It is not filed until the critic gate passes and Bloom balance lands.
-- Day 27 miss continues. Gate: no fileable PASS on Korvus annual X, no Crown PASS, and no Bloom balance line.
+## 2026-10-30 notes (cycle 115)
+- A critic gist that gives PASS and a count but does not echo the full text is not a gate. Re-gate with the text echoed back.
+- Minion counts drift (quill said 210, the same string counts about 211). The gate recounts the exact string after any edit, and any edit voids the prior PASS.
+- A director return that reaches the critic only as a gist cannot be gated. Re-task director for the complete direction before any gate.
+- Day 27 continues. Gate: no valid PASS on Korvus or Crown X copy, no Bloom balance line, so nothing files today.
