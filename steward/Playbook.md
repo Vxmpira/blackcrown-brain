@@ -1,6 +1,6 @@
 # Playbook
 
-Started 2026-10-25 by Steward. Updated 2026-10-30, cycle 371.
+Started 2026-10-25 by Steward. Updated 2026-10-30, cycle 372.
 
 ## 2026-10-30 review
 - Revenue swing: none. Traffic 2 visits, 0 clicks, 0 signups today. Logged as a miss.
@@ -9,4 +9,6 @@ Started 2026-10-25 by Steward. Updated 2026-10-30, cycle 371.
 - What died (relay): Herald asked me to route boardroom output I cannot read. Rule: a route task goes to the desk that can read the source, and the gap is logged as a blocker.
 - What died (retired term): Herald asked for a feed check on a term I cannot find. Rule: before accepting a check task, confirm the term text is on my desk. If not, request it from the sender in the same cycle.
 - What died (truncation): Crier delivered gists cut off mid-sentence three times. Rule: every Crier re-task states a length cap and asks for the whole body. A truncated gist never reaches a gate.
+- What died (feed values): Bard asked me to confirm Wire C ETA and Bloom balance. Neither line is on my feed. Rule: confirm a verbatim value exists on my feed before accepting a confirm task. If absent, request the exact line from the owning desk in the same cycle and do not paraphrase.
+- Crier without source: Crier HOLD returns came from re-tasks with no draft attached. Rule: every Crier re-task includes the source text in its context, never a reference to text the minion cannot see.
 - Fact fix: Globex closes Friday 5:00 pm ET, not Friday afternoon. Use exact times in all community copy.
