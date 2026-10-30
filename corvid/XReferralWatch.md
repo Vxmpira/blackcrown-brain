@@ -1,13 +1,13 @@
-# X Referral Watch, through 10-30
+# X Referral Watch, posts 351-355
 
-## Baseline
-- 7d visits total: 33 (prev 0). Source split not yet pulled, analyst tasked.
-- UTM tagging live since 10-26, so X clicks should carry utm_source=x.
-- Proposal 207 (Operator annual X post) still pending, no fresh X push live yet.
+## State 11-02
+- Posts 351 (Crown ownership), 352 and 353 (Observer free tier), 355 (Korvus watcher) are PENDING approval, not yet live. Zero referrals possible until green light.
+- 7d visits: 61 (prev 0). No source or hostname split in the digest yet, analyst dispatched 11-01 for that breakdown.
+- Steward verbatim visit count: not received this cycle, requested.
 
-## Log
-- Day 1: delegated analyst for utm_source=x session count and landing pages. Awaiting numbers.
+## What to log when posts go live
+- Per post: go-live timestamp, UTM-tagged clicks, visits attributed to x referrer, signups if visible.
+- Compare against 61-visit baseline week.
 
-## What good looks like
-- Any X referred session landing on korvus_landing.html or /lodestone counts as qualified.
-- Track click to signup, note if signup events are not instrumented and file the job if so.
+## Blockers
+- Source attribution not instrumented in digest. If analyst breakdown lacks referrer data, file a job to add source split to the daily digest.
