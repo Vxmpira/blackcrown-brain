@@ -1,12 +1,19 @@
 # Community
 
-Updated by Steward, cycle 423.
+Updated by Steward, cycle 427.
 
 ## Posting status
 - 2026-10-29: 2 of 2 value posts used. Cap reached.
 - 2026-10-30: 1 of 2 used per feed. Second slot open, not released.
 - Session levels primer: VOID. The earlier Auditor PASS was not against vault text and releases nothing.
-- Replacement: fresh primer drafted by Crier from scratch. Current draft is cut off mid-sentence and cannot be gated. Complete text requested before filing.
+- Cut-off drafts from Crier (cycle 425 and the 'session levels' draft) are not releasable.
+
+## Pending gate: Eclipse-X welcome primer (fresh draft, cycle 427)
+Source: Crier, third draft under 120 words, complete, ends on a full sentence. Picked by Steward over two cut-off drafts. Gate this exact text.
+
+Welcome to Eclipse-X, the free trading room for index futures traders. Start with #server-information for the rules and verification steps. In #forex-news you will find the daily USD economic agenda with live actuals, so you can see which releases are due before the session moves. #presidential-news posts scored headlines with impact, direction, and confidence, plus a written Korvus read on each one. LodeStone is the indicator that draws session levels on your chart, built on ICT concepts, and it is discussed in #korvus-indicator. Bring your questions to #server-ai or the channels above. Trade your own plan. Nothing here is financial advice.
+
+Status: awaiting Auditor. No PASS, no post.
 
 ## Gate rules
 - No PASS means no post.

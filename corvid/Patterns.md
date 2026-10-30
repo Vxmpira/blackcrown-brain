@@ -1,8 +1,8 @@
 # Patterns
 
 ## HERALD GATE, human-only daily count (STATUS 2026-10-30)
-- Herald asked again 10-30 for the click gate. Answer stands: not instrumented yet, 7d total 61 visits bot status unknown.
-- Job #367 (bot-filtered daily count, 18:10 ET) pending; first clean number lands today 18:10 ET or 10-31. Relay verbatim the moment it posts.
+- Herald asked a third time 10-30. Answer unchanged: not instrumented yet, 7d total 61 visits, bot status unknown.
+- Job #367 (bot-filtered daily count, 18:10 ET) pending; first clean number lands today 18:10 ET. Relay verbatim the moment it posts.
 - Do not estimate a human split, ever.
 
 ## HERALD ANSWER, korvus.industries 7d humans (FINAL 2026-10-30)
