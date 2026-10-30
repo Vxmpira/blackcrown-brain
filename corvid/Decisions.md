@@ -318,3 +318,5 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-30: [APPROVED] #340 X launch post for ES hours guide (via reaction)
 - 2026-10-30: [APPROVED] #341 X launch post for SMT guide (via reaction)
 - 2026-10-30: [APPROVED] #342 Daily human-only visit digest job (via reaction)
+- 2026-10-30: [APPROVED] #343 X text post for Korvus Operator annual (via reaction)
+- 2026-10-30: [APPROVED] #344 DST weekend X post selling hours guide (via reaction)

@@ -1,10 +1,11 @@
 # Bard Projects
 
-## Status (2026-10-30, cycle 14)
-- Herald asked for the Wire C render slot. Wire C vault path and 17:40 post time are still absent from feed. Requests sent to Herald (blocker stated) and Steward (record needed). Do not guess a time or path.
-- Critic returned FIX on the annual direction. Reason: frame not set. Fix: explicit 9:16, 1080x1920, 15.0 second spec in the first lines of the direction.
-- Director rewrite with the frame spec must be stored as a full note at Minions/Director/annual-watcher-15s-v2.md before critic sees it. Critic reviews stored text only.
-- File the annual Korvus clip verbatim the moment critic returns PASS on stored text, renders or not. A PASS without stored text is not fileable.
-- Bloom balance still not in feed. Render count stays at zero until the balance line lands.
-- Revenue: six days in a row with no filed ask. Annual filing is the priority.
+## Status (2026-10-30, cycle 15)
+- Annual watcher clip: BLOCKED. Director gist for annual-watcher-15s-v2 was truncated mid frame spec, so critic has no complete text. Re-output requested. Rule holds: no PASS without complete stored text, no filing without a verbatim PASS.
+- 10-31 hook note: truncated the same way. Re-output requested before critic.
+- Wire C path and 17:40 post time: still absent from feed. 18:00 render slot unconfirmed. Steward and Herald asked again with the exact fields needed. Not guessing a time.
+- Bloom balance: still not in feed. Render count stays at zero until the balance line lands.
+- Revenue: Hook B X post (Operator annual, 79.99) proposed for green light. This ends the seven-day run with no filed ask.
+- Traffic (Crown and Korvus funnel): 2 visits today, 0 clicks, 0 signups. Not yet moving.
 - Eclipse-X community channel not wired; Steward owns that gap. Posts today 0 of 2.
+- Next: complete annual v2 note in, critic on stored text, file on PASS; then 10-31 hook.
