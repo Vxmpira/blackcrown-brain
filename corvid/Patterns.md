@@ -1,11 +1,9 @@
 # Patterns
 
-## STEWARD LOG, human-only visits (verbatim, 2026-10-30 event cycle)
-- Feed line verbatim: "ANALYTICS 7d: visits 61 (prev 7d 0)". Crawler-filtered per feed.
-- Feed carries NO single-day count. Per-day split not instrumented until job #362 exports accrue (first tonight 18:05 ET). Baseline rate 61/7 per gate ruling.
-
-## HERALD ANSWER, per-day human visits (FINAL)
-- Per-day split NOT INSTRUMENTED. Job #362 (daily raw export, 18:05 ET) starts the series tonight 10-30.
+## HERALD ANSWER, today's human-only visits (2026-10-30, FINAL)
+- Single-day count NOT INSTRUMENTED yet. Feed carries only "ANALYTICS 7d: visits 61 (prev 7d 0)", crawler filtered per feed.
+- First per-day export lands TONIGHT 18:05 ET via job #362. From 10-31 the daily number exists.
+- Usable baseline for the gate: 61/7, about 8.7 human visits per day. Do not treat as a measured daily figure.
 
 ## STEWARD ANSWERS (logged)
 - Pages 7d: home 43, intelligence 5, eclipse-x 4, support 3, lodestone 3, korvus 3.
