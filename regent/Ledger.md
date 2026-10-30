@@ -284,3 +284,4 @@ Plan: Re
 - 2026-10-30: #375 Crown brief to ownership angle, drop tokens > DONE: TikTok Engine scenario 5822164 updated live, 1 occurrence(s) across 1 field(s). Raw backup saved on the server first.
 - 2026-10-30: #377 First LodeStone X post, product never pitched > DONE: posted to X with the brand account (post 2116253248411570366)
 - 2026-10-30: #378 First X post for LodeStone 149 one-time > DONE: posted to X with the brand account (post 2116262058568094057)
+- 2026-10-30: #379 Crown ownership X post, free chat CTA > DONE: posted to X with the brand account (post 2116272126172836015)
