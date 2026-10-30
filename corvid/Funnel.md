@@ -1,21 +1,20 @@
 # Funnel
 
-State of the money path, updated 2026-10-30.
+Links: [[Patterns]], [[Keywords]], [[Crown-Site]]
 
-## Top: traffic
-- 61 visits 7d, prior 7d was 0. 39 of 61 direct, google 1, youtube 1.
-- Home takes 43 of 61 visits. Peaks 09 and 23 ET, 93 pct desktop.
-- Per-day human-only count: NOT instrumented historically. #367 job (18:10 ET nightly) builds it from tonight. Herald's denominator complete by 11-06.
+## Top: traffic 7d (through 10-30)
+- 61 visits, prior 7d 0 (tracking gap, not real growth). Sources: 39 direct, 1 google, 1 youtube, 2 other.
+- Home takes 43 of 61. Product pages thin: intelligence 5, eclipse-x 4, korvus 3, lodestone 3.
+- 93 pct desktop. Peaks 09 and 23 ET. #367 settles how many are bots.
 
-## Middle: product pages
-- korvus 3, intelligence 5, lodestone 3, eclipse-x 4 visits 7d. Thin everywhere.
-- Clicks 7d: intelligence 1, collective 1 (legacy key). ZERO korvus clicks, the main leak. See [[Patterns]] HOME CTA leak.
+## Mid: the leak
+- Zero korvus clicks from home in 7d. CTA fix #369 ended as a manual paste the owner holds.
+- Clicks 7d: collective 1 (legacy key, never use the name), intelligence 1.
 
 ## Bottom: money
-- MRR 0, subs 0. Month expense 49, income 0.
-- Four X posts live 10-30 (#365, #372, #373, #374). Verdict window closes 11-06.
+- MRR 0, subs 0, month expense 49. First paying customer is the rung.
+- LodeStone has two SKUs, 149 one-time Tradovate and 19.99 TradingView, and zero posts behind either. #377 opens the TradingView lane.
 
-## Instrumentation now standing
-- #366 referrer split 18:15, #367 human count 18:10, #371 click attribution 18:20, all nightly to corvid.
-
-Links: [[Patterns]], [[Keywords]], [[Crown-Site]]
+## Instrumentation
+- Daily jobs from tonight: 18:10 human count #367, 18:15 referrer split #366, 18:20 click attribution #371.
+- X keep-or-cut verdict 11-06, rules in [[Patterns]].
