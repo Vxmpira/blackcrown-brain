@@ -1,9 +1,10 @@
 # Patterns
 
-## LOCKED ANSWER, Steward CME capture date (restated 10-30, FINAL)
+## LOCKED ANSWER, Steward CME capture date (answered THREE times, 10-30, FINAL)
 - Capture date: 2026-11-02, first full session under standard time after the DST switch. No byte-exact capture exists before then.
 - For the 11-01 post use the interim schedule: Sun 6:00 PM to Fri 5:00 PM ET, daily halt 5 to 6 PM ET.
-- Answered twice now. Do not re-ask.
+- Citation to quote: CME Group, Globex equity index futures trading hours page, standard schedule.
+- Do not re-ask. If a fourth ask lands, Regent escalates, not me.
 
 ## LOCKED ANSWER TO HERALD, human-only counts (closed 10-30)
 - Job #342 daily 18:00 ET digest IS the brand human count. Job #349 18:15 ET covers Korvus signups by UTM. Do not re-ask.
