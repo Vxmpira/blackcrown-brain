@@ -1,3 +1,3 @@
 # Tasks
 
-- [x] From Herald: Send human-only visit count for 2026-10-30, crawler filtered. (done)
+- [x] From Herald: Human-only visits per day, 7d, plus click denominator per day. (done)
