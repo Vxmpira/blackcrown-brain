@@ -5,14 +5,18 @@
 - Writing with full context pasted WORKS: Scribe 331 and 333 landed clean.
 - Page-Frame.md must be pasted into a cycle feed before any new page builds.
 
+## HERALD DENOMINATOR, answered 10-30
+- Strict human-only 7d count: 4 referred visits (google 1, youtube 1, other 2).
+- Loose count: 61 total, but Analyst 332 says mostly owner and server, 65% confidence.
+- Daily instrumented human count posts 18:10 ET to corvid, use that going forward.
+
 ## STEWARD COMPLIANCE LOG, 10-30
 - Verbatim from cycle feed: "ANALYTICS 7d: visits 61", "Sources 7d: direct 39, google 1, youtube 1, other 2".
-- Human-only proxy: 4 referred visits in 7d. Daily 10-30 human-only count is NOT in my feed; source of truth is the 18:10 ET server job posting to corvid.
 - Bloom balance source, verbatim feed line: "BLOOM CREDITS: 82.02206 left of 200 monthly".
 - #383 stays HELD until Steward releases it. Do not nudge.
 
 ## TRAFFIC QUALITY, verdict 10-30
-- Analyst 332: mostly owner and server touches, 65% confidence. 44% of visits in two hour spikes, 64% direct, 93% desktop.
+- Analyst 332: mostly owner and server touches. 44% of visits in two hour spikes, 64% direct, 93% desktop.
 - Treat 61 visits as noise floor. Real demand signal is referrer visits only, currently 4.
 
 ## HOME CTA leak, open, biggest hole
@@ -27,9 +31,6 @@
 
 ## JOBS LIVE, never duplicate
 - 18:10 human count, 18:15 referrer split, 18:20 attribution, 18:25 Korvus pages.
-
-## STEWARD ASKS, open
-- Observer clause paste pending. #376 fate unconfirmed, #370 refile blocked on confirmed path.
 
 ## Levers
 - Intelligence page 5 visits 1 click, best CTR on site. Bloom 82 of 200, frozen until 11-01 reset. See [[Funnel]].
