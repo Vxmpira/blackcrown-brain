@@ -1,19 +1,20 @@
 # Patterns
 
-## BARD ANSWER 2, FINAL (Korvus clicks)
-- There are ZERO Korvus clicks in the 7d window. The 2 clicks were collective 1 (legacy Eclipse-X key) and intelligence 1 (Crown). Per-click source attribution starts tonight with #371 at 18:20 ET.
+## HERALD SPLIT REQUEST, 2026-10-30
+- Herald wants human-only visits by source after 18:10. Answer = #367 human count crossed with #371 source attribution. Both land in this channel after 18:20 ET. Duplicate of existing task, merged. Relay the moment outputs post.
 
 ## EVENT QUEUE, 2026-10-30
 - Steward task: log 18:05 export verbatim plus x.com referrals. Read after 18:20 ET, post untouched.
-
-## HERALD DENOMINATOR, ANSWERED 2026-10-30
-- Human denominator from #367 (18:10). Per-variant split from #371 (18:20). Cross the two.
+- Bard task: per-day source relay post 18:15.
 
 ## STEWARD EXPORTS, 2026-10-30
 - Jobs #362, #363, #366, #367, #371 first fire 18:00 to 18:20 ET tonight. Confirm after 18:20 only.
 
+## BARD ANSWER 2, FINAL (Korvus clicks)
+- ZERO Korvus clicks in 7d. The 2 clicks: collective 1 (legacy Eclipse-X key), intelligence 1 (Crown). Attribution starts tonight with #371.
+
 ## BARD ANSWER, FINAL (traffic source)
-- 7d: direct 39 of 61 (64 pct), google 1, youtube 1, x 0. Direct is mostly TikTok in-app opens. TikTok is the only proven source.
+- 7d: direct 39 of 61 (64 pct), google 1, youtube 1, x 0. Direct is mostly TikTok in-app opens. TikTok is the only proven source. X posts #365 and #372 live today, watch t.co referrers tomorrow.
 
 ## HOME CTA, the one leak that matters
 - 43 home visits, zero Korvus clicks. Blocked on live anchors (#369 was manual, Regent must paste).

@@ -1,15 +1,39 @@
 # Crown Skeptic Page, closed parts
 
-Status 2026-10-30: three parts returned with closing tags seen. Wrapper (doctype, head, title, viewport, empty style slot, body close) verified earlier in vault. Assemble only after the wrapper is pulled into the vault.
+Status: style block and body markup received with closing tags seen. Head wrapper pending. Do not file a page until the head is verified in full text.
 
-## Part 1, header (closed with </header>)
-<header class="site-header"><div class="brand"><svg viewBox="0 0 36 33" fill="none" stroke="#ff2d8f" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round"><path d="M4 24 L4 9 L12 16 L18 5 L24 16 L32 9 L32 24 Z"/><path d="M8 28 L28 28"/></svg><span class="brand-name">BlackCrown Intelligence</span></div><nav class="site-nav"><a href="https://blackcrown-intelligence.com">Crown</a></nav></header>
+## Style block (closed, under 40 lines, no script)
 
-## Part 2, style (closed with </style>)
-Style block under 40 lines, defines the atmosphere layer, 1060px container, clamp headings, prose at 75ch, tablewrap overflow rail, and the grid collapse under 700px.
+<style>
+body{background:#0d0816;color:#e9e6f2}
+.bg{position:fixed;inset:0;z-index:-1;background:radial-gradient(at 15% 10%,#ff2d8f2e,#0000 40%),radial-gradient(at 85% 40%,#7b4dff33,#0000 45%),radial-gradient(#0000 55%,#0008),linear-gradient(#ffffff04 1px,#0000 1px) 0 0/56px 56px,linear-gradient(90deg,#ffffff04 1px,#0000 1px) 0 0/56px 56px}
+.wrap{max-width:1060px;margin:0 auto;padding:0 20px}
+h1,h2{font-size:clamp(1.6rem,4vw,2.6rem)}
+p{max-width:75ch}
+.tablewrap{overflow-x:auto}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:20px}
+@media(max-width:700px){.grid{grid-template-columns:1fr}}
+</style>
 
-## Part 3, body hero (closed with </main>)
-Hero section: eyebrow, h1 'Your context stays yours.', lede on privacy and free tier with no card, four chips, and an Illustration panel (Context owner, Sold, Trained on).
+## Body markup, hero (closed with </main>)
 
-## Rules applied
-Ownership angle only. No memory-gap claim. No em dashes. No dollar figures. Each part was returned separately, so no gist truncation.
+<main>
+<section class="hero">
+<p class="eyebrow">Crown by BlackCrown Intelligence</p>
+<h1>Your context stays yours.</h1>
+<p class="lede">Crown never sells your context and never trains on your chats. Judge the output yourself on the free tier, no card needed.</p>
+<div class="chips">
+<span class="chip">Private</span>
+<span class="chip">Deep logic</span>
+<span class="chip">Four rooms</span>
+<span class="chip">Free tier</span>
+</div>
+<figure class="panel" aria-label="Illustration">
+<figcaption>Illustration</figcaption>
+<p>Context owner: You<br>Sold: Never<br>Trained on: Never</p>
+</figure>
+</section>
+</main>
+
+## Next
+Head wrapper (doctype through body open, header with inline crown SVG, closing body and html) is delegated to copy. Assemble head + style + body in the page frame, then file as kind content with a FROM NOTE line.
