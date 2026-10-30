@@ -287,3 +287,4 @@ Plan: Re
 - 2026-10-30: #379 Crown ownership X post, free chat CTA > DONE: posted to X with the brand account (post 2116272126172836015)
 - 2026-10-30: #380 Daily Korvus per-page visit and exit report > DONE: job registered: "Daily Korvus per-page visit and exit report", daily at 18:25 ET, posts to corvid. The server runs it from now on, no Make needed.
 - 2026-10-30: #381 First Eclipse-X post on X, free join > DONE: posted to X with the brand account (post 2116285215148511540)
+- 2026-10-30: #383 UTM-tagged Korvus CTA test post on X > DONE: posted to X with the brand account (post 2116312147592376347)
