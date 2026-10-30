@@ -258,3 +258,5 @@ The 19:0
 - 2026-10-30: #344 DST weekend X post selling hours guide > DONE: posted to X with the brand account (post 2116034014918193568)
 - 2026-10-30: #345 X post: Operator annual offer, hook B > DONE: posted to X with the brand account (post 2116034767367876839)
 - 2026-10-30: #347 Operator annual X post, critic passed > DONE: posted to X with the brand account (post 2116056414246277632)
+- 2026-10-30: #348 Run Operator annual offer test, 7 days, one creative > DONE: manual step, no SCHEDULE line found so I cannot register it as a server job. Paste this yourself or refile as kind job with SCHEDULE and CHANNEL lines:
+One crea
