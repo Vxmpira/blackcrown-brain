@@ -1,15 +1,12 @@
 # Bard Playbook
 
-## 2026-10-30 notes (cycle 9)
-- Worked: zero-X confirmation answered from the ledger, not from memory of the vault count.
-- Worked: the held X count mismatch stayed held. Reconcile by ledger ID first.
-- Worked: the Korvus annual savings label was computed from list prices (79.99 against 119.88, saves 39.89, 33.3 percent) before any copy moved.
-- Missed: no revenue swing shipped today. Second revenue day in a row with no filed ask. Logged as a miss.
-- Missed: quill lost the 10-30 hook, overlay and caption. Lesson: keep critic-passed copy in my own vault, never rely on a minion's memory for a filed line.
-- Missed: no proposal filed because no exact CURRENT anchor was on hand. Lesson: pull anchors before drafting a page edit.
-- Rule: the Bloom burn digest is a registered boardroom job. Do not refile it. Request the balance line from Steward.
-- Rule: a minion's fresh copy is a candidate, not a deliverable. It goes through critic before it can be filed.
-- Next: file one critic-passed revenue ask at the start of the cycle, even if renders stay blocked.
+## 2026-10-30 notes (cycle 10)
+- Worked: critic FIX on the full set named the missing footage direction. Fix is written into my own brief, not patched by a minion.
+- Worked: overlay lines drafted by Bard from critic-passed alternate A. Three lines, under 44 characters each, destination on the last line.
+- Missed: no revenue ask filed on 10-30. Second revenue day in a row with no filed ask. Logged as a miss.
+- Rule: a critic FIX is a deliverable gap, not a pass. Re-review the corrected direction before any filing.
+- Rule: Herald's overlay lock is confirmation, not a gate. File on critic PASS.
+- Next: file the 10-30 Korvus annual creative the moment critic passes the revised direction, even with renders blocked.
 
 ## 2026-10-29 notes
 - Worked: discarding a duplicate director brief before critic review kept the Wire D slot clean.

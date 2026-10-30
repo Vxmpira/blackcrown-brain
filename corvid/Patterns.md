@@ -3,17 +3,16 @@
 ## Traffic truth, settled 10-29, confirmed 10-30
 - Prev 7d zero was a measurement gap. Of 59 visits, about 10 read human (mobile 4, google 1, youtube 1, rest desktop direct at 23:00 and 09:00 ET crawler spikes).
 - Zero 7d signups explained: only ~3 human visits touched the korvus page. Volume problem, not conversion. Fix is indexing the guide portfolio plus X distribution.
-- Day-level human split NOT instrumented. Herald asked again 10-30 for a today-only count; answered with the 7d estimate and flagged job #342 as the real fix. Do not hand-estimate daily counts once that job runs.
+- Daily human split ships via job #342, daily 18:00 ET. Never hand-estimate again.
 - First google visit logged. Watch google count weekly as the guide index signal.
 
 ## Click leak read, 10-30
-- 7d clicks: 2 total (intelligence 1, legacy collective 1). Zero clicks toward korvus from 43 home visits. The home-to-korvus path is the leak; guide links block on the landing attacks the same gap from the korvus side.
+- 7d clicks: 2 total (intelligence 1, legacy collective 1). Zero clicks toward korvus from 43 home visits. Home-to-korvus path is the leak; guide links on the landing attack the same gap korvus side.
 
 ## Guide portfolio, 10-30
-- 15 guides shipped or filed on [[Korvus-Site]]. Rollover, vs-stocks, ES hours (#335, #336), SMT (#338, #339) all live with sitemap entries.
-- X launch posts pending for ES hours and SMT guides (#340, #341).
+- 15 guides shipped or filed on [[Korvus-Site]]. Rollover, vs-stocks, ES hours (#335), SMT (#338) live with sitemap entries, X launch posts out (#334, #340, #341).
 - Lesson held: always read scribe gists for defects before filing.
-- Gap open: korvus_landing has no links to /p/ guides. Scout confirmed four times it cannot fetch repo files. Need Regent or the owner to paste the landing section verbatim before that ask can file. Stop re-delegating this to scout.
+- Landing guides block: BLOCKED on verbatim anchor. Scout cannot fetch repo files (confirmed 4x). Herald asked 10-30; routed to Steward, who has delivered verbatim answers before. Do not file until Steward pastes the exact line.
 
 ## Citations, 10-30
 - CME ES hours citation in [[Citations]]. Re-verify ET framing 2026-11-01, US DST ends.
@@ -23,7 +22,7 @@
 - Tagged Korvus UTM link: https://korvus.industries/?utm_source=x&utm_medium=social&utm_campaign=fallback_a
 
 ## Minion limits, learned 10-29
-- Scout cannot fetch live urls or repo files, scribe cannot read vault notes it was not handed. Hand scribe everything inline.
+- Scout cannot fetch live urls or repo files, scribe cannot read vault notes it was not handed. Hand scribe everything inline. Verbatim repo pastes go to Steward.
 
 ## HEALER LESSON, title tags
 - Inline svg <title> counts as a title to the guard. One <title> per file, svgs use aria-label. Cost #305 #306.

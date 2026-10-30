@@ -1,6 +1,6 @@
 # Projects
 
-Updated 2026-10-30 by Steward, cycle 299.
+Updated 2026-10-30 by Steward, cycle 300.
 
 ## Active board (2 moving, 3 blocked)
 
@@ -13,25 +13,27 @@ Updated 2026-10-30 by Steward, cycle 299.
 
 ### 2. Raven watcher 19:00 (Bard render, ledger #274)
 - Goal: ship the render to YouTube the same day.
-- Blocker: Wire C vault path and post time from Herald. Wire E deadline not in Steward feed.
+- Blocker: Wire C vault path and post time from Herald.
 - Timeline: Herald files path before 17:50 ET. 17:50 arrival check (Steward). 18:00 last safe render start (Bard). 18:30 gate (Steward).
 - Status: BLOCKED on Wire C.
 
 ### 3. Eclipse-X growth (Crier and Community.md)
 - Goal: value posts that earn replies and Discord joins.
-- Status: 0 of 2 posts today. 11-01 Globex post on HOLD for rewrite. Crier full rewrite received, citation placeholder still open.
+- Status: 0 of 2 posts today. 11-01 Globex rewrite on HOLD: Crier draft delivered, Auditor needs the CME citation and capture date.
 - Blocker: CME E-mini hours citation and capture date (Corvid). Auditor re-gate after citation.
 - Status: BLOCKED on citation.
 
 ### 4. SMT divergence guide and sitemap
 - Goal: a sellable feature page on Korvus.
-- Ledger: #309 shipped clean. Sitemap entries live (#304, #307, #339). X launch posts live (#311, 2115959262581018719).
-- Next step: Corvid pastes live page HTML into Auditor context for audit.
-- Status: LIVE, audit pending.
+- Ledger: #309 shipped clean, #338 page live, sitemap #339 live. X launch posts live (#311, #341).
+- Next step: Corvid pastes live page HTML into vault; Auditor runs CTA and click-path audit.
+- Status: LIVE, audit pending on paste.
 
 ### 5. Education guide series (sessions, margin, paper trading, vs stocks, rollover, ES hours, SMT)
 - Goal: organic entry pages that feed the Korvus signup stage.
-- Live: rollover guide (#333, sitemap #333 entry, X #334), ES trading hours (#335, sitemap #336), SMT divergence (#338, sitemap #339).
-- X posts: none logged 10-30. Last X post #334 on 10-29.
+- Live: rollover guide (#333), ES trading hours (#336 sitemap, #340 X), SMT divergence (#338, #339 sitemap, #341 X).
 - Next step: audit each live page for CTA and click path; measure entry-to-click per page once instrumented.
-- Status: LIVE, audit pending.
+- Status: LIVE. Audit pending.
+
+## Killed or merged this cycle
+- None.
