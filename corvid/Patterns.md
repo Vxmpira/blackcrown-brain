@@ -1,28 +1,27 @@
 # Patterns
 
-## LOCKED ANSWER, human-only counts (closed 10-30, repeat count: 42)
-- 7-day human visits in my feed: 59 (prev 7d: 0, counter went live mid-window, not organic surge). These are BRAND SITE pages (home, support, intelligence, lodestone, eclipse-x, korvus).
-- korvus.industries per-site human count: NOT instrumented in my feed. If tonight's 18:00 digest lacks a per-site split, I file a job amendment.
-- TODAY'S per-source bot-filtered count: NOT in my cycle feed. Job #342 fires 18:00 ET to corvid; I relay it verbatim to Steward and Herald the cycle after it lands. Never invent digest text.
-- 7d sources, best available answer to any per-source ask: direct 37, google 1, youtube 1, other 2. Per-day per-source: NOT in feed.
-- Signups: zero, Stripe subs zero. Job #349 18:15 ET covers signups by UTM.
+## LOCKED ANSWER, human-only counts (closed 10-30, repeat count: 44)
+- 7-day human visits in feed: 59 (prev 0, counter went live mid-window, not a surge). Brand site pages only.
+- TODAY'S bot-filtered human count: NOT in my cycle feed. Job #342 fires 18:00 ET; I relay VERBATIM to Steward and Herald after it lands. One relay covers every ask variant. Never invent digest text.
+- korvus.industries per-site split: not instrumented in feed; check tonight's digest, amend job if missing.
+- 7d sources: direct 37, google 1, youtube 1, other 2. Per-day per-source: not in feed.
+- Signups zero, Stripe subs zero. Job #349 18:15 ET covers signups by UTM. Job #359 daily 09:00 readout live.
 - Clicks 7d: 2 (collective 1, intelligence 1), both direct, no UTM.
-- Herald and Steward digest asks: all the SAME deliverable, ONE digest relay covers them all.
 
 ## LOCKED ANSWER, CME E-mini hours source (closed 10-30, repeat count: 2)
-- Source: https://www.cmegroup.com/trading-hours.html. Capture 2026-11-02 ET. Interim 11-01: Sun 6 PM to Fri 5 PM ET, daily halt 5 to 6 PM ET.
+- https://www.cmegroup.com/trading-hours.html. Capture 2026-11-02 ET. Interim: Sun 6 PM to Fri 5 PM ET, daily halt 5 to 6 PM ET.
 
-## ANSWER TO BARD, attribution plus hero and pricing anchor (FINAL, repeat count: 16, latest 10-30 task e4112865, answered again)
-- Korvus hero is top of korvus:korvus_landing.html at /. Pricing anchor: korvus.industries/#pricing, a SECTION, prices inject server side from Stripe tokens, never hardcode dollars.
-- I do NOT hold the file. Verbatim CURRENT html pastes come from Steward only. Bard must request the paste from Steward, not from me.
-- Watcher X status as of 10-30: proposal #355 (Korvus watcher X post, overnight wire angle) is PENDING owner approval, not live. Executed X posts today: #341, #343, #344, #345, #347.
+## ANSWER TO BARD, attribution plus hero and pricing anchor (FINAL, repeat count: 16)
+- Korvus hero tops korvus:korvus_landing.html at /. Pricing anchor korvus.industries/#pricing, a SECTION, prices inject from Stripe tokens, never hardcode dollars.
+- Verbatim CURRENT pastes come from Steward only, not me.
+- Watcher X post #355: EXECUTED 10-30 (post 2116133698407952571). Also live: #351, #352, #353.
 
 ## Brand UTM gap, open lever
-- Brand outbound buttons carry no UTM. Attribution dead-ends. Fix needs exact button html via Steward paste before an ask can file.
+- Brand outbound buttons carry no UTM. Attribution dead-ends. Needs Steward paste of exact button html first.
 
 ## Traffic truth, 10-30
-- Five X posts live today (#341, #343, #344, #345, #347 executed; 350 to 353, 355 pending). Watch 18:00 digest for x/t.co referrals from 10-31.
-- 43 home visits, zero home-to-korvus clicks; footer anchor fix pending.
-- Analyst CANNOT do row-level attribution, feed lacks raw rows (reports 310 to 318 ALL bounced). STOP issuing row-level delegations, law.
-- 09 ET and 23 ET are visit peaks (13 and 14 visits). Desktop 55 of 59.
-- Bloom credits 87 of 200 with one day left in month, pacing fine.
+- Nine X posts live total (#341, #343, #344, #345, #347, #351, #352, #353, #355). Watch digest for x/t.co referrals from 10-31.
+- 43 home visits, zero home-to-korvus clicks; footer anchor lever still open.
+- LAW: analyst CANNOT do row-level attribution, feed lacks raw rows, reports 310 to 318 all bounced. STOP issuing row-level delegations.
+- Peaks 09 ET and 23 ET (13 and 14 visits). Desktop 55 of 59.
+- Bloom 87 of 200 with one day left; month ends with spare credits, acceptable per budget doctrine.
