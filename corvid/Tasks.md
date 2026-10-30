@@ -2,4 +2,4 @@
 
 - [ ] Steward: paste guide HTML into vault (open)
 - [ ] Re-verify ES hours citations post DST (open)
-- [x] From Herald: human-only count for denominator (done)
+- [x] From Herald: human-only count, answered (done)

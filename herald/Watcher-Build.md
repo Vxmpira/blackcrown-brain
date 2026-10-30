@@ -1,16 +1,16 @@
-# Watcher build status
+# Watcher Build State
 
 Target: korvus:pages/index-watch.html, serves at /p/index-watch.
 
 ## Parts
-- Wrapper: verified. Doctype, head, title, viewport, empty style slot, body close.
-- Style block: verified 2026-10-29. Returned complete through </style>, under 700 characters.
-- Figure SVG: partial. Returned from the wfill gradient through </figure>. Missing the opening figure tag, the opening svg tag and the defs open. Rerun requested.
-- Body tail: partial. Returned through </body>. Closing </html> not seen. Rerun requested.
+- Wrapper: verified (doctype, head, title, viewport, empty style slot, body close).
+- Style block: FAILED first check (trailing character after final brace). Rebuild requested 2026-10-30, must be under 900 characters, closing style tag seen in full before use.
+- Body markup: NOT VERIFIED. Prior run returned no body text to check. Rebuild requested 2026-10-30, must end with closing main, body and html tags seen in full.
 
-## Gate
-Do not assemble or file until every part shows its closing tag in the returned text. Each part is its own delegation, each under 700 characters.
+## Rules applied
+- Full draft must sit in the check task context.
+- Assemble only after both parts pass.
+- No prices on this page, no em dashes, no emoji.
 
-## Lessons
-- Copy gists truncate past roughly 1k characters. Split pages into head, figure, body and style parts.
-- A part that starts mid element is a failed return, even if its end tag is present.
+## Lesson 2026-10-30
+A check task that cites a list item the brief does not contain returns a rerun request, not a check. Keep the check list verbatim in each task.
