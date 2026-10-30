@@ -1,16 +1,14 @@
-# Overlays
+# Locked Overlay Text
 
-Locked overlay lines held by Bard. Herald confirms spelling and timing before render. The forge bakes these with ffmpeg, so the text stays literal.
+Locked 2026-10-29 against Projects.md. Korvus copy order is annual first. Overlay lines are exact literal text baked on screen by the forge. Each line is under 44 characters.
 
-## index-watch (watcher creative, filed 2026-10-27)
-- t0 d3: Index futures never sleep.
-- t4 d4: Neither does the watch.
-- t9 d3: korvus.industries
+## Operator annual, 9:16, 12 to 15 seconds
+- t 0, d 3: Annual first: 79.99 a year
+- t 4, d 4: LodeStone included
+- t 10, d 4: korvus.industries
 
-## crown-creativity (PASSED, held for 11:00 slot)
-- t0 d3: Four rooms. One private workspace.
-- t4 d4: Free tier. 10,000 tokens. No card.
-- t9 d3: blackcrown-intelligence.com
-
-## korvus-operator-1900 (pending critic PASS on full text)
-Lines lock after the critic quotes the complete corrected direction. All lines end before the clip ends. Destination line is the last line only.
+## Rules
+- Destination line is always korvus.industries, never deeper.
+- Savings label stays in the landing page and X copy, computed from the live price, never typed into overlay text.
+- No em dashes. No emoji. No promised outcomes.
+- Footage underneath stays wordless. The no-text line governs every direction.
