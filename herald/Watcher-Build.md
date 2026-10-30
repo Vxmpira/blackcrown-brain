@@ -1,17 +1,18 @@
-# Watcher Build State
+# Watcher Build, korvus:pages/index-watch.html
 
-Target: korvus:pages/index-watch.html, serves at /p/index-watch.
+Status: BLOCKED until single style tag verified.
 
-## Parts status
-- Style block: RETURNED clean, closing style tag seen, under 30 lines, no script. Keep as the approved style block.
-- Body markup: RETURNED with closing body tag, but header svg is generic, not the house crown logo. REDO with the exact crown svg in the header.
-- Full document: NOT COMPLETE. Last return truncated at the CSS root block, no closing html tag. The assembler also wrote its own CSS and must not replace the approved style block.
+## Parts
+- Head wrapper: verified (doctype, head, title, viewport, empty style slot, body close).
+- Style block: two candidates returned 2026-10-30. Candidate A is long and uses var(--text), var(--muted), var(--line) with a .chips rule that is cut off at the end. Candidate B is compact (under 40 lines), defines :root variables, and ends with a stray selector. Neither is accepted yet. Merge into one style tag, under 40 lines, no duplicate selectors.
+- Body part one: pending.
+- Body part two (panel and CTA): returned 2026-10-30, closes with </body>, uses the illustration note and the signup CTA.
 
-## Next steps
-1. Body re-cut with the exact crown svg beside the site name.
-2. Once the body returns with its closing tag, assemble the full document from the approved style block and the verified body.
-3. Check the full text for closing html tag, then file the page proposal with FROM NOTE pointing to the vault file.
+## Rules
+- One style tag only in the final document.
+- Strip code fences before the closing check.
+- Assemble only after each part is seen with its closing tag.
+- Mark all panel data as Illustration.
 
-## Lessons
-- Never let an assembler write its own styles over an approved part.
-- A truncated return is a failed run, even when the top half looks right.
+## Open
+- Merge style. Verify single style tag. Then propose with FROM NOTE.
