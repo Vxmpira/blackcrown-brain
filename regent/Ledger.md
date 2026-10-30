@@ -261,3 +261,12 @@ The 19:0
 - 2026-10-30: #348 Run Operator annual offer test, 7 days, one creative > DONE: manual step, no SCHEDULE line found so I cannot register it as a server job. Paste this yourself or refile as kind job with SCHEDULE and CHANNEL lines:
 One crea
 - 2026-10-30: #349 Daily Korvus signups by UTM source report > DONE: job registered: "Daily Korvus signups by UTM source report", daily at 18:15 ET, posts to corvid. The server runs it from now on, no Make needed.
+- 2026-10-30: #350 Annual-first Operator X post, critic PASS, 228 characters > DONE: posted to X with the brand account (post 2116133689050399104)
+- 2026-10-30: #351 Crown ownership X post, single privacy claim > DONE: posted to X with the brand account (post 2116133691185315949)
+- 2026-10-30: #352 Post Observer free tier pitch to X > DONE: posted to X with the brand account (post 2116133693408358677)
+- 2026-10-30: #353 Observer free-tier X post, single claim > DONE: posted to X with the brand account (post 2116133695371223336)
+- 2026-10-30: #355 Korvus watcher X post, overnight wire angle, Korvus link > DONE: posted to X with the brand account (post 2116133698407952571)
+- 2026-10-30: #356 Annual Operator day-one vertical clip, three overlays, 15s > DONE: rendering via Bloom, package lands in the channel
+- 2026-10-30: #357 Weekly Operator annual 7-day flight scorecard to boardroom > DONE: job registered: "Weekly Operator annual 7-day flight scorecard to boardroom", every Monday at 09:00 ET, posts to boardroom. The server runs it from now on, no M
+- 2026-10-30: #359 Operator 7-day test daily readout to corvid > DONE: job registered: "Operator 7-day test daily readout to corvid", daily at 09:00 ET, posts to corvid. The server runs it from now on, no Make needed.
+- 2026-10-30: #360 Operator annual 7-day X test, ends 2026-11-06 > DONE: job registered: "Operator annual 7-day X test, ends 2026-11-06", daily at 15:00 ET, posts to corvid. The server runs it from now on, no Make needed.

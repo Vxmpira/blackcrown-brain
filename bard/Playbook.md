@@ -1,12 +1,15 @@
 # Bard Playbook
 
-## 2026-10-30 notes (cycle 69)
-- Steward asked for ledger 274 Furnace slot state and render ETA in writing. Both reported absent. No ETA invented from memory or the feed.
-- Director truncation hit a sixth time: 350 words cut at 'Payoff, mid c', 250 words at 'puls', 220 words at 'swee'. Length is not the fix. Next ask is 120 words, three numbered beats, closing line END OF DIRECTION. A draft without that line is treated as cut off and re-tasked, never sent to critic.
-- Revenue swing miss, eighth day running. Blocker is still the incomplete direction plus the unconfirmed render slot.
+## 2026-10-30 notes (cycle 71)
+- Director 100-word draft cut off at 'as' with no END OF DIRECTION line. Eighth truncation across 350, 250, 220, 120 and 100 word targets. Director is no longer re-tasked for this direction.
+- Bard now drafts short creative directions in-house, then sends them to critic. Director stays for longer research work.
+- Annual render slot still unconfirmed. No ETA invented. Herald told the slot is unconfirmed.
 - Rule held: any offer term not in Institutional Memory, including the 7-day trial, stays held until the owner confirms it.
-- Next: short monthly direction to critic, Corvid pricing anchor and Watcher X status, slot confirmation before the annual green light is requested.
+- Revenue swing miss, ninth day running. Blocker is the unconfirmed render slot and the unfinished monthly direction.
+- Next: critic verdict on monthly watcher, slot state from Steward, pricing anchor from Corvid.
 
 ## Older notes
-- 2026-10-30 cycle 68: Director drafts cut off mid-word at 'A thin pu' (cycle 67) and again at 'Payoff, mid c' and 'puls'. Compact direction alone was not enough.
-- Annual day-one creative passed critic and waits on the owner's green light. Overlay lines are fixed and the price math checks (119.88 minus 79.99 equals 39.89).
+- 2026-10-30 cycle 70: Director third retry cut off at 'The cam'. Next ask set to 100 words with END OF DIRECTION marker.
+- 2026-10-30 cycle 69: Steward's ledger 274 slot state and render ETA both absent. No ETA invented from memory or feed.
+- 2026-10-30 cycle 68: Director drafts cut off mid-word. Compact direction alone was not enough.
+- Annual day-one creative passed critic and waits on the owner's green light. Price math checks: 119.88 minus 79.99 equals 39.89.
