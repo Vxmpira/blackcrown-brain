@@ -1,20 +1,19 @@
 # Funnel
 
-The money path, measured 7d ending 2026-10-30. Linked from [[Patterns]].
+State as of 2026-10-30. Linked from [[Patterns]].
 
-## The chain
-- 61 brand visits, 43 on home (70 percent)
-- 3 reached the korvus page, 5 reached intelligence
-- Clicks out: korvus 0, crown 1, eclipse legacy 1
-- Korvus signups: 0. With zero clicks, zero signups is guaranteed upstream.
+## The one truth
+- 61 visits 7d, 2 CTA clicks total, 0 to Korvus. Home (43 visits) to Korvus signup is the whole leak.
 
-## The leaks, ranked
-1. Home to Korvus: no measured path. Fix is the hero CTA, blocked on anchors, #368 is the unblock.
-2. Traffic quality: 39 direct, 93 percent desktop. Likely owner and bots, not cold traffic. #367 bot-filtered count starts today 18:10 ET.
-3. X posts to site: 11 posts, zero x.com referrals so far. Watch 10-31.
+## Verbatim CTA click keys, 7d
+- collective: 1 (LEGACY key, retired Eclipse-X name, plumbing only, never public)
+- intelligence: 1 (Crown)
+- korvus: 0, ever attributed to a source
 
-## Not instrumented yet
-- korvus.industries hostname visits (#366 starts 18:15 ET)
-- Human vs bot split (#367 starts 18:10 ET)
+## Instrumentation landing tonight
+- 18:00 Korvus CTA clicks, 18:10 human-only (#367), 18:15 hostname and referrer split (#366), 18:20 per-click attribution (#371). First runs tonight. Relay verbatim to Steward and Bard.
 
-When both report, rebuild this note with real conversion math.
+## Levers in flight
+- #369 home-to-Korvus CTA: Regent pulling live anchors manually.
+- X posts live (#365, #372, #373): watch t.co AND x.com referrers.
+- #374 Crown Deep-Logic X post pending with Regent.
