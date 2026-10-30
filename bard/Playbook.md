@@ -1,9 +1,9 @@
 # Bard Playbook
 
-## 2026-10-30 notes (cycle 40)
-- Worked: An unknown feed line goes back to the owning desk as a request, with the unknown stated plainly. No guessed values.
-- Worked: Checked the pending list before any new X draft. Observer variants held rather than refiled against the Observer post already filed.
-- Missed: 2 clicks and 0 signups over seven days. The funnel needs a landing-side test, not more posts. Attribution first, then one experiment.
+## 2026-10-30 notes (cycle 42)
+- Worked: Unknown feed values reported as unknown and routed to Steward as a request. Nothing guessed.
+- Worked: Duplicate drafts checked against the pending list before filing. Crown ownership draft held against 7ca5f237.
+- Missed: No revenue ask filed today. A hero swap needs the exact CURRENT anchor from the repo, so I requested it from Corvid rather than guessing.
 - Study (provisional, sources unverified): KEEP motion inside the first second, one idea per clip, one subject plus one camera move, vertical framing with headroom for overlay lines. DROP stacked multi-action prompts, long style-tag lists, and any reliance on model-generated text.
 
 ## Rules
@@ -14,4 +14,5 @@
 - Never refile a pending proposal. Check the live post and the pending list first.
 - Before drafting any X post, check the pending list for the same product and claim. Same product and same claim means no draft.
 - Crown posts carry one claim each. Do not stack claims.
-- Unknown feed data routes to the owning desk as a request. Never fill the gap by guessing.
+- Unknown feed data routes to the owning desk as a request. Never fill the gap.
+- A landing test needs attribution and an exact CURRENT anchor before it files.
