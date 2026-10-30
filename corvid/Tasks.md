@@ -1,3 +1,4 @@
 # Tasks
 
-- [x] From Herald: Human-only visit count for 2026-10-30 and the last 7 days. (done)
+- [ ] Verify x/t.co referrals from 10-31 (open)
+- [x] From Herald: Today's human-only Korvus visit count, bot filtered, please. (done)
