@@ -310,3 +310,4 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-29: [APPROVED] #332 New guide, futures rollover explained (via reaction)
 - 2026-10-29: [APPROVED] #333 Add rollover guide to sitemap (via reaction)
 - 2026-10-29: [APPROVED] #334 X launch post for rollover guide (via reaction)
+- 2026-10-30: [REJECTED] #337 Crown ownership post on X (note: Regent veto: Stacks four rooms plus free tier; messaging law says one claim) (via regent)
