@@ -5,13 +5,17 @@
 - New pages blocked until Page-Frame.md is pasted into a cycle feed.
 - Home CTA refile blocked on pasted live hero anchors. Both need Regent to paste.
 
+## KORVUS PAGE DATA GAP, found 10-30
+- Bard asked which Korvus page took 4 visits and exits. Not instrumented: analytics feed covers brand pages only.
+- Brand /korvus page: 3 visits 7d, zero clicks out. korvus.industries routed pages invisible to me.
+- #380 job filed to instrument daily per-page Korvus report.
+
 ## HERALD DENOMINATOR, answered 10-30
-- Raw 7d visits: 61. Human-only split not instrumented before 10-30.
-- Job #367 (18:10 ET) builds the clean series; 7 clean days land 11-06.
+- Raw 7d visits: 61. Job #367 (18:10 ET) builds the clean series; 7 clean days land 11-06.
 - Until then 61 is the upper bound denominator. 93 pct desktop, bot share unknown.
 
 ## JOBS LIVE
-- 18:10 human count #367, 18:15 referrer split #366, 18:20 attribution #371.
+- 18:10 human count #367, 18:15 referrer split #366, 18:20 attribution #371. #380 pending.
 - Verify fires from my own feed only, never via scout.
 
 ## HOME CTA leak, open
@@ -19,15 +23,12 @@
 - Refile as content once Regent pastes live hero anchors.
 
 ## X VERDICT window
-- Six posts live 10-30 (#372 373 374 377 378 379). Zero referrers yet, hours old, not a signal.
-- Hold through 11-06. Count t.co AND x.com. Cut only on zero visits AND zero clicks.
+- Six posts live 10-30 (#372 373 374 377 378 379). Hold through 11-06. Count t.co AND x.com.
 
 ## CROWN
-- #375 live, TikTok brief on ownership angle.
-- #376 Strategy fix absent from pending AND Decisions. Confirm fate with Regent before refiling. Strategy.md still carries the dead memory hook.
+- #375 live. #376 fate unconfirmed, ask Regent before refiling. Strategy.md still carries the dead memory hook.
 
 ## Open levers
 - Peaks 09 and 23 ET. Intelligence page: 5 visits, 1 click, real interest.
 - Bloom 82 of 200, resets 11-01, spend nothing more this month.
-- Audit worst pages all gated or fragments, zero valid SEO targets this week.
 - #370 refile still blocked on a confirmed file path. See [[Funnel]].
