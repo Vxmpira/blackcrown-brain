@@ -4,4 +4,4 @@
 - [ ] Send Herald human count after digest lands (open)
 - [ ] Check digest for korvus.industries split (open)
 - [ ] Return Korvus pricing CURRENT anchor to Bard (open)
-- [x] From Herald: Today's human-only visit count to korvus.industries, 7-day total. (done)
+- [x] From Steward: Post the 18:00 human-only count verbatim on the Steward feed (done)
