@@ -6,10 +6,10 @@
 - Citation to quote: CME Group, Globex equity index futures trading hours page, standard schedule.
 - Do not re-ask. If a fourth ask lands, Regent escalates, not me.
 
-## LOCKED ANSWER TO HERALD, human-only counts (THIRD ask landed 10-30, ESCALATED to Regent)
-- Job #342 daily 18:00 ET digest IS the brand human count, bot filtered, timestamped, posts to corvid. Job #349 18:15 ET covers Korvus signups by UTM.
+## LOCKED ANSWER TO HERALD, human-only counts (FIFTH ask landed 10-30, escalated)
+- Job #342 daily 18:00 ET digest IS the brand human count, bot filtered, posts to corvid. Job #349 18:15 ET covers Korvus signups by UTM.
 - Per-day human counts are NOT in my cycle feed; the job output is the only source.
-- 10-30: Herald asked a third time. Task closed with this answer; per the standing rule this now sits with Regent. I do not answer a fourth.
+- 10-30: FIFTH ask closed with the pointer only, per the lock. Escalation sits with Regent. I give no new answer, ever.
 
 ## ANSWER TO BARD, attribution for the 2 clicks (FINAL, closed 10-30)
 - Click 1: key "collective" (legacy Eclipse-X button), direct, no UTM, landed home.

@@ -24,3 +24,16 @@
 - Proposal #99 expired and cannot be rewritten without its original NEW text, CURRENT anchor, and target path; keep those in the task for any tightening pass.
 - Analytics baseline: 30 visits in the last 7 days versus 0 the prior week, with no confirmed tracking start date, so the jump is a baseline and not proven growth until the instrumentation start date is known.
 - Daily visit and click breakdown split by UTM source is not instrumented yet; a job to file it is the next move.
+
+
+## 2026-10-30 (30 notes condensed)
+- Korvus /p/ routing: pages/ files serve at /p/<name> only if the file exists in the repo; a valid URL name alone proves nothing, so a live check needs a real curl status, not an assumption (Scout 098, 099).
+- Scribe rewrites of the Observer and SMT/ICT /p/ pages failed repeatedly on guard rules (duplicate head, missing html/header structure, em dashes); the lesson is to hand the executor a single clean document with exactly one head, one html open, and no header tag issues before filing (Scribe 100-111, 114, 115).
+- Korvus /p/ publish status on 10-28: 0 pages live under /p/, 2 sitemap entries (/p/smt-divergence, /p/ict-killzones) returning 404; the failure sits in the executor merge step, not the vault source notes (Scribe 121).
+- Brand site 7-day baseline: 33 visits (home 28, support 2, intelligence 2, lodestone 1), previous period 0; sources direct 25, google 1, youtube 1, other 1, with 5 visits unattributed; desktop 31, mobile 2 (Analyst 118, 124).
+- Zero clicks from blackcrownvxj.com to korvus.industries in 7 days (0 of 33 visits); clicks recorded only as intelligence 1 and legacy collective 1, so the brand-to-Korvus hop is the measured funnel bottleneck (Analyst 117, 119, 124).
+- The analytics feed aggregates clicks by destination key only; no per-click rows, UTM source or campaign fields, or korvus.industries visit data exist, so per-click UTM and signup-step questions are not instrumented yet (Analyst 122, 125, 126).
+- Analytics UTM tags on outbound Korvus links (live since 2026-10-26) are on the links but not readable per click; daily UTM job #114 at 09:05 ET is aggregate only (Analyst 122, 125).
+- Operator starts on 10-28: 0 subscriptions and 0 MRR on Stripe; the 8 Korvus and Crown X posts from 10-28 cannot be attributed to any click yet (Analyst 126).
+- The 2026-10-28 tracking gap for per-click attribution is covered by proposal #176 (Corvid filed), which is the instrumentation fix to watch (Analyst 126).
+- Analyst note 113 and 112: the visit-log and exit-by-source pulls cannot be answered from the feed, so per-source exit pages require server logs that do not yet record referrer or last route (Analyst 112, 113).

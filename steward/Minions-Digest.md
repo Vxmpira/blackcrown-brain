@@ -22,3 +22,6 @@
 - Korvus click recovery test: baseline of 7 days showed 30 visits, 2 CTA clicks, 0 signups (6.7% visit-to-click); proposed three sequenced one-at-a-time cells with a readout of 150 visits per arm or 4 weeks, whichever is later.
 - Hook scoring rubric for Herald: 10-point scale across specific promise, honest framing, operator voice, next-step clarity, and proof element, logged beside the UTM-tagged annual Operator link; hook-level click rates are not instrumented yet.
 - Eclipse-X value copy that passed review: a "how to read a Presidential Wire item" explainer covering impact, direction, confidence, and Korvus read, closing with the free Observer tier and not-financial-advice line.
+
+## 2026-10-30 (30 notes condensed)
+- **Note 125:** Verbatim Eclipse-X draft originals were not retained in session, so Crier's replacements were marked REPLACEMEN

@@ -49,3 +49,13 @@
 - Three homepage test cells defined (Prospector 177) with a 150-visit minimum per cell and an aggregate-baseline read, pending click-tagging instrumentation.
 - Three honest hero headline candidates drafted (Prospector 181): "24/7 index futures intelligence with a written read." / "Around the clock index futures intelligence, written in plain English." / "Watching index futures while you sleep, with a written read."
 - Index watch page draft (Copy 185) uses a navy and magenta palette, which conflicts with the gold-on-black Korvus look seen in other drafts; confirm the palette against the live Korvus landing before filing.
+
+## 2026-10-30 (30 notes condensed)
+- Index-watch check run (188) returned NOT RUN for all six checks: the authored document was not in the conversation or reachable from the vault, so no PASS or FAIL was recorded; fix is to re-file with the full text or vault path.
+- Hook scoring was blocked repeatedly (190, 196, 213) because the fixed rubric text was never included; the rubric must be pasted in full with challenger hooks before any score counts.
+- Annual Operator overlay alternates (191), each under 44 characters: "Operator yearly: $79.99. Save $39.89." / "One payment a year. Save $39.89." / "LodeStone included. $79.99 a year."
+- Crown Pro upgrade lines (193) used a 5M token and 10K token allowance; this contradicts the ground truth, which presents Crown usage as dollars ($100 of room credit on Crowned, 49.99 a month), never token counts. Discard those lines and rewrite in credit terms.
+- Crown Pro upgrade angles (199) and the Crown hook challenger (204) lean on token figures and "your data, your rules" framing; reuse only the privacy-ownership angle, rewritten in dollar terms with no memory-gap claim.
+- Korvus Observer CTA variants (202) are compliant: "Start with Observer, free" and "Free Observer, no card needed" with no performance claims; usable for the homepage hero test.
+- Overnight worry moments (215): the 2 to 3 a.m. ET Asia-to-London handoff, overnight central bank and international data releases, and thin-liquidity stop runs are the three fears to build overnight hook copy around.
+- Index-watch landing copy (216, 217) needs the not-advice line and must be written as a complete document in the vault before filing; neither draft in the notes was confirmed complete.

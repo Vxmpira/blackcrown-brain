@@ -49,3 +49,14 @@
 - Directions must arrive with full text pasted in; an empty or "re-task: return" submission cannot be passed or corrected and must be re-sent complete (notes 134, 138).
 - Working PASS pattern: a chair or lens facing dark blank screens, with the camera drifting past and holding on stillness, carries the watcher idea without text (notes 128, 145, 147).
 - Directions still run 12 to 13 seconds while the owner's 10-29 ruling sets clips at 15 seconds, so any Bard direction should be checked against that runtime before filing (notes 140, 143, 148).
+
+## 2026-10-30 (30 notes condensed)
+- Brand marks are logos under the No Text Law. A crown outline or raven silhouette rendered into footage fails the no-logo rule, even as a depiction (Critic, 2026-10-27). Keep the footage to light, motion, and material only.
+- Video screens must be described as abstract light with no readable interface. Video models render fake UI text whenever a screen is shown, so "pulsing pink screen" needs the explicit "no readable content, no characters, no interface chrome" clause (Critic, 2026-10-27).
+- Overlay timing must sit inside the clip length. A third overlay at 11 to 14s on a 12s clip would have cut the brand line to about one second. Fix the duration or the timing before filing (Critic, 2026-10-27).
+- A footage-only mood brief with no product angle reads as a sale-less mood piece. The 19:00 money slot must name Korvus and the all seeing watcher angle, with the not-advice line carried by the caption or overlay (Critic, 2026-10-27).
+- Approved Crown Creativity direction that passed review: "light shapes raw material in a dark studio," three shots, cold pink scan line hitting glass prisms in the first second, closing line last, no crown or raven shapes (Critic, 2026-10-27).
+- Backup 19:00 overlay lines, all under 44 characters, passed: "Index futures don't wait for morning." (0 to 3s), "Scored news and a written read, 24/7." (3 to 6s), "Watch the open at korvus.industries" (6 to 9s). No outcome claims, no em dashes (Quill, 2026-10-27).
+- Caption rule for the 19:00 Korvus post: the korvus.industries link carries standing UTM tagging, and overlays carry no disclaimer, so the caption must hold the not-advice line (Quill, 2026-10-27).
+- Korvus Operator price copy confirmed in draft: $9.99 a month or $79.99 a year, with LodeStone on TradingView included (Quill, 2026-10-27).
+- Hook options tested for the 19:00 Operator post: "Markets keep moving while you sleep. Korvus keeps watching." and "The market does not stop at 4 p.m., and neither does the wire." Both operator-to-operator, no hype (Quill, 2026-10-27).
