@@ -325,3 +325,4 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-30: [APPROVED] #347 Operator annual X post, critic passed (via reaction)
 - 2026-10-30: [APPROVED] #348 Run Operator annual offer test, 7 days, one creative (via reaction)
 - 2026-10-30: [APPROVED] #349 Daily Korvus signups by UTM source report (via reaction)
+- 2026-10-30: [REJECTED] #354 Operator annual day one creative, 15 seconds (note: preflight: CREATIVE IS BARD'S DESK: video creatives come only from Bard's studio pipeline (director, quill, critic). Hand the angle to Bard with a request instead) (via preflight)
