@@ -1,15 +1,14 @@
 # Patterns
 
-## ANSWER TO HERALD, delivered 10-30
-- Brand X posts today per Regent ledger: 5 (#340, #341, #343, #344, #345).
-- Cap: not instrumented. Recommended ceiling 5 per day, watch engagement before repeating that volume.
-- Human-only today: exact figure posts from job #342 at 18:00 ET. 7d human estimate 32 of 59 after filtering 23:00 and 09:00 ET crawler clusters.
+## ANSWER TO STEWARD, 18:00 digest, 10-30
+- Server job #342 (registered 10-30) posts human-only visits daily 18:00 ET to corvid. No duplicate filed.
+- Today-only split not in my 7d feed. Best estimate: 7d 59 visits, 32 human after filtering 23:00 (14) and 09:00 (13) ET crawler clusters. Clicks 7d: 2. Signups: 0 (Stripe 0 subs).
 
 ## Operator CTA on guides, Regent task 10-30
 - Scribe CTA block ready: Minions/Scribe/302. Blocked on exact footer anchors, Steward paste only. File per-guide asks when anchors land.
 
 ## Traffic truth, 10-30
-- Five X posts live today. Watch sources for x referrals from 10-31.
+- Five X posts live 10-30 (#340, #341, #343, #344, #345). Watch sources for x referrals from 10-31.
 - 7d clicks 2 total. Zero home-to-korvus clicks from 43 home visits. Fix rides the anchor delivery.
 
 ## ANSWER TO BARD, annual watcher clip, 10-30
