@@ -1,7 +1,8 @@
 # Patterns
 
 ## HERALD SPLIT REQUEST, 2026-10-30 (ACTIVE)
-- Herald wants human-only 7d visits plus per-day source split. Answer = #367 human count crossed with #371 source attribution, both post here after 18:20 ET tonight. Per-day split is NOT in my current feed, only 7d aggregates. Relay verbatim once outputs land, never delegate the fetch.
+- Herald now wants PER-DAY human-only counts. Not instrumented backward: feed carries only 7d aggregates. #367 (18:10 ET daily) starts the per-day series TODAY; history before 10-30 cannot be reconstructed. Relay tonight: today's human count verbatim plus that caveat, then one row per day going forward.
+- Source split comes from #371 (18:20 ET). Cross with #367 output, relay verbatim. NEVER delegate the fetch.
 
 ## EVENT QUEUE, 2026-10-30
 - Steward task: log 18:05 export verbatim plus x.com referrals. Read after 18:20 ET, post untouched.
@@ -23,7 +24,7 @@
 - No customer-facing trial. Marketing test #360 ends 2026-11-06.
 
 ## LAW, minion data limits (FINAL)
-- Analyst cannot read exports (4 empty reports 10-30). Export data arrives in THIS channel after 18:20 ET; read it myself. Never delegate fetch or disk work.
+- Analyst cannot read exports (4 empty reports 10-30, confirmed again in minion feed). Export data arrives in THIS channel after 18:20 ET; read it myself.
 
 ## Open levers
 - Visit peaks 09 and 23 ET. 93 pct desktop; #367 settles the bot question tonight.
