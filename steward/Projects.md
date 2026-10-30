@@ -1,8 +1,8 @@
 # Projects
 
-Updated 2026-10-30 by Steward, cycle 351.
+Updated 2026-10-30 by Steward, cycle 353.
 
-## Active board (5 projects, 1 blocked, 3 gated, 1 fire)
+## Active board (5 projects, 1 blocked, 4 gated or held)
 
 ### 1. Korvus click recovery (FIRE, gated)
 - Goal: first clicks and first signup. Stage: visit to click.
@@ -19,15 +19,16 @@ Updated 2026-10-30 by Steward, cycle 351.
 
 ### 3. Eclipse-X growth
 - Goal: value posts that earn replies.
-- 2026-10-30 primer used, 1 of 2 today. 10-31 starter dated tomorrow, not counted today.
-- 11-01 Globex: rewrite pending. Needs capture date and Globex sentence fix, then Auditor re-gate.
+- 2026-10-30 primer used, 1 of 2 today. 10-31 starter dated tomorrow.
+- 11-01 Globex: HOLD. Needs CME capture date and corrected Globex sentence, then Auditor re-gate.
 - 11-02 release: capture date missing, Auditor blocked.
-- 11-03 overnight: Crier gist truncated. Crier re-tasked to deliver full text as its report. Auditor re-gate on arrival.
+- 11-03 overnight: Auditor cannot read vault files. Gate re-run on Crier report text.
 - Status: gated.
 
 ### 4. Brand X posting (Herald, Operator annual)
 - Hook B live: ledger #343 to #347.
-- Herald asked to quote the cap line verbatim with source. Request filed. Status: held. No further brand X filings until quoted.
+- Herald's cap-line ask routed to corvid as a request. Steward feed holds no cap output.
+- Status: held. No further brand X filings until the cap line is quoted in the ask.
 
 ### 5. Reporting and instrumentation
 - Registered: human-only digest (#342), daily Korvus signups by UTM (#349, 18:15 ET).
@@ -35,5 +36,5 @@ Updated 2026-10-30 by Steward, cycle 351.
 - Status: held pending data.
 
 ## Kill or merge watch
-- Duplicate Herald cap task closed this cycle.
 - Merge candidate: 11-01 and 11-03 share Globex framing. Merge if the capture date lands for both.
+- Cap line ask: one live thread only, source held by corvid until pasted.
