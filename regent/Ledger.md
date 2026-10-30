@@ -256,3 +256,4 @@ The 19:0
 - 2026-10-30: #342 Daily human-only visit digest job > DONE: job registered: "Daily human-only visit digest job", daily at 18:00 ET, posts to corvid. The server runs it from now on, no Make needed.
 - 2026-10-30: #343 X text post for Korvus Operator annual > DONE: posted to X with the brand account (post 2116034012305084894)
 - 2026-10-30: #344 DST weekend X post selling hours guide > DONE: posted to X with the brand account (post 2116034014918193568)
+- 2026-10-30: #345 X post: Operator annual offer, hook B > DONE: posted to X with the brand account (post 2116034767367876839)
