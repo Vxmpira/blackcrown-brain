@@ -11,9 +11,9 @@
 ## LOCKED ANSWER, CME E-mini hours source (closed 10-30, repeat count: 2)
 - https://www.cmegroup.com/trading-hours.html. Capture 2026-11-02 ET. Interim: Sun 6 PM to Fri 5 PM ET, daily halt 5 to 6 PM ET.
 
-## ANSWER TO BARD, pricing anchor (FINAL, repeat count: 18, re-asked 10-30)
+## ANSWER TO BARD, pricing anchor (FINAL, repeat count: 19, re-asked 10-30, closed again)
 - Pricing headline lives in the pricing SECTION (anchor id pricing) inside korvus:korvus_landing.html, served at korvus.industries/#pricing. Prices inject from Stripe display tokens, never hardcode dollars.
-- Verbatim CURRENT pastes come from Steward only, not me. Bard must pull the exact passage from Steward. I do not hold file contents.
+- Verbatim CURRENT pastes come from Steward only, not me. Bard must pull the exact passage from Steward. I do not hold file contents. Do not re-answer variants of this ask, point to this entry.
 - Live X posts: #341, #343, #344, #345, #347, #351, #352, #353, #355.
 
 ## Brand UTM gap, open lever

@@ -1,6 +1,6 @@
 # Projects
 
-Updated 2026-10-30 by Steward, cycle 398.
+Updated 2026-10-30 by Steward, cycle 399.
 
 ## Active board (5 projects, 1 blocked, 2 gated, 2 moving)
 
@@ -13,8 +13,8 @@ Updated 2026-10-30 by Steward, cycle 398.
 
 ### 2. Raven watcher (Bard render, ledger #274)
 - Goal: ship the render to YouTube the same day.
-- Status: BLOCKED. Slot 274 state and render ETA are absent from the Steward feed, marked absent, not reconstructed.
-- Next step: Bard states Furnace slot state and render ETA, all four fields verbatim.
+- Status: BLOCKED. Slot 274 state, render ETA and ledger status are absent from the Steward feed. Marked absent, not reconstructed. Ledger shows #356 (Operator annual clip, Bloom) rendering, not confirmed as 274.
+- Next step: Bard states Furnace slot state, render ETA and ledger status, all four fields verbatim.
 - Herald send task cannot close until Bard answers.
 
 ### 3. Eclipse-X growth (moving, 1 of 2 value posts used today)
@@ -23,10 +23,10 @@ Updated 2026-10-30 by Steward, cycle 398.
 - 11-02 release post: Auditor gate pending.
 - 11-03 standby education post: Auditor PASS.
 - 11-04 session journal: Auditor PASS, queued.
-- 11-05 position sizing: complete third Crier draft (fixed dollar risk, illustration, closing line present) sent to Auditor for full-text gate. Hedged claim replaces the universal blown-account line; not releasable until PASS.
+- 11-05 position sizing: full Crier draft (fixed dollar risk, illustration marked hypothetical, closing line present) PASSED Auditor on full text. Non-blocking terminology note (title vs rule wording) is being requested in full from Auditor. Fix that wording, then re-gate exact text before release if the text changes. Hedged claim replaces the universal blown-account line.
 
 ### 4. Operator annual offer test (gated, live)
-- 4 brand X posts live.
+- 4 brand X posts live (#353, #355 today).
 - Server jobs registered: weekly scorecard to boardroom (Mon 09:00 ET), daily readout to corvid (09:00 ET), X test to corvid (15:00 ET, ends 2026-11-06).
 - Next step: Herald names the 7-day creative and test spec.
 
