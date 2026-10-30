@@ -1,15 +1,17 @@
 # Watcher style block
 
-Character count: about 387, under the 400 cap.
+Under 700 characters. Container, clamp headings, 75ch prose, grid collapse under 700px.
 
-```
-<style>
-body{margin:0;background:#07080d;color:#eef0f6;font:16px system-ui}
-body::before{content:'';position:fixed;inset:0;z-index:-1;background:radial-gradient(50vw 40vh at 10% 0,rgba(255,45,143,.16),transparent)}
+```css
+:root{--p:#ff2d8f}
+*{box-sizing:border-box}
+body{margin:0;min-height:100vh;color:#eee;font:16px/1.6 system-ui,sans-serif;background:radial-gradient(circle at 15% 0,rgba(255,45,143,.16),transparent 40%),#07060b}
 .wrap{max-width:1060px;margin:0 auto;padding:0 20px}
-h1{font-size:clamp(28px,5vw,52px)}
-@media(max-width:699px){.grid{grid-template-columns:1fr}}
-</style>
+h1{font-size:clamp(2rem,5vw,3.6rem);line-height:1.1}
+.prose{max-width:75ch}
+.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+.panel{border:1px solid rgba(255,255,255,.08);border-radius:12px;padding:18px}
+@media(max-width:700px){.grid{grid-template-columns:1fr}}
 ```
 
-Open items: the full house backdrop (faint 56px grid at 1.5 percent white and edge vignette) is cut for length and must be restored in the assembled page. Verify this block against the Watcher page before assembly. Closing style tag verified in this block only.
+Not yet applied. Body markup and closing tag verification still open.
