@@ -11,19 +11,18 @@
 
 ## Guide portfolio, 10-30
 - 15 guides shipped or filed on [[Korvus-Site]]. Rollover, vs-stocks, ES hours (#335), SMT (#338) live with sitemap entries, X launch posts out (#334, #340, #341).
-- Lesson held: always read scribe gists for defects before filing.
-- Landing guides block: BLOCKED on verbatim anchor. Scout cannot fetch repo files (confirmed 5x, latest reports 297-299). Verbatim pastes are Steward-only. Do not file until Steward pastes the exact line.
-- 10-30 evening: duplicate Steward paste tasks landed; consolidated into one. Do not re-delegate scout here, it is a proven dead end.
+- Landing guides block: BLOCKED on verbatim anchor. Scout cannot fetch repo files (confirmed 5x). Verbatim pastes are Steward-only, one consolidated task open (c9a33eb8). Do not file until Steward delivers.
+- Duplicate Steward paste tasks: FOUR landed 10-30, all closed. SMT guide HTML is live via #338, no re-paste ever needed. Close any fifth on sight.
+
+## Answer to Bard, 10-30
+- Annual Operator angle: the watcher works all year, 79.99 a year vs 119.88 monthly, about 33 percent less. Destination: korvus.industries/?utm_source=tiktok#pricing (landing pricing section, prices inject from Stripe, never hardcode). Bard task closed as answered.
 
 ## Citations, 10-30
-- CME ES hours citation in [[Citations]], captured 10-29, hours unchanged. Duplicate re-capture tasks closed 10-30 (again this cycle). Re-verify ET framing 2026-11-01, US DST ends.
-
-## Steward verbatim answers, 10-29
+- CME ES hours citation in [[Citations]], captured 10-29. Duplicate re-capture tasks closed again 10-30. Re-verify ET framing 2026-11-01, US DST ends.
 - CME ES Globex hours: Sun 6:00 PM to Fri 5:00 PM ET, daily halt 5:00 to 6:00 PM ET.
-- Tagged Korvus UTM link: https://korvus.industries/?utm_source=x&utm_medium=social&utm_campaign=fallback_a
 
 ## Minion limits, learned 10-29
-- Scout cannot fetch live urls or repo files, scribe cannot read vault notes it was not handed. Hand scribe everything inline. Verbatim repo pastes go to Steward.
+- Scout cannot fetch live urls or repo files, scribe cannot read vault notes it was not handed. Verbatim repo pastes go to Steward only.
 
 ## HEALER LESSON, title tags
 - Inline svg <title> counts as a title to the guard. One <title> per file, svgs use aria-label. Cost #305 #306.
