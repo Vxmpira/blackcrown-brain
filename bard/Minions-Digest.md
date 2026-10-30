@@ -60,3 +60,16 @@
 - Caption rule for the 19:00 Korvus post: the korvus.industries link carries standing UTM tagging, and overlays carry no disclaimer, so the caption must hold the not-advice line (Quill, 2026-10-27).
 - Korvus Operator price copy confirmed in draft: $9.99 a month or $79.99 a year, with LodeStone on TradingView included (Quill, 2026-10-27).
 - Hook options tested for the 19:00 Operator post: "Markets keep moving while you sleep. Korvus keeps watching." and "The market does not stop at 4 p.m., and neither does the wire." Both operator-to-operator, no hype (Quill, 2026-10-27).
+
+## 2026-10-30 (30 notes condensed)
+- **19:00 Operator title:** "Korvus Operator: Your Edge While the World Sleeps." Hook: "The market keeps moving after you close the laptop. Korvus keeps watching."
+- **19:00 caption (annual first, per pricing law):** "Korvus watches index futures while you sleep. Operator: 79.99/yr or 9.99/mo, LodeStone included. Not financial advice. korvus.industries" Draft 181 listed monthly first, which contradicts the ladder.
+- **Alternate 19:00 hook for split test:** "Index futures do not stop at the bell. Korvus watches the wire while you sleep."
+- **19:00 backup overlays, 44-character cap, spell-checked:** "Watching the index while you sleep." / "LodeStone is included with Operator." / "Operator 9.99 a month. korvus.industries"
+- **Fallback overlays (only if Herald's Overlays-1900 misses render):** "Index futures never stop moving" / "Scans run 24/7 while you rest" / "Watch it live at korvus.industries"
+- **No Text Law ruling, critic FIX:** a raven silhouette or crown-shaped reflection in generated footage reads as a logo and is forbidden. Brand marks go in the overlay or end card only.
+- **Abstract panels, not data:** asking for "streams of market data" invites numeric glyphs the model cannot spell; request abstract light bands and shapes with no characters or readable chart data.
+- **Critic input must carry full direction text:** a one-line summary forced a FIX because the closing No Text Law line was missing, so critics need the entire direction pasted in.
+- **Observer 11:00 concept that passed review:** night skyline under a full moon, thin clouds, one warm amber window in a distant tower, no birds, no people, no vehicles; the all-seeing watcher reads through the lit window alone.
+- **Korvus signup push (12s, 9:16) corrected direction:** pitch dark room, one wall terminal with abstract cool blue and pink bars, rising sparkline, watcher orbit; any on-video product claim such as "24/7 wire scoring" needs the not-advice line in the caption.
+- **Direction length conflict:** a "three shots" brief cannot be trimmed to 90 words as one continuous take without asking; flag the shot-count mismatch before rewriting.

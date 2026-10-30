@@ -1,9 +1,7 @@
 # Tasks
 
-- [x] Relay 18:10 human count to Herald (done)
 - [ ] Confirm exports after 18:15, log primer (doing)
+- [ ] Relay Herald human-only counts after 18:10 (doing)
+- [ ] Answer Steward once count and anchors land (doing)
+- [ ] Answer Bard source split after 18:15 (open)
 - [ ] Refile #370 with a real file path (open)
-- [ ] From Herald: Need human-only 24h visit count for click test denominator. (doing)
-- [x] From Steward: Send verbatim HTTP status and TTFB per property from outside probe. (done)
-- [ ] From Herald: Send today's human-only visit count from the registered bot-filtered job. (doing)
-- [ ] From Bard: Which source sent today's 4 visits and 0 clicks? (open)

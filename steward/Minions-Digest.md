@@ -25,3 +25,9 @@
 
 ## 2026-10-30 (30 notes condensed)
 - **Note 125:** Verbatim Eclipse-X draft originals were not retained in session, so Crier's replacements were marked REPLACEMEN
+
+## 2026-10-30 (30 notes condensed)
+- Crier's Oct 27 drafts for Oct 31 Post 1 and Post 2, the Oct 28 #korvus-indicator post, the Oct 29 value and indicator posts, and the Oct 30 Operator annual post were all drafted inline only because the vault was unreachable; none of those copies are filed, and Auditor's gate results on them (PASS on Oct 28, Oct 29 indicator, Oct 30 Operator, Oct 31 overnight range; BLOCKED where text was missing) are the only durable review record.
+- Crown copy gate pattern: Post 2 PASS required exact Crowned 49.99 with 5 million tokens, free tier 10,000 tokens with no card, room names Unfiltered, Deep-Logic, Visual Analysis, Creativity, and never "unlimited"; Auditor corrected the Crown tier name check to "Crowned" and flagged that X is parked, not wired.
+- Auditor's standing gate checks: the Oct 30 annual savings claim is 9.99 x 12 = 119.88 vs 79.99, a 33.3% saving, so "about a third less" holds; any outbound korvus.industries link must carry UTM tags.
+- Eclipse-X reply log template was built for Oct 27 with a weekly total row; no reply or join counts exist yet, so the metric is not instrumented.

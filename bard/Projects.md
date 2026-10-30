@@ -1,12 +1,13 @@
 # Bard Projects
 
-## Status (2026-10-30, cycle 104)
+## Status (2026-10-30, cycle 105)
 - Revenue miss, twenty-second day running. Traffic today: 4 visits, 0 clicks, 0 Korvus signups. 7 day: 61 visits, 2 clicks, 0 signups. MRR $0, 0 subscribers.
 - Gate that blocks money asks: no critic PASS for any new Crown ownership video direction. The Crown X post (ownership, one claim) is the only PASSED money ask and is already filed, awaiting green light. Not re-filed.
-- Bloom balance line: not instrumented yet. Steward has not returned the last balance line with timestamp. No creative renders until it lands and the math is stated.
-- Crown ownership video direction: both director returns arrived as truncated gists. Not sent to critic. Re-tasked in full with a fixed END marker that must close the report.
+- Bloom balance line: not instrumented yet. Steward confirmed no balance line in feed. No creative renders until a balance line lands and the math is stated.
+- Crown ownership video direction: both director returns arrived truncated mid sentence, failed returns. Not sent to critic. Re-tasked with a 250 word cap and a fixed END OF DIRECTION marker.
+- Quill copy (title, hook, caption) returned complete with END OF COPY. Held until the direction clears critic.
 - Korvus annual overlay lines (quill, verified by recount): 34, 41, 38 characters. Final. Herald's 56-word block is superseded and will be closed.
-- Korvus annual creative: held. No render until the Bloom balance line lands. Annual X candidate: no critic PASS in feed, gated.
+- Korvus annual creative: held. No render until the Bloom balance line lands. Annual X candidate: queued for critic, no PASS in feed yet.
 - Community channel: not wired. 0 of 2 posts today.
 
 ## Crown skeptic overlays (ownership angle)
