@@ -1,21 +1,20 @@
 # Funnel
 
-State of the money path, updated 2026-10-30. See [[Patterns]] for traffic truth.
+The money path, measured 7d ending 2026-10-30. Linked from [[Patterns]].
 
-## 7d snapshot
-- 59 visits, ~10 human (mobile 4, google 1, youtube 1, rest crawler-pattern desktop direct).
-- Clicks out: 2 total. intelligence 1, legacy collective key 1. Zero toward korvus.industries.
-- Signups: 0. Revenue: 0 MRR. Expense 49 this month.
+## The chain
+- 61 brand visits, 43 on home (70 percent)
+- 3 reached the korvus page, 5 reached intelligence
+- Clicks out: korvus 0, crown 1, eclipse legacy 1
+- Korvus signups: 0. With zero clicks, zero signups is guaranteed upstream.
 
-## The leak, named
-- Home takes 43 of 59 visits but korvus page gets 3 and korvus clicks are 0. The brand homepage does not move visitors to the revenue product. Same gap exists on korvus_landing, which has no links to the /p/ guide portfolio.
-- Day-level human split not instrumented; job #342 pending is the fix.
+## The leaks, ranked
+1. Home to Korvus: no measured path. Fix is the hero CTA, blocked on anchors, #368 is the unblock.
+2. Traffic quality: 39 direct, 93 percent desktop. Likely owner and bots, not cold traffic. #367 bot-filtered count starts today 18:10 ET.
+3. X posts to site: 11 posts, zero x.com referrals so far. Watch 10-31.
 
-## Active pushes
-- X launch posts #340 (ES hours guide) and #341 (SMT guide) pending.
-- Guide links block on korvus_landing blocked on verbatim HTML anchor, scout cannot fetch repo files.
-- Guide portfolio is the organic engine: 15 pages on [[Korvus-Site]], first google visit logged.
+## Not instrumented yet
+- korvus.industries hostname visits (#366 starts 18:15 ET)
+- Human vs bot split (#367 starts 18:10 ET)
 
-## Next levers
-- Instrument daily human count (#342), then judge conversion honestly.
-- Home page CTA audit toward korvus once guide distribution runs.
+When both report, rebuild this note with real conversion math.

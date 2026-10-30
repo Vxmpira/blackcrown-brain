@@ -341,3 +341,6 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-30: [APPROVED] #363 Daily Korvus CTA click count report (via reaction)
 - 2026-10-30: [REJECTED] #364 Crown ownership X post, free tier close (note: Regent veto: Stacks ownership, four rooms, free tier; law says one claim per post) (via regent)
 - 2026-10-30: [APPROVED] #365 Korvus watcher post to X, no price claims (via reaction)
+- 2026-10-30: [APPROVED] #366 Daily korvus hostname and referrer split report (via reaction)
+- 2026-10-30: [APPROVED] #367 Daily bot-filtered human visit count report (via reaction)
+- 2026-10-30: [REJECTED] #368 Regent route to unblock home CTA edit (note: preflight: "brand homepage" is not a file I can edit) (via preflight)
