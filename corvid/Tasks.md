@@ -1,5 +1,6 @@
 # Tasks
 
-- [x] From Steward: Log 18:00 ET human-only visit count verbatim (done)
-- [x] From Herald: Send today's human-only visit count for the click test denominator. (done)
-- [x] File home Korvus CTA click test (done)
+- [x] From Herald: human-only count answer (done)
+- [x] From Steward: 18:00 verbatim count (done)
+- [ ] Check #362 export for per-day data (open)
+- [ ] Watch X referrals from posts 351-355 (open)
