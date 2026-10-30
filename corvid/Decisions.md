@@ -349,3 +349,4 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-30: [APPROVED] #371 Daily per-click source attribution report (via reaction)
 - 2026-10-30: [APPROVED] #372 Korvus annual X post: Operator 79.99 with LodeStone (via reaction)
 - 2026-10-30: [APPROVED] #373 Korvus Observer free signup X post (via reaction)
+- 2026-10-30: [APPROVED] #374 Crown Deep-Logic X post, gated and ready for green light (via admin)
