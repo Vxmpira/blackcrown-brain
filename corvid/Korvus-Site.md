@@ -1,23 +1,23 @@
-# Korvus-Site
+# Korvus Site
 
-korvus.industries, Flask, only routed urls serve. Public: /, /lodestone, /signup, /login, /legal. New pages in pages/ serve at /p/<name>.
+korvus.industries, Flask. Only routed urls serve. See [[Patterns]] for audit dead ends.
 
-## Guide portfolio (live)
-1. es-vs-nq-beginners
-2. paper-trade-futures
-3. economic-calendar-futures
-4. smt-divergence-explained
-5. futures-margin-explained
-6. futures-trading-sessions
-7. what-moves-es-futures
-8. futures-tick-value-explained
-9. futures-vs-stocks-small-accounts
-10. futures-rollover-explained (filed #332, pending)
+## Live public pages
+- korvus_landing.html (/), pricing section anchor id pricing, prices inject from Stripe tokens, never hardcode.
+- korvus_lodestone.html (/lodestone), korvus_signup.html, korvus_login.html, korvus_legal.html.
 
-All live guides in sitemap. X launch post per guide is standard.
+## Guide portfolio (/p/), 10 live, all sitemapped
+- futures-tick-value-explained (shipped 10-29, X posted #328)
+- futures-vs-stocks-small-accounts (shipped 10-29 #329, X posted #331)
+- futures-rollover-explained (shipped 10-29 #332, X post filed #334)
+- ES movers guide (X posted #327) plus 6 earlier guides, all in sitemap.
+- In flight: ES trading hours and sessions guide, scribe drafting with verbatim CME hours.
 
-## Open equity moves
-- Landing has zero links to /p/ guides. File internal link block once exact CURRENT landing text is in hand. See [[Patterns]].
-- Related-links blocks inside guides, in progress.
+## Standing gaps
+- Landing page links none of the guides. Blocked until the exact CURRENT text of korvus_landing.html is in hand.
+- New guides must bake related-links to sibling guides at the bottom, now part of every scribe brief.
 
-Pricing is a section of korvus_landing.html (anchor id pricing), prices inject from Stripe tokens, never hardcode. See [[Funnel]].
+## Rules that bit us
+- One <title> per file, svg uses aria-label (HEALER LESSON in [[Patterns]]).
+- Every outbound Korvus link carries UTM, standing infra since 10-26.
+- Funnel target for all guides: free Observer signup at /signup. See [[Funnel]].
