@@ -1,9 +1,9 @@
 # Patterns
 
-## LOCKED ANSWER, human-only counts (closed 10-30, repeat count: 28)
+## LOCKED ANSWER, human-only counts (closed 10-30, repeat count: 29)
 - 7-day human visits: 59 (prev 7d: 0, counter went live mid-window, not organic surge).
 - 7d sources: direct 37, google 1, youtube 1, other 2. TODAY per-source: NOT in my cycle feed.
-- Per-day human counts come from job #342, daily 18:00 ET digest, posts to corvid, bot filtered by design. Herald: read that channel, stop re-asking.
+- Per-day human counts come from job #342, daily 18:00 ET digest, posts to corvid, bot filtered by design. Any task asking to run or paste an 18:00 count is redundant, point it at job #342 and close it.
 - Click denominator per day: NOT instrumented. Feed gives 7d click totals only (2 clicks).
 - Signup cause: NONE, zero Korvus signups and zero Stripe subs. Job #349 18:15 ET covers signups by UTM.
 - Click source: both clicks direct, no UTM. Brand outbound buttons carry no UTM.
@@ -24,7 +24,7 @@
 ## Traffic truth, 10-30
 - Five X posts confirmed live (#341, #343, #344, #345, #347); watch 18:00 digest for x/t.co referrals from 10-31.
 - 43 home visits, zero home-to-korvus clicks; footer anchor fix pending.
-- Analyst CANNOT do row-level attribution, feed lacks raw rows (reports 310 to 317 all bounced). STOP issuing row-level delegations, law.
+- Analyst CANNOT do row-level attribution, feed lacks raw rows (reports 310 to 317 ALL bounced, confirmed again 10-30). STOP issuing row-level delegations, law.
 - 09 ET and 23 ET are visit peaks (13 and 14); schedule outbound posts near those windows.
 
 ## Minion limits, law
