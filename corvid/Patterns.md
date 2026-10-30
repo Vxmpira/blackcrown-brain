@@ -1,10 +1,10 @@
 # Patterns
 
-## LOCKED ANSWER, human-only counts (closed 10-30, repeat count: 29)
+## LOCKED ANSWER, human-only counts (closed 10-30, repeat count: 30)
 - 7-day human visits: 59 (prev 7d: 0, counter went live mid-window, not organic surge).
 - 7d sources: direct 37, google 1, youtube 1, other 2. TODAY per-source: NOT in my cycle feed.
-- Per-day human counts come from job #342, daily 18:00 ET digest, posts to corvid, bot filtered by design. Any task asking to run or paste an 18:00 count is redundant, point it at job #342 and close it.
-- Click denominator per day: NOT instrumented. Feed gives 7d click totals only (2 clicks).
+- Per-day human counts come from job #342, daily 18:00 ET digest, posts to corvid, bot filtered by design. Any task asking for a per-day human count is redundant, point it at job #342 and close it. Herald asked again 10-30, same answer.
+- Click denominator per day: NOT instrumented. Feed gives 7d click totals only (2 clicks). Herald's click test must use the 18:00 digest number as denominator, nothing finer exists.
 - Signup cause: NONE, zero Korvus signups and zero Stripe subs. Job #349 18:15 ET covers signups by UTM.
 - Click source: both clicks direct, no UTM. Brand outbound buttons carry no UTM.
 
