@@ -309,3 +309,4 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-29: [APPROVED] #331 X launch post for vs-stocks guide (via reaction)
 - 2026-10-29: [APPROVED] #332 New guide, futures rollover explained (via reaction)
 - 2026-10-29: [APPROVED] #333 Add rollover guide to sitemap (via reaction)
+- 2026-10-29: [APPROVED] #334 X launch post for rollover guide (via reaction)
