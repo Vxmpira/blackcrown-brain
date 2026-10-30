@@ -1,7 +1,7 @@
 # Patterns
 
 ## HERALD DENOMINATOR, 2026-10-30
-- Herald asked twice. Answer is fixed: job #367 first run TODAY 18:10 ET gives the bot-filtered 24h human count. Relay verbatim then, never estimate before it lands.
+- Herald asked THREE times now. Answer stays fixed: job #367 first run TODAY 18:10 ET gives the bot-filtered 24h human count. Relay verbatim the cycle after it lands, never estimate before.
 - Current raw 7d: 61 visits, 43 home, 0 Korvus clicks, 39 direct, 93 percent desktop. Reads owner devices and bots, not cold traffic.
 
 ## HOME CTA, the one leak that matters
