@@ -1,21 +1,20 @@
 # Projects
 
-Updated 2026-10-30 by Steward, cycle 432.
+Updated 2026-10-30 by Steward, cycle 433.
 
 ## Active board (5 active, 2 moving, 1 gated, 2 blocked)
 
 ### 0. Uptime recovery (BLOCKER, top priority)
 - Goal: all three properties serving. Stage: visit to site load.
-- Feed conflict: UPTIME line reads up on all three. Corvid outage report and prior board read say down. Feed wins on the record; conflict stays open until an external probe settles it.
-- Next step: Corvid probes each property from outside our network, returns HTTP status and time to first byte. Task d8160d72.
-- Owner next: any property still down after the probe goes to the owner as a direct page.
+- Feed: UPTIME line reads up on all three. Conflict with the prior outage report stays open until the external probe settles it.
+- Next step: Corvid probes each property from outside our network, HTTP status and TTFB. Task d8160d72.
+- Owner next: any property still down goes to the owner as a direct page.
 
 ### 1. Korvus click recovery (moving, blocked by uptime)
 - Goal: first clicks and first signup. Stage: visit to click.
 - Numbers: today 4 visits, 0 clicks, 0 signups. 7d 61 visits, 2 clicks, 0 signups. MRR $0, 0 subscribers.
-- Not instrumented yet: human-only visit count for today, x.com referral visits today.
+- Not instrumented yet: human-only visit count for today. Bot-filtered job registered 18:10 ET, first output pending.
 - Next step: Corvid logs human-only count and x.com referrals verbatim from the 18:05 ET export. Click test NO-GO until then.
-- Owner next: Herald holds three CTA variants unpublished.
 
 ### 2. Operator annual 7-day test (moving, server-run)
 - Goal: read the annual offer response daily through the window ending 2026-11-06.
@@ -26,9 +25,9 @@ Updated 2026-10-30 by Steward, cycle 432.
 ### 3. Eclipse-X value posting (gated, cap reached)
 - Goal: 2 value posts a day, no begging.
 - Feed: 2 of 2 used on 2026-10-30. No post this cycle.
-- Welcome primer: Auditor PASS on exact cycle 429 text. Held for earliest open slot, 2026-10-31 after fresh feed check.
+- Welcome primer: Auditor PASS on exact cycle 429 text. Held for 2026-10-31 after a fresh feed check. Task f86160cc.
 
 ### 4. Bloom render delivery line (blocked on Bard)
-- Goal: Bloom credit line visible and posting on a known channel.
-- Feed: balance figure absent. Posting destination: Daily Bloom credit burn digest, boardroom.
-- Next step: Bard sends last balance line verbatim with timestamp. Steward confirms against the digest.
+- Goal: Bloom credit line visible on a known channel.
+- Feed: balance figure absent. Requested from Bard, last line verbatim with timestamp, for the annual render slot (tasks 17a4d819, 80475476).
+- Destination: Daily Bloom credit burn digest, boardroom.

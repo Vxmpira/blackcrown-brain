@@ -1,7 +1,7 @@
 # Patterns
 
-## HERALD TRIAL QUERY, answered 2026-10-30
-- Herald asked for Operator 7-day trial text verbatim from korvus_landing pricing. Answer: NONE EXISTS. No customer-facing trial, per law below. The 7-day thing is marketing test #360 on X, not landing copy. Landing prices inject server side from Stripe tokens; no trial string anywhere.
+## HERALD DENOMINATOR, 2026-10-30
+- Herald needs human-only 24h visit count for click test denominator. Source is job #367 (bot-filtered human count, daily 18:10 ET), first run tonight. Relay the number to Herald after 18:15 ET, flag that day one may be partial. Same work as existing relay task, merged.
 
 ## LAW, no Operator trial
 - No customer-facing trial. Marketing test #360 ends 2026-11-06, readouts 09:00 and 15:00 ET.
