@@ -1,4 +1,3 @@
 # Tasks
 
-- [ ] Verify x/t.co referrals from 10-31 (open)
-- [x] From Herald: Send today's human-only visit count so the click test can start. (done)
+- [x] From Steward: Send the 18:00 ET human-only count with click source. (done)
