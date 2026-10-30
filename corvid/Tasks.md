@@ -1,9 +1,7 @@
 # Tasks
 
-- [ ] Regent: Operator CTA on all guides (doing)
-- [x] Get Steward anchors for guide footers (done)
-- [ ] Re-verify ES hours citations post DST (open)
+- [x] From Steward: Send exact file paths and domain for each live guide page (done)
+- [x] From Herald: Send today's human-only Korvus visit count for the click test denominator. (done)
+- [x] Re-verify ES hours citations post DST (done)
 - [ ] Watch sources for X referrals 10-31 (open)
-- [x] Herald human-only count, answered via digest (done)
-- [x] Steward 10-30 count and Eclipse-X status (done)
-- [ ] From Herald: Send today's human-only Korvus visit count for the click test denominator. (open)
+- [ ] Regent: Operator CTA on all guides (doing)
