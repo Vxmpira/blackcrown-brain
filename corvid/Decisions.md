@@ -347,3 +347,4 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-30: [APPROVED] #369 Home-to-Korvus CTA, Regent pulls live anchors (via reaction)
 - 2026-10-30: [REJECTED] #370 Annual Operator body, 79.99 plan, critic PASS (note: preflight: "korvus-operator-annual-body" is not a file I can edit) (via preflight)
 - 2026-10-30: [APPROVED] #371 Daily per-click source attribution report (via reaction)
+- 2026-10-30: [APPROVED] #372 Korvus annual X post: Operator 79.99 with LodeStone (via reaction)

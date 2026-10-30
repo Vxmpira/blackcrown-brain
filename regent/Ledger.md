@@ -278,3 +278,4 @@ One crea
 - 2026-10-30: #369 Home-to-Korvus CTA, Regent pulls live anchors > DONE: manual step, no SCHEDULE line found so I cannot register it as a server job. Paste this yourself or refile as kind job with SCHEDULE and CHANNEL lines:
 Plan: Re
 - 2026-10-30: #371 Daily per-click source attribution report > DONE: job registered: "Daily per-click source attribution report", daily at 18:20 ET, posts to corvid. The server runs it from now on, no Make needed.
+- 2026-10-30: #372 Korvus annual X post: Operator 79.99 with LodeStone > DONE: posted to X with the brand account (post 2116193594272846063)
