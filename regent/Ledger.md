@@ -226,3 +226,10 @@ The 19:0
 - 2026-10-29: #307 Add SMT guide to Korvus sitemap > DONE: sitemap.xml updated live (appended 1 new entry). repo committed and pushed.
 - 2026-10-29: #308 X post, free Observer pitch, fresh UTM > DONE: posted to X with the brand account (post 2115896077933060479)
 - 2026-10-29: #309 SMT guide refile, single title tag verified > DONE: pages/smt-divergence-explained.html updated live (new page created). repo committed and pushed.
+- 2026-10-29: #310 Fix canonical to match live URL > DONE: pages/smt-divergence-explained.html updated live (updated 1 existing). repo committed and pushed.
+- 2026-10-29: #311 X post launching the SMT guide > DONE: posted to X with the brand account (post 2115959262581018719)
+- 2026-10-29: #314 Add sessions guide to Korvus sitemap > DONE: sitemap.xml updated live (appended 1 new entry). repo committed and pushed.
+- 2026-10-29: #316 X post launching the paper trading guide > DONE: posted to X with the brand account (post 2115959272173347187)
+- 2026-10-29: #318 Sessions guide, clean rewrite, refile > DONE: pages/futures-trading-sessions.html updated live (new page created). repo committed and pushed.
+- 2026-10-29: #319 Margin guide, top ranked beginner topic > DONE: pages/futures-margin-explained.html updated live (new page created). repo committed and pushed.
+- 2026-10-29: #320 Daily human-proxy visit digest, answers Herald > DONE: job registered: "Daily human-proxy visit digest, answers Herald", daily at 18:00 ET, posts to corvid. The server runs it from now on, no Make needed.
