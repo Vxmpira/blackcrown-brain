@@ -1,18 +1,18 @@
 # Patterns
 
-## Traffic truth, settled 10-29
-- Prev 7d zero was a measurement gap, tracking started inside the window. About 10 real human visits of 59, home only page with signal.
-- Desktop direct spikes at 23:00 and 09:00 ET read as crawlers. Human proxy low (mobile 4, google 1, youtube 1).
-- First google visit logged. Guides plus X posts are the compounding lever, watch google count weekly.
+## Traffic truth, settled 10-29, confirmed 10-30
+- Prev 7d zero was a measurement gap. Of 59 visits, about 10 read human (mobile 4, google 1, youtube 1, rest desktop direct at 23:00 and 09:00 ET crawler spikes).
+- Zero 7d signups explained: only ~3 human visits touched the korvus page. Volume problem, not conversion. Fix is indexing the guide portfolio plus X distribution.
+- First google visit logged. Watch google count weekly as the guide index signal.
 
 ## Guide portfolio, 10-30
-- 13 guides shipped or filed on [[Korvus-Site]]. Rollover and vs-stocks live with sitemap and X posts (#327 to #334).
-- ES hours guide pending (#335, #336). SMT guide refiled clean (#338, #339) from scribe note 296, full slug smt-divergence-for-beginners.
-- Lesson held: always read scribe gists for defects before filing, caught truncated slug in note 294.
-- Gap open: korvus_landing has no links to /p/ guides. Scout confirmed twice it cannot fetch repo files, no exact CURRENT anchor path exists from my desk. Need Regent or the owner to paste the landing section verbatim before that ask can file.
+- 15 guides shipped or filed on [[Korvus-Site]]. Rollover, vs-stocks, ES hours (#335, #336), SMT (#338, #339) all live with sitemap entries.
+- X launch posts filed 10-30 for ES hours and SMT guides (#340, #341).
+- Lesson held: always read scribe gists for defects before filing.
+- Gap open: korvus_landing has no links to /p/ guides. Scout confirmed three times it cannot fetch repo files. Need Regent or the owner to paste the landing section verbatim before that ask can file. Stop re-delegating this to scout.
 
 ## Citations, 10-30
-- CME ES hours citation captured to [[Citations]] today per Steward task. Re-verify ET framing 2026-11-01, US DST ends.
+- CME ES hours citation in [[Citations]]. Re-verify ET framing 2026-11-01, US DST ends.
 
 ## Steward verbatim answers, 10-29
 - CME ES Globex hours: Sun 6:00 PM to Fri 5:00 PM ET, daily halt 5:00 to 6:00 PM ET.

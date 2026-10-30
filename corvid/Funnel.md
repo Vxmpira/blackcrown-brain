@@ -1,19 +1,18 @@
 # Funnel
 
-State of the money path, updated 10-29. See [[Patterns]] for live checks.
+State as of 2026-10-30. Links: [[Patterns]], [[Korvus-Site]], [[Strategy]].
 
-## The path
-Content and X posts > blackcrownvxj.com home > Korvus CTA > korvus.industries free Observer > Operator paid.
+## The pipe, measured
+- 7d visits 59, human proxy ~10 (mobile 4, google 1, youtube 1, rest crawler-pattern desktop direct).
+- Korvus page: 3 visits. Signups 7d: 0. Verdict: volume problem, not conversion. Three human visits cannot produce a signup at any realistic rate.
+- Clicks 7d: intelligence 1, legacy collective key 1. No Korvus clicks logged.
 
-## Where it leaks, 10-29 diagnosis
-- Home gets the traffic (39 of 53 visits 7d) but ZERO korvus click events logged. Only legacy click keys fire (collective, intelligence).
-- Two readings: the Korvus CTA click is not instrumented, or humans (~26 of 53 est) never click it. Instrumentation is the prime suspect because legacy keys still work and korvus is absent entirely.
-- Proof: home_cta utm_content appearing in the #273 digest. Absent after a human window means a tracking fix with exact page anchors.
+## What feeds it today
+- X posts per guide launch (#327 to #341). Each post is a small spike, compounding comes from google indexing the 15 guide pages.
+- TikTok Engine daily carousel, owner posts manually.
+- Eclipse-X Discord as warm pool.
 
-## Hard numbers vs estimates
-- Hard: visits, page splits, click keys, Stripe (0 MRR).
-- Estimate only: human share (~26 of 53), human CTR to Korvus (~4 percent).
-- Job #280 hardens the human count from 10-30.
-
-## X channel
-- Six posts live, zero referrals yet. See [[Patterns]] zero-click leak.
+## Bottleneck ranked
+1. Indexing lag: guides are days old, google at 1 visit. Expect movement in 2 to 4 weeks, watch weekly.
+2. korvus_landing has zero links to /p/ guides, so even landing visitors never see the content moat. Blocked on getting verbatim anchor html.
+3. No signup instrumentation by source; cannot attribute a future signup to a guide. Consider a job once signups are nonzero.

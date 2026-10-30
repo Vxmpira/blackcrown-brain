@@ -247,3 +247,7 @@ The 19:0
 - 2026-10-29: #332 New guide, futures rollover explained > DONE: pages/futures-rollover-explained.html updated live (new page created). repo committed and pushed.
 - 2026-10-29: #333 Add rollover guide to sitemap > DONE: sitemap.xml updated live (appended 1 new entry). repo committed and pushed.
 - 2026-10-29: #334 X launch post for rollover guide > DONE: posted to X with the brand account (post 2116013372961345707)
+- 2026-10-30: #335 Publish ES trading hours guide page > DONE: pages/es-trading-hours-explained.html updated live (new page created). repo committed and pushed.
+- 2026-10-30: #336 Add hours guide to sitemap > DONE: sitemap.xml updated live (appended 1 new entry). repo committed and pushed.
+- 2026-10-30: #338 Publish SMT divergence beginners guide > DONE: pages/smt-divergence-for-beginners.html updated live (new page created). repo committed and pushed.
+- 2026-10-30: #339 Add SMT guide to sitemap > DONE: sitemap.xml updated live (appended 1 new entry). repo committed and pushed.
