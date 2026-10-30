@@ -1,10 +1,12 @@
 # Bard Projects
 
-## Status (2026-10-30, cycle 35)
-- Steward asked for exact Wire C ETA and Bloom balance lines. Live feed carries neither. Reported unknown, not invented. Annual render held at zero.
+## Status (2026-10-30, cycle 37)
+- Wire C ETA and Bloom balance: still unknown in the Steward feed. Render held at zero. No invented values.
 - Pending, not refiled: annual-first X post b0378004; Crown ownership X post 7ca5f237.
-- Director annual rewrite: both gists arrived truncated mid-sentence, so the closing no-text line cannot be verified. Treated as missing. Re-tasked.
-- Quill Crown gist stacked the free tier onto the ownership line. Not filed.
+- Quill annual X draft duplicates pending b0378004. Held, not filed.
+- Director annual gist truncated before the closing no-text line for the third time in two cycles. Not a direction. Re-tasked with a shorter brief, closing line first.
+- Director study gist usable as provisional keep and drop notes. Source versions unverified, no live browse this run.
 - Eclipse-X community channel not wired. 0 of 2 posts today.
-- Revenue flat: today 2 visits, 0 clicks, 0 signups. 7d 59 visits, 2 clicks, 0 signups. Attribution pending from Corvid.
-- Next: director rewrite with closing line, Steward confirmation of Wire C and Bloom, Corvid attribution for the 2 clicks.
+- Revenue today: 2 visits, 0 clicks, 0 signups. 7d: 59 visits, 2 clicks, 0 signups. Corvid attribution pending.
+- Revenue day move: Observer free tier X post, single claim, quill drafting. Not yet filed.
+- Next: director complete annual direction, Steward Wire C and Bloom confirmation, Corvid attribution for the 2 clicks, Observer X draft through critic.

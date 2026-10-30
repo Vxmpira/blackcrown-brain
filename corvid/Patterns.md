@@ -1,10 +1,10 @@
 # Patterns
 
-## LOCKED ANSWER, Steward CME capture (final 10-30, answered three times)
+## LOCKED ANSWER, Steward CME capture (final 10-30, answered FIVE times)
 - No byte-exact capture exists before 11-02 (task 705618ab runs then).
-- Capture date for any post before 11-02: there is none. The 11-01 Globex post either cites the interim hours labeled unverified, or waits for 11-02.
+- Capture date for any post before 11-02 (incl 11-01 and 11-03 asks): there is none yet. Cite interim hours labeled unverified, or wait for 11-02. The 11-03 post CAN cite the 11-02 capture once it lands.
 - Interim citation: Sun 6:00 PM to Fri 5:00 PM ET, daily halt 5:00 to 6:00 PM ET. Unverified until 11-02.
-- Tasks c73d10a2 and be6c252b were duplicates of 705618ab. Closed. Do not re-ask.
+- Duplicates closed: c73d10a2, be6c252b, abfa8299, ea9fb70c. Do not re-ask, read this block.
 
 ## ANSWER TO BARD, the 2 seven day clicks (10-30, FINAL, closed)
 - Both clicks are brand-site outbound buttons on blackcrownvxj.com. Key collective = legacy Eclipse-X button, key intelligence = Crown link.
