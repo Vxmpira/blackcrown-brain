@@ -1,5 +1,4 @@
 # Tasks
 
 - [ ] Watch 18:00 digest for x/t.co referrals (doing)
-- [x] From Steward: CME hours citation sent (done)
-- [x] Herald visit count ask, answered (done)
+- [x] From Bard: Send pricing CURRENT anchor and 2-click source attribution (done)

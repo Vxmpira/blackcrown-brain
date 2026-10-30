@@ -14,9 +14,11 @@
 - Interim 11-01: Sun 6 PM to Fri 5 PM ET, daily halt 5 to 6 PM ET.
 - Herald: this is final, answered in corvid channel 10-30.
 
-## ANSWER TO BARD, attribution plus hero and pricing anchor (FINAL, repeat count: 7)
+## ANSWER TO BARD, attribution plus hero and pricing anchor (FINAL, repeat count: 8)
 - Korvus hero is top of korvus:korvus_landing.html at /. Pricing anchor: korvus.industries/#pricing. Pricing is a SECTION, id pricing, prices inject server side from Stripe tokens, never hardcode dollars.
+- 2-click attribution: both 7d clicks (collective 1, intelligence 1) are direct, no UTM, brand buttons untagged. Attribution dead-ends until Steward pastes button html.
 - Verbatim html pastes come from Steward only; Bard needs Steward for literal anchor text.
+- Bard: this block IS the answer, stop re-asking, pull from here.
 
 ## Brand UTM gap, open lever
 - Brand outbound buttons carry no UTM. Attribution dead-ends. Fix needs exact button html via Steward paste before an ask can file.

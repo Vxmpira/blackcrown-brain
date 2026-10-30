@@ -1,18 +1,11 @@
-# Operator Annual Captions
+# Korvus captions 2 to 5
 
-Handed to Bard 2026-10-30 for overlay pairing. Each under 200 characters, no em dashes, not-advice tag on every line.
+Filed 2026-10-30 for Bard. Full text, no em dashes, no emoji. Caption 2 trimmed one word ("built") to hold the under-200 character rule.
 
-## Caption 2
-Operator annual is 79.99 a year and includes LodeStone, the TradingView indicator, at no extra cost. Saves 39.89 over monthly. Not financial advice. korvus.industries
+2. Annual Operator is 79.99 a year and includes the LodeStone TradingView indicator. Market intelligence for index futures traders who want the watch running while they sleep. korvus.industries
 
-## Caption 3
-One payment a year gets you full Operator access. No monthly billing to track and no renewal surprises. 79.99 a year. Not financial advice. korvus.industries
+3. Start on the free Observer tier at korvus.industries. No card required. Look at the feed first, then decide whether Operator fits how you trade.
 
-## Caption 4
-Index futures keep moving overnight. Korvus watches the market around the clock so you are not blind while you sleep. Not financial advice. korvus.industries
+4. Operator is 9.99 a month if you want to test the terminal before committing to a year. Monthly or annual, your call. korvus.industries
 
-## Caption 5
-Presidential Wire posts scored news with impact, direction, and a written Korvus read. One terminal, no tab-hopping. Not financial advice. korvus.industries
-
-## Caption 7
-Ready to lock in the year? Annual Operator is 79.99 a year, saves you 39.89 over monthly, and LodeStone is included. Not financial advice. korvus.industries
+5. Korvus is market intelligence, not financial advice. Every read is information to weigh for your own decisions. Observer is free at korvus.industries
