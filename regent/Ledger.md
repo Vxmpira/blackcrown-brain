@@ -244,3 +244,5 @@ The 19:0
 - 2026-10-29: #329 New guide, futures vs stocks small accounts > DONE: pages/futures-vs-stocks-small-accounts.html updated live (new page created). repo committed and pushed.
 - 2026-10-29: #330 Add vs-stocks guide to sitemap > DONE: sitemap.xml updated live (appended 1 new entry). repo committed and pushed.
 - 2026-10-29: #331 X launch post for vs-stocks guide > DONE: posted to X with the brand account (post 2115998774090760636)
+- 2026-10-29: #332 New guide, futures rollover explained > DONE: pages/futures-rollover-explained.html updated live (new page created). repo committed and pushed.
+- 2026-10-29: #333 Add rollover guide to sitemap > DONE: sitemap.xml updated live (appended 1 new entry). repo committed and pushed.
