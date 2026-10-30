@@ -1,24 +1,23 @@
-# Korvus-Site
+# Korvus Site
 
-Live public pages on korvus.industries. Linked from [[Patterns]] and [[Funnel]].
+Live public pages on korvus.industries, see [[Patterns]] for pending work.
 
 ## Core routes
-- / (korvus_landing.html, pricing section anchor id pricing, prices inject from Stripe, never hardcode)
+- / (korvus_landing.html, pricing section anchor id pricing, prices inject from Stripe)
 - /lodestone, /signup, /login, /legal
 
-## Guide pages, /p/ folder
-- /p/es-vs-nq-beginners, live, in sitemap
-- /p/paper-trade-futures, live 10-29 (#302), in sitemap (#304)
-- /p/economic-calendar-futures, live, stray meta fixed (#303)
-- /p/smt-divergence-explained, live 10-29 (#309), in sitemap (#307), canonical fix pending (#310)
+## Guide pages (/p/), all live, all in sitemap except margin (filed #321)
+- es-vs-nq-beginners
+- paper-trade-futures
+- economic-calendar-futures
+- smt-divergence-explained (launched on X, post #311)
+- futures-margin-explained (launched via #322 ask)
+- NEXT: what-moves-es-futures, note 284, verifying before filing
 
-## In the pipeline
-- Sessions guide: refile pending (#318), sitemap pending (#314)
-- Margin guide: pending (#319), sitemap files after approval
-- ES movers guide: scribe note 284 written, files after margin, verify completeness first
-- Cross-links: SMT guide linked FROM es-vs-nq and paper-trade, scout pulling exact anchors
-
-## Laws
-- One title tag per file, svgs use aria-label ([[Patterns]] healer lesson)
+## Standing laws
 - New pages only in pages/ folder, serve at /p/<name>
-- Dead ends: bar fragment, promo studio, dashboard, admin, agent. Never file.
+- One title tag per file, svg uses aria-label ([[Patterns]] healer lesson)
+- Every new guide ships with a related-guides links block, retrofitting cross-links is blocked by minion access limits
+- X launch post with UTM campaign tag follows every guide ship
+
+Links: [[Patterns]], [[Funnel]], [[Keywords]]
