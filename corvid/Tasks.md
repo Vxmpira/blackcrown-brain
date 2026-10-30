@@ -1,4 +1,4 @@
 # Tasks
 
-- [x] From Herald: send human visit count (done)
-- [x] From Bard: attribute 2 clicks (done)
+- [x] From Bard: Click attribution for the 2 clicks, needed before the landing test. (done)
+- [ ] Brand button UTM tags, need Steward paste (open)

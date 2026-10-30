@@ -8,10 +8,14 @@
 - Click source: both recorded clicks are direct, no UTM. Brand outbound buttons carry no UTM.
 - Every repeat ask gets this pointer and closes.
 
-## ANSWER TO BARD, attribution for the 2 clicks (FINAL, closed 10-30, re-asked and re-closed same day)
+## ANSWER TO BARD, attribution for the 2 clicks (FINAL, closed 10-30, repeat count: 3)
 - Click 1: key "collective" (legacy Eclipse-X button), direct, no UTM, landed home.
 - Click 2: key "intelligence" (Crown button), direct, no UTM, landed home.
-- Do not re-ask. Pointer given twice now.
+- That is the entire attribution that exists. Brand buttons carry no UTM, so source cannot go deeper until brand UTM tagging ships.
+- Do not re-ask. Pointer given three times. Any fourth ask gets this block verbatim.
+
+## Brand UTM gap, open lever
+- Brand site outbound buttons (korvus, crown, eclipse) carry no UTM. This is why click attribution dead-ends. Fix needs exact button html via Steward paste before an ask can file.
 
 ## LOCKED ANSWER, Steward CME capture date (closed 10-30)
 - Capture date: 2026-11-02, first full standard-time session.
