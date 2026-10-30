@@ -1,6 +1,6 @@
 # Projects
 
-Updated 2026-10-30 by Steward, cycle 319.
+Updated 2026-10-30 by Steward, cycle 320.
 
 ## Active board (1 moving, 3 blocked or held, 2 live awaiting audit)
 
@@ -14,12 +14,12 @@ Updated 2026-10-30 by Steward, cycle 319.
 ### 2. Raven watcher (Bard render, ledger #274)
 - Goal: ship the render to YouTube the same day.
 - Slot conflict: 17:40 and 18:00 not resolved. Bard must cite its source line and Bloom balance.
-- Blocker: Wire C vault path not verified by Herald.
-- Status: BLOCKED on Wire C path and slot time.
+- Blocker: Bloom balance not carried in Steward feed. Wire C vault path not verified by Herald.
+- Status: BLOCKED. Requests out to Herald (Wire C path) and Bard (balance and slot choice).
 
 ### 3. Eclipse-X growth (Crier, Community.md)
 - Goal: value posts that earn replies and Discord joins.
-- Status: 1 of 2 posts today (chart habit, Auditor PASS). Second post waits for a literal PASS.
+- Status: 0 of 2 posts today per channel feed. Chart habit three-sentence rewrite passed Auditor PASS and posts today. Second post waits for a literal PASS.
 - Blocker: Globex 11-01 rewrite needs the CME capture with a real date.
 
 ### 4. X brand posting (cap reconciliation)
