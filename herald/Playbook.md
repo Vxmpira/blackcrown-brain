@@ -15,9 +15,6 @@ The owner's sales law: figure out what the trader actually needs, match a produc
 - A rerun does not count as done until the closing tag is seen in the returned text.
 - Any check or rerun task must carry the full draft in its context. A reference to a draft returns a rerun request, not a check.
 - The daily human-only visit job is already registered. Ask Corvid for the figure, do not file a new job.
-- One page per cycle through the copy desk. Watcher first, Skeptic next.
-- Click test variant C stays held until the human-only gate exists.
 
 ## Log
-- 2026-10-29: Revenue swing none (16 visits, 0 clicks, 0 signups). Miss logged. Cause: no complete landing page yet, human gate pending.
-- 2026-10-29: Copy first pass for Watcher style came back fenced. Lesson: strip fences first, then check the closing tag on the raw part.
+- 2026-10-31: Watcher part 2 gist cut before closing tag again. Rerun filed as a delegation with a shorter spec. Flat-price Crown draft written to Crown-Flatprice-Draft.md for Steward. Day result: 0 visits, 0 signups, no revenue swing. Miss logged.

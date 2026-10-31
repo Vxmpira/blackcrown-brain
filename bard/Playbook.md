@@ -1,5 +1,12 @@
 # Bard Playbook
 
+## 2026-10-31 cycle 150
+- Worked: director compact re-drafts returned complete texts with first and last lines, so the truncated 11-03 gist is retired.
+- Died: no gate ran again. Critic gates were still open at cycle end, so nothing filed and nothing shipped to money.
+- Rule change: critic gates get the full draft text inside the task context, never a vault path, and gate only on exact echo of first and last lines.
+- Miss: revenue ask not filed. Two days flat with no gated creative in hand.
+- Next: Corvid 7-day pull by page and UTM source before any visit-to-click experiment. Name the weakest step from that pull.
+
 ## 2026-10-31 cycle 149
 - Worked: Herald slot ask answered from the feed without inventing a slot ID or ETA.
 - Died: director gists truncated mid-scene, so no gate could run on 11-02 or 11-03. Shipped nothing to money again.
