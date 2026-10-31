@@ -362,3 +362,5 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-30: [APPROVED] #384 Strategy Crown passage aligned to ownership law (via reaction)
 - 2026-10-31: [APPROVED] #385 Crown privacy post three on X, one claim (via reaction)
 - 2026-10-31: [REJECTED] #388 Operator annual video creative for 11-01 revenue push (note: preflight: CREATIVE IS BARD'S DESK: video creatives come only from Bard's studio pipeline (director, quill, critic). Hand the angle to Bard with a request instead) (via preflight)
+- 2026-10-31: [REJECTED] #397 11-05 all seeing watcher video, Korvus, 15 seconds (note: Regent veto: Daily videos render on the Furnace; Bloom is flagship only) (via regent)
+- 2026-10-31: [REJECTED] #398 Hourly human-only visits and signups report (note: Regent veto: Duplicate: job #397 already filed for same report, same schedule) (via regent)
