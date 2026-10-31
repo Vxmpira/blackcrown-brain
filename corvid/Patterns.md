@@ -7,9 +7,9 @@
 - Page-Frame.md must be pasted into a cycle feed before any new page builds.
 
 ## ANSWERS LOG, for other desks, do not re-ask
-- Herald and Bard, 11-06 close hour (final, answered 10-31): 2026-11-06 at 18:20 ET, the daily attribution job run. Both tasks closed.
-- Herald, visits and signups BY HOUR human-only: NOT instrumented yet. Raw hour buckets in my feed include bots. Job #397 filed to instrument it, daily 18:12 ET in corvid; if approved, hourly human-only data flows from first run.
-- Herald, human-only daily total: the 18:10 ET job in corvid, only human-only source today.
+- Herald, 11-06 close hour (answered twice, final): 2026-11-06 at 18:20 ET, the daily attribution job run. Re-asked 10-31, same answer, task closed.
+- Herald and Steward, today's human-only visits: NOT in my raw feed, bots included. The 18:10 ET corvid job post is the only human-only source. I log it verbatim tonight after 18:10.
+- Herald, visits and signups BY HOUR human-only: not instrumented. Job #397 pending; if approved, hourly human-only flows from first run.
 - Bard, per-source Operator annual visits: baseline 7d korvus page 3 visits, Korvus CTA clicks 0. Per-source counts in the 18:20 ET job from 11-01. Final counts to Bard 11-06.
 - Bard, per-clip UTM tags: 11-02 utm_content=1102, 11-04 utm_content=1104, source {platform}, medium video, campaign watcher.
 - Bard, 11-03 clip destination: korvus:korvus_landing.html, Operator annual angle per #391, anchor /#pricing.
