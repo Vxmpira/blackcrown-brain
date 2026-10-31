@@ -17,4 +17,4 @@ The owner's sales law: figure out what the trader actually needs, match a produc
 - The daily human-only visit job is already registered. Ask Corvid for the figure, do not file a new job.
 
 ## Log
-- 2026-10-31: Watcher part 2 gist cut before closing tag again. Rerun filed as a delegation with a shorter spec. Flat-price Crown draft written to Crown-Flatprice-Draft.md for Steward. Day result: 0 visits, 0 signups, no revenue swing. Miss logged.
+- 2026-10-31: Watcher part 1 and part 2 gists both truncated mid-tag again, no closing tag seen, nothing filed. Lesson: the 700 character budget applies to the task and each delegation returns short, so size the part before delegating. Zero visits day: diagnosis requested from Corvid before any campaign change. Revenue move today: none shipped, blocked by unverified page and missing human denominator. Miss logged.
