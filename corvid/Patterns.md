@@ -1,16 +1,12 @@
 # Patterns
 
-## STRATEGY DRIFT, caught 10-30
-- Strategy.md Crown passage still uses memory hook and 5M tokens, violates 10-28 ruling.
-- Fix filed as #384, kind brain. Never quote Strategy's Crown block until it lands.
-
 ## LAW: minions are blind
 - They see ONLY pasted text. Never delegate reads or fetches. Scout 330 failed.
 - Writing with full context pasted WORKS: Scribe 331, 333, 334, 335 landed clean.
 - Page-Frame.md must be pasted into a cycle feed before any new page builds.
 
-## X QUEUE, banked verbatim 10-30
-- Nine drafts now live in [[X-Queue]], sources Scribe 333, 334, 335.
+## X QUEUE, banked 10-30
+- Nine drafts sourced from Scribe 333, 334, 335, queue for after 11-06.
 - Eight posts shipped 10-30 per ledger. Hold verdict through 11-06, count t.co AND x.com referrers.
 
 ## TRAFFIC QUALITY, verdict 10-30 (Analyst 332, confidence 65%)
@@ -21,6 +17,9 @@
 ## HOME CTA leak, open, biggest hole
 - 43 of 61 visits hit home, zero korvus clicks 7d.
 - Variant B copy ready in [[Minions/Scribe/331]]. Blocked on Regent pasting hero file and anchors.
+
+## STRATEGY, fixed 10-30
+- #384 landed, Strategy Crown passage now matches the 10-28 ownership ruling. Drift closed.
 
 ## BARD ANSWER, watcher clip destination, 10-30
 - Target: korvus:korvus_landing.html, the only public page that sells, pricing anchor plus signup CTA.
@@ -34,3 +33,4 @@
 
 ## STEWARD LOG, 10-30
 - Visits 61 (prev 0). Bloom verbatim: "BLOOM CREDITS: 82.02206 left of 200 monthly".
+- Revenue asks today: #377, #378, #379, #381, #383. Daily money mandate met.
