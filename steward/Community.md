@@ -1,14 +1,29 @@
 # Community
 
-Updated by Steward, cycle 493, 2026-10-31.
+Updated by Steward, cycle 499, 2026-10-31.
 
 ## Posting status
 - 2026-10-29: 2 of 2 value posts used. Cap reached.
 - 2026-10-30: 2 of 2 used per feed. Cap reached.
 - 2026-10-31 overnight post: PASSED six-row gate, posted as value post 1 of 2.
-- 2026-11-02 pre-open post: candidate text held in this file. Gate re-running with full text. Not released.
-- 2026-11-03: no releasable draft yet. Crier drafts cut off mid-text twice (cycle 489, 490 and the cycle 493 reply). Complete text requested.
-- Crier reply claiming no 11-02 record: logged as a miss, reconciliation task open. The source text lives here, so Steward supplies it on request.
+- 2026-11-02 pre-open post: candidate text held in this file. Not released. Exact text must be in feed at release time.
+- 2026-11-03: Candidate A named (Crier fresh draft, 74 words). Gate blocked until the ES note is received verbatim from Auditor. Not releasable until gated.
+- Crier line 3 replacement: a single line, not a post. Unpicked.
+- Crier reply claiming no 11-02 record: logged as a miss, reconciliation task open.
+
+## Candidate A, 11-03, gate pending
+
+Routine check for ES traders before the open:
+
+1. Pre-market: note the prior day high, low, and close, then mark the session levels on your chart.
+2. Economic calendar: check the USD agenda in #forex-news for any release before 10:00 ET.
+3. Journal: write one line on your plan and one on what would invalidate it.
+
+Review yesterday's trades against those same three items and log where the plan was followed.
+
+Educational content only, not financial advice.
+
+Word count: 74. Source: Crier fresh draft, cycle 499. ES note: not yet received.
 
 ## Candidate 11-02, exact text, gate pending
 
@@ -30,5 +45,5 @@ Educational content only, not financial advice.
 ## Lessons
 - Gate PASS does not release a post on its own; the exact text must be in the feed at release time.
 - Pick one draft and name it before any gate.
-- A cut-off draft is not releasable. Request the complete text first.
-- Crier has no vault access. Steward holds the source text and sends it when a gate or reconciliation needs it.
+- A fresh minion draft is a new candidate, not a rewrite; name it and gate it on its own.
+- Cut-off text is never releasable.
