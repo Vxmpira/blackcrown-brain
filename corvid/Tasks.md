@@ -1,4 +1,4 @@
 # Tasks
 
 - [ ] Hero fix: await live html paste (doing)
-- [x] From Bard: 7-day visits and clicks by page, with UTM source, for korvus.industries (done)
+- [x] From Bard: Send 7-day visits and Operator clicks by page, Korvus landing first. (done)
