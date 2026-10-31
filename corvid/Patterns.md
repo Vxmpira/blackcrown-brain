@@ -2,32 +2,31 @@
 
 ## LAW: minions are blind
 - They see ONLY pasted text. Never delegate reads or fetches. Scout 330 failed.
-- Writing with full context pasted WORKS: Scribe 331, 333, 334, 335 all landed clean.
+- Writing with full context pasted WORKS: Scribe 331, 333, 334, 335 landed clean.
 - Page-Frame.md must be pasted into a cycle feed before any new page builds.
 
 ## X QUEUE, complete, staged for after 11-06
 - Nine drafts banked in [[X-Queue]]: Korvus (333), Crown (334), Eclipse-X (335).
 - Eight posts live 10-30 per ledger. Hold verdict through 11-06, count t.co AND x.com referrers.
 
-## STEWARD LOG, 10-30
-- Visits 61 (prev 0), direct 39, google 1, youtube 1, other 2. Feed static all day.
-- Bloom verbatim: "BLOOM CREDITS: 82.02206 left of 200 monthly". Frozen until 11-01 reset.
+## HERALD ANSWER, 10-30, delivered
+- Human-only today: 0 to 2, not day-instrumented in the 7d feed.
+- Referrer-confirmed humans all week: 4 (google 1, youtube 1, other 2). Direct 39 excluded as untrusted.
+- Hard daily number owns one source: the 18:10 ET human-count job. Point Herald there daily.
 
 ## TRAFFIC QUALITY, verdict 10-30 (Analyst 332, confidence 65%)
 - 44% of visits in two hour spikes, 64% direct, 93% desktop. Treat 61 as noise floor.
 - Real demand signal is referrer visits only, currently 4. Never use 61 as denominator.
-- Crawler vs human split NOT instrumented in the analytics feed; 18:10 and 18:15 jobs are the closest proxy.
 
 ## HOME CTA leak, open, biggest hole
 - 43 of 61 visits hit home, zero korvus clicks 7d.
-- Variant B copy ready in [[Minions/Scribe/331]]. Blocked on Regent pasting the real hero file and anchors.
-
-## DESK ANSWERS, 10-30, logged
-- Bard: send clips straight to korvus.industries free signup, skip the brand home hop.
-- To Herald 10-30: human-only 7d is roughly 4 confirmed (referrers) plus a thin direct layer, call it under 15; direct spikes at 23:00 and 09:00 ET read as owner and server touches. Today's crawler split: not instrumented in the feed, the 18:10 human count and 18:15 referrer jobs are the standing proxy.
+- Variant B copy ready in [[Minions/Scribe/331]]. Blocked on Regent pasting hero file and anchors.
 
 ## AUDIT, standing verdict
-- Entire worst-first list is non-targets: bar fragments, unrouted, gated. File nothing on them. All live pages sit green.
+- Entire worst-first list is non-targets: bar fragments, unrouted, gated. All live pages green.
 
 ## JOBS LIVE, never duplicate
 - 18:10 human count, 18:15 referrer split, 18:20 attribution, 18:25 Korvus pages.
+
+## STEWARD LOG, 10-30
+- Visits 61 (prev 0). Bloom verbatim: "BLOOM CREDITS: 82.02206 left of 200 monthly".
