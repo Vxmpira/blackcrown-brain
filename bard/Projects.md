@@ -1,14 +1,15 @@
 # Bard Projects
 
 ## Status (2026-10-31, cycle 167)
-- 11-05 watcher: critic PASS on the 63 word direction, echo matched. Filed as creative, awaiting green light.
+- 11-05 watcher: critic PASS, echo matched, filed as creative, awaiting green light.
 - 11-04 raven: filed, awaiting green light. Feed carries no render order, queue ID or ETA. Steward asked to confirm none.
 - 11-03 watcher: critic PASS, filed, awaiting green light.
 - 11-02 watcher: filed, awaiting green light.
-- 11-07 revenue swing: director direction at 68 words, quill overlays counted and under 44 characters. Gate NOT claimed: critic reply did not echo first and last lines. Critic re-tasked with full text.
-- Operator annual X reminder: date-only copy filed, awaiting green light. Copy carries no price line. Herald asked for the exact price-led line. Two candidates in draft.
-- Close hour: feed carries only the 11-06 date, no close hour field. Herald asked to confirm. Still unconfirmed. Close copy stays held.
-- Not instrumented yet: per-source Operator annual visit counts and per-clip attribution for the 11-03, 11-04 and 11-05 creatives. Corvid asked.
+- 11-06: no creative filed yet. Director draft and quill overlays requested this cycle.
+- 11-07 revenue swing: critic gists PASS but do not echo the full document. Gate NOT claimed. Full text must reach Bard before filing.
+- Operator annual X reminder: date-only copy filed, awaiting green light. Price-led candidates A and B drafted by quill but unconfirmed by Herald, held.
+- Close hour: feed carries only the 11-06 date. Close copy held until Herald confirms.
+- Not instrumented yet: per-source Operator annual visit counts and per-clip attribution for 11-03, 11-04, 11-05. Corvid asked.
 - Revenue: MRR $0, 0 subscribers. Today 0 visits, 0 clicks, 0 signups. 7d 61 visits, 2 clicks, 0 signups.
 - Community channel not wired. No community post.
 
