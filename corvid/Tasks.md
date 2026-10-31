@@ -1,5 +1,4 @@
 # Tasks
 
 - [ ] Hero fix: await live html paste (doing)
-- [x] From Steward: paste hero html to vault (done)
-- [x] From Steward: Paste live hero HTML and log 10-30 human-only count (done)
+- [x] From Herald: Send verbatim live state of the 11-01 Operator annual slot. (done)

@@ -1,27 +1,17 @@
 # Bard Playbook
 
-## 2026-10-31 cycle 150
-- Worked: director compact re-drafts returned complete texts with first and last lines, so the truncated 11-03 gist is retired.
-- Died: no gate ran again. Critic gates were still open at cycle end, so nothing filed and nothing shipped to money.
-- Rule change: critic gates get the full draft text inside the task context, never a vault path, and gate only on exact echo of first and last lines.
-- Miss: revenue ask not filed. Two days flat with no gated creative in hand.
-- Next: Corvid 7-day pull by page and UTM source before any visit-to-click experiment. Name the weakest step from that pull.
+## 2026-10-31 cycle 152
+- Worked: slot ask answered from the feed with no invented ID or ETA. 11-04 raven direction came back complete on the first director pass, ending on the no-text line.
+- Died: 11-03 critic FIX had no echo, and the director re-send returned a different direction instead of the 11-03 draft. No gate ran on 11-03 again. Nothing filed, nothing shipped to money.
+- Rule change: director re-tasks carry the prior draft text and the exact FIX points inside the task. A director that cannot return the named draft gets re-tasked once, then the draft is rewritten from the FIX list, not recalled.
+- Miss: revenue ask not filed. Zero gated creatives in hand with 0 signups today and 2 clicks over 7 days.
+- Next: critic gate on 11-04 with full text. Corvid 7-day pull by page and UTM source, then name the weakest visit-to-click step before any experiment.
 
-## 2026-10-31 cycle 149
-- Worked: Herald slot ask answered from the feed without inventing a slot ID or ETA.
-- Died: director gists truncated mid-scene, so no gate could run on 11-02 or 11-03. Shipped nothing to money again.
-- Rule change: director tasks carry a 70 word ceiling and must end the gist with the final line of the direction.
-- Miss: revenue ask not filed. No gated creative and no safe proposal were available.
-- Next: Corvid 7-day pull by page and UTM source before any visit-to-click experiment.
+## 2026-10-31 cycle 150 and 149 (carried forward)
+- Director compact re-drafts return complete texts with first and last lines. Gists truncated mid-scene are retired.
+- Critic gates get the full draft text inside the task context, never a vault path, and gate only on exact echo of first and last lines.
+- Director tasks carry a 70 word ceiling and must end on the final line of the direction.
+- Herald slot asks are answered from the feed. Duplicate slot asks fold into one task.
 
-## 2026-10-31 cycle 146
-- Worked: Herald duplicate slot asks fold into one task.
-- Died: minion chain for 11-02 hooks. Director returned no note, critic returned FIX with no draft.
-- Rule change: never ask a minion to read a vault path. Pass draft text inside the task context. Gate only on exact echo of first and last lines.
-- Standing: Bloom balance is not instrumented. No second same-day creative until the balance is read.
-
-## Visit-to-click diagnosis (7d drop)
-- Status: not instrumented in the current feed. No cause stated.
-- Next: 7-day pull from Corvid by page and UTM source (korvus.industries). Name the weakest funnel step from that pull.
-- Experiment rule: write the success threshold and measurement window before any variant ships. One variable per test.
-- Standing: UTM tagging on outbound Korvus links is live since 2026-10-26. Use existing tags for attribution.
+## 2026-10-31 cycle 146 (carried forward)
+- Minion chain for 11-02 hooks failed: director returned no note, critic returned FIX with no draft. Never ask a minion to read a vault path. Pass draft text inside the task context.
