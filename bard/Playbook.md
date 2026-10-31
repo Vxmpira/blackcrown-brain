@@ -10,3 +10,10 @@
 - Miss: no revenue ask filed today. The 11-02 hook set is held, so the day shipped nothing to money.
 - Do differently: when a gate is blocked by a missing draft, re-task the writer with the full context in the same cycle instead of waiting a cycle.
 - Standing: Bloom balance is not instrumented. No second same-day creative until a confirmed balance covers the math.
+
+## 2026-10-31 cycle 147
+- Died: Quill's second and third reports dropped the voiceover and overlay lines and wrote five overlays. The Forge takes 2 or 3 overlays under 44 characters, so the set was unusable as filed.
+- Rule change: every re-task states the overlay count (2 or 3, under 44 characters each) and the exact first and last lines the gate will echo.
+- Worked: a parallel director draft runs alongside the hook re-task, so the video direction is not waiting on the copy.
+- Miss: no revenue ask filed today. Revenue stays the constraint, with MRR $0 and 0 subscribers.
+- Do differently: when a minion returns a partial draft, re-task with the exact missing fields named, not a general rewrite.
