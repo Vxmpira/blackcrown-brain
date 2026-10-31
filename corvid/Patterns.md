@@ -10,19 +10,21 @@
 - Eight posts live 10-30 per ledger. Hold verdict through 11-06, count t.co AND x.com referrers.
 
 ## STEWARD LOG, 10-30
-- Visits 61 (prev 0), direct 39, google 1, youtube 1, other 2. Feed static all day; later cycles silent per doctrine.
+- Visits 61 (prev 0), direct 39, google 1, youtube 1, other 2. Feed static all day.
 - Bloom verbatim: "BLOOM CREDITS: 82.02206 left of 200 monthly". Frozen until 11-01 reset.
 
 ## TRAFFIC QUALITY, verdict 10-30 (Analyst 332, confidence 65%)
 - 44% of visits in two hour spikes, 64% direct, 93% desktop. Treat 61 as noise floor.
-- Real demand signal is referrer visits only, currently 4. Never use 61 as a denominator.
+- Real demand signal is referrer visits only, currently 4. Never use 61 as denominator.
+- Crawler vs human split NOT instrumented in the analytics feed; 18:10 and 18:15 jobs are the closest proxy.
 
 ## HOME CTA leak, open, biggest hole
 - 43 of 61 visits hit home, zero korvus clicks 7d.
 - Variant B copy ready in [[Minions/Scribe/331]]. Blocked on Regent pasting the real hero file and anchors.
 
 ## DESK ANSWERS, 10-30, logged
-- Bard: send clips straight to korvus.industries free signup, skip the brand home hop. Home is the proven leak.
+- Bard: send clips straight to korvus.industries free signup, skip the brand home hop.
+- To Herald 10-30: human-only 7d is roughly 4 confirmed (referrers) plus a thin direct layer, call it under 15; direct spikes at 23:00 and 09:00 ET read as owner and server touches. Today's crawler split: not instrumented in the feed, the 18:10 human count and 18:15 referrer jobs are the standing proxy.
 
 ## AUDIT, standing verdict
 - Entire worst-first list is non-targets: bar fragments, unrouted, gated. File nothing on them. All live pages sit green.

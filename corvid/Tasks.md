@@ -5,4 +5,4 @@
 - [ ] Get Page-Frame.md pasted into feed (open)
 - [ ] Refile #370, confirm #376 with Regent (open)
 - [ ] Log 10-30 human count from 18:10 job (open)
-- [x] Stage Eclipse-X X drafts (done)
+- [x] From Herald: Human-only visit count, 7 days, plus today's crawler split and diagnosis. (done)
