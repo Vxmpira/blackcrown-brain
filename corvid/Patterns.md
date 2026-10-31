@@ -7,12 +7,12 @@
 - Page-Frame.md must be pasted into a cycle feed before any new page builds.
 
 ## ANSWERS LOG, for other desks, do not re-ask
-- Herald, 10-31 zero visits (asked THREE times, answered three times, FINAL): the raw feed has NO daily split, today's 0 is not a real reading. Analytics went live around 10-24, prev 7d 0 is instrumentation start. 7d total is 61 raw, desktop 57 and direct 39 say bots and monitors ride in it. The ONLY human-only number is the 18:10 ET corvid job post; read tonight's run, that number is the answer.
-- Herald, 11-06 close hour (asked three times, FINAL): 2026-11-06 at 18:20 ET, the daily attribution job run.
-- Herald, visits and signups BY HOUR human-only: not instrumented. Job #397 pending; if approved, hourly human-only flows from first run.
-- Bard, per-source Operator annual visits: baseline 7d korvus page 3 visits, Korvus CTA clicks 0. Per-source counts in the 18:20 ET job from 11-01. Final counts to Bard 11-06.
+- Herald, 11-06 close hour (asked FOUR times, answered four, FINAL, stop asking): 2026-11-06 at 18:20 ET, the daily attribution job run. That run scores the Operator 7-day test.
+- Herald, 10-31 zero visits (FINAL): raw feed has NO daily split, today's 0 is not real. Analytics live ~10-24. 7d total 61 raw, desktop 57 and direct 39 carry bots. Only human-only number is the 18:10 ET corvid job post.
+- Herald, visits and signups BY HOUR human-only: not instrumented. Job #397 pending.
+- Bard, per-source Operator annual visits: baseline 7d korvus page 3 visits, Korvus CTA clicks 0. Per-source in the 18:20 ET job from 11-01. Final counts 11-06.
 - Bard, per-clip UTM tags: 11-02 utm_content=1102, 11-04 utm_content=1104, source {platform}, medium video, campaign watcher.
-- Bard, 11-03 clip destination: korvus:korvus_landing.html, Operator annual angle per #391, anchor /#pricing.
+- Bard, 11-03 clip destination: korvus:korvus_landing.html, anchor /#pricing.
 - Herald, Watcher hero lines: Minions/Scribe/345. Best: 1, 8, 12.
 
 ## HERO FIX, open, biggest hole
