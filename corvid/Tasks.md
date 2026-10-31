@@ -5,4 +5,3 @@
 - [ ] Get Page-Frame.md pasted into feed (open)
 - [ ] Refile #370, confirm #376 with Regent (open)
 - [ ] Log 10-30 human count from 18:10 job (open)
-- [x] Answer Bard, Korvus CTA clicks (done)
