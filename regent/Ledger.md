@@ -289,3 +289,4 @@ Plan: Re
 - 2026-10-30: #381 First Eclipse-X post on X, free join > DONE: posted to X with the brand account (post 2116285215148511540)
 - 2026-10-30: #383 UTM-tagged Korvus CTA test post on X > DONE: posted to X with the brand account (post 2116312147592376347)
 - 2026-10-30: #384 Strategy Crown passage aligned to ownership law > DONE: Strategy.md updated in the vault, now law
+- 2026-10-31: #385 Crown privacy post three on X, one claim > DONE: posted to X with the brand account (post 2116384388900425944)

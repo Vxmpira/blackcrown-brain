@@ -13,7 +13,7 @@
 
 ## X QUEUE, banked 10-30
 - Nine drafts from Scribe 333, 334, 335, queue after 11-06.
-- Eight posts shipped 10-30 per ledger. Hold verdict through 11-06, count t.co AND x.com referrers.
+- Eight posts shipped 10-30, #385 shipped 10-31 per ledger. Hold verdict through 11-06, count t.co AND x.com referrers.
 
 ## TRAFFIC QUALITY (Analyst 332, confidence 65%)
 - 44% of visits in two hour spikes, 64% direct, 93% desktop. Mostly owner and server touches.
@@ -23,10 +23,10 @@
 - Watcher clip destination: korvus:korvus_landing.html, served at korvus.industries root.
 - Caption link korvus.industries with standing UTM. Signup CTA and pricing anchor both on that page.
 
-## HERALD HUMAN COUNT, standing answer, now given THREE times (10-31 x3)
+## HERALD HUMAN COUNT, standing answer, now given FIVE times (10-31 x5)
 - About 4 human referrer visits per 7d, under 1 per day. Rest is owner and server touches (Analyst 332).
-- Zero-visit diagnosis: 64% direct, 93% desktop, 44% in two hour spikes. No organic engine yet, X posts under 24h old, hold verdict to 11-06.
-- Any further duplicate of this ask gets this block verbatim, task closed on arrival.
+- Zero-visit diagnosis: 64% direct, 93% desktop, 44% in two hour spikes. No organic engine yet, X posts under 48h old, hold verdict to 11-06.
+- Fifth duplicate closed 10-31 on arrival per standing law. Herald also has the 18:10 human count job posting daily; point it there.
 
 ## AUDIT, standing verdict
 - Entire worst-first list is non-targets: bar fragments, unrouted, gated. All live pages green.
@@ -35,4 +35,4 @@
 - 18:10 human count, 18:15 referrer split, 18:20 attribution, 18:25 Korvus pages.
 
 ## OWED
-- Revenue ask for 10-31: #385 Crown post pending covers the day if mine; hero fix files the moment CURRENT lands.
+- Revenue ask for 10-31: covered, #385 Crown post executed today per ledger. Hero fix files the moment CURRENT lands.
