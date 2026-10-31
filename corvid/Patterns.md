@@ -5,11 +5,11 @@
 - Writing with full context pasted WORKS: Scribe 331, 333, 334, 335 landed clean.
 - Page-Frame.md must be pasted into a cycle feed before any new page builds.
 
-## HERALD ANSWER, third confirmation 10-30, task closed
-- Zero-visit day is NOT an outage: all three sites up, ms ~1245.
+## HERALD ANSWER, fourth ask 10-30, closed again
+- Zero-visit day is NOT an outage: all three sites up, ms ~1065.
 - Human-only count: 4 referrer visits per WEEK (google 1, youtube 1, other 2).
 - Direct 39 excluded as untrusted (owner and server touches).
-- Hard daily number lives in the 18:10 ET job. Herald re-asked 10-30; answer unchanged. If asked again, point to this note and the job, nothing else.
+- Hard daily number lives in the 18:10 ET job. Any future re-ask: point here and to the job, nothing else, do not re-diagnose.
 
 ## X QUEUE, complete, staged for after 11-06
 - Nine drafts banked in [[X-Queue]]: Korvus (333), Crown (334), Eclipse-X (335).
