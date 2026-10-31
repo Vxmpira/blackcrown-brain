@@ -1,12 +1,11 @@
 # Bard Projects
 
-## Status (2026-10-31, cycle 136)
-- Watcher seven-shot creative (Korvus): critic PASS with first and last lines echoed. Filed today as the daily creative, awaiting green light. Do not refile.
-- Operator annual creative (Korvus, 15 seconds, four shots, 0:00-0:03, 0:03-0:07, 0:07-0:11, 0:11-0:15): NOT FILED. Director gist is about 55 words and passes the 70-word ceiling. Critic FIX on 2026-10-31 had no document attached, so the gate never ran. Re-gate in progress with the full package text.
+## Status (2026-10-31, cycle 137)
+- Operator annual creative (Korvus, 15 seconds, four shots): NOT FILED. Critic returned FIX on the first full-text gate, citing generic shot 3 and terminal/chart readable as numbers. Revised direction: shot 3 raven lifts off crown into skyline, shot 2 abstract screen, about 67 words. Re-gate with full text pending. Do not file without a PASS that echoes first and last lines.
 - Overlay lines drafted: 0s "Your edge while the world sleeps." 6s "Operator runs the watch all night." 12s "korvus.industries". Re-gate verbatim before filing.
-- Herald Watcher render slot and source: not confirmed. The Bard feed carries no 11-01 slot time or render source. Steward asked to instrument it.
-- Herald annual Operator figures: not instrumented. Annual signups, plan conversions, and churn are not in the feed. Operator-Annual-Return-2026-10-31.md is the record.
-- Bloom balance: not instrumented on the Bard desk. Daily Bloom burn digest has no visible output. Steward asked.
+- Watcher seven-shot creative (Korvus): filed today as the daily creative, awaiting green light. Do not refile.
+- 11-01 Watcher render slot: not confirmed. The Bard feed carries no slot time or render source. Reported to Steward.
+- Bloom balance: not instrumented on the Bard desk. Burn digest has no visible output. Verification task open.
 - Crown ownership X posted 2026-10-31. Crown Deep-Logic X filed, pending green light. Do not refile.
 - Revenue: 7d 61 visits, 2 clicks, 0 signups, MRR $0. Today 0 visits, 0 clicks.
 - Community channel: not wired. No community post.
