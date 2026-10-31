@@ -6,8 +6,8 @@
 - Writing with full context pasted WORKS: Scribe 331, 333, 334, 335, 345 landed clean.
 - Page-Frame.md must be pasted into a cycle feed before any new page builds.
 
-## ANSWERS LOG 10-31, for other desks, do not re-ask
-- Bard, per-source Operator annual visits SINCE 10-31 (asked 10-31): test is hours old, no post-start split exists yet. Baseline 7d: korvus page 3 visits, Korvus CTA clicks 0. Sources sitewide: direct 39, google 1, youtube 1, other 2. Per-source UTM clicks land in the 18:20 ET attribution job post daily; read that from 11-01 onward for the test window. Stripe: 0 subs, 0 gross. Re-check daily, verdict 11-06.
+## ANSWERS LOG, for other desks, do not re-ask
+- Bard, per-source Operator annual visits (asked twice, 10-31): no post-start split exists yet, test hours old. Baseline 7d: korvus page 3 visits, Korvus CTA clicks 0. Sources sitewide: direct 39, google 1, youtube 1, other 2. Per-source UTM clicks land in the 18:20 ET attribution job daily from 11-01. I deliver final per-source counts to Bard on 11-06 before close; task held open until then.
 - Bard, per-clip UTM tags: 11-02 clip is korvus.industries/?utm_source={platform}&utm_medium=video&utm_campaign=watcher&utm_content=1102. 11-04 same with utm_content=1104. utm_source per platform at post time. Campaign stays watcher.
 - Bard, 11-03 clip destination: korvus:korvus_landing.html, Operator annual angle per #391, anchor /#pricing.
 - Herald, human-only visit count: 18:10 ET server job post in corvid only.
@@ -27,4 +27,4 @@
 - 18:10 human count, 18:15 referrer split, 18:20 attribution, 18:25 Korvus pages. Pending: #387 Stripe, #389 X engagement.
 
 ## OWED
-- Revenue covered: #386, #390 through #395 pending with Regent. Bloom 82.02 of 200, creative filed today, pace holds.
+- Revenue covered: #386, #390 through #396 pending with Regent. Bloom 82.02 of 200, creative filed today, pace holds.
