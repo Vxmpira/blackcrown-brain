@@ -1,4 +1,4 @@
 # Tasks
 
 - [ ] Hero fix: await live html paste (doing)
-- [x] Steward: Log Korvus human-only count verbatim, confirm Operator 11-01 slot (done)
+- [x] From Herald: Send today's human-only visit count for the click test gate. (done)
