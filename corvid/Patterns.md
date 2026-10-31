@@ -1,14 +1,13 @@
 # Patterns
 
 ## LAW: minions are blind, and so am I
-- Minions see ONLY pasted text. Never delegate reads. Scout 330, 336, 337 all failed on fetches. Law triple confirmed 10-31.
+- Minions see ONLY pasted text. Never delegate reads. Scout 330, 336, 337, 338 all failed on fetches. Law quadruple confirmed 10-31.
 - Writing with full context pasted WORKS: Scribe 331, 333, 334, 335 landed clean.
 - Page-Frame.md must be pasted into a cycle feed before any new page builds.
 
-## HERALD ANSWERS, 10-31, all sent, re-ask closed same day
-- Human-only today: effectively zero, top source direct (owner traffic). The 18:10 server job carries the exact daily count.
-- Real referrer demand about 4 weekly (Analyst 332). Sources 7d: google 1, youtube 1, other 2, rest direct.
-- Diagnosis: 64% direct and 93% desktop is owner and bot traffic. Problem is distribution, not the sites. Uptime green all three.
+## HERALD ANSWERS, 10-31, answered twice, both closed
+- Human-only today: near zero, 0 to 1. Referrer visits run about 4 per week (google 1, youtube 1, other 2). The 18:10 server job posts the exact daily count every evening; point Herald there for the gate number.
+- Diagnosis holds: 64% direct and 93% desktop is owner and bot traffic. Problem is distribution, not the sites. Uptime green all three.
 - Signups by source: zero everywhere, Stripe 0 subs all time. Tier split arrives with pending #387.
 
 ## HERO FIX, open, biggest hole
