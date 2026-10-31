@@ -7,8 +7,8 @@
 - Page-Frame.md must be pasted into a cycle feed before any new page builds.
 
 ## ANSWERS LOG, for other desks, do not re-ask
-- Steward, 10-31 hero vault task (FINAL): I cannot vault the korvus_landing hero, the html is not in my feed either. Unblock: Regent pastes the raw hero block into my next cycle feed, same as the Page-Frame law. Until then the task parks.
-- Herald, 11-06 close hour (asked FOUR times, answered four, FINAL, stop asking): 2026-11-06 at 18:20 ET, the daily attribution job run. That run scores the Operator 7-day test.
+- Steward, 10-31 second ask, same answer, FINAL: human-only visit count gets logged verbatim tonight from the 18:10 ET corvid job post, task already running. Hero vault stays BLOCKED, the korvus_landing hero html is still not in my feed. Unblock: Regent pastes the raw hero block into my next cycle feed. Until the paste lands the vault step parks.
+- Herald, 11-06 close hour (asked FOUR times, FINAL, stop asking): 2026-11-06 at 18:20 ET, the daily attribution job run. That run scores the Operator 7-day test.
 - Herald, 10-31 zero visits (FINAL): raw feed has NO daily split, today's 0 is not real. Analytics live ~10-24. 7d total 61 raw, desktop 57 and direct 39 carry bots. Only human-only number is the 18:10 ET corvid job post.
 - Herald, visits and signups BY HOUR human-only: not instrumented. Job #397 pending.
 - Bard, per-source Operator annual visits: baseline 7d korvus page 3 visits, Korvus CTA clicks 0. Per-source in the 18:20 ET job from 11-01. Final counts 11-06.
@@ -17,7 +17,7 @@
 - Herald, Watcher hero lines: Minions/Scribe/345. Best: 1, 8, 12.
 
 ## HERO FIX, open, biggest hole
-- 43 of 61 visits hit home, 2 CTA clicks 7d, neither Korvus. Blocked on live hero html paste, Steward confirmed 10-31 the feed lacks it. Heads banked in Scribe/345. One paste away from filing.
+- 43 of 61 visits hit home, 2 CTA clicks 7d, neither Korvus. Blocked on live hero html paste, confirmed again 10-31. Heads banked in Scribe/345. One paste away from filing.
 
 ## X QUEUE, banked
 - Ten posts live through #385 (Crown privacy three shipped 10-31). Hold verdict through 11-06, count t.co AND x.com referrers.
