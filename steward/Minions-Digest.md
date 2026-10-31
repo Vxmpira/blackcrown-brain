@@ -31,3 +31,14 @@
 - Crown copy gate pattern: Post 2 PASS required exact Crowned 49.99 with 5 million tokens, free tier 10,000 tokens with no card, room names Unfiltered, Deep-Logic, Visual Analysis, Creativity, and never "unlimited"; Auditor corrected the Crown tier name check to "Crowned" and flagged that X is parked, not wired.
 - Auditor's standing gate checks: the Oct 30 annual savings claim is 9.99 x 12 = 119.88 vs 79.99, a 33.3% saving, so "about a third less" holds; any outbound korvus.industries link must carry UTM tags.
 - Eclipse-X reply log template was built for Oct 27 with a weekly total row; no reply or join counts exist yet, so the metric is not instrumented.
+
+## 2026-10-31 (30 notes condensed)
+- Nov 1 Eclipse-X journaling post passed Auditor's gate at 79 words after a FAIL was overturned; its closing line "Not financial advice." is confirmed present, and the outcome line was softened to "Thirty entries in, patterns can surface that memory alone may miss." (Crier and Auditor are independent drafts, not the same text, so the final live copy must be taken from the published version.)
+- Crier's Nov 1 rewrites repeatedly failed to return verbatim text because the source draft was never in context; lesson: desks must pass full block text or vault path with every gate or rewrite request.
+- Auditor's gate criteria for Eclipse-X blocks: under 90 words, no superlatives, no bare link, a named trading concept, no price call, ends with "Not financial advice."
+- Oct 30 Operator no-link post drafted with session-habit journaling framing; Auditor PASS on content but conditional on platform confirmation (YouTube is the only wired target for that post type).
+- Nov 2 #korvus-indicator LodeStone post: Auditor PASS on the full body; advisory that the body's "Buy buttons are in this channel" line should name #korvus-indicator explicitly.
+- LodeStone feature set as used in copy: seven layers (session times with timezone control, prior day and week levels, premium and discount, resting liquidity, SMT divergence, restrained volume profile, sweep cleanup), V7.5, ICT basis, drawn from completed session data.
+- Crier's Nov 2 Korvus-indicator value draft used the Tradovate $149 one time and TradingView $19.99 a month pricing correctly; no Korvus landing prices hardcoded.
+- Auditor's Nov 2 checklist draft listed Crown as "5 million tokens" and free tier "10,000 tokens": conflicts with the rule that Crown usage is presented as money, never token counts, and must be corrected before any future gate uses it.
+- Auditor's Nov 2 checklist also flagged "zero repainting" wording as a risk; the Nov 2 body was gated with a drawing-behavior phrasing instead, so the approved language is "levels are drawn from completed session data and stay where they were drawn."

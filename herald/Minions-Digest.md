@@ -59,3 +59,12 @@
 - Korvus Observer CTA variants (202) are compliant: "Start with Observer, free" and "Free Observer, no card needed" with no performance claims; usable for the homepage hero test.
 - Overnight worry moments (215): the 2 to 3 a.m. ET Asia-to-London handoff, overnight central bank and international data releases, and thin-liquidity stop runs are the three fears to build overnight hook copy around.
 - Index-watch landing copy (216, 217) needs the not-advice line and must be written as a complete document in the vault before filing; neither draft in the notes was confirmed complete.
+
+## 2026-10-31 (30 notes condensed)
+- Korvus cold hook candidates (unscored, Herald to pick): "One screen watches every index future so you don't have to." / "Stop juggling tabs. One watcher scans index futures for you." / "The all seeing watcher that never closes its eyes on futures." (Prospector 220)
+- Cold traffic drop-off hypotheses for Korvus, none measured: viewer can't tell what Korvus is in the first seconds, wrong audience for the hook, no clear next step. Testable fix: an opening overlay naming the category, compared on click rate per 30 views against the current opening. (Prospector 221)
+- Korvus cold open overlay lines, all under 44 characters, honest and ready as literal overlay text: "Market intelligence for index futures." (38), "Built for traders watching NQ and ES." (37), "Watches the market while you sleep." (35). (Prospector 223)
+- Table of five overnight cold-open lines scored for honesty and stopping power; "Index futures at 3 a.m.? Korvus is watching." (44 chars) rated the strongest hook. (Prospector 227)
+- Honesty flag for watcher copy: "Index futures don't stop at 3 a.m. Korvus doesn't either." scored 3/5 because "never stops" reads as an uptime guarantee; futures have daily halts and a weekend close, so avoid absolute uptime wording. (Prospector 232)
+- Crown hook 3 overlay drafts quote token counts ("10,000 free tokens", "5 million tokens"), violating the money-not-tokens rule; Crown copy must present allowance as dollars of room credit. (Pitch 224, Prospector 225, Copy 228, Copy 247)
+- Crown cold-traffic hypotheses, unmeasured: work-data distrust (test a "what happens to what I paste?" hook

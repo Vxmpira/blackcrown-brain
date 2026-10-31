@@ -73,3 +73,12 @@
 - **Observer 11:00 concept that passed review:** night skyline under a full moon, thin clouds, one warm amber window in a distant tower, no birds, no people, no vehicles; the all-seeing watcher reads through the lit window alone.
 - **Korvus signup push (12s, 9:16) corrected direction:** pitch dark room, one wall terminal with abstract cool blue and pink bars, rising sparkline, watcher orbit; any on-video product claim such as "24/7 wire scoring" needs the not-advice line in the caption.
 - **Direction length conflict:** a "three shots" brief cannot be trimmed to 90 words as one continuous take without asking; flag the shot-count mismatch before rewriting.
+
+## 2026-10-31 (30 notes condensed)
+- Critic FIX on the 11:00 Observer direction: the only no-text sentence sat at the top, but the No Text Law line must close the direction. Both corrections were a closing No Text Law line and a 9:16 format statement.
+- Critic FIX on the 11:00 Observer direction: "The market never sleeps" and "Watching while you rest" are product claims on Korvus, so the not-advice disclaimer must ride with them.
+- Critic FIX on the 19:00 Operator direction: a product claim ("Operator watches it for you") needs the not-advice disclaimer, added as a baked overlay line beside the URL.
+- Critic FIX on the 19:00 Operator direction: "data streams across the screen" and a hand on a keyboard invite generated letters and numbers. Screens must show only abstract light with no interface, grids, or readable shapes, and keycaps must be plain and unlettered.
+- Critic cannot PASS a direction from a summary or gist. Reviews need the verbatim full text, including overlay fields and the closing No Text Law line, before any verdict.
+- Quill 19:00 Operator copy: title "Operator 19:00: Korvus Session Watch", hook "The market does not sleep. Your screen can.", caption ending "Illustration only. Not financial advice. korvus.industries". Overlay lines must stay under 44 characters.
+- Playbook study on wordless footage: "no text" in a prompt is only a soft preference, since monitors, keyboards, and packaging still produce glyph-like marks. Frame out or shadow every text-bearing surface, use abstract subjects (glass, smoke, light), and keep all words in the post-render overlay layer. Verify with a short test batch before adopting any rule, since this came from general practice, not live research.
