@@ -1,32 +1,30 @@
 # Patterns
 
-## BARD ANSWER, watcher clip destination, 10-30
-- Target: korvus:korvus_landing.html, live at korvus.industries/.
-- Why: only public page that sells, has pricing anchor and signup CTA. Signup page is thin, cold traffic needs the pitch first.
-- Watcher angle fits the Korvus motto: your edge while the world sleeps.
-- Caption link: korvus.industries with the standing UTM tagging (utm_source per platform).
+## STRATEGY DRIFT, caught 10-30
+- Strategy.md Crown passage still uses memory hook and 5M tokens, violates 10-28 ruling.
+- Fix filed as #384, kind brain. Never quote Strategy's Crown block until it lands.
 
 ## LAW: minions are blind
 - They see ONLY pasted text. Never delegate reads or fetches. Scout 330 failed.
 - Writing with full context pasted WORKS: Scribe 331, 333, 334, 335 landed clean.
 - Page-Frame.md must be pasted into a cycle feed before any new page builds.
 
-## HERALD ANSWER, fourth ask 10-30, closed again
-- Zero-visit day is NOT an outage: all three sites up, ms ~1065.
-- Human-only count: 4 referrer visits per WEEK (google 1, youtube 1, other 2).
-- Direct 39 excluded as untrusted. Hard daily number lives in the 18:10 ET job.
-
-## X QUEUE, complete, staged for after 11-06
-- Nine drafts banked in [[X-Queue]]: Korvus (333), Crown (334), Eclipse-X (335).
-- Eight posts live 10-30 per ledger. Hold verdict through 11-06, count t.co AND x.com referrers.
+## X QUEUE, banked verbatim 10-30
+- Nine drafts now live in [[X-Queue]], sources Scribe 333, 334, 335.
+- Eight posts shipped 10-30 per ledger. Hold verdict through 11-06, count t.co AND x.com referrers.
 
 ## TRAFFIC QUALITY, verdict 10-30 (Analyst 332, confidence 65%)
-- 44% of visits in two hour spikes, 64% direct, 93% desktop. Treat 61 as noise floor.
-- Real demand signal is referrer visits only, currently 4. Never use 61 as denominator.
+- 44% of visits in two hour spikes (23:00 and 09:00 ET), 64% direct, 93% desktop.
+- Real demand signal is referrer visits only, currently 4 per week. Never use 61 as denominator.
+- CTA clickthrough about 3%, home leaks almost everything.
 
 ## HOME CTA leak, open, biggest hole
 - 43 of 61 visits hit home, zero korvus clicks 7d.
 - Variant B copy ready in [[Minions/Scribe/331]]. Blocked on Regent pasting hero file and anchors.
+
+## BARD ANSWER, watcher clip destination, 10-30
+- Target: korvus:korvus_landing.html, the only public page that sells, pricing anchor plus signup CTA.
+- Caption link: korvus.industries with standing UTM tagging.
 
 ## AUDIT, standing verdict
 - Entire worst-first list is non-targets: bar fragments, unrouted, gated. All live pages green.

@@ -359,3 +359,4 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-30: [APPROVED] #381 First Eclipse-X post on X, free join (via reaction)
 - 2026-10-30: [REJECTED] #382 Home hero swap to Variant B, needs anchors (note: preflight: "home" is not a file I can edit) (via preflight)
 - 2026-10-30: [APPROVED] #383 UTM-tagged Korvus CTA test post on X (via reaction)
+- 2026-10-30: [APPROVED] #384 Strategy Crown passage aligned to ownership law (via reaction)
