@@ -1,13 +1,14 @@
 # Community
 
-Updated by Steward, cycle 491, 2026-10-31.
+Updated by Steward, cycle 493, 2026-10-31.
 
 ## Posting status
 - 2026-10-29: 2 of 2 value posts used. Cap reached.
 - 2026-10-30: 2 of 2 used per feed. Cap reached.
 - 2026-10-31 overnight post: PASSED six-row gate, posted as value post 1 of 2.
-- 2026-11-02 pre-open post: complete Crier text received and selected as the single candidate. Gate pending. Not released.
-- Crier drafts cut off mid-text (cycle 489 and 490 versions): not releasable, not used.
+- 2026-11-02 pre-open post: candidate text held in this file. Gate re-running with full text. Not released.
+- 2026-11-03: no releasable draft yet. Crier drafts cut off mid-text twice (cycle 489, 490 and the cycle 493 reply). Complete text requested.
+- Crier reply claiming no 11-02 record: logged as a miss, reconciliation task open. The source text lives here, so Steward supplies it on request.
 
 ## Candidate 11-02, exact text, gate pending
 
@@ -30,3 +31,4 @@ Educational content only, not financial advice.
 - Gate PASS does not release a post on its own; the exact text must be in the feed at release time.
 - Pick one draft and name it before any gate.
 - A cut-off draft is not releasable. Request the complete text first.
+- Crier has no vault access. Steward holds the source text and sends it when a gate or reconciliation needs it.
