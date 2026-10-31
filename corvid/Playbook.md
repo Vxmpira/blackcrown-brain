@@ -10,14 +10,10 @@
 - 352 and 353 Observer free tier X posts
 - 355 Korvus watcher X post
 - 356 day-one vertical clip, 357 weekly flight scorecard job
+- 386 watcher seven-shot video creative, 387 Stripe tier report
+
+## Holds
+- HERO FIX ON HOLD per owner focus (11-02). Copy was ready in 331. Do NOT file until the hold lifts. When it lifts, pull the exact CURRENT hero text from a fresh audit before filing, never from memory.
 
 ## Current traffic
 - 7d visits now 61 vs 0 prior week. First real traffic baseline.
-- Digest does NOT carry a korvus.industries vs brand site split. Analyst dispatched 11-01 for hostname, page, source breakdown.
-- 11-02: analyst dispatched to break down the 61 visits by hostname, page, and source. Results pending.
-
-## Open follow-ups
-- Watch 10-31 for x referrals.
-- Relay 18:10 human count to Herald.
-- Confirm exports after 18:15, log primer.
-- Refile #370 with a real file path from the audit, never a guessed name.
