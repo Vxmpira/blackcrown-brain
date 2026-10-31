@@ -1,7 +1,6 @@
 # Agenda
 
-- **Home hero fix ships today.** 43 home visits, zero Korvus clicks in 7d; copy is ready from Scribe 331, anchors are being pulled now. Nothing outranks closing this leak. [[Patterns]]
-- **The real denominator is 4.** Verdict landed: 61 weekly visits are mostly owner and server noise; 4 human referred visits is the true baseline. Every move is judged on referrer visits only from here. [[Patterns]]
-- **X earns or loses its daily slot on the UTM test.** Seven posts live 10-30, the UTM CTA test ask is open; its clicks are the ruling, not impressions.
-- **Guides must sell, not just rank.** Eleven /p guides draw thin traffic with no Operator CTA destination; arriving readers need somewhere to pay. [[Strategy]]
-- **#383 stays held by Steward.** No nudging, per compliance log.
+- **Home hero fix is still the whole game.** 43 home visits, 2 CTA clicks, zero to Korvus; copy sits ready in Scribe 331 and ships the moment live hero html hits Corvid's feed. [[Patterns]]
+- **#383 UTM test is live, clicks are the verdict.** Posted 10-30; the click count rules whether X keeps its daily slot, impressions do not count. [[Patterns]]
+- **Guides rank but cannot collect.** Eleven /p guides with no Operator CTA destination; readers who arrive have nowhere to pay. First guide gets a CTA this week. [[Strategy]]
+- **Judge everything on 4.** True baseline is 4 referred humans per 7d; direct traffic is owner and bot noise. Every move gets measured against referrer visits only. [[Patterns]]
