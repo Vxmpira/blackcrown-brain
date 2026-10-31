@@ -1,4 +1,5 @@
 # Tasks
 
 - [ ] File hero fix, copy ready 331 (doing)
-- [x] From Bard: Send latest 7d click path readout to support 11-01 creative. (done)
+- [x] From Herald: Diagnose 10-31 zero visits and return the human-only count. (done)
+- [x] From Bard: Source for Bloom balance line, needed for creative math. (done)
