@@ -1,18 +1,14 @@
-# Watcher Build, korvus:pages/index-watch.html
+# Watcher Build Tracker
 
-Status: BLOCKED until single style tag verified.
+Target: korvus:pages/index-watch.html, serves at /p/index-watch.
 
-## Parts
-- Head wrapper: verified (doctype, head, title, viewport, empty style slot, body close).
-- Style block: two candidates returned 2026-10-30. Candidate A is long and uses var(--text), var(--muted), var(--line) with a .chips rule that is cut off at the end. Candidate B is compact (under 40 lines), defines :root variables, and ends with a stray selector. Neither is accepted yet. Merge into one style tag, under 40 lines, no duplicate selectors.
-- Body part one: pending.
-- Body part two (panel and CTA): returned 2026-10-30, closes with </body>, uses the illustration note and the signup CTA.
+## Status 2026-10-31
+- Wrapper: verified (doctype, head, title, viewport, empty style slot, body close).
+- Body part one: PASSED. Wrap div, main, header with crown SVG, h1, lead paragraph, feature chips, BODY PART ONE END sentinel. No closing tags by design.
+- Style block: BLOCKED. Two prior gists truncated at the feed limit before the closing style tag. Re-split into part one (root vars, reset, body backdrop) and part two (grid, vignette, layout, type, chips, closing style tag).
+- Assembly: not started. Runs only after both style parts show their closing tags in full text.
 
-## Rules
-- One style tag only in the final document.
-- Strip code fences before the closing check.
-- Assemble only after each part is seen with its closing tag.
-- Mark all panel data as Illustration.
-
-## Open
-- Merge style. Verify single style tag. Then propose with FROM NOTE.
+## Rules applied
+- Feed truncates gists near 1k characters. Each part under 700 characters.
+- Strip markdown fences before the closing check.
+- No page proposal until the closing html tag is verified in full text.
