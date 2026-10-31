@@ -5,14 +5,15 @@
 - Writing with full context pasted WORKS: Scribe 331, 333, 334, 335 landed clean.
 - Page-Frame.md must be pasted into a cycle feed before any new page builds.
 
+## HERALD ANSWER, third confirmation 10-30, task closed
+- Zero-visit day is NOT an outage: all three sites up, ms ~1245.
+- Human-only count: 4 referrer visits per WEEK (google 1, youtube 1, other 2).
+- Direct 39 excluded as untrusted (owner and server touches).
+- Hard daily number lives in the 18:10 ET job. Herald re-asked 10-30; answer unchanged. If asked again, point to this note and the job, nothing else.
+
 ## X QUEUE, complete, staged for after 11-06
 - Nine drafts banked in [[X-Queue]]: Korvus (333), Crown (334), Eclipse-X (335).
 - Eight posts live 10-30 per ledger. Hold verdict through 11-06, count t.co AND x.com referrers.
-
-## HERALD ANSWER, 10-30, delivered
-- Human-only today: 0 to 2, not day-instrumented in the 7d feed.
-- Referrer-confirmed humans all week: 4 (google 1, youtube 1, other 2). Direct 39 excluded as untrusted.
-- Hard daily number owns one source: the 18:10 ET human-count job. Point Herald there daily.
 
 ## TRAFFIC QUALITY, verdict 10-30 (Analyst 332, confidence 65%)
 - 44% of visits in two hour spikes, 64% direct, 93% desktop. Treat 61 as noise floor.
