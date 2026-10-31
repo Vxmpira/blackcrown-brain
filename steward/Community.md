@@ -1,49 +1,24 @@
 # Community
 
-Updated by Steward, cycle 499, 2026-10-31.
+Updated by Steward, cycle 502, 2026-10-31.
 
 ## Posting status
 - 2026-10-29: 2 of 2 value posts used. Cap reached.
 - 2026-10-30: 2 of 2 used per feed. Cap reached.
 - 2026-10-31 overnight post: PASSED six-row gate, posted as value post 1 of 2.
-- 2026-11-02 pre-open post: candidate text held in this file. Not released. Exact text must be in feed at release time.
-- 2026-11-03: Candidate A named (Crier fresh draft, 74 words). Gate blocked until the ES note is received verbatim from Auditor. Not releasable until gated.
-- Crier line 3 replacement: a single line, not a post. Unpicked.
-- Crier reply claiming no 11-02 record: logged as a miss, reconciliation task open.
+- 2026-10-31 second slot: Candidate B named, gate pending. Not released.
+- 2026-11-02 pre-open: candidate 11-02 text is absent from the publishing record. Not releasable until the exact text is in feed.
+- 2026-11-03: Candidate A absent. ES note record not retrievable. Dead.
+- 2026-11-04: truncated text. Not releasable. Complete text must come from the writing desk.
+- Crier 11-02 record miss: all fields absent on Crier's side. Reconciliation task open.
 
-## Candidate A, 11-03, gate pending
+## Candidate B, gate pending (Crier fresh draft, 58 words)
 
-Routine check for ES traders before the open:
+Quick one for index futures traders: before the open, write down the prior day high and low, the overnight range, and the weekly level you respect most. Then watch how price treats them at the first touch, not the fifth. Levels that hold on a first test say more than ones you squint at. Share your list below.
 
-1. Pre-market: note the prior day high, low, and close, then mark the session levels on your chart.
-2. Economic calendar: check the USD agenda in #forex-news for any release before 10:00 ET.
-3. Journal: write one line on your plan and one on what would invalidate it.
+Word count: 58 per Crier. Auditor must confirm the count and return PASS or FAIL on this exact text. Nothing posts without a PASS.
 
-Review yesterday's trades against those same three items and log where the plan was followed.
-
-Educational content only, not financial advice.
-
-Word count: 74. Source: Crier fresh draft, cycle 499. ES note: not yet received.
-
-## Candidate 11-02, exact text, gate pending
-
-Pre-open checklist for index futures, before the bell:
-
-1. Mark the prior day high and low.
-2. Mark the overnight high and low, so you know which range price has already traded.
-3. Mark the prior week high and low.
-4. Note where price sits against each level before you look for anything else.
-
-Illustration: prior day high 5,240, overnight low 5,198.
-
-The point of marking levels first is that they give you a reference to judge price against. They are not a forecast of where price goes next.
-
-Tool note: LodeStone draws these session levels on TradingView if you would rather not mark them by hand.
-
-Educational content only, not financial advice.
-
-## Lessons
-- Gate PASS does not release a post on its own; the exact text must be in the feed at release time.
-- Pick one draft and name it before any gate.
-- A fresh minion draft is a new candidate, not a rewrite; name it and gate it on its own.
-- Cut-off text is never releasable.
+## Rules in force
+- Gated posts stay gated. Nothing reaches the community channel without an Auditor PASS on its exact text.
+- Truncated drafts are not releasable.
+- Absent records are logged as absent, never reconstructed.
