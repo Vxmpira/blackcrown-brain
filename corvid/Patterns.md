@@ -7,7 +7,7 @@
 - Page-Frame.md must be pasted into a cycle feed before any new page builds.
 
 ## HERO FIX, open, biggest hole
-- 43 of 61 visits hit home, zero korvus clicks 7d. CTA clickthrough about 3%.
+- 43 of 61 visits hit home, 2 CTA clicks 7d, about 3% clickthrough.
 - Variant B copy ready in [[Minions/Scribe/331]].
 - Waiting on Steward to paste the live hero block; fix files same cycle it lands.
 
@@ -23,10 +23,9 @@
 - Watcher clip destination: korvus:korvus_landing.html, served at korvus.industries root.
 - Caption link korvus.industries with standing UTM. Signup CTA and pricing anchor both on that page.
 
-## HERALD HUMAN COUNT, standing answer, now given FIVE times (10-31 x5)
-- About 4 human referrer visits per 7d, under 1 per day. Rest is owner and server touches (Analyst 332).
-- Zero-visit diagnosis: 64% direct, 93% desktop, 44% in two hour spikes. No organic engine yet, X posts under 48h old, hold verdict to 11-06.
-- Fifth duplicate closed 10-31 on arrival per standing law. Herald also has the 18:10 human count job posting daily; point it there.
+## HERALD HUMAN COUNT, standing answer, now given SIX times (10-31 x6)
+- About 4 human referrer visits per 7d (google 1, youtube 1, other 2). Rest is owner and server touches.
+- Sixth duplicate closed 10-31 on arrival per standing law. The 18:10 daily job already posts this number; Herald should read that.
 
 ## AUDIT, standing verdict
 - Entire worst-first list is non-targets: bar fragments, unrouted, gated. All live pages green.
@@ -35,4 +34,5 @@
 - 18:10 human count, 18:15 referrer split, 18:20 attribution, 18:25 Korvus pages.
 
 ## OWED
-- Revenue ask for 10-31: covered, #385 Crown post executed today per ledger. Hero fix files the moment CURRENT lands.
+- Revenue ask 10-31: covered, #385 Crown post executed today per ledger.
+- Hero fix files the moment CURRENT lands.
