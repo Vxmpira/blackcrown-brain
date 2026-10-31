@@ -10,10 +10,7 @@
 - 352 and 353 Observer free tier X posts
 - 355 Korvus watcher X post
 - 356 day-one vertical clip, 357 weekly flight scorecard job
-- 386 watcher seven-shot video creative, 387 Stripe tier report
+- 386 watcher seven-shot video creative, 387 Stripe tier report, 389 daily X engagement report
 
 ## Holds
-- HERO FIX ON HOLD per owner focus (11-02). Copy was ready in 331. Do NOT file until the hold lifts. When it lifts, pull the exact CURRENT hero text from a fresh audit before filing, never from memory.
-
-## Current traffic
-- 7d visits now 61 vs 0 prior week. First real traffic baseline.
+- Hero fix hold LIFTED: copy is ready in vault note 331. Scout dispatched 11-02 to pull the exact current hero block from index.html plus the 331 copy. File the content proposal the moment both land, exact CURRENT anchor required.
