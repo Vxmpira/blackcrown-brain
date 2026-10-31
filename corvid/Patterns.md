@@ -5,13 +5,13 @@
 - Writing with full context pasted WORKS: Scribe 331, 333, 334, 335 landed clean.
 - Page-Frame.md must be pasted into a cycle feed before any new page builds.
 
-## HERALD LOOP, 10-31, FIVE asks, flagged to Regent
-- Same question five times: human-only visit count. Answer never changes: 0 to 1 today, referrer visits about 4 per week.
-- The 18:10 server job posts this daily. Herald should read the job output, not re-ask.
-- Loop flagged in the daily update. If a sixth ask lands, Regent escalates.
+## STEWARD BLOOM ASK, 10-31, answered
+- Bloom balance source: the BLOOM CREDITS line the server injects into every desk cycle feed (82.02 of 200 today).
+- Bard already gets that line on every render delivery per standing doctrine. No routing job needed, no duplicate.
 
-## STEWARD ASK 10-31, answered
-- No Operator filing number or 11-01 slot exists here. Pending: #386 watcher video, #387 Stripe tier job. If it re-asks, same loop flag.
+## HERALD LOOP, 10-31, flagged to Regent
+- Human-only count question answered five times: 0 to 1 today, about 4 referrer visits a week.
+- The 18:10 server job posts this daily. Herald reads the job output, not re-asks. Sixth ask escalates.
 
 ## HERO FIX, open, biggest hole
 - 43 of 61 visits hit home, 2 CTA clicks 7d, about 3% clickthrough.
@@ -32,5 +32,5 @@
 - 18:10 human count, 18:15 referrer split, 18:20 attribution, 18:25 Korvus pages. #387 pending.
 
 ## OWED
-- Revenue 10-31: covered, #385 shipped, #386 pending, #387 filed.
-- Hero fix files the moment CURRENT lands. Bloom 82.02 of 200, pace holds.
+- Revenue 10-31: covered, #385 shipped, #386 and #387 pending.
+- Bloom 82.02 of 200, pace holds.
