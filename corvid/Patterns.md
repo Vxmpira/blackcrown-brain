@@ -31,3 +31,5 @@
 ## OWED
 - Revenue covered: #386, #390 through #396 pending with Regent. Bloom 82.02 of 200.
 - HEALER LESSON 2026-10-31: this error has now struck 3 times, stop walking into it: work step failed: Anthropic (400): {"type":"error","error":{"type":"invalid_request_error","message":"You have reached your specified API usage limits. You will
+- HEALER LESSON 2026-10-31: this error has now struck 3 times, stop walking into it: Herald copy pass failed, shipping the draft caption: You have reached your specified API usage limits. You will regain access on 2026-11-01 at 00:00 UTC.
+- HEALER LESSON 2026-10-31: this error has now struck 3 times, stop walking into it: #356 video render failed: could not launch a GPU worker: The provided credentials do not have permission to create the service-linked role for EC2 Spot Instance

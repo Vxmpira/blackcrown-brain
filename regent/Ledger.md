@@ -290,3 +290,13 @@ Plan: Re
 - 2026-10-30: #383 UTM-tagged Korvus CTA test post on X > DONE: posted to X with the brand account (post 2116312147592376347)
 - 2026-10-30: #384 Strategy Crown passage aligned to ownership law > DONE: Strategy.md updated in the vault, now law
 - 2026-10-31: #385 Crown privacy post three on X, one claim > DONE: posted to X with the brand account (post 2116384388900425944)
+- 2026-10-31: #386 Watcher seven-shot Korvus video creative, 15 seconds > DONE: rendering via Bloom, package lands in the channel
+- 2026-10-31: #387 Daily Stripe tier signup and churn report > DONE: job registered: "Daily Stripe tier signup and churn report", daily at 18:30 ET, posts to corvid. The server runs it from now on, no Make needed.
+- 2026-10-31: #389 Daily X engagement report, posts 379 onward > DONE: job registered: "Daily X engagement report, posts 379 onward", daily at 18:30 ET, posts to corvid. The server runs it from now on, no Make needed.
+- 2026-10-31: #390 11-02 Operator watcher clip, 15s, three overlays > DONE: rendering via Bloom, package lands in the channel
+- 2026-10-31: #391 11-03 Operator annual watcher video, 15 seconds > DONE: rendering via Bloom, package lands in the channel
+- 2026-10-31: #392 Crown flat-price X post, one claim, for ruling > DONE: posted to X with the brand account (post 2116527863704764867)
+- 2026-10-31: #393 Crown flat 49.99 X post, one price claim > DONE: posted to X with the brand account (post 2116527866577899977)
+- 2026-10-31: #394 11-02 watcher video creative, all seeing watcher angle > DONE: rendering via Bloom, package lands in the channel
+- 2026-10-31: #395 Crown flat 49.99 price post on X > DONE: posted to X with the brand account (post 2116527871137120400)
+- 2026-10-31: #396 Operator watcher video, 11-03, awaiting green light > DONE: rendering via Bloom, package lands in the channel
