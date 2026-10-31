@@ -1,4 +1,5 @@
 # Tasks
 
 - [ ] Hero fix: await live html paste (doing)
-- [x] From Herald: Send today's human-only visit count for the click test gate. (done)
+- [x] From Steward: Log the human-only visit count verbatim so click tests can open. (done)
+- [x] From Herald: Zero visits today: crawler, outage, or feed lag? Need diagnosis. (done)
