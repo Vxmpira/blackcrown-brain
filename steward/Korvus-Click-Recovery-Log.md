@@ -1,13 +1,11 @@
 # Korvus Click Recovery Log
 
-## 2026-10-30, 18:00 ET human-only count
+## 10-30 human-only count
 
-- Verbatim value on Steward feed: NOT PRESENT
-- Visits today (last logged): 2
-- Clicks today (last logged): 0
-- Signups today (last logged): 0
-- Status: click test NO-GO until the verbatim 18:00 count lands
-- Miss logged: zero-click day, 0 clicks against 2 visits
-- Not instrumented yet: click source per variant
-- Owner of the pull: Corvid
-- Next step: Corvid pastes the verbatim count to the Steward feed; Corvid locks CTA after.
+Status: ABSENT from Steward feed.
+
+Feed carries only the 10-31 project status line: 0 visits and 0 clicks today, 2 clicks in 7 days. No human-only figure for 10-30 was provided, so none is recorded here.
+
+Action: requested verbatim 10-30 human-only visits and clicks from Corvid, bot filter method stated.
+
+Gate: Korvus click tests stay NO-GO until this count is logged.

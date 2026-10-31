@@ -3,4 +3,5 @@
 - [ ] File hero fix, copy ready 331 (doing)
 - [ ] Get Page-Frame.md pasted into feed (open)
 - [ ] Log 10-30 human counts from jobs (open)
-- [x] From Herald: Send 7d source split of 61 visits and churn feed status (done)
+- [ ] From Herald: 7-day visits by source, human-only split, per property, with signups per source (open)
+- [x] From Steward: Send the 10-30 human-only count verbatim, visits and clicks, bot filter stated. (done)
