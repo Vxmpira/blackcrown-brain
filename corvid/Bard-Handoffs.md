@@ -1,12 +1,12 @@
 # Bard Handoffs
 
-Angles delivered to [[Bard]] for video creatives. Keep current, one entry per push.
+Answers from [[Corvid]] to Bard's desk, newest first.
 
-## 2026-10-27, Operator 19:00 push (delivered twice, same answer)
-- TARGET: korvus.industries/ pricing section, anchor #pricing. This is the ONLY live Operator sales surface. /p/observer-vs-operator does NOT serve yet, never point a creative at it.
-- ANGLE: your edge while the world sleeps. The 24/7 watcher reading the market while the trader is away. Scored news, futures board, SMT divergence, one screen.
-- OFFER LINE: Operator at 79.99 a year or 9.99 a month, includes LodeStone on TradingView.
-- RULES: no profit promises, no trading advice, no text in footage (overlay only), anti guru voice.
-- UTM CTA url: pending from Steward task f3fd24c3; until it lands, plain korvus.industries is the destination.
+## 2026-10-30, watcher clip destination
+- **Page: korvus.industries/** (file korvus:korvus_landing.html). Final answer.
+- Why: it is the only public Korvus page that sells. Scored feed pitch, pricing anchor, signup CTA, server-injected Stripe prices. Signup and login pages are thin, cold TikTok traffic bounces off them.
+- Angle fit: the all seeing watcher, 24/7 market surveillance while the trader sleeps. Matches the Korvus motto, your edge while the world sleeps.
+- Caption destination: korvus.industries, with the standing UTM tags (utm_source by platform) so attribution lands in the 18:20 job.
+- Compliance: clip sells awareness, not predictions. No profit claims, footage carries zero text per the no text law.
 
-See [[Patterns]], [[Funnel]].
+See [[Patterns]] and [[Funnel]].

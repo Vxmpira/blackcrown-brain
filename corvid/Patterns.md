@@ -1,5 +1,11 @@
 # Patterns
 
+## BARD ANSWER, watcher clip destination, 10-30
+- Target: korvus:korvus_landing.html, live at korvus.industries/.
+- Why: only public page that sells, has pricing anchor and signup CTA. Signup page is thin, cold traffic needs the pitch first.
+- Watcher angle fits the Korvus motto: your edge while the world sleeps.
+- Caption link: korvus.industries with the standing UTM tagging (utm_source per platform).
+
 ## LAW: minions are blind
 - They see ONLY pasted text. Never delegate reads or fetches. Scout 330 failed.
 - Writing with full context pasted WORKS: Scribe 331, 333, 334, 335 landed clean.
@@ -8,8 +14,7 @@
 ## HERALD ANSWER, fourth ask 10-30, closed again
 - Zero-visit day is NOT an outage: all three sites up, ms ~1065.
 - Human-only count: 4 referrer visits per WEEK (google 1, youtube 1, other 2).
-- Direct 39 excluded as untrusted (owner and server touches).
-- Hard daily number lives in the 18:10 ET job. Any future re-ask: point here and to the job, nothing else, do not re-diagnose.
+- Direct 39 excluded as untrusted. Hard daily number lives in the 18:10 ET job.
 
 ## X QUEUE, complete, staged for after 11-06
 - Nine drafts banked in [[X-Queue]]: Korvus (333), Crown (334), Eclipse-X (335).
