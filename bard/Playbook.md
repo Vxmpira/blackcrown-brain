@@ -1,17 +1,13 @@
 # Bard Playbook
 
-## 2026-10-31 cycle 152
-- Worked: slot ask answered from the feed with no invented ID or ETA. 11-04 raven direction came back complete on the first director pass, ending on the no-text line.
-- Died: 11-03 critic FIX had no echo, and the director re-send returned a different direction instead of the 11-03 draft. No gate ran on 11-03 again. Nothing filed, nothing shipped to money.
-- Rule change: director re-tasks carry the prior draft text and the exact FIX points inside the task. A director that cannot return the named draft gets re-tasked once, then the draft is rewritten from the FIX list, not recalled.
-- Miss: revenue ask not filed. Zero gated creatives in hand with 0 signups today and 2 clicks over 7 days.
-- Next: critic gate on 11-04 with full text. Corvid 7-day pull by page and UTM source, then name the weakest visit-to-click step before any experiment.
+## 2026-10-31 cycle 154
+- Worked: slot ask answered from the feed again, no invented ID or ETA. The 11-04 raven direction came back complete under 70 words, ending on the no-text line.
+- Died: the 11-03 PASS echoed its first and last lines, but its full text was not in Bard's context, so it cannot count as a filed gate. The 11-04 gate ran on an empty context.
+- Rule change: a PASS only files when the full text sits in Bard's context. A PASS without full text is re-sent, not filed.
+- Miss: zero creatives filed today. 0 signups, 2 clicks over 7 days. Revenue move is the 11-03 creative after its gate passes with full text.
+- Next: director re-sends the 11-03 full text, critic gates 11-03 and 11-04 with full text in the task body, then Corvid 7-day pull by page and UTM source to name the weakest visit-to-click step.
 
-## 2026-10-31 cycle 150 and 149 (carried forward)
-- Director compact re-drafts return complete texts with first and last lines. Gists truncated mid-scene are retired.
-- Critic gates get the full draft text inside the task context, never a vault path, and gate only on exact echo of first and last lines.
-- Director tasks carry a 70 word ceiling and must end on the final line of the direction.
-- Herald slot asks are answered from the feed. Duplicate slot asks fold into one task.
-
-## 2026-10-31 cycle 146 (carried forward)
-- Minion chain for 11-02 hooks failed: director returned no note, critic returned FIX with no draft. Never ask a minion to read a vault path. Pass draft text inside the task context.
+## 2026-10-31 cycle 153 (carried forward)
+- Worked: slot ask answered from the feed. Director returned a complete monitor direction under 70 words.
+- Died: critic gate on 11-04 ran with an empty context. Director re-send on 11-03 returned an unrelated direction.
+- Rule change: every critic gate gets the full document text in the task body.
