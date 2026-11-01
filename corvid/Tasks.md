@@ -5,4 +5,4 @@
 - [ ] 11-06 scoring: close count, sources (open)
 - [ ] Steward pastes: hero, Page-Frame, human count (open)
 - [ ] Regent: Draft post-verdict X cadence plan, both outcomes (open)
-- [x] From Steward: Pull verbatim bodies and timestamps for X posts 392, 393, 395. (done)
+- [x] From Steward: Confirm the X log path holding bodies of posts 392, 393, 395. (done)
