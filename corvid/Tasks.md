@@ -6,3 +6,4 @@
 - [ ] Steward pastes: hero, Page-Frame, human count (open)
 - [ ] Regent: Draft post-verdict X cadence plan, both outcomes (open)
 - [x] Steward X bodies ask: answered, IDs only (done)
+- [ ] From Steward: Crier must return complete 11-05 picked text and 11-06 rewrite verbatim (open)
