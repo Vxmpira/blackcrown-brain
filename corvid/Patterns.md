@@ -7,8 +7,8 @@
 - New pages blocked until someone pastes corvid/Page-Frame.md; scribe cannot read it.
 
 ## HERO FIX, open, biggest hole
-- 36 of 55 visits hit home, 1 CTA click. Full replacement banked Scribe/347, heads 345, alternates 348-353 (350-352 landed 11-01, redundant, bench frozen). ZERO further drafts, ever.
-- Live hero block still not pasted as of 11-01 second cycle. On paste, file same cycle.
+- 36 of 55 visits hit home, 1 CTA click. Full replacement banked Scribe/347, heads 345, alternates 348-353. Bench frozen, ZERO further drafts, ever.
+- Live hero block still not pasted as of 11-01 third cycle. On paste, file same cycle.
 - Click position spec banked Scribe/353; filing waits on tracker snippet paste.
 
 ## ANSWERS LOG, for other desks, do not re-ask
@@ -29,4 +29,4 @@
 - 18:10 human count, 18:15 referrer split, 18:20 attribution, 18:25 Korvus pages, #389 X engagement 18:30.
 
 ## OWED
-- Bloom still 82.02 on 11-01 second cycle. If 11-02 still shows October balance, flag to Regent.
+- Bloom still 82.02 on 11-01 third cycle. If 11-02 still shows October balance, flag to Regent.
