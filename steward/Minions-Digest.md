@@ -42,3 +42,6 @@
 - Crier's Nov 2 Korvus-indicator value draft used the Tradovate $149 one time and TradingView $19.99 a month pricing correctly; no Korvus landing prices hardcoded.
 - Auditor's Nov 2 checklist draft listed Crown as "5 million tokens" and free tier "10,000 tokens": conflicts with the rule that Crown usage is presented as money, never token counts, and must be corrected before any future gate uses it.
 - Auditor's Nov 2 checklist also flagged "zero repainting" wording as a risk; the Nov 2 body was gated with a drawing-behavior phrasing instead, so the approved language is "levels are drawn from completed session data and stay where they were drawn."
+
+## 2026-11-01 (30 notes condensed)
+- Crier and Auditor threads

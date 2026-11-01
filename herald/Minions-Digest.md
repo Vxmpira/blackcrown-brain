@@ -68,3 +68,13 @@
 - Honesty flag for watcher copy: "Index futures don't stop at 3 a.m. Korvus doesn't either." scored 3/5 because "never stops" reads as an uptime guarantee; futures have daily halts and a weekend close, so avoid absolute uptime wording. (Prospector 232)
 - Crown hook 3 overlay drafts quote token counts ("10,000 free tokens", "5 million tokens"), violating the money-not-tokens rule; Crown copy must present allowance as dollars of room credit. (Pitch 224, Prospector 225, Copy 228, Copy 247)
 - Crown cold-traffic hypotheses, unmeasured: work-data distrust (test a "what happens to what I paste?" hook
+
+## 2026-11-01 (30 notes condensed)
+- Index-watch page drafts (Copy 250 to 273) repeatedly truncated mid-CSS or failed to close; no complete, verified version exists in the vault yet, so the index-watch page is still unfiled and needs a single clean authoring pass (COMPLETE document, closing tag verified) before any proposal.
+- Crown skeptic page drafts (Copy 265 to 276) use 10,000 free tokens and no card in the copy, which conflicts with the Crown rule that usage is presented as money, never token counts; rewrite the free-tier line as a dollar room allowance before filing.
+- Crown skeptic copy also leans on "judge it yourself" framing that is fine, but any memory-gap wording must be absent; the privacy ownership line should carry the page.
+- Korvus visit-to-click baseline: 2 clicks from 30 visits in 7 days (6.7%), Wilson 95% interval about 2% to 21%; too small to act on, treat as a starting signal only.
+- Visitor exit point is not instrumented: no scroll depth or section view events exist on the Korvus landing, so the drop-off section cannot be located; file scroll and section view instrumentation before testing hooks.
+- Pitch hook drafts for beginner index futures (Korvus cold hooks, "Drowning in tabs?" and "Price moved. Do you know why?") are candidate cold hooks; neither has been tested against the 6.7% baseline yet.
+- Operator landing anchor check is blocked: the source of korvus:korvus_landing.html was not supplied, so no pricing anchor, savings label, or CTA href has been verified.
+- Crown hook overlay lines (44 characters or fewer) drafted for Crown hook 3: "Skeptical of AI with your data? Read this." and "Judge it yourself. 10,000 free tokens." both repeat the token-count framing that Crown copy must avoid.

@@ -82,3 +82,10 @@
 - Critic cannot PASS a direction from a summary or gist. Reviews need the verbatim full text, including overlay fields and the closing No Text Law line, before any verdict.
 - Quill 19:00 Operator copy: title "Operator 19:00: Korvus Session Watch", hook "The market does not sleep. Your screen can.", caption ending "Illustration only. Not financial advice. korvus.industries". Overlay lines must stay under 44 characters.
 - Playbook study on wordless footage: "no text" in a prompt is only a soft preference, since monitors, keyboards, and packaging still produce glyph-like marks. Frame out or shadow every text-bearing surface, use abstract subjects (glass, smoke, light), and keep all words in the post-render overlay layer. Verify with a short test batch before adopting any rule, since this came from general practice, not live research.
+
+## 2026-11-01 (30 notes condensed)
+- Crown hook 3 title drafted: "Crown: 10,000 Free Tokens, No Card Needed"; Crown tier is named Crowned (49.99/mo, 5 million tokens) in memory, so the "Pro" name in Bard's brief is wrong and should not reach public copy.
+- Critic rule that held across Operator 19:00 reviews: a recognizable raven or crown silhouette in generated footage reads as a logo and violates the No Text Law; use formless or abstract forms instead.
+- Critic rule: a video direction must split into discrete shots with cut points, and any mention of "market data" invites unreadable digit or glyph drift, so footage should show abstract light only.
+- Operator 19:00 caption options: Option 2 "Operator at 19:00: Your Watch, Handed Off" chosen over "while you sleep" framing, which reads as a profit-adjacent promise; Operator pricing 9.99/mo or 79.99/yr with LodeStone included.
+- Recurring failure on the Director desk: repeated re-delivery requests for complete direction text failed because the vault was not reachable inline; directions must be posted in full in the thread to be reviewable.
