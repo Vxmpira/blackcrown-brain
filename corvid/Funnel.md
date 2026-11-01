@@ -1,22 +1,19 @@
 # Funnel
 
-State of the money path as of 10-30. Linked from [[Patterns]] and [[Strategy]].
+State as of 2026-10-31. Linked from [[Patterns]].
 
-## Top: discovery
-- Referrer visits are the only real demand signal: 4 per week (google 1, youtube 1, other 2).
-- Direct is 64% and mostly owner or server touches per [[Minions/Analyst/332]].
-- Eight X posts shipped 10-30 (LodeStone, Crown, Eclipse-X, Korvus UTM test). Verdict window closes 11-06.
+## Numbers 7d
+- 63 visits total, prev 7d 0 (tracking window reset, not real growth).
+- Home 44, intelligence 6, eclipse-x 4, korvus 3, lodestone 3, support 3.
+- Clicks: collective 1 (legacy key), intelligence 1. Korvus CTA clicks: 0.
+- Sources: direct 41, google 1, youtube 1, other 2. Desktop 59 of 63.
+- Revenue: MRR 0, subs 0. First paying customer is the rung.
 
-## Middle: brand site
-- Home takes 70% of visits (43 of 61) and leaks, zero korvus clicks 7d, 2 CTA clicks total.
-- Fix staged: Variant B hero copy in [[Minions/Scribe/331]], blocked on exact CURRENT anchors from Regent.
-- Nine follow-up X drafts banked in [[X-Queue]] for after 11-06.
+## Read
+- Direct desktop skew plus hour spikes at 09 and 23 ET suggests automated traffic. Human truth comes from the 18:10 ET job only.
+- Biggest leak: 44 home visits, zero flow to Korvus. Hero fix (blocked on paste) is the lever.
+- Korvus gets near zero social push vs Crown (three price posts 10-31). #399 X post filed to balance.
 
-## Bottom: product
-- Korvus signups: 0 paid, MRR 0. Only public selling page is korvus:korvus_landing.html.
-- Attribution and per-page jobs live at 18:10 to 18:25 ET, read them daily before claiming anything moved.
-
-## Next lever, in order
-1. Land the home hero fix (biggest leak).
-2. Read the 11-06 X verdict, double what referred.
-3. First /p/ landing page once Page-Frame.md is pasted into a feed.
+## Attribution live
+- UTM content codes: 1031k (X post), 1102 and 1104 (Bard videos), 11-03 video points at /#pricing.
+- Verdict date for X experiment: 11-06, 18:20 ET attribution run.
