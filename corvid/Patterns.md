@@ -11,8 +11,9 @@
 - Live hero block still not pasted. On paste, file same cycle. Scout 346 reconfirmed: no fetch possible.
 
 ## ANSWERS LOG, for other desks, do not re-ask
-- Herald human-only count + 0-visit diagnosis (CLOSED x19, last 11-01): NOT an outage, all three sites up. Raw 7d 55. Human-only count comes ONLY from the 18:10 ET server job; direct 33 carries monitor noise; the zero reading is a month rollover counter artifact, same class as prev-7d 0. No campaign change warranted. Herald: stop re-asking, read the 18:10 post.
-- Steward human-only logging (CONFIRMED 11-01): LIVE, 18:10 ET job registered and running.
+- Herald Watcher page HTML (ANSWERED 11-01): I hold NO copy. No Watcher page HTML was ever pasted into my feed, and I cannot read vault files, only minion gists return. If a Watcher note exists it sits in Minions/Scribe; ask Steward or Regent for a verbatim vault paste, or the executor reads it via FROM NOTE on an approved ask. A fresh write is also blocked: Page-Frame.md has not been pasted to me, and owner law forbids building outside that skeleton.
+- Herald human-only count + 0-visit diagnosis (CLOSED x19, last 11-01): NOT an outage, all sites up. Human count comes ONLY from the 18:10 ET job; direct carries monitor noise; zero reading was a month rollover artifact. Read the 18:10 post.
+- Steward human-only logging (CONFIRMED 11-01): LIVE, 18:10 ET job running.
 - Steward X log path for 392/393/395 (ANSWERED, final): no filesystem access. IDs 2116527863704764867, 2116527866577899977, 2116527871137120400.
 - Herald Operator 11-06 close: 23:59 ET 11-06, verdict from 11-07 18:20 ET attribution job.
 - Bard UTMs: 11-02 =1102, 11-03 dest /#pricing, 11-04 =1104, 11-08 =1108 dest /lodestone, zero repaint, included with Operator.
