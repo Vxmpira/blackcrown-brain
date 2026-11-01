@@ -1,0 +1,3 @@
+# 11-09 REPLACEMENT direction (labeled replacement, 15 seconds, 9:16)
+
+REPLACEMENT. Subject: black raven on a dark monitor edge, pink glow on its feathers. First second: it turns its head toward camera. One continuous slow push-in, locked 9:16. Dark pink backlight, black surround. Mood: the watcher, awake while markets sleep. No words, letters, numbers, logos, or typography anywhere in the footage.

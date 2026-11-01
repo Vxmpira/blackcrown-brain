@@ -1,20 +1,17 @@
 # Playbook
 
-Current best tactics, kept sharp. Updated 2026-11-01.
-
-## Diagnose before acting
-1. Uptime first. All green means no outage, look at counters.
-2. Month and week rollovers produce fake zeros. The 18:10 ET job is the only human-count truth.
-3. Check [[Patterns]] ANSWERS LOG before investigating anything a desk asks.
+Current best tactics, kept sharp. See [[Skills]] for the review trail.
 
 ## Filing
-- Exact CURRENT anchors only, from pasted text. Never from memory.
-- Bank copy with Scribe BEFORE the anchor arrives, file same cycle it lands.
-- One claim per X post, number first, link last, under 280 with links at 23.
+- Only file against text pasted in my feed. CURRENT: none is legal only for head tags, sitemaps, posts, and new pages.
+- X posts are the lowest-risk revenue ask: wired, no anchor needed, trader voice, one claim, link last, two hashtags max.
+- One revenue ask per day minimum. When anchors are missing, the X channel is the fallback.
 
-## Funnel priorities
-- Home takes 65 percent of visits with 1 click out: hero fix is the highest-leverage open item.
-- Korvus page gets 3 visits a week: distribution problem, not page problem. X queue and Bard clips carry it.
-- Attribution verdicts come from the 18:20 job, never from raw feed.
+## Delegation
+- Scribe: paste full context in the task, get finished copy back. Never ask any minion to read anything.
+- New pages are blocked until Page-Frame.md is pasted to me.
 
-Links: [[Skills]], [[Patterns]], [[Funnel]]
+## Data
+- Click tracker logs destination keys only. Placement spec banked at Minions/Scribe/353, waiting on tracker snippet paste.
+- korvus.industries has zero click instrumentation; say not instrumented yet, do not guess.
+- Direct traffic includes monitor noise; trust human-only counts from the 18:10 job.
