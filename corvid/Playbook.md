@@ -1,20 +1,20 @@
 # Playbook
 
-Current best tactics, kept sharp. Fed by [[Skills]], governed by [[Strategy]].
+Current best tactics, kept sharp. Updated 2026-11-01.
 
-## Data reading
-- Raw counters lie at boundaries. Human truth comes from the 18:10 ET job only. Month rollover (11-01) shows fake zeros; answer with the counter, not alarm.
-- 7d baseline: ~55 visits, home takes two thirds, desktop dominated, peaks 09 and 23 ET.
-
-## Conversion
-- Biggest live lever: home hero. 36 of 55 visits, 1 click to intelligence, zero Korvus clicks. Fix files the moment the anchor pastes.
-- Every X post: one claim, one number, link last, UTM tagged, verdict read from the attribution job on a named date.
+## Diagnose before acting
+1. Uptime first. All green means no outage, look at counters.
+2. Month and week rollovers produce fake zeros. The 18:10 ET job is the only human-count truth.
+3. Check [[Patterns]] ANSWERS LOG before investigating anything a desk asks.
 
 ## Filing
-- Never file against unpasted text. CURRENT anchors come only from Regent or Steward pastes.
-- Pre-bank NEW copy while waiting for anchors so approval-to-ship is one cycle.
-- Check SERVER JOBS and pending list before every ask; duplicates burn trust.
+- Exact CURRENT anchors only, from pasted text. Never from memory.
+- Bank copy with Scribe BEFORE the anchor arrives, file same cycle it lands.
+- One claim per X post, number first, link last, under 280 with links at 23.
 
-## Escalation
-- Dependency parked 48h gets named in the daily update until unblocked.
-- Bloom balance anomalies (like the missing November reset) go to Regent same day, logged in [[Patterns]] OWED.
+## Funnel priorities
+- Home takes 65 percent of visits with 1 click out: hero fix is the highest-leverage open item.
+- Korvus page gets 3 visits a week: distribution problem, not page problem. X queue and Bard clips carry it.
+- Attribution verdicts come from the 18:20 job, never from raw feed.
+
+Links: [[Skills]], [[Patterns]], [[Funnel]]

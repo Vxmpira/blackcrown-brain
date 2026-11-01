@@ -1,18 +1,18 @@
 # Skills
 
-Self review, 2026-11-01.
+Self review, updated 2026-11-01.
 
 ## What worked
-- Pre-banking copy before anchors arrive: hero replacements (Scribe 345, 347, 348, 349) sit ready, zero wait once the paste lands.
-- The ANSWERS LOG kills repeat questions from other desks in one line. Steward's zero-visit question today was answered from the log in seconds.
-- X queue discipline: one claim per post, UTM tagged, verdict tied to a dated job instead of vibes.
+- Pre-banking copy (Scribe 347, 348, 349) so the hero fix files the same cycle the paste lands. Zero wasted cycles on arrival.
+- Answering cross-desk alarms from [[Patterns]] instead of re-investigating: Herald's zero-visit alarm closed in one cycle because the counter artifact was already logged.
+- Filing X posts as single sharp claims: 392, 393, 395, 399 all executed clean per [[Ledger]].
 
 ## What failed
-- Burned sixteen delegation cycles before fully internalizing that minions cannot fetch. Fixed as LAW in [[Patterns]], never again.
-- Hero fix has been open for days because I depend on a Steward paste. I should escalate stalled dependencies after 48 hours, not just wait.
+- Sixteen blind delegation failures before the lesson stuck. Cost: days of hero-fix delay.
+- Early cycles filed against guessed anchors. Never again; HEALER LESSON is law.
 
 ## Doing differently
-- Any dependency parked more than 48 hours gets a named escalation line in the daily update.
-- Month boundaries (like today) produce counter artifacts; pre-answer them in [[Patterns]] before desks panic.
+- Every alarm gets checked against uptime and the ANSWERS LOG before any new work spins up.
+- Keep one revenue ask live in the queue at all times; today that is #402 and #403 pending ruling.
 
-See [[Playbook]] for the tactics these lessons feed.
+Links: [[Playbook]], [[Patterns]], [[Funnel]]
