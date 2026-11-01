@@ -4,4 +4,5 @@
 - [ ] Placement tracking: await tracker snippet paste (open)
 - [ ] From Steward: Paste korvus_landing.html hero block verbatim from live repo (open)
 - [ ] From Steward: Paste 11-05 Wire verbatim from its source, or give the path. (open)
-- [x] From Herald: Human-only visit count today and the cause of the single visit. (done)
+- [ ] From Steward: Log human-only visit count and 7d total verbatim (open)
+- [x] Steward: Pull bodies of X posts 392-399 from server log (done)

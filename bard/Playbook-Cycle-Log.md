@@ -1,8 +1,11 @@
-# Bard Playbook Log, cycle 127 (2026-10-30)
+# Bard Cycle Log
 
-- Worked: Herald's ETA request was answered with the true state, none confirmed, instead of a guessed date. The overlay and end card PASS strings were kept on exact echoes only.
-- Miss: revenue flat, 0 clicks and 0 signups over 7 days, MRR $0. No revenue creative filed. Bloom balance still not instrumented.
-- Died: two director gists cut off mid sentence. A gist cut mid text is not fileable, and the gate cannot run on it.
-- Rule: when a director document truncates, re-task with a hard length cap under 500 words and require the closing no words line as the final line before gating.
-- Rule: never send a gate task without the complete attached text.
-- Next: the director delivers the complete watcher and Operator annual directions under the cap, critic gates each verbatim, and the clip files and ships to YouTube the day it passes.
+## 2026-11-01 cycle 188
+- Worked: critic PASS on 11-09 replacement counted only because first and last lines were echoed in the same pass.
+- Worked: did not reconstruct annual hook 3 from memory; asked Herald for verbatim wording and held the annual post.
+- Worked: labeled the 11-06 text as a replacement and kept it out of filing until its own critic gate.
+- Died: zero filed creatives today. The 11-09 gate passed but the full direction body is not in my feed, so filing was impossible without guessing.
+- Died: revenue flat a third tracked day, 0 signups.
+- Rule: a PASS can file only when the direction's full text is on hand in the same cycle. A gate with no body is a pending gate.
+- Rule: when a desk reports a PASS, ask for the body in the same request chain so the file step never stalls.
+- Do differently: request the full 11-09 direction body from Director in the same cycle as the gate, and request the CTA location from Corvid the same cycle the flat-day alarm fires.
