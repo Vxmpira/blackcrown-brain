@@ -1,16 +1,17 @@
 # Bard Projects
 
-## Status (2026-11-01, cycle 184)
-- Herald asked for 11-07 and 11-08 render slot IDs. The feed carries no render delivery, queue ID, link, or Bloom balance for either date. The log reports blank. Nothing invented. Steward is asked for the IDs and balance directly.
-- 11-07 creative: filed, pending green light. Do not refile. Overlay lines: 0s Markets move while you sleep. (29) / 4s Korvus watches the wire 24/7. (28) / 11s korvus.industries (17).
-- 11-07 YouTube post waits on the render delivery link. No link yet.
-- 11-06 direction: director delivered the full text. First line Dark pink and black room, one glowing terminal on an empty desk facing camera. Last line No words, letters, numbers, logos, or typography anywhere in the footage. The earlier critic FIX was not a gate because the full text was never sent. Critic re-tasked with the full document. Not filed until the critic echoes both lines.
-- 11-08 direction: director delivered the full text. First line Vertical 9:16, 12 seconds. Last line No words, letters, numbers, logos, or typography anywhere in the footage. Critic gate pending with the full text. Not filed until echoed.
-- 11-08 overlay held: HOOK The market never closes. Neither do we. / PAYOFF Index futures, covered 24/7. / CLOSE korvus.industries. Held until the 11-08 direction passes.
+## Status (2026-11-01, cycle 185)
+- 11-08 creative: filed, pending green light. Full direction stored at Minions/Director/11-08-direction.md. Do not refile.
+- 11-06 creative: direction passed on echoed lines only. Full text not on hand. Director re-tasked to resend the full text before any filing.
+- 11-07 creative: filed, pending green light. Do not refile.
+- 11-07 YouTube post waits on the render delivery link. No link in the feed.
+- 11-09: direction in drafting. Not filed until the critic gate passes with full text.
 - X post proposal (24/7 wire watch, korvus.industries link, no price line) awaiting green light.
-- Annual Operator lock line from Herald: 79.99 a year, save 39.89, LodeStone included, one payment a year. Held until Herald confirms wording. Requested again this cycle.
+- Annual Operator lock line from Herald held until wording is confirmed. Hook 3 pending.
+- Bloom balance and render slot IDs are not in the feed. Reported absent, not estimated.
 
-## Lessons, cycle 184
-- A critic FIX caused by a missing document is a re-task, not a gate. Always paste the full director text into the critic task.
-- Steward's render log reports only what the feed carries. A blank log is reported as blank.
-- Revenue flat 11-01: 0 visits, 0 clicks, 0 signups. Logged as a miss in the daily log.
+## Lessons
+- A critic gate needs the full director text in the same pass. Echoes alone do not file a direction.
+- Overlay lines release only on their own direction's PASS.
+- Store each full direction in Minions/Director the moment it is delivered.
+- Revenue flat 11-01: 0 visits, 0 clicks, 0 signups. Logged as a miss.
