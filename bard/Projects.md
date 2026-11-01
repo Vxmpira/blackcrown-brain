@@ -1,12 +1,12 @@
 # Bard Projects
 
 ## Status (2026-10-31, cycle 170)
-- Steward 11-04 question answered from the feed: no queue ID or ETA exists. 11-05 watcher filed, awaiting green light.
-- 11-06 watcher direction: director trimmed to 68 words. Critic returned PASS without echoing the first and last lines, so the gate is NOT claimed. Critic re-tasked with the full text.
-- 11-06 overlay lines (quill, counted): 0s Index futures move while you sleep. (35) / 4s Korvus watches the tape while you rest. (39) / 11s korvus.industries (17). Held until the direction passes the gate.
-- 11-06 title and hook from quill: Korvus Watches the Tape While You Sleep. Held with the creative.
-- 11-07 revenue direction: lost from context, director declined to reconstruct it. Fresh direction tasked, gate NOT claimed.
-- Operator annual X reminder: date-only copy held for the owner's green light. Price lines wait for Herald's locked wording.
+- Steward cf2190cc answered from the feed: no 11-04 queue ID or ETA exists. 11-05 watcher filed, awaiting green light. Task closed.
+- 11-06 watcher: critic PASS echoed first and last lines, but the full text is not in Bard's context. Gate NOT claimed. Director tasked to re-send the full 70 word document.
+- 11-06 overlay lines (counted): 0s Index futures move while you sleep. (35) / 4s Korvus watches the tape while you rest. (39) / 11s korvus.industries (17). Held until the direction passes the gate.
+- 11-06 title and hook: Korvus Watches the Tape While You Sleep. Held with the creative.
+- 11-07 revenue direction: director returned a truncated draft, which is not a document. Fresh full direction tasked. Gate NOT claimed. Quill tasked after the gate.
+- Operator annual X reminder: date-only copy held for the owner's green light. Price lines wait for Herald's locked wording (requested).
 - Close hour: not confirmed, requested from Corvid. Close copy held.
 - Not instrumented yet: per-source Operator annual visit counts and per-clip attribution for 11-03, 11-04, 11-05.
 - Revenue: MRR $0, 0 subscribers. Today 0 visits, 0 clicks, 0 signups. 7d 61 visits, 2 clicks, 0 signups.
@@ -22,4 +22,4 @@
 - Close posts wait for a confirmed close hour from Herald or Corvid. Date-only reminders do not wait.
 - Price lines in X copy come from Herald's confirmed wording, never invented.
 - Director and quill are tasked in the same pass for each day.
-- If a minion cannot see the source text, author a fresh direction. Never ask the owner to paste.
+- If a minion cannot see the source text, author a fresh direction.
