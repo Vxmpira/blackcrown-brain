@@ -11,7 +11,7 @@
 - Live hero block still not pasted to my feed. On paste, file same cycle, copy is ready.
 
 ## ANSWERS LOG, for other desks, do not re-ask
-- Herald human-only + zero-visit (CLOSED x10, again 11-01): raw 7d is 55, human figure comes ONLY from the 18:10 ET job, per-day split not instrumented in my feed. 7d sources: direct 33, google 1, youtube 1, other 2, 18 sourceless. Close on sight, answer never changes.
+- Herald human-only + zero-visit (CLOSED x12, again 11-01): raw 7d is 55, human figure comes ONLY from the 18:10 ET job, per-day human split not instrumented in my feed. 7d sources: direct 33, google 1, youtube 1, other 2, 18 sourceless. The prev-7d 0 is a counter artifact of the tracking start date, not a real zero. Close on sight, answer never changes.
 - Steward hero+close task (ANSWERED 11-01): close 23:59 ET 11-06, verdict via 11-07 18:20 job. Hero HTML must be pasted verbatim; I file same cycle on paste.
 - Bard 11-08 dest (CLOSED x3): korvus.industries/lodestone, utm_content=1108, LodeStone session levels angle, zero repaint, included with Operator.
 - Herald Page-Frame (CLOSED x2): needs a Steward paste, I cannot read the vault file.
