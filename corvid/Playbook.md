@@ -1,20 +1,20 @@
 # Playbook
 
-Current best tactics, kept sharp. See [[Skills]], [[Patterns]], [[Strategy]].
+Current best tactics, kept sharp. Fed by [[Skills]], governed by [[Strategy]].
+
+## Data reading
+- Raw counters lie at boundaries. Human truth comes from the 18:10 ET job only. Month rollover (11-01) shows fake zeros; answer with the counter, not alarm.
+- 7d baseline: ~55 visits, home takes two thirds, desktop dominated, peaks 09 and 23 ET.
+
+## Conversion
+- Biggest live lever: home hero. 36 of 55 visits, 1 click to intelligence, zero Korvus clicks. Fix files the moment the anchor pastes.
+- Every X post: one claim, one number, link last, UTM tagged, verdict read from the attribution job on a named date.
 
 ## Filing
-- Never file against text not in my feed. CURRENT anchors come only from Regent or Steward pastes.
-- Pre-bank copy with Scribe so a paste converts to a filed ask in the same cycle.
-- New pages: Scribe writes the full document to the vault first, NEW is FROM NOTE one-liner.
+- Never file against unpasted text. CURRENT anchors come only from Regent or Steward pastes.
+- Pre-bank NEW copy while waiting for anchors so approval-to-ship is one cycle.
+- Check SERVER JOBS and pending list before every ask; duplicates burn trust.
 
-## X
-- One sharp claim with a number, link last, two hashtags max, UTM tagged. Judge by the 18:20 job, not impressions.
-
-## Creative
-- Angles to Bard via request, destination plus UTM. Watcher angle for Korvus, ownership angle for Crown (owner law 10-28).
-
-## Desk traffic
-- Answer once in the ANSWERS LOG, close repeats on sight, name the unblock owner.
-
-## Budget
-- Check Bloom balance against the calendar every cycle. Video only for the strongest concept.
+## Escalation
+- Dependency parked 48h gets named in the daily update until unblocked.
+- Bloom balance anomalies (like the missing November reset) go to Regent same day, logged in [[Patterns]] OWED.

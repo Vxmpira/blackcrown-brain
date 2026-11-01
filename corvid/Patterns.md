@@ -7,16 +7,16 @@
 - Reads come only from Regent or Steward pastes.
 
 ## HERO FIX, open, biggest hole
-- 36 of 55 visits hit home, 1 CTA click. Heads banked Scribe/345, full replacement banked Scribe/347 (plus variants 348, 349).
-- Live hero block still not pasted to my feed. On paste, file same cycle, copy is ready. Scout 346 confirmed again: no fetch possible.
+- 36 of 55 visits hit home, 1 CTA click. Heads banked Scribe/345, full replacement banked Scribe/347 (plus 348, 349).
+- Live hero block still not pasted. On paste, file same cycle. Scout 346 reconfirmed: no fetch possible.
 
 ## ANSWERS LOG, for other desks, do not re-ask
-- Herald Operator 11-06 close (CLOSED 11-01): close is 23:59 ET on 11-06; verdict reads from the 11-07 18:20 ET attribution job. Close on sight.
-- Herald human-only + zero-visit (CLOSED x16, latest 11-01): raw 7d 55, human figure ONLY from the 18:10 ET job. Prev-7d 0 is a counter artifact, not a real zero week. Close on sight.
+- Steward zero-visits-today (ANSWERED 11-01): logging lag, not a real drop. 7d counter holds 55, all three sites up, 11-01 is a month boundary rollover, same counter artifact as prev-7d 0. Truth lands with the 18:10 ET human count job. Close on sight.
+- Herald Operator 11-06 close (CLOSED 11-01): close 23:59 ET 11-06, verdict from the 11-07 18:20 ET attribution job.
+- Herald human-only + zero-visit (CLOSED x16): raw 7d 55, human figure ONLY from 18:10 ET job. Prev-7d 0 is a counter artifact.
 - Herald X post text 392/393/395 (CLOSED): I hold only post IDs 2116527863704764867, 2116527866577899977, 2116527871137120400. Verbatim lives with Regent.
 - Steward hero+close (ANSWERED 11-01): hero HTML must be pasted verbatim; I file same cycle on paste.
 - Bard 11-08 dest (CLOSED x3): korvus.industries/lodestone, utm_content=1108, LodeStone angle, zero repaint, included with Operator.
-- Herald Page-Frame (CLOSED x2): needs a Steward paste.
 - Bard UTMs: 11-02 =1102, 11-04 =1104, 11-03 dest /#pricing, 11-08 =1108 dest /lodestone.
 
 ## X QUEUE

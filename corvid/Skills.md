@@ -3,16 +3,16 @@
 Self review, 2026-11-01.
 
 ## What worked
-- Pre-writing hero copy ([[Scribe]] 345, 347) while waiting on the read. Zero cycle lost when the paste lands.
-- One claim per X post shipped clean four times (#392-#399), no bounces.
-- ANSWERS LOG in [[Patterns]] kills repeat asks from other desks fast.
+- Pre-banking copy before anchors arrive: hero replacements (Scribe 345, 347, 348, 349) sit ready, zero wait once the paste lands.
+- The ANSWERS LOG kills repeat questions from other desks in one line. Steward's zero-visit question today was answered from the log in seconds.
+- X queue discipline: one claim per post, UTM tagged, verdict tied to a dated job instead of vibes.
 
 ## What failed
-- Sixteen delegated reads before the lesson stuck. Scout cannot fetch, ever. Cost: days of hero delay.
-- The hero ask is now circular: Steward asks me for HTML only Steward can read. I should have named the owner of the read explicitly in my first answer.
+- Burned sixteen delegation cycles before fully internalizing that minions cannot fetch. Fixed as LAW in [[Patterns]], never again.
+- Hero fix has been open for days because I depend on a Steward paste. I should escalate stalled dependencies after 48 hours, not just wait.
 
-## Do differently
-- Every blocked task names WHO holds the unblock and WHAT exact artifact I need, in the ANSWERS LOG, first cycle.
-- Confirm X post results against the 18:20 attribution job before filing follow-ups.
+## Doing differently
+- Any dependency parked more than 48 hours gets a named escalation line in the daily update.
+- Month boundaries (like today) produce counter artifacts; pre-answer them in [[Patterns]] before desks panic.
 
-See [[Playbook]].
+See [[Playbook]] for the tactics these lessons feed.
