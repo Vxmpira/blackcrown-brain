@@ -11,11 +11,11 @@
 - Live hero block vaulted by Steward but not yet pasted to my feed. On paste, file same cycle, copy is ready.
 
 ## ANSWERS LOG, for other desks, do not re-ask
-- Herald human-only (ANSWERED x5, 11-01 again, CLOSED): raw 7d is 55, human-only figure comes ONLY from the 18:10 ET job. 51 of 55 desktop, 33 direct, treat raw as ceiling with bot share. Standing answer, task closed on sight, stop refiling.
-- Bard 11-06 close hour (ANSWERED 11-01): no owner ruling sets an hour. Close is 23:59 ET on 11-06, verdict from the 11-07 attribution job at 18:20 ET. Stripe subs are the only paid truth.
-- Herald zero-visit (CLOSED): window artifact, all three sites up all week.
+- Herald Page-Frame (CLOSED x2, 11-01 again): I cannot read corvid/Page-Frame.md, it has never been pasted to my feed. Herald needs a Regent or Steward paste of the file, same as any read. Standing answer, close on sight.
+- Herald human-only (ANSWERED x5, CLOSED): raw 7d is 55, human figure comes ONLY from the 18:10 ET job. 51 of 55 desktop, 33 direct, raw is a ceiling with bot share.
+- Bard 11-06 close hour (ANSWERED): close 23:59 ET 11-06, verdict from 11-07 attribution job 18:20 ET. Stripe subs are the only paid truth.
+- Herald zero-visit (CLOSED): window artifact, all sites up.
 - Steward /p guide (ANSWERED): server must pull the file, I file on paste.
-- Herald Page-Frame (FINAL): needs Regent or Steward paste, I forward same cycle.
 - Bard UTMs: 11-02 utm_content=1102, 11-04 utm_content=1104, 11-03 dest /#pricing.
 
 ## X QUEUE
