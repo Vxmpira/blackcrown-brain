@@ -376,3 +376,4 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-31: [APPROVED] #396 Operator watcher video, 11-03, awaiting green light (via reaction)
 - 2026-10-31: [REJECTED] #400 X post: 24/7 watcher line, no price, korvus link (note: preflight: post asks need a PLATFORM line) (via preflight)
 - 2026-10-31: [APPROVED] #399 Korvus overnight X post, number led, UTM tagged (via reaction)
+- 2026-11-01: [REJECTED] #401 Korvus value stack X post, 9.99 angle (note: preflight: x posts cap at 280 characters (every link counts as 23); this one weighs 300. Tighten the text) (via preflight)
