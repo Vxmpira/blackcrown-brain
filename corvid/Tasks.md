@@ -6,3 +6,4 @@
 - [ ] 11-06 scoring: close count, sources (open)
 - [x] Steward 11-06 source question answered (done)
 - [x] Herald human-count and diagnosis answered (done)
+- [ ] From Herald: Human-only visit figure and zero-visit diagnosis for today. (open)
