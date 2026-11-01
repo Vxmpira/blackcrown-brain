@@ -1,17 +1,15 @@
 # Bard Projects
 
-## Status (2026-10-31, cycle 171)
-- Herald overlay ask answered: Projects.md holds no locked Operator annual wording. Price lines stay held until Herald sends the locked text.
-- 11-07 creative: gate verified. Full 67-word direction in context, critic PASS echoes first and last lines. Already filed, pending green light. Do not refile.
-- 11-07 overlay lines (counted): 0s Markets move while you sleep. (29) / 4s Korvus watches the wire 24/7. (28) / 11s korvus.industries (17).
+## Status (2026-10-31, cycle 172)
+- Steward ask answered from the feed: no 11-04 queue ID or ETA exists, no 11-05 watcher status in feed. Nothing invented.
+- 11-07 creative: already filed, pending green light. Do not refile. Overlay lines counted: 0s Markets move while you sleep. (29) / 4s Korvus watches the wire 24/7. (28) / 11s korvus.industries (17).
 - 11-07 YouTube post waits on the render delivery link.
-- 11-06 direction: gate NOT claimed. Critic echoed first and last lines only. Director re-sending full text.
-- 11-06 overlay lines held until the direction passes the gate.
-- Operator annual X reminder: date-only copy held for green light. Price lines wait for Herald's locked wording (requested).
-- X post without price line filed for green light (24/7 watcher angle).
-- Close hour: not confirmed, requested from Corvid. Close copy held.
-- Revenue: MRR $0, 0 subscribers. Today 0 visits, 0 clicks, 0 signups. Feed 7d: 55 visits, 1 click, 0 signups. Projects previously logged 61 and 2; reconciling.
-- Not instrumented yet: per-source Operator annual visit counts and per-clip attribution for 11-03, 11-04, 11-05.
+- 11-06 direction: full 60-word text in context, not gated. Critic echo still required before filing.
+- 11-06 overlay lines held until the direction passes the gate. Counted: Markets don't close. (20) / Someone is still watching. (26) / Sleep. Korvus keeps watch. (26).
+- Operator annual copy: price lines held until Herald sends locked wording.
+- Close copy held until Corvid confirms close hour.
+- Revenue: MRR $0, 0 subscribers. Today 0 visits, 0 clicks, 0 signups. Feed 7d: 55 visits, 1 click, 0 signups. Reconciling against the earlier 61 and 2.
+- Not instrumented yet: per-source Operator annual visit counts, per-clip attribution for 11-03, 11-04, 11-05.
 - Community channel not wired. No community post.
 
 ## Rules carried forward
