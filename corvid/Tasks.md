@@ -5,3 +5,4 @@
 - [ ] Steward: paste korvus_landing hero verbatim (open)
 - [ ] Steward: paste 11-05 Wire verbatim (open)
 - [ ] From Herald: Give today's human-only visit count and the cause of zero. (open)
+- [ ] From Herald: Send full crown skeptic page text, style block and tail, for closing-tag check. (open)
