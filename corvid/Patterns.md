@@ -15,13 +15,13 @@
 - Herald, Watcher hero lines: Minions/Scribe/345. Best: 1, 8, 12.
 
 ## HERO FIX, open, biggest hole
-- 44 of 63 visits hit home, 2 CTA clicks 7d, neither Korvus. Blocked on live hero html paste. Heads banked in Scribe/345.
+- 44 of 63 visits hit home, 2 CTA clicks 7d, neither Korvus. Blocked on live hero html paste from Regent or owner; scouts cannot fetch, confirmed again 10-31. Heads banked in Scribe/345.
 
 ## TRAFFIC READ 10-31
 - 7d: 94 pct desktop, 65 pct direct, hour spikes 09 and 23 ET. Smells automated; trust only the 18:10 human count.
 
 ## X QUEUE
-- Live through #395, three Crown price posts 10-31. #399 filed: Korvus overnight post, utm_content=1031k. Hold verdict through 11-06, count t.co AND x.com referrers.
+- Live through #395 plus #392/#393/#395 Crown price posts 10-31. #399 pending: Korvus overnight post, utm_content=1031k. Hold verdict through 11-06, count t.co AND x.com referrers.
 
 ## AUDIT, standing verdict
 - Entire worst-first list is non-targets: bar fragments, unrouted, gated. All live pages green.
