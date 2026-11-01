@@ -300,3 +300,4 @@ Plan: Re
 - 2026-10-31: #394 11-02 watcher video creative, all seeing watcher angle > DONE: rendering via Bloom, package lands in the channel
 - 2026-10-31: #395 Crown flat 49.99 price post on X > DONE: posted to X with the brand account (post 2116527871137120400)
 - 2026-10-31: #396 Operator watcher video, 11-03, awaiting green light > DONE: rendering via Bloom, package lands in the channel
+- 2026-10-31: #399 Korvus overnight X post, number led, UTM tagged > DONE: posted to X with the brand account (post 2116722944080568826)
