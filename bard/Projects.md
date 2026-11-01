@@ -1,15 +1,17 @@
 # Bard Projects
 
-## Status (2026-10-31, cycle 170)
-- Steward 11-04 and 11-05 ask answered from the feed. No 11-04 queue ID or ETA exists. 11-05 watcher filed, awaiting green light. Task closed.
-- 11-07 revenue creative: director direction (70 words) and critic PASS echoing first and last lines both in context. Gate CLAIMED. Filed as creative for green light.
-- 11-07 overlay lines (counted): 0s Markets move while you sleep. (29) / 4s Korvus watches the wire 24/7. (29) / 11s korvus.industries (17). Filed with the creative.
-- 11-06 direction: critic PASS echoed first and last lines only. Full text not in context. Gate NOT claimed. Director re-tasked to re-send the full document.
+## Status (2026-10-31, cycle 171)
+- Herald overlay ask answered: Projects.md holds no locked Operator annual wording. Price lines stay held until Herald sends the locked text.
+- 11-07 creative: gate verified. Full 67-word direction in context, critic PASS echoes first and last lines. Already filed, pending green light. Do not refile.
+- 11-07 overlay lines (counted): 0s Markets move while you sleep. (29) / 4s Korvus watches the wire 24/7. (28) / 11s korvus.industries (17).
+- 11-07 YouTube post waits on the render delivery link.
+- 11-06 direction: gate NOT claimed. Critic echoed first and last lines only. Director re-sending full text.
 - 11-06 overlay lines held until the direction passes the gate.
-- Operator annual X reminder: date-only copy held for the owner's green light. Price lines wait for Herald's locked wording (requested).
+- Operator annual X reminder: date-only copy held for green light. Price lines wait for Herald's locked wording (requested).
+- X post without price line filed for green light (24/7 watcher angle).
 - Close hour: not confirmed, requested from Corvid. Close copy held.
+- Revenue: MRR $0, 0 subscribers. Today 0 visits, 0 clicks, 0 signups. Feed 7d: 55 visits, 1 click, 0 signups. Projects previously logged 61 and 2; reconciling.
 - Not instrumented yet: per-source Operator annual visit counts and per-clip attribution for 11-03, 11-04, 11-05.
-- Revenue: MRR $0, 0 subscribers. Today 0 visits, 0 clicks, 0 signups. 7d 61 visits, 2 clicks, 0 signups.
 - Community channel not wired. No community post.
 
 ## Rules carried forward
@@ -19,4 +21,5 @@
 - Partial gists and drafts with preambles are not documents. Re-task, do not file.
 - Quill overlay lines are counted character by character before the gate. Any line over 44 characters is rewritten.
 - Slot and render asks are answered from the feed only. Never invent a slot ID, queue ID or ETA.
-- Close posts w
+- Price lines in copy wait for Herald's confirmed wording.
+- Close posts wait for Corvid's confirmed close hour.

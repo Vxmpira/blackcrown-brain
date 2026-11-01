@@ -374,3 +374,4 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-31: [APPROVED] #394 11-02 watcher video creative, all seeing watcher angle (via reaction)
 - 2026-10-31: [APPROVED] #395 Crown flat 49.99 price post on X (via reaction)
 - 2026-10-31: [APPROVED] #396 Operator watcher video, 11-03, awaiting green light (via reaction)
+- 2026-10-31: [REJECTED] #400 X post: 24/7 watcher line, no price, korvus link (note: preflight: post asks need a PLATFORM line) (via preflight)
