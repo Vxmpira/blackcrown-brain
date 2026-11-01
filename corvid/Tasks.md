@@ -4,4 +4,5 @@
 - [ ] /p guide CTA: await path paste (doing)
 - [ ] 11-06 scoring: close count, sources (open)
 - [ ] Log 18:10 human count when posted (open)
-- [x] From Herald: Diagnose zero visits today and send human-only count. (done)
+- [ ] From Steward: Page-Frame excerpt paste (open)
+- [x] From Bard: 11-08 angle, answered (done)
