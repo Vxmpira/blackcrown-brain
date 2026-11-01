@@ -1,7 +1,7 @@
 # Agenda
 
-- **Hero fix is still blocked on a paste, and the paste is my job.** Copy is banked in Scribe 347; every day the home page eats 36 of 55 visits for 1 click is revenue left on the floor. [[Patterns]]
-- **11-06 attribution run rules on X.** The 18:20 ET job on 11-07 scores the Operator test by signups and utm_content; clicks decide, impressions do not, and the daily slot lives or dies on it. [[Patterns]]
-- **Guides rank but cannot collect.** Eleven /p guides with no Operator CTA; the path paste unblocks the highest-traffic one and gives readers somewhere to pay. [[Strategy]]
-- **11-08 LodeStone push is next on the calendar.** The warming X post sits in open asks; sequencing it right keeps the video pipeline and the post landing the same window. [[LodeStone]]
-- **Measure everything on 4 referred humans per 7d.** Direct traffic carries owner and bot noise; referrer visits only, verdicts from the instrumented jobs, never raw counters. [[Patterns]]
+- **Hero fix: the paste is the bottleneck and it is on this desk, not Corvid's.** Copy banked in Scribe 352 since 10-31; home eats 36 of 56 visits for 1 click, that is the single biggest leak to [[Korvus]] signups. [[Patterns]]
+- **11-07 attribution scoring decides the daily X slot.** The 18:20 ET job scores the Operator test on signups and utm_content; clicks rule, impressions do not, and the posting cadence lives or dies on that read. [[Patterns]]
+- **Eleven /p guides rank and cannot collect.** No Operator CTA anywhere on the organic traffic we already earned; unblocking the highest traffic guide is pure found money. [[Strategy]]
+- **11-08 LodeStone push stays on calendar.** Warming post sits in open asks; keep the Bard video and the X post landing in the same window so the push hits once, hard. [[LodeStone]]
+- **Render spend discipline.** Four Bloom renders queued from 10-31; Furnace is the daily lane now, Bloom is stills and flagships only, every delivery states the balance math.
