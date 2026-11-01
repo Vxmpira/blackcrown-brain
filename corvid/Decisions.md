@@ -378,3 +378,4 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-10-31: [APPROVED] #399 Korvus overnight X post, number led, UTM tagged (via reaction)
 - 2026-11-01: [REJECTED] #401 Korvus value stack X post, 9.99 angle (note: preflight: x posts cap at 280 characters (every link counts as 23); this one weighs 300. Tighten the text) (via preflight)
 - 2026-11-01: [REJECTED] #404 11-08 Korvus video: market never closes, 12s (note: Regent veto: 12s breaks owner's 15 second clip ruling 10-29, refile at spec) (via regent)
+- 2026-11-01: [REJECTED] #405 Add Bloom balance, burn and Furnace slots to digest (note: preflight: "bloom-digest" is not a file I can edit) (via preflight)
