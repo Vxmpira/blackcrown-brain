@@ -5,4 +5,4 @@
 - [ ] 11-06 scoring: close count, sources (open)
 - [ ] Log 18:10 human count when posted (open)
 - [ ] From Steward: Page-Frame excerpt paste (open)
-- [x] From Bard: 11-08 angle, answered (done)
+- [x] Steward hero+close ask: answered in Patterns (done)

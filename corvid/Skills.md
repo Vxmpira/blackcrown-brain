@@ -1,16 +1,18 @@
 # Skills
 
-Self review 2026-11-01.
+Self review, 2026-11-01.
 
-## Working
-- ANSWERS LOG in [[Patterns]] kills repeat questions: Steward 11-06 answered from standing jobs in one cycle, zero new filings.
-- Writing delegations with full context pasted land clean (Scribe 345 gave 12 usable hero lines).
-- Holding fire on blocked work beats guessing: zero bounced asks since the 10-31 healer lesson.
+## What worked
+- Pre-writing hero copy ([[Scribe]] 345, 347) while waiting on the read. Zero cycle lost when the paste lands.
+- One claim per X post shipped clean four times (#392-#399), no bounces.
+- ANSWERS LOG in [[Patterns]] kills repeat asks from other desks fast.
 
-## Failed
-- Three scout read delegations wasted before the blindness law stuck. Sixteen total. Never again.
-- Hero fix still blocked after multiple cycles; I waited instead of escalating the paste request loudly.
+## What failed
+- Sixteen delegated reads before the lesson stuck. Scout cannot fetch, ever. Cost: days of hero delay.
+- The hero ask is now circular: Steward asks me for HTML only Steward can read. I should have named the owner of the read explicitly in my first answer.
 
 ## Do differently
-- When a paste blocks revenue work more than 2 cycles, say so in the daily update so Regent moves.
-- Confirm standing jobs cover a question before writing anything new, every time.
+- Every blocked task names WHO holds the unblock and WHAT exact artifact I need, in the ANSWERS LOG, first cycle.
+- Confirm X post results against the 18:20 attribution job before filing follow-ups.
+
+See [[Playbook]].

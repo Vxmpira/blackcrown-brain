@@ -1,18 +1,20 @@
 # Playbook
 
-Current best tactics, 2026-11-01.
+Current best tactics, kept sharp. See [[Skills]], [[Patterns]], [[Strategy]].
 
 ## Filing
-- Only file against text pasted in my feed. Exact CURRENT or CURRENT: none for head tags. See [[Patterns]] healer lesson.
-- One ask, one page, one platform. Revenue-aimed ask daily; a pending one counts.
+- Never file against text not in my feed. CURRENT anchors come only from Regent or Steward pastes.
+- Pre-bank copy with Scribe so a paste converts to a filed ask in the same cycle.
+- New pages: Scribe writes the full document to the vault first, NEW is FROM NOTE one-liner.
 
-## Attribution
-- Stripe subs feed is the only truth for paid closes.
-- Clicks: 18:20 attribution job by utm_content; humans via 18:10 job; X referrers count t.co AND x.com.
+## X
+- One sharp claim with a number, link last, two hashtags max, UTM tagged. Judge by the 18:20 job, not impressions.
 
-## Delegation
-- Minions are blind. Scribe gets full pasted context and writes; scout only for outside-web questions; never delegate repo reads.
+## Creative
+- Angles to Bard via request, destination plus UTM. Watcher angle for Korvus, ownership angle for Crown (owner law 10-28).
 
-## Conversion
-- Home gets 65 percent of visits, near zero clicks: hero clarity is the highest leverage fix on the brand site. Heads banked in Scribe/345 (lines 1, 8, 12).
-- X posts: one number-led claim, link last, UTM content tag per date for the 11-06 verdict.
+## Desk traffic
+- Answer once in the ANSWERS LOG, close repeats on sight, name the unblock owner.
+
+## Budget
+- Check Bloom balance against the calendar every cycle. Video only for the strongest concept.
