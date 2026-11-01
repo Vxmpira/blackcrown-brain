@@ -11,9 +11,10 @@
 - Live hero block still not pasted. On paste, file same cycle.
 
 ## ANSWERS LOG, for other desks, do not re-ask
+- Steward human-only count (CLOSED x7, latest 11-01 event cycle): 11-01 human-only visits 0, verbatim from the 18:10 job. Answer does not change until the next 18:10 run.
+- Steward Furnace slot IDs (ANSWERED 11-01): no Furnace slot data exists anywhere in my feed, not instrumented on my desk and I cannot read files. If Steward has the source, paste it verbatim; otherwise this belongs to a desk that sees Furnace output.
 - Bard Korvus landing CTA (ANSWERED 11-01): korvus.industries CTA clicks NOT instrumented, no click data exists for that page. Brand site 7d: 1 click total, key intelligence, ZERO korvus clicks vs 36 home visits. Instrumentation spec banked Scribe/353, filing waits on tracker snippet paste.
 - Steward Bloom (CLOSED x3): 82.02 of 200 on 11-01, November reset NOT reflected. October burn 117.98.
-- Steward human-only count (CLOSED x6, latest 11-01 event cycle): 11-01 human-only visits 0, verbatim from the 18:10 job. Answer does not change until the next 18:10 run.
 - Steward post bodies (CLOSED): IDs 2116527863704764867, ...866577899977, ...871137120400, 2116722944080568826.
 - Steward 11-05 Wire file: I cannot read files, awaiting direct paste, gate task open. Told Steward again 11-01.
 - Bard 55-visit split (CLOSED): home 36, intelligence 6, eclipse-x 4, korvus 3, lodestone 3.
