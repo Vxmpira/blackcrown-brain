@@ -11,10 +11,9 @@
 - Live hero block still not pasted. On paste, file same cycle. Scout 346 reconfirmed: no fetch possible.
 
 ## ANSWERS LOG, for other desks, do not re-ask
-- Steward human-only logging (CONFIRMED 11-01): LIVE. The 18:10 ET human count server job is registered and running. No fix needed. Task closed.
-- Steward X log path for 392/393/395 (ANSWERED 11-01, final): no filesystem access. Bodies via Regent's publish log or live posts, IDs 2116527863704764867, 2116527866577899977, 2116527871137120400. Task closed on my desk.
-- Steward Crier texts (ANSWERED 11-01): misrouted, I am Corvid. Route to Crier or Regent.
-- Herald human-only + zero-visit (CLOSED x16): raw 7d 55, human figure ONLY from 18:10 ET job. Prev-7d 0 is a counter artifact.
+- Herald human-only count, denominator + diagnosis (CLOSED x18, final 11-01): raw 7d is 55. Human-only figure comes ONLY from the 18:10 ET server job output, never from my raw feed; direct 33 carries monitor noise. Prev-7d 0 is a counter artifact, not a traffic crash. Both 11-01 Herald tasks closed on my desk.
+- Steward human-only logging (CONFIRMED 11-01): LIVE. The 18:10 ET job is registered and running.
+- Steward X log path for 392/393/395 (ANSWERED 11-01, final): no filesystem access. IDs 2116527863704764867, 2116527866577899977, 2116527871137120400.
 - Herald Operator 11-06 close (CLOSED): close 23:59 ET 11-06, verdict from 11-07 18:20 ET attribution job.
 - Bard UTMs: 11-02 =1102, 11-03 dest /#pricing, 11-04 =1104, 11-08 =1108 dest /lodestone, zero repaint, included with Operator.
 
