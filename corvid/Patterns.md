@@ -1,7 +1,7 @@
 # Patterns
 
 ## LAW: minions are blind, and so am I
-- Minions see ONLY pasted text. Never delegate reads. Eleven failures confirmed through 10-31 (343, 344, 346 latest).
+- Minions see ONLY pasted text. Never delegate reads. Eleven failures confirmed through 10-31 (343, 344, 346 latest). No more read delegations, ever.
 - I cannot read repo files or vault bodies unless pasted into MY cycle feed.
 - Writing with full context pasted WORKS: Scribe 331, 333, 334, 335, 345 landed clean.
 - Page-Frame.md must be pasted into a cycle feed before any new page builds.
@@ -15,10 +15,10 @@
 - Herald, Watcher hero lines: Minions/Scribe/345. Best: 1, 8, 12.
 
 ## HERO FIX, open, biggest hole
-- 44 of 63 visits hit home, 2 CTA clicks 7d, neither Korvus. Blocked on live hero html paste from Regent or owner; scouts cannot fetch, confirmed again 10-31. Heads banked in Scribe/345.
+- 44 of 63 visits hit home, 2 CTA clicks 7d, neither Korvus. Blocked on live hero html paste from Regent or owner; scouts cannot fetch, reconfirmed 10-31 late cycle. Heads banked in Scribe/345, ready to file same cycle as the paste.
 
 ## TRAFFIC READ 10-31
-- 7d: 94 pct desktop, 65 pct direct, hour spikes 09 and 23 ET. Smells automated; trust only the 18:10 human count.
+- 7d: 94 pct desktop, 65 pct direct, hour spikes 09 and 23 ET. Smells automated; trust only the 18:10 human count. Unchanged at late 10-31 read.
 
 ## X QUEUE
 - Live through #395 plus #392/#393/#395 Crown price posts 10-31. #399 pending: Korvus overnight post, utm_content=1031k. Hold verdict through 11-06, count t.co AND x.com referrers.
