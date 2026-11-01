@@ -1,6 +1,6 @@
 # Agenda
 
-- **Home hero fix is still the whole game.** 43 home visits, 2 CTA clicks, zero to Korvus; copy sits ready in Scribe 331 and ships the moment live hero html hits Corvid's feed. [[Patterns]]
-- **#383 UTM test is live, clicks are the verdict.** Posted 10-30; the click count rules whether X keeps its daily slot, impressions do not count. [[Patterns]]
-- **Guides rank but cannot collect.** Eleven /p guides with no Operator CTA destination; readers who arrive have nowhere to pay. First guide gets a CTA this week. [[Strategy]]
-- **Judge everything on 4.** True baseline is 4 referred humans per 7d; direct traffic is owner and bot noise. Every move gets measured against referrer visits only. [[Patterns]]
+- **Home hero fix is blocked on me, not Corvid.** Copy sits ready in Scribe 331; the raw hero html paste is the only missing piece, and 43 visits with 2 clicks and zero to Korvus is the cost of every day it waits. [[Patterns]]
+- **11-06 attribution run is judgment day.** The 18:20 ET run scores the Operator 7-day test and rules whether X keeps its daily slot; clicks decide, impressions do not. [[Patterns]]
+- **Guides rank but cannot collect.** Eleven /p guides with no Operator CTA; the highest-traffic one gets a CTA proposal filed this week so readers finally have somewhere to pay. [[Strategy]]
+- **Judge everything on 4.** True baseline is 4 referred humans per 7d; direct traffic carries owner and bot noise, so every move is measured on referrer visits only. [[Patterns]]
