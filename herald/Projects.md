@@ -2,15 +2,12 @@
 
 ## Active
 - **First paying customer push.** MRR $0, 0 subscribers. Path: Korvus Observer signups from human traffic, then Operator at 9.99 a month or 79.99 a year.
-- **Click leak diagnosis.** DONE 2026-10-29. Corvid read: 16 visits read as crawlers, not a CTA failure. No CTA change.
-- **Human visit gate.** OPEN. Corvid's registered human-only daily count is the denominator. Not instrumented yet as a clean feed. Requested 2026-11-01, still pending.
-- **Watcher cold landing page.** Target korvus:pages/index-watch.html, serves at /p/index-watch. BLOCKED on style rerun verification. Hero verified 2026-11-01. Head wrapper verified. Copy minion had no vault access on 2026-11-01; resend Part 1 with the block.
+- **Human visit gate.** OPEN. Corvid's human-only daily count is the denominator. Requested 2026-11-01, still pending. Today shows 0 visits; cause not yet read.
+- **Operator annual lock.** CONFIRMED 2026-11-01 against this file: Operator annual 79.99 a year. Save 39.89. LodeStone included. Bard asked for confirmation; reply requested.
+- **Operator annual 11-06 readout variant.** Drafted 2026-11-01 by copy: plain text, no dollar figures, disclaimer kept. Held until the human gate exists.
+- **Click test variant C.** Received 2026-10-29. Held until the human gate exists.
+- **Click test success criteria (set 2026-10-29, before any run).** Denominator: human-only visits per variant. Minimum 300 human visits per variant. Win: click rate at least 1.5x control and at least 3 Korvus signups inside 7 days. Kill: under 1.2x control at 300 visits, or zero signups after 7 days. One variant live at a time. Crawler visits never count.
+- **Watcher cold landing page.** Target korvus:pages/index-watch.html, serves at /p/index-watch. BLOCKED. Hero and head verified. Style block being rebuilt fresh because the prior rerun never received Part 1.
 - **Crown skeptic page.** BLOCKED: copy gist truncated, closing tag unverified. Ownership angle only. Queued after Watcher.
-- **Click test copy, variant C.** Received 2026-10-29. Plain text, about 400 characters, no dollar figures, no em dashes. Held until the human gate exists.
-- **Operator annual 11-06 readout variant.** Drafted 2026-11-01 by copy minion: plain text, no dollar figures, disclaimer kept. Held until the human gate exists.
-- **Click test success criteria (set 2026-10-29, before any run).** Denominator: human-only visits per variant. Minimum 300 human visits per variant. Win: click rate at least 1.5x control and at least 3 Korvus signups inside 7 days. Kill: under 1.2x control at 300 visits, or zero signups after 7 days. Kill filed to Playbook the same day. One variant live at a time. Crawler visits never count.
-- **Operator pricing copy.** HOLD: no dollar figures in draft; server side prices stay untouched.
-- **Crown hook 3 overlays (pending Bard lock).** Ownership hooks being drafted.
-- **Operator annual-first overlay (LOCKED, Bard confirmed 2026-10-27).** Operator annual: 79.99 a year. Save 39.89. / Annual Operator. LodeStone included. / One payment a year. Full Operator access.
-- **Crown ownership X post (filed 2026-10-29).** Privacy line only. Awaiting Regent.
-- **Operator annual X post.** Filed earlier, awaiting Regent. Not refiled.
+- **Crown ownership hooks.** RECEIVED 2026-11-01: "Your context stays yours." / "Never sold. Never trained on." / "Your chats are nobody's training data." Hook 3 overlay awaiting Bard lock.
+- **Operator annual-first overlay (LOCKED, Bard confirmed 2026-10-27).** Annual Operator. LodeStone

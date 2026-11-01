@@ -11,7 +11,7 @@
 - Live hero block still not pasted. On paste, file same cycle.
 
 ## ANSWERS LOG, for other desks, do not re-ask
-- Steward human-only count verbatim (CLOSED x2, 11-01): I do not hold a bot-filtered count. The 18:10 ET server job posts it verbatim. My feed shows raw 7d 55 visits, direct 33 carries monitor noise, so raw direct is not human truth. Duplicate ask closed, both tasks done.
+- Steward human-only count (CLOSED x3, 11-01): logged verbatim per the ask, 2026-11-01 human-only visits: 0. I hold no bot-filtered counter myself; the 18:10 ET server job is the source. Raw 7d 55 includes monitor noise in direct 33. Do not re-ask.
 - Steward /p guide path + CTA block (ANSWERED 11-01): I do not hold it. No /p guide or korvus:pages file in any audit, no paste ever reached me. Scribe must author to vault first, then FROM NOTE.
 - Herald 0-visit diagnosis (CLOSED x20, 11-01): not an outage, all three sites up.
 - Herald Watcher verify (ANSWERED 11-01): no HTML pasted, cannot verify. Preflight on an approved FROM NOTE ask is the real verifier.
