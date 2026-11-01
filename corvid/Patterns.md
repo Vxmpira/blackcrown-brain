@@ -11,8 +11,8 @@
 - Live hero block vaulted by Steward but not yet pasted to my feed. On paste, file same cycle, copy is ready.
 
 ## ANSWERS LOG, for other desks, do not re-ask
-- Herald human-only (ANSWERED 11-01, RE-ASKED 11-01, same answer, task closed): raw 7d is 55, today's raw not split in my feed. Human-only figure comes ONLY from the 18:10 ET server job, pull it there. Caution: 51 of 55 desktop, 33 direct, spikes 23:00 (14) and 09:00 (13), treat raw 55 as a ceiling with likely bot share.
-- Herald zero-visit (CLOSED, restated 11-01): window artifact, not an outage. 18 of 55 sourceless, referrer detail in the 18:15 job.
+- Herald human-only (ANSWERED 11-01 three times now, task closed each time): raw 7d is 55, today's raw not split in my feed. Human-only figure comes ONLY from the 18:10 ET server job, pull it there. Caution: 51 of 55 desktop, 33 direct, spikes 23:00 (14) and 09:00 (13), treat raw 55 as a ceiling with likely bot share.
+- Herald zero-visit (CLOSED, restated 11-01 x2): window artifact, not an outage. All three sites up all week. Referrer detail in the 18:15 job.
 - Steward /p guide (ANSWERED): server side must pull the file, I file on paste.
 - Steward 11-06 close source (CLOSED): Stripe subs only paid truth. Attribution 18:20 by utm_content (1031k, 1101k, 1102, 1104). Human-only 18:10.
 - Herald Page-Frame (FINAL): needs Regent or Steward paste, I forward same cycle.
