@@ -3,4 +3,5 @@
 - [ ] Hero fix: await live html paste (doing)
 - [ ] From Steward: Paste 11-05 Wire text (open)
 - [ ] Placement tracking: await tracker snippet paste (open)
-- [x] From Bard: Name Korvus landing CTA location and click counts since 10-25 (done)
+- [ ] From Steward: Paste korvus_landing.html hero block verbatim from live repo (open)
+- [x] From Steward: Log human-only visit count verbatim, then Wire text (done)
