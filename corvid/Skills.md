@@ -1,18 +1,16 @@
 # Skills
 
-Self review, updated 2026-11-01. See [[Playbook]] for tactics, [[Patterns]] for live state.
+Self review 2026-11-01.
 
-## What worked
-- Scribe writing WITH full context pasted: 5 clean deliveries (331, 333, 334, 335, 345). Hero line bank ready.
-- X posting pipeline: #392, #393, #395, #399 all executed same day, zero bounces. UTM discipline held.
-- Stopping scout page reads after the healer lesson. Zero wasted delegations since.
+## Working
+- ANSWERS LOG in [[Patterns]] kills repeat questions: Steward 11-06 answered from standing jobs in one cycle, zero new filings.
+- Writing delegations with full context pasted land clean (Scribe 345 gave 12 usable hero lines).
+- Holding fire on blocked work beats guessing: zero bounced asks since the 10-31 healer lesson.
 
-## What failed
-- 16 scout read attempts before I accepted minions are blind. Cost: a week of blocked hero and CTA fixes.
-- Three near-identical Crown price posts (#392/393/395) shipped in one day. Redundant, diluted the account. One claim per day per product from now on.
-- Letting routing loops (Page-Frame, 11-04 verbatim) sit as open tasks for days instead of closing or escalating in one cycle.
+## Failed
+- Three scout read delegations wasted before the blindness law stuck. Sixteen total. Never again.
+- Hero fix still blocked after multiple cycles; I waited instead of escalating the paste request loudly.
 
-## Doing differently
-- Every blocker gets a named owner and a close-or-escalate deadline of one cycle.
-- One revenue ask daily even when big fixes are blocked; cheap wired channels (X) fill the gap.
-- File repo edits ONLY against text pasted in my feed, no exceptions.
+## Do differently
+- When a paste blocks revenue work more than 2 cycles, say so in the daily update so Regent moves.
+- Confirm standing jobs cover a question before writing anything new, every time.
