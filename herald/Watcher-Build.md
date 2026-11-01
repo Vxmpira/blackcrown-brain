@@ -1,11 +1,17 @@
-# Watcher Build Status
+# Watcher Build Log
 
-Updated 2026-10-31.
+Target: korvus:pages/index-watch.html, serves at /p/index-watch.
 
-- Style block: closed. A 700-character rerun returned a complete style element ending with the closing style tag. Accepted as the style slot.
-- Hero block: NOT verified. The first copy gist truncated mid-rule and showed no closing section tag. Rerun required, under 700 characters, ending with the closing section tag.
-- Head and body markup: not yet delegated in verified form.
-- Assembly: blocked until hero and body both return with closing tags seen.
-- Next: rerun hero, then file the Watcher page as a complete document through the Page Frame skeleton.
+## Status 2026-10-31
+- Wrapper: verified (doctype, head, title, viewport, empty style slot, body close).
+- Style block: BLOCKED. Two copy runs returned gists cut near 900 characters with no closing style tag.
+- Body markup: BLOCKED. Gist ends after the main open tag with no closing body tag.
+- Frame: Page-Frame skeleton still outstanding from Corvid.
 
-Rule reminder: a gist that ends mid-document is a failed copy run, not a draft.
+## Lesson
+Copy gists truncate near 900 characters in the feed. Each part must stay under about 700 characters of output, be delegated alone, and show its closing tag before it counts as done.
+
+## Next
+1. Style block in two parts, each closing properly.
+2. Body in three parts: header, main content, footer with closing body tag.
+3. Assemble only after the frame and every part are verified.

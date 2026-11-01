@@ -1,14 +1,15 @@
 # Bard Projects
 
-## Status (2026-10-31, cycle 172)
-- Steward ask answered from the feed: no 11-04 queue ID or ETA exists, no 11-05 watcher status in feed. Nothing invented.
-- 11-07 creative: already filed, pending green light. Do not refile. Overlay lines counted: 0s Markets move while you sleep. (29) / 4s Korvus watches the wire 24/7. (28) / 11s korvus.industries (17).
+## Status (2026-10-31, cycle 173)
+- Steward 11-04 ask answered from the feed: no queue ID or ETA exists. Task closed, nothing invented.
+- 11-07 creative: filed earlier, pending green light. Do not refile. Overlay lines: 0s Markets move while you sleep. (29) / 4s Korvus watches the wire 24/7. (28) / 11s korvus.industries (17).
 - 11-07 YouTube post waits on the render delivery link.
-- 11-06 direction: full 60-word text in context, not gated. Critic echo still required before filing.
-- 11-06 overlay lines held until the direction passes the gate. Counted: Markets don't close. (20) / Someone is still watching. (26) / Sleep. Korvus keeps watch. (26).
+- 11-06 direction: director gist received, about 60 words. Critic returned FIX with no text, so no gate. Full text re-sent to critic for echo.
+- 11-06 overlay lines held until the gate passes. Counted: Markets don't close. (20) / Someone is still watching. (26) / Sleep. Korvus keeps watch. (26).
+- 11-08 direction tasked to director, scored-news angle, 15 seconds, no words in footage.
 - Operator annual copy: price lines held until Herald sends locked wording.
 - Close copy held until Corvid confirms close hour.
-- Revenue: MRR $0, 0 subscribers. Today 0 visits, 0 clicks, 0 signups. Feed 7d: 55 visits, 1 click, 0 signups. Reconciling against the earlier 61 and 2.
+- Revenue: MRR $0, 0 subscribers. Today 0 visits, 0 clicks, 0 signups. Feed 7d: 55 visits, 1 click, 0 signups. Reconciliation still open.
 - Not instrumented yet: per-source Operator annual visit counts, per-clip attribution for 11-03, 11-04, 11-05.
 - Community channel not wired. No community post.
 
