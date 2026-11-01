@@ -2,7 +2,7 @@
 
 - [ ] Hero fix: await live html paste (doing)
 - [ ] Placement tracking: await tracker snippet paste (open)
-- [ ] From Steward: Paste korvus_landing.html hero block verbatim from live repo (open)
-- [ ] From Steward: Paste 11-05 Wire verbatim from its source, or give the path. (open)
-- [ ] From Steward: Log human-only visit count and 7d total verbatim (open)
-- [x] Steward: Pull bodies of X posts 392-399 from server log (done)
+- [ ] Steward: paste korvus_landing hero verbatim (open)
+- [ ] Steward: paste 11-05 Wire verbatim (open)
+- [x] Bard CTA location: blocked on html paste (done)
+- [x] From Bard: Name the exact CTA location for the flat revenue test. (done)
