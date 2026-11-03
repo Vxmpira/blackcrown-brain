@@ -28,3 +28,4 @@
 ## OWED
 - Bloom still 82.02 on 11-01. If 11-02 still shows October balance, flag to Regent.
 - Sources key gap: 18 of 56 visits sourceless; analyst dig once asks clear.
+- HEALER LESSON 2026-11-03: this error has now struck 3 times, stop walking into it: librarian failed, nothing deleted: Anthropic (400)
