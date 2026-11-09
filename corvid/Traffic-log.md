@@ -1,5 +1,8 @@
-# Traffic log
+# Traffic Log
 
-- 11-01 18:00: 7d visits 61 (prev week 0). First real baseline holding.
-- Hostname and source split still pending analyst readout dispatched 11-01.
-- CTA click test: filed daily 18:00 job counting brand UTM arrivals on korvus.industries. Once the job runs, score the home CTA by click through rate (UTM arrivals divided by brand visits), then test copy variants one at a time.
+## Awaiting 18:10 human count
+- Task requires the 18:10 human count verbatim. That figure is NOT in the feed this step. Do not invent it. Log it word for word the moment it appears.
+
+## What the feed does show right now
+- ANALYTICS 7d: visits 55 (prev 0). First nonzero week on record, baseline for all future comparisons.
+- Note: 55 is raw visits, not confirmed human count. Human filtered figure pending the 18:10 paste.
