@@ -152,3 +152,14 @@
 - The Director cannot resend a prior direction verbatim when its text is not in the conversation. Reconstructing it from memory defeats the gate, so the filed creative record is the source of truth (Director 455, 462).
 - Critic-approved gate for any direction: restate the full text, check the No Text Law line, confirm no raven, crown, house mark, glass slab, keyboard, monitor trace, or price line, and confirm format and duration (Critics 453, 459, 467, 477).
 - Creative directions go to Bard as FRESH-labelled drafts. Data on screen is labelled Illustration (Director 463, 465).
+
+## 2026-11-09 (30 notes condensed)
+- Bard and Director cannot resend prior direction text because none is stored in their context. Every shippable direction, including the Crown Night Shift and Observer 11:00 briefs, must be filed as a complete vault note so "resend verbatim" requests can be answered from the file.
+- The Crown Night Shift brief (Critic PASS, then FIX) fails when it shows "the work keeps running" or "the workspace stays lit" over a monitor. Any visible screen, monitor, or display reflection invites pseudo-letters and chart traces, so the screen-free version should keep the mood with dark desks, empty chairs, and pink light only.
+- Critic FIX on Observer 10-29 11:00: "interface panels" and "chart" language breaks the No Text Law because video models cannot spell, even when described as blurred. Replace screen panels with light that has no screen or chart form, and keep the watch-while-you-sleep beat.
+- Screen-free Korvus raven creative (Critic FIX): on-screen overlay lines were "The market never sleeps." (0 to 3s), "Someone should be watching." (mid), "korvus.industries" (end), with a smaller "Information only. Not..." disclaimer line beneath. Overlay text is baked by the forge, not generated.
+- Critic FIX on Operator annual FRESH: moody b-roll with the watching idea only in the mood note reads as generic. The "someone keeps watch" idea must be visible on screen to connect to Korvus monitoring the market while the trader sleeps.
+- Operator annual overlay drafts must not bake process labels such as "FRESH" into the overlay field, since that would publish an internal tag to viewers.
+- Screen-free Crown Night Shift exclusions to reuse: no screens, monitors, keyboards, glass slabs, raven, crown, or house mark, and no words, letters, numbers, logos, or typography.
+- Operator annual copy options (Quill): "Korvus Operator Annual: 79.99 a Year" with hook "The market does not close while you sleep. Korvus watches it anyway." Caption: "Operator annual: $79.99 a year, LodeStone TradingView indicator included. Not financial advice. korvus.industries"
+- Alternate Operator annual copy: "The Watcher Runs Overnight: Operator Annual," hook "While you sleep, the wire is still reading the tape," caption "Korvus Operator, annual at $79.99, with

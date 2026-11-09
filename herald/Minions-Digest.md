@@ -130,3 +130,16 @@
 - Index Watch drafts used a "$39.89 savings" figure on annual Operator (79.99 vs 9.99 x 12 = 119.88); the computed label is correct, but drafts should carry it from the computed label, not a hardcoded number, since the Korvus landing injects prices server side.
 - Korvus index-watch pages belong at /p/index-watch (pages/ folder, served route); copy drafts should be filed as complete vault documents with the closing `</html>` verified before a FROM NOTE proposal.
 - Headline variants for Operator annual (under 60 characters) drafted: "The watch that never sleeps, now for a full year" / "A year of index futures intel, LodeStone included" / "Stop refreshing feeds. Start your session ready." Usable for Herald's annual campaign, pending owner copy approval.
+
+## 2026-11-09 (30 notes condensed)
+- Copy desks cannot read vault files, so closing-tag checks on existing pages need pasted contents or a read run by a desk that has vault access (458, 469).
+- Vault writes were unavailable in several Copy sessions, so three full page drafts (Crown skeptic and Index Watch) were never filed; re-run them only with vault access (478, 481, 482).
+- Crown skeptic drafts repeatedly quoted "10,000 tokens" free tier in public copy. This breaks the rule: Crown usage is always framed as money (free monthly allowance, no card), never token numbers.
+- Operator annual math, verified: 79.99 a year vs 119.88 billed monthly (9.99 x 12) saves 39.89; LodeStone included with Operator.
+- Overnight trader pains for Korvus: gap at the open, thin overnight liquidity wicks, scheduled overseas news hitting while asleep, unresolved overnight exposure, Asia and London sweeping US session levels.
+- Cold hook ranking for the Operator annual push: tool stack consolidation scored 17/20 (lead), overnight blind spot 16, woke up to a gap 14; the blind spot angle fits signup better than annual.
+- Korvus cold hook candidates under 90 characters: "Forty tabs open, one watcher. Korvus keeps index futures in one place while you sleep." and "The market never clocks out. Korvus stays on index futures all night." (483, 485).
+- Leading 29 Oct hook proposed as "The market moves at 3 a.m. Korvus watches index futures while you sleep." Pitch called it locked, but no lock appears in institutional memory; confirm before treating it as settled (485).
+- Hook 4 overlay lines for a Korvus video (one literal line each, baked on render): "The market does not sleep." / "Korvus does not either." / "Index futures, watched around the clock." / "News scored as it breaks, with a written read." / "Not financial advice. Start free at korvus.industries." (463).
+- Annual Operator X variants: "Operator annual is 79.99 a year, and you save 39.89 against paying monthly. LodeStone for TradingView is included." Variant 3 is labeled Illustration and carries the not-advice line (484).
+- Five skeptic objections to Crown's free tier (AI makes up numbers, black box reasoning, pasting trading data, it will tell me what to trade, subscription trap) with honest answers, usable for ownership-angle copy without memory-gap claims (480).
