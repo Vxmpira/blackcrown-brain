@@ -129,3 +129,12 @@
 - Critic FIX pattern on Crown: "crown-shaped glow" edges toward a brand mark that video cannot draw cleanly; crown-as-form direction is safer when described as a light assembly without logo framing.
 - Approved wording pattern (PASS, 10-28): pink pulse sweeping the first second, raven turning head toward lens with thin pink rim light, and "No words, letters, numbers, logos, or typography anywhere in the footage" as closing line; these beats survived review without text.
 - Overlay field stays separate from footage direction; directions that embed overlay copy or say "overlays are held for the forge" were treated as correct structure.
+
+## 2026-11-09 (30 notes condensed)
+- Brand-mark rule for generated footage: the raven and the crown are the house marks, so a crown object, crown-shaped silhouette, or raven in Crown or Observer footage reads as a logo and fails the review. Use unbranded props and figures (e.g., a hooded human silhouette) instead.
+- Screen rule for footage: a title or brief can say "without a screen," but the body must explicitly exclude monitors, screens, phones, tablets, and devices. Black glass or a glowing slab reads as a display unless the text rules it out.
+- Wordless SMT direction: a pale stone or obsidian slab can carry the divergence idea (one slab lit, one flat, a widening pink gap) without any brand marks or displays. Shot-level language like "unlabeled black glass crown" fails both rules.
+- Observer overlay line for Korvus Free, held in the overlay field and never in footage: "Your edge while the world sleeps."
+- Crown pricing naming conflict: a Director draft called the 49.99 tier "Pro" with "5 million tokens." Institutional memory says the tier is Crowned, 49.99 a month carrying $100 of room credit. Never use token numbers in public copy, and the tier name is Crowned.
+- Critic pass criteria that held across the batch: the closing No Text Law line present, three shots, 9:16, 12 to 15 seconds, no overlay text in footage, and an explicit list of banned elements.
+- A direction that is not in the conversation cannot be re-sent or passed. Critics must receive the filed text itself, so the Director should paste it or the critic should reject the empty review.

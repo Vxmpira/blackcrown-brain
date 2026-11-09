@@ -90,3 +90,14 @@
 - The once-a-day level family overlap rule is not in the reference material. The rule text and its family list need to be filed (Decisions.md entry) before any overlap check on posts #240 and #243 can close.
 - X reconciliation needs an export with post ID, UTC timestamp, and status for each brand post, plus the daily cap value and the timezone used for day boundaries. Without these, per-day overage cannot be computed.
 - Post #250
+
+## 2026-11-09 (30 notes condensed)
+- **Korvus fallback X post (single claim, 10-29):** Single-claim draft ("Korvus covers index futures 24/7 and scores what happens overnight") is about 229 characters with the link counted at 23; hold for 18:00 ET only if no Herald channel is live.
+- **10-28 X ledger reconciliation:** Playbook 218 logs 4 breaches (#217, #218, #220, #222) and 0 of 4 map to ledger rows; the verified breach count is not instrumented yet, and breach entries need X post IDs or ledger refs attached.
+- **Eclipse-X value post, three-pass Presidential Wire method:** A 112-word post (impact, direction, confidence, then check the Korvus read against your own chart) passed the audit with no level families, no activity ask, no em dashes, and a not-advice line; no outbound link means it is not tied to the signup quota yet.
+- **10-29 X cap breach:** Three brand X posts (#262, #265, #266) went out against a cap of two, and #266 was a Korvus click test used to cover a missing channel-and-copy step; lesson: a test post counts against the cap, and preflight must reject any board ID with no matching assigned path.
+- **Prior-period level family for X slate:** Prior day and prior week high/low chosen as the single level family for 10-30 posts so every channel stays on one family; prior day high and low chosen as the lead family for the 10-30 slate.
+- **Fallback clip rule for failed critic slots:** 11:00 slot falls back to a PASS clip (last_verified within 30 days, PENDING excluded, no words on footage, UTM kept) by 10:45 and locks by 11:00; 19:00 slot uses trigger 18:30, fallback 18:45, lock 19:00 on the same eligibility rules.
+- **Six-gate audit checklist for Bard export:** Gates are PASS-only clip status, last_verified on or after 2026-09-29 (30-day window for reference date 2026-10-29), PENDING excluded, no words on footage, UTM tag kept, and export entry present for the creative; any HOLD stops filing and routes a fix back to Bard.
+- **Fallback index schema:** Each clip record carries clip_id, render_link, duration_s, theme_tags (1 to 3 from the day's theme family names), overlay_lines_approved (0 to 3), and last_used; lookup order is exact tag, partial tag, oldest last_used skipping clips used in the last 7 days.
+- **Eclipse-X context pass post (forecast vs. actual, USD agenda):** Draft explains reading consensus against the live actual in #forex-news and watching whether the first move holds after a print; usable as a distinct value post for a later slot.

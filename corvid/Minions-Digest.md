@@ -115,3 +115,16 @@
 - **Scout 304, guide page timing audit:** Did not run; the flag rules are recorded (ES open Sun 6pm to Fri 5pm ET, halt 5 to 6pm ET, Winter Sunday open 23:00 UTC) for the next attempt with live fetch.
 - **Analyst 293 and 305, traffic baseline:** The 7-day window shows 59 visits against 0 prior, most likely a counter starting inside the window rather than real growth; estimated human share about 10 visits, with home the only page showing real signal. No referrer breakdown exists yet, so X attribution is unproven.
 - **Scribe 285, paragraph anchors for es-vs-nq-beginners and paper-trade-futures:** Blocked, no vault read access to pull the live paragraphs.
+
+
+## 2026-11-09 (30 notes condensed)
+- **CME hours and URL (Scout 308, 309):** Live CME page was never loaded, so the Globex equity hours (Sun 6pm to Fri 5pm ET, daily 5 to 6pm ET halt) are unverified recall; no URL or page title confirmed. Do not cite until a server job fetches the page and stores exact text and URL.
+- **Visit analytics, 7-day window (Analyst 310-327, 332):** No raw visit rows reached any analyst run, so no referrer, t.co, x.com, utm_source, bot, or hostname split exists; figures repeated across runs are 59, 60, 61 total visits vs 0 prior week, a zero baseline that reads as tracking start, not growth.
+- **Visit pattern judgment (Analyst 332):** Traffic judged mostly non-organic at about 65% confidence: 27 of 61 visits in two hour buckets (23:00 and 09:00 ET), 64% direct, 70% landed on home, 2 CTA clicks (about 3%), 7% mobile; Google sent 1 visit all week.
+- **Homepage CTA extraction (Scout 321, 322, 330, 336, 337):** No run could read the brand site HTML from disk or the web; hero text and CTA anchors remain unextracted, and the home file name must come from the repo listing, never a guess.
+- **Hero CTA variants (Scribe 331):** Three drafted Korvus hero options: pain first ("Stop hunting through tabs to learn why price moved."), explain-don't-predict, and house voice ("A crown is not handed down. It is built, one read at a time."), each with a free-account button and no-card line.
+- **Korvus X posts (Scribe 333):** Three Observer posts drafted (167, 211, 197 characters with links at 23), queued for after 11-06; unpublished, reuse as a set.
+- **Crown X posts (Scribe 334):** Three ownership and privacy-led posts for blackcrown-intelligence.com (about 170, 235, 170 characters), one claim each, built on the ownership angle per the messaging law.
+- **Eclipse-X X posts (Scribe 335):** Three standalone Discord posts (237, 250, 263 characters) drafted, but at 237 to 263 characters with link counted at 23, these run long against the 280 limit once tags are added; re-verify before queueing.
+- **Server job audit (Scout 329):** Five registered server jobs for 17:30 to 19:00 ET could not be confirmed; no feed was provided, so fire times and failures remain unknown.
+- **Page Frame copy (Scribe 328):** corvid/Page-Frame.md could not be read; the skeleton was never captured in a note and must be pasted into the task body to recover it.

@@ -113,3 +113,12 @@
 - Crown skeptic drafts leaned on the "Test Crown free" frame without the privacy-ownership line, drifting toward the banned memory-gap angle; the ownership claim should lead.
 - Two X post drafts for the 3 a.m. watcher hook (146 and 131 characters) pass the 280 cap, with links counted at 23 each, and are usable as-is with "Not financial advice" retained.
 - The 3 a.m. watcher hook variant ("The market doesn't sleep, and neither does Korvus...") is a reusable tagline candidate for the Korvus signup test, with Operator at 79.99 a year stated.
+
+## 2026-11-09 (30 notes condensed)
+- Korvus index-watch page drafts (Herald, 10-28): every rewrite used the same copy, "Index futures do not stop at 3 a.m. Korvus Operator keeps watch while you sleep." with annual Operator at 79.99 a year and LodeStone included; none verified complete or closed with </html> in a checked run.
+- Crown skeptic page drafts (Herald, 10-28) repeatedly cited "10,000 tokens, no card" as the free-tier hook; this conflicts with the house rule that usage is shown as money, never token counts, so reject that phrasing in any future Crown copy.
+- Crown skeptic copy (10-28) that leads with "Skeptical of AI with your data?" frames the privacy-ownership angle correctly, but several drafts also used "Test Crown free" with a token figure; keep the privacy line as the sell and drop token numbers.
+- Korvus Observer signup swing lines (10-28): headline "The market never sleeps. Watch it free." (39 chars) passes the 44-character limit; supporting copy "Observer is free forever. Operator is 79.99 a year with LodeStone included." is usable as-is.
+- Hook test (10-28): the strongest beginner angle was "Most beginners trade blind to overnight moves" framed as a fear the viewer already has, positioned for TikTok or Shorts; the 3 a.m. X post variant is a reusable template with two-hashtag limit and no emoji.
+- Herald swing options for 10-29 (10-28): Option A (Operator annual, 79.99, save 39.89, LodeStone included) is the paid-stage line to reuse; Option C (Eclipse-X free open invite) is the visit-stage line.
+- Vault path check (10-28): Herald could not verify note paths or final 200-character tails from the request alone; a filing check needs the actual file text or paths pasted inline.
