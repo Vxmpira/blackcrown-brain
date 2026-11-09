@@ -14,7 +14,14 @@
   "profit_factor": null,
   "paper_pnl": 0,
   "exits": {},
-  "by_catalyst": {}
+  "by_catalyst": {},
+  "capital_at_work": 50000.0,
+  "max_drawdown_usd": 0.0,
+  "max_drawdown_pct": 0.0,
+  "first_trade_utc": null,
+  "last_trade_utc": null,
+  "trading_days": 0,
+  "last30_expectancy_pct": null
  },
  "min_sample": 30,
  "universe_count": 63,
