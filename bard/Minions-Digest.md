@@ -105,3 +105,9 @@
 - Critic FIX on a single continuous camera move (Critic 305): a direction with one unbroken move fails. It needs three distinct shots and a clear tie to the Korvus watcher angle, or it reads as generic mood footage.
 - Critic length standard for shot copy (Critic 320): shots at 17 to 19 words fail. Each labeled shot should carry about 25 words of light, motion, and material detail.
 - Critic FIX on product-stock imagery (Critic 325): an unl
+
+## 2026-11-09 (30 notes condensed)
+- Video direction briefs must state vertical 9:16 format and a 10 to 15 second runtime in the body; a brief missing either is incomplete and gets FIX'd (Critic, 10-27).
+- Title, header, and label lines (e.g. "Operator 19:00, Variant B") must live in a metadata field outside the footage text, because the render model is fed the body verbatim and cannot spell, so any words or numerals in the body risk appearing on screen.
+- Pink-pulse-over-black-velvet footage with no subject reads as generic stock mush and fails review; every Korvus direction must carry the all-seeing watcher concept (a concrete watching subject such as monitors waking across a dark field) rather than abstract light.
+- Directors must not reconstruct a draft from a critic's quoted beats: when the source draft isn't in context, the director should ask for it from the vault or Bard's thread, since a reconstruction may not match the text the critic reviewed.

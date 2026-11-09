@@ -71,3 +71,14 @@
 - Analyst attribution asks on the brand site and Korvus (33 visits in 7 days, 0 prior week) cannot be split by referrer or utm_source without raw session rows; the 33 is a baseline only, and the t.co versus utm_source=x gap must be read from raw logs.
 - Outbound X post utm_content checks cannot be done from a scout lookup; the five post IDs in job 114 need a server job or fetch-capable desk, and posts before the 2026-10-26 UTM rollout may legitimately show no tag.
 - Brand site index.html CTA markup and the Crown skeptic copy note in Minions/Copy could not be read from these runs; any proposal anchored to them needs the raw file pasted first.
+
+
+## 2026-11-09 (30 notes condensed)
+- Vault pages drafted for /p/ slugs (complete html, canonical on korvus.industries/p/): smt-divergence, what-is-smt-divergence, cross-index SMT (saved as korvus-smt-divergence), fair-value-gaps, liquidity-sweeps, equal-highs-and-lows, premium-and-discount, ict-kill-zones, volume-profile-basics, prior-day-levels, resting-liquidity, futures-session-times-et, operator-annual (pages/operator-annual.html, 79.99 a year, LodeStone TradingView included).
+- Recurring Scribe defect: drafts shipped with an empty duplicate meta description or two title tags, forcing rewrites (liquidity-sweeps, what-is-smt-divergence, equal-highs-and-lows, ict-kill-zones, smt-divergence). Preflight needs exactly one title, one meta description, one canonical in the head.
+- Keyword ranking for the next /p/ guides, judgment only with no search volume in the feed: equal highs and lows first (bridges to live resting-liquidity), then premium and discount, then killzone times ET; separately liquidity sweeps, session timezone handling, volume profile basics. Not instrumented yet: search demand.
+- Long tail angles ranked by intent: futures-session-times-et (utility lookup, ET open and close times), what-is-smt-divergence (definition-seeking, ES/NQ/YM).
+- Signup UTM capture is unverified: outbound tagging (shipped 2026-10-26) does not prove utm_source or utm_campaign are stored at account creation. Task #219 stays blocked until someone with repo read access confirms the account schema, the /signup route, and the POST handler.
+- Brand home 7-day traffic: 37 visits (the task said 32), 29 direct (78%), 35 desktop (95%), 14 at 23 ET (38%). The self or agent traffic hypothesis cannot be tested from aggregates.
+- Agents without repo or disk access cannot read korvus_landing.html or the korvus clone; any verbatim CTA copy they return is invented. Route repo reads to a desk that has access.
+- Method to audit the brand home for Korvus CTAs: grep the live page for "korvus" and for anchor tags, then check each Korvus href for utm_source, utm_medium, and utm_campaign.

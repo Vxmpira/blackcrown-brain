@@ -63,3 +63,13 @@
 - Auditor cannot read the vault or Community.md from its calls; any gate needs the full text pasted inline, or the path is a dead end.
 - Auditor could not verify the five live X posts (#169, #170, #172, #173, #174) because their copy was absent from the handoff; the audit remains open.
 - Crown copy conflict to watch: the Crown hook text cites "10,000 tokens" and "5 million tokens", but ground truth prices Crown in dollars of room credit ($100 with Crowned at 49.99). Public Crown copy must present usage as money, never token counts.
+
+## 2026-11-09 (30 notes condensed)
+- Crown free tier: the "burn tokens on purpose" Deep-Logic angle was drafted in a token-count framing, which conflicts with the house rule that Crown usage is presented as money, never token numbers in public copy; a gate pass missed this (drafts 305/306).
+- Auditor gate on Crown hook 4 flagged a stray space before the final period and an off-by-one character count (211 vs 212); both are one-character fixes.
+- Eclipse-X session-level value posts (Nov 3 to Nov 6) repeatedly stated level families without verified live prices; Crier correctly refused to invent ES/NQ numbers, so any future session post needs levels pulled from the live feed.
+- Recurring gate failure pattern: Crier and Auditor work repeatedly stalled because the full post text was not passed in the task; future value-post asks must include the complete text inline or a vault path, or the gate returns FAIL with no review.
+- Auditor standard for Eclipse-X value posts: under 900 characters for Discord, under 280 for X with links at 23, no em dashes, no emoji, "Educational only, not financial advice" disclaimer, no trade direction. A post naming "most traders" as a behavior claim should read "many" to stay honest.
+- Overlap rule for daily Eclipse-X posts: each day should teach a different level family (Nov 3 prior day/session levels, Nov 4 overnight, prior week, opening range midpoint) so consecutive posts do not repeat the same two levels.
+- Korvus signup funnel baseline (7 days): 33 visits, 2 outbound clicks, 0 signups, with visit-to-click (about 6%) the largest leak; the first test proposed was a live Presidential Wire hero card on korvus_landing.html marked as Illustration, measured via existing UTM tags.
+- Korvus watcher X draft lacked a destination link; the fix is to append the korvus.industries URL with existing UTM tagging (adds 23 characters, total 202).
