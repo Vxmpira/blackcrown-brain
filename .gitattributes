@@ -1,0 +1,6 @@
+# The server writes every note with LF line endings. Normalize everywhere so
+# Windows clones never show phantom edits that block the Obsidian Git pull.
+* text=auto eol=lf
+*.png binary
+*.jpg binary
+*.mp4 binary
