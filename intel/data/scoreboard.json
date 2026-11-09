@@ -1,7 +1,7 @@
 {
  "data_asof_utc": "2026-11-09T21:13:30.670328+00:00",
  "scoreboard": {
-  "strategy": "v1-catalyst-follow-through",
+  "strategy": "v2-catalyst-both-ways",
   "closed_trades": 0,
   "open_trades": 0,
   "wins": 0,
@@ -15,6 +15,7 @@
   "paper_pnl": 0,
   "exits": {},
   "by_catalyst": {},
+  "by_side": {},
   "capital_at_work": 50000.0,
   "max_drawdown_usd": 0.0,
   "max_drawdown_pct": 0.0,
@@ -27,13 +28,15 @@
  "universe_count": 63,
  "universe_asof": "2026-11-09T20:06:45.075995+00:00",
  "rules": {
-  "strategy": "v1-catalyst-follow-through",
+  "strategy": "v2-catalyst-both-ways",
   "notional": 10000.0,
   "max_open": 5,
   "target_pct": 1.5,
   "stop_pct": 1.0,
   "min_confidence": 60,
   "max_day_up_pct": 8.0,
+  "max_day_down_pct": 8.0,
+  "allow_short": true,
   "lookback_hours": 18.0,
   "slippage_pct": 0.05,
   "tick_seconds": 60,
