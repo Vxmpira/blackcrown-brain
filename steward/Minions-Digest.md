@@ -101,3 +101,12 @@
 - **Six-gate audit checklist for Bard export:** Gates are PASS-only clip status, last_verified on or after 2026-09-29 (30-day window for reference date 2026-10-29), PENDING excluded, no words on footage, UTM tag kept, and export entry present for the creative; any HOLD stops filing and routes a fix back to Bard.
 - **Fallback index schema:** Each clip record carries clip_id, render_link, duration_s, theme_tags (1 to 3 from the day's theme family names), overlay_lines_approved (0 to 3), and last_used; lookup order is exact tag, partial tag, oldest last_used skipping clips used in the last 7 days.
 - **Eclipse-X context pass post (forecast vs. actual, USD agenda):** Draft explains reading consensus against the live actual in #forex-news and watching whether the first move holds after a print; usable as a distinct value post for a later slot.
+
+## 2026-11-09 (30 notes condensed)
+* 2026-10-29 Auditor: Eclipse-X and Bard gate-text checks were blocked for lack of source text; no gate wording was verified, so the 19:00 run is held until planner gate text is re-derived verbatim from the vault source and compared line by line.
+* 2026-10-29 Auditor: X reconciliation of 10-29 found four status IDs decoding to 09:27, 11:28:07, 11:28:08 (705 ms apart), and 13:11; the 11:28 pair looks like a double-fire and needs ledger bodies to confirm before any breach call against the 2-post cap.
+* 2026-10-29 Auditor: Herald's 10-30 gate has no trigger or owner for the 7-day signup readout; the readout must be split from the 17:00 ET go/no-go, and the 280 click baseline is unsourced, so the click criterion stays "not instrumented yet."
+* 2026-10-29 Auditor: Variant C 7-day readout spec: T0 from the approved proposal's go-live record, window 00:00 ET T0 to T0+7, due 17:00 ET T0+7, human-only via job 280 filter, variant split by UTM tag, baseline the 7 days before T0.
+* 2026-10-29 Planner: 19:00 gate fallback rule: missing Wire C source alone moves the gate to fallback at 18:45 and does not fail it; any overlay or caption mismatch against Herald's text fails it.
+* 2026-10-29 Planner: 10-30 gate evidence sheet status key used throughout: PENDING, MISSING, VERIFIED, NOT INSTRUMENTED YET, UNVERIFIED; Item 1 (job 280 count) stays PENDING until the 09:35 ET run posts, not on registration.
+* 2026-10-29 Crier: Eclipse-X session-level primer drafts (prior day high and low, overnight range, London and New York opens) were drafted education-only with LodeStone included with Korvus Operator and no direction; reusable as a community value series.

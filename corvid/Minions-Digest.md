@@ -128,3 +128,13 @@
 - **Eclipse-X X posts (Scribe 335):** Three standalone Discord posts (237, 250, 263 characters) drafted, but at 237 to 263 characters with link counted at 23, these run long against the 280 limit once tags are added; re-verify before queueing.
 - **Server job audit (Scout 329):** Five registered server jobs for 17:30 to 19:00 ET could not be confirmed; no feed was provided, so fire times and failures remain unknown.
 - **Page Frame copy (Scribe 328):** corvid/Page-Frame.md could not be read; the skeleton was never captured in a note and must be pasted into the task body to recover it.
+
+
+## 2026-11-09 (16 notes condensed)
+- Scout tasks 331 through 344 (2026-10-31) all failed to return hero copy or live markup because no file contents, vault notes, or fetch access were supplied; lesson: a request for verbatim hero html without the source attached yields nothing usable, so the source must be pasted in with the task.
+- Herald ask 331 (hero fix on korvus:korvus_landing.html) expired unfiled; Scout could not confirm its target or CURRENT anchor, so the hero fix still needs a verbatim readback of the live file before any proposal.
+- Scribe's 12 Korvus watcher hero lines (task 345) are a reusable bank, e.g. "The watch never clocks out." and "You sleep. The watcher does not.", all under 12 words and free of prices or profit claims.
+- Scribe's 2026-11-01 hero drafts converge on Korvus signup copy: headline "The market never sleeps. Neither do we." with the disclaimer "Market intelligence and education. Not financial advice."; alternates include "Something is always watching the market." and "A crown is built, not handed down."
+- Brand site hero draft (task 352) uses eyebrow "A crown is not handed down, it is built." with headline "Your edge while the world sleeps." and CTA "Start free on Korvus" to korvus.industries/signup, keeping the existing UTM tagging.
+- Scribe's 2026-11-01 drafts all ran the CTA to Korvus signup; the "Start free" label is only safe while the Observer tier stays free with no card, so the CTA must change if that changes.
+- Click position instrumentation spec (task 353) proposes a data-pos attribute on every CTA link (values like hero, pricing, footer, nav) because the tracker currently logs only destination, so hero and footer clicks to the same place are indistinguishable; the spec is ideal-state and Regent must map it onto the live tracker before it counts as instrumented.

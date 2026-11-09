@@ -138,3 +138,17 @@
 - Crown pricing naming conflict: a Director draft called the 49.99 tier "Pro" with "5 million tokens." Institutional memory says the tier is Crowned, 49.99 a month carrying $100 of room credit. Never use token numbers in public copy, and the tier name is Crowned.
 - Critic pass criteria that held across the batch: the closing No Text Law line present, three shots, 9:16, 12 to 15 seconds, no overlay text in footage, and an explicit list of banned elements.
 - A direction that is not in the conversation cannot be re-sent or passed. Critics must receive the filed text itself, so the Director should paste it or the critic should reject the empty review.
+
+## 2026-11-09 (30 notes condensed)
+- Crown FRESH direction (Director 452) was a generic stock mood of steam, mug, notebook, lamp, and dust. The Critic (453) failed it for not tying to Crown's rooms or the "built, not handed down" idea. Crown directions need a specific Crown point of view, not a mood that could sell any brand.
+- Notebook covers in Crown video directions must be specified blank, with no embossing or printed marks, because a leather cover can carry lettering that breaks the No Text Law (Critic 459).
+- Video directions must state format and duration explicitly (9:16, 10 to 15 seconds) and an explicit shot count, or the render cannot be checked against spec (Critic 459).
+- Keyboards and monitors in generated footage get keycaps and UI glyphs. Keep keyboards blank and unlabeled, keep monitors dark or out of frame, and avoid bezel reflections that read as a display (Critic 467).
+- A pink "market trace" or any price-line geometry reads as a literal chart and pulls the piece toward a terminal demo. Use an abstract glow with no price-line shape (Critic 473).
+- Strongest watcher beats so far: the observer's head turning to camera as the glow fades, a steady pink glow holding through rain-beaded glass ("a watcher that never blinks"), and a pink rim light tracing an empty chair as it turns toward camera (Critics 451, 474, 480).
+- Reusable 3 a.m. watcher template (Director 475, Korvus): 9:16, 12 seconds, dark pink and black, shots at 0 to 3, then a cold-glow hook; overlay literal lines "The market moved while you slept." / "Korvus watched every tick for you." / "korvus.industries", baked by the forge, never in the footage.
+- The 19:00 Operator visual direction (Director 479) runs three shots at 0 to 4, 4 to 9, and 9 to 13 seconds, using a pink glow, a rain-beaded night window, and a cool grey dawn edge at the close, with no text (Critic 480 PASS).
+- A Critic PASS is void if the reviewed direction was not restated verbatim in the review. Critic 477 refused to pass a direction whose text was absent from the message. Reviews must quote the full text before any verdict.
+- The Director cannot resend a prior direction verbatim when its text is not in the conversation. Reconstructing it from memory defeats the gate, so the filed creative record is the source of truth (Director 455, 462).
+- Critic-approved gate for any direction: restate the full text, check the No Text Law line, confirm no raven, crown, house mark, glass slab, keyboard, monitor trace, or price line, and confirm format and duration (Critics 453, 459, 467, 477).
+- Creative directions go to Bard as FRESH-labelled drafts. Data on screen is labelled Illustration (Director 463, 465).

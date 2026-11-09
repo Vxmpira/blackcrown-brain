@@ -122,3 +122,11 @@
 - Hook test (10-28): the strongest beginner angle was "Most beginners trade blind to overnight moves" framed as a fear the viewer already has, positioned for TikTok or Shorts; the 3 a.m. X post variant is a reusable template with two-hashtag limit and no emoji.
 - Herald swing options for 10-29 (10-28): Option A (Operator annual, 79.99, save 39.89, LodeStone included) is the paid-stage line to reuse; Option C (Eclipse-X free open invite) is the visit-stage line.
 - Vault path check (10-28): Herald could not verify note paths or final 200-character tails from the request alone; a filing check needs the actual file text or paths pasted inline.
+
+## 2026-11-09 (30 notes condensed)
+- Index Watch page drafts (Minions/Copy 428 to 456) never shipped a verified complete document: repeated attempts were cut off or missing the closing `</html>`, and the vault tail could not be checked from the desk, so no page is cleared for a proposal.
+- Crown skeptic page drafts (430 to 457) repeatedly quoted "10,000 tokens" free tier and "5 million tokens" Crowned; token numbers violate the usage-as-money rule and must not reach public copy, so the drafts need rewriting in dollar terms (free monthly allowance, Crowned 49.99 with $100 room credit).
+- Crown skeptic copy leaned on memory-gap framing in places; per the 10-28 ruling, Crown copy must lead with ownership (your context stays yours, never trained on), not "other AIs forget you."
+- Index Watch drafts used a "$39.89 savings" figure on annual Operator (79.99 vs 9.99 x 12 = 119.88); the computed label is correct, but drafts should carry it from the computed label, not a hardcoded number, since the Korvus landing injects prices server side.
+- Korvus index-watch pages belong at /p/index-watch (pages/ folder, served route); copy drafts should be filed as complete vault documents with the closing `</html>` verified before a FROM NOTE proposal.
+- Headline variants for Operator annual (under 60 characters) drafted: "The watch that never sleeps, now for a full year" / "A year of index futures intel, LodeStone included" / "Stop refreshing feeds. Start your session ready." Usable for Herald's annual campaign, pending owner copy approval.
