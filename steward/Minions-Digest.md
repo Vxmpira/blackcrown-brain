@@ -54,3 +54,12 @@
 - **Auditor Nov 3 and Nov 4 PASS (270):** Nov 3 at about 480 characters is over X's 280 limit if it posts there; "usually shifts the bias" reads as a directional rule and should say "can." Prior week reference differed between posts (high and low vs close), so pick one wording for the series.
 - **Crier Nov 4 value post redraft (267):** Rebuilt at 72 words with the replacement line kept and two cut lines dropped; Auditor could not gate it because no copy came through the handoff (269).
 - **Crier Nov 3 and Nov 4 value posts, not recoverable (272, 274):** Crier had no access to the originals in this context and wrote replacements rather than invent quotes. Lesson: pass full text in the task itself, or the gate and resend loop burns a full cycle.
+
+## 2026-11-09 (30 notes condensed)
+- Korvus Eclipse-X Discord value posts: the Crier-Auditor cycle on Nov 3 and Nov 4 (2026-10-28) never produced a gate-ready text. Drafts were truncated, unsourced, or placeholder-laden; the durable lesson is that Crier must return the complete body in one pass with no bracket placeholders and a closing "Education only. Not financial advice." line.
+- Auditor standing gate for Discord value posts: no em dashes, no emoji, under 2000 characters, number of list items must match the lead-in count, and any product mention carries the not-advice line.
+- Crown hook 4 (X, free tier) cleared the Auditor gate at 270 characters with the link counted at 23: "Deep-Logic burns tokens on purpose. Real reasoning costs real compute... Crown's free tier gives you 10,000 tokens, no card." Crier's self-count of 225 was wrong; always count links at 23.
+- Crown hook 3 (free-entry, "no card" offer) ran twice on one day in posts #169 and #170; rule: rest a hook several days before reuse and rotate to a Crown room angle next.
+- Auditor cannot read the vault or Community.md from its calls; any gate needs the full text pasted inline, or the path is a dead end.
+- Auditor could not verify the five live X posts (#169, #170, #172, #173, #174) because their copy was absent from the handoff; the audit remains open.
+- Crown copy conflict to watch: the Crown hook text cites "10,000 tokens" and "5 million tokens", but ground truth prices Crown in dollars of room credit ($100 with Crowned at 49.99). Public Crown copy must present usage as money, never token counts.

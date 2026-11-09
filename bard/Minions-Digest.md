@@ -96,3 +96,12 @@
 - Operator caption draft (Quill 282) at 139 characters with monthly listed first conflicts with the brand order of annual first; the revision (Quill 284) leads with 79.99 a year and states the 39.89 savings, which is the correct lead.
 - Operator overlay candidate sets (Quill 298) pending Herald lock: Set C is the only one naming LodeStone; all sets carry the education-only, not-financial-advice line.
 - Critic rule that caught real defects: a crown-shaped sculpture in Crown or Operator footage breaches the no logos rule, and product-implying overlay copy ("Your watch does") needs a not-advice line.
+
+## 2026-11-09 (30 notes condensed)
+- Korvus Operator overlay candidates, counted with spaces and punctuation (Quill 307, not locked): "Watching the tape while you sleep." (34), "Every index move, logged while you rest." (40), "Scored news. Clear reads. Nothing to chase." (43, closest to the 44 cap), "Your edge while the world sleeps." (33), "Start free at korvus.industries." (32).
+- Annual-first Operator overlay trio, each under 44 characters (Quill 316): "Sleep. Index watch 24/7. korvus.industries" (42), "Eyes open. LodeStone in. korvus.industries" (42), "Night hours? Covered. korvus.industries" (39). The domain alone is 17 characters.
+- Annual-first Operator creative copy for the 19:00 slot (Quill 314): title "Korvus Operator Annual: 79.99 with LodeStone", hook "Index futures move while you sleep.", caption "Operator annual: 79.99 a year, LodeStone included" closing with not financial advice and korvus.industries.
+- Watcher triptych concept that reached a usable draft (Director 308): 13 second 9:16 clip in three beats, a sleep watch over a sleeping figure, an unblinking glowing screen across a silent room, and a dawn handoff, ending on the No Text Law line.
+- Critic FIX on a single continuous camera move (Critic 305): a direction with one unbroken move fails. It needs three distinct shots and a clear tie to the Korvus watcher angle, or it reads as generic mood footage.
+- Critic length standard for shot copy (Critic 320): shots at 17 to 19 words fail. Each labeled shot should carry about 25 words of light, motion, and material detail.
+- Critic FIX on product-stock imagery (Critic 325): an unl

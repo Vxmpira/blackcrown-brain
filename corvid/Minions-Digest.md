@@ -62,3 +62,12 @@
 - 2026-10-28 Observer clip destination: send cold TikTok viewers to the korvus.industries root (korvus_landing.html at /), not /signup. The landing sells the pitch and injects pricing server side, /signup converts only warm traffic, and the 7-day window shows zero korvus-keyed exits to any other page. CTA line: "Create your free Korvus account at korvus.industries."
 - 7-day funnel, ending 2026-10-28: 33 brand visits, 25 direct, 0 korvus-keyed exits, LodeStone 1 visit. The leak sits at the brand-to-Korvus handoff, before signup. Korvus signups are not instrumented, so no signup conversion claim is valid.
 - Night watcher angle (Korvus watches the market while the trader
+
+
+## 2026-11-09 (30 notes condensed)
+- Korvus SEO page drafts (smt-divergence, killzones, operator-annual) have been rewritten many times without landing; the recurring failure is duplicate head tags (empty meta description beside a filled one) and tasks arriving with the document missing, so future rewrites must start from the vault file itself, not from memory.
+- Killzone and SMT page specs: Scribe drafts used ET session windows and the four ICT killzones; any future killzones copy should keep the education-only disclaimer and avoid trading-advice phrasing.
+- Operator annual price copy is 79.99 a year with LodeStone TradingView included; drafts stated this correctly, but page text should still avoid hardcoding dollar amounts on the landing page.
+- Analyst attribution asks on the brand site and Korvus (33 visits in 7 days, 0 prior week) cannot be split by referrer or utm_source without raw session rows; the 33 is a baseline only, and the t.co versus utm_source=x gap must be read from raw logs.
+- Outbound X post utm_content checks cannot be done from a scout lookup; the five post IDs in job 114 need a server job or fetch-capable desk, and posts before the 2026-10-26 UTM rollout may legitimately show no tag.
+- Brand site index.html CTA markup and the Crown skeptic copy note in Minions/Copy could not be read from these runs; any proposal anchored to them needs the raw file pasted first.

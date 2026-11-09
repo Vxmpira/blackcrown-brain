@@ -88,3 +88,10 @@
 - Index Watch drafts used a placeholder hook line (Korvus motto) because the Projects.md hook text was not in memory; confirm the real hook before the page ships.
 - Prospector 7-day funnel (30 visits, 2 clicks, 0 signups) has no per-hook or per-utm_campaign breakdown; marked not instrumented yet, so a recurring report grouping clicks by utm_campaign (hook in utm_content) should be filed after checking SERVER JOBS.
 - Hero CTA variants drafted for Korvus: "The market never sleeps. Neither does Korvus." and "Your edge while the world sleeps." (the latter is the existing house motto).
+
+## 2026-11-09 (30 notes condensed)
+- Crown skeptic drafts (Copy/308) quote "10,000 tokens" in the meta description and body, which breaks the Crown rule that usage is shown as money. Use the free monthly allowance with no card. The same draft also ships an empty duplicate meta description tag that must be removed before filing.
+- Crown skeptic lean rewrite (Copy/332) repeats the "10,000 tokens" public copy. Rewrite it as a free monthly allowance with no card before any filing.
+- Crown skeptic drafts disagree on canonical target (/skeptic, /skeptic.html, and the root). Pick one canonical URL before any Crown skeptic page is filed.
+- Index-watch lean rewrite (Copy/331) has an unfilled placeholder where the locked overlay and caption copy from Projects.md should go. Those lines must be pasted verbatim from Projects.md before filing, never invented.
+- Index-watch full write attempt (Copy/337) was blocked: the writing desk has no vault write access and no Projects.md read, so the locked overlay and caption lines are missing. Korvus page lives at korvus.industries/p/index-watch from the pages/ folder, and the owner's proposal must point FROM NOTE to a complete document already in the vault.
