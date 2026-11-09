@@ -73,3 +73,11 @@
 - Overlap rule for daily Eclipse-X posts: each day should teach a different level family (Nov 3 prior day/session levels, Nov 4 overnight, prior week, opening range midpoint) so consecutive posts do not repeat the same two levels.
 - Korvus signup funnel baseline (7 days): 33 visits, 2 outbound clicks, 0 signups, with visit-to-click (about 6%) the largest leak; the first test proposed was a live Presidential Wire hero card on korvus_landing.html marked as Illustration, measured via existing UTM tags.
 - Korvus watcher X draft lacked a destination link; the fix is to append the korvus.industries URL with existing UTM tagging (adds 23 characters, total 202).
+
+## 2026-11-09 (30 notes condensed)
+- Crier and Auditor run a repeated failure loop on Nov 3, 4, and 6 Eclipse-X posts: drafts never reach the desk complete, so gates return BLOCKED and Crier rewrites from scratch. Next time, the source text or vault path must be in the task before any redraft or gate is filed.
+- Eclipse-X level-family rule (owner-set via Steward, 2026-10-28): one level family per day, no reuse across days. Nov 3 owns prior day high and low, Nov 4 owns overnight high and low (plus opening range midpoint and prior week high and low), Nov 6 owns prior session midpoint. Any post reusing another day's family fails.
+- Eclipse-X Nov 6 value post (prior session midpoint) redraft passed its own internal checks at about 85 words, no em dashes, no emoji, no prices, with a not-advice line; it has not been gated by Auditor.
+- Auditor gate standard for Eclipse-X posts: no em dashes or stray dashes, no emoji, no profit or trade-instruction language (buy, sell, entry, target), not-advice line present, LodeStone described without dollar figures unless Operator or TradingView pricing is stated exactly (19.99/mo on TradingView, included with Operator).
+- Auditor caught a naming error: Crown's 49.99 tier is "Crowned," not "Crown Pro," and carries 5 million tokens in the brief's wording; flag any post using "Pro." Note that Institutional Memory describes Crowned in dollars of room credit, so token figures in public copy also need review.
+- Auditor flagged a fragment risk: a sentence like "Watch the reaction, not just the touch" reads as trading instruction and fails the no-advice rule; soften to "some traders focus on...".

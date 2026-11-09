@@ -111,3 +111,14 @@
 - Title, header, and label lines (e.g. "Operator 19:00, Variant B") must live in a metadata field outside the footage text, because the render model is fed the body verbatim and cannot spell, so any words or numerals in the body risk appearing on screen.
 - Pink-pulse-over-black-velvet footage with no subject reads as generic stock mush and fails review; every Korvus direction must carry the all-seeing watcher concept (a concrete watching subject such as monitors waking across a dark field) rather than abstract light.
 - Directors must not reconstruct a draft from a critic's quoted beats: when the source draft isn't in context, the director should ask for it from the vault or Bard's thread, since a reconstruction may not match the text the critic reviewed.
+
+## 2026-11-09 (30 notes condensed)
+- Crown hook 3 brief (Crown-hook-3-brief.md) never reached the Director desk, so the stress test ran blind; briefs must be pasted inline or filed where the desk can read them.
+- Quill's Crown hook 3 caption said "10,000 tokens, no card," breaking the money-not-tokens rule; Crown free tier is a monthly allowance and token counts never appear in public copy.
+- Crown hook 3 direction rule: the No Text Law line is the final line of the direction even when a brief asks for it first; state this in the brief to avoid rework.
+- Critic FIX on hook 3: a "three shot" direction that describes one continuous push-in fails; shot count, timings, and a defined closing frame are required.
+- Hook 3 closing overlay line is "Intelligence, Crowned.", carried by the overlay field, never the footage; a missing closing line is a rejection condition.
+- Desks repeatedly could not resend prior drafts verbatim because they were never saved to the vault; Bard must pull filed text from the desk record, and every draft must be filed complete.
+- Korvus signup headline options: "Something is always watching the tape." (CTA: Start free as an Observer) and "Your watch keeps running after you log off." (CTA: Create a free Observer account); both free, no card.
+- Operator review checklist: no em dashes, overlay lines under 44 characters, illustrative data labeled Illustration, no PnL or profit claims, destination card at end; a review without pasted full text is a FIX.
+- Operator overlay lines: "Your edge while the world sleeps" / "Operator: 24/7 market intelligence" / korvus.industries; annual 79.99 saves 39.89 versus 9.99 monthly (about 33%), LodeStone TradingView included.

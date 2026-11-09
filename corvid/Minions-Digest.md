@@ -82,3 +82,18 @@
 - Brand home 7-day traffic: 37 visits (the task said 32), 29 direct (78%), 35 desktop (95%), 14 at 23 ET (38%). The self or agent traffic hypothesis cannot be tested from aggregates.
 - Agents without repo or disk access cannot read korvus_landing.html or the korvus clone; any verbatim CTA copy they return is invented. Route repo reads to a desk that has access.
 - Method to audit the brand home for Korvus CTAs: grep the live page for "korvus" and for anchor tags, then check each Korvus href for utm_source, utm_medium, and utm_campaign.
+
+
+## 2026-11-09 (30 notes condensed)
+- Snowflake decode for X post IDs: `ms = (id >> 22) + 1288834974657`; post 2115613024790683956 = 2026-10-29 01:13:45.956 UTC (21:13 EDT 10-28), post 2115639195154657756 = 2026-10-29 02:57:45.457 UTC (22:57 EDT 10-28).
+- Traffic baseline: 37 visits in last 7 days, 0 prior week; growth is undefined against zero, so report as first measurable week, not a percentage.
+- Traffic baseline revised to 38 visits in 7 days, and later 53 visits in 7 days; the figures conflict across digests, so confirm the window before quoting any count.
+- Referrer and utm_source split for the 7-day window is not instrumented in the feed; X or t.co share cannot be stated yet.
+- The 16-row and 09:30 t.co pulls had no visit rows attached; bot vs human classification is pending the raw digest export.
+- Job #280 first run (09:35 ET 10-30) has no channel or job-log evidence yet; posted status unknown.
+- utm_content=home_cta click count not confirmed; the #273 digest output and click log were not available, so the CTA is not yet measured.
+- Brand site index.html hero, CTA, and Korvus anchor markup could not be fetched in this run; no CURRENT anchors exist yet, so no brand-home edit should be filed from these scouts.
+- Korvus landing pricing markup (id="pricing" in korvus_landing.html) was not retrievable; pricing must stay as Stripe display tokens, never hardcoded dollars.
+- Korvus signup route UTM handling (query string vs referrer) was not verified; attribution on /signup remains unconfirmed.
+- Complete html pages drafted for /p/ on korvus.industries: futures-news-terminal, smt-divergence-futures, overnight-futures-session, economic-calendar-futures, es-vs-nq-beginners, paper-trade-futures, smt-divergence-explained (rewrite with single title and meta description). Each still needs its own proposal and the vault copy verified as complete before filing.
+- Watcher Skeptics note was not readable; the objection list is unverified and must be checked against the note before Steward uses any counter-angle.

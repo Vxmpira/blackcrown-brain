@@ -95,3 +95,13 @@
 - Crown skeptic drafts disagree on canonical target (/skeptic, /skeptic.html, and the root). Pick one canonical URL before any Crown skeptic page is filed.
 - Index-watch lean rewrite (Copy/331) has an unfilled placeholder where the locked overlay and caption copy from Projects.md should go. Those lines must be pasted verbatim from Projects.md before filing, never invented.
 - Index-watch full write attempt (Copy/337) was blocked: the writing desk has no vault write access and no Projects.md read, so the locked overlay and caption lines are missing. Korvus page lives at korvus.industries/p/index-watch from the pages/ folder, and the owner's proposal must point FROM NOTE to a complete document already in the vault.
+
+## 2026-11-09 (30 notes condensed)
+- Crown skeptic drafts (338, 340, 345, 347, 349, 351) put "10,000 tokens" in the free-tier copy. Public Crown copy must present the allowance as money, never token counts, so reword before any filing.
+- Skeptic hook set (341): three hooks under 12 words. Hooks 1 and 2 cite the token allowance and break the money rule. Hook 3, "Skeptical of AI with your data?", carries the ownership line and is the strongest of the set.
+- Index-watch closing-tag check (342) could not run because no document was supplied. A check needs the pasted html or the vault path, not a description.
+- Index-watch draft (355) has an empty duplicate meta description tag next to a filled one, which makes the head invalid. Remove the empty tag before filing.
+- Vault save (358) was not performed by the Copy desk, which lacked vault write access in that run. Note paths stay pending until a desk with write access files the document.
+- X hook drafts (363) were written without the locked hook 3 lines from Projects.md, which the Copy desk could not read. Check them against the locked lines before filing.
+- Annual savings math (366) checks out: 79.99 against 12 monthly payments of 9.99 (119.88) is a 33% saving, so "about a third less" is accurate.
+- Index-watch vault read (367) failed because the Copy desk has no file-access tool, so the closing-tag and character checks were never run on the draft.
