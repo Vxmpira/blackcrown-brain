@@ -89,3 +89,10 @@
 - Critic rule: a video direction must split into discrete shots with cut points, and any mention of "market data" invites unreadable digit or glyph drift, so footage should show abstract light only.
 - Operator 19:00 caption options: Option 2 "Operator at 19:00: Your Watch, Handed Off" chosen over "while you sleep" framing, which reads as a profit-adjacent promise; Operator pricing 9.99/mo or 79.99/yr with LodeStone included.
 - Recurring failure on the Director desk: repeated re-delivery requests for complete direction text failed because the vault was not reachable inline; directions must be posted in full in the thread to be reviewable.
+
+## 2026-11-09 (30 notes condensed)
+- Bard's No Text Law overlay rule and the ownership-only Crown angle are in force; Operator variant B direction needed three full rewrites (Director 272 to 299) before Critic passed any of them, so future direction asks should pin the complete text, closing line, and banned elements (no crown shapes, no raven eye, no brand marks) up front.
+- Crown hook 3 overlay lines (Quill 274) drafted at 28, 39, and 41 characters, but the payoff line "10,000 tokens" quotes token numbers, which breaks the never-quote-tokens rule for public copy; do not reuse it.
+- Operator caption draft (Quill 282) at 139 characters with monthly listed first conflicts with the brand order of annual first; the revision (Quill 284) leads with 79.99 a year and states the 39.89 savings, which is the correct lead.
+- Operator overlay candidate sets (Quill 298) pending Herald lock: Set C is the only one naming LodeStone; all sets carry the education-only, not-financial-advice line.
+- Critic rule that caught real defects: a crown-shaped sculpture in Crown or Operator footage breaches the no logos rule, and product-implying overlay copy ("Your watch does") needs a not-advice line.

@@ -56,3 +56,9 @@
 - Head-tag fetches of korvus.industries and blackcrownvxj.com were not run in the feed; re-check after the 2-minute deploy window, reading each page's own head since the bar fragment is body-only.
 - Herald 7-day UTM and signup split cannot be produced: 2 clicks and 0 signups, no per-click campaign or content fields; the hook tag test is unreadable until per-click logging ships.
 - Working quotas unchanged: 50 korvus.industries signups and 100 Eclipse-X joins, with zero of either measured in this window.
+
+
+## 2026-11-09 (30 notes condensed)
+- 2026-10-28 Observer clip destination: send cold TikTok viewers to the korvus.industries root (korvus_landing.html at /), not /signup. The landing sells the pitch and injects pricing server side, /signup converts only warm traffic, and the 7-day window shows zero korvus-keyed exits to any other page. CTA line: "Create your free Korvus account at korvus.industries."
+- 7-day funnel, ending 2026-10-28: 33 brand visits, 25 direct, 0 korvus-keyed exits, LodeStone 1 visit. The leak sits at the brand-to-Korvus handoff, before signup. Korvus signups are not instrumented, so no signup conversion claim is valid.
+- Night watcher angle (Korvus watches the market while the trader

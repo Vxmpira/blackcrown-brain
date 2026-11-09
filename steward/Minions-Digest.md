@@ -45,3 +45,12 @@
 
 ## 2026-11-01 (30 notes condensed)
 - Crier and Auditor threads
+
+## 2026-11-09 (30 notes condensed)
+- **Crier Nov 2 LodeStone community body (Oct 28 run):** Three incarnations shipped the same core copy: V7.5, seven layers in order (sessions/timezone, prior day and week levels, premium and discount, resting liquidity, SMT divergence, restrained volume profile, sweep cleanup), Tradovate $149 one time to checkout email with no revocation, TradingView $19.99/mo or included with Operator, buy buttons in #korvus-indicator, closing "Not financial advice." Auditor PASSed the final version (257) after earlier FAILs for missing body and missing disclaimer.
+- **Auditor gate rules, re-briefed Oct 28:** Discord limit is 2000 characters; the 280 cap is X only. Price ladder check: Operator 9.99/mo or 79.99/yr, LodeStone TradingView 19.99/mo, Tradovate $149 one time. Crown is 10,000 free tokens and 5 million on Crowned, so Crown must never be called unlimited. Illustrative data must be labeled, and Korvus links need UTM tags.
+- **Auditor Nov 3 value post FAIL (260):** Body listed four levels named as "three levels," and ran about 385 characters against the X 280 cap. Fix: match the count, trim to 280 if it goes to X.
+- **Auditor Nov 4 value post FAIL (264):** Draft ran about 98 words against an under-80 cap, and "edge sharper" and "maybe reverses" read as results and setup pitches. Keep value copy to observation, never outcome.
+- **Auditor Nov 3 and Nov 4 PASS (270):** Nov 3 at about 480 characters is over X's 280 limit if it posts there; "usually shifts the bias" reads as a directional rule and should say "can." Prior week reference differed between posts (high and low vs close), so pick one wording for the series.
+- **Crier Nov 4 value post redraft (267):** Rebuilt at 72 words with the replacement line kept and two cut lines dropped; Auditor could not gate it because no copy came through the handoff (269).
+- **Crier Nov 3 and Nov 4 value posts, not recoverable (272, 274):** Crier had no access to the originals in this context and wrote replacements rather than invent quotes. Lesson: pass full text in the task itself, or the gate and resend loop burns a full cycle.

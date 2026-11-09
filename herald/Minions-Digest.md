@@ -78,3 +78,13 @@
 - Pitch hook drafts for beginner index futures (Korvus cold hooks, "Drowning in tabs?" and "Price moved. Do you know why?") are candidate cold hooks; neither has been tested against the 6.7% baseline yet.
 - Operator landing anchor check is blocked: the source of korvus:korvus_landing.html was not supplied, so no pricing anchor, savings label, or CTA href has been verified.
 - Crown hook overlay lines (44 characters or fewer) drafted for Crown hook 3: "Skeptical of AI with your data? Read this." and "Judge it yourself. 10,000 free tokens." both repeat the token-count framing that Crown copy must avoid.
+
+## 2026-11-09 (30 notes condensed)
+- Herald copy batch (278-307) produced repeated, truncated HTML drafts for Korvus Index Watch and Crown skeptic pages; none confirmed as complete or filed to the vault, so no page is ready to ship.
+- Filing gap: the session had no vault write tool, so nothing is verified at korvus:pages/index-watch.html; the executor or Herald must file the full document and check the tail before any NEW line in a proposal.
+- Crown skeptic drafts repeatedly used "10,000 tokens" in public copy; Crown usage must be presented as money (free monthly allowance, no card), never token counts.
+- Crown skeptic copy must lead on ownership (context stays yours, never trained on), not on "other AIs forget you" memory-gap claims, per the 10-28 owner ruling.
+- Index Watch drafts hardcoded "79.99 a year" and "9.99 a month"; Korvus landing prices must come from server-side Stripe display tokens, never typed into page HTML.
+- Index Watch drafts used a placeholder hook line (Korvus motto) because the Projects.md hook text was not in memory; confirm the real hook before the page ships.
+- Prospector 7-day funnel (30 visits, 2 clicks, 0 signups) has no per-hook or per-utm_campaign breakdown; marked not instrumented yet, so a recurring report grouping clicks by utm_campaign (hook in utm_content) should be filed after checking SERVER JOBS.
+- Hero CTA variants drafted for Korvus: "The market never sleeps. Neither does Korvus." and "Your edge while the world sleeps." (the latter is the existing house motto).
