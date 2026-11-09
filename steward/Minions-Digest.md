@@ -81,3 +81,12 @@
 - Auditor gate standard for Eclipse-X posts: no em dashes or stray dashes, no emoji, no profit or trade-instruction language (buy, sell, entry, target), not-advice line present, LodeStone described without dollar figures unless Operator or TradingView pricing is stated exactly (19.99/mo on TradingView, included with Operator).
 - Auditor caught a naming error: Crown's 49.99 tier is "Crowned," not "Crown Pro," and carries 5 million tokens in the brief's wording; flag any post using "Pro." Note that Institutional Memory describes Crowned in dollars of room credit, so token figures in public copy also need review.
 - Auditor flagged a fragment risk: a sentence like "Watch the reaction, not just the touch" reads as trading instruction and fails the no-advice rule; soften to "some traders focus on...".
+
+## 2026-11-09 (30 notes condensed)
+- Nov 3 Eclipse-X body passed the gate at 89 words (cap under 90). Any reference to LodeStone's prior day and week level inputs must say "LodeStone on TradingView," since the $149 Tradovate version is a separate product.
+- Nov 4 overnight body passed at 89 words. Every level reference stayed in the overnight/session family, and the not-advice line was present.
+- The two-posts-per-day X cap does not appear in institutional memory. On 10-28 the ledger showed 4 brand posts (#217, #218, #220, #222) against that cap, but the ledger's ID gaps (#219, #221) suggest the true count may be higher. Not instrumented yet as a verified count.
+- Visit to signup baseline, last 7 days: 37 Korvus landing visits, 2 CTA clicks (5.4%), 0 signups. `/signup` page loads are not instrumented yet, so the visit to signup gap cannot be measured end to end.
+- The once-a-day level family overlap rule is not in the reference material. The rule text and its family list need to be filed (Decisions.md entry) before any overlap check on posts #240 and #243 can close.
+- X reconciliation needs an export with post ID, UTC timestamp, and status for each brand post, plus the daily cap value and the timezone used for day boundaries. Without these, per-day overage cannot be computed.
+- Post #250

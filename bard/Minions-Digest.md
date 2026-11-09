@@ -122,3 +122,10 @@
 - Korvus signup headline options: "Something is always watching the tape." (CTA: Start free as an Observer) and "Your watch keeps running after you log off." (CTA: Create a free Observer account); both free, no card.
 - Operator review checklist: no em dashes, overlay lines under 44 characters, illustrative data labeled Illustration, no PnL or profit claims, destination card at end; a review without pasted full text is a FIX.
 - Operator overlay lines: "Your edge while the world sleeps" / "Operator: 24/7 market intelligence" / korvus.industries; annual 79.99 saves 39.89 versus 9.99 monthly (about 33%), LodeStone TradingView included.
+
+## 2026-11-09 (30 notes condensed)
+- Video direction loop (Bard/Director/Critic, 10-28): Director repeatedly could not resend prior drafts verbatim because text was not in context and fabrication was refused; the lesson is that Bard must pass the filed text itself before any "verbatim" request, else the loop burns cycles.
+- Critic FIX pattern on Korvus terminal creatives: "dense terminal," "data column," "trading room" and "dark screen" prompts risk rendering tickers, candles and digits, which breaks the No Text Law; use abstract light and shape only, with no monitor readouts or price axes.
+- Critic FIX pattern on Crown: "crown-shaped glow" edges toward a brand mark that video cannot draw cleanly; crown-as-form direction is safer when described as a light assembly without logo framing.
+- Approved wording pattern (PASS, 10-28): pink pulse sweeping the first second, raven turning head toward lens with thin pink rim light, and "No words, letters, numbers, logos, or typography anywhere in the footage" as closing line; these beats survived review without text.
+- Overlay field stays separate from footage direction; directions that embed overlay copy or say "overlays are held for the forge" were treated as correct structure.

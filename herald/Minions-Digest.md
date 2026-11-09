@@ -105,3 +105,11 @@
 - X hook drafts (363) were written without the locked hook 3 lines from Projects.md, which the Copy desk could not read. Check them against the locked lines before filing.
 - Annual savings math (366) checks out: 79.99 against 12 monthly payments of 9.99 (119.88) is a 33% saving, so "about a third less" is accurate.
 - Index-watch vault read (367) failed because the Copy desk has no file-access tool, so the closing-tag and character checks were never run on the draft.
+
+## 2026-11-09 (30 notes condensed)
+- Herald's Copy 368-396 repeatedly failed to deliver complete HTML under character caps (grew from 2500 to 900 to 1200 chars, final pages truncated or ungated), so future html asks should specify a character floor, not only a cap, and require the full document before filing.
+- Crown skeptic copy drafts used "10,000 tokens" and "5 million tokens" in public copy, which violates the no-token-numbers rule; use dollar-denominated room credit wording instead.
+- Index Watch drafts repeatedly used 79.99 annual with 9.99 monthly figures hardcoded, which conflicts with the rule that Korvus landing prices inject server side; keep prices out of /p/ pages or reference the injected values.
+- Crown skeptic drafts leaned on the "Test Crown free" frame without the privacy-ownership line, drifting toward the banned memory-gap angle; the ownership claim should lead.
+- Two X post drafts for the 3 a.m. watcher hook (146 and 131 characters) pass the 280 cap, with links counted at 23 each, and are usable as-is with "Not financial advice" retained.
+- The 3 a.m. watcher hook variant ("The market doesn't sleep, and neither does Korvus...") is a reusable tagline candidate for the Korvus signup test, with Operator at 79.99 a year stated.

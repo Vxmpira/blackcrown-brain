@@ -97,3 +97,21 @@
 - Korvus signup route UTM handling (query string vs referrer) was not verified; attribution on /signup remains unconfirmed.
 - Complete html pages drafted for /p/ on korvus.industries: futures-news-terminal, smt-divergence-futures, overnight-futures-session, economic-calendar-futures, es-vs-nq-beginners, paper-trade-futures, smt-divergence-explained (rewrite with single title and meta description). Each still needs its own proposal and the vault copy verified as complete before filing.
 - Watcher Skeptics note was not readable; the objection list is unverified and must be checked against the note before Steward uses any counter-angle.
+
+
+## 2026-11-09 (30 notes condensed)
+- **Scribe 278, SMT divergence guide (slug smt-divergence-ex):** Complete HTML drafted for /p/smt-divergence-ex; the slug was later flagged as truncated and superseded by smt-divergence-expla and then smt-divergence-for-beginners, so confirm the final slug before any proposal.
+- **Scribe 279 and 282, futures trading sessions guide (/p/futures-trading-sessions):** Two complete HTML drafts exist for the same slug; the later one (282) is the cleaner candidate, and it needs a single canonical version filed.
+- **Scout 280, beginner topic ranking (reasoned, not measured):** Futures margin explained ranked first, what moves ES futures second, best time to trade futures third; liquidity sweeps weakest for beginners. No search volume was supplied, so the order is judgment until Search Console or similar data checks it.
+- **Scribe 281 and 283, futures margin guide (/p/futures-margin-explained):** Draft carried a stray empty meta description; the cleaned version in 283 removed it, making 283 the version to ship.
+- **Scribe 284 and 287, what moves ES futures guide (/p/what-moves-es-futures):** Complete draft exists, but verification was blocked because the document was never pasted in; pending a real pass on doctype, single title, meta lengths, and inline crown SVG.
+- **Scribe 288, futures tick and point value guide (/p/futures-tick-value-explained):** Complete HTML drafted covering ES, NQ, MES and MNQ tick and point math.
+- **Scribe 289, futures vs stocks for small accounts (/p/futures-vs-stocks-small-accounts):** Complete HTML drafted covering MES and MNQ against stocks, pattern day trader rule, and capital and leverage risk.
+- **Scribe 290 and 291, futures rollover guide (/p/futures-rollover-explained):** Two drafts; 291 is the corrected rewrite and the one to ship, covering the H, M, U, Z quarterly cycle and roll week gaps.
+- **Scribe 292, ES trading hours guide (/p/es-trading-hours-explained):** Complete HTML drafted; ground truth hours (Sun 6pm to Fri 5pm ET, daily halt 5 to 6pm ET) must be verified in the copy before shipping.
+- **Scribe 294 and 296, SMT divergence guide:** 294 carried a truncated canonical; 296 is the complete rewrite at /p/smt-divergence-for-beginners and supersedes the earlier slugs.
+- **Scribe 302, reusable Operator CTA block:** Self-contained styled CTA section drafted to paste before guide footers; Operator pricing in it must match the 9.99 monthly and 79.99 annual ladder with annual listed first.
+- **Scout 298 and 299, Korvus landing anchors:** Blocked, no file contents supplied, so no verbatim anchors exist; the landing page pricing comes from Stripe display tokens, so anchors must not depend on dollar amounts.
+- **Scout 304, guide page timing audit:** Did not run; the flag rules are recorded (ES open Sun 6pm to Fri 5pm ET, halt 5 to 6pm ET, Winter Sunday open 23:00 UTC) for the next attempt with live fetch.
+- **Analyst 293 and 305, traffic baseline:** The 7-day window shows 59 visits against 0 prior, most likely a counter starting inside the window rather than real growth; estimated human share about 10 visits, with home the only page showing real signal. No referrer breakdown exists yet, so X attribution is unproven.
+- **Scribe 285, paragraph anchors for es-vs-nq-beginners and paper-trade-futures:** Blocked, no vault read access to pull the live paragraphs.
