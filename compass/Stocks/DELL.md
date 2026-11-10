@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Losing steam
 
-## Solid: shareholder returns stands out, balance sheet holds it back
+## Dell surges 129% in a year but retreats 42% from peak, profits thin but cash strong
 
-Dell Technologies scores 60 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: losing steam.
+Dell is a computer hardware and infrastructure company with $113.5B in annual revenue. The company just posted 58% quarterly revenue growth and is generating $8.6B in free cash flow yearly. Profitability margins remain modest at 5% net income.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Growth: Revenue +4% a year over 3 years
-- Profitability: Keeps 5% of revenue as profit
+- Latest quarter revenue jumped 58% year over year, showing strong recent demand
+- Free cash flow of $8.6B provides resources for dividends (2.0% yield) and share buybacks that shrunk count 9.2% over 3 years
+- 72% of analysts rate it a buy, with consensus opinion positive
 
 ### What to be careful about
-- Balance sheet: Debt is 5.4x shareholder equity
+- Stock has fallen 41.7% in the last month and sits 43% below its 52-week high of $588.4, suggesting momentum has reversed sharply
+- Debt of $34.5B is 5.4x shareholder equity, leaving limited cushion if business weakens
+- Net profit margin stays flat at 5%, meaning the company keeps only 5 cents of every dollar as profit
 
-**Watch next:** The next quarterly report: whether revenue growth of +58% holds.
+**Watch next:** Whether the steep one-month decline of 41.7% reflects a temporary pullback or signals that the 129% yearly rally has peaked.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Investors comfortable with hardware cyclicality who want cash generation and shareholder returns but can tolerate high debt and thin margins.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-01-30)
 - Revenue $113.5B (+19% vs prior year)

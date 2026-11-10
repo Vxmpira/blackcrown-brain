@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend
 
-## Solid: growth stands out, price trend holds it back
+## Fast-growing apartment REIT with strong cash flow but stock price stalled
 
-Camden Property Trust scores 61 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend.
+Camden Property Trust is a residential real estate investment trust that owns and operates apartment communities. The company has nearly tripled earnings per share year over year and grown revenue 36% annually over three years, but its stock price has fallen 2% over the past year and trades 15% below its 52-week high.
 
 ### What is working
-- Growth: Revenue +36% a year over 3 years
-- Profitability: Keeps 2965% of revenue as profit
-- Shareholder returns: Share count flat
+- Revenue jumped 71% in the latest quarter and 82% for the full year versus prior year
+- Free cash flow margin of 6375% means the company converts revenue to cash very efficiently
+- Generates $826.6M in annual free cash flow and pays a 4.5% dividend yield
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
+- Stock price is 19% below its 52-week high and sits near the bottom of its yearly trading range
+- Trades at 42x earnings, which is expensive relative to the free cash flow yield of 6.1%
+- Only 34% of 29 analysts rate it a buy; consensus is Hold, suggesting limited upside agreement
 
-**Watch next:** The next quarterly report: whether revenue growth of +71% holds.
+**Watch next:** Whether the company can maintain its 71% quarterly revenue growth rate, since analyst sentiment remains cautious despite strong earnings acceleration.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Investors seeking high current income from dividends who can tolerate flat-to-negative near-term price movement while underlying earnings grow substantially.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $13.0M (+82% vs prior year)

@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend
 
-## Solid: balance sheet stands out, price trend holds it back
+## Highly profitable energy firm in price downturn despite strong cash generation
 
-Texas Pacific Land Corporation scores 58 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend.
+Texas Pacific Land is an oil and gas exploration and production company that keeps 60 cents of every revenue dollar as profit and generates substantial free cash flow. The latest quarter showed revenue jumping 35% year over year, but the stock price has fallen 14% over the past year and sits 48% below its 52-week high.
 
 ### What is working
-- Balance sheet: Net cash of $369.6M
-- Profitability: Keeps 60% of revenue as profit
-- Growth: Revenue +6% a year over 3 years
+- Exceptional profitability: 60% net margin and 74% operating margin mean the core business is very efficient
+- Strong cash generation: $545.9M in free cash flow and $369.6M net cash on the balance sheet provide financial flexibility
+- Latest quarter momentum: Revenue up 35% year over year shows recent acceleration in top-line growth
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Valuation: Free cash flow yield 2.8%
+- Stock in downtrend: Price fell 14% over the past year and is only 3% up from its 52-week low
+- Expensive valuation: Trades at 33x earnings with only a 2.8% free cash flow yield, leaving little margin for error
+- Heavy shareholder dilution: Share count grew 197.8% over three years, reducing ownership value per share despite strong profits
 
-**Watch next:** The next quarterly report: whether revenue growth of +35% holds.
+**Watch next:** Monitor whether the 35% quarterly revenue growth in the latest period can sustain or whether it reverts toward the slower 6% historical annual growth rate.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Long-term investors comfortable with energy sector volatility who value current profitability and cash generation over near-term price appreciation.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $798.2M (+13% vs prior year)

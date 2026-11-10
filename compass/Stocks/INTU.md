@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Neutral read · trend: Downtrend, bouncing
 
-## Strong: balance sheet stands out, price trend holds it back
+## Profitable software giant down 48% in a year, but cash flow and earnings still growing
 
-Intuit scores 64 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: downtrend, bouncing.
+Intuit is a large software company that makes $21.4 billion in annual revenue and keeps 21 cents of every dollar as profit. It generates $8.7 billion in free cash flow each year. The stock has fallen sharply over the past year and now trades below its long-term average price.
 
 ### What is working
-- Balance sheet: Debt is 0.4x shareholder equity
-- Profitability: Keeps 21% of revenue as profit
-- Valuation: Free cash flow yield 9.2%
+- Earnings per share grew 20% year over year while revenue grew 14%, showing profit is growing faster than sales
+- Free cash flow margin of 40% means the company converts nearly half its revenue into actual cash it can spend or return to shareholders
+- Return on equity of 24% shows the company generates strong returns on shareholder money invested in the business
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
+- Stock is down 47.9% over the past year and sits 50% below its 52-week high of $676.55, indicating a steep decline
+- Price volatility is 52% annually, meaning the stock swings sharply and is not stable in price
+- Only 58% of analysts rate it a buy despite the consensus being Buy, showing disagreement among experts about the stock's appeal
 
-**Watch next:** The next quarterly report: whether revenue growth of +14% holds.
+**Watch next:** Monitor whether the stock can hold above its 200-day moving average or continues breaking below it, since price has been falling faster than the longer-term trend.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Long-term investors who can tolerate large price swings and want to own a highly profitable cash-generating business even while the stock price recovers from a recent decline.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-07-31)
 - Revenue $21.4B (+14% vs prior year)

@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Uptrend
 
-## Strong: price trend stands out
+## BlackRock rides strong price momentum, but earnings growth hasn't caught up yet
 
-BlackRock scores 63 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: uptrend.
+BlackRock is a large asset management firm with $24.2B in annual revenue, growing fast at the top line. The company is highly profitable, keeping 23% of revenue as net profit, but earnings per share fell 16% year over year despite revenue rising 19%.
 
 ### What is working
-- Price trend: Price is above its 200-day average
-- Analyst consensus: 24 analysts, consensus Buy, 92% rate it a buy
-- Profitability: Keeps 23% of revenue as profit
+- Revenue momentum is solid: +19% year over year and +11% annually over three years
+- Profitability is strong: 29% operating margin and 23% net margin show efficient operations
+- Price trend is firm: stock is 96% of the way up its 52-week range and +12% over one year
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Earnings per share contracted 16% year over year while revenue grew 19%, signaling margin pressure
+- Valuation is steep at 28.55x earnings, leaving less room for disappointment
+- Share count is growing (+5.5% over three years), diluting existing shareholders' ownership stakes
 
-**Watch next:** The next quarterly report: whether revenue growth of +19% holds.
+**Watch next:** Monitor whether net income growth can re-accelerate to match revenue growth, which would explain the widening gap between top-line expansion and per-share earnings.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors comfortable with large, profitable financial companies trading at premium valuations and seeking dividend income (2.7% yield) alongside long-term capital appreciation.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $24.2B (+19% vs prior year)

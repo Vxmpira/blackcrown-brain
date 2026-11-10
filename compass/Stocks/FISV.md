@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Turning up
 
-## Strong: shareholder returns stands out, analyst consensus holds it back
+## Profitable payments processor slowing growth while buying back shares
 
-Fiserv, Inc. scores 63 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: turning up.
+Fiserv processes financial transactions and provides software services to banks and businesses. The company generated $16.2B in revenue last year and keeps 21% as profit, but recent quarterly revenue declined 1% year over year. Analysts mostly rate it a Hold.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Profitability: Keeps 21% of revenue as profit
-- Growth: Revenue +41% a year over 3 years
+- Free cash flow margin of 26% means strong cash generation relative to sales
+- Return on equity of 17% shows efficient use of shareholder capital
+- Share count down 15.3% over three years via buybacks, concentrating ownership
 
 ### What to be careful about
-- Analyst consensus: 44 analysts, consensus Hold, 25% rate it a buy
+- Latest quarterly revenue dropped 1% year over year after three years of 41% annual growth
+- Debt of $20.8B is equal to equity value, creating leverage risk if business slows
+- Only 25% of 44 analysts rate it a buy, with consensus at Hold
 
-**Watch next:** The next quarterly report: whether revenue growth of -1% holds.
+**Watch next:** Whether the recent -1% quarterly revenue decline signals a longer slowdown or is temporary, since growth has been the story for three years.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Patient investors seeking stable cash-generating businesses in mature markets who are less concerned with capital appreciation and more focused on returns from operations.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2021-12-31)
 - Revenue $16.2B (+9% vs prior year)

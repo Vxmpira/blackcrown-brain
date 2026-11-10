@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Pullback in uptrend
 
-## Strong: shareholder returns stands out, growth holds it back
+## Zebra bouncing after steep drop; revenue surging but earnings fell
 
-Zebra Technologies scores 63 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: pullback in uptrend.
+Zebra Technologies makes communication and tracking equipment. The company just posted 22% revenue growth in its latest quarter after years of decline, but overall earnings per share fell 20% year over year. The stock has recovered from recent weakness but sits 18% below its 52-week high.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
-- Balance sheet: Debt is 0.7x shareholder equity
+- Latest quarter revenue jumped 22% year over year, reversing a three-year revenue decline of 2% annually
+- Generates strong free cash flow of $831 million with a 15% margin on revenue
+- Actively buying back shares; share count fell 2.6% over three years, concentrating value for remaining holders
 
 ### What to be careful about
-- Growth: Revenue -2% a year over 3 years
+- Earnings per share dropped 20% year over year despite revenue growth, signaling margin pressure
+- Stock has fallen 17.5% in the past month and sits 46% below its 52-week high of 391.0
+- Trades at 25x earnings while debt stands at $2.6 billion, limiting financial flexibility
 
-**Watch next:** The next quarterly report: whether revenue growth of +22% holds.
+**Watch next:** Whether the 22% quarterly revenue growth can sustain and whether the company can return earnings per share to growth while managing its $2.6 billion debt load.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Investors comfortable with cyclical technology companies that are recovering from downturns and willing to tolerate high volatility (46% yearly) in exchange for improving revenue trends.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $5.4B (+8% vs prior year)

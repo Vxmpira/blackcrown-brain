@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Uptrend
 
-## Strong: shareholder returns stands out, growth holds it back
+## Medical device maker with strong price momentum but slowing earnings growth
 
-Zimmer Biomet scores 65 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: uptrend.
+Zimmer Biomet is a $20 billion medical devices company that generated $8.2 billion in revenue in 2025. The stock has climbed 22% over the past year and sits near its 52-week high, but recent earnings per share declined 20% year over year despite modest revenue growth.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
-- Balance sheet: Debt is 0.6x shareholder equity
+- Price momentum is strong: up 22% in one year, up 29.4% in six months, and 93% of the way up its 52-week range
+- Balance sheet is solid with debt at 0.6x shareholder equity, leaving room to invest or return cash
+- Free cash flow yield of 7.4% and free cash flow margin of 18% show the company converts revenue into cash efficiently
 
 ### What to be careful about
-- Growth: Revenue +6% a year over 3 years
+- Earnings per share fell 20% year over year despite revenue growth, signaling profitability pressure
+- Revenue growth has slowed: up 3% in the latest quarter, down from the 6% annual average over three years
+- Analysts are cautious with consensus Hold rating; only 32% of 31 analysts rate it a buy
 
-**Watch next:** The next quarterly report: whether revenue growth of +3% holds.
+**Watch next:** Whether the 20% earnings per share decline reverses in coming quarters, as slowing revenue growth combined with falling profits raises questions about margin sustainability.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** This profile suits long-term investors comfortable with healthcare exposure who value cash generation and buybacks but can tolerate near-term volatility and analyst skepticism about valuation.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $8.2B (+7% vs prior year)

@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: shareholder returns stands out, profitability holds it back
+## Insurance giant shows momentum but struggles with profitability and long-term revenue
 
-American International Group scores 62 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+AIG is a diversified insurance company with $26.8B in annual revenue. The latest quarter surged 17% year over year, but the three-year trend shows revenue falling 4% per year. The company keeps 12% of revenue as profit and trades at 13x earnings.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Valuation: Trades at 13x earnings
-- Price trend: Price is above its 200-day average
+- Price sits 57% of the way up its 52-week range with 50-day average above 200-day average, showing uptrend momentum
+- Latest quarter revenue jumped 17% year over year, breaking a three-year decline pattern
+- Share buybacks have reduced share count by 27.6% over three years while paying 2.2% dividend yield
 
 ### What to be careful about
-- Profitability: Keeps 12% of revenue as profit
-- Growth: Revenue -4% a year over 3 years
+- Full-year revenue fell 2% to $26.8B and has dropped 4% per year over three years despite recent quarter strength
+- Return on equity sits at only 8%, meaning the company generates relatively low returns on shareholder capital
+- 28 analysts rate this a Hold with only 43% saying buy; consensus is not enthusiastic despite 12.55x P/E valuation
 
-**Watch next:** The next quarterly report: whether revenue growth of +17% holds.
+**Watch next:** Whether the 17% latest quarter revenue growth signals a sustained turnaround or remains a temporary spike, since the three-year revenue trend has been negative.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** This suits investors comfortable with financial services volatility (24% yearly swings) who want steady cash flow (8% FCF yield) and buybacks over strong growth.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $26.8B (-2% vs prior year)

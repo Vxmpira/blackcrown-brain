@@ -14,22 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Turning up
 
-## Strong: profitability stands out, growth holds it back
+## Profitable cash machine with heavy debt load and slowing growth
 
-Verisk Analytics scores 66 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: turning up.
+Verisk is an industrials and consulting services company generating $3.1B in annual revenue with a 30% net profit margin and strong free cash flow of $1.2B per year. Growth has slowed to 5% in the latest quarter, while the company carries $4.8B in debt against $556.8M in cash.
 
 ### What is working
-- Profitability: Keeps 30% of revenue as profit
-- Shareholder returns: Share count shrinking (buybacks)
+- Profitability is exceptional: 30% net margin and 44% operating margin mean most revenue becomes profit
+- Free cash flow of $1.2B per year funds both debt repayment and buybacks, with share count down 11.9% over three years
+- Stock has recovered 19.3% over six months and analysts are 62% positive with a Buy consensus
 
 ### What to be careful about
-- Growth: Revenue +7% a year over 3 years
+- Debt is a major concern at 15.3x shareholder equity, creating financial risk and limiting flexibility
+- Growth is decelerating: revenue rose 7% annually over three years but only 5% in the latest quarter, while earnings per share fell 3% year over year
+- Valuation is elevated at 29x earnings; stock is down 8% over the past year despite strong profitability
 
-**Watch next:** The next quarterly report: whether revenue growth of +5% holds.
+**Watch next:** Monitor whether free cash flow remains strong enough to service the 15.3x debt-to-equity ratio while maintaining growth above 5% per quarter.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable with mature, cash-generative companies that tolerate significant leverage in exchange for buybacks and steady dividends, if they can accept slowing growth rates.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $3.1B (+7% vs prior year)

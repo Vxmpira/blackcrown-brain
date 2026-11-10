@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend, bouncing
 
-## Solid: growth stands out, balance sheet holds it back
+## Fast-growing apartment REIT with strong cash flow, but high debt and weakening price.
 
-UDR, Inc. scores 62 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend, bouncing.
+UDR is a residential real estate investment trust (REIT) that owns and operates apartment buildings. Revenue has grown 31% annually over three years, and the company generated 650 million dollars in free cash flow last year. It pays investors a 5.0% dividend.
 
 ### What is working
-- Growth: Revenue +31% a year over 3 years
-- Profitability: Keeps 3325% of revenue as profit
-- Valuation: Free cash flow yield 5.4%
+- Revenue jumped 36% in the latest quarter, showing continued demand for rental apartments.
+- Free cash flow margin of 5722% indicates the company converts revenue into cash very efficiently.
+- Dividend yield of 5.0% provides regular income to shareholders while the business grows.
 
 ### What to be careful about
-- Balance sheet: Debt is 1.8x shareholder equity
-- Price trend: Price is below its 200-day average
+- Debt of 5.8 billion dollars is 1.8 times shareholder equity, meaning leverage is elevated.
+- Stock is down 12% from its 52-week high and sits in the lower half of its yearly range.
+- Analyst consensus is Hold with only 46% rating it a buy, suggesting cautious sentiment.
 
-**Watch next:** The next quarterly report: whether revenue growth of +36% holds.
+**Watch next:** Monitor whether debt levels stay manageable as the company continues to grow, since REITs often use leverage to finance real estate acquisitions.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Investors seeking regular dividend income from a growing apartment operator, comfortable with real estate risk and willing to tolerate near-term price weakness.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $11.4M (+37% vs prior year)

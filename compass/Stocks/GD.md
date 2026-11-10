@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Turning up
 
-## Strong: balance sheet stands out
+## Defense contractor posting steady growth with fortress balance sheet
 
-General Dynamics scores 62 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: turning up.
+General Dynamics is a large aerospace and defense company generating $52.5B in annual revenue with 10% yearly growth. It converts revenue into cash reliably, maintains minimal debt relative to shareholder equity, and returns capital through dividends and buybacks.
 
 ### What is working
-- Balance sheet: Debt is 0.3x shareholder equity
-- Shareholder returns: Share count shrinking (buybacks)
-- Analyst consensus: 33 analysts, consensus Buy, 67% rate it a buy
+- Revenue grew 13% in the latest quarter and 10% per year over three years, outpacing overall industrial growth
+- Balance sheet is fortress-like: debt of only 0.3x shareholder equity, with $4.4B in cash against $7.0B in debt
+- Returns cash to shareholders steadily: 2.1% dividend yield, and share count shrinking by 2.1% over three years via buybacks
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Valuation is elevated at 21x earnings; free cash flow yield of just 2.5% is modest for a mature industrial company
+- Profitability margins are solid but not exceptional: 8% net margin and 5% free cash flow margin leave limited room for error
+- Price sits 8% below its 52-week high and 50-day average trails 200-day average, suggesting recent momentum may be fading
 
-**Watch next:** The next quarterly report: whether revenue growth of +13% holds.
+**Watch next:** Whether revenue growth can sustain above 10% annually, since the latest quarter's 13% rise may reflect one-time strength rather than a new baseline.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Investors seeking stable, slow-growing industrial exposure with reliable dividend income and strong financial discipline, who can accept mid-20s valuation multiples.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $52.5B (+10% vs prior year)

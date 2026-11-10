@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Uptrend
 
-## Solid: price trend stands out, analyst consensus holds it back
+## Asset manager riding price momentum but facing profitability headwinds
 
-Franklin Resources scores 60 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: uptrend.
+Franklin Resources is a $18.2 billion asset management firm with $9.4 billion in annual revenue. The stock has surged 62% over the past year and sits at the top of its 52-week range. Earnings jumped 116% year over year, but underlying profit margins remain thin at 11%.
 
 ### What is working
-- Price trend: Price is above its 200-day average
-- Valuation: Trades at 22x earnings
+- Strong price momentum: up 62% in the past year and 13.4% in the past month
+- Earnings swing: net income rose 116% year over year to $1.1 billion
+- Solid cash position: $4.4 billion in cash against $2.6 billion in debt
 
 ### What to be careful about
-- Analyst consensus: 18 analysts, consensus Hold, 33% rate it a buy
-- Profitability: Keeps 11% of revenue as profit
+- Weak profitability: keeps only 11 cents of every dollar as profit, return on equity just 9%
+- Slowing growth: revenue up only 6% annually over three years, latest quarter just 4%
+- Analyst skepticism: only 33% rate it a buy, consensus is Hold; 18 analysts covering
 
-**Watch next:** The next quarterly report: whether revenue growth of +4% holds.
+**Watch next:** Whether the company can sustain revenue growth above 4% while expanding the net margin beyond 11% in coming quarters.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors comfortable with financial services who value dividend income (5.0% yield) and can tolerate 29% annual price swings while the business matures.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-09-30)
 - Revenue $9.4B (+7% vs prior year)

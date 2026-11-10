@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend
 
-## Solid: balance sheet stands out, price trend holds it back
+## Energy services firm with strong cash generation facing near-term price weakness
 
-Baker Hughes scores 62 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend.
+Baker Hughes is an oil and gas equipment and services company with $27.7B in annual revenue. The company is profitable, generates substantial free cash flow, and carries minimal debt. However, its stock price has declined significantly over recent months despite solid underlying business growth.
 
 ### What is working
-- Balance sheet: Net cash of $4.0B
-- Shareholder returns: Dividend yield 2.4%
-- Valuation: Free cash flow yield 5.2%
+- Latest quarterly revenue jumped 14% year over year, showing current momentum in demand
+- Free cash flow of $2.5B with 5.2% yield provides funds for dividends and shareholder returns
+- Balance sheet shows $4.0B net cash with only $27.0M in debt, leaving room for strategic moves
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
+- Stock is down 26.2% over the past six months and sits 31% below its 52-week high of $69.67
+- Price remains 15% below its 200-day moving average, suggesting an ongoing downtrend
+- Annual revenue was flat year over year at $27.7B despite quarterly strength, signaling inconsistency
 
-**Watch next:** The next quarterly report: whether revenue growth of +14% holds.
+**Watch next:** Whether the 14% quarter-over-quarter revenue growth continues or if full-year revenue growth accelerates, which will test whether current weakness is temporary or reflects slowing demand ahead.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable holding through price volatility in cyclical energy sectors and who value stable cash generation over near-term price momentum.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $27.7B (-0% vs prior year)

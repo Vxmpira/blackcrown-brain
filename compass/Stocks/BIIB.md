@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: price trend stands out, shareholder returns holds it back
+## Biogen rides strong momentum but trades at stretched valuation
 
-Biogen scores 63 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Biogen is a large pharmaceutical manufacturer with $9.9B in annual revenue that recently posted 11% quarterly revenue growth. The company is profitable, generating $1.3B in net income and $2.1B in free cash flow, with a strong balance sheet and minimal debt.
 
 ### What is working
-- Price trend: Price is above its 200-day average
-- Balance sheet: Debt is 0.4x shareholder equity
-- Analyst consensus: 44 analysts, consensus Buy, 73% rate it a buy
+- Stock up 62% over the past year and sits 97% of the way up its 52-week range, showing sustained momentum
+- Latest quarter revenue jumped 11% year over year, breaking a three-year trend of flat-to-declining sales
+- Free cash flow yield of 5.5% and operating margin of 29% show the business generates real cash despite high valuation
 
 ### What to be careful about
-- Shareholder returns: Share count growing (dilution)
-- Growth: Revenue -1% a year over 3 years
-- Valuation: Free cash flow yield 5.5%
+- P/E ratio of 108x is extremely high for a drug manufacturer, giving little margin for error on earnings
+- Three-year revenue trend is -1% annually, meaning recent 11% quarterly growth is still a recovery from past weakness
+- Earnings per share fell 21% year over year despite revenue gains, raising questions about profitability at scale
 
-**Watch next:** The next quarterly report: whether revenue growth of +11% holds.
+**Watch next:** Track whether the recent 11% quarterly revenue growth continues or fades back to the three-year declining trend, since the high valuation depends on sustained acceleration.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Suits investors comfortable with pharmaceutical volatility who believe recent sales momentum justifies premium valuations and want exposure to a profitable cash generator.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $9.9B (+2% vs prior year)

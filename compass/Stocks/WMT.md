@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Turning up
 
-## Solid: balance sheet stands out, valuation holds it back
+## Walmart trades pricey after 22% annual gain, but balance sheet is fortress-solid
 
-Walmart scores 58 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: turning up.
+Walmart is a $986 billion discount retailer generating $706 billion in annual revenue. It keeps 3% of each dollar as profit and produces $14.9 billion in free cash flow yearly. The stock is up 22% over the past year and sits near its 52-week highs.
 
 ### What is working
-- Balance sheet: Debt is 0.4x shareholder equity
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
+- Strong balance sheet: debt is only 0.4x shareholder equity, leaving room to weather downturns
+- Consistent cash generation: $14.9 billion free cash flow lets the company buy back shares and pay dividends
+- Analyst consensus is solid: 90% of 48 analysts rate it a buy, and the 50-day price trend is turning up
 
 ### What to be careful about
-- Valuation: Free cash flow yield 1.5%
+- Valuation is stretched: the stock trades at 45x earnings and has a 1.5% free cash flow yield, among the lowest returns for cash paid
+- Slow growth: revenue grows only 5% annually, and profit margins stay thin at 3%, limiting earnings upside
+- Price is near its peak: the stock sits 7% below its 52-week high and 27% annual volatility means sharp swings are normal
 
-**Watch next:** The next quarterly report: whether revenue growth of +6% holds.
+**Watch next:** Whether revenue growth accelerates beyond 5% annually, since thin 3% profit margins leave little room for error if top-line growth slows.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors seeking a defensive, dividend-paying company who are comfortable owning a mature business at a premium price and expect modest but steady returns.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-01-31)
 - Revenue $706.4B (+5% vs prior year)

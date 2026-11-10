@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Turning up
 
-## Strong: shareholder returns stands out, profitability holds it back
+## FedEx: Strong valuation and cash generation offset flat profit margins
 
-FedEx scores 62 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: turning up.
+FedEx is a $94.7 billion logistics company that moved $22.9 billion in revenue last quarter, up 12% year over year. The company generates substantial free cash flow of $5.1 billion annually but keeps almost none of it as net profit after expenses.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Valuation: Free cash flow yield 6.9%
-- Balance sheet: Debt is 0.7x shareholder equity
+- Stock price is up 49% over the past year and sits near 52-week highs, reflecting investor momentum
+- Trades at 9x earnings with a 6.9% free cash flow yield, suggesting the market values it cheaply relative to cash generation
+- Share buybacks shrinking the share count by 6.6% over three years, concentrating ownership and earnings per share upward
 
 ### What to be careful about
-- Profitability: Keeps 0% of revenue as profit
+- Net profit margin of 0% means the company is not converting revenue growth into bottom-line earnings for shareholders
+- Operating margin of 6% is thin, leaving little room for cost increases or competitive pressure
+- Debt of $23.5 billion is 0.7x equity, which is manageable but limits financial flexibility if freight volumes decline
 
-**Watch next:** The next quarterly report: whether revenue growth of +12% holds.
+**Watch next:** Monitor whether the next quarter's operating margin can expand above 6%, since revenue growth alone is not yet flowing to profit.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors comfortable with mature, low-margin businesses that trade on cash flow and valuation metrics rather than growth or profit expansion.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-05-31)
 - Revenue $94.7B (+8% vs prior year)

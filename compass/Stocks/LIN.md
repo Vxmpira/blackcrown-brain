@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Turning up
 
-## Strong: shareholder returns stands out, valuation holds it back
+## Profitable industrial gas company trading at premium valuation with steady cash returns
 
-Linde plc scores 64 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: turning up.
+Linde is a specialty chemicals and industrial gases business generating $34.0B in annual revenue with a 20% net profit margin. The company converts most earnings into free cash flow and returns capital through dividends and share buybacks. Price has risen 23% over the past year and sits near its 52-week high.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Balance sheet: Debt is 0.6x shareholder equity
-- Profitability: Keeps 20% of revenue as profit
+- Strong profitability: 20% net margin and 26% operating margin show pricing power and cost control
+- Reliable cash generation: $5.1B free cash flow and 15% free cash flow margin fund shareholder returns
+- Fortress balance sheet: 0.6x debt-to-equity ratio leaves room for stability during downturns
 
 ### What to be careful about
-- Valuation: Free cash flow yield 2.1%
-- Growth: Revenue +1% a year over 3 years
+- Expensive valuation: 34x earnings is well above historical norms for industrial companies
+- Anemic long-term growth: Revenue up only 1% annually over 3 years despite recent 9% quarterly jump
+- Low cash yield: 2.1% free cash flow yield and 1.2% dividend yield offer modest income
 
-**Watch next:** The next quarterly report: whether revenue growth of +9% holds.
+**Watch next:** Whether quarterly revenue growth of 9% can sustain and lift the sluggish 3-year growth rate of 1%, or if it proves temporary.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors seeking a stable, cash-generative business willing to pay a premium price for defensive characteristics and predictable shareholder returns.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $34.0B (+3% vs prior year)

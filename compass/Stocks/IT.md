@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Pullback in uptrend
 
-## Strong: shareholder returns stands out, growth holds it back
+## Profitable cash generator facing growth slowdown and massive debt load
 
-Gartner scores 65 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: pullback in uptrend.
+Gartner is a research and advisory services company generating $6.5B in annual revenue with strong profitability (11% net margin) and free cash flow ($1.2B yearly). Recent performance shows revenue growth has stalled: annual revenue grew only 4% last year after growing 6% annually over three years, and the latest quarter declined 1% year over year.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Valuation: Free cash flow yield 8.3%
-- Profitability: Keeps 11% of revenue as profit
+- Operating margins are healthy at 16%, and the company converts 18% of revenue into free cash flow
+- Trading at 13x earnings with a 9.8% free cash flow yield, suggesting the market prices in limited growth
+- Share count has shrunk 6.7% over three years through buybacks, concentrating value for remaining shareholders
 
 ### What to be careful about
-- Growth: Revenue +6% a year over 3 years
+- Latest quarter revenue fell 1% year over year, signaling growth momentum has reversed after years of expansion
+- Earnings per share dropped 40% in the most recent period, a sharp deterioration in profitability per share
+- Debt stands at $3.0B against only $1.6B in cash, creating a debt-to-equity ratio of 47.1x, which is extremely high
 
-**Watch next:** The next quarterly report: whether revenue growth of -1% holds.
+**Watch next:** Whether quarterly revenue can return to year-over-year growth, since the latest quarter's 1% decline broke a growth pattern and suggests demand headwinds.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Long-term investors comfortable with mature, cash-generative businesses that prioritize buybacks over growth, but with tolerance for high financial leverage.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $6.5B (+4% vs prior year)

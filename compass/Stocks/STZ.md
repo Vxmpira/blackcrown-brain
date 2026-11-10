@@ -14,22 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Turning up
 
-## Solid: shareholder returns stands out, growth holds it back
+## Profitable beverage maker with strong cash flow trades cheap, but revenue is shrinking
 
-Constellation Brands scores 59 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: turning up.
+Constellation Brands makes wine, beer, and spirits. The company keeps 18% of sales as profit and generates strong free cash flow of $1.8 billion yearly. Revenue fell 10% last year, though the latest quarter showed a 6% rebound.
 
 ### What is working
-- Profitability: Keeps 18% of revenue as profit
-- Price trend: Price is above its 200-day average
+- Profitability is solid: 18% net margin and 20% return on equity mean the business converts sales into real earnings efficiently
+- Valuation looks attractive: 7.3% free cash flow yield and 12.8x earnings are below historical averages for consumer staples
+- Cash generation is reliable: $1.8 billion in free cash flow covers the 1.5% dividend and funds buybacks or debt paydown
 
 ### What to be careful about
-- Growth: Revenue -1% a year over 3 years
+- Revenue trend is negative: down 10% year over year and flat over three years, signaling demand pressure or market share loss
+- Debt load is substantial: $10.2 billion in debt is 1.2x shareholder equity, limiting financial flexibility if the business weakens further
+- Analyst consensus is lukewarm: only 62% of 29 analysts rate it a buy despite the consensus being Hold, not a strong endorsement
 
-**Watch next:** The next quarterly report: whether revenue growth of +6% holds.
+**Watch next:** Whether the latest quarter's 6% revenue growth marks a genuine turnaround or a one-quarter bounce in a declining business.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors seeking steady cash flow and dividends who can tolerate a mature or declining business in exchange for current valuation and yield.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-02-28)
 - Revenue $9.1B (-10% vs prior year)

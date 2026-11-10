@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Strong uptrend
 
-## Solid: shareholder returns stands out, valuation holds it back
+## Insurance broker with strong revenue growth but costly valuation and thin profits
 
-Arthur J. Gallagher & Co. scores 58 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: strong uptrend.
+Arthur J. Gallagher is an insurance brokerage and risk management company. It has grown revenue 18% annually over three years and 21% in the latest year. But earnings per share fell 12% year over year despite higher sales.
 
 ### What is working
-- Shareholder returns: Dividend yield 0.9%
-- Price trend: Price is above its 200-day average
-- Analyst consensus: 29 analysts, consensus Buy, 72% rate it a buy
+- Revenue momentum: +21% year over year to $13.9B in fiscal 2025
+- Stock price strength: up 40.6% in the past 6 months and near 52-week highs
+- Analyst backing: 72% of 29 analysts rate it a buy
 
 ### What to be careful about
-- Valuation: Trades at 42x earnings
-- Profitability: Keeps 11% of revenue as profit
+- Earnings declined 12% year over year even as revenue grew 21%
+- Valuation is steep at 42x earnings (typical stocks trade 15-25x)
+- Profit margin is thin at 11%, leaving little cushion for downturns
 
-**Watch next:** The next quarterly report: whether revenue growth of +18% holds.
+**Watch next:** Whether the company can convert its strong revenue growth into earnings growth again, since sales are rising much faster than profits.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Long-term investors who believe insurance brokerages will grow into premium valuations and can tolerate years of flat or declining earnings per share while waiting.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $13.9B (+21% vs prior year)

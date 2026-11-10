@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend, bouncing
 
-## Solid: valuation stands out, price trend holds it back
+## VICI trades cheap with strong cash flow, but price is sliding and growth is slowing
 
-Vici Properties scores 58 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend, bouncing.
+Vici is a real estate investment trust that owns properties and leases them to gaming and entertainment operators. The company generates substantial cash relative to its size, with a 9.1% free cash flow yield and 5.8% dividend. Revenue growth has slowed to 6% annually from a three-year trend of 15%.
 
 ### What is working
-- Valuation: Free cash flow yield 9.5%
-- Profitability: Keeps 69% of revenue as profit
-- Balance sheet: Debt is 0.6x shareholder equity
+- Profitability is exceptional: 69% net margin and 63% free cash flow margin show the business converts revenue into cash very efficiently
+- Valuation looks inexpensive: trades at 12x earnings and offers a 9.1% free cash flow yield
+- Analyst consensus leans positive: 69% of 32 analysts rate it a buy
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
+- Price momentum is weak: down 18% over one year and sitting 29% of the way up its 52-week range
+- Growth is decelerating: latest revenue rose just 6% year over year, versus 15% annually over three years
+- Shareholder dilution is material: share count has grown 20.8% over three years, eroding per-share value
 
-**Watch next:** The next quarterly report: whether revenue growth of +6% holds.
+**Watch next:** Watch whether revenue growth stabilizes above 6% or continues to decelerate, since the three-year trend masked a significant slowdown in the latest year.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Suits long-term investors comfortable with real estate income streams who prioritize cash generation over price appreciation and can tolerate below-market price trends.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $4.0B (+4% vs prior year)

@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Turning up
 
-## Solid: shareholder returns stands out, growth holds it back
+## Industrial machinery company with steady cash generation but slowing growth
 
-Dover Corporation scores 59 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: turning up.
+Dover is an industrials manufacturer with 8.1 billion in annual revenue and a 14% net profit margin. The company generates strong free cash flow of 1.1 billion annually and maintains a clean balance sheet with low debt relative to equity.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Balance sheet: Debt is 0.4x shareholder equity
-- Analyst consensus: 24 analysts, consensus Buy, 75% rate it a buy
+- Free cash flow margin of 14% shows the business converts sales into cash efficiently
+- Balance sheet debt of 0.4x equity is conservative and leaves room for strategic flexibility
+- Analyst consensus is Buy with 75% of 24 analysts rating it positively
 
 ### What to be careful about
-- Growth: Revenue +1% a year over 3 years
+- Earnings per share dropped 59% year over year despite 8% revenue growth in latest quarter
+- Long-term revenue growth is only 1% annually over the past 3 years, well below inflation
+- Stock trades at 24x earnings and is down 2.2% over the past 6 months despite the 1-month bounce
 
-**Watch next:** The next quarterly report: whether revenue growth of +8% holds.
+**Watch next:** Monitor whether the latest quarter's 8% revenue growth sustains or whether earnings rebound, since the 59% EPS decline suggests operational or one-time headwinds that need clarification.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors seeking steady cash generation and dividends from an established industrial company, comfortable with modest growth and moderate valuation multiples.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $8.1B (+4% vs prior year)

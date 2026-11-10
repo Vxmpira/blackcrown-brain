@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Turning up
 
-## Strong: shareholder returns stands out, growth holds it back
+## Steady cash generator with flat growth, strong returns to shareholders
 
-A. O. Smith scores 62 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: turning up.
+A. O. Smith is an industrial machinery company generating $3.8B in annual revenue with a 14% net profit margin. The company produces significant free cash flow and returns capital through buybacks and dividends, though revenue growth has stalled near flat over recent years.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Balance sheet: Debt is 0.4x shareholder equity
-- Valuation: Free cash flow yield 6.3%
+- Profitability is strong: 14% net margin and 30% return on equity show efficient operations
+- Cash generation funds shareholder returns: $546M free cash flow annually supports 1.7% dividend and buybacks that cut share count 8.9% over 3 years
+- Balance sheet is fortress-like: debt at 0.4x equity gives room to maneuver if needed
 
 ### What to be careful about
-- Growth: Revenue +1% a year over 3 years
-- Analyst consensus: 18 analysts, consensus Hold, 33% rate it a buy
-- Price trend: Price is above its 200-day average
+- Revenue is stuck: $3.8B revenue unchanged year over year, up only 1% annually over 3 years
+- Price momentum is mixed: up 12.6% in 1 month but down 3.8% over 12 months and currently 21% below its 52-week high
+- Analyst consensus is cautious: only 33% of 18 analysts rate it a buy versus Hold rating; price sits at 17.5x earnings
 
-**Watch next:** The next quarterly report: whether revenue growth of -0% holds.
+**Watch next:** Whether revenue growth accelerates beyond flat next quarter, since profitability is strong but top-line expansion has been the missing piece.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable with slow-growth industrial companies who value steady cash flow, shareholder returns, and balance sheet strength over capital appreciation.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $3.8B (+0% vs prior year)

@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Turning up
 
-## Solid: balance sheet stands out, growth holds it back
+## Align Technology: Steady cash generator with modest growth and strong balance sheet
 
-Align Technology scores 60 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: turning up.
+Align Technology is a healthcare device company with $4.0B in annual revenue growing slowly at 1% year over year. The company is profitable, converting 10% of revenue to net income and generating $490.8M in free cash flow annually. It holds $1.1B in net cash with no debt.
 
 ### What is working
-- Balance sheet: Net cash of $1.1B
-- Shareholder returns: Share count shrinking (buybacks)
-- Valuation: Free cash flow yield 4.1%
+- Strong balance sheet: $1.1B in net cash with no debt provides financial flexibility
+- Consistent cash generation: Free cash flow margin of 12% and $490.8M annual free cash flow
+- Shareholder-friendly capital allocation: Share count down 7.4% over 3 years through buybacks
 
 ### What to be careful about
-- Growth: Revenue +3% a year over 3 years
+- Sluggish growth: Revenue up only 1% year over year and 3% annually over 3 years
+- Modest profitability: 10% net margin and 10% return on equity are respectable but not exceptional
+- Expensive valuation relative to growth: Trading at 24x earnings while growing revenue in low single digits
 
-**Watch next:** The next quarterly report: whether revenue growth of +2% holds.
+**Watch next:** Monitor whether revenue growth accelerates beyond the current 1-2% range, as this would justify the 24x earnings valuation.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors seeking stable cash flows and patient capital allocation over rapid growth, with tolerance for healthcare sector volatility.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $4.0B (+1% vs prior year)

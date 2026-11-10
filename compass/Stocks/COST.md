@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Turning up
 
-## Solid: balance sheet stands out, valuation holds it back
+## Costco shows steady growth but trades at premium price after 15% year gain
 
-Costco scores 62 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: turning up.
+Costco is a large discount retailer with $303.2B in annual revenue that grew 10% last year. The company converts 3% of sales into profit and generates strong free cash flow of $9.4B. It holds $14.0B in net cash and has a fortress balance sheet.
 
 ### What is working
-- Balance sheet: Net cash of $14.0B
-- Shareholder returns: Share count flat
-- Price trend: Price is above its 200-day average
+- Revenue accelerating: $303.2B revenue up 10% last year, and latest quarter revenue up 11% year over year
+- Fortress balance sheet: $14.0B net cash position provides financial flexibility
+- Analyst confidence: 68% of 47 analysts rate it a buy with consensus Buy rating
 
 ### What to be careful about
-- Valuation: Free cash flow yield 2.0%
+- Expensive valuation: Trades at 51x earnings with only 2.0% free cash flow yield
+- Thin margins: Keeps just 3% of revenue as profit, typical for discount retail but limits cushion
+- Stock already up sharply: Gained 15% over past year and sits 86% up its 52-week range
 
-**Watch next:** The next quarterly report: whether revenue growth of +11% holds.
+**Watch next:** Whether revenue growth can sustain above 10% annually to justify the 51x earnings multiple over the next two quarters.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable with premium valuations who seek stable, slowly growing consumer staples backed by strong balance sheets and steady free cash generation.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-08-30)
 - Revenue $303.2B (+10% vs prior year)

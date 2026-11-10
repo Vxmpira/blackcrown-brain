@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Losing steam
 
-## Strong: valuation stands out, growth holds it back
+## Oil giant trades cheap with strong cash generation but slowing revenue
 
-Occidental Petroleum scores 64 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: losing steam.
+Occidental Petroleum is a large oil and gas company that generates substantial free cash flow but has seen revenue decline over three years. The latest quarter showed strong recovery with revenue up 27% year over year, though full-year revenue fell 5% compared to the prior year.
 
 ### What is working
-- Valuation: Free cash flow yield 7.4%
-- Balance sheet: Debt is 0.3x shareholder equity
-- Shareholder returns: Share count flat
+- Valuation is compelling: trades at 8x earnings with a 7.4% free cash flow yield, among the lowest multiples available
+- Balance sheet is fortress-like: debt is only 0.3x shareholder equity, leaving room for flexibility
+- Free cash flow margin of 19% shows the company converts revenue to cash efficiently, generating $4.1B last year
 
 ### What to be careful about
-- Growth: Revenue -16% a year over 3 years
+- Three-year revenue trend is concerning: down 16% annually over the past three years, suggesting structural headwinds
+- Earnings per share fell 34% year over year despite the latest quarter's revenue strength, signaling profitability challenges
+- Stock momentum has faded: down 9.4% in the past month and down 16% from its 52-week high of 66.24, with 35% annual volatility showing swings are sharp
 
-**Watch next:** The next quarterly report: whether revenue growth of +27% holds.
+**Watch next:** Monitor whether the latest quarter's 27% revenue jump represents a sustained recovery or a temporary bounce, as the three-year decline trend is the biggest question mark.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable with commodity price exposure who prioritize current cash generation and low valuation over revenue growth.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $21.6B (-5% vs prior year)

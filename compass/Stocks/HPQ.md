@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Pullback in uptrend
 
-## Strong: valuation stands out, growth holds it back
+## HP trades cheap with strong cash generation, but analysts are skeptical
 
-HP Inc. scores 65 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: pullback in uptrend.
+HP is a large technology hardware company generating $55.3 billion in annual revenue. It is profitable with a 5% net margin and produces $2.8 billion in free cash flow yearly. The stock sits near the middle of its 52-week range after climbing 34% in the past six months.
 
 ### What is working
-- Valuation: Free cash flow yield 10.4%
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
+- Stock price is 58% of the way up its 52-week range, with the 50-day average above the 200-day average, showing upward momentum over time
+- Free cash flow yield of 10.8% and P/E of 10.58 suggest the stock trades at a low valuation relative to earnings and cash generation
+- Company returned $2.8 billion in free cash flow last year while shrinking share count by 9.2% over three years and paying a 3.9% dividend
 
 ### What to be careful about
-- Growth: Revenue -4% a year over 3 years
+- Analyst consensus is Sell, with only 8% of 26 analysts rating it a buy, signaling widespread skepticism about the outlook
+- Revenue fell 4% a year over the past three years despite the latest quarter rising 13% year over year, raising questions about consistency
+- Earnings per share dropped 6% year over year while the stock gained 8% annually, meaning price gains have not matched profit growth
 
-**Watch next:** The next quarterly report: whether revenue growth of +13% holds.
+**Watch next:** The next earnings report will show whether the latest quarter's 13% revenue growth represents a real turnaround or a temporary bounce after three years of decline.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** This profile suits long-term investors seeking a low valuation and steady cash returns who can tolerate high price swings and analyst skepticism about future growth.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-10-31)
 - Revenue $55.3B (+3% vs prior year)

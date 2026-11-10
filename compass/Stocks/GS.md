@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend
 
-## Solid: valuation stands out, price trend holds it back
+## Goldman Sachs shows profit strength but stock is down from its peak
 
-Goldman Sachs scores 62 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend.
+Goldman Sachs is a major investment bank and financial services firm. It just posted strong recent revenue growth of 23% year over year and keeps 29% of each dollar as profit. The stock price has fallen 21% from its 52-week high, even though the company earned more money.
 
 ### What is working
-- Valuation: Trades at 12x earnings
-- Shareholder returns: Share count shrinking (buybacks)
-- Profitability: Keeps 29% of revenue as profit
+- Latest quarter revenue jumped 23% compared to a year ago, well above the 7% average growth rate
+- Net profit margin of 29% means the company keeps nearly a third of revenue as earnings
+- Trading at 12x earnings with 3.2% dividend yield and ongoing stock buybacks shrinking share count by 11.3% over three years
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
+- Stock sits 36% of the way up its 52-week range and is 21% below the high, showing a downtrend
+- Free cash flow is negative at minus $47.2B, meaning cash from operations did not exceed capital needs
+- Debt of $228.7B is close to cash on hand of $176.8B, leaving limited cushion; analysts are split with only 52% saying buy
 
-**Watch next:** The next quarterly report: whether revenue growth of +23% holds.
+**Watch next:** Whether the 23% quarterly revenue surge can sustain or whether it represents a one-time spike before returning to the 7% baseline.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors comfortable with financial sector volatility who seek current income from dividends and can tolerate 33% yearly price swings.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $58.3B (+9% vs prior year)

@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Losing steam
 
-## Solid: valuation stands out
+## Energy midstream company growing fast but losing price momentum
 
-ONEOK scores 60 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: losing steam.
+ONEOK moves oil and gas through pipelines and processes natural liquids. Revenue jumped 55% last year and earnings per share grew 5%, but the stock has fallen 11% from its recent high and trades below its 200-day average.
 
 ### What is working
-- Valuation: Free cash flow yield 4.5%
-- Growth: Revenue +15% a year over 3 years
-- Profitability: Keeps 10% of revenue as profit
+- Revenue grew 55% year over year in latest fiscal year, with quarterly revenue up 44%
+- Free cash flow yield of 4.5% plus dividend yield of 5.7% means total cash return potential of over 10%
+- Profitability solid: 10% net margin, 17% operating margin, and 15% return on equity
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Debt of 28.4 billion is 1.2x shareholder equity, leaving less room for stress
+- Share count up 39.6% over three years means existing shareholders own a smaller piece
+- Stock down 11% from its 52-week high and trading below its 200-day average despite strong earnings growth
 
-**Watch next:** The next quarterly report: whether revenue growth of +44% holds.
+**Watch next:** Whether the stock can reclaim its 200-day average and hold price momentum as quarterly revenue growth continues.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Long-term investors seeking regular income through dividends who can tolerate energy sector volatility and the dilution from share issuance.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $33.6B (+55% vs prior year)

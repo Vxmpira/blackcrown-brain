@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: shareholder returns stands out, growth holds it back
+## UnitedHealth trades near 52-week highs with strong momentum but slowing earnings
 
-UnitedHealth Group scores 62 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+UnitedHealth is a massive healthcare plans company with $447.6B in annual revenue. It generated $16.1B in free cash flow last year and returned cash to shareholders through buybacks. However, latest quarter revenue held flat year over year, and earnings per share fell 15%.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
-- Balance sheet: Debt is 0.7x shareholder equity
+- Price momentum is strong: up 23% over the past year and 79% of the way up its 52-week range
+- Analyst consensus is solid: 84% of 32 analysts rate it a buy with a consensus Buy rating
+- Shareholder returns are substantial: share count shrinking by 4.1% over 3 years plus 1.4% dividend yield
 
 ### What to be careful about
-- Growth: Revenue +11% a year over 3 years
+- Earnings are declining: net income fell 15% year over year despite 12% revenue growth
+- Latest quarter shows no growth: revenue flat at $112.7B compared to a year ago
+- Valuation is not cheap: trades at 22x earnings, and free cash flow yield of 4.5% reflects moderate returns on invested capital
 
-**Watch next:** The next quarterly report: whether revenue growth of -0% holds.
+**Watch next:** Whether next quarter's revenue can return to growth, since the latest quarter stalled at flat year-over-year and earnings fell sharply.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable with large established healthcare companies who value steady cash generation and buybacks over rapid profit growth.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $447.6B (+12% vs prior year)

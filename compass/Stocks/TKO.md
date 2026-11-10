@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Turning up
 
-## Solid: growth stands out, valuation holds it back
+## Fast-growing entertainment company trading at premium valuation with strong cash generation
 
-TKO Group Holdings scores 61 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: turning up.
+TKO Group is an entertainment and communications company generating $4.7B in annual revenue with 12% net profit margins. The business is growing revenue at 21% annually and producing strong free cash flow of $1.3B per year, but carries $4.6B in debt against $630.9M in cash.
 
 ### What is working
-- Growth: Revenue +21% a year over 3 years
-- Profitability: Keeps 12% of revenue as profit
+- Revenue growth of 21% year over year in latest quarter, continuing a 3-year trend of +21% annual expansion
+- Free cash flow generation of $1.3B annually with a 27% free cash flow margin shows the business converts sales to cash efficiently
+- 27 analysts covering the stock with 82% rating it a buy; consensus is Buy rating
 
 ### What to be careful about
-- Valuation: Free cash flow yield 3.4%
-- Balance sheet: Debt is 1.4x shareholder equity
+- Stock trades at 130x earnings, which is extremely high and leaves little room for disappointment
+- Share count has grown 134.3% over 3 years, diluting existing shareholders; dividend yield is only 0.6%
+- Debt of $4.6B is 1.4x shareholder equity, and full-year revenue actually fell 3% compared to prior year despite quarterly strength
 
-**Watch next:** The next quarterly report: whether revenue growth of +21% holds.
+**Watch next:** Whether the latest quarter's 21% revenue growth momentum can sustain given the full-year revenue decline, and how the company manages its $4.6B debt load.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Investors who believe in the company's growth story and can tolerate high volatility (32% yearly) and premium valuations without needing near-term profits or dividends.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $4.7B (-3% vs prior year)

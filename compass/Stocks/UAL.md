@@ -14,22 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Turning up
 
-## Strong: valuation stands out
+## United Airlines shows strong cash generation and analyst backing, but carries heavy debt
 
-United Airlines Holdings scores 62 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: turning up.
+United is a large airline generating $59.1 billion in annual revenue with improving recent momentum. It keeps 6% of sales as profit and produces $2.6 billion in free cash flow yearly. The stock trades at a valuation discount relative to its cash output.
 
 ### What is working
-- Valuation: Free cash flow yield 6.5%
-- Shareholder returns: Share count flat
+- Latest quarter revenue jumped 17% year over year while the company maintained profitability
+- Free cash flow yield of 6.5% is well above typical stock dividends; company generated $2.6B in free cash last year
+- 87% of 30 analysts rate it a buy; stock up 23.5% over the past year
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Debt of $21.3B is 1.2x shareholder equity, meaning debt load is substantial relative to ownership value
+- Price sits 12% below its 52-week high and volatility is 48%, indicating significant price swings
+- Net margin of 6% is thin; operating margin of 8% leaves little room for unexpected cost pressures
 
-**Watch next:** The next quarterly report: whether revenue growth of +17% holds.
+**Watch next:** Monitor whether the 17% quarterly revenue growth sustains or moderates, as this directly impacts the company's ability to service its $21.3B debt load.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Suits investors seeking deep value in cyclical businesses and who can tolerate higher volatility while the company converts revenue into cash returns.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $59.1B (+4% vs prior year)

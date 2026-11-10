@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Losing steam
 
-## Solid: growth stands out, valuation holds it back
+## Fast-growing brokerage with strong profits but steep valuation and recent price drop
 
-Robinhood Markets, Inc. scores 56 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: losing steam.
+Robinhood is a retail investing platform that grew revenue 52% last year to $4.5B. It keeps 42 cents of every dollar as profit and earns a 19% return on shareholder equity. The stock price has fallen 37% over the past year and now trades at 38 times earnings.
 
 ### What is working
-- Growth: Revenue +49% a year over 3 years
-- Profitability: Keeps 42% of revenue as profit
+- Revenue grew 49% per year over 3 years and 52% last year, showing sustained acceleration
+- Net margin of 42% means the business converts sales into profit at a high rate
+- Return on equity of 19% indicates capital is deployed efficiently for shareholders
 
 ### What to be careful about
-- Valuation: Trades at 38x earnings
-- Price trend: Price is below its 200-day average
+- Stock trades at 38x earnings, well above typical market multiples, leaving little room for disappointment
+- Price down 37% over the past year and sits only 23% up from its 52-week low, suggesting momentum has reversed
+- Share count growing 4.6% over 3 years dilutes existing shareholders even as earnings grow
 
-**Watch next:** The next quarterly report: whether revenue growth of +12% holds.
+**Watch next:** Whether quarterly revenue growth can accelerate back above 12% year-over-year, since recent deceleration from 52% annual growth may signal market saturation.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Investors willing to accept high volatility (71% yearly swings) and premium valuations in exchange for exposure to a high-margin, rapidly growing platform business.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $4.5B (+52% vs prior year)

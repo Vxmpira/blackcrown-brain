@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Turning up
 
-## Solid: shareholder returns stands out, growth holds it back
+## Insurance broker with strong profits and recent price rally, but growth has stalled
 
-Erie Indemnity scores 61 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: turning up.
+Erie Indemnity is an insurance brokerage firm generating $4.1 billion in annual revenue. It keeps 14% of revenue as profit and returns 22% on shareholder equity. Recent months show a sharp price rebound after a year of decline.
 
 ### What is working
-- Shareholder returns: Dividend yield 1.6%
-- Analyst consensus: 8 analysts, consensus Buy, 75% rate it a buy
-- Valuation: Trades at 22x earnings
+- Profitability is solid: 14% net margin and 22% return on equity show efficient operations
+- Analyst consensus is bullish: 75% of 8 analysts rate it a buy
+- Recent price momentum is strong: up 20.5% in the past month and 24.1% over six months
 
 ### What to be careful about
-- Growth: Revenue +13% a year over 3 years
+- Growth has stopped: latest quarter revenue was flat year-over-year despite 13% average growth over three years
+- Full-year revenue growth slowed: 7% in 2025 versus the 13% three-year trend
+- Valuation is not cheap: trades at 22x earnings, which is in the upper range for brokers
 
-**Watch next:** The next quarterly report: whether revenue growth of +0% holds.
+**Watch next:** Whether quarterly revenue growth rebounds from 0% or continues to decelerate, signaling how sustainable the current business model is.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors seeking steady profits and dividends from a stable financial services business, willing to accept that growth may be modest.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $4.1B (+7% vs prior year)

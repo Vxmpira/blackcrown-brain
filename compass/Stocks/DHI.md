@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Turning up
 
-## Solid: balance sheet stands out, growth holds it back
+## Builder with strong cash, weak growth, and analyst skepticism
 
-D. R. Horton scores 58 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: turning up.
+D.R. Horton is the largest U.S. homebuilder by revenue ($34.3B). It keeps 10% of sales as profit and generates $3.3B in free cash flow annually. Growth has stalled: revenue fell 7% year over year, and earnings per share dropped 19%.
 
 ### What is working
-- Balance sheet: Net cash of $2.1B
-- Shareholder returns: Share count shrinking (buybacks)
-- Valuation: Free cash flow yield 7.7%
+- Balance sheet is fortress-like: $2.1B in net cash with no debt mentioned
+- Valuation offers income: 7.7% free cash flow yield and P/E of 14.78
+- Capital discipline: share count shrank 12.7% over three years via buybacks
 
 ### What to be careful about
-- Growth: Revenue +1% a year over 3 years
-- Analyst consensus: 27 analysts, consensus Hold, 30% rate it a buy
+- Growth engine stalled: revenue +1% annually over three years, flat in latest quarter
+- Earnings collapsed: net income down 19% year over year
+- Analyst consensus is Hold, only 30% rate it a buy despite 27 analysts covering it
 
-**Watch next:** The next quarterly report: whether revenue growth of +0% holds.
+**Watch next:** Whether the recent one-month surge of 11% signals a revenue recovery or remains a rally in a stalled business.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors seeking stable cash flow over growth, comfortable with cyclical housing exposure and willing to hold through periods of flat earnings.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-09-30)
 - Revenue $34.3B (-7% vs prior year)

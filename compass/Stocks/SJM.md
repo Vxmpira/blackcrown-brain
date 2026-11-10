@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Strong uptrend
 
-## Solid: shareholder returns stands out, growth holds it back
+## Food giant posting losses but generating cash; stock near yearly high after 24% gain
 
-J.M. Smucker Company (The) scores 57 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: strong uptrend.
+J.M. Smucker is a $9.1 billion revenue packaged foods company that lost $138.7 million last year but still generated $1.2 billion in free cash flow. The stock has risen 24% over the past year and now trades at 61 times earnings, sitting 98% of the way up its 52-week range.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
+- Stock price up 24% in one year and trades 98% of the way up its 52-week range, suggesting sustained investor interest
+- Generates $1.2 billion in free cash flow despite net losses, with 8.2% free cash flow yield
+- Returning cash to shareholders through 3.7% dividend yield and 4.2% reduction in share count over three years
 
 ### What to be careful about
-- Growth: Revenue +2% a year over 3 years
-- Profitability: Keeps -2% of revenue as profit
+- Company posted net loss of $138.7 million (negative 2% net margin) in fiscal 2026; operating margin only 4%
+- Trades at 61x earnings, which is expensive relative to cash generation and profitability metrics
+- Revenue growth slowing at 2% annually over three years, with latest quarter showing only 5% year-over-year growth
 
-**Watch next:** The next quarterly report: whether revenue growth of +5% holds.
+**Watch next:** Whether the company can return to profitability while maintaining its cash generation and revenue growth, since losses and low margins are limiting long-term sustainability despite strong stock price moves.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable with dividend income and buybacks who can accept valuation risk and near-term losses in a defensive, slow-growth consumer staples business.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-04-30)
 - Revenue $9.1B (+4% vs prior year)

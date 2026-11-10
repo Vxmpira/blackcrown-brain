@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Turning up
 
-## Strong: profitability stands out, growth holds it back
+## Profitable storage REIT trades near 52-week highs with steady cash returns
 
-Public Storage scores 62 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: turning up.
+Public Storage operates self-storage facilities and keeps 37% of revenue as profit. The company generates strong free cash flow of $3.2B annually and pays a 4.7% dividend. Recent quarterly revenue jumped 12% year over year, though full-year growth has slowed to 3-5%.
 
 ### What is working
-- Profitability: Keeps 37% of revenue as profit
-- Shareholder returns: Share count flat
-- Balance sheet: Debt is 0.8x shareholder equity
+- Exceptional profitability: 37% net margin and 66% free cash flow margin show pricing power
+- Strong shareholder returns: 4.7% dividend yield with flat share count means cash flows mostly go to owners
+- Recent momentum: Latest quarter revenue +12%, price up 19% over the past year and 15% in the last month
 
 ### What to be careful about
-- Growth: Revenue +5% a year over 3 years
+- Earnings declined: EPS down 15% year over year despite revenue growth, signaling margin pressure
+- Expensive valuation: P/E of 33x is high, and free cash flow yield of 5.0% may not fully compensate for the price
+- Slowing base growth: Annual revenue growth only 3-5% over three years, compared to 12% in latest quarter
 
-**Watch next:** The next quarterly report: whether revenue growth of +12% holds.
+**Watch next:** Whether quarterly revenue momentum at 12% can sustain or fade back toward the 3-5% annual trend, which will signal if the recent price strength has fundamental support.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors seeking steady dividend income and patient capital that can accept mature, slow-growth businesses trading at premium valuations.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $4.8B (+3% vs prior year)

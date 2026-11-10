@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Strong uptrend
 
-## Strong: shareholder returns stands out, valuation holds it back
+## Hilton rides strong price momentum but carries heavy debt and rich valuation
 
-Hilton Worldwide scores 68 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Hilton is a hotel operator generating $12.0B in annual revenue with 12% profit margins and strong free cash flow of $2.0B. The stock has climbed 37% over the past year and sits near 52-week highs. However, debt stands at 13.5x cash on hand, and the company trades at 49x earnings.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
-- Profitability: Keeps 12% of revenue as profit
+- Price momentum is strong: up 37% over the past year and 97% of the way through its 52-week range
+- Profitability is solid: 12% net margin, 17% free cash flow margin, and generates $2.0B in free cash annually
+- Revenue growth is consistent: up 11% a year over three years, with latest quarter up 7% year over year
 
 ### What to be careful about
-- Valuation: Free cash flow yield 2.3%
+- Valuation is stretched: trades at 49x earnings with a free cash flow yield of only 2.5%
+- Balance sheet is heavily leveraged: debt of $13.5B against just $774.0M cash, or 73.7x shareholder equity
+- Earnings growth has stalled: EPS flat year over year despite revenue rising 8%
 
-**Watch next:** The next quarterly report: whether revenue growth of +7% holds.
+**Watch next:** Monitor whether earnings per share begins to grow again or whether debt levels start to decline, as both could signal improvement or deterioration in the capital structure.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** This profile may appeal to long-term investors comfortable with cyclical travel exposure who value free cash flow and buybacks but are willing to tolerate high leverage and a lofty valuation.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $12.0B (+8% vs prior year)

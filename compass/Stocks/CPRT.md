@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend, bouncing
 
-## Solid: balance sheet stands out, price trend holds it back
+## Profitable auto-auction business stumbling on growth, but cash engine still runs strong
 
-Copart scores 58 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend, bouncing.
+Copart runs vehicle auctions for insurance companies and dealers. The company is highly profitable with a 32% net margin and generates $1.3B in free cash yearly. However, revenue growth has slowed to near flat, and the stock price has dropped 21% over the past year.
 
 ### What is working
-- Balance sheet: Net cash of $1.9B
-- Profitability: Keeps 32% of revenue as profit
-- Shareholder returns: Share count shrinking (buybacks)
+- Operating margin of 35% and net margin of 32% show the core business runs efficiently
+- Free cash flow margin of 27% means nearly a quarter of every revenue dollar converts to cash
+- Net cash position of $1.9B with minimal debt ($11.0M) provides financial flexibility
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Growth: Revenue +6% a year over 3 years
+- Revenue grew only 2% in the latest quarter and 0% annually, suggesting the auction market may be slowing
+- Earnings per share declined 3% year over year despite high profitability
+- Stock down 21% over the past year and trades 23% below its 52-week high
 
-**Watch next:** The next quarterly report: whether revenue growth of +2% holds.
+**Watch next:** Watch whether quarterly revenue growth rebounds above 2% or continues to flatten, since growth has become the weak link in an otherwise cash-generative business.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Suits patient investors drawn to profitable, cash-generating companies that can weather slow growth and may appeal to those who buy and hold cyclical stocks through price dips.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-07-31)
 - Revenue $4.7B (+0% vs prior year)

@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Pullback in uptrend
 
-## Strong: balance sheet stands out, growth holds it back
+## Semiconductor company with strong cash generation but shrinking revenue and expensive valuation
 
-Skyworks Solutions scores 64 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: pullback in uptrend.
+Skyworks Solutions is a semiconductor company generating $4.1 billion in annual revenue with solid profitability and cash flow. However, revenue has declined 9% over three years, and the stock is trading at a high multiple relative to earnings.
 
 ### What is working
-- Balance sheet: Net cash of $293.1M
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
+- Stock price up 17% over the past year and sitting 75% of the way up its 52-week range, showing sustained upward momentum
+- Generates strong free cash flow of $1.1 billion annually with a 27% free cash flow margin, returning capital via buybacks and a 2.9% dividend
+- Holds $293.1 million in net cash with no significant debt burden, providing financial flexibility
 
 ### What to be careful about
-- Growth: Revenue -9% a year over 3 years
+- Revenue fell 9% over the past three years and declined 3% in the latest quarter, indicating ongoing contraction
+- Earnings per share dropped 17% year over year, showing profitability pressure despite stable net margins
+- Stock trades at 113x earnings, one of the highest multiples on record, leaving little room for disappointment
 
-**Watch next:** The next quarterly report: whether revenue growth of -3% holds.
+**Watch next:** Whether quarterly revenue stabilizes or continues declining, since the 3-year downtrend is the primary headwind offsetting the company's strong cash generation.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Long-term investors comfortable holding mature semiconductor companies with declining revenue but reliable cash returns, who can tolerate high valuation multiples and 50% yearly stock volatility.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-10-03)
 - Revenue $4.1B (-2% vs prior year)

@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Neutral read · trend: Downtrend
 
-## Strong: growth stands out, shareholder returns holds it back
+## Fast-growing internet platform with strong profits, but stock down 49% in a year
 
-Reddit, Inc. scores 63 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: downtrend.
+Reddit is a communication services company that generates revenue from its online platform. Revenue grew 69 percent year over year to $2.2 billion, and the company turned a $530 million net profit. However, the stock price has fallen sharply and shares outstanding have more than tripled in three years.
 
 ### What is working
-- Growth: Revenue +49% a year over 3 years
-- Balance sheet: Net cash of $1.4B
-- Profitability: Keeps 24% of revenue as profit
+- Revenue accelerating: $2.2B last year, up 69% from prior year, with latest quarter also up 53% year over year
+- Profitable and generating cash: 24% net profit margin, $684.2M free cash flow, $1.4B net cash on balance sheet
+- Strong return on equity of 15% shows efficient use of shareholder capital
 
 ### What to be careful about
-- Shareholder returns: Share count growing (dilution)
-- Price trend: Price is below its 200-day average
+- Stock down 49% over the past year, trading 5% of the way up its 52-week range, with 77% yearly volatility
+- Share count up 253% over three years means each share owns less of the company (significant dilution)
+- Price sits below its 200-day average with the 50-day below the 200-day, indicating sustained downward momentum
 
-**Watch next:** The next quarterly report: whether revenue growth of +53% holds.
+**Watch next:** Whether revenue growth stays above 50% per quarter or begins to slow, since current stock valuation depends on the company maintaining rapid expansion.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Long-term investors who can tolerate sharp price swings and believe in the company's ability to grow revenue and profits despite recent stock weakness, and who are comfortable with heavy share dilution.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $2.2B (+69% vs prior year)

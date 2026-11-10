@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Uptrend
 
-## Solid: balance sheet stands out, growth holds it back
+## Established healthcare giant with steady cash generation but expensive valuation
 
-Abbott Laboratories scores 59 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: uptrend.
+Abbott is a large medical device and healthcare company generating $44.3 billion in annual revenue with a 15% profit margin. Recent quarterly revenue grew 14% year over year, though full-year growth has been modest at 1% annually over three years. The company returns cash to shareholders through buybacks and a 2.0% dividend.
 
 ### What is working
-- Balance sheet: Debt is 0.6x shareholder equity
-- Shareholder returns: Share count shrinking (buybacks)
-- Analyst consensus: 33 analysts, consensus Buy, 79% rate it a buy
+- Free cash flow of $7.4B and 17% cash margin show strong money generation despite modest revenue growth
+- Trades at 40x earnings with analyst consensus at Buy (79% bullish) and balance sheet debt at just 0.6x equity
+- Stock recovered 29.5% over the past 6 months and sits in an uptrend above its 200-day moving average
 
 ### What to be careful about
-- Growth: Revenue +1% a year over 3 years
-- Valuation: Free cash flow yield 3.9%
+- Earnings per share fell 51% year over year, a sharp decline that reflects profitability pressure
+- Three-year revenue growth of only 1% annually suggests the core business is not expanding quickly
+- P/E of 40x and free cash flow yield of 3.9% indicate the stock is priced above historical norms for the sector
 
-**Watch next:** The next quarterly report: whether revenue growth of +14% holds.
+**Watch next:** Whether the 14% latest quarter revenue growth can sustain, or if it fades back toward the sluggish 1% three-year trend.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors seeking stable dividend income and cash returns who can accept slower growth and are comfortable with higher valuation multiples.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $44.3B (+6% vs prior year)

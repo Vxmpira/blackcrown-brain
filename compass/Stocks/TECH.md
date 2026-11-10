@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Strong uptrend
 
-## Strong: balance sheet stands out, valuation holds it back
+## Strong price momentum masks analyst skepticism and expensive valuation
 
-Bio-Techne scores 68 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Bio-Techne is a $1.2B revenue healthcare company that generates solid free cash flow ($263.2M annually) and holds $350M in net cash. Growth has been modest at 2% annually over three years, though the latest quarter showed 5% revenue growth. The stock has surged 27% in the past year and trades at a premium valuation.
 
 ### What is working
-- Balance sheet: Net cash of $350.0M
-- Price trend: Price is above its 200-day average
-- Shareholder returns: Share count shrinking (buybacks)
+- Price is at the top of its 52-week range ($72.83), up 27% over the past year and sitting well above its 200-day average
+- Free cash flow is strong at $263.2M, giving a 22% free cash flow margin and funding share buybacks that have reduced share count 3% over three years
+- Fortress balance sheet with $350M in net cash and no debt, providing financial flexibility
 
 ### What to be careful about
-- Valuation: Free cash flow yield 2.3%
+- Valuation is stretched at 63x earnings and 2.3% free cash flow yield, among the highest multiples in the market
+- Revenue growth is sluggish at just 2% annually over three years, with only 5% growth in the latest quarter
+- All 19 covering analysts rate the stock as Sell with 0% rating it a Buy, suggesting consensus sees limited upside
 
-**Watch next:** The next quarterly report: whether revenue growth of +5% holds.
+**Watch next:** Whether revenue growth can accelerate beyond 5% to justify the 63x earnings multiple, or if analyst pessimism signals overvaluation.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors seeking established healthcare companies with predictable cash generation who are comfortable paying premium prices for modest growth and can tolerate high analyst skepticism.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-06-30)
 - Revenue $1.2B (-0% vs prior year)

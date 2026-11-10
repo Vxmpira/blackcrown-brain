@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Strong uptrend
 
-## Solid: shareholder returns stands out, balance sheet holds it back
+## Large healthcare distributor with strong cash flow but razor-thin margins
 
-Cencora scores 60 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: strong uptrend.
+Cencora is a massive medical supply distributor moving $321.3 billion in annual revenue. The company generates significant free cash flow and trades at reasonable multiples, but operates on extremely thin profit margins typical of distribution businesses.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
-- Valuation: Free cash flow yield 4.9%
+- Revenue growing steadily at 10% per year over three years, with latest quarter up 5% year over year
+- Free cash flow of $3.2 billion and 4.9% FCF yield provide real cash returns to shareholders
+- Return on equity of 51% shows the company extracts strong returns from shareholder capital despite low margins
 
 ### What to be careful about
-- Balance sheet: Debt is 3.8x shareholder equity
+- Net profit margin is 0% and operating margin only 1%, meaning almost no earnings cushion if costs rise
+- Debt of $11.7 billion is 3.8 times shareholder equity, creating financial leverage risk in downturns
+- Stock dropped 4.7% over the past year despite recent six-month gains of 31.7%, showing uneven performance
 
-**Watch next:** The next quarterly report: whether revenue growth of +5% holds.
+**Watch next:** Whether the company can expand operating margins above 1% while maintaining its revenue growth rate, since current profitability leaves little room for error.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable with low-margin, high-volume businesses that prioritize cash generation and capital returns over rapid earnings growth.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-09-30)
 - Revenue $321.3B (+9% vs prior year)

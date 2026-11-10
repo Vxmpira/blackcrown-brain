@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Losing steam
 
-## Solid: valuation stands out, growth holds it back
+## Citigroup: Strong dividend and valuation mask slowing growth and weak cash flow
 
-Citigroup scores 58 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: losing steam.
+Citigroup is a large diversified bank with $85.2B in annual revenue. The company is profitable with a 17% net margin, but revenue growth has slowed to 2% in the latest quarter. The stock trades cheaply at 11x earnings and offers a 4.7% dividend yield.
 
 ### What is working
-- Valuation: Trades at 11x earnings
-- Shareholder returns: Share count shrinking (buybacks)
-- Analyst consensus: 29 analysts, consensus Buy, 83% rate it a buy
+- Valuation is attractive at 10.61x earnings, well below historical banking averages
+- High dividend yield of 4.7% plus ongoing share buybacks reducing share count by 4.6% over 3 years
+- Analyst consensus is strong with 83% of 29 analysts rating it a buy
 
 ### What to be careful about
-- Growth: Revenue +4% a year over 3 years
+- Free cash flow is deeply negative at -$74.2B, raising questions about sustainability of payouts
+- Revenue growth has decelerated to just 2% in the latest quarter, down from 6% yearly
+- Return on equity is low at 7%, suggesting the company generates modest profit on shareholder capital
 
-**Watch next:** The next quarterly report: whether revenue growth of +2% holds.
+**Watch next:** Monitor whether free cash flow turns positive next quarter, as the -$74.2B figure is the most concerning item on the sheet and directly affects dividend sustainability.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors seeking high current income who are comfortable with large financial institutions and can tolerate volatility while waiting for growth to accelerate.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $85.2B (+6% vs prior year)

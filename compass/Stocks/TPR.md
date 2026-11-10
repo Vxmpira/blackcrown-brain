@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend, bouncing
 
-## Solid: shareholder returns stands out, balance sheet holds it back
+## Luxury goods maker with strong profits and cash returns, but heavy debt and price weakness
 
-Tapestry, Inc. scores 60 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend, bouncing.
+Tapestry is a luxury consumer goods company generating $8.0 billion in annual revenue with a net profit margin of 19%. It is returning cash to shareholders through buybacks and a 4.6% dividend while carrying significant debt relative to shareholder equity.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Profitability: Keeps 19% of revenue as profit
-- Valuation: Free cash flow yield 6.3%
+- Profitability is substantial: keeps 19% of revenue as profit and generates $1.8B in free cash flow annually
+- Valuation looks reasonable: trades at 16x earnings with a 6.9% free cash flow yield
+- Shareholder rewards are active: share count has shrunk 12.9% over three years and dividend yield sits at 4.6%
 
 ### What to be careful about
-- Balance sheet: Debt is 5.7x shareholder equity
-- Price trend: Price is below its 200-day average
+- Debt burden is heavy: $2.0B in debt versus $599M in cash, with debt at 5.7x shareholder equity
+- Price momentum has stalled: stock is 18% below its 52-week high and sits below its 200-day average
+- Growth is slowing: revenue grew 6% per year over three years, though latest quarter showed 11% year-over-year growth
 
-**Watch next:** The next quarterly report: whether revenue growth of +11% holds.
+**Watch next:** Whether the latest quarter's 11% revenue growth continues or reverts to the slower historical trend of 6% annually.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable holding a debt-heavy company that prioritizes cash returns and operates in cyclical consumer markets.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-06-27)
 - Revenue $8.0B (+14% vs prior year)

@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Turning up
 
-## Solid: shareholder returns stands out, balance sheet holds it back
+## Defense contractor with strong cash generation; uneven growth and heavy debt load
 
-Lockheed Martin scores 57 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: turning up.
+Lockheed Martin is a large aerospace and defense company generating $75.0B in annual revenue. It converts revenue into cash efficiently and returns capital to shareholders through buybacks and dividends. Growth has been modest on average, though the latest quarter showed +11% revenue gain.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Profitability: Keeps 7% of revenue as profit
-- Valuation: Free cash flow yield 5.0%
+- Free cash flow of $6.9B and a 5.1% cash yield show consistent money-making ability
+- Return on equity at 50% means the company deploys shareholder capital very effectively
+- Share count down 11.8% over three years via buybacks, which boosts per-share value for remaining holders
 
 ### What to be careful about
-- Balance sheet: Debt is 2.0x shareholder equity
-- Growth: Revenue +4% a year over 3 years
+- Earnings per share fell 4% year over year despite revenue growth, signaling margin pressure
+- Debt of $20.5B is 2.0x shareholder equity, leaving less financial cushion for downturns
+- Three-year revenue growth at +4% annually is slower than many industrials; cyclical defense spending risk exists
 
-**Watch next:** The next quarterly report: whether revenue growth of +11% holds.
+**Watch next:** Whether the latest quarter's +11% revenue growth can persist or if it reverts to the slower 4% annual trend.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable with cyclical industrials who value steady cash returns over rapid growth, and who can accept elevated leverage.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $75.0B (+6% vs prior year)

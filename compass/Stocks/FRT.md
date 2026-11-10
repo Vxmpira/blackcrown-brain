@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend, bouncing
 
-## Solid: profitability stands out, price trend holds it back
+## Profitable retail REIT with strong cash flow but rising debt and weakening price trend
 
-Federal Realty Investment Trust scores 57 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend, bouncing.
+Federal Realty is a real estate investment trust that owns and operates retail properties. It keeps 32% of revenue as profit and generates substantial free cash flow of $622.4M annually. The company pays a 4.7% dividend but has taken on significant debt.
 
 ### What is working
-- Profitability: Keeps 32% of revenue as profit
-- Valuation: Free cash flow yield 6.3%
-- Analyst consensus: 22 analysts, consensus Buy, 68% rate it a buy
+- Profitability is strong: 32% net margin and 49% free cash flow margin show efficient operations
+- Latest quarter revenue jumped 10% year over year, outpacing the 6% three-year average growth rate
+- Free cash flow yield of 6.3% and analyst consensus Buy from 68% of 22 analysts tracking the stock
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Balance sheet: Debt is 1.5x shareholder equity
+- Debt stands at $5.0B, which is 1.5x shareholder equity, leaving less financial cushion
+- Price is 55% of the way up its 52-week range and down 11% from its high; 50-day average is below 200-day
+- Share count has grown 7.3% over three years, diluting each shareholder's ownership stake
 
-**Watch next:** The next quarterly report: whether revenue growth of +10% holds.
+**Watch next:** Whether the latest revenue growth of 10% can sustain or if it reverts to the slower 6% annual trend, given the downtrend in stock price.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Long-term investors seeking current income from a 4.7% dividend who can tolerate real estate sector volatility and can hold through price weakness.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $1.3B (+6% vs prior year)

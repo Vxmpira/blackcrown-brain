@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Turning up
 
-## Solid: shareholder returns stands out, valuation holds it back
+## RTX posts steady growth but commands premium valuation at 32x earnings
 
-RTX Corporation scores 62 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: turning up.
+RTX is a $88.6B revenue aerospace and defense company growing revenue at 10% annually with net income of $6.7B. The firm generates $7.9B in free cash flow yearly and maintains a strong balance sheet with debt at 0.5x equity. It returns cash to shareholders through buybacks and a 2.9% dividend.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Balance sheet: Debt is 0.5x shareholder equity
-- Growth: Revenue +10% a year over 3 years
+- Revenue and earnings accelerating: latest quarter up 11% and full-year EPS jumped 40% year over year
+- Balance sheet is fortress-like: debt only 0.5x shareholder equity with $9.2B cash on hand
+- Returning capital aggressively: share count down 8.7% over 3 years plus 2.9% dividend yield
 
 ### What to be careful about
-- Valuation: Free cash flow yield 2.9%
+- Valuation is stretched: trading at 32x earnings with only 3.0% free cash flow yield
+- Profit margins are modest: 8% net margin means RTX keeps just 8 cents per dollar of sales
+- Stock is 12% below its 52-week high and volatility runs 26% yearly, showing meaningful swings
 
-**Watch next:** The next quarterly report: whether revenue growth of +11% holds.
+**Watch next:** Track whether the 40% EPS growth in the latest year can sustain, since that spike drove much of the overall Compass score.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** This profile suits patient investors comfortable paying up for a stable, cash-generative business in aerospace and defense that prioritizes shareholder returns, provided they can accept moderate margins and premium valuation.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $88.6B (+10% vs prior year)

@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: valuation stands out, profitability holds it back
+## Reinsurer trading cheap while recent quarter shows revenue headwinds
 
-Everest Group scores 64 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Everest Group is a reinsurance company with 17.5 billion dollars in annual revenue. It keeps 9 cents of profit for every dollar earned and generated 3.1 billion dollars in free cash flow last year. The stock has climbed 27 percent over the past year and trades at 8 times earnings.
 
 ### What is working
-- Valuation: Trades at 8x earnings
-- Price trend: Price is above its 200-day average
+- Price sits 93% up its 52-week range with strong momentum: up 27% over one year and 10.9% in one month
+- Trades at 8x earnings, well below typical valuations, with free cash flow yield of 20.1%
+- Generated 3.1 billion dollars in free cash flow against 1.6 billion dollars net income, showing solid cash conversion
 
 ### What to be careful about
-- Profitability: Keeps 9% of revenue as profit
-- Growth: Revenue +13% a year over 3 years
+- Latest quarterly revenue fell 14% year over year, a sharp drop from the three-year 13% annual growth trend
+- Net profit margin is thin at 9%, leaving little room if conditions worsen
+- Share count grew 7.2% over three years, diluting existing shareholders even as the company doesn't heavily return capital
 
-**Watch next:** The next quarterly report: whether revenue growth of -14% holds.
+**Watch next:** Monitor whether the next quarter's revenue stabilizes or continues declining, since the latest -14% drop breaks the three-year growth pattern.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** This profile suits long-term investors comfortable with reinsurance cyclicality who value cheap valuations and can tolerate recent momentum against recent quarterly softness.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $17.5B (+1% vs prior year)

@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Turning up
 
-## Strong: balance sheet stands out
+## Teledyne: solid profit generator with modest growth, trading near 52-week highs
 
-Teledyne Technologies scores 63 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: turning up.
+Teledyne is a technology hardware company generating $6.1B in annual revenue with a 15% net profit margin and strong balance sheet. Revenue grew 9% last quarter and the company produces $1.1B in free cash flow annually. The stock has climbed 25% over the past year and sits near its 52-week high.
 
 ### What is working
-- Balance sheet: Debt is 0.2x shareholder equity
-- Shareholder returns: Share count shrinking (buybacks)
-- Profitability: Keeps 15% of revenue as profit
+- Free cash flow of $1.1B and 18% margin show the business converts sales into cash efficiently
+- Balance sheet debt of only 0.2x equity is very low, giving room for flexibility
+- Latest quarter revenue grew 9% year over year, outpacing the 3-year trend of 4% annual growth
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Stock trades at 29x earnings, which is expensive relative to the 3.7% free cash flow yield
+- Revenue growth of only 4% per year over 3 years is slow for a technology company
+- Volatility is 27%, meaning the stock swings sharply; currently 7% below its 52-week high of 691.3
 
-**Watch next:** The next quarterly report: whether revenue growth of +9% holds.
+**Watch next:** Whether the recent acceleration in quarterly revenue growth (9% latest quarter) sustains, or slows back to the historical 4% annual trend.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable holding stable, profitable industrial-tech businesses that prioritize cash generation and buybacks over rapid growth or dividends.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-28)
 - Revenue $6.1B (+8% vs prior year)

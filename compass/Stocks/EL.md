@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Strong uptrend
 
-## Solid: balance sheet stands out, valuation holds it back
+## Beauty giant on strong price run, but profit margins remain razor-thin at 1%
 
-Estée Lauder Companies (The) scores 58 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: strong uptrend.
+Estée Lauder is a large consumer products company with $15.0B in annual revenue. Recent quarters show growth momentum with a 7% revenue jump year over year, but the company keeps only 1% of each sales dollar as profit.
 
 ### What is working
-- Balance sheet: Net cash of $2.1B
-- Price trend: Price is above its 200-day average
-- Shareholder returns: Share count growing (dilution)
+- Stock price up 28% over the past year and 86% of the way through its 52-week high
+- Latest quarter revenue grew 7% year over year, reversing a 3-year downtrend of -2% per year
+- Strong balance sheet with $2.1B net cash position and $1.3B in free cash flow generated
 
 ### What to be careful about
-- Valuation: Free cash flow yield 3.2%
-- Growth: Revenue -2% a year over 3 years
+- Profit margin of 1% is extremely low; company converts just $0.01 of every dollar into earnings
+- Stock trades at 111x earnings, which is very expensive relative to profits the company actually makes
+- Share count growing by 1.1% over 3 years, meaning existing shareholders own a smaller piece each year
 
-**Watch next:** The next quarterly report: whether revenue growth of +7% holds.
+**Watch next:** Whether the latest 7% quarterly revenue growth can sustain, since the company faced a 3-year revenue decline before this recent turn.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Investors comfortable with high valuations who prioritize balance sheet strength and recent price momentum over current profit generation.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-06-30)
 - Revenue $15.0B (+5% vs prior year)

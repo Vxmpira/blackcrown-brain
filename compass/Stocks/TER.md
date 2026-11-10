@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend
 
-## Solid: balance sheet stands out, price trend holds it back
+## Semiconductor tester with strong cash and recent revenue spike, but stock down sharply
 
-Teradyne scores 57 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend.
+Teradyne makes equipment to test semiconductors. The company is profitable, generates cash, and just posted 70% revenue growth in its latest quarter. However, the stock has fallen 35% in one month and trades near the bottom of its yearly range despite analyst optimism.
 
 ### What is working
-- Balance sheet: Net cash of $460.7M
-- Shareholder returns: Share count shrinking (buybacks)
-- Profitability: Keeps 17% of revenue as profit
+- Latest quarter revenue jumped 70% year over year, showing recent momentum
+- Keeps 17% of revenue as profit and generates $450.4M in free cash flow annually
+- Holds $460.7M in net cash with zero debt, providing financial flexibility
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Valuation: Free cash flow yield 1.1%
+- Stock is down 35.6% over the past month and sits 49% below its 52-week high
+- Three-year revenue growth is flat at 0%, suggesting the spike is a recovery not sustained growth
+- Trades at 28x earnings while generating only 1.2% free cash flow yield, indicating a premium valuation
 
-**Watch next:** The next quarterly report: whether revenue growth of +70% holds.
+**Watch next:** Whether the 70% quarterly revenue surge represents a durable recovery in demand or a temporary rebound in a cyclical business.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Investors comfortable with volatility who believe in the semiconductor cycle and want exposure to testing equipment during upswings.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $3.2B (+13% vs prior year)

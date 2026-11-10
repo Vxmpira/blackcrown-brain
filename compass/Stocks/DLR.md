@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend, bouncing
 
-## Solid: analyst consensus stands out, price trend holds it back
+## Data center REIT growing revenue fast but valued expensively with weakening price momentum
 
-Digital Realty scores 57 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend, bouncing.
+Digital Realty owns and operates data centers globally. The company grew revenue 16% last quarter and generates strong free cash flow of $2.4B annually. However, it trades at 74 times earnings, well above historical norms for REITs.
 
 ### What is working
-- Analyst consensus: 40 analysts, consensus Buy, 85% rate it a buy
-- Profitability: Keeps 21% of revenue as profit
-- Balance sheet: Debt is 0.8x shareholder equity
+- Revenue accelerating: +16% year over year in latest quarter, up from +9% three-year average
+- Cash generation strong: $2.4B free cash flow with 39% margin; covers 3.6% dividend comfortably
+- Analyst backing solid: 40 analysts covering, 85% rate it a buy, consensus Buy rating
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Valuation: Free cash flow yield 3.5%
+- Price momentum fading: Down 6.2% over six months, now 10% below 52-week high despite earnings growth
+- Valuation stretched: Trading at 74x earnings with only 3.5% free cash flow yield; limited margin for error
+- Shareholder dilution: Share count up 16.8% over three years, meaning existing shareholders own less of the company
 
-**Watch next:** The next quarterly report: whether revenue growth of +16% holds.
+**Watch next:** Watch whether the latest quarter's 16% revenue growth can sustain, since the stock's high valuation depends on growth continuing to outpace typical REIT returns.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Suits long-term investors comfortable with REITs who want exposure to data center real estate but must accept that valuation leaves little room for disappointment in growth.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $6.1B (+10% vs prior year)

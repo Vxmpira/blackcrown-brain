@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Pullback in uptrend
 
-## Strong: price trend stands out, profitability holds it back
+## HPE surges 102% in a year but profits lag despite strong revenue growth
 
-Hewlett Packard Enterprise scores 63 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: pullback in uptrend.
+Hewlett Packard Enterprise is a large technology company with $34.3B in annual revenue. Revenue has grown 14% year over year, but the company currently converts almost no revenue into profit. The stock has climbed sharply but recently pulled back 32.6% in the past month.
 
 ### What is working
-- Price trend: Price is above its 200-day average
-- Balance sheet: Debt is 0.7x shareholder equity
-- Shareholder returns: Share count flat
+- Revenue jumped 34% in the latest quarter and 14% for the full year versus prior year
+- Stock gained 102% over the past 12 months and sits 51% of the way up its 52-week range
+- Manageable debt at 0.7x shareholder equity and generates $627M in free cash flow
 
 ### What to be careful about
-- Profitability: Keeps 0% of revenue as profit
-- Valuation: Free cash flow yield 1.0%
+- Net profit margin is 0% and operating margin is negative 1% despite high revenue
+- Stock dropped 32.6% in the past month and is down 35% from its 52-week high of $73.46
+- Yearly volatility is 60%, meaning price swings are large and unpredictable
 
-**Watch next:** The next quarterly report: whether revenue growth of +34% holds.
+**Watch next:** Whether the latest quarter's 34% revenue growth can translate into actual net profit over the next two quarters, since margins remain at or near zero despite the sales acceleration.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Investors who seek exposure to a large profitable company may find this more volatile and margin-challenged than expected; suits those comfortable with a turnaround story backed by dividend income and analyst confidence.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-10-31)
 - Revenue $34.3B (+14% vs prior year)

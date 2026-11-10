@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Strong uptrend
 
-## Solid: price trend stands out, balance sheet holds it back
+## Hasbro bounces back on revenue growth, but profitability and debt remain concerns
 
-Hasbro scores 57 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: strong uptrend.
+Hasbro is a consumer leisure company that makes toys and entertainment products. The stock has surged 57% over the past year and sits near its 52-week high. Despite recent revenue growth, the company is unprofitable on a net income basis and carries substantial debt.
 
 ### What is working
-- Price trend: Price is above its 200-day average
-- Analyst consensus: 19 analysts, consensus Buy, 84% rate it a buy
-- Valuation: Free cash flow yield 4.9%
+- Stock price is 96% of the way up its 52-week range, showing strong momentum with +57% annual return
+- Latest quarter revenue jumped 15% year over year, and full-year 2025 revenue grew 14% after three years of decline
+- Generates 829.9 million dollars in free cash flow with a 4.9% yield, and pays a 6.1% dividend
 
 ### What to be careful about
-- Balance sheet: Debt is 3.7x shareholder equity
-- Growth: Revenue -7% a year over 3 years
-- Profitability: Keeps -7% of revenue as profit
+- Company posted -322.4 million dollars net income (negative 7% margin) and has zero operating margin
+- Debt is 3.7x shareholder equity at 3.5 billion dollars, limiting financial flexibility
+- Return on equity is -34%, meaning shareholders lost money on capital deployed in the business last year
 
-**Watch next:** The next quarterly report: whether revenue growth of +15% holds.
+**Watch next:** Whether the company can turn its recent revenue growth into actual net profitability in coming quarters, as the current -7% net margin is unsustainable.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Patient investors comfortable with cyclical consumer stocks who want yield and can tolerate high debt and near-term unprofitability in exchange for momentum and strong analyst support.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-28)
 - Revenue $4.7B (+14% vs prior year)

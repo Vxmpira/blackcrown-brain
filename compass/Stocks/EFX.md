@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Turning up
 
-## Solid: shareholder returns stands out
+## Equifax shows profit strength but faces valuation and debt headwinds
 
-Equifax scores 57 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: turning up.
+Equifax is a credit and data services company generating $6.1B in annual revenue with solid profitability margins of 11% net and 18% operating. The company trades at a relatively high valuation while carrying $5.2B in debt against $192.9M in cash.
 
 ### What is working
-- Shareholder returns: Share count growing (dilution)
-- Analyst consensus: 30 analysts, consensus Buy, 73% rate it a buy
-- Profitability: Keeps 11% of revenue as profit
+- Revenue grew 10% in the latest quarter and free cash flow margin sits at 19%, showing the core business converts sales into cash efficiently
+- Return on equity of 15% and 73% of covering analysts rating it a buy indicate the company generates returns and has professional support
+- Free cash flow yield of 5.1% and $1.1B in annual free cash flow provide tangible earnings that could fund dividends or debt reduction
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Stock is down 11% over the past year despite recent momentum, and trades at 30x earnings, which is elevated for the industrial services sector
+- Debt of $5.2B is 1.2x shareholder equity, meaning the balance sheet relies on borrowed money; cash on hand is only $192.9M
+- Share count has grown 0.7% over three years, showing some dilution; dividend yield of only 0.7% offers minimal income to shareholders
 
-**Watch next:** The next quarterly report: whether revenue growth of +10% holds.
+**Watch next:** Track whether the 10% quarterly revenue growth can sustain, since three-year growth has averaged only 6% annually.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors seeking a profitable company with cash generation that can tolerate higher valuations and moderate leverage in exchange for analyst endorsement.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $6.1B (+7% vs prior year)

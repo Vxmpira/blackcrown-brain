@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend
 
-## Solid: balance sheet stands out, price trend holds it back
+## Profitable solar maker stumbles lately, but balance sheet and margins stay strong
 
-First Solar scores 58 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend.
+First Solar manufactures solar panels and systems. The company grew revenue 26% annually over three years and keeps 29% of sales as profit, but the latest quarter showed revenue down 23% year over year. The stock has fallen 31% in the past year.
 
 ### What is working
-- Balance sheet: Net cash of $1.5B
-- Valuation: Free cash flow yield 5.8%
-- Profitability: Keeps 29% of revenue as profit
+- Operating margin of 31% and net margin of 29% show strong pricing power and cost control
+- Free cash flow of $1.2B and net cash of $1.5B provide a fortress balance sheet with minimal debt of $107.7M
+- Trades at 11x earnings with a 5.8% free cash flow yield, below historical norms for a profitable manufacturer
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Shareholder returns: Share count growing (dilution)
+- Latest quarter revenue fell 23% year over year, a sharp reversal from the three-year 26% annual growth trend
+- Stock down 31% over the past year and sits only 10% up from its 52-week low, with 53% yearly volatility
+- Share count grew 0.9% over three years, signaling dilution to existing shareholders
 
-**Watch next:** The next quarterly report: whether revenue growth of -23% holds.
+**Watch next:** Monitor whether the 23% latest-quarter revenue decline signals a temporary slowdown or the start of a longer downturn in demand.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Investors seeking profitable, cash-generative companies with strong balance sheets who can tolerate high volatility and near-term earnings pressure.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $5.2B (+24% vs prior year)

@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Turning up
 
-## Solid: profitability stands out, balance sheet holds it back
+## Stable utility with strong cash flow but heavy debt and slow growth
 
-WEC Energy Group scores 59 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: turning up.
+WEC Energy Group is a regulated electric utility that converts 16% of revenue into profit and generates substantial free cash flow. The company is near the top of its annual price range and trades at a moderate valuation, but growth has been modest and debt levels are elevated.
 
 ### What is working
-- Profitability: Keeps 16% of revenue as profit
-- Valuation: Free cash flow yield 8.9%
-- Price trend: Price is above its 200-day average
+- Free cash flow margin of 34% means most operating cash converts to cash available for dividends and debt repayment
+- Valuation offers an 8.8% free cash flow yield, among the more attractive metrics on the sheet
+- Price is up 11.5% in the past month and sits 89% of the way up its 52-week range, showing recent momentum
 
 ### What to be careful about
-- Balance sheet: Debt is 1.4x shareholder equity
-- Growth: Revenue +1% a year over 3 years
+- Revenue growth has been only 1% per year over three years; latest quarter's 9% jump may not persist
+- Debt of $20.9B is 1.4 times shareholder equity, leaving less room for financial stress than peers typically carry
+- Share count has grown 2.4% over three years, diluting existing shareholders; earnings per share changed 0% year over year
 
-**Watch next:** The next quarterly report: whether revenue growth of +9% holds.
+**Watch next:** Whether the latest quarter's 9% revenue surge reflects a new trend or a temporary spike, since the three-year average growth is only 1% per year.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Investors seeking steady dividend income and stable utility exposure who can tolerate slow earnings growth and moderate debt levels.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $9.8B (+14% vs prior year)

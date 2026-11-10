@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend, bouncing
 
-## Solid: balance sheet stands out, valuation holds it back
+## Semiconductor firm with strong growth but steep valuation after sharp pullback
 
-Qnity Electronics, Inc. scores 56 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend, bouncing.
+Qnity Electronics is a semiconductor company generating 4.8 billion dollars in annual revenue. It is profitable with a 15% net margin and free cash flow of 988 million dollars, but trades at a high multiple relative to earnings.
 
 ### What is working
-- Balance sheet: Debt is 0.5x shareholder equity
-- Shareholder returns: Share count flat
-- Profitability: Keeps 15% of revenue as profit
+- Latest quarter revenue jumped 22% year over year, showing recent acceleration
+- Free cash flow margin sits at 21%, meaning the company converts earnings to cash efficiently
+- Balance sheet is strong with debt at 0.5x shareholder equity, leaving room for flexibility
 
 ### What to be careful about
-- Valuation: Free cash flow yield 3.8%
-- Price trend: Price is below its 200-day average
+- Stock trades at 45x earnings, which is expensive compared to historical norms for semiconductors
+- Price is down 29% from its 52-week high and sits below its 200-day average, suggesting momentum has stalled
+- Earnings per share showed 0% growth year over year despite revenue rising 22%, a disconnect worth monitoring
 
-**Watch next:** The next quarterly report: whether revenue growth of +22% holds.
+**Watch next:** Watch whether earnings per share growth reaccelerates in coming quarters to justify the 45x earnings multiple, or whether revenue growth slows after the recent 22% jump.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Long-term investors with high risk tolerance who believe semiconductor demand will remain strong and can stomach 56% yearly volatility.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $4.8B (+10% vs prior year)

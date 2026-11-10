@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: price trend stands out, analyst consensus holds it back
+## Profitable spirits maker hitting 52-week highs despite flat revenue and analyst skepticism
 
-Brown–Forman scores 63 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Brown-Forman is a beverage company generating $3.9B in annual revenue with a 25% operating margin and $893M in free cash flow. Revenue has declined 2% over three years, and the latest quarter dropped 1% year over year. The stock has climbed 14% in the past year and now trades near its 52-week high.
 
 ### What is working
-- Price trend: Price is above its 200-day average
-- Shareholder returns: Share count shrinking (buybacks)
-- Balance sheet: Debt is 0.5x shareholder equity
+- Strong profitability: 18% net margin and 25% operating margin show the core business is efficient
+- Shareholder returns: Free cash flow yield is 6.3% and the company has shrunk share count by 2.9% over three years through buybacks
+- Solid balance sheet: Debt of 0.5x shareholder equity leaves room for financial flexibility
 
 ### What to be careful about
-- Analyst consensus: 23 analysts, consensus Sell, 4% rate it a buy
-- Growth: Revenue -2% a year over 3 years
+- Revenue declining: Sales down 2% a year over three years and latest quarter fell 1% year over year
+- Earnings weakness: EPS fell 17% year over year despite cash generation, signaling profit pressure
+- Analyst consensus: 23 analysts rate the stock Sell, with only 4% rating it a buy; stock sits 93% up its 52-week range
 
-**Watch next:** The next quarterly report: whether revenue growth of -1% holds.
+**Watch next:** Whether revenue decline reverses in coming quarters, since profitability remains strong but top-line growth is the missing piece.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors seeking steady cash flow from a defensive consumer stock who can tolerate flat-to-negative growth and are unfazed by analyst skepticism or current valuation height.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-04-30)
 - Revenue $3.9B (-1% vs prior year)

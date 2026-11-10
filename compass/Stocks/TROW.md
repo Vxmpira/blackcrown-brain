@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Uptrend
 
-## Strong: valuation stands out, growth holds it back
+## Profitable asset manager trades cheap while analysts say sell
 
-T. Rowe Price scores 71 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: uptrend.
+T. Rowe Price is a large investment management firm with $7.3B in annual revenue and strong profitability (29% net margin). Growth is modest at 4% revenue annually, and all 19 covering analysts rate the stock as a sell despite the low valuation.
 
 ### What is working
-- Valuation: Trades at 11x earnings
-- Shareholder returns: Share count shrinking (buybacks)
-- Profitability: Keeps 29% of revenue as profit
+- Valuation is lean at 11x earnings with 6.2% free cash flow yield
+- Generates $2.1B net income on $7.3B revenue (29% profit margin)
+- Returns 18% on shareholder equity and buys back shares (-3% count over 3 years)
 
 ### What to be careful about
-- Growth: Revenue +4% a year over 3 years
+- All 19 analysts rate it a sell; zero rate it a buy
+- Revenue growth slowed to +4% annually over three years despite latest quarter at +6%
+- Earnings per share flat (+1% year over year) despite revenue growth
 
-**Watch next:** The next quarterly report: whether revenue growth of +6% holds.
+**Watch next:** Whether analyst consensus shifts as revenue growth stabilizes around the recent +6% quarterly pace or falls back to the three-year trend.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Long-term investors comfortable owning a high-quality business when professionals disagree on its value, who want steady dividend income (5.0%) and can tolerate 25% annual price swings.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $7.3B (+3% vs prior year)

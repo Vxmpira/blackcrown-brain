@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend, bouncing
 
-## Solid: valuation stands out, price trend holds it back
+## Solid insurer trades cheap but growth is slow and price trend is soft
 
-Hartford (The) scores 60 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend, bouncing.
+Hartford is a diversified insurance company generating $1.5B in annual revenue. It is highly profitable with a 255% net margin and generates substantial free cash flow of $5.8B per year. The stock trades at a low valuation multiple but faces weak revenue growth.
 
 ### What is working
-- Valuation: Trades at 8x earnings
-- Shareholder returns: Share count shrinking (buybacks)
-- Profitability: Keeps 255% of revenue as profit
+- Trades at 8x earnings, well below typical market multiples, with a 16.0% free cash flow yield
+- Net margin of 255% and return on equity of 20% show strong operational profitability
+- Share count down 13.1% over 3 years via buybacks; dividend yield 2.4% returns cash to shareholders
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
+- Revenue grew only 2% year over year and 2% annually over 3 years, indicating slow business expansion
+- Price is 7% below its 52-week high and trades below its 200-day moving average, showing downward momentum
+- Analyst consensus is Hold rather than Buy; only 41% of 29 analysts rate it a buy
 
-**Watch next:** The next quarterly report: whether revenue growth of +2% holds.
+**Watch next:** Whether revenue growth accelerates beyond 2% annually, since profitability is strong but top-line expansion remains the limiting factor.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors seeking stable, profitable income from a cheap valuation who can tolerate a weakening price trend and slow growth.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $1.5B (+3% vs prior year)

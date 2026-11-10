@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Turning up
 
-## Strong: profitability stands out, valuation holds it back
+## Aerospace supplier with strong profits and high debt, trading at premium multiple
 
-TransDigm Group scores 67 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: turning up.
+TransDigm makes specialized parts for aircraft and defense. It grows revenue quickly, keeps nearly a quarter of each dollar as profit, and generates substantial cash. The company carries heavy debt relative to shareholder equity.
 
 ### What is working
-- Profitability: Keeps 23% of revenue as profit
-- Growth: Revenue +18% a year over 3 years
-- Shareholder returns: Share count flat
+- Revenue climbed 23% last quarter and 18% per year over three years, outpacing many industrials
+- Net margin of 23% and free cash flow margin of 21% show disciplined operations that convert sales to cash
+- Dividend yield of 7.8% returns cash to shareholders while the company holds $2.8B in cash
 
 ### What to be careful about
-- Valuation: Free cash flow yield 2.5%
+- Debt stands at 5.4x shareholder equity, meaning the balance sheet is leveraged aggressively
+- Stock trades at 31.7x earnings, well above typical industrial multiples, leaving little room for disappointment
+- Analysts are split: 48% rate it a buy, consensus is Hold; stock is 15% below its 52-week high
 
-**Watch next:** The next quarterly report: whether revenue growth of +23% holds.
+**Watch next:** Whether the company begins paying down its $32.8B debt pile or if leverage stays flat despite strong free cash flow generation.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Investors comfortable with cyclical aerospace exposure, high dividend income, and balance sheet risk who believe the growth will continue.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-09-30)
 - Revenue $8.8B (+11% vs prior year)

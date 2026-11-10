@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Pullback in uptrend
 
-## Strong: balance sheet stands out, valuation holds it back
+## Fast-growing software platform trading at premium valuation with strong cash position
 
-Shopify scores 63 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: pullback in uptrend.
+Shopify is a software company that helps merchants run online stores. It grew revenue 32% in its latest quarter and generated $2.0B in free cash flow last year. The stock trades at 91x earnings, which is expensive compared to its cash generation.
 
 ### What is working
-- Balance sheet: Net cash of $1.9B
-- Price trend: Price is above its 200-day average
-- Growth: Revenue +27% a year over 3 years
+- Revenue grew 32% in latest quarter and 27% annually over three years, showing sustained expansion
+- Generated $2.0B in free cash flow last year and holds $1.9B in net cash with no debt
+- Keeps 11% of revenue as profit with 13% operating margin, demonstrating operational efficiency
 
 ### What to be careful about
-- Valuation: Free cash flow yield 1.0%
-- Shareholder returns: Share count growing (dilution)
+- Earnings per share fell 39% year over year despite revenue growth, signaling margin pressure or higher share count
+- Trades at 91x earnings with only 1.0% free cash flow yield, leaving little room for disappointment
+- Share count grew 3.1% over three years, diluting existing shareholders while the stock is up only 2% over one year
 
-**Watch next:** The next quarterly report: whether revenue growth of +32% holds.
+**Watch next:** Whether earnings per share can turn positive while maintaining the 32% revenue growth rate, since the gap between top-line growth and bottom-line results is the biggest risk to valuation.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Long-term investors comfortable with volatile tech stocks who believe in fast-growing software companies and can tolerate paying premium prices for current growth.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $11.6B (+30% vs prior year)

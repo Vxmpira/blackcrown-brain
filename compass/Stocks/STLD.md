@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Pullback in uptrend
 
-## Strong: shareholder returns stands out, growth holds it back
+## Steel maker with strong balance sheet and buybacks, but earnings fell despite revenue jump
 
-Steel Dynamics scores 64 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: pullback in uptrend.
+Steel Dynamics is a basic materials company that generated $18.2B in revenue and $1.2B in net income last year. The latest quarter showed a big revenue spike of 35% year over year, but full-year earnings per share dropped 19% compared to the prior year. The company has a clean balance sheet and is returning cash to shareholders through buybacks and a 1.5% dividend.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Balance sheet: Debt is 0.4x shareholder equity
-- Price trend: Price is above its 200-day average
+- Price momentum is solid: up 54% over the past year and trading 63% of the way up its 52-week range
+- Balance sheet is fortress-like: debt is only 0.4x shareholder equity, with $928.6M in cash
+- Shareholder rewards are active: share count shrank 19.6% over three years via buybacks, and the company pays a 1.5% dividend yield
 
 ### What to be careful about
-- Growth: Revenue -7% a year over 3 years
+- Earnings moved the wrong way: EPS fell 19% year over year despite the strong latest quarter result
+- Long-term revenue is shrinking: down 7% a year over the past three years, though latest quarter bounced 35%
+- Profitability margins are thin: the company keeps only 7% of revenue as net profit and 3% as free cash flow
 
-**Watch next:** The next quarterly report: whether revenue growth of +35% holds.
+**Watch next:** Watch whether the 35% latest-quarter revenue surge represents a real turnaround or a temporary spike, given that three-year revenue is down 7% annually.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Suits long-term investors who can tolerate cyclical commodity exposure and want to own a capital-light industrial business with solid shareholder return mechanics and fortress balance sheet strength.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $18.2B (+4% vs prior year)

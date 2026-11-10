@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Strong uptrend
 
-## Solid: shareholder returns stands out, balance sheet holds it back
+## Profitable precision instrument maker at peak valuation after strong run
 
-Mettler Toledo scores 62 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: strong uptrend.
+Mettler Toledo makes measurement and analysis equipment for labs and factories. Revenue growth has slowed to 1% annually over three years, though the latest quarter showed 6% growth. The company is highly profitable and generates substantial free cash.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
-- Profitability: Keeps 22% of revenue as profit
+- Operating profit margin stays at 22% of revenue, well above many peers
+- Free cash flow margin of 21% means the business converts earnings to cash efficiently
+- Stock price up 21% over the past year and sits 97% of the way up its 52-week range, showing sustained momentum
 
 ### What to be careful about
-- Balance sheet: Debt is 25.3x shareholder equity
-- Valuation: Free cash flow yield 2.4%
-- Growth: Revenue +1% a year over 3 years
+- Three-year revenue growth averages only 1% per year, suggesting modest underlying business expansion
+- Valuation is steep at 37x earnings with a 2.5% free cash flow yield, leaving little room for disappointment
+- Debt is 25.3x shareholder equity, an extreme leverage ratio that concentrates financial risk
 
-**Watch next:** The next quarterly report: whether revenue growth of +6% holds.
+**Watch next:** Whether the 6% revenue growth in the latest quarter signals a real acceleration or a temporary bounce after years of 1% annual growth.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors seeking a stable, profitable cash-generative business should weigh the premium valuation and high debt against the company's pricing power and margins.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $4.0B (+4% vs prior year)

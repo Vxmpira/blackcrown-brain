@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Losing steam
 
-## Solid: shareholder returns stands out, balance sheet holds it back
+## Profitable travel platform generating strong cash but weighed down by debt and price weakness
 
-Expedia Group scores 58 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: losing steam.
+Expedia is an online travel booking platform that keeps 9% of revenue as profit and generates $3.1B in free cash annually. Revenue grew 12% last quarter, but the stock is down 24% from its 52-week high and flat over the past year.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Valuation: Free cash flow yield 10.1%
-- Profitability: Keeps 9% of revenue as profit
+- Free cash flow yield of 10.1% means the company generates cash relative to its market value faster than many peers
+- Net margin of 9% and operating margin of 13% show the core business converts sales into profit efficiently
+- Share count fell 18.4% over three years through buybacks, which concentrates ownership among remaining shareholders
 
 ### What to be careful about
-- Balance sheet: Debt is 3.3x shareholder equity
-- Price trend: Price is below its 200-day average
+- Debt of $5.5B is 3.3x shareholder equity, leaving limited room to weather downturns or invest in growth
+- Stock is down 24% from its 52-week high of $339.13 and up just 0.2% over the past year despite 12% latest quarter revenue growth
+- Analyst consensus is Hold with only 48% calling it a buy; 44 analysts covering suggests mature, uncertain sentiment
 
-**Watch next:** The next quarterly report: whether revenue growth of +12% holds.
+**Watch next:** Whether the recent quarterly revenue acceleration (12%) can sustain while the stock remains 24% below its peak, signaling whether growth is genuine or temporary.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Long-term investors comfortable with cyclical travel demand and elevated debt levels who value current cash generation over near-term price momentum.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $14.7B (+8% vs prior year)

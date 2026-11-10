@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: shareholder returns stands out, growth holds it back
+## Ball trades near 52-week highs on strong pricing power, but earnings fell 75% last year
 
-Ball Corporation scores 63 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Ball is a packaging and containers company that makes beverage cans and similar products. Revenue jumped 24% last quarter and the stock is up 35% over the past year, but annual earnings per share dropped 75% year over year. The company generates steady free cash flow and returns cash to shareholders through buybacks and a 1.5% dividend.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
-- Analyst consensus: 21 analysts, consensus Buy, 81% rate it a buy
+- Latest quarter revenue surged 24% year over year to $4.2B, showing strong recent demand
+- Stock climbed 35% in the past year and sits 90% of the way up its 52-week range, indicating investor confidence
+- Company shrunk share count by 13.8% over 3 years through buybacks, concentrating ownership among remaining shareholders
 
 ### What to be careful about
-- Growth: Revenue -1% a year over 3 years
+- Earnings per share fell 75% year over year despite revenue gains, signaling margin pressure or one-time costs
+- Trades at 33x earnings, well above typical valuations, leaving limited room for disappointment
+- Carries $7.1B in debt, or 1.2x shareholder equity, limiting financial flexibility if business slows
 
-**Watch next:** The next quarterly report: whether revenue growth of +24% holds.
+**Watch next:** Watch whether earnings per share rebounds toward historical levels in coming quarters, since the 75% drop last year was a major departure from the revenue growth story.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors who believe in the durability of pricing power in beverage containers and can tolerate high valuations and moderate debt levels.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $13.2B (+12% vs prior year)

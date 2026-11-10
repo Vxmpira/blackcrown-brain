@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Turning up
 
-## Solid: growth stands out, valuation holds it back
+## Packaging giant with strong revenue growth but thin margins and high valuation
 
-Smurfit WestRock scores 57 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: turning up.
+Smurfit WestRock is a large packaging and containers company that nearly doubled revenue in the latest year and has grown earnings per share 62% year over year. However, it keeps only 2% of revenue as profit and trades at 46 times earnings, which is steep relative to its modest profitability.
 
 ### What is working
-- Growth: Revenue +32% a year over 3 years
-- Balance sheet: Debt is 0.7x shareholder equity
+- Revenue grew 32% per year over three years and jumped 48% in the latest year
+- Earnings per share surged 62% year over year, showing leverage to sales growth
+- Analyst consensus is strong at 88% buy rating across 26 covering firms
 
 ### What to be careful about
-- Valuation: Free cash flow yield 5.2%
-- Profitability: Keeps 2% of revenue as profit
+- Net margin is just 2%, meaning the company keeps only $0.02 from every $1.00 in sales
+- Return on equity is 4%, suggesting weak returns on shareholder capital invested
+- Share count has grown 101.5% over three years, diluting each share's claim on profits
 
-**Watch next:** The next quarterly report: whether revenue growth of +2% holds.
+**Watch next:** Whether latest quarter revenue growth of only 2% year over year signals a slowdown in underlying demand or reflects normal cyclical softness in packaging.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Investors comfortable holding cyclical companies with thin margins and betting that operational scale and analyst optimism will drive future returns.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $31.2B (+48% vs prior year)

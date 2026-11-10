@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: shareholder returns stands out, valuation holds it back
+## Healthcare giant with strong price momentum but thin profits and steep valuation
 
-Humana scores 64 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Humana is a large health insurance and medical services company with $129.7 billion in annual revenue. It has grown revenue 12% per year over three years, with recent quarterly growth of 26%. However, the company keeps only 1% of revenue as profit, and its stock price has already risen 69% in the past year.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
-- Balance sheet: Debt is 0.7x shareholder equity
+- Revenue growth accelerating: latest quarter up 26% year over year versus 12% annual average
+- Strong price momentum: stock at 97% of its 52-week high, above both 50-day and 200-day averages
+- Returning cash to shareholders: share count down 4.9% over three years through buybacks, plus 0.7% dividend yield
 
 ### What to be careful about
-- Valuation: Free cash flow yield 0.7%
-- Profitability: Keeps 1% of revenue as profit
+- Profitability is very thin: net profit margin is only 1%, so the company keeps $1.30 profit per $129 in revenue
+- Valuation is stretched: P/E of 41.96 and free cash flow yield of 0.7% suggest little room for disappointment
+- Debt load is substantial: $12.5 billion in debt versus $6.9 billion in cash, though manageable at 0.7x equity
 
-**Watch next:** The next quarterly report: whether revenue growth of +26% holds.
+**Watch next:** Whether net margins can expand meaningfully above 1%, since the company's enormous revenue growth has not yet translated into proportional profit growth.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Investors comfortable with healthcare exposure who believe in the company's ability to improve profitability from its current thin margins, given the already-high stock price.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $129.7B (+10% vs prior year)

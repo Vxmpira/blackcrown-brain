@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Turning up
 
-## Solid: growth stands out, valuation holds it back
+## Fast-growing auto retailer trades expensively despite strong earnings rebound
 
-Carvana Co. scores 60 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: turning up.
+Carvana is an online used-car dealer posting exceptional growth. Revenue jumped 49% last year and earnings per share surged 431%. The company is profitable with positive free cash flow, but carries significant debt and trades at a very high multiple relative to earnings.
 
 ### What is working
-- Growth: Revenue +14% a year over 3 years
-- Analyst consensus: 32 analysts, consensus Buy, 69% rate it a buy
-- Profitability: Keeps 7% of revenue as profit
+- Revenue growth accelerating: +49% year over year in latest fiscal year, with Q3 2025 up 42%
+- Profitability recovered sharply: Net income $1.4B and EPS +431% year over year
+- Analyst consensus bullish: 69% of 32 analysts rate it a buy; consensus is Buy
 
 ### What to be careful about
-- Valuation: Free cash flow yield 1.1%
+- Valuation extremely expensive: P/E of 48.75x and free cash flow yield only 1.1%
+- Debt load meaningful: $5.2B debt against $3.0B cash; debt is 1.2x shareholder equity
+- Share dilution ongoing: Share count up 122.4% over past 3 years, diluting existing holders
 
-**Watch next:** The next quarterly report: whether revenue growth of +42% holds.
+**Watch next:** Whether the company can sustain 40%+ revenue growth while managing debt levels and reducing the gap between 50-day and 200-day price averages, which suggests early momentum questions.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Investors who believe in high-growth consumer cyclicals and can tolerate 61% annual volatility and premium valuations; not suited for value-focused or conservative buyers.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $20.3B (+49% vs prior year)

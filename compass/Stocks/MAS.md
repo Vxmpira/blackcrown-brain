@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Strong uptrend
 
-## Strong: shareholder returns stands out, growth holds it back
+## MAS rides strong price momentum but faces long-term revenue headwinds
 
-Masco scores 68 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Masco is a $16.6 billion industrial company that makes building products. It is profitable and generates cash, but revenue has shrunk 4% per year over three years. The stock price has climbed 35% in the past year and sits near its 52-week high.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
-- Valuation: Free cash flow yield 4.9%
+- Price is 90% of the way up its 52-week range and +35% over the past year, showing strong momentum.
+- Keeps 11% of revenue as net profit and generates $866 million in free cash flow annually.
+- Actively buying back shares; share count fell 9.5% over three years, which boosts per-share earnings.
 
 ### What to be careful about
-- Growth: Revenue -4% a year over 3 years
+- Revenue declined 3% last year and averaged -4% yearly over three years, signaling shrinking sales.
+- Debt is 14.3 times shareholder equity, indicating very high leverage relative to the balance sheet.
+- Analysts are split: only 41% rate it a buy, while consensus is Hold. Volatility runs 36% yearly.
 
-**Watch next:** The next quarterly report: whether revenue growth of +3% holds.
+**Watch next:** Whether the latest quarter's +3% revenue growth continues or if the three-year downtrend resumes.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable with cyclical industrial stocks who value current cash generation over near-term sales growth.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $7.6B (-3% vs prior year)

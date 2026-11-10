@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend
 
-## Solid: profitability stands out, price trend holds it back
+## Profitable streaming giant under pressure: strong earnings but stock down 43% in a year
 
-Netflix scores 60 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend.
+Netflix is a large entertainment company generating $45.2 billion in annual revenue with a 24% profit margin and $9.5 billion in free cash flow. The business is growing revenue at 12-13% per year, but its stock price has fallen sharply and sits near the low end of its 52-week range.
 
 ### What is working
-- Profitability: Keeps 24% of revenue as profit
-- Balance sheet: Debt is 0.4x shareholder equity
-- Growth: Revenue +13% a year over 3 years
+- Keeps 24% of revenue as profit, and generated $9.5B in free cash flow last year
+- Revenue grew 16% year over year to $45.2B, with earnings per share up 28%
+- Low debt burden: only 0.4x shareholder equity, giving financial flexibility
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
+- Stock down 43% over the past year and trades 2% of the way up its 52-week range
+- Share count grew 862.5% over 3 years, diluting ownership of existing shareholders
+- Stock price volatility runs 36% annually, meaning large swings are common
 
-**Watch next:** The next quarterly report: whether revenue growth of +12% holds.
+**Watch next:** Monitor whether the stock's downtrend reverses or continues, since the price sits near 52-week lows while the business remains profitable and growing.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors comfortable holding through significant price volatility who focus on profit and cash generation over price momentum.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $45.2B (+16% vs prior year)

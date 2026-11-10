@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend
 
-## Solid: profitability stands out, price trend holds it back
+## Profitable chip equipment maker slumping on price; strong earnings hide valuation concerns
 
-KLA Corporation scores 59 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend.
+KLA makes equipment that semiconductor manufacturers use to inspect and process chips. The company is highly profitable, generating 36 cents of profit per dollar of sales and $3.8 billion in free cash flow annually. Recent revenue jumped 29% year over year, but the stock has fallen 49% from its high and trades at 38 times earnings.
 
 ### What is working
-- Profitability: Keeps 36% of revenue as profit
-- Growth: Revenue +9% a year over 3 years
-- Balance sheet: Debt is 0.9x shareholder equity
+- Revenue growth accelerating: latest quarter up 29% year over year, well ahead of the 9% three-year average
+- Exceptional profitability: 36% net margin and 74% return on equity show the business converts sales to cash efficiently
+- Analyst support: 73% of 33 analysts rate it a buy despite the recent price decline
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Valuation: Free cash flow yield 1.9%
+- Valuation is steep: P/E of 38x and free cash flow yield of only 1.9% leave little room for disappointment
+- Stock momentum reversed sharply: down 19.4% in the past month and 15.4% over six months after a 28% gain last year
+- Shareholder dilution: share count grew 841% over three years, meaning existing shareholders own a shrinking piece of profits
 
-**Watch next:** The next quarterly report: whether revenue growth of +29% holds.
+**Watch next:** Whether the latest quarter's 29% revenue growth sustains or slows, since the high valuation depends on continued acceleration beyond the historical 9% annual trend.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Investors comfortable owning profitable but expensive businesses during downtrends, and those who believe semiconductor cycle strength will justify current multiples.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-06-30)
 - Revenue $13.6B (+12% vs prior year)

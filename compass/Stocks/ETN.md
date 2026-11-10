@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Losing steam
 
-## Solid: shareholder returns stands out, valuation holds it back
+## Industrial machinery maker growing fast but pricing stretched after recent pullback
 
-Eaton Corporation scores 59 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: losing steam.
+Eaton is a large industrial equipment company with $27.4B in annual revenue. It is growing revenue at 10% annually and keeps 15% of each dollar as profit. The company is returning cash to shareholders through buybacks and dividends.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Analyst consensus: 33 analysts, consensus Buy, 82% rate it a buy
-- Profitability: Keeps 15% of revenue as profit
+- Revenue surged 28% in the latest quarter versus a year ago, well above the 10% annual trend
+- Profitability is strong: 15% net margin and 19% return on equity show efficient operations
+- Free cash flow of $3.6B covers the 1.5% dividend twice over, leaving room for buybacks that shrink share count by 2.4% over three years
 
 ### What to be careful about
-- Valuation: Free cash flow yield 2.5%
-- Price trend: Price is below its 200-day average
+- Stock has fallen 4% over the past year and sits 22% below its 52-week high, suggesting recent momentum has stalled
+- P/E ratio of 35.93x is high for an industrial manufacturer, leaving less room for disappointment
+- Free cash flow yield of only 2.5% means you collect cash slowly relative to the price paid, typical of a premium valuation
 
-**Watch next:** The next quarterly report: whether revenue growth of +28% holds.
+**Watch next:** Whether the 28% quarterly revenue surge is sustainable or a temporary spike, since the valuation assumes growth will justify the 36x earnings multiple.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Patient investors comfortable holding industrial cyclicals at premium valuations who believe the company can sustain double-digit revenue growth.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $27.4B (+10% vs prior year)

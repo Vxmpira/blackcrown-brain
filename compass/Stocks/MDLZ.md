@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Solid: shareholder returns stands out, growth holds it back
+## Snack giant rides strong price momentum, but earnings growth has stalled
 
-Mondelez International scores 62 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: strong uptrend.
+Mondelez is a large food company making $38.5B in annual revenue, mostly from confectionery and snack products. The stock has climbed 15% in the past year and sits near its 52-week high. However, recent earnings per share fell 45% year over year, and revenue growth has slowed to just 2% in the latest quarter.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
-- Balance sheet: Debt is 0.8x shareholder equity
+- Stock price is 91% of the way up its 52-week range, with the 50-day average above the 200-day average, showing sustained upward momentum over the past year (+15%)
+- Company returned $100 in shareholder value per $100 invested, driven by buybacks shrinking share count by 6.3% over three years and a 2.4% dividend yield
+- Generates $3.2B in free cash flow annually with a stable 8% free cash flow margin, while 71% of 31 analysts rate the stock a buy
 
 ### What to be careful about
-- Growth: Revenue +7% a year over 3 years
+- Earnings per share dropped 45% year over year despite revenue growth, signaling profit pressures that offset top-line gains
+- Latest quarter revenue grew only 2% compared to a year ago, a sharp deceleration from the 7% average annual growth over three years
+- Trades at 21x earnings with a relatively modest 6% net profit margin, leaving little room for error if growth remains sluggish
 
-**Watch next:** The next quarterly report: whether revenue growth of +2% holds.
+**Watch next:** Whether the next two quarters show earnings recovery or continued decline, since the 45% EPS drop is the sharpest deterioration in the data.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Investors comfortable holding a defensive consumer stock for steady dividends and buybacks, but prepared for low single-digit earnings growth and moderate volatility.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $38.5B (+6% vs prior year)

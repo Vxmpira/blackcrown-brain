@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Strong uptrend
 
-## Solid: price trend stands out, balance sheet holds it back
+## Colgate near 52-week high with strong price momentum but slowing growth
 
-Colgate-Palmolive scores 59 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: strong uptrend.
+Colgate-Palmolive is a consumer defensive company that makes household and personal care products. It generated $20.4B in revenue last year with a 10% profit margin and $3.6B in free cash flow. The stock has climbed 24% over the past year and now sits near its 52-week high.
 
 ### What is working
-- Price trend: Price is above its 200-day average
-- Shareholder returns: Share count shrinking (buybacks)
-- Profitability: Keeps 10% of revenue as profit
+- Price momentum is strong: up 24% over one year and sitting 95% of the way up its 52-week range
+- Cash generation is solid: 18% free cash flow margin and $3.6B in annual free cash flow
+- Shareholder returns active: share count down 3.3% over three years via buybacks, plus 2.5% dividend yield
 
 ### What to be careful about
-- Balance sheet: Debt is 24.9x shareholder equity
-- Growth: Revenue +4% a year over 3 years
-- Valuation: Free cash flow yield 4.7%
+- Growth is sluggish: full-year revenue rose only 1% while earnings per share fell 25% year over year
+- Valuation looks stretched: trades at 38x earnings with a 4.7% free cash flow yield
+- Debt burden is extreme: owes $7.2B against only $290M in shareholder equity (24.9x leverage)
 
-**Watch next:** The next quarterly report: whether revenue growth of +5% holds.
+**Watch next:** Monitor whether earnings per share can reverse its 25% decline while revenue growth stays stuck near 1% to 5%.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Suits investors seeking stable dividend income and cash returns from an established brand, willing to accept limited growth and high leverage for defensive characteristics.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $20.4B (+1% vs prior year)

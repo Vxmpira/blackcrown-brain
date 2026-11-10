@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Strong uptrend
 
-## Solid: price trend stands out, balance sheet holds it back
+## Drug maker near 52-week high with strong cash generation but pricey valuation
 
-AbbVie scores 61 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: strong uptrend.
+AbbVie is a large pharmaceutical company generating $61.2B in annual revenue with a 25% operating margin. The stock has climbed 33% over the past year and trades near its highest point in the last 52 weeks.
 
 ### What is working
-- Price trend: Price is above its 200-day average
-- Profitability: Keeps 7% of revenue as profit
-- Shareholder returns: Share count flat
+- Stock price is 97% of the way up its 52-week range, showing sustained momentum
+- Free cash flow of $17.8B supports a 4.5% dividend yield with minimal share dilution
+- Operating margin of 25% and return on equity of 96% show strong operational efficiency
 
 ### What to be careful about
-- Balance sheet: Debt is 49.2x shareholder equity
-- Valuation: Free cash flow yield 3.4%
-- Growth: Revenue +2% a year over 3 years
+- Debt is 49.2x shareholder equity, indicating very high financial leverage
+- Stock trades at 50x earnings, which is significantly expensive relative to historical norms
+- Revenue growth has slowed to 2% annually over three years despite a recent 10% quarterly jump
 
-**Watch next:** The next quarterly report: whether revenue growth of +10% holds.
+**Watch next:** Whether the latest 10% quarterly revenue growth is sustainable or a one-time spike, since longer-term growth has been flat at 2% per year.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Investors seeking steady dividend income from a established healthcare company who are comfortable with high debt levels and above-average stock valuations.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $61.2B (+9% vs prior year)

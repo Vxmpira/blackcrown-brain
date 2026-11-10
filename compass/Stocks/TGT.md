@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Uptrend
 
-## Solid: price trend stands out, growth holds it back
+## Target: Strong price momentum masks slowing revenue growth and mixed analyst outlook
 
-Target Corporation scores 62 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: uptrend.
+Target is a large discount retailer with $104.8B in annual revenue. The stock has surged 74% over the past year and sits near 52-week highs. However, long-term revenue has contracted 1% per year over three years, and latest earnings per share fell 8% year over year.
 
 ### What is working
-- Price trend: Price is above its 200-day average
-- Shareholder returns: Share count shrinking (buybacks)
-- Valuation: Free cash flow yield 3.9%
+- Stock price up 74% over past year and trades 87% of the way up its 52-week range
+- Generates $2.8B in free cash flow with 3.8% yield; return on equity is strong at 21%
+- Latest quarter revenue grew 5% year over year; company returned cash to shareholders via 2% share buyback over 3 years
 
 ### What to be careful about
-- Growth: Revenue -1% a year over 3 years
+- Full-year revenue fell 2% versus prior year; three-year trend shows 1% annual decline
+- Earnings per share down 8% year over year despite recent quarterly revenue growth
+- Analysts are split: only 37% rate it a buy, and consensus is Hold; stock sits 6% below its 52-week high
 
-**Watch next:** The next quarterly report: whether revenue growth of +5% holds.
+**Watch next:** Whether the recent 5% quarterly revenue growth sustains or reverses back toward the longer-term contraction trend.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors comfortable with mature, slow-growth retailers that pay steady dividends (3.4% yield) and buy back shares, without expecting rapid expansion.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-01-31)
 - Revenue $104.8B (-2% vs prior year)

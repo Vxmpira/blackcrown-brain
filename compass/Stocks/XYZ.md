@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Uptrend
 
-## Solid: balance sheet stands out, valuation holds it back
+## Strong momentum and balance sheet offset pricey valuation and flat annual revenue
 
-Block, Inc. scores 59 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: uptrend.
+Block is a software infrastructure company with $24.2B in annual revenue that grew 10% last quarter. The company is profitable with $2.4B in free cash flow and $2.1B in net cash. However, full-year revenue was flat compared to the prior year, and earnings per share dropped 54%.
 
 ### What is working
-- Balance sheet: Net cash of $2.1B
-- Price trend: Price is above its 200-day average
+- Price momentum is strong: up 31% over the past year and sitting 93% up its 52-week range
+- Balance sheet is fortress-like: $2.1B in net cash with $7.9B cash on hand against $5.7B debt
+- Generates substantial free cash: $2.4B annually, giving a 10% free cash flow margin
 
 ### What to be careful about
-- Valuation: Free cash flow yield 4.5%
-- Growth: Revenue +11% a year over 3 years
+- Valuation is stretched: stock trades at 112x earnings, with only a 4.7% free cash flow yield
+- Revenue growth stalled: full-year revenue was flat at $24.2B versus prior year, despite 10% recent quarterly growth
+- Earnings collapsed: earnings per share fell 54% year over year, though net income was $1.3B
 
-**Watch next:** The next quarterly report: whether revenue growth of +10% holds.
+**Watch next:** Whether quarterly revenue growth of 10% can translate into a return to full-year revenue expansion without further compression of earnings.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Investors comfortable with high valuations who want exposure to profitable software infrastructure with a strong cash position and are willing to accept near-term earnings volatility.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $24.2B (+0% vs prior year)

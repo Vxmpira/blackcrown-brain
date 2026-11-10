@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Turning up
 
-## Solid: profitability stands out, balance sheet holds it back
+## Tower REIT with fortress profitability but heavy debt load and slowing revenue
 
-American Tower scores 59 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: turning up.
+American Tower is a real estate investment trust that owns and operates communication towers. It generates exceptional cash profits with 281% net margins, but carries 11.1x debt-to-equity and just posted an 18% quarterly revenue drop despite full-year growth.
 
 ### What is working
-- Profitability: Keeps 281% of revenue as profit
-- Analyst consensus: 29 analysts, consensus Buy, 86% rate it a buy
-- Shareholder returns: Share count growing (dilution)
+- Profitability is extreme: free cash flow margin of 404% and return on equity of 75% show the core business generates cash reliably
+- Dividend yield of 3.2% plus price up 5% over the past year provides income plus modest appreciation
+- Analyst consensus is strong: 86% of 29 analysts rate it a buy, though this reflects backward-looking views
 
 ### What to be careful about
-- Balance sheet: Debt is 11.1x shareholder equity
-- Growth: Revenue +4% a year over 3 years
+- Latest quarter revenue fell 18% year over year, a sharp reversal that signals near-term headwinds or accounting changes
+- Debt is 11.1x shareholder equity, leaving little margin for error if cash flows weaken further or refinancing costs rise
+- Share count growing by 1.3% over three years shows dilution to existing shareholders from equity issuance
 
-**Watch next:** The next quarterly report: whether revenue growth of -18% holds.
+**Watch next:** The next earnings report must clarify whether the 18% quarterly revenue drop reflects a structural shift or a one-time event, since annual revenue still grew 21%.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** This profile suits patient income-focused investors willing to accept high leverage in exchange for stable cash generation and a 3.2% dividend, provided they understand the debt risk.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $935.9M (+21% vs prior year)

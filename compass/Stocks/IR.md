@@ -14,22 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Turning up
 
-## Solid: balance sheet stands out, growth holds it back
+## Industrial machinery maker with steady growth and strong balance sheet, but earnings fell sharply
 
-Ingersoll Rand scores 56 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: turning up.
+Ingersoll Rand makes industrial machinery and generates $7.7B in annual revenue. The company is profitable and produces substantial free cash flow. Earnings per share dropped 30% year over year, even as revenue grew 6%.
 
 ### What is working
-- Balance sheet: Debt is 0.3x shareholder equity
-- Shareholder returns: Share count shrinking (buybacks)
+- Revenue growing 9% annually over three years, with latest quarter up 6% year over year
+- Strong balance sheet: debt is only 0.3x shareholder equity, with $1.3B in cash on hand
+- Free cash flow margin of 16% and $1.2B generated last year; actively shrinking share count through buybacks
 
 ### What to be careful about
-- Growth: Revenue +9% a year over 3 years
+- Earnings per share fell 30% year over year despite revenue gains, signaling margin pressure or higher costs
+- Return on equity is just 6%, meaning the company generates modest returns on shareholder capital deployed
+- Stock trades at 24x earnings; valuation sits above historical norms for industrial machinery companies
 
-**Watch next:** The next quarterly report: whether revenue growth of +6% holds.
+**Watch next:** Monitor whether the 30% earnings decline reverses in coming quarters or continues despite revenue growth, as this will show if margin pressure is temporary or structural.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Suits long-term investors comfortable with a steady industrial manufacturer that throws off cash but faces near-term profitability headwinds.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $7.7B (+6% vs prior year)

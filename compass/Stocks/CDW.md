@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: price trend stands out, balance sheet holds it back
+## Tech distributor near 52-week high with recent momentum but high debt load
 
-CDW scores 62 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+CDW is a technology distributor and services company with $22.4 billion in annual revenue. The business generated $1.1 billion in free cash flow last year and keeps 5% of revenue as profit. Stock price has climbed 17% over the past year and sits near its highest point in the last 52 weeks.
 
 ### What is working
-- Price trend: Price is above its 200-day average
-- Shareholder returns: Share count shrinking (buybacks)
-- Valuation: Free cash flow yield 5.3%
+- Price momentum is strong: up 16% in one month, 67.9% in six months, and trades 97% of the way up its 52-week range
+- Latest quarter revenue jumped 18% year over year, showing recent acceleration despite three-year revenue decline of 2% annually
+- Generates steady free cash flow of $1.1 billion with a 5.3% free cash flow yield and returns 40% on shareholder equity
 
 ### What to be careful about
-- Balance sheet: Debt is 2.7x shareholder equity
-- Growth: Revenue -2% a year over 3 years
+- Debt is 2.7 times shareholder equity at $7.1 billion, which is a substantial financial obligation relative to the company's size
+- Stock trades at 19x earnings with a yearly volatility of 49%, meaning price swings can be wide and valuation is not cheap
+- Three-year revenue trend declined 2% annually on average, even though the latest quarter showed recovery
 
-**Watch next:** The next quarterly report: whether revenue growth of +18% holds.
+**Watch next:** Watch whether the 18% latest-quarter revenue growth can sustain or if it reverts to the three-year declining trend, since this inflection point will shape the recovery narrative.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Suits long-term investors comfortable with moderate debt and recent momentum in a cyclical tech sector, who can tolerate significant price volatility.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $22.4B (+7% vs prior year)

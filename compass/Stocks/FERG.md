@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Turning up
 
-## Solid: shareholder returns stands out, growth holds it back
+## Industrial distributor with steady cash generation and shrinking share count
 
-Ferguson Enterprises Inc. scores 60 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: turning up.
+Ferguson is a large industrial distributor with $30.8B in annual revenue. It converts 6% of sales into profit and generates $1.6B in free cash flow yearly. The company is returning cash to shareholders through buybacks and a 1.8% dividend.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Analyst consensus: 30 analysts, consensus Buy, 70% rate it a buy
-- Profitability: Keeps 6% of revenue as profit
+- Latest quarter revenue jumped 9% year over year, well ahead of the 2% annual 3-year growth rate
+- Return on equity of 28% means the company deploys shareholder capital efficiently
+- Share count has shrunk 9% over three years through buybacks, concentrating ownership
 
 ### What to be careful about
-- Growth: Revenue +2% a year over 3 years
+- Long-term revenue growth is just 2% annually over three years, showing limited expansion
+- Debt of $6.2B is substantial relative to $1.9B in annual net income
+- Price trades at 21x earnings with a 3.1% free cash flow yield, near the middle of typical valuation ranges
 
-**Watch next:** The next quarterly report: whether revenue growth of +9% holds.
+**Watch next:** Whether the 9% latest-quarter revenue growth sustains or reverts to the slower 2% annual trend.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors seeking steady cash generation and shareholder returns from a mature, defensive industrial business rather than rapid growth.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-07-31)
 - Revenue $30.8B (+4% vs prior year)

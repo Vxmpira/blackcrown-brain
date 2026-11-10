@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Strong uptrend
 
-## Solid: shareholder returns stands out, growth holds it back
+## Strong price rally masks slowing revenue; profitability and cash generation remain solid
 
-Deere & Company scores 59 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: strong uptrend.
+Deere is a large industrial equipment manufacturer that saw full-year revenue fall 12% to $45.7B, though the latest quarter showed a +5% rebound. The company keeps 11% of revenue as profit and generates $6.1B in free cash annually. It trades at a premium valuation after a 45% one-year price run.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
-- Profitability: Keeps 11% of revenue as profit
+- Price up 45% over the past year and sits 87% of the way up its 52-week range, showing sustained upward momentum
+- Profitability strong: 11% net margin, 20% operating margin, and 18% return on equity demonstrate efficient operations
+- Free cash flow of $6.1B and shrinking share count (down 11.3% over 3 years) via buybacks support per-share value
 
 ### What to be careful about
-- Growth: Revenue -5% a year over 3 years
-- Valuation: Free cash flow yield 3.3%
+- Revenue declined 12% year over year and -5% annually over 3 years, signaling long-term demand headwinds
+- Valuation stretched at 38x earnings and 3.3% free cash flow yield; stock is 5% from its 52-week high
+- Debt at $32.4B is 1.2x shareholder equity, indicating meaningful leverage that limits financial flexibility
 
-**Watch next:** The next quarterly report: whether revenue growth of +5% holds.
+**Watch next:** Track whether the latest quarter's +5% revenue rebound continues or whether the full-year decline signals an industry slowdown.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Suits investors seeking exposure to industrial cyclicals with solid current cash generation but who can tolerate high valuation multiples and recent sharp price appreciation.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-11-02)
 - Revenue $45.7B (-12% vs prior year)

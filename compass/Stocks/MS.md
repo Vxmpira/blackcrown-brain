@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend
 
-## Solid: shareholder returns stands out, price trend holds it back
+## Morgan Stanley shows growth and income, but price momentum has faded
 
-Morgan Stanley scores 60 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend.
+Morgan Stanley is a large financial services firm that earned $16.9 billion on $70.6 billion in revenue last year. The company has grown revenue 10% annually over three years and is returning cash to shareholders through buybacks and a 4.3% dividend yield.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Valuation: Trades at 15x earnings
-- Profitability: Keeps 24% of revenue as profit
+- Revenue grew 12% in the latest quarter and 14% last full year, outpacing its 3-year average of 10%
+- Keeps 24% of every revenue dollar as profit, showing solid cost control
+- Share count down 7.1% over three years through buybacks, concentrating gains among remaining shareholders
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
+- Stock price sits 18% below its 52-week high and trades below its 200-day moving average, suggesting recent weakness
+- Free cash flow was negative $17.9 billion last year, meaning the company spent more cash than it generated
+- Debt of $378.1 billion is nearly three times the company's annual profit, a high leverage level for any business
 
-**Watch next:** The next quarterly report: whether revenue growth of +12% holds.
+**Watch next:** Whether the negative free cash flow from last year reverses in coming quarters, since sustained cash burn would raise questions about dividend and buyback sustainability.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors seeking steady dividend income who can tolerate financial sector volatility and are comfortable holding through price swings in downtrends.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $70.6B (+14% vs prior year)

@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Turning up
 
-## Strong: shareholder returns stands out, growth holds it back
+## Profitable restaurant giant with heavy debt but strong cash returns
 
-Yum! Brands scores 68 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: turning up.
+Yum! Brands operates a massive restaurant portfolio and converts revenue into cash efficiently. The company keeps 19% of revenue as profit and generates substantial free cash flow despite carrying $11.8B in debt against $2.1B in equity.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Profitability: Keeps 19% of revenue as profit
-- Valuation: Free cash flow yield 3.7%
+- Profitability is exceptionally strong: 19% net margin, 31% operating margin, and $1.6B in free cash flow
+- Shareholder returns are generous: 1.9% dividend yield plus ongoing buybacks that have reduced share count 3.1% over three years
+- Valuation appears reasonable: P/E of 12.56 and free cash flow yield of 3.8% are modest multiples for this profitability level
 
 ### What to be careful about
-- Growth: Revenue +6% a year over 3 years
+- Debt load is severe: $11.8B in debt versus $2.1B in equity, meaning debt is 31.0x shareholder equity
+- Growth is slowing: Revenue growth fell from 6% annual average to just 4% in the latest quarter
+- Analyst sentiment is lukewarm: Only 50% of 32 analysts rate it a buy, with consensus at Hold rather than Buy
 
-**Watch next:** The next quarterly report: whether revenue growth of +4% holds.
+**Watch next:** Monitor whether quarterly revenue growth accelerates from 4% or continues to slow, since expansion has already decelerated from the 3-year trend.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Suits investors seeking stable cash-generating businesses that return capital through dividends and buybacks, but are comfortable with high financial leverage.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $8.2B (+9% vs prior year)

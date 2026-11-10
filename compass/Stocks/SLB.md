@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Losing steam
 
-## Solid: balance sheet stands out, growth holds it back
+## Oil services giant showing uneven growth with strong cash generation and analyst backing
 
-Schlumberger scores 59 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: losing steam.
+Schlumberger is a major oil and gas equipment and services company with $35.7 billion in annual revenue. It generates significant free cash flow of $4.8 billion per year and maintains a strong balance sheet with low debt relative to equity. However, full-year revenue declined 2 percent while earnings per share fell 24 percent year over year.
 
 ### What is working
-- Balance sheet: Debt is 0.4x shareholder equity
-- Valuation: Free cash flow yield 6.7%
-- Shareholder returns: Share count flat
+- Free cash flow margin of 13% and $4.8 billion annual free cash flow provide funds for dividends and reinvestment
+- Balance sheet strength with debt at only 0.4x shareholder equity limits financial risk
+- Analyst consensus is Buy with 85% of 34 analysts rating it a buy, suggesting confidence in the business
 
 ### What to be careful about
-- Growth: Revenue +8% a year over 3 years
+- Annual revenue down 2% in fiscal 2025 despite 8% growth over three years, signaling recent momentum loss
+- Earnings per share fell 24% year over year, indicating profit pressures even as revenue grew 6% in the latest quarter
+- Stock is down 10.5% over six months and trades 17% below its 52-week high, with yearly volatility at 37%
 
-**Watch next:** The next quarterly report: whether revenue growth of +6% holds.
+**Watch next:** Whether the latest quarter's 6% revenue growth can accelerate full-year results and reverse the 24% earnings per share decline seen in fiscal 2025.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors seeking cash-generative exposure to oil and gas services who can tolerate 37% annual price swings and are comfortable with energy sector cyclicality.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $35.7B (-2% vs prior year)

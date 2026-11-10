@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Solid: shareholder returns stands out, balance sheet holds it back
+## IQV rides strong price momentum but carries heavy debt and high valuation
 
-IQVIA scores 60 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: strong uptrend.
+IQVIA is a healthcare research and diagnostics company with $16.3B in annual revenue. It has grown earnings modestly while maintaining solid profitability and cash generation. The stock has climbed 31% in the past year and sits near its 52-week high.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
-- Profitability: Keeps 8% of revenue as profit
+- Price is up 31% over the past year and sits 96% of the way up its 52-week range, showing sustained strength.
+- Generates $2.1B in free cash flow annually with a 13% free cash flow margin, supporting buybacks and dividends.
+- Return on equity of 20% and 92% of analysts rating it a buy signal confidence from both the company and Wall Street.
 
 ### What to be careful about
-- Balance sheet: Debt is 2.4x shareholder equity
-- Growth: Revenue +4% a year over 3 years
+- Debt stands at $16.1B versus only $6.8B in shareholder equity, a 2.4x ratio that limits financial flexibility.
+- Trades at 33x earnings, which is high, while revenue growth has averaged only 4% per year over three years.
+- Yearly volatility is 41%, meaning the stock can swing sharply; it is already down 2% from its 52-week high.
 
-**Watch next:** The next quarterly report: whether revenue growth of +8% holds.
+**Watch next:** Watch whether the company can accelerate revenue growth beyond the recent 8% quarterly pace while managing its $16.1B debt load.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Suits long-term investors comfortable holding volatile healthcare stocks at premium valuations who value consistent cash generation and analyst support.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $16.3B (+6% vs prior year)

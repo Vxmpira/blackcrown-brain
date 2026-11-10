@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend, bouncing
 
-## Solid: balance sheet stands out, price trend holds it back
+## Growing REIT with strong cash flow but high valuation and rising share count
 
-Realty Income scores 58 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend, bouncing.
+Realty Income is a real estate investment trust that owns and leases retail properties. It has grown revenue 20% annually over three years and generates substantial free cash flow. The company prioritizes shareholder distributions through dividends.
 
 ### What is working
-- Balance sheet: Debt is 0.1x shareholder equity
-- Profitability: Keeps 19% of revenue as profit
-- Growth: Revenue +20% a year over 3 years
+- Revenue up 20% per year over 3 years; latest quarter +10% year-over-year
+- Free cash flow margin of 67% with $3.9B generated last year
+- Very strong balance sheet: debt only 0.1x shareholder equity
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
+- Share count up 48.4% over 3 years, diluting existing shareholders
+- Trading at 42x earnings, which is elevated for a REIT
+- Price down 41% from its 52-week high and sits below its 200-day average
 
-**Watch next:** The next quarterly report: whether revenue growth of +10% holds.
+**Watch next:** Whether the company can sustain 10%+ quarterly revenue growth while managing the dilution from increasing share count.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Long-term investors seeking steady dividend income who are comfortable with retail real estate exposure and can tolerate current valuation levels and recent price weakness.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $5.7B (+9% vs prior year)

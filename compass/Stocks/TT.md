@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend
 
-## Solid: shareholder returns stands out, price trend holds it back
+## Profitable industrial company in a slump, but fundamentals stay strong
 
-Trane Technologies scores 59 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend.
+Trane Technologies is a large industrials company generating $21.3B in annual revenue with solid profitability (14% net margin) and strong cash generation ($3.2B free cash flow). The stock price has fallen 2% over the past year and sits 16% below its 52-week high, though recent quarterly revenue grew 18% year over year.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Balance sheet: Debt is 0.5x shareholder equity
-- Profitability: Keeps 14% of revenue as profit
+- Net margin of 14% and free cash flow margin of 15% show the business converts sales into real cash efficiently
+- Latest quarter revenue jumped 18% year over year, well ahead of the 7% full-year growth rate
+- Return on equity of 32% and shrinking share count via buybacks mean capital is being deployed effectively
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
+- Stock price is 37% below its 52-week high and sits below its 200-day moving average, signaling downward momentum
+- Trading at 29x earnings is above historical norms for industrials, leaving less margin for disappointment
+- Free cash flow yield of only 3.5% is modest, meaning investors are paying a premium to cash generated
 
-**Watch next:** The next quarterly report: whether revenue growth of +18% holds.
+**Watch next:** Whether the 18% recent quarterly revenue growth can sustain or whether it fades back toward the slower 7% annual pace.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable holding through price volatility (30% yearly swings) who value cash generation and profitability over near-term price appreciation.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $21.3B (+7% vs prior year)

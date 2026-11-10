@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Uptrend
 
-## Solid: shareholder returns stands out, growth holds it back
+## Packaging giant riding strong price momentum, but earnings growth lags revenue
 
-Packaging Corporation of America scores 62 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: uptrend.
+Packaging Corporation of America makes containers and cardboard products. The company generated $9.0B in revenue last year with a 9% profit margin. It trades near the top of its 52-week range after a 26% gain over the past year.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
-- Balance sheet: Debt is 0.8x shareholder equity
+- Stock price momentum: up 26% in the past year and trades 90% of the way up its 52-week range of $191.68 to $259.17
+- Latest revenue jumped 12% year over year to $2.6B in the most recent quarter, showing recent demand strength
+- Returns cash to shareholders: dividend yield 3.2%, free cash flow yield 3.2%, and share count down 3.3% over three years via buybacks
 
 ### What to be careful about
-- Growth: Revenue +2% a year over 3 years
-- Valuation: Free cash flow yield 3.2%
+- Earnings per share fell 4% year over year despite revenue growth, signaling margin pressure or cost headwinds
+- Expensive valuation: trades at 31x earnings and free cash flow yield of only 3.2% leaves little room for error
+- Long-term revenue growth stalled: only 2% annual growth over three years even though latest quarter showed 12% pop
 
-**Watch next:** The next quarterly report: whether revenue growth of +12% holds.
+**Watch next:** Whether earnings per share can return to growth in coming quarters, or if margin pressure will persist despite strong recent revenue gains.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable with cyclical stocks who want steady dividends and buybacks from a mature industrial company, but can tolerate high current valuation and slowing earnings growth.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $9.0B (+7% vs prior year)

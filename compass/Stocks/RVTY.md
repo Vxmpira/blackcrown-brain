@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Strong uptrend
 
-## Solid: shareholder returns stands out, valuation holds it back
+## Strong price momentum masks slow revenue growth and high valuation
 
-Revvity scores 61 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: strong uptrend.
+Revvity is a diagnostics and research company with $2.9 billion in annual revenue. The stock has surged 74% in the past year and sits near its 52-week high, but the underlying business is growing slowly and trades at a steep multiple.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
-- Balance sheet: Debt is 0.4x shareholder equity
+- Stock price up 74% over the past year and 59% over six months, with 50-day average above 200-day average
+- Generates $509.4 million in free cash flow annually with an 18% free cash flow margin
+- Low debt relative to equity at 0.4x, and actively buying back shares (down 7.8% over three years)
 
 ### What to be careful about
-- Valuation: Free cash flow yield 2.8%
-- Growth: Revenue -5% a year over 3 years
+- Revenue declined 5% per year on average over the past three years, though latest quarter showed +1% growth
+- Trades at 70x earnings, which is expensive relative to the 2.9% free cash flow yield
+- Net profit margin of only 8%, and return on equity is just 3% despite the high stock valuation
 
-**Watch next:** The next quarterly report: whether revenue growth of +1% holds.
+**Watch next:** Whether quarterly revenue growth accelerates above 1% year-over-year, since the three-year trend has been negative.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors comfortable with high valuations and betting on a turnaround in growth, rather than those seeking value or steady earnings expansion.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-28)
 - Revenue $2.9B (+4% vs prior year)

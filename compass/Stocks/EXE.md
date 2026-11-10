@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend
 
-## Solid: valuation stands out, price trend holds it back
+## Energy producer posting strong cash flow but stuck in year-long downtrend
 
-Expand Energy scores 58 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend.
+EXE is an oil and gas exploration and production company generating $12.1B in annual revenue. It swung to $1.8B in net profit this year while producing substantial free cash flow. The stock has fallen 23% over the past year despite analyst optimism.
 
 ### What is working
-- Valuation: Free cash flow yield 9.3%
-- Balance sheet: Debt is 0.2x shareholder equity
-- Analyst consensus: 33 analysts, consensus Buy, 82% rate it a buy
+- Free cash flow yield of 9.3% is high for any sector, meaning the company generates significant cash relative to market value
+- Net profit margin of 15% shows the company keeps a meaningful slice of revenue as earnings
+- Analyst consensus is Buy, with 82% of 33 analysts rating it a buy
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
+- Price is down 23% over the past year and sits near the bottom of its 52-week range at only 6% from the low
+- Share count has grown 64.7% over three years, diluting existing shareholders
+- Long-term revenue growth is flat at only 1% per year over three years, despite latest quarter up 11%
 
-**Watch next:** The next quarterly report: whether revenue growth of +11% holds.
+**Watch next:** Whether the recent 11% quarterly revenue growth sustains or represents a temporary spike in a stagnant long-term trend.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors seeking high cash yield who can tolerate energy sector volatility and stock price declines while holding for years.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $12.1B (+186% vs prior year)

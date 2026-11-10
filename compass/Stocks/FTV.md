@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Turning up
 
-## Solid: shareholder returns stands out, growth holds it back
+## FTV climbing after years of revenue decline; now profitable with solid cash generation
 
-Fortive scores 58 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: turning up.
+Fortive is an industrial technology company that makes equipment and parts. Revenue has shrunk 11% per year over three years, but the latest quarter showed 8% growth and the company generates strong cash profits. The stock is up 30% in the past year and near its 52-week high.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Balance sheet: Debt is 0.6x shareholder equity
-- Price trend: Price is above its 200-day average
+- Free cash flow margin of 24% shows the company turns sales into cash efficiently
+- Price up 30% over the past year and sits 90% up its 52-week range, suggesting positive momentum
+- Net profit margin of 13% and operating margin of 17% demonstrate solid underlying profitability
 
 ### What to be careful about
-- Growth: Revenue -11% a year over 3 years
-- Analyst consensus: 22 analysts, consensus Hold, 32% rate it a buy
+- Revenue fell 11% per year on average over the past 3 years, though latest quarter reversed this trend
+- Earnings per share dropped 27% year over year, a sharp decline despite revenue growth
+- Trades at 31x earnings, which is relatively expensive compared to typical industrial companies
 
-**Watch next:** The next quarterly report: whether revenue growth of +8% holds.
+**Watch next:** Watch whether the latest quarter's 8% revenue growth can sustain, since the company has been in decline for three years before this turnaround signal.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Suits long-term investors who can tolerate volatility (28% yearly swings) and are willing to bet on an industrial company rebounding from revenue decline while generating strong cash.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $4.2B (+2% vs prior year)

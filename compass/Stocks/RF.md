@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Neutral read · trend: Downtrend, bouncing
 
-## Strong: valuation stands out, price trend holds it back
+## Regional bank with strong earnings growth but stock momentum stalling
 
-Regions Financial Corporation scores 64 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: downtrend, bouncing.
+Regions Financial is a regional bank that grew revenue 24% last year and keeps 2073% of revenue as profit. It trades at 11x earnings, pays a 6.0% dividend, and is buying back shares. However, the stock price has fallen 11% from its 52-week high and sits below its 200-day average.
 
 ### What is working
-- Valuation: Trades at 11x earnings
-- Shareholder returns: Share count shrinking (buybacks)
-- Growth: Revenue +14% a year over 3 years
+- Revenue jumped 24% year over year with a three-year average growth rate of 14%
+- Dividend yield of 6.0% with share count shrinking 4.9% over three years through buybacks
+- Free cash flow yield of 8.8% and P/E of 10.74 suggest low valuation relative to earnings
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
+- Stock is 11% below its 52-week high and trades below its 200-day moving average
+- Analyst consensus is Hold with only 42% rating it a buy, suggesting skepticism despite growth
+- Yearly volatility of 23% means price swings are substantial for this type of holding
 
-**Watch next:** The next quarterly report: whether revenue growth of +24% holds.
+**Watch next:** Whether revenue growth can stay near 24% year over year or if it slows toward the three-year average of 14%.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Long-term investors seeking current income from dividends who can tolerate stock price volatility typical of regional banks.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2021-12-31)
 - Revenue $104.0M (+24% vs prior year)

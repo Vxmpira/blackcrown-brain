@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Turning up
 
-## Solid: balance sheet stands out, growth holds it back
+## Home builder with strong balance sheet but shrinking revenue and earnings
 
-PulteGroup scores 60 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: turning up.
+PulteGroup is a residential construction company generating $17.3 billion in annual revenue and $2.2 billion in net profit. Revenue fell 4% year over year, and the latest quarter showed a 10% decline. The company maintains a fortress balance sheet with $1.3 billion in net cash and generates substantial free cash flow.
 
 ### What is working
-- Balance sheet: Net cash of $1.3B
-- Shareholder returns: Share count shrinking (buybacks)
-- Valuation: Free cash flow yield 6.7%
+- Profitability remains solid: 13% net margin and 17% return on equity show efficient operations
+- Strong cash position and buybacks: $1.3B net cash, share count down 15.5% over 3 years, and 7.0% free cash flow yield
+- Valuation looks reasonable: trades at 14x earnings with 7.0% free cash flow yield, near the low end of historical ranges
 
 ### What to be careful about
-- Growth: Revenue +3% a year over 3 years
+- Revenue declining sharply: down 10% in the latest quarter and -4% for the full year; long-term growth is just 3% annually over 3 years
+- Earnings under pressure: EPS fell 24% year over year, signaling margin or volume stress in the current market
+- Analyst consensus is cautious: 58% buy rating with a Hold consensus suggests uncertainty about near-term direction despite the cheap valuation
 
-**Watch next:** The next quarterly report: whether revenue growth of -10% holds.
+**Watch next:** Track whether the latest quarter's 10% revenue decline stops or accelerates, as this will show whether home builder demand is stabilizing or deteriorating further.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** This profile suits patient investors who can tolerate construction cycle volatility and want exposure to a profitable builder with minimal debt and shareholder-friendly capital allocation, even as near-term earnings contract.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $17.3B (-4% vs prior year)

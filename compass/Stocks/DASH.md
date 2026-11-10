@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Losing steam
 
-## Solid: growth stands out, shareholder returns holds it back
+## DoorDash grows fast but trades expensive; stock down 14% in a year
 
-DoorDash scores 61 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: losing steam.
+DoorDash is an internet food delivery platform with strong revenue growth of 28% annually over three years and latest quarter revenue up 34% year over year. The company turned profitable in 2025 with net income of $935.0M and holds $5.1B in net cash. However, it trades at a steep valuation and its stock price has lost ground recently.
 
 ### What is working
-- Growth: Revenue +28% a year over 3 years
-- Balance sheet: Net cash of $5.1B
-- Analyst consensus: 51 analysts, consensus Buy, 80% rate it a buy
+- Revenue growing 28% per year over 3 years; latest quarter jumped 34% year over year
+- Swung to profit in 2025 with $935.0M net income and 7% net margin
+- Strong balance sheet: $5.1B net cash with no debt; 80% of analysts rate it a buy
 
 ### What to be careful about
-- Shareholder returns: Share count growing (dilution)
-- Valuation: Free cash flow yield 2.8%
-- Price trend: Price is below its 200-day average
+- Stock down 14% over the past year and 26% from its 52-week high of $236.93
+- Trades at 74x earnings; free cash flow yield only 2.8% leaves little room for error
+- Share count grew 18.4% over 3 years (dilution); return on equity just 9%
 
-**Watch next:** The next quarterly report: whether revenue growth of +34% holds.
+**Watch next:** Whether the company can maintain its 34% quarterly revenue growth rate while the stock remains 32% below its 52-week high.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Long-term investors who believe in high growth and can tolerate volatile stocks trading at premium valuations with delayed returns.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $13.7B (+28% vs prior year)

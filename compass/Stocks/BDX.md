@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: price trend stands out, valuation holds it back
+## Medical-device giant with strong price momentum but expensive valuation
 
-Becton Dickinson scores 63 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Becton Dickinson is a large healthcare company generating $21.8B in annual revenue from medical instruments and supplies. It grew revenue 8% last year and maintains a steady 8% net profit margin. The stock has surged 52% over the past year and sits near its 52-week high.
 
 ### What is working
-- Price trend: Price is above its 200-day average
-- Balance sheet: Debt is 0.7x shareholder equity
-- Shareholder returns: Share count flat
+- Price momentum is strong: up 52% over the past year and 96% of the way through its 52-week range
+- Balance sheet is solid: debt is only 0.7x shareholder equity, showing manageable leverage
+- Generates real cash: free cash flow of $2.7B last year and a 12% free cash flow margin
 
 ### What to be careful about
-- Valuation: Free cash flow yield 4.6%
-- Growth: Revenue +5% a year over 3 years
+- Valuation is steep: trades at 50x earnings, well above historical averages for the sector
+- Growth is slowing: revenue expanded only 5% annually over three years, and latest quarter was just 5%
+- Earnings are flat: earnings per share declined 1% year over year despite revenue growth
 
-**Watch next:** The next quarterly report: whether revenue growth of +5% holds.
+**Watch next:** Whether earnings per share can return to growth in the coming quarters, as revenue growth alone has not translated to bottom-line expansion.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Patient investors seeking a stable healthcare company with cash generation who are comfortable buying after a large run-up and can tolerate below-average earnings growth.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-09-30)
 - Revenue $21.8B (+8% vs prior year)

@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Neutral read · trend: Downtrend, bouncing
 
-## Solid: balance sheet stands out, price trend holds it back
+## Profitable giant hit hard by price fall; cash generation and valuation look cheap
 
-PDD Holdings scores 57 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend, bouncing.
+PDD Holdings is a large Chinese consumer-focused company generating $61.8B in annual revenue with a 23% profit margin. The stock has fallen 41% over the past year and now trades at 8x earnings with strong cash generation, though recent earnings per share declined 9% despite revenue growth.
 
 ### What is working
-- Balance sheet: Net cash of $15.6B
-- Profitability: Keeps 23% of revenue as profit
-- Growth: Revenue +48% a year over 3 years
+- Generates $15.3B in free cash flow annually with a 25% margin, meaning cash is plentiful
+- Trades at 8x earnings and offers a 13.4% free cash flow yield, both suggesting a low entry price
+- Keeps 23% of revenue as profit and earns 24% return on equity, showing strong operational efficiency
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Valuation: Free cash flow yield 3.2%
+- Share count grew 102800% over three years, meaning massive dilution that erodes per-share value
+- Earnings per share dropped 9% year over year despite 14% revenue growth, a warning sign
+- Stock down 41% in one year and sits only 10% above its 52-week low, showing sustained selling pressure
 
-**Watch next:** The next quarterly report: whether revenue growth of +14% holds.
+**Watch next:** Whether earnings per share can return to growth in the next quarters, since falling per-share profits contradict the revenue growth story.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Long-term investors comfortable with Chinese equities who prioritize cash generation and book value over recent price momentum, and can tolerate high volatility.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $61.8B (+14% vs prior year)

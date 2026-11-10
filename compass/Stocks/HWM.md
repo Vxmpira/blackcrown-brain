@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend
 
-## Solid: shareholder returns stands out, valuation holds it back
+## Fast-growing aerospace supplier commands premium price amid recent pullback
 
-Howmet Aerospace scores 60 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend.
+Howmet Aerospace makes metal parts and components for aircraft engines and structures. The company generated $8.3B in revenue last year with strong profitability. It is trading at a high valuation relative to its cash generation.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Profitability: Keeps 18% of revenue as profit
-- Growth: Revenue +13% a year over 3 years
+- Revenue grew 29% in the latest quarter and 13% annually over three years, showing sustained demand
+- Net margin of 18% and free cash flow margin of 17% indicate efficient operations that convert sales to cash
+- Return on equity of 26% means the company generates strong returns on shareholder capital invested
 
 ### What to be careful about
-- Valuation: Free cash flow yield 1.6%
-- Price trend: Price is below its 200-day average
+- Stock trades at 42x earnings, among the highest valuation multiples, leaving limited margin for disappointment
+- Price is down 25% from its 52-week high and sits below its 200-day average, signaling weakening momentum
+- Free cash flow yield of only 1.7% means investors receive minimal cash return relative to the $86.2B market value
 
-**Watch next:** The next quarterly report: whether revenue growth of +29% holds.
+**Watch next:** Monitor whether the latest quarter's 29% revenue growth sustains or slows, since the high valuation depends on continued expansion.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Patient investors who believe aerospace demand will remain strong and can tolerate 38% annual price swings without panicking.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $8.3B (+11% vs prior year)

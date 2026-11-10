@@ -14,22 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend, bouncing
 
-## Solid: profitability stands out, price trend holds it back
+## Profitable ride-hailing giant slumping; solid earnings offset by year-long price decline
 
-Uber scores 55 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend, bouncing.
+Uber is a mature transportation and delivery platform generating $52.0B in annual revenue with a 19% profit margin and $9.8B in free cash flow. The company is growing revenue at 10% year over year in the latest quarter, but its stock price has fallen 24% over the past year and trades 17% up from its 52-week low.
 
 ### What is working
-- Profitability: Keeps 19% of revenue as profit
-- Balance sheet: Debt is 0.6x shareholder equity
+- Profitability is strong: the company keeps 19% of revenue as profit and generates $9.8B in free cash flow annually
+- Return on equity stands at 36%, meaning the company generates substantial returns on shareholder capital
+- Analyst consensus is solid: 86% of 58 covering analysts rate it a buy
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
+- Stock price has fallen 24% over the past year and sits 25% below its 52-week high of $94.1
+- Earnings per share grew only 4% year over year, slowing relative to 18% revenue growth, suggesting margin pressure
+- Valuation is rich at 41x earnings; free cash flow yield of 6.9% offers modest income relative to risk
 
-**Watch next:** The next quarterly report: whether revenue growth of +10% holds.
+**Watch next:** Whether earnings per share growth accelerates back toward revenue growth rates, since the recent slowdown to 4% EPS growth suggests operational challenges despite strong profitability.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Investors seeking a profitable, cash-generating company with analyst support who are willing to tolerate high volatility (35% yearly) and a stock currently in a downtrend.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $52.0B (+18% vs prior year)

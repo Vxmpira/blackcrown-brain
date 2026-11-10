@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Strong uptrend
 
-## Solid: price trend stands out, growth holds it back
+## Pharma giant with strong price momentum but slowing revenue and high valuation
 
-Pfizer scores 56 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: strong uptrend.
+Pfizer is a large drug manufacturer generating $62.6B in annual revenue with a 12% profit margin and $9.1B in free cash flow. Revenue has declined 15% over three years, though the latest quarter showed stability. The stock has risen 19% in the past year and sits near its 52-week high.
 
 ### What is working
-- Price trend: Price is above its 200-day average
-- Balance sheet: Debt is 0.7x shareholder equity
-- Profitability: Keeps 12% of revenue as profit
+- Stock price up 19% over the past year and 76% of the way up its 52-week range
+- Generates $9.1B in free cash flow annually with a 5.4% free cash flow yield
+- Pays a 5.4% dividend yield with stable share count over 3 years
 
 ### What to be careful about
-- Growth: Revenue -15% a year over 3 years
-- Shareholder returns: Share count flat
-- Valuation: Free cash flow yield 5.5%
+- Revenue down 15% over the past three years, showing long-term contraction
+- Trades at 42x earnings, which is expensive relative to cash generation
+- Analyst consensus is Hold, with only 38% rating it a buy despite the price rise
 
-**Watch next:** The next quarterly report: whether revenue growth of -0% holds.
+**Watch next:** Whether revenue stabilizes in coming quarters, as the company has shown zero growth year-over-year but faces a three-year declining trend.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors seeking steady dividend income from a large, established healthcare company who are comfortable with slow or negative growth.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $62.6B (-2% vs prior year)

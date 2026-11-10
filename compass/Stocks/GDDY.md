@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: valuation stands out, balance sheet holds it back
+## Profitable cash machine with extreme debt load and slowing growth
 
-GoDaddy scores 63 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+GoDaddy is a software infrastructure company generating $5.0B in annual revenue with strong profitability (18% net margin, $1.6B free cash flow). Growth has slowed to 6-8% per year, and the company carries $3.8B in debt against only $1.1B in cash.
 
 ### What is working
-- Valuation: Free cash flow yield 11.4%
-- Profitability: Keeps 18% of revenue as profit
-- Price trend: Price is above its 200-day average
+- Free cash flow yield of 11.4% and net margin of 18% show strong money generation from operations
+- Price is up 29.4% over 6 months and sits 65% of the way up its 52-week range, indicating recent momentum
+- Trades at 14x earnings with 11.4% free cash flow yield, suggesting valuation room relative to cash output
 
 ### What to be careful about
-- Balance sheet: Debt is 563.3x shareholder equity
-- Growth: Revenue +7% a year over 3 years
+- Debt of $3.8B is 563.3x shareholder equity, an extreme leverage level that limits financial flexibility
+- Revenue growth slowed to 6% in the latest quarter, down from 7% three-year average, and EPS fell 4% year over year
+- Share count up 76.1% over three years dilutes ownership and shows heavy use of stock as currency
 
-**Watch next:** The next quarterly report: whether revenue growth of +6% holds.
+**Watch next:** Monitor whether revenue growth stabilizes above 6% and whether the company uses free cash flow to reduce debt rather than fund dilution.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Investors comfortable with high debt levels who want steady cash generation and are less focused on revenue acceleration.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $5.0B (+8% vs prior year)

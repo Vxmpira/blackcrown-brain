@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Pullback in uptrend
 
-## Strong: shareholder returns stands out, balance sheet holds it back
+## Dialysis operator with strong cash generation but heavy debt load
 
-DaVita scores 63 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: pullback in uptrend.
+DaVita operates kidney dialysis facilities and related healthcare services. Revenue grows steadily at 6% yearly, and the company generates substantial free cash flow. However, debt sits at 78x shareholder equity, which is a major structural concern.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Valuation: Free cash flow yield 11.1%
-- Price trend: Price is above its 200-day average
+- Free cash flow yield of 11.1% is well above typical stock returns, showing cash generation relative to market value
+- Share count down 20.8% over three years through buybacks, concentrating ownership for remaining shareholders
+- Stock up 48% over the past year and sits 57% of the way up its 52-week range, showing upward momentum
 
 ### What to be careful about
-- Balance sheet: Debt is 78.0x shareholder equity
-- Growth: Revenue +6% a year over 3 years
+- Debt of $10.8B against only $138M in shareholder equity (78x ratio) leaves little room for setbacks
+- Earnings per share fell 8% year over year despite revenue growth, signaling margin pressure
+- Stock down 9% over six months and 24% from its 52-week high despite the longer-term gains, suggesting recent weakness
 
-**Watch next:** The next quarterly report: whether revenue growth of +5% holds.
+**Watch next:** Whether earnings per share stabilizes or continues to decline despite revenue growth will determine if the company can service its debt while investing in the business.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Long-term investors comfortable with high financial leverage in exchange for strong current cash yields and stable healthcare revenue streams.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $13.6B (+6% vs prior year)

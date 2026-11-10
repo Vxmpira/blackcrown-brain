@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: shareholder returns stands out, growth holds it back
+## Industrial supplier with strong cash generation faces debt questions amid slowing growth
 
-Avery Dennison scores 64 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Avery Dennison makes labels and packaging materials. The company is profitable with solid cash flow but has seen revenue shrink over three years even as the latest quarter turned positive. Its stock price is climbing and sits near 52-week highs.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
-- Valuation: Free cash flow yield 5.0%
+- Free cash flow of $712.4M funds both dividends and buybacks, shrinking share count by 4.7% over three years
+- Return on equity of 29% shows management is earning strong returns on shareholder money
+- Latest quarter revenue jumped 5% year over year, reversing three years of revenue decline
 
 ### What to be careful about
-- Growth: Revenue -1% a year over 3 years
-- Balance sheet: Debt is 1.3x shareholder equity
+- Revenue fell 1% annually over three years despite latest quarter rebound, suggesting structural headwinds remain
+- Debt of $3.2B is 1.3x shareholder equity, limiting financial flexibility if earnings stumble
+- Stock sits 75% up its 52-week range at $186.24, leaving less margin for error if growth disappoints
 
-**Watch next:** The next quarterly report: whether revenue growth of +5% holds.
+**Watch next:** Whether the 5% quarterly revenue growth is a durable turnaround or a temporary bounce, given three years of underlying decline.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors seeking steady cash generation and shareholder returns who can tolerate moderate debt levels and accept slower revenue growth than peers.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $8.9B (+1% vs prior year)

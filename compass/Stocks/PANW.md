@@ -14,22 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Pullback in uptrend
 
-## Strong: balance sheet stands out, valuation holds it back
+## Fast-growing security software with strong cash but expensive valuation and thin profits
 
-Palo Alto Networks scores 63 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: pullback in uptrend.
+Palo Alto Networks is a large infrastructure software company with revenue growing 34% in its latest quarter and $4.1B in annual free cash flow. The company keeps only 3% of revenue as profit and trades at an extreme 882x earnings multiple. Its balance sheet is strong with $522.5M in net cash.
 
 ### What is working
-- Balance sheet: Net cash of $522.5M
-- Price trend: Price is above its 200-day average
+- Revenue accelerating: $3.4B latest quarter is +34% year over year, up from +19% average over 3 years
+- Strong cash generation: $4.1B free cash flow and 36% free cash flow margin show the business converts sales to cash
+- Solid analyst support: 77% of 62 covering analysts rate it a buy, consensus is Buy
 
 ### What to be careful about
-- Valuation: Free cash flow yield 1.7%
+- Earnings collapsed: EPS down 75% year over year despite revenue growth, signaling margin pressure
+- Extreme valuation: 882x earnings multiple and 1.5% free cash flow yield leave little room for disappointment
+- Thin profitability: Only 3% net margin and 1% return on equity mean profits are small relative to revenue and shareholder capital
 
-**Watch next:** The next quarterly report: whether revenue growth of +34% holds.
+**Watch next:** Track whether net income growth can catch up to revenue growth, since the 75% earnings decline contradicts the +34% revenue acceleration.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Long-term investors comfortable with high growth and high valuation multiples who believe the company can restore profitability margins over years.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-07-31)
 - Revenue $11.5B (+24% vs prior year)

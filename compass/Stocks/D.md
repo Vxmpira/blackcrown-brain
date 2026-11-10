@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Turning up
 
-## Strong: valuation stands out, balance sheet holds it back
+## Utility giant with strong cash generation but heavy debt load
 
-Dominion Energy scores 63 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: turning up.
+Dominion Energy is a regulated electric and gas utility generating $16.5 billion in annual revenue. It keeps 18% of revenue as profit and produces substantial free cash flow of $5.4 billion yearly. The company pays a 5.7% dividend but carries $46.3 billion in debt.
 
 ### What is working
-- Valuation: Free cash flow yield 8.8%
-- Profitability: Keeps 18% of revenue as profit
-- Growth: Revenue +4% a year over 3 years
+- Free cash flow yield of 8.8% is well above typical utility averages, showing strong cash returns relative to market value
+- Revenue jumped 25% in the latest quarter year-over-year, with earnings per share up 48% year-over-year
+- Operating margin of 27% and free cash flow margin of 32% show efficient conversion of sales into cash the company can deploy
 
 ### What to be careful about
-- Balance sheet: Debt is 1.6x shareholder equity
+- Debt of $46.3 billion is 1.6x shareholder equity, leaving limited financial flexibility for emergencies or major investments
+- Analyst consensus is Hold with only 39% rating it a buy, suggesting mixed confidence among professionals who follow the stock
+- Share count growing by 3.7% over three years means dividend payments are spread across more shares, diluting existing shareholders
 
-**Watch next:** The next quarterly report: whether revenue growth of +25% holds.
+**Watch next:** Monitor whether debt levels stabilize or grow further, since high leverage limits the company's ability to invest in grid upgrades or weather unexpected costs.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** This profile suits long-term investors seeking steady income from dividends and predictable cash flows, who can tolerate higher debt and utility sector regulation.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $16.5B (+17% vs prior year)

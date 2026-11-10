@@ -14,22 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Strong uptrend
 
-## Strong: valuation stands out, growth holds it back
+## Insurance firm with strong price momentum but analyst skepticism and recent revenue slowdown
 
-W. R. Berkley Corporation scores 64 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+W. R. Berkley is a property and casualty insurance company generating $14.7B in annual revenue with a 12% profit margin. It trades at 15 times earnings and has returned 19% on shareholder equity, but recent quarterly revenue fell 1% year over year.
 
 ### What is working
-- Valuation: Trades at 16x earnings
-- Price trend: Price is above its 200-day average
+- Price sits 83% of the way up its 52-week range with 50-day average above 200-day average, showing upward momentum over 6 months (+13.7%)
+- Generates $3.6B in free cash flow against $28.2B market value, yielding 12.7% annually
+- Return on equity of 19% indicates efficient use of shareholder capital relative to peers
 
 ### What to be careful about
-- Growth: Revenue +10% a year over 3 years
+- Latest quarter revenue fell 1% year over year despite 8% full-year growth, signaling deceleration
+- 27 analysts rate consensus Sell with only 7% calling it a buy, showing broad skepticism
+- Share count grew 95,288% over 3 years, diluting existing shareholders significantly
 
-**Watch next:** The next quarterly report: whether revenue growth of -1% holds.
+**Watch next:** Whether next quarter's revenue returns to growth or continues declining, as recent slowdown contradicts the 3-year upward trend.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Long-term investors comfortable holding mature financial stocks during sideways analyst sentiment, seeking cash generation over price appreciation.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $14.7B (+8% vs prior year)

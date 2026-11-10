@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: balance sheet stands out, growth holds it back
+## Profitable cash generator with slow growth trading at a premium multiple
 
-Thomson Reuters Corporation scores 64 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Thomson Reuters is a business services company that keeps 20 cents of every revenue dollar as profit and generates $2 billion in free cash flow annually. Revenue growth is modest at 3% year over year, while earnings per share fell 32% over the past year. The stock is near the top of its yearly range after a strong six-month run.
 
 ### What is working
-- Balance sheet: Debt is 0.2x shareholder equity
-- Shareholder returns: Share count shrinking (buybacks)
-- Profitability: Keeps 20% of revenue as profit
+- Strong profitability: 20% net margin and 27% free cash flow margin show pricing power
+- Fortress balance sheet: debt at only 0.2x equity leaves room to weather downturns
+- Returning cash to shareholders: buybacks shrinking share count by 7.3% over three years; 1.4% dividend yield
 
 ### What to be careful about
-- Growth: Revenue +4% a year over 3 years
+- Earnings collapsed: EPS down 32% year over year despite flat revenue
+- Sluggish growth: revenue up just 3% latest quarter and 4% annualized over three years
+- Expensive valuation: trades at 31x earnings with only 2.9% free cash flow yield; down 23% in the past year
 
-**Watch next:** The next quarterly report: whether revenue growth of +3% holds.
+**Watch next:** Whether revenue growth can accelerate above 4% annually, since the current multiple depends on the company maintaining its profitability edge.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Long-term investors seeking stable dividend and buyback income from a low-leverage business, willing to accept slow growth and premium valuation.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $7.5B (+3% vs prior year)

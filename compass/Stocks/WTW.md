@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Uptrend
 
-## Strong: shareholder returns stands out, growth holds it back
+## Insurance broker with steady profits and returning cash, but earnings just dropped
 
-Willis Towers Watson scores 65 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: uptrend.
+Willis Towers Watson is an insurance broker serving corporations and individuals. The company generates $9.5B in annual revenue with a net profit margin of 17%. It has returned $1.6B in cash to shareholders over three years while growing its quarterly sales.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Valuation: Trades at 20x earnings
-- Price trend: Price is above its 200-day average
+- Profitability is solid: 17% net margin and 21% return on equity show efficient operations
+- Active shareholder returns: share count down 11.6% over 3 years through buybacks plus 1.3% dividend yield
+- Price momentum is positive: up 29.8% over 6 months and trades 78% of the way up its 52-week range
 
 ### What to be careful about
-- Growth: Revenue +3% a year over 3 years
+- Earnings per share fell 23% year over year despite revenue growing 7%, signaling profit pressure
+- Revenue actually declined 2% in the most recent full year after 3-year growth of only 3% annually
+- Stock is pricey at 19.4x earnings with yearly volatility of 31%, leaving room for sharp moves down
 
-**Watch next:** The next quarterly report: whether revenue growth of +7% holds.
+**Watch next:** Whether quarterly revenue growth of 7% can sustain while earnings per share remain under pressure, or if full-year results show a sustained rebound.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors seeking a stable, profitable financial services company with strong cash returns who can tolerate high volatility and slower growth than peers.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $9.5B (-2% vs prior year)

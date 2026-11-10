@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Losing steam
 
-## Solid: balance sheet stands out, valuation holds it back
+## Copper miner with strong balance sheet but expensive valuation after year-long rally
 
-Freeport-McMoRan scores 58 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: losing steam.
+Freeport-McMoRan is a basic materials company that mines copper and other metals. It generated $25.2 billion in revenue last year with a 9% net profit margin. The stock has risen 53% over the past year but is now down 17% in the last month.
 
 ### What is working
-- Balance sheet: Debt is 0.4x shareholder equity
-- Shareholder returns: Share count shrinking (buybacks)
-- Analyst consensus: 30 analysts, consensus Buy, 77% rate it a buy
+- Balance sheet is very strong with debt at only 0.4x shareholder equity, giving it financial flexibility
+- Latest quarter revenue jumped 9% year over year, showing recent demand strength
+- Earnings per share surged 607% year over year, though this reflects recovery from a low base
 
 ### What to be careful about
-- Valuation: Free cash flow yield 1.2%
+- Stock trades at 31x earnings, well above typical multiples, leaving limited margin for error
+- Price has fallen 24% from its 52-week high and lost 17% in the past month, showing momentum loss
+- Free cash flow yield is only 1.2%, meaning the company generates little cash relative to its market value
 
-**Watch next:** The next quarterly report: whether revenue growth of +9% holds.
+**Watch next:** Whether full-year revenue growth returns to positive territory or stalls again, since the latest quarter's 9% jump may not sustain across the full year.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Long-term investors comfortable with commodity price swings and looking for leveraged exposure to copper demand, not income seekers.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $25.2B (+0% vs prior year)

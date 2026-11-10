@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Strong uptrend
 
-## Solid: balance sheet stands out, profitability holds it back
+## Steel giant riding price strength but profits are thin and cash is draining
 
-Nucor scores 60 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: strong uptrend.
+Nucor is a major steel producer. Revenue jumped 32% last quarter, but the company kept only 5% of sales as profit and burned cash last year. The stock has surged 77% in the past year and sits near its 52-week high.
 
 ### What is working
-- Balance sheet: Debt is 0.2x shareholder equity
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
+- Stock price is 84% up its 52-week range; 50-day average above 200-day average shows momentum holding
+- Latest quarter revenue up 32% year over year; strong recent demand for steel
+- Balance sheet is fortress-like: debt is just 0.2x shareholder equity; very low financial risk
 
 ### What to be careful about
-- Profitability: Keeps 5% of revenue as profit
-- Growth: Revenue -8% a year over 3 years
-- Valuation: Free cash flow yield -0.3%
+- Free cash flow was negative $188.0M last year; company is burning cash despite high revenue
+- Profit margin is thin at 5%; only 5 cents of profit per dollar of sales
+- Three-year revenue trend is down 8% per year; long-term sales weakening despite recent bounce
 
-**Watch next:** The next quarterly report: whether revenue growth of +32% holds.
+**Watch next:** Watch whether free cash flow turns positive in coming quarters; negative cash flow with thin margins is the biggest red flag in the data.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Suits investors comfortable with cyclical industrial stocks who can tolerate volatility and are betting steel demand stays strong, not those seeking steady cash generation.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $32.5B (+6% vs prior year)

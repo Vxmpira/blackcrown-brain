@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Losing steam
 
-## Solid: balance sheet stands out, valuation holds it back
+## Fast-growing chip designer trading at extreme valuation after steep recent pullback
 
-Arm Holdings scores 58 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: losing steam.
+Arm Holdings designs semiconductor instruction sets licensed to other manufacturers. The company is growing revenue quickly at 27% year over year and generates solid profits. However, the stock price has fallen 59% from its recent high and trades at 199 times earnings.
 
 ### What is working
-- Balance sheet: Net cash of $3.3B
-- Growth: Revenue +22% a year over 3 years
-- Profitability: Keeps 18% of revenue as profit
+- Revenue growing 27% in latest quarter and 22% per year over three years
+- Generates $979M in free cash flow with net cash position of $3.3B on balance sheet
+- Keeps 18% of revenue as profit with operating margins at 18%
 
 ### What to be careful about
-- Valuation: Free cash flow yield 0.5%
-- Shareholder returns: Share count growing (dilution)
-- Price trend: Price is below its 200-day average
+- Stock down 28.7% in the past month and 59% from its 52-week high of $439.46
+- Trades at 199x earnings with only 0.5% free cash flow yield, among the highest valuations
+- Share count growing 3.9% over three years, diluting existing shareholder ownership
 
-**Watch next:** The next quarterly report: whether revenue growth of +27% holds.
+**Watch next:** Whether the company can sustain 27% revenue growth rates while the stock remains this far below its recent peak.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Patient investors who believe in long-term semiconductor demand growth and can tolerate 81% yearly price swings without panicking.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-03-31)
 - Revenue $4.9B (+23% vs prior year)

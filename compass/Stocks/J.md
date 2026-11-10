@@ -14,22 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Strong uptrend
 
-## Solid: shareholder returns stands out, valuation holds it back
+## Engineering firm with strong momentum and analyst backing, but pricey and thin margins
 
-Jacobs Solutions scores 57 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: strong uptrend.
+Jacobs Solutions is a $12 billion engineering and construction company that just posted 34% revenue growth in its latest quarter. The stock has climbed 36% in six months and sits near 52-week highs, though profits remain thin at 2% net margin.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
+- Price momentum is strong: up 36.1% over 6 months and 91% of the way to its 52-week high
+- Latest quarter revenue jumped 34% year over year, well above the 3-year average of 7% annual growth
+- Analyst consensus is Buy: 75% of 24 analysts rate it a buy, and the company returns cash to shareholders via buybacks (share count down 5.8% over 3 years)
 
 ### What to be careful about
-- Valuation: Free cash flow yield 3.2%
+- Valuation is stretched: trades at 54x earnings, compared to free cash flow yield of only 3.3%
+- Profitability is thin: keeps just 2% of revenue as net profit, and earnings per share fell 62% year over year
+- Debt load is moderate: at 1.1x shareholder equity, debt could pressure flexibility if growth slows
 
-**Watch next:** The next quarterly report: whether revenue growth of +34% holds.
+**Watch next:** Whether latest quarter's 34% revenue surge continues or normalizes back toward the 7% three-year trend, since growth is the main justification for the 54x earnings multiple.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors comfortable with higher volatility (34% yearly) who believe in the company's ability to grow into its valuation and value analyst consensus over current profitability metrics.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-09-26)
 - Revenue $12.0B (+5% vs prior year)

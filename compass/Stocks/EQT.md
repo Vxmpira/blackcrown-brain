@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend
 
-## Solid: valuation stands out, price trend holds it back
+## Energy producer with strong cash generation but weakening recent momentum
 
-EQT Corporation scores 61 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend.
+EQT is an oil and gas exploration company generating $8.6 billion in annual revenue with high profit margins of 24%. It produces strong free cash flow of $2.8 billion yearly and carries low debt relative to shareholder equity.
 
 ### What is working
-- Valuation: Free cash flow yield 9.0%
-- Balance sheet: Debt is 0.2x shareholder equity
-- Profitability: Keeps 24% of revenue as profit
+- Free cash flow yield of 9.0% is well above market average, meaning cash returned per dollar invested is substantial
+- Net profit margin of 24% shows the company keeps a quarter of every revenue dollar as profit
+- Debt is only 0.2x equity, indicating the balance sheet has room to absorb downturns or invest
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
+- Latest quarter revenue fell 10% year over year, signaling recent business deceleration
+- Stock is down 12% over the past year and sits 25% below its 52-week high
+- Share count has grown 51.5% in three years, meaning existing shareholders own a smaller slice of future earnings
 
-**Watch next:** The next quarterly report: whether revenue growth of -10% holds.
+**Watch next:** Monitor whether the 10% quarterly revenue decline continues or reverses, as this trend will determine if the business slowdown is temporary or structural.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors seeking income from mature energy producers with solid cash generation who can tolerate commodity price swings and high portfolio volatility.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $8.6B (+64% vs prior year)

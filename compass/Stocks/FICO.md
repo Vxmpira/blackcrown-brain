@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend
 
-## Solid: profitability stands out, balance sheet holds it back
+## Profitable software firm growing fast but carrying heavy debt and down sharply
 
-Fair Isaac scores 61 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend.
+FICO is a technology company that keeps 33% of its revenue as profit and generated $1.1 billion in free cash flow last year. Revenue grew 27% year over year to $2.5 billion. The stock has fallen 59% in the past year and trades at 19 times earnings.
 
 ### What is working
-- Profitability: Keeps 33% of revenue as profit
-- Shareholder returns: Share count shrinking (buybacks)
-- Growth: Revenue +19% a year over 3 years
+- Revenue growing 27% year over year, with 19% annual growth over three years
+- Keeps 33% of revenue as profit with 42% free cash flow margin
+- Share count down 9.4% over three years from buybacks, concentrating ownership
 
 ### What to be careful about
-- Balance sheet: Debt is 8.5x shareholder equity
-- Price trend: Price is below its 200-day average
+- Debt is 8.5 times shareholder equity, a major leverage concern
+- Stock down 59% in the past year and sits only 10% up from its 52-week low
+- Analyst consensus is Hold, not Buy, despite 62% buy ratings among 29 analysts
 
-**Watch next:** The next quarterly report: whether revenue growth of +27% holds.
+**Watch next:** Whether the company can reduce its debt-to-equity ratio from 8.5x while maintaining its 27% revenue growth rate.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Long-term investors comfortable with high volatility (66% yearly) who want cash-generative business exposure but need to accept significant near-term price swings and balance sheet risk.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-09-30)
 - Revenue $2.5B (+27% vs prior year)

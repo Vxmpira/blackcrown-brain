@@ -14,22 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend, bouncing
 
-## Solid: valuation stands out, price trend holds it back
+## Regional bank with strong cash generation but slowing revenue growth and rising share count
 
-KeyCorp scores 54 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend, bouncing.
+KeyCorp is a regional bank that generated $1.7B in revenue and $2.1B in free cash flow last year. The latest quarter showed a jump in revenue of 17% year over year, though the multi-year trend is slower at 3% annually. Earnings per share nearly doubled in the past year.
 
 ### What is working
-- Valuation: Trades at 12x earnings
-- Profitability: Keeps 105% of revenue as profit
+- Free cash flow yield of 9.3% suggests substantial cash relative to market value
+- Dividend yield of 6.8% provides income to shareholders
+- Latest quarter revenue surged 17% year over year, showing recent momentum
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
+- Share count has grown 18.8% over 3 years, diluting existing shareholders
+- Revenue growth averaged only 3% annually over the past 3 years despite recent strength
+- Stock is currently 11% below its 52-week high and trades below its 200-day average, signaling downward price pressure
 
-**Watch next:** The next quarterly report: whether revenue growth of +17% holds.
+**Watch next:** Monitor whether the latest quarter's 17% revenue surge is sustained or reverts to the slower 3% historical trend, which will signal if the bank's growth trajectory is genuinely improving.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Long-term investors seeking dividend income from a stable regional bank who can tolerate share dilution and near-term price volatility in exchange for substantial free cash flow.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $1.7B (+6% vs prior year)

@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Turning up
 
-## Solid: profitability stands out, balance sheet holds it back
+## Stable utility with steady cash generation and rising debt levels
 
-Alliant Energy scores 60 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: turning up.
+Alliant Energy is a regulated electric utility that generated $4.4B in revenue and $810M in net income in its latest fiscal year. The company produces consistent free cash flow of $1.2B annually and pays a 3.6% dividend, typical for the sector.
 
 ### What is working
-- Profitability: Keeps 19% of revenue as profit
-- Valuation: Free cash flow yield 6.2%
-- Price trend: Price is above its 200-day average
+- Strong profitability: 19% net margin and 27% free cash flow margin show efficient operations
+- Reliable cash generation: $1.2B in annual free cash flow supports dividend at current 3.6% yield
+- Attractive valuation: 6.1% free cash flow yield and P/E of 20.42x sits near reasonable levels for utilities
 
 ### What to be careful about
-- Balance sheet: Debt is 1.5x shareholder equity
-- Growth: Revenue +1% a year over 3 years
+- High leverage: $11.0B in debt is 1.5x shareholder equity, limiting financial flexibility
+- Slow revenue growth: +1% annually over 3 years despite +10% in latest year suggests cyclical strength
+- Share dilution: Share count rose 2.6% over 3 years, reducing per-share value for existing holders
 
-**Watch next:** The next quarterly report: whether revenue growth of +5% holds.
+**Watch next:** Whether debt levels stabilize or continue rising relative to equity, since leverage is already elevated for a utility.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Investors seeking predictable dividend income and modest price appreciation with low volatility, tolerant of regulated utility sector constraints.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $4.4B (+10% vs prior year)

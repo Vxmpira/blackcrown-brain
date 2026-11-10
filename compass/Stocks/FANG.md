@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Losing steam
 
-## Strong: balance sheet stands out
+## Oil producer with strong cash generation but slowing price momentum
 
-Diamondback Energy scores 64 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: losing steam.
+Diamondback Energy is an oil and gas exploration and production company. Revenue grew 36% last year to $15.0B, and it generates substantial free cash flow of $8.8B. However, earnings per share fell 63% year over year, and the stock price has declined 16% from its 52-week high.
 
 ### What is working
-- Balance sheet: Debt is 0.3x shareholder equity
-- Analyst consensus: 39 analysts, consensus Buy, 87% rate it a buy
-- Valuation: Free cash flow yield 17.6%
+- Free cash flow margin of 58% shows the company converts revenue into cash efficiently
+- Revenue up 36% year over year and 16% annually over three years, driven by latest quarter growth of 38%
+- Balance sheet strength: debt is only 0.3x shareholder equity, providing financial flexibility
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Earnings per share dropped 63% year over year despite revenue growth, signaling profitability pressure
+- Stock has lost 8.4% in the past month and 9.8% over six months, down 16% from its 52-week high of $213.69
+- Share count increased 63.7% over three years, meaning existing shareholders' ownership is diluted
 
-**Watch next:** The next quarterly report: whether revenue growth of +38% holds.
+**Watch next:** Whether the 38% revenue growth in the latest quarter and 58% free cash flow margin can sustain while earnings per share recovers from the 63% decline.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Long-term investors comfortable with energy sector volatility who value cash generation and dividend income over near-term earnings growth.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $15.0B (+36% vs prior year)

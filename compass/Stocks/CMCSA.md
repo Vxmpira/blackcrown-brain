@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend, bouncing
 
-## Solid: valuation stands out, price trend holds it back
+## Profitable cash machine in a downtrend with cheap valuation
 
-Comcast scores 58 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend, bouncing.
+Comcast is a large telecommunications and media company generating $123.7B in annual revenue with strong profitability. Recent quarterly revenue fell 6% year over year, but the company produced $20.0B in net income and $21.9B in free cash flow last year. The stock price has declined 11% over the past year and sits 25% below its 52-week high.
 
 ### What is working
-- Valuation: Free cash flow yield 25.4%
-- Balance sheet: Net cash of $7.6B
-- Shareholder returns: Share count shrinking (buybacks)
+- Converts 16% of revenue into profit, with 18% free cash flow margin showing efficient operations
+- Valuation appears compressed at 7.61x earnings and 25.4% free cash flow yield
+- Returned $7.6B in net cash to the balance sheet while reducing share count by 16.3% over three years
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Growth: Revenue +1% a year over 3 years
+- Latest quarter revenue dropped 6% year over year, signaling demand weakness
+- Price remains 31% below its 52-week high with 50-day average still below 200-day average
+- Only 43% of 37 analysts rate the stock a buy, while consensus is Hold
 
-**Watch next:** The next quarterly report: whether revenue growth of -6% holds.
+**Watch next:** Whether the 6% quarterly revenue decline stabilizes or continues to worsen in coming quarters.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors seeking high current cash generation and shareholder returns who can tolerate near-term price uncertainty and flat-to-negative revenue growth.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $123.7B (-0% vs prior year)

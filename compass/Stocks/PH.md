@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Turning up
 
-## Solid: profitability stands out, valuation holds it back
+## Profitable industrial company showing strong recent growth but trading at a premium
 
-Parker Hannifin scores 61 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: turning up.
+Parker Hannifin is a large industrial machinery maker with $21.5B in annual revenue. It keeps 17% of every sales dollar as profit and generates substantial free cash flow. The company is currently profitable and shrinking its share count through buybacks.
 
 ### What is working
-- Profitability: Keeps 17% of revenue as profit
-- Shareholder returns: Share count shrinking (buybacks)
-- Balance sheet: Debt is 0.9x shareholder equity
+- Latest quarter revenue jumped 18% year over year, well above the 3-year average of 4% annually
+- Profit metrics are robust: 24% operating margin, 23% return on equity, and 18% free cash flow margin
+- Analyst consensus is strong with 77% of 35 analysts rating it a buy
 
 ### What to be careful about
-- Valuation: Free cash flow yield 3.2%
+- Stock trades at 32x earnings, which is expensive relative to free cash flow yield of only 3.3%
+- Price is currently 11% below its 52-week high and volatility runs at 27% yearly
+- Long-term revenue growth averages just 4% annually even though recent quarter spiked 18%
 
-**Watch next:** The next quarterly report: whether revenue growth of +18% holds.
+**Watch next:** Whether the latest quarter's 18% revenue growth is the start of a sustained acceleration or a temporary spike that reverts to the historical 4% trend.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable holding expensive but consistently profitable companies that return cash to shareholders through buybacks and modest dividends.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-06-30)
 - Revenue $21.5B (+8% vs prior year)

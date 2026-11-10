@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Uptrend
 
-## Solid: balance sheet stands out, shareholder returns holds it back
+## Amazon grows revenue 12% yearly with strong profits, but burns cash and trades at premium
 
-Amazon scores 61 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: uptrend.
+Amazon is a massive retailer and cloud services company generating $716.9B in annual revenue. It keeps 19% of sales as profit and earned $134.8B net income last year. The stock has climbed 11% over the past year and sits near its 52-week high.
 
 ### What is working
-- Balance sheet: Debt is 0.3x shareholder equity
-- Analyst consensus: 70 analysts, consensus Buy, 96% rate it a buy
-- Price trend: Price is above its 200-day average
+- Revenue growth steady at 12% per year for three straight years
+- Earnings per share jumped 30% year over year, showing expanding profitability
+- Debt is light at 0.3x shareholder equity, providing financial flexibility
 
 ### What to be careful about
-- Shareholder returns: Share count growing (dilution)
-- Valuation: Free cash flow yield -1.6%
-- Profitability: Keeps 19% of revenue as profit
+- Free cash flow is negative at minus $46.9B despite $134.8B in net income
+- Valuation is stretched at 21x earnings with a negative 1.6% free cash flow yield
+- Share count growing 6.3% over three years dilutes existing shareholders
 
-**Watch next:** The next quarterly report: whether revenue growth of +12% holds.
+**Watch next:** Monitor whether free cash flow returns to positive territory, since Amazon currently burns cash despite generating huge profits.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Suits long-term investors who believe in Amazon's scale and can tolerate premium valuations and share dilution for exposure to sustained double-digit revenue growth.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $716.9B (+12% vs prior year)
