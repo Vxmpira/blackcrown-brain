@@ -14,27 +14,27 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Waters trades near 52-week highs with strong momentum but extreme valuation
+## Waters trades at historic high after latest quarter revenue jumped 121%
 
-Waters is a diagnostics and research company generating $3.2B in annual revenue with 20% net profit margins and positive free cash flow of $539.8M. The latest quarter showed exceptional 113% revenue growth, though annual revenue growth has been modest at 2% over three years.
+Waters is a diagnostics and research company generating $3.2B in annual revenue with a 20% net profit margin and strong free cash flow of $539.8M. The stock has climbed 27% over the past year and now sits near its 52-week high, supported by a consensus Buy rating from 28 analysts.
 
 ### What is working
-- Stock price up 27% over the past year and sits 95% of the way through its 52-week range, showing sustained uptrend
-- Latest quarter revenue jumped 113% year over year, signaling recent acceleration in business demand
-- Balance sheet is very strong with debt at only 0.3x shareholder equity and $539.0M in cash on hand
+- Latest quarter revenue surged 121% year over year, showing exceptional near-term momentum
+- Strong profitability with 20% net margin and 25% operating margin, plus $539.8M in free cash flow
+- Balance sheet is solid with debt only 0.3x shareholder equity; company actively buying back shares
 
 ### What to be careful about
-- Stock trades at 276x earnings, an extreme valuation that leaves little room for disappointment
-- Free cash flow yield of only 1.2% means investors pay $83 for every $1 of annual free cash generated
-- Earnings per share grew 0% year over year despite revenue gains, showing profits did not expand with sales
+- Stock trades at 276x earnings, one of the highest valuations in the market, leaving little room for disappointment
+- Three-year revenue growth averaged only 2% per year, suggesting the 121% quarterly jump may not be typical
+- Free cash flow yield of 1.2% is very low; investors are paying a steep price relative to cash generation
 
-**Watch next:** Whether the 113% quarterly revenue growth represents a sustained trend or a one-time spike, since annual revenue growth has averaged just 2% over three years.
+**Watch next:** Whether the 121% quarterly revenue growth represents a new sustained trend or a one-time spike that normalizes back toward the 2% historical average.
 
-**Tends to suit:** Investors comfortable holding quality companies at premium prices who believe in the company's long-term growth story enough to accept current valuation levels.
+**Tends to suit:** Investors comfortable with growth-stage valuations who believe Waters has entered a new, faster-growth phase and trust the 75% analyst consensus.
 
 Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $3.2B (+7% vs prior year)
 - Net margin 20%, free cash flow $539.8M
-- Cash $539.0M, debt $4.9B
+- Cash $593.0M, debt $4.5B

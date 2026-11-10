@@ -1380,6 +1380,19 @@
    "headline": "Healthcare operator with steady growth, cheap valuation, but mixed analyst view"
   },
   {
+   "symbol": "WAT",
+   "name": "Waters Corporation",
+   "sector": "Healthcare",
+   "score": 69.6,
+   "tier": "Strong",
+   "read": "bull",
+   "trend": "Strong uptrend",
+   "ret_1y": 0.2669,
+   "pe": 276.16,
+   "div_yield": null,
+   "headline": "Waters trades at historic high after latest quarter revenue jumped 121%"
+  },
+  {
    "symbol": "CHD",
    "name": "Church & Dwight",
    "sector": "Consumer Defensive",
@@ -1404,19 +1417,6 @@
    "pe": 10.64,
    "div_yield": 0.0099,
    "headline": "PayPal trades cheap with strong profits but growth has stalled"
-  },
-  {
-   "symbol": "WAT",
-   "name": "Waters Corporation",
-   "sector": "Healthcare",
-   "score": 69.5,
-   "tier": "Strong",
-   "read": "bull",
-   "trend": "Strong uptrend",
-   "ret_1y": 0.2669,
-   "pe": 276.16,
-   "div_yield": null,
-   "headline": "Waters trades near 52-week highs with strong momentum but extreme valuation"
   },
   {
    "symbol": "A",
