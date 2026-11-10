@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Uptrend
 
-## Solid: shareholder returns stands out, balance sheet holds it back
+## 3M shows strong dividends and buybacks but growth stalled and debt is heavy
 
-3M scores 50 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: uptrend.
+3M is a large industrial conglomerate that keeps 13% of revenue as profit and generates steady free cash flow. Growth has been flat to negative over three years, with earnings down 21% year over year. The company is prioritizing shareholder returns through a 6.2% dividend yield and ongoing share buybacks.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
-- Profitability: Keeps 13% of revenue as profit
+- Price momentum is strong, up 14% over the past year and sitting 88% of the way up its 52-week range
+- Shareholder returns are substantial: 6.2% dividend yield plus share count shrinking 4.6% over three years
+- Profitability remains solid with 13% net margin, 19% operating margin, and 79% return on equity
 
 ### What to be careful about
-- Balance sheet: Debt is 3.6x shareholder equity
-- Growth: Revenue -2% a year over 3 years
-- Valuation: Free cash flow yield 1.4%
+- Revenue growth is weak at -2% annually over three years, with latest quarter up only 1%
+- Earnings per share fell 21% year over year despite stable revenue
+- Debt load is significant at 3.6x shareholder equity, or $15.0B against $4.8B in cash
 
-**Watch next:** The next quarterly report: whether revenue growth of +1% holds.
+**Watch next:** Whether revenue growth can turn positive and whether the company can reduce its debt-to-equity ratio while maintaining the 6.2% dividend.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors seeking high current income who are comfortable with a mature, non-growing company and can tolerate significant debt on the balance sheet.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $24.9B (+2% vs prior year)

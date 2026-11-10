@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend, bouncing
 
-## Solid: profitability stands out, price trend holds it back
+## IBM trades lower but profits stronger; debt level is the main concern
 
-IBM scores 52 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend, bouncing.
+IBM is a large technology services company generating $67.5B in annual revenue. It has turned in solid profit growth and strong cash generation, but its stock price has fallen 20% over the past year and debt sits at 1.6 times shareholder equity.
 
 ### What is working
-- Profitability: Keeps 16% of revenue as profit
-- Valuation: Free cash flow yield 5.2%
+- Net income jumped 74% year over year, showing improved profitability despite modest revenue growth of 5% last quarter
+- Free cash flow margin of 18% and return on equity of 30% show the business converts sales into cash and shareholder value efficiently
+- Valuation offers a 5.2% free cash flow yield plus a 4.3% dividend yield, totaling nearly 9.5% if held for income
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Balance sheet: Debt is 1.6x shareholder equity
+- Stock is down 20% over the past year and sits 26% below its 52-week high, suggesting recent investor skepticism
+- Debt of $56.8B is 1.6 times shareholder equity, meaning the company carries meaningful leverage relative to its ownership base
+- Share count has grown 4% over three years, diluting existing shareholders even as the company returns cash via dividends
 
-**Watch next:** The next quarterly report: whether revenue growth of +5% holds.
+**Watch next:** Monitor whether IBM can sustain revenue growth above 5% per quarter while managing its debt-to-equity ratio below 1.6x, since profitability is strong but growth remains sluggish.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Suits long-term investors seeking stable cash flow and dividend income who are comfortable with moderate debt levels and can tolerate short-term price weakness.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $67.5B (+8% vs prior year)

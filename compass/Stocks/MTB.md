@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend
 
-## Solid: valuation stands out, price trend holds it back
+## Regional bank trading cheap with strong cash flow but stuck in a downtrend
 
-M&T Bank scores 55 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend.
+M&T Bank is a regional financial services company with $1.7B in annual revenue. It generated $2.9B in net income last year and holds $16.1B in cash. The stock price has risen 19% over the past year but has recently fallen 13% from its high.
 
 ### What is working
-- Valuation: Trades at 12x earnings
-- Shareholder returns: Share count shrinking (buybacks)
-- Profitability: Keeps 172% of revenue as profit
+- Valuation is low at 10.6x earnings, and free cash flow yield is 9.4% of market value
+- Net profit margin of 172% shows the company converts revenue into earnings at a high rate
+- Returning cash to shareholders through 3.2% annual buybacks and a 4.1% dividend yield
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Growth: Revenue +3% a year over 3 years
+- Price is in a downtrend, sitting 13% below its 52-week high and below its 200-day moving average
+- Revenue growth has slowed to just 3% per year over three years, despite recent 8% year-over-year uptick
+- Only 38% of 26 analysts rate it a buy; consensus is Hold, suggesting limited enthusiasm for upside
 
-**Watch next:** The next quarterly report: whether revenue growth of +4% holds.
+**Watch next:** Watch whether revenue growth sustains above 4% in coming quarters, since three-year growth of 3% per year is the main constraint on earnings expansion.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Suits long-term investors comfortable holding beaten-down financial stocks and willing to wait for turnaround potential while collecting a 4% dividend.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $1.7B (+8% vs prior year)

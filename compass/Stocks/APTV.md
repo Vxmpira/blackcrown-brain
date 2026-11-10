@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Bearish read · trend: Downtrend
 
-## Mixed: valuation stands out, price trend holds it back
+## Auto parts supplier caught between weak earnings and cheap valuation
 
-Aptiv scores 46 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: downtrend.
+Aptiv makes vehicle components and generates $20.4 billion in annual revenue. The company is profitable but margins are thin at 1% net profit. Growth has slowed to just 2% in the latest quarter.
 
 ### What is working
-- Valuation: Free cash flow yield 18.7%
-- Shareholder returns: Share count shrinking (buybacks)
-- Balance sheet: Debt is 0.6x shareholder equity
+- Stock trades at 10.62x earnings and offers 18.7% free cash flow yield, suggesting deep discount to historical norms
+- Generated $1.5 billion in free cash flow last year and reduced share count by 18.6% over three years through buybacks
+- 82% of 28 analysts rate it a buy, and debt sits at 0.6x equity, showing manageable leverage
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Growth: Revenue +5% a year over 3 years
-- Profitability: Keeps 1% of revenue as profit
+- Earnings per share collapsed 89% year over year, signaling a sharp profit decline despite stable revenue
+- Stock is down 52% over the past year and trades just 1% up from its 52-week low, sitting 55% below the high
+- Net profit margin of only 1% leaves little room for error; return on equity of 2% is extremely weak
 
-**Watch next:** The next quarterly report: whether revenue growth of +2% holds.
+**Watch next:** Whether the 2% quarterly revenue growth can reaccelerate and earnings can recover from the 89% drop this year.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Investors who believe cyclical auto suppliers will rebound and can tolerate extreme price swings and weak near-term profits for a potential recovery play.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $20.4B (+3% vs prior year)

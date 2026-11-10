@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend
 
-## Solid: shareholder returns stands out, valuation holds it back
+## Fast-growing tech company with strong revenue surge but steep valuation and recent sharp decline
 
-Ciena Corporation scores 54 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend.
+Ciena makes communication equipment and is growing revenue quickly, with latest quarterly sales up 37% year over year. The company is profitable but keeps only a thin slice of revenue as profit. It trades at a high multiple relative to current earnings and cash flow.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Growth: Revenue +10% a year over 3 years
-- Analyst consensus: 28 analysts, consensus Buy, 79% rate it a buy
+- Revenue growth accelerating: latest quarter +37% year over year, three-year average +10% annually
+- Aggressive shareholder returns: share count down 4.6% over three years through buybacks
+- Analyst consensus bullish: 79% of 28 analysts rate it a buy
 
 ### What to be careful about
-- Valuation: Free cash flow yield 1.7%
-- Price trend: Price is below its 200-day average
+- Stock down sharply recently: -30.7% in one month, -51.4% in six months; now 55% below its 52-week high
+- Expensive valuation: trades at 58x earnings with only 1.7% free cash flow yield
+- Thin profits: keeps just 3% of revenue as net profit; return on equity only 4%
 
-**Watch next:** The next quarterly report: whether revenue growth of +37% holds.
+**Watch next:** Whether the company can sustain the 37% quarterly revenue growth rate while improving its profit margins from the current 3% to justify its 58x earnings multiple.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Investors comfortable with high volatility (82% yearly) who believe in the company's growth story and can tolerate a steep valuation while enduring significant near-term price swings.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-11-01)
 - Revenue $4.8B (+19% vs prior year)

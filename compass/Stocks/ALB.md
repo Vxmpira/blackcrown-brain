@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Bearish read · trend: Downtrend
 
-## Mixed: balance sheet stands out, price trend holds it back
+## Lithium leader in turnaround mode: profitable cash flow but deep losses, mixed signals
 
-Albemarle Corporation scores 48 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: downtrend.
+Albemarle is a specialty chemicals company that lost money last year despite generating nearly $700 million in free cash flow. Revenue fell 4% year over year but jumped 19% in the latest quarter, suggesting possible recovery from a downturn. The company carries $1.9 billion in debt against $1.8 billion in cash.
 
 ### What is working
-- Balance sheet: Debt is 0.2x shareholder equity
-- Valuation: Free cash flow yield 5.9%
-- Shareholder returns: Share count flat
+- Latest quarter revenue up 19% versus a year ago, signaling potential recovery from three-year decline
+- Free cash flow of $692.5 million and 5.9% FCF yield shows machine generating real cash despite losses
+- Balance sheet very clean with only 0.2x debt to equity, leaving room to weather downturns
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Growth: Revenue -11% a year over 3 years
-- Profitability: Keeps -10% of revenue as profit
+- Full year net loss of $510.6 million means company is unprofitable; operating margin negative 7%
+- Revenue down 4% last year and down 11% per year over three years, shows structural challenge not yet solved
+- Stock down 56% from its 52-week high and 53.7% over past six months; volatility is 54% annually
 
-**Watch next:** The next quarterly report: whether revenue growth of +19% holds.
+**Watch next:** Whether the 19% quarterly revenue bump continues and when the company returns to actual profit, not just cash flow.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Investors comfortable holding through volatility who believe cyclical commodity exposure will recover and can tolerate negative earnings in the meantime.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $5.1B (-4% vs prior year)

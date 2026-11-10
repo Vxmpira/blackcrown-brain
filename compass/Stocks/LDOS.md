@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend, bouncing
 
-## Solid: valuation stands out, price trend holds it back
+## Profitable defense contractor in downtrend; cash flow strong but growth slow
 
-Leidos scores 55 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend, bouncing.
+Leidos is a $16.6 billion information technology services company that works primarily on government and defense contracts. It generates solid profits (8% net margin) and free cash flow ($1.6B annually) but revenue growth has slowed to 4% most recently. The stock has fallen 31% over the past year and trades well below its recent high.
 
 ### What is working
-- Valuation: Free cash flow yield 9.2%
-- Shareholder returns: Share count shrinking (buybacks)
-- Profitability: Keeps 8% of revenue as profit
+- Free cash flow yield of 9.8% is high; the company returned $1.6B to shareholders last year
+- Profitability is stable with 28% return on equity; operating margin holds at 12%
+- Valuation appears cheap at 11.67x earnings; analyst consensus leans toward buy (44%)
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
+- Price is down 31% from its 52-week high of $198.34; still 37% below its peak in the range
+- Revenue growth has decelerated to 4% year over year, down from 6% three-year average
+- Debt of $5.0B equals 1.0x shareholder equity; leverage is moderate but worth monitoring
 
-**Watch next:** The next quarterly report: whether revenue growth of +4% holds.
+**Watch next:** Whether the latest quarterly revenue growth of 4% continues to slow or stabilizes, since top-line momentum is the primary near-term weakness in an otherwise profitable business.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors seeking stable cash flow from a profitable, established company who can tolerate a stock in a downtrend and are not seeking rapid growth.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-01-02)
 - Revenue $17.1B (+3% vs prior year)

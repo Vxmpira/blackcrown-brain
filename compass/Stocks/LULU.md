@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend, bouncing
 
-## Solid: valuation stands out, price trend holds it back
+## Lululemon faces headwinds after 34% year drop, but trades cheap with strong cash
 
-Lululemon Athletica scores 56 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend, bouncing.
+Lululemon is an athletic apparel retailer that generated $11.1B in revenue last fiscal year. The company is profitable with a 14% net margin and solid balance sheet, but recent quarterly revenue declined 4% year-over-year and the stock has fallen sharply. Most analysts rate it a Sell.
 
 ### What is working
-- Valuation: Free cash flow yield 7.1%
-- Balance sheet: Net cash of $1.4B
-- Shareholder returns: Share count shrinking (buybacks)
+- Profitability is strong: keeps 14% of revenue as profit and generated $921.7M in free cash flow last year
+- Valuation appears inexpensive: trades at 9x earnings with a 7.1% free cash flow yield
+- Balance sheet is fortress-like: $1.4B in net cash with no debt, plus active share buybacks shrinking the share count by 7% over three years
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Growth: Revenue +11% a year over 3 years
+- Price momentum is poor: stock down 34% over the past year and sits only 14% up from its 52-week low
+- Growth is slowing: revenue fell 4% in the latest quarter year-over-year, and earnings per share dropped 9% year-over-year
+- Analyst skepticism is high: only 5% of 42 analysts rate it a buy, with consensus at Sell
 
-**Watch next:** The next quarterly report: whether revenue growth of -4% holds.
+**Watch next:** Whether the latest quarter's 4% revenue decline reverses in coming quarters, since recent sales weakness contradicts the longer-term 11% annual growth trend.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Investors comfortable with high volatility (47% yearly swings) who believe profitable companies trading at single-digit earnings multiples can recover from temporary sales slowdowns.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-02-01)
 - Revenue $11.1B (+5% vs prior year)

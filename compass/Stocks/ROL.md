@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend, bouncing
 
-## Solid: balance sheet stands out, price trend holds it back
+## Profitable pest control company caught between strong cash generation and recent sharp price decline
 
-Rollins, Inc. scores 54 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend, bouncing.
+Rollins is a pest control and termite treatment service company generating $3.8B in annual revenue. It keeps 14% of revenue as profit and produces $650M in free cash flow yearly. The stock has fallen 36% over the past year and trades 43% below its 52-week high.
 
 ### What is working
-- Balance sheet: Debt is 0.4x shareholder equity
-- Profitability: Keeps 14% of revenue as profit
-- Shareholder returns: Share count shrinking (buybacks)
+- Profitability is strong: 14% net margin, 19% operating margin, and 38% return on equity show efficient operations
+- Cash generation is reliable: $650M free cash flow yield of 3.6% supports dividends and buybacks that shrink share count
+- Balance sheet is fortress-like: Debt of 0.4x shareholder equity leaves room for stress or investment
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Valuation: Free cash flow yield 3.6%
+- Price momentum is negative: Stock is 36% down over one year and sits only 22% of the way up its 52-week range
+- Growth is slowing: Revenue growth fell from 12% annually (3-year average) to 6% latest quarter year-over-year
+- Valuation looks stretched for the growth rate: Trades at 35x earnings while growing revenue only 6% recently
 
-**Watch next:** The next quarterly report: whether revenue growth of +6% holds.
+**Watch next:** Whether quarterly revenue growth can re-accelerate above 6% or continues to decelerate further from the 12% three-year average.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors seeking stable free cash flow and dividends who are comfortable holding through 30% price swings and can tolerate that growth may have peaked.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $3.8B (+11% vs prior year)

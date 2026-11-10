@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Bearish read · trend: Downtrend, bouncing
 
-## Solid: profitability stands out, price trend holds it back
+## Profitable cash machine facing debt concerns and slowing growth
 
-McDonald's scores 58 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend, bouncing.
+McDonald's is a mature restaurant company generating strong profits and cash flow, with 32% net margins and $7.2B in annual free cash flow. Revenue growth has slowed to just 1% in the latest quarter, and the company carries substantial debt at 40.6x shareholder equity. The stock is down 6% over the past year and sits 18% below its 52-week high.
 
 ### What is working
-- Profitability: Keeps 32% of revenue as profit
-- Shareholder returns: Share count shrinking (buybacks)
-- Valuation: Free cash flow yield 3576265.4%
+- Exceptional profitability: 32% net margin and 46% operating margin mean most revenue converts to profit
+- Strong cash generation: $7.2B free cash flow annually funds a 2.4% dividend and share buybacks (-3.4% share count over 3 years)
+- Analyst backing: 61% of 41 analysts rate it a buy with consensus Buy rating
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Growth: Revenue +5% a year over 3 years
+- Dangerous debt load: $39.8B debt versus only $1.2B cash means debt is 40.6x shareholder equity
+- Growth stalled: Latest quarter revenue grew just 1% year over year, while full-year growth was only 4%
+- Price weakness: Stock is down 6% over one year, trading 18% below its 52-week high, with 50-day average below 200-day average
 
-**Watch next:** The next quarterly report: whether revenue growth of +1% holds.
+**Watch next:** Whether quarterly revenue growth accelerates back above 1% or continues to decelerate, signaling whether the slowdown is temporary or structural.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Long-term investors seeking high current income and are comfortable with large debt loads in exchange for proven cash generation and dividend stability.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $26.9B (+4% vs prior year)

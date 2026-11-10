@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend, bouncing
 
-## Solid: shareholder returns stands out, price trend holds it back
+## CBRE posts strong revenue growth but trades at a premium while stock is down
 
-CBRE Group scores 52 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend, bouncing.
+CBRE is a large real estate services company generating $39.9B in annual revenue with 13% recent growth. The company is profitable and generates free cash flow, though profit margins remain modest at 3%. Most analysts rate it a buy, but the stock price has fallen 11% over the past year.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Analyst consensus: 20 analysts, consensus Buy, 90% rate it a buy
-- Balance sheet: Debt is 0.7x shareholder equity
+- Revenue grew 13% in the latest year and has averaged 10% annual growth over three years
+- Free cash flow of $1.2B shows the business converts sales into actual cash
+- Analysts are strongly aligned with 90% rating it a buy among 20 covering firms
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
+- Stock is down 29% from its 52-week high and sits 21% below that peak
+- Profit margin is thin at 3%, meaning the company keeps only 3 cents per dollar of revenue
+- Trades at 29x earnings, which is expensive relative to the 3% free cash flow yield
 
-**Watch next:** The next quarterly report: whether revenue growth of +13% holds.
+**Watch next:** Monitor whether the company can maintain the 13% revenue growth pace while expanding the 3% net margin, since profitability growth has not kept pace with sales growth over the period.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** This profile suits long-term investors comfortable holding a cash-generative company with modest margins and moderate valuation risk, who believe in the analyst consensus and can tolerate 35% annual volatility.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $39.9B (+13% vs prior year)

@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Bearish read · trend: Downtrend
 
-## Mixed: balance sheet stands out, price trend holds it back
+## Strong balance sheet and analyst support offset sharp price decline and earnings drop
 
-Trimble Inc. scores 41 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: downtrend.
+Trimble is a $3.6B revenue technology and hardware company that keeps 12% of sales as profit and generates $360.9M in free cash flow yearly. Revenue has been flat over three years, though the latest quarter showed 7% growth. The stock has fallen 31% in the past year while analysts remain 90% bullish.
 
 ### What is working
-- Balance sheet: Debt is 0.3x shareholder equity
-- Shareholder returns: Share count shrinking (buybacks)
+- Analyst consensus is Buy with 90% bullish coverage across 21 analysts tracking the stock
+- Balance sheet is strong with debt at only 0.3x shareholder equity and $214.5M in cash
+- Latest quarter revenue grew 7% year over year, suggesting recent momentum after years of stagnation
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Growth: Revenue -1% a year over 3 years
-- Valuation: Free cash flow yield 2.8%
+- Earnings per share dropped 71% year over year, a sharp deterioration in bottom-line performance
+- Stock price is down 31% over the past year and sits 35% below its 52-week high of $83.52
+- Three-year revenue trend is flat at negative 1% annually, showing no meaningful growth trajectory
 
-**Watch next:** The next quarterly report: whether revenue growth of +7% holds.
+**Watch next:** Whether the latest quarter's 7% revenue growth sustains or stalls, since the company has shown no growth over three years.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors comfortable with hardware businesses that generate cash but show uncertain growth, and who value analyst consensus and financial stability over recent price performance.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-01-02)
 - Revenue $3.6B (-3% vs prior year)

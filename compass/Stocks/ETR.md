@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Neutral read · trend: Turning up
 
-## Mixed: analyst consensus stands out, balance sheet holds it back
+## Utility with strong analyst backing but negative cash flow and high debt raise concerns
 
-Entergy scores 45 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: turning up.
+Entergy is a regulated electric utility with $12.9B in annual revenue. The company is profitable on paper with a 14% net margin, but is burning cash and carrying $32.7B in debt against $53.4B in market value. Recent earnings jumped 60% year over year and analysts are mostly bullish.
 
 ### What is working
-- Analyst consensus: 29 analysts, consensus Buy, 76% rate it a buy
-- Price trend: Price is above its 200-day average
+- Earnings per share rose 60% year over year, and latest quarterly revenue jumped 12% versus a year ago
+- Stock price is up 13.9% over the past year and sits 73% of the way up its 52-week range
+- 76% of 29 analysts rate it a buy, with consensus recommendation at Buy
 
 ### What to be careful about
-- Balance sheet: Debt is 1.9x shareholder equity
-- Profitability: Keeps 14% of revenue as profit
-- Valuation: Free cash flow yield -4.7%
+- Free cash flow is negative at -$2.5B, with a -20% margin; company is burning rather than generating cash
+- Debt of $32.7B is 1.9x shareholder equity, leaving little margin for error in a downturn
+- Trades at 26x earnings and offers a -4.7% free cash flow yield, both red flags for value investors
 
-**Watch next:** The next quarterly report: whether revenue growth of +12% holds.
+**Watch next:** Monitor whether free cash flow turns positive in coming quarters, since negative cash generation combined with high debt is the core tension in this profile.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Investors comfortable with regulated utility dividend yields who can tolerate high leverage and negative cash flow, typically seeking income over growth.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $12.9B (+9% vs prior year)

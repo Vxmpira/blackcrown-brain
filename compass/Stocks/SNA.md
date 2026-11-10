@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend, bouncing
 
-## Solid: balance sheet stands out, price trend holds it back
+## Profitable tool maker treading water: strong cash generation, slowing growth
 
-Snap-on scores 57 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend, bouncing.
+Snap-on is an industrial manufacturer of tools and equipment with deep profitability. The company generates $1.0B in annual free cash flow and keeps 22% of revenue as profit. However, revenue growth has stalled at 1% to 2% per year, and the stock price is 11% below its 52-week high.
 
 ### What is working
-- Balance sheet: Net cash of $464.9M
-- Shareholder returns: Share count shrinking (buybacks)
-- Profitability: Keeps 22% of revenue as profit
+- Converts 21% of revenue to free cash flow, generating $1.0B annually
+- Net cash position of $464.9M with no debt burden limiting flexibility
+- High return on equity of 17% shows efficient use of shareholder capital
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Growth: Revenue +2% a year over 3 years
+- Revenue declined 1% in the latest quarter compared to a year ago
+- Stock price sits 47% of the way up its 52-week range, down 11% from peak at 419.31
+- Earnings per share fell 2% year over year despite profit margins holding steady
 
-**Watch next:** The next quarterly report: whether revenue growth of -1% holds.
+**Watch next:** Whether the latest quarter's 1% revenue decline signals a trend or a temporary pause, as growth has already slowed to 2% annually over three years.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Investors seeking stable cash-generating businesses that prioritize shareholder returns through buybacks and dividends over rapid growth.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-01-03)
 - Revenue $4.7B (+1% vs prior year)

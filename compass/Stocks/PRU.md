@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Uptrend
 
-## Solid: valuation stands out, profitability holds it back
+## Prudential: Rising price meets falling revenue and analyst skepticism
 
-Prudential Financial scores 62 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: uptrend.
+Prudential is a life insurance and financial services company with $60.8B in annual revenue. The stock price has climbed 15% in the past year, but the latest quarter shows revenue down 19% year over year. All 26 analysts covering the stock rate it Sell or Hold, with none rating it a Buy.
 
 ### What is working
-- Valuation: Trades at 11x earnings
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
+- Stock price is up 15% over the past year and sits 86% of the way up its 52-week range
+- Company returned cash to shareholders via buybacks, shrinking share count by 5% over three years
+- Dividend yield of 5.2% and free cash flow of $6.3B provide steady income
 
 ### What to be careful about
-- Profitability: Keeps 6% of revenue as profit
-- Growth: Revenue +2% a year over 3 years
+- Revenue fell 19% in the latest quarter and is down 14% for the full year 2025
+- All 26 analysts covering the stock rate it Sell; zero rate it a Buy
+- Net profit margin of only 6% means the company keeps just 6 cents per dollar of sales
 
-**Watch next:** The next quarterly report: whether revenue growth of -19% holds.
+**Watch next:** Whether the 19% revenue decline in the latest quarter represents a temporary drop or the start of a sustained trend will be crucial to monitor in coming quarters.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Investors seeking high current income through dividends who can tolerate sharp price swings and are comfortable owning a stock that professional analysts have turned bearish on.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $60.8B (-14% vs prior year)

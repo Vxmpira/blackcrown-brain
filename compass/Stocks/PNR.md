@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend, bouncing
 
-## Solid: balance sheet stands out, price trend holds it back
+## Profitable industrial company stuck in downtrend, cheaply valued but not growing
 
-Pentair scores 52 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend, bouncing.
+Pentair is an industrial machinery maker generating strong cash flow and profit margins. Revenue has been flat for three years, and the stock has fallen 36% over the past year. The company trades at a discount to earnings and offers solid profitability metrics.
 
 ### What is working
-- Balance sheet: Debt is 0.4x shareholder equity
-- Valuation: Free cash flow yield 6.6%
-- Profitability: Keeps 16% of revenue as profit
+- Net margin stays at 16% of revenue, above many industrial peers
+- Free cash flow yield of 6.8% signals cash generation relative to stock price
+- Balance sheet is strong with debt only 0.4x shareholder equity
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Growth: Revenue +0% a year over 3 years
+- Revenue down 4% in the latest quarter and flat over three years
+- Stock is down 36% in the past year and sits 29% up from its 52-week low
+- Only 50% of 22 analysts rate it a buy; consensus is mixed despite the Buy label
 
-**Watch next:** The next quarterly report: whether revenue growth of -4% holds.
+**Watch next:** Whether the latest quarter's 4% revenue decline continues or stabilizes, since growth has stalled for three years.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Patient investors seeking a profitable company trading below historical valuations who can tolerate a stock in a sustained downtrend and accept flat growth prospects.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $4.2B (+2% vs prior year)

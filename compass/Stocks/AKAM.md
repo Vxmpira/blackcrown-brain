@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend
 
-## Solid: balance sheet stands out, price trend holds it back
+## Profitable infrastructure company in a downtrend, supported by strong balance sheet
 
-Akamai Technologies scores 55 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend.
+Akamai is a technology software company that generated $4.2B in revenue last year with an 11% net profit margin. The company operates with no debt and $1.1B in net cash. However, the stock price has fallen 45% over the past six months and sits near the bottom of its 52-week range.
 
 ### What is working
-- Balance sheet: Net cash of $1.1B
-- Shareholder returns: Share count shrinking (buybacks)
-- Valuation: Free cash flow yield 8.7%
+- Profitability is solid: the company converts 24% of revenue into free cash flow and generated $1.0B last year
+- Balance sheet is fortress-like: $1.1B in net cash with no debt reported
+- Buybacks are shrinking share count by 8.4% over 3 years, which can boost per-share value over time
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Growth: Revenue +5% a year over 3 years
+- Price momentum is weak: down 45.4% in six months and trading 49% below its 52-week high of $161.14
+- Earnings per share fell 6% year over year despite 6% revenue growth, signaling profit pressure
+- Growth is slow: revenue grew only 5% annually over three years, and latest quarter shows just 6% growth
 
-**Watch next:** The next quarterly report: whether revenue growth of +6% holds.
+**Watch next:** Monitor whether revenue growth accelerates beyond the current 5-6% range while earnings per share returns to positive growth; the gap between revenue and earnings growth is the key weakness to track.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Long-term investors seeking stable cash-generating companies may find value in the strong balance sheet and buyback program, but should be comfortable with slow growth and high price volatility while waiting for an inflection.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $4.2B (+5% vs prior year)

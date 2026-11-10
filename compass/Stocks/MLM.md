@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Bearish read · trend: Downtrend, bouncing
 
-## Mixed: shareholder returns stands out, price trend holds it back
+## Construction materials giant bouncing off lows but earnings fell sharply despite revenue surge
 
-Martin Marietta Materials scores 49 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: downtrend, bouncing.
+Martin Marietta Materials is a large construction materials producer with $6.2 billion in annual revenue. The company is profitable and generates substantial free cash flow, but its stock price has dropped 15% over the past year and earnings per share fell 42% year over year despite a 28% revenue jump in the latest quarter.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Balance sheet: Debt is 0.7x shareholder equity
-- Valuation: Free cash flow yield 3.1%
+- Latest quarter revenue jumped 28% year over year to $2.4B, showing recent demand strength
+- Keeps 18% of revenue as profit and generates $978M in free cash flow annually
+- Share count shrinking by 3% over three years through buybacks; 67% of 30 analysts rate it a buy
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Growth: Revenue -0% a year over 3 years
+- Earnings per share fell 42% year over year even as revenue rose, signaling cost pressure or margin squeeze
+- Stock is 26% below its 52-week high and sits only 21% up from its 52-week low, showing recent weakness
+- Debt stands at $12.8B against $140M cash; while manageable at 0.7x equity, it limits financial flexibility
 
-**Watch next:** The next quarterly report: whether revenue growth of +28% holds.
+**Watch next:** Monitor whether the 28% quarterly revenue growth can translate into earnings recovery, or if the 42% EPS decline signals a structural margin problem.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable with cyclical construction materials exposure and balance-sheet leverage who can tolerate 30% annual price swings and recent downward momentum.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $6.2B (+9% vs prior year)

@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Bearish read · trend: Downtrend
 
-## Mixed: shareholder returns stands out, price trend holds it back
+## Generac: Strong balance sheet and buybacks offset slowing growth and high valuation
 
-Generac scores 45 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: downtrend.
+Generac is an industrial machinery maker with 4.2 billion dollars in annual revenue. The company is shrinking overall but showed a 16% revenue jump in its latest quarter. Profitability is thin at 4% net margin, though it generates positive free cash flow.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Balance sheet: Debt is 0.4x shareholder equity
-- Analyst consensus: 29 analysts, consensus Buy, 79% rate it a buy
+- Balance sheet is solid: debt is only 0.4x shareholder equity, giving room to maneuver
+- Latest quarter revenue rose 16% year over year, suggesting recent momentum
+- Share count down 8.4% over 3 years via buybacks, concentrating ownership for remaining shareholders
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Growth: Revenue -3% a year over 3 years
-- Valuation: Free cash flow yield 2.6%
+- Three-year revenue trend is negative at minus 3% per year, showing long-term contraction
+- Earnings per share fell 50% year over year despite the recent revenue gain
+- Valuation is steep at 40x earnings while free cash flow yield sits at only 2.6%
 
-**Watch next:** The next quarterly report: whether revenue growth of +16% holds.
+**Watch next:** Whether the 16% quarterly revenue growth continues or reverses, and whether earnings per share can recover from its 50% decline.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Patient investors comfortable with cyclical industrial businesses who believe recent quarter results signal a turnaround, not those seeking immediate profitability or low-volatility holdings.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $4.2B (-2% vs prior year)

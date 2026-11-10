@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend
 
-## Solid: valuation stands out, price trend holds it back
+## Big bank with steady profits and cheap valuation, but stuck in a downtrend
 
-Bank of America scores 56 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend.
+Bank of America is a diversified financial services company generating $113.1B in annual revenue with a 27% profit margin. It returned $30.5B in net income last year and trades at 11x earnings, below historical averages. The stock has fallen 22% from its 52-week high and sits below its 200-day moving average.
 
 ### What is working
-- Valuation: Trades at 11x earnings
-- Shareholder returns: Share count shrinking (buybacks)
-- Analyst consensus: 29 analysts, consensus Buy, 83% rate it a buy
+- Valuation is cheap at 11x earnings with a 3.6% free cash flow yield, scoring 100 out of 100
+- Earnings per share grew 19% year over year, outpacing the 3% revenue growth
+- 83% of 29 analysts rate it a buy, with consensus recommendation at Buy
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
+- Stock is down 22% from its 52-week high of $64.81 and fell 4.5% over the past year
+- Price sits 50 days below 200 days, signaling a downtrend with 23% yearly volatility
+- Return on equity of 10% is modest, and latest quarterly revenue growth slowed to 3% year over year
 
-**Watch next:** The next quarterly report: whether revenue growth of +3% holds.
+**Watch next:** Monitor whether earnings per share momentum can sustain at 19% growth while the stock remains trapped below its 200-day moving average.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Investors comfortable with financial sector exposure who want steady cash returns (3.2% dividend) and can tolerate downtrend risk for a cheap valuation.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $113.1B (+7% vs prior year)

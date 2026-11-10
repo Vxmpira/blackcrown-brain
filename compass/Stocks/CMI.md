@@ -14,21 +14,22 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend
 
-## Solid: shareholder returns stands out, price trend holds it back
+## Industrial machinery maker with strong cash generation but price momentum facing headwinds
 
-Cummins scores 51 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend.
+Cummins is an industrial machinery company posting 13% revenue growth in its latest quarter while generating $2.4B in free cash flow annually. Yet earnings per share fell 28% year over year, and the stock price has declined 3% over the past year and sits near the bottom of its 52-week range.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Balance sheet: Debt is 0.6x shareholder equity
-- Profitability: Keeps 9% of revenue as profit
+- Revenue grew 13% in the latest quarter compared to a year ago
+- Generates $2.4B in free cash flow and keeps 9% of revenue as profit
+- Return on equity of 22% and low debt at 0.6x shareholder equity show efficient use of capital
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Growth: Latest revenue +13% year over year
+- Earnings per share dropped 28% year over year despite revenue growth
+- Stock down 35.2% over the past 6 months and is 37% below its 52-week high
+- Price sits only 3% above its 52-week low with 37% yearly volatility showing sharp swings
 
-**Watch next:** The next quarterly report: whether revenue growth of +13% holds.
+**Watch next:** The disconnect between 13% revenue growth and 28% EPS decline needs to clarify whether margin pressure is temporary or structural.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors seeking industrial exposure through a cash-generating business may find value here, but those uncomfortable with recent price weakness and earnings declines should wait for clearer momentum.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.

@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Losing steam
 
-## Solid: balance sheet stands out, shareholder returns holds it back
+## Fast-growing software company trading at premium valuation amid recent sharp decline
 
-Datadog scores 54 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: losing steam.
+Datadog is a cloud monitoring software company with strong revenue growth of 27% annually over three years and latest quarter growth of 35%. The company is now profitable on a net income basis but trades at a very high multiple relative to current earnings.
 
 ### What is working
-- Balance sheet: Net cash of $881.2M
-- Analyst consensus: 55 analysts, consensus Buy, 93% rate it a buy
-- Growth: Revenue +27% a year over 3 years
+- Revenue growing 35% in the latest quarter, well above the 3-year average of 27%
+- Generated $1.0B in free cash flow last year with a 29% free cash flow margin
+- Strong balance sheet with $881.2M in net cash and no debt
 
 ### What to be careful about
-- Shareholder returns: Share count growing (dilution)
-- Valuation: Free cash flow yield 1.5%
-- Price trend: Price is below its 200-day average
+- Stock down 37.1% over the past month and down 38% from its 52-week high of $293.26
+- Trades at 249x earnings, an extremely high valuation relative to current profitability
+- Earnings per share fell 40% year over year despite revenue growth, showing profitability pressure
 
-**Watch next:** The next quarterly report: whether revenue growth of +35% holds.
+**Watch next:** Whether the company can grow into its valuation as earnings per share are currently declining while revenue accelerates.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Long-term investors with high risk tolerance who believe in the company's growth runway and can withstand significant price swings during the path to profitability.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $3.4B (+28% vs prior year)

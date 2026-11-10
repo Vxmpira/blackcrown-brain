@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Bearish read · trend: Downtrend, bouncing
 
-## Mixed: profitability stands out, valuation holds it back
+## Profitable asset manager facing valuation premium amid slowing growth
 
-Blackstone Inc. scores 48 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: downtrend, bouncing.
+Blackstone is a large asset management and financial services firm that converts 21% of revenue into profit and generates $4.5B in annual free cash flow. Recent results show annual revenue growth slowed to 9% and the latest quarter declined 1% year over year, while the stock has fallen 16% over the past year.
 
 ### What is working
-- Profitability: Keeps 21% of revenue as profit
-- Analyst consensus: 33 analysts, consensus Buy, 64% rate it a buy
+- Keeps 21% of revenue as profit, well above many peers
+- Generated $4.5B in free cash flow last year
+- Return on equity stands at 34%, showing efficient capital use
 
 ### What to be careful about
-- Valuation: Trades at 44x earnings
-- Price trend: Price is below its 200-day average
+- Trading at 44x earnings, among the highest multiples in the market
+- Latest quarterly revenue fell 1% year over year
+- Stock down 16% over the past year and sits 25% below its 52-week high
 
-**Watch next:** The next quarterly report: whether revenue growth of -1% holds.
+**Watch next:** Whether the latest quarter's 1% revenue decline stabilizes or continues, as this reverses the multi-year 19% annual growth trend.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Long-term investors comfortable with premium valuations who prioritize profitability and cash generation over near-term price momentum or dividend yield above 3%.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $14.5B (+9% vs prior year)

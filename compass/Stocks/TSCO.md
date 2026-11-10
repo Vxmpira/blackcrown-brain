@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Bearish read · trend: Downtrend, bouncing
 
-## Mixed: shareholder returns stands out, price trend holds it back
+## Farm-and-ranch retailer treading water: cheap valuation fights weak price trend
 
-Tractor Supply scores 48 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: downtrend, bouncing.
+Tractor Supply is a specialty retailer selling farm, ranch, and outdoor products. Revenue grows slowly at 3-5% yearly, but the company is profitable and returns cash to shareholders through dividends and buybacks. The stock has fallen 32% over the past year and sits well below its recent highs.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Profitability: Keeps 7% of revenue as profit
-- Balance sheet: Debt is 0.8x shareholder equity
+- Profitability is solid: 7% net margin and 41% return on equity show efficient operations
+- Free cash flow yield of 3.8% and active buybacks mean shareholders get paid despite slow growth
+- Analyst consensus is Buy, with 54% of 37 analysts rating it a buy
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Growth: Revenue +3% a year over 3 years
+- Price is down 32% in the past year and sits 29% of the way up its 52-week range, signaling investor skepticism
+- Revenue growth is sluggish: only +3% annually over three years and +5% in the latest quarter
+- Stock volatility is high at 35% yearly, and it trades at 20x earnings while growth slows
 
-**Watch next:** The next quarterly report: whether revenue growth of +5% holds.
+**Watch next:** Whether the recent 6-month bounce of 20.9% can sustain as a reversal or rolls back down to test the 52-week low of 29.14.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors seeking stable cash generation and dividend income who can tolerate flat growth and accept that the stock may struggle to recover lost ground soon.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-27)
 - Revenue $15.5B (+4% vs prior year)

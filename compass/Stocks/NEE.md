@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Bearish read · trend: Downtrend, bouncing
 
-## Mixed: profitability stands out, balance sheet holds it back
+## Utility giant with strong cash but rising debt; price momentum fading
 
-NextEra Energy scores 47 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: downtrend, bouncing.
+NextEra Energy is a large regulated electric utility that generates substantial profits and free cash flow. Revenue grew 10% last year, though growth is slowing. The company is heavily leveraged with debt at 1.8 times shareholder equity.
 
 ### What is working
-- Profitability: Keeps 26% of revenue as profit
-- Valuation: Free cash flow yield 7.0%
+- Profit margin of 26% and free cash flow of $12.5B show strong underlying operations
+- Free cash flow yield of 6.8% and dividend yield of 3.2% appeal to income-focused investors
+- 67% of 27 analysts rate it a buy; consensus is Buy
 
 ### What to be careful about
-- Balance sheet: Debt is 1.8x shareholder equity
-- Price trend: Price is below its 200-day average
-- Growth: Revenue +4% a year over 3 years
+- Stock price is down 8.9% over 6 months and sits 12% below its 52-week high
+- Debt of $97.8B is 1.8 times shareholder equity, leaving less financial flexibility
+- Earnings per share fell 2% year over year despite revenue growth; share count up 4.7% in 3 years signals dilution
 
-**Watch next:** The next quarterly report: whether revenue growth of +2% holds.
+**Watch next:** Whether earnings per share can return to growth while the company manages its $97.8B debt load.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Long-term investors seeking stable dividend income and utility sector exposure who can tolerate slow growth and high leverage.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $25.8B (+10% vs prior year)

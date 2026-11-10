@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend, bouncing
 
-## Solid: valuation stands out, balance sheet holds it back
+## Stable utility with solid cash flow, but rising debt and a downward price trend
 
-American Electric Power scores 51 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend, bouncing.
+American Electric Power is a large regulated electric utility generating $21.7B in annual revenue. The company keeps 17% of revenue as profit and produces steady free cash flow of $3.5B yearly. It pays a 4.5% dividend but carries $49.6B in debt against $69.9B in market value.
 
 ### What is working
-- Valuation: Free cash flow yield 5.0%
-- Profitability: Keeps 17% of revenue as profit
-- Analyst consensus: 29 analysts, consensus Buy, 69% rate it a buy
+- Free cash flow yield of 5.0% and 16% free cash flow margin show strong cash generation relative to size
+- Net profit margin of 17% and operating margin of 25% demonstrate disciplined cost control
+- Analyst consensus is Buy with 69% of 29 analysts rating it a buy; latest quarter revenue up 5% year over year
 
 ### What to be careful about
-- Balance sheet: Debt is 1.6x shareholder equity
-- Price trend: Price is below its 200-day average
+- Debt is 1.6x shareholder equity, which is elevated for a utility and limits financial flexibility
+- Stock price is 49% of the way up its 52-week range and down 9% from its high; 50-day average is below 200-day average
+- Share count has grown 4.7% over three years, diluting existing shareholders; dividend yield of 4.5% depends on maintaining payout levels
 
-**Watch next:** The next quarterly report: whether revenue growth of +5% holds.
+**Watch next:** Whether the company can stabilize its debt-to-equity ratio while continuing to grow revenue and maintain its 5% free cash flow yield.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Long-term investors seeking regular dividend income who are comfortable holding through downtrends and can tolerate utility sector volatility.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $21.7B (+9% vs prior year)

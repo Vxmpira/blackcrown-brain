@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend, bouncing
 
-## Mixed: balance sheet stands out, price trend holds it back
+## Medical device maker with steady growth but elevated price, caught in downtrend
 
-Stryker Corporation scores 50 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: downtrend, bouncing.
+Stryker is a $124 billion medical device company generating $25.1 billion in annual revenue with 13% net profit margins and consistent free cash flow of $4.3 billion. Growth is solid at 11% annually over three years, though the stock price has fallen 10% over the past year and sits 18% below its recent high.
 
 ### What is working
-- Balance sheet: Debt is 0.6x shareholder equity
-- Profitability: Keeps 13% of revenue as profit
-- Shareholder returns: Share count growing (dilution)
+- Revenue growing 11% annually over 3 years and latest quarter up 8% year-over-year
+- Strong profitability with 13% net margin and $4.3 billion free cash flow generated
+- Analyst consensus is Buy, with 77% of 35 analysts rating it a buy
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Valuation: Free cash flow yield 3.5%
+- Stock down 10% over the past year and 42% below its 52-week high of $387.46
+- Valuation is stretched at 34x earnings; free cash flow yield of only 3.5%
+- Share count growing by 1.1% over 3 years, diluting existing shareholders
 
-**Watch next:** The next quarterly report: whether revenue growth of +8% holds.
+**Watch next:** Whether revenue growth accelerates beyond the recent 8% quarterly rate, and if the stock can reclaim its 200-day moving average after bouncing from downtrend.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable with stable, profitable healthcare exposure who don't mind paying premium valuations for lower volatility and consistent cash generation.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $25.1B (+11% vs prior year)

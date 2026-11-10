@@ -14,18 +14,22 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Neutral read · trend: Short-term uptrend
 
-## Building: no single area stands out, price trend holds it back
+## Honeywell Aerospace trades cheap but sits near 52-week lows with high volatility
 
-Honeywell Aerospace Inc scores 9 of 100 on the Compass, which puts it in the Building tier. Its long-term price trend is: short-term uptrend.
+Honeywell Aerospace is a large-cap technology and defense company worth $52.2 billion. It keeps 14 cents of profit from every dollar of revenue and currently trades at 15 times its earnings.
 
 ### What is working
-- No area scores above 60 right now.
+- Valuation is attractive at 15x earnings relative to historical aerospace multiples
+- Stock has risen 5.7% in the last month despite being down 38% from its 52-week high
+- 44% of analysts rate it a buy, showing some conviction among research coverage
 
 ### What to be careful about
-- Price trend: Sits 14% of the way up its 52-week range
+- Price sits only 14% of the way up its 52-week range, still near lows from the past year
+- Yearly volatility of 81% means large swings are common and expected
+- Down 38% from its 52-week high of 269.95, raising questions about what changed
 
-**Watch next:** Whether the price holds above its 200-day average.
+**Watch next:** Track whether the stock can hold above the 149.59 low and build upward momentum, or if selling pressure returns.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** This profile suits investors comfortable with high volatility and willing to hold through aerospace sector downturns while waiting for valuation recovery.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.

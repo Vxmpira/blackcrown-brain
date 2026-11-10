@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Uptrend
 
-## Solid: shareholder returns stands out, balance sheet holds it back
+## Profitable industrial machinery maker posting flat growth, priced high by history
 
-Illinois Tool Works scores 58 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: uptrend.
+Illinois Tool Works is a large industrial machinery company with strong cash generation and consistent profit margins. Revenue has been essentially flat for three years, though the latest quarter showed 4% growth. The stock trades at 25 times earnings, near its 52-week high.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Profitability: Keeps 19% of revenue as profit
-- Price trend: Price is above its 200-day average
+- Profit efficiency: keeps 19% of revenue as net profit and generates 17% free cash flow margin
+- Stock buybacks shrinking share count by 5.9% over 3 years, concentrating value for remaining owners
+- Price momentum: up 16% over the past year and 73% of the way up its 52-week range
 
 ### What to be careful about
-- Balance sheet: Debt is 3.0x shareholder equity
-- Growth: Revenue +0% a year over 3 years
+- Growth stalled: zero revenue growth per year over 3 years; earnings per share fell 10% year over year
+- Heavy debt: owes 3.0 times its shareholder equity, limiting financial flexibility
+- Expensive valuation: 25x earnings and only 3.3% free cash flow yield, leaving little margin for disappointment
 
-**Watch next:** The next quarterly report: whether revenue growth of +4% holds.
+**Watch next:** Whether revenue growth accelerates beyond the latest quarter's 4% gain or rolls back into flat territory, since the company's high valuation depends on renewed expansion.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Long-term investors comfortable with mature industrial companies that prioritize returning cash to shareholders over growth, but who can tolerate high valuations and near-consensus skepticism.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $16.0B (+1% vs prior year)

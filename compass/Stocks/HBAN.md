@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend, bouncing
 
-## Solid: valuation stands out, price trend holds it back
+## Regional bank with recent revenue pop but stuck in a downtrend near 52-week lows
 
-Huntington Bancshares scores 51 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend, bouncing.
+Huntington Bancshares is a regional bank generating $1.6B in annual revenue with $2.2B in net income. Latest quarterly revenue jumped 14% year over year, and analysts mostly rate it a buy. The stock has been flat to negative over the past year and sits well below its recent high.
 
 ### What is working
-- Valuation: Trades at 13x earnings
-- Shareholder returns: Share count growing (dilution)
-- Profitability: Keeps 142% of revenue as profit
+- Latest quarter revenue up 14% year over year, well above the 3-year trend of +6% annually
+- Strong cash generation: $2.2B in free cash flow and $16.8B in cash on hand
+- Valuation trades at 13x earnings with 5.7% dividend yield; 70% of 27 analysts rate it a buy
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
+- Price is down 18% from its 52-week high of $19.27 and sits only 19% up from its yearly low
+- Share count has grown 2.7% over three years, diluting existing shareholders
+- Return on equity is just 7%, meaning the company generates limited profit per dollar of shareholder capital
 
-**Watch next:** The next quarterly report: whether revenue growth of +14% holds.
+**Watch next:** Whether the latest quarterly revenue growth of 14% can sustain above the historical 6% annual trend, or if it was a one-time bump.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Long-term investors seeking dividend income who can tolerate downtrends and believe regional banking earnings will recover.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $1.6B (+6% vs prior year)

@@ -14,22 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Uptrend
 
-## Solid: price trend stands out, valuation holds it back
+## Healthcare REIT with high dividend, diluting shares, and stretched valuation
 
-Healthpeak Properties scores 55 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: uptrend.
+Healthpeak Properties owns and leases healthcare facilities like senior housing and medical offices. It generates strong free cash flow of $357 million annually and pays an 8.2% dividend. However, the stock trades at 39 times earnings, shares are growing fast, and profits fell sharply.
 
 ### What is working
-- Price trend: Price is above its 200-day average
-- Profitability: Keeps 12% of revenue as profit
+- Free cash flow margin of 59% shows the core business converts revenue to cash efficiently
+- Stock price is up 14% over the past year and sits in the upper half of its 52-week range
+- Quarterly revenue jumped 78% year over year, suggesting recent growth in property leasing
 
 ### What to be careful about
-- Valuation: Free cash flow yield 2.5%
+- Earnings per share dropped 72% year over year despite revenue gains, raising profitability questions
+- Share count grew 29% over three years, diluting ownership and reducing future earnings per share
+- Valuation is expensive at 39x earnings and 2.5% free cash flow yield leaves little margin for error
 
-**Watch next:** The next quarterly report: whether revenue growth of +78% holds.
+**Watch next:** Whether the 78% quarterly revenue jump reflects genuine business expansion or one-time accounting items, since annual revenue only rose 6%.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Income-focused investors comfortable with REITs who prioritize current dividend yield over capital appreciation and can tolerate share dilution.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $604.0M (+6% vs prior year)

@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend, bouncing
 
-## Solid: shareholder returns stands out, price trend holds it back
+## Casino giant shows strong profits but faces debt load and slowing revenue growth
 
-Las Vegas Sands scores 56 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend, bouncing.
+Las Vegas Sands is a large resort and casino operator that generated $13.0 billion in revenue in fiscal 2025. The company is profitable with a 12% net margin and produces substantial free cash flow. However, the stock price has fallen 38% over the past year and recent quarterly revenue declined 3% year over year.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Valuation: Free cash flow yield 6.7%
-- Profitability: Keeps 12% of revenue as profit
+- Annual revenue grew 47% over the past 3 years, showing long-term expansion despite recent slowdown.
+- Generated $1.9 billion in free cash flow with a 7.4% yield at current valuation, indicating cash-generation strength.
+- Profitability is solid: 22% operating margin and 12% net margin with 140% return on equity.
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
+- Debt stands at 26.3x shareholder equity, an extremely high leverage ratio that limits financial flexibility.
+- Latest quarter revenue fell 3% year over year, signaling demand may be softening despite strong full-year growth.
+- Stock is down 38% over the past year and trades 13% of the way up its 52-week range, reflecting investor concern.
 
-**Watch next:** The next quarterly report: whether revenue growth of -3% holds.
+**Watch next:** Monitor whether next quarter's revenue stabilizes or continues declining, as the latest quarter's 3% drop could signal a broader slowdown in gaming and resort demand.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Long-term investors comfortable with cyclical consumer spending, high leverage, and volatile stocks seeking current income and cash flow generation.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $13.0B (+15% vs prior year)

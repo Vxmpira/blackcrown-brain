@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Neutral read · trend: Turning up
 
-## Solid: shareholder returns stands out, balance sheet holds it back
+## Mature company with strong cash generation but stalled revenue growth
 
-Kimberly-Clark scores 50 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: turning up.
+Kimberly-Clark makes household and personal care products. Revenue has been flat to declining for three years, and earnings per share dropped 20% year over year. The company remains highly profitable and generates substantial free cash flow.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Valuation: Free cash flow yield 4.4%
-- Profitability: Keeps 12% of revenue as profit
+- Net profit margin of 12% and free cash flow margin of 10% show strong operational efficiency
+- Return on equity of 69% is exceptional; the company converts shareholder capital into earnings very effectively
+- Dividend yield of 3.9% plus ongoing share buybacks (-1.5% share count over 3 years) return cash directly to shareholders
 
 ### What to be careful about
-- Balance sheet: Debt is 2.5x shareholder equity
-- Growth: Revenue -1% a year over 3 years
+- Revenue declined 2% year over year and has averaged -1% annually over three years; top-line growth is missing
+- Earnings per share fell 20% year over year despite profitability, signaling earnings pressure
+- Debt is 2.5x shareholder equity; the balance sheet carries meaningful leverage that limits financial flexibility
 
-**Watch next:** The next quarterly report: whether revenue growth of -0% holds.
+**Watch next:** Whether revenue stabilizes or returns to growth in coming quarters, since declining sales over three years paired with falling EPS suggests underlying business momentum is weak.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Long-term investors seeking stable dividend income and cash returns who accept mature, slow-growth businesses and can tolerate moderate leverage on the balance sheet.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $16.4B (-2% vs prior year)

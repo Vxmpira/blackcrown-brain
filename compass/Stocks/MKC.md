@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend
 
-## Solid: valuation stands out, price trend holds it back
+## Spice maker trading cheap after year-long slide, but cash generation remains solid
 
-McCormick & Company scores 53 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend.
+McCormick is a packaged foods company that makes spices, seasonings, and condiments. Annual revenue is $6.8B with a 12% net profit margin. The stock has fallen 28% over the past year and now trades at 8.65x earnings, near the bottom of its 52-week range.
 
 ### What is working
-- Valuation: Free cash flow yield 7.6%
-- Balance sheet: Debt is 0.5x shareholder equity
-- Shareholder returns: Share count flat
+- Valuation is attractive: free cash flow yield of 7.5% and P/E of 8.65 are low by historical standards
+- Cash generation is steady: free cash flow of $962.2M and a 14% free cash flow margin show the business funds itself well
+- Latest quarter revenue jumped 17% year over year, suggesting recent demand or acquisition activity is boosting top line
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
+- Price has dropped 28% in one year and sits 35% below its 52-week high, indicating investor concern about the business
+- Long-term growth is slow: revenue has risen only 3% per year over three years, and earnings per share grew 0% most recently
+- Heavy debt load of $3.7B sits against shareholder equity of roughly $7.4B, limiting financial flexibility if business slows
 
-**Watch next:** The next quarterly report: whether revenue growth of +17% holds.
+**Watch next:** Whether the 17% latest quarter revenue growth sustains or reverses, since annual revenue growth has been flat and this spike may reflect one-time factors.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors seeking stable cash-generating businesses trading at discounted valuations, who can tolerate slow growth and recent price weakness.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-11-30)
 - Revenue $6.8B (+2% vs prior year)

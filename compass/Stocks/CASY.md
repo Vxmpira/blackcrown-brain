@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend, bouncing
 
-## Solid: balance sheet stands out, price trend holds it back
+## Convenience store chain growing fast but trading at a premium valuation
 
-Casey's General Stores, Inc. scores 56 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend, bouncing.
+Casey's is a large convenience store retailer with $17.6B in annual revenue. The company is accelerating: latest quarter revenue jumped 24% year over year, and earnings per share rose 31%. However, the stock price has pulled back 20% over the past six months and sits 24% below its 52-week high.
 
 ### What is working
-- Balance sheet: Debt is 0.6x shareholder equity
-- Shareholder returns: Share count shrinking (buybacks)
-- Analyst consensus: 27 analysts, consensus Buy, 78% rate it a buy
+- Latest quarter revenue surged 24% year over year, well above the 3-year average of 5% annual growth
+- Earnings per share climbed 31% year over year, showing profit is expanding faster than sales
+- Strong balance sheet: debt is only 0.6x shareholder equity, and the company generates $721.6M in free cash flow annually
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Valuation: Free cash flow yield 2.9%
+- Stock trades at 32.4x earnings, which is expensive; free cash flow yield of 2.9% is modest for a retail business
+- Price has fallen 20% in the past six months and sits 42% below its 52-week high of $916.28
+- Net profit margin is thin at 4%, leaving little room for error if fuel or labor costs rise
 
-**Watch next:** The next quarterly report: whether revenue growth of +24% holds.
+**Watch next:** Whether latest quarter revenue growth of 24% year over year can sustain, or if it reverts toward the slower 5% average seen over three years.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable holding through price swings and willing to pay a premium multiple for a stable, cash-generative convenience store business with near-term momentum.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-04-30)
 - Revenue $17.6B (+10% vs prior year)

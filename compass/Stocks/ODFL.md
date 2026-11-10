@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend
 
-## Solid: balance sheet stands out, price trend holds it back
+## Profitable trucking firm stumbles on price but keeps strong cash generation
 
-Old Dominion scores 54 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend.
+Old Dominion is a large trucking and logistics company generating nearly $1 billion in annual free cash flow and keeping 19 cents of every revenue dollar as profit. The full year saw revenue decline 5%, though the latest quarter grew 13% compared to a year ago, signaling potential recovery.
 
 ### What is working
-- Balance sheet: Net cash of $446.2M
-- Shareholder returns: Share count shrinking (buybacks)
-- Profitability: Keeps 19% of revenue as profit
+- Generates $955.1M in free cash flow annually with a 17% margin, meaning strong cash available for owners
+- Maintains 19% net profit margin and 25% operating margin, well above typical industry standards
+- Holds $446.2M in net cash (more cash than debt) and is buying back shares, reducing share count by 6.4% over three years
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Growth: Revenue -4% a year over 3 years
-- Valuation: Free cash flow yield 2.7%
+- Stock price down 33% from its 52-week high and trades 33% of the way up its full year range, showing recent weakness
+- Full year revenue fell 5% and earnings per share dropped 12% year over year, despite the strong latest quarter
+- Trading at 32x earnings and offers only 2.7% free cash flow yield, leaving less margin for error in a downturn
 
-**Watch next:** The next quarterly report: whether revenue growth of +13% holds.
+**Watch next:** Whether the latest quarter's 13% revenue growth marks a real turnaround or a temporary bounce, since full-year trends have been negative.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable with cyclical industrial businesses who value steady cash generation over growth and can tolerate near-term price volatility.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $5.5B (-5% vs prior year)

@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Losing steam
 
-## Solid: balance sheet stands out, growth holds it back
+## News Corp trades near 52-week lows despite analyst buy consensus and strong balance sheet
 
-News Corp (Class B) scores 51 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: losing steam.
+News Corp is a media and entertainment company generating $9.0B in annual revenue with 8% net profit margins. The business is growing slowly at 4% annually over three years, though recent quarters show 6% to 7% growth. The company has minimal debt, returns cash to shareholders through buybacks, and generates $811.0M in free cash flow annually.
 
 ### What is working
-- Balance sheet: Debt is 0.2x shareholder equity
-- Shareholder returns: Share count shrinking (buybacks)
-- Valuation: Free cash flow yield 5.0%
+- Balance sheet is rock solid: debt is only 0.2x shareholder equity, meaning $0.20 owed per dollar of equity owned
+- Analysts are aligned: 88% of 16 covering analysts rate it a buy, the highest consensus score on this sheet
+- Cash generation is steady: free cash flow yield of 5.5% is meaningful, and the company shrunk share count by 3.5% over three years via buybacks
 
 ### What to be careful about
-- Growth: Revenue +4% a year over 3 years
-- Price trend: Price is below its 200-day average
+- Earnings collapsed: EPS dropped 50% year over year despite revenue rising 6%, signaling profit pressure
+- Price momentum is weak: stock sits 18% below its 52-week high and down 4% over the past year, with 30% yearly volatility
+- Growth is slowing: three-year revenue growth of 4% annually is modest, though latest quarter at 6% shows some reacceleration
 
-**Watch next:** The next quarterly report: whether revenue growth of +6% holds.
+**Watch next:** Whether earnings per share can recover in the next two quarters, since the 50% EPS decline is the sharpest weakness in the financial picture.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors seeking stable cash flow and dividend income from a defensive media holding with fortress balance sheet strength, who can tolerate price swings and accept single-digit revenue growth.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-06-30)
 - Revenue $9.0B (+7% vs prior year)

@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend, bouncing
 
-## Solid: balance sheet stands out, price trend holds it back
+## Textron trades cheap with solid cash generation, but price momentum has stalled
 
-Textron scores 56 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend, bouncing.
+Textron is an industrial aerospace and defense company generating $14.8 billion in annual revenue. It is profitable with a 6% net margin and produces nearly $1 billion in free cash flow yearly. The stock trades at 15 times earnings with a 6.5% free cash flow yield.
 
 ### What is working
-- Balance sheet: Net cash of $1.7B
-- Shareholder returns: Share count shrinking (buybacks)
-- Valuation: Free cash flow yield 6.0%
+- Strong balance sheet: $1.7B in net cash with no disclosed debt
+- Earnings grew 18% year over year while revenue grew 4%, showing improving efficiency
+- Valuation appears low: 6.5% free cash flow yield and P/E of 14.73 versus sector peers
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
+- Price is down 15% from its 52-week high and sits below its 200-day moving average
+- Revenue growth is slowing: up just 4% in the latest quarter versus 8% annual growth
+- Profit margins are thin: only 6% net margin and 6% free cash flow margin leave little room for error
 
-**Watch next:** The next quarterly report: whether revenue growth of +4% holds.
+**Watch next:** Whether the recent one-month bounce of 12.8% represents a sustained recovery or another false start in what has been a downtrend since mid-2026.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors seeking a profitable industrial company with steady cash generation and a discounted valuation who are comfortable with a stock currently in a downtrend and volatile at 29% yearly swings.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-01-03)
 - Revenue $14.8B (+8% vs prior year)

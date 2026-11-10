@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend
 
-## Solid: shareholder returns stands out, balance sheet holds it back
+## JBL: Strong earnings growth and buybacks offset recent price decline and high debt
 
-Jabil scores 50 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend.
+Jabil is a large hardware manufacturer with $36 billion in annual revenue. It just reported 29% revenue growth in the latest quarter and 65% earnings-per-share growth, though its stock price has fallen 27.9% over the past six months. The company is returning cash to shareholders through buybacks while carrying significant debt.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Growth: Revenue +1% a year over 3 years
-- Valuation: Free cash flow yield 5.1%
+- Earnings per share jumped 65% year over year, well above revenue growth of 21%
+- Free cash flow yield of 5.3% means the company generates cash relative to its market value
+- Share count has shrunk 21.3% over three years through buybacks, concentrating ownership
 
 ### What to be careful about
-- Balance sheet: Debt is 2.1x shareholder equity
-- Price trend: Price is below its 200-day average
+- Debt is 2.1x shareholder equity, meaning debt load is heavy relative to ownership value
+- Stock sits 34% below its 52-week high and 31% below its peak, in a downtrend
+- Profit margin is thin at 3%, leaving little room for revenue declines to stay profitable
 
-**Watch next:** The next quarterly report: whether revenue growth of +29% holds.
+**Watch next:** Whether the latest quarter's 29% revenue growth continues or slows, since the three-year trend is only +1% annually and recent momentum may not last.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Investors who want exposure to hardware manufacturing and can tolerate high volatility and debt levels in exchange for current cash generation and analyst consensus support.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-08-31)
 - Revenue $36.0B (+21% vs prior year)

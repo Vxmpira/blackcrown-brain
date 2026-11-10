@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Neutral read · trend: Turning up
 
-## Mixed: shareholder returns stands out, profitability holds it back
+## Southwest Airlines shows recovery momentum but profit margins stay thin
 
-Southwest Airlines scores 49 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: turning up.
+Southwest is a major US airline operator with $28.1B in annual revenue. The company is growing revenue but keeping only 2% as profit, while burning cash and carrying $4.9B in debt against $3.6B in cash.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Balance sheet: Debt is 0.7x shareholder equity
-- Price trend: Price is above its 200-day average
+- Stock price up 42% over the past year and sitting 64% of the way up its 52-week range
+- Latest quarter revenue jumped 21% year over year, accelerating from the flat full-year result
+- Shareholder returns strong: share count down 13.1% over 3 years via buybacks plus 2.9% dividend yield
 
 ### What to be careful about
-- Profitability: Keeps 2% of revenue as profit
-- Valuation: Free cash flow yield -3.2%
+- Free cash flow is deeply negative at -$831.0M; company is burning cash despite revenue growth
+- Profit margins razor-thin at 2% net margin and 2% operating margin, leaving little room for cost shocks
+- Stock trades at 21x earnings with 37/100 valuation score; analyst consensus is Hold, not Buy
 
-**Watch next:** The next quarterly report: whether revenue growth of +21% holds.
+**Watch next:** Whether free cash flow turns positive in coming quarters, since the company currently burns cash despite revenue growth and carries debt of 0.7x equity.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors comfortable with cyclical, capital-intensive businesses that may see volatile earnings and are willing to hold through industry cycles.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $28.1B (+2% vs prior year)

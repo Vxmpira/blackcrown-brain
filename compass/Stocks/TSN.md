@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Neutral read · trend: Turning up
 
-## Mixed: balance sheet stands out, growth holds it back
+## Tyson Foods: Flat growth, thin profits, but cash returns to shareholders
 
-Tyson Foods scores 48 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: turning up.
+Tyson Foods is a large agricultural and food processing company generating $54.4B in annual revenue. Growth has stalled at 1% per year over three years, while profitability is very thin at 1% net margin. The company is returning cash to shareholders through buybacks and a 4.1% dividend.
 
 ### What is working
-- Balance sheet: Net cash of $740.0M
-- Shareholder returns: Share count shrinking (buybacks)
+- Strong balance sheet with $740.0M in net cash and no debt listed
+- Returning cash to shareholders via 4.1% dividend yield plus ongoing buybacks that shrunk share count 1.7% over 3 years
+- Free cash flow yield of 5.7% offers income relative to market value, and the company generates $1.2B in annual free cash flow
 
 ### What to be careful about
-- Growth: Revenue +1% a year over 3 years
-- Profitability: Keeps 1% of revenue as profit
+- Earnings per share dropped 41% year over year, signaling a sharp recent profit decline
+- Revenue growth has nearly stopped: +1% annually over 3 years and flat in the latest quarter
+- Very thin profit margins: only 1% net margin and 2% operating margin leave little room for error
 
-**Watch next:** The next quarterly report: whether revenue growth of -0% holds.
+**Watch next:** Monitor whether earnings per share can stabilize or recover from the 41% year-over-year decline, as this is the sharpest warning sign in the data.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** This profile suits long-term investors seeking steady dividend income from a stable business, though they should accept flat growth and acknowledge that near-term earnings pressure is real.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-09-27)
 - Revenue $54.4B (+2% vs prior year)

@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Bearish read · trend: Downtrend
 
-## Mixed: shareholder returns stands out, price trend holds it back
+## Caterpillar: Strong profit engine stumbles on price weakness and rising debt
 
-Caterpillar Inc. scores 49 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: downtrend.
+Caterpillar is a $272 billion heavy machinery and equipment manufacturer that converts about 13 cents of every revenue dollar into profit. The company just posted a 17% jump in quarterly revenue, yet its stock price has fallen 45% from its 52-week high and sits 7% above its yearly low.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Profitability: Keeps 13% of revenue as profit
-- Analyst consensus: 34 analysts, consensus Buy, 59% rate it a buy
+- Profitability is robust: 41% return on equity and 13% net margin show disciplined cost control
+- Latest quarter revenue jumped 17% year over year, suggesting recent demand strength
+- Free cash flow of $8.9 billion funds both a 2.1% dividend and buybacks that shrink share count by 10.9% over three years
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Balance sheet: Debt is 1.4x shareholder equity
-- Growth: Revenue +4% a year over 3 years
+- Price trend is weak: stock down 27% in one month and 36% over six months, sitting near the bottom of its 52-week range
+- Earnings per share fell 15% year over year despite revenue growth, signaling margin pressure or higher costs
+- Debt load is $30.7 billion, equal to 1.4x shareholder equity, which limits financial flexibility if conditions worsen
 
-**Watch next:** The next quarterly report: whether revenue growth of +17% holds.
+**Watch next:** Whether the 17% quarterly revenue surge continues or reverses, as profit growth has diverged sharply from revenue growth.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable with cyclical industrial companies that generate steady cash but face volatile stock price swings tied to economic cycles.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $67.6B (+4% vs prior year)

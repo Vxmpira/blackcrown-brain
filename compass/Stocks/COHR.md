@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Bearish read · trend: Downtrend
 
-## Mixed: balance sheet stands out, shareholder returns holds it back
+## Fast-growing hardware company burning cash despite strong sales momentum
 
-Coherent, Inc. scores 45 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: downtrend.
+Coherent makes technology equipment and parts. Revenue jumped 50% last quarter and 23% annually, with earnings per share up 284% year over year. But the company is burning $1.0B in free cash flow while carrying $4.0B in debt, and its stock has fallen 40% in six months.
 
 ### What is working
-- Balance sheet: Debt is 0.4x shareholder equity
-- Growth: Revenue +11% a year over 3 years
-- Analyst consensus: 32 analysts, consensus Buy, 81% rate it a buy
+- Revenue grew 50% in the latest quarter versus a year ago
+- Earnings per share surged 284% year over year, a steep acceleration
+- Analysts are mostly bullish: 81% rate it a buy with a consensus Buy rating
 
 ### What to be careful about
-- Shareholder returns: Share count growing (dilution)
-- Valuation: Free cash flow yield -2.3%
-- Profitability: Keeps 11% of revenue as profit
+- Free cash flow is negative $1.0B; the company is burning cash despite high revenue
+- Stock has crashed 40.3% in the past six months and trades 48% below its 52-week high
+- Valuation is steep at 46x earnings while profitability margin is only 11%, and the company generates negative free cash flow yield of -2.3%
 
-**Watch next:** The next quarterly report: whether revenue growth of +50% holds.
+**Watch next:** Whether free cash flow turns positive in coming quarters, as the widening gap between earnings growth and cash generation is the core tension.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Investors comfortable with high volatility (91% yearly swings) and who believe growth will eventually convert to sustainable cash generation, not those seeking near-term stability or income.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-06-30)
 - Revenue $7.1B (+23% vs prior year)

@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Bearish read · trend: Downtrend
 
-## Mixed: valuation stands out, price trend holds it back
+## Beaten-down fintech services company with strong cash but earnings slumped
 
-Fidelity National Information Services scores 48 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: downtrend.
+FIS is a large information services company serving financial institutions. It posted 27% revenue growth last quarter but saw earnings per share drop 72% year over year. The stock has fallen 56% in the past year and now trades at depressed valuations.
 
 ### What is working
-- Valuation: Free cash flow yield 16.8%
-- Shareholder returns: Share count shrinking (buybacks)
+- Free cash flow yield of 16.8% is exceptionally high, meaning cash generation relative to market price is strong
+- Latest quarter revenue surged 27% year over year, showing recent business momentum
+- Company returning cash to shareholders via 3.8% dividend yield and 13.1% share count reduction over three years
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Growth: Revenue +3% a year over 3 years
+- Earnings per share crashed 72% year over year despite revenue growth, signaling profitability problems
+- Stock is down 56% over the past year and sits at the bottom of its 52-week range, showing sustained selling pressure
+- Debt load of $16.9B against only $740M in cash raises questions about financial flexibility; debt equals 1.0x shareholder equity
 
-**Watch next:** The next quarterly report: whether revenue growth of +27% holds.
+**Watch next:** Monitor the next earnings report to see whether the 72% EPS decline was a one-time charge or signals an ongoing profitability trend.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors comfortable with turnaround situations who can tolerate high volatility (43% yearly) and need cash income, not those seeking price appreciation or low risk.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $10.7B (+5% vs prior year)

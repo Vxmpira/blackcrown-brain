@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Neutral read · trend: Pullback in uptrend
 
-## Mixed: shareholder returns stands out, valuation holds it back
+## GPC: Slow growth with shareholder returns, but earnings collapsed
 
-Genuine Parts Company scores 45 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: pullback in uptrend.
+Genuine Parts is a $24.3 billion revenue company in specialty retail, growing revenue modestly at 3 to 4 percent annually. Net profit margins have collapsed to near zero, and earnings per share fell 93 percent year over year, creating a 556x price-to-earnings ratio.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
+- Share buybacks shrinking the count 2.2% over three years, concentrating ownership
+- Stock price up 23.7% over six months, now 57% of the way up its 52-week range
+- Paying a 2.8% dividend yield while generating $420.9 million in free cash flow
 
 ### What to be careful about
-- Valuation: Free cash flow yield 2.4%
-- Growth: Revenue +3% a year over 3 years
-- Profitability: Keeps 0% of revenue as profit
+- Earnings per share down 93% year over year, the most severe problem in the data
+- Price trades at 556x earnings, an extreme valuation with almost no profit cushion
+- Net profit margin is 0%, meaning the company barely converts sales into actual profit
 
-**Watch next:** The next quarterly report: whether revenue growth of +4% holds.
+**Watch next:** Whether net margin can recover from 0% and earnings per share can rebound from a 93% collapse in the coming quarters.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors comfortable with slow revenue growth and high dividend yield who believe a temporary earnings trough will reverse, rather than those seeking near-term profitability expansion.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $24.3B (+3% vs prior year)

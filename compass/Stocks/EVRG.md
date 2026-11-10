@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Neutral read · trend: Turning up
 
-## Mixed: analyst consensus stands out, profitability holds it back
+## Utility showing price strength but burning cash while raising dividend
 
-Evergy scores 46 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: turning up.
+Evergy is a regulated electric utility with flat revenue growth over three years. The company is generating strong operating profits but negative free cash flow, meaning it spends more than it collects. Analysts remain bullish despite financial headwinds.
 
 ### What is working
-- Analyst consensus: 22 analysts, consensus Buy, 73% rate it a buy
-- Price trend: Price is above its 200-day average
-- Shareholder returns: Share count growing (dilution)
+- Stock price up 15.5% over the past year and sitting near 52-week highs
+- High dividend yield of 5.1% provides income to shareholders
+- 22 analysts rate it Buy with 73% buy ratings; consensus is positive
 
 ### What to be careful about
-- Profitability: Keeps 15% of revenue as profit
-- Growth: Revenue +1% a year over 3 years
-- Balance sheet: Debt is 1.3x shareholder equity
+- Free cash flow is negative $751.7M, meaning the company is burning cash despite $855.6M in net income
+- Earnings per share fell 3% year over year while revenue grew only 4% last quarter
+- Debt of $13.5B is 1.3x shareholder equity; balance sheet leverage is elevated for a utility
 
-**Watch next:** The next quarterly report: whether revenue growth of +4% holds.
+**Watch next:** Whether free cash flow turns positive in coming quarters, since the company cannot sustain a 5.1% dividend while burning cash long-term.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Investors seeking current income from dividends who accept utilities' slow growth and can tolerate leverage, provided cash generation improves.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $5.7B (+0% vs prior year)

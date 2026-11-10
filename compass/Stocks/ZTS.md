@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend, bouncing
 
-## Solid: shareholder returns stands out, balance sheet holds it back
+## Profitable pet pharma company stumbles on growth while debt piles up
 
-Zoetis scores 52 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend, bouncing.
+Zoetis is a specialty pharmaceutical company for animals. It keeps 28 cents of every revenue dollar as profit and generates $2.3 billion in free cash flow yearly. But revenue growth has slowed to just 2% annually, the stock is down 33% over one year, and debt stands at 2.7 times shareholder equity.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Profitability: Keeps 28% of revenue as profit
-- Valuation: Free cash flow yield 6.3%
+- Profitability is exceptional: 28% net margin and 81% return on equity show the business converts sales into earnings efficiently
+- Cash generation is strong: $2.3 billion free cash flow yield of 6.8% provides cushion and funds both dividends and buybacks
+- Valuation is reasonable: 12.79x earnings and 6.8% free cash flow yield sit below historical norms for quality firms
 
 ### What to be careful about
-- Balance sheet: Debt is 2.7x shareholder equity
-- Price trend: Price is below its 200-day average
-- Growth: Revenue +5% a year over 3 years
+- Revenue is stalling: Latest quarter fell 1% year over year, and three year growth rate is only 5% annually
+- Stock price has tumbled: Down 33% over the past year and currently 38% below its 52-week high at $81.11
+- Debt burden is heavy: $9.0 billion in debt against $1.3 billion in cash means debt is 2.7x shareholder equity
 
-**Watch next:** The next quarterly report: whether revenue growth of -1% holds.
+**Watch next:** Whether revenue can return to positive growth in coming quarters, since the slowdown from 5% to flat growth is the core tension in the data.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Patient investors comfortable with mature, high-cash-flow businesses that trade on yield rather than growth, and who can tolerate near-term volatility.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $9.5B (+2% vs prior year)

@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend
 
-## Solid: balance sheet stands out, price trend holds it back
+## Profitable industrial company faces steep price decline despite strong cash generation
 
-Lennox International scores 55 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend.
+Lennox International is a capital-efficient business that converts 16% of revenue into profit and generates substantial free cash flow. The company trades at reasonable multiples, but its stock has fallen 30% over the past year and trades well below its 52-week high, while full-year revenue declined 3% despite a recent quarterly jump.
 
 ### What is working
-- Balance sheet: Net cash of $43.3M
-- Profitability: Keeps 16% of revenue as profit
-- Valuation: Free cash flow yield 5.2%
+- Net profit margin of 16% and operating margin of 20% show strong cost control and pricing power
+- Free cash flow of $638.8M with 5.3% yield provides funds for dividends and buybacks
+- Return on equity of 61% means the company generates outsized returns on shareholder capital
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Growth: Revenue +3% a year over 3 years
+- Stock down 30% over the past year and sits only 5% up from its 52-week low, indicating sustained selling pressure
+- Analyst consensus is Sell with only 4% of 27 analysts rating it a buy, showing professional skepticism
+- Full-year revenue fell 3% versus prior year despite 10% quarterly growth, suggesting underlying uncertainty
 
-**Watch next:** The next quarterly report: whether revenue growth of +10% holds.
+**Watch next:** Whether the 10% latest quarter revenue growth represents a genuine turnaround or a temporary spike will determine if the analyst sell consensus shifts.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable holding through downturns in profitable industrial companies with strong cash generation, who can ignore short-term analyst sentiment.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $5.2B (-3% vs prior year)

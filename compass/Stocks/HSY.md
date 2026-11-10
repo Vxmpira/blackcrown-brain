@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Bearish read · trend: Downtrend, bouncing
 
-## Mixed: shareholder returns stands out, price trend holds it back
+## Hershey trades near lows with steady cash but weak momentum and high valuation
 
-Hershey Company (The) scores 46 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: downtrend, bouncing.
+Hershey is a large food confectioner generating $11.7B in annual revenue with an 8% net profit margin. The company is currently in a downtrend, trading 28% below its 52-week high, though it generates substantial free cash flow and returns capital to shareholders through dividends and buybacks.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Profitability: Keeps 8% of revenue as profit
-- Valuation: Free cash flow yield 4.7%
+- Free cash flow of $1.8B (16% of revenue) funds dividends and buybacks despite modest growth
+- Return on equity of 18% shows efficient use of shareholder capital
+- Dividend yield of 2.5% plus ongoing share buybacks reduce share count by 2.2% over three years
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Growth: Revenue +4% a year over 3 years
+- Revenue growth flat at 4% annually over three years; latest quarter only +3% year-over-year
+- Stock down 28% from its 52-week high of $236.28 with price 17% below its 200-day moving average
+- Trades at 24x earnings while analysts remain split: only 36% rate it a buy versus consensus Hold
 
-**Watch next:** The next quarterly report: whether revenue growth of +3% holds.
+**Watch next:** Whether revenue can accelerate beyond 3-4% growth in coming quarters, since analyst sentiment remains cautious with only one-third recommending purchase.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Defensive investors seeking steady cash returns who are comfortable with stagnant growth and can tolerate 28% annual price swings.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $11.7B (+4% vs prior year)

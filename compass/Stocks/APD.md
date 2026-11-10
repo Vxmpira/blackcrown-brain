@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Neutral read · trend: Strong uptrend
 
-## Mixed: price trend stands out, valuation holds it back
+## Air Products trades at historic high with shrinking profits and massive debt load
 
-Air Products scores 47 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: strong uptrend.
+Air Products is a specialty chemicals company that supplies industrial gases and related equipment. The company is currently unprofitable on a net income basis, though it generates positive free cash flow. Revenue has declined over three years but showed a 5% gain in the latest quarter.
 
 ### What is working
-- Price trend: Price is above its 200-day average
-- Shareholder returns: Share count flat
-- Analyst consensus: 30 analysts, consensus Buy, 67% rate it a buy
+- Stock price up 19% over the past year and sits 89% up its 52-week range, showing strong momentum
+- Generates $443.9M in free cash flow despite losing money on net income, funding a 2.5% dividend yield
+- Analyst consensus is Buy with 67% of 30 analysts rating it a buy
 
 ### What to be careful about
-- Valuation: Free cash flow yield 0.6%
-- Growth: Revenue -2% a year over 3 years
-- Profitability: Keeps -3% of revenue as profit
+- Company posted a $394.5M net loss in fiscal 2025 with a -3% net margin and -7% operating margin
+- Three-year revenue trend is negative at -2% annually, though latest quarter reversed with +5% growth
+- Valuation is extremely expensive at 130x earnings with only 0.6% free cash flow yield; debt is $18.0B against $69.3B market value
 
-**Watch next:** The next quarterly report: whether revenue growth of +5% holds.
+**Watch next:** Whether the 5% revenue gain in the latest quarter signals a sustained turnaround or remains a one-quarter bounce after three years of decline.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Investors seeking capital gains from momentum and dividend income who can tolerate high valuation multiples, negative profitability, and substantial leverage.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-09-30)
 - Revenue $12.0B (-1% vs prior year)

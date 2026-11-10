@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Turning up
 
-## Solid: shareholder returns stands out, growth holds it back
+## Lowe's shows solid profits and cash generation, but faces debt and mixed growth signals
 
-Lowe's scores 55 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: turning up.
+Lowe's is a large home improvement retailer with $86.3B in annual revenue. It generates strong profits (8% net margin) and free cash flow ($7.7B), though revenue growth has been uneven over the past three years.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Valuation: Free cash flow yield 6.0%
-- Profitability: Keeps 8% of revenue as profit
+- Free cash flow of $7.7B supports a 6.0% cash yield and active share buybacks (share count down 11.2% in 3 years)
+- Latest quarter revenue jumped 8% year over year, showing recent momentum after three-year revenue decline of 4% annually
+- Profit margins are healthy: 8% net margin and 12% operating margin generate consistent earnings
 
 ### What to be careful about
-- Growth: Revenue -4% a year over 3 years
+- Debt load of $39.8B against only $3.2B cash creates 52.2x debt-to-equity ratio, a structural risk if operations weaken
+- Earnings per share fell 3% year over year despite recent revenue growth, signaling margin or cost pressures
+- Stock is down 1.8% over the past year and sits 20% below its 52-week high, with 30% yearly volatility
 
-**Watch next:** The next quarterly report: whether revenue growth of +8% holds.
+**Watch next:** Whether the recent 8% quarterly revenue surge can sustain or if the three-year revenue decline resumes, given the heavy debt load requires consistent cash generation.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable with cyclical retail exposure who value steady cash flow and dividends (2.2% yield) over high growth, and can tolerate elevated financial leverage.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-01-30)
 - Revenue $86.3B (+3% vs prior year)

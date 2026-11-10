@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend
 
-## Solid: profitability stands out, price trend holds it back
+## Prologis: Strong cash generator in downtrend, 81% analyst buy despite near 52-week low
 
-Prologis scores 50 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend.
+Prologis is an industrial real estate company (REIT) that owns and leases warehouses and logistics facilities. It generated $8.8 billion in revenue in 2025 with a 38% profit margin and $5.0 billion in free cash flow. The stock has declined 10.3% over six months and sits 14% below its 52-week high.
 
 ### What is working
-- Profitability: Keeps 38% of revenue as profit
-- Balance sheet: Debt is 0.6x shareholder equity
+- Profitability is strong: 38% net margin and 57% free cash flow margin show efficient operations
+- Analyst backing is broad: 81% of 21 analysts rate it a buy with consensus Buy
+- Cash generation supports dividends: $5.0 billion free cash flow funds 3.1% dividend yield
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Growth: Revenue +14% a year over 3 years
+- Earnings per share fell 11% year over year despite revenue growth, signaling margin or share count pressures
+- Stock is in downtrend: down 10.3% over six months and 14% from 52-week high of 150.06
+- Heavy debt load: $34.7 billion in debt means 0.6x leverage, which is moderate but substantial for cash flow reliance
 
-**Watch next:** The next quarterly report: whether revenue growth of +7% holds.
+**Watch next:** Track whether earnings per share returns to growth or continues to decline, as this disconnect from revenue growth signals whether the business is truly keeping pace with its valuation.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Long-term investors seeking steady dividend income from a cash-generative industrial property owner, who can tolerate current downtrend and are comfortable with moderate debt levels.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $8.8B (+7% vs prior year)

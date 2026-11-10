@@ -14,22 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Turning up
 
-## Mixed: shareholder returns stands out, price trend holds it back
+## KKR: Strong long-term growth stalled, but analysts see value
 
-KKR scores 48 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: turning up.
+KKR is a large asset management and private equity firm with $19.5B in annual revenue. Revenue fell 11% year over year after three years of 51% annual growth. The company keeps 12% of revenue as profit and returned 8% on shareholder equity last year.
 
 ### What is working
-- No area scores above 60 right now.
+- Three-year revenue growth of 51% per year shows the business expanded significantly before recent slowdown
+- 82% of 28 analysts rate it a buy, and consensus is Buy, suggesting professional investors see value
+- Strong balance sheet with $22.6B cash provides cushion despite $36.9B in debt
 
 ### What to be careful about
-- Price trend: Price is above its 200-day average
-- Profitability: Keeps 12% of revenue as profit
+- Revenue dropped 17% in the latest quarter and fell 11% full year, reversing years of growth
+- Stock down 18.8% over the past year and sits 31% below its 52-week high of $142.77
+- Return on equity of 8% and net margin of 12% are modest; free cash flow yield only 0.5%
 
-**Watch next:** The next quarterly report: whether revenue growth of -17% holds.
+**Watch next:** Whether the latest quarter's -17% revenue decline marks a temporary dip or signals sustained weakness in the asset management business.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Patient investors seeking exposure to asset management who can tolerate high volatility (39% yearly swings) while the business navigates a growth slowdown.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $19.5B (-11% vs prior year)

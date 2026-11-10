@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Neutral read · trend: Strong uptrend
 
-## Mixed: balance sheet stands out, analyst consensus holds it back
+## Utility with strong balance sheet but cash burn and analyst skepticism
 
-AES Corporation scores 46 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: strong uptrend.
+AES is a diversified utility company with $12.2B in annual revenue. The stock has risen 6% over the past year and trades at 6x earnings. However, the company is burning cash and all 14 analysts covering it rate it Sell or below.
 
 ### What is working
-- Balance sheet: Net cash of $2.0B
-- Price trend: Price is above its 200-day average
+- Price is above its 200-day average, showing upward momentum over recent months
+- Strong balance sheet with $2.0B in net cash provides financial cushion
+- Dividend yield of 3.9% offers income to shareholders holding long-term
 
 ### What to be careful about
-- Analyst consensus: 14 analysts, consensus Sell, 0% rate it a buy
-- Profitability: Keeps 7% of revenue as profit
-- Growth: Revenue -1% a year over 3 years
+- Free cash flow is -$1.6B, meaning the company is burning cash rather than generating it
+- Earnings per share fell 47% year over year, signaling profit pressure
+- All 14 covering analysts rate the stock Sell; 0% rate it a Buy
 
-**Watch next:** The next quarterly report: whether revenue growth of +16% holds.
+**Watch next:** Whether free cash flow can turn positive next year, since the company is currently burning $1.6B annually despite $2.0B in cash reserves.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Patient income-focused investors comfortable with utilities that may underperform, given analyst consensus is uniformly negative.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $12.2B (-0% vs prior year)

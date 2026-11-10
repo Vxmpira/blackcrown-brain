@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Losing steam
 
-## Solid: balance sheet stands out, valuation holds it back
+## Bloom Energy grows revenue fast but loses money; valuation trades at extreme premium
 
-Bloom Energy Corporation scores 56 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: losing steam.
+Bloom Energy makes industrial electrical equipment. Revenue jumped 39% last year and 21% annually over three years, but the company lost $87.1M and trades at 112x earnings. It has positive free cash flow and net cash on the balance sheet.
 
 ### What is working
-- Balance sheet: Net cash of $10.3M
-- Growth: Revenue +21% a year over 3 years
-- Analyst consensus: 40 analysts, consensus Buy, 60% rate it a buy
+- Revenue grew 140% in the latest quarter versus a year ago
+- Generated $57.2M in free cash flow despite operating losses
+- Holds $10.3M in net cash with minimal debt burden
 
 ### What to be careful about
-- Valuation: Free cash flow yield 0.1%
-- Profitability: Keeps -4% of revenue as profit
+- Lost $87.1M in net income; keeps -4% of revenue as profit
+- Stock down 45% from its 52-week high; fell 27.7% in the last month
+- Trades at 112x earnings with free cash flow yield of only 0.1%; share count up 29.3% in three years
 
-**Watch next:** The next quarterly report: whether revenue growth of +140% holds.
+**Watch next:** Whether the company can turn operating revenue growth into net profitability as scale increases, since margins remain deeply negative despite rising sales.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Long-term investors who believe in unprofitable high-growth industrial companies and can tolerate 111% annual volatility and extreme valuation multiples.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $2.0B (+39% vs prior year)

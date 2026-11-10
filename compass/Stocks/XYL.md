@@ -14,22 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend
 
-## Mixed: balance sheet stands out, price trend holds it back
+## Industrial machinery maker with strong balance sheet but facing recent sales slowdown
 
-Xylem Inc. scores 48 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: downtrend.
+Xylem is an industrials company that generated $9.0B in revenue over the past year with an 11% profit margin. The company has grown revenue 18% annually over three years, but the latest quarter showed revenue down 3% year over year. Its balance sheet is very strong with debt at just 0.3x shareholder equity.
 
 ### What is working
-- Balance sheet: Debt is 0.3x shareholder equity
-- Valuation: Free cash flow yield 3.8%
+- Balance sheet is fortress-like: debt is only 0.3x equity, well below typical industrial peers
+- Three-year revenue growth at 18% annually shows long-term expansion, with $910M in free cash flow generated last year
+- Profitability holds steady: 11% net margin and 14% operating margin mean the company keeps significant earnings from each sales dollar
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
+- Stock is down 35% over the past year and sits near the low end of its 52-week range at $97.62, suggesting recent investor caution
+- Latest quarter revenue fell 3% year over year after years of growth, which may signal demand weakness or market headwinds
+- Share count has grown 34.8% over three years, which dilutes existing shareholders' ownership stake and future earnings per share
 
-**Watch next:** The next quarterly report: whether revenue growth of -3% holds.
+**Watch next:** Watch whether the next few quarterly revenue reports can return to year-over-year growth, since the latest quarter's 3% decline marks a sharp turn from the prior three-year trend.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Suits long-term investors comfortable with cyclical industrial companies that are in a near-term downturn but have strong financial footing.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $9.0B (+6% vs prior year)

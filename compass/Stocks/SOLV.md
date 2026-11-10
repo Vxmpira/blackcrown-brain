@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Neutral read · trend: Uptrend
 
-## Mixed: price trend stands out, valuation holds it back
+## Healthcare operator with strong profit margins facing revenue slowdown and cash burn
 
-Solventum scores 48 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: uptrend.
+Solventum is a large healthcare facilities company generating $8.3B in annual revenue with a 19% net profit margin. Recent momentum shows the stock up 23% over the past year, but the business itself is struggling with flat three-year revenue growth and a 7% drop in the latest quarter.
 
 ### What is working
-- Price trend: Price is above its 200-day average
+- Stock price sits 86% of the way up its 52-week range, showing sustained upward momentum (+23% over one year)
+- Operating margin of 26% and net margin of 19% show the company converts most of its revenue into profit
+- Return on equity of 32% indicates strong returns on shareholder capital deployed
 
 ### What to be careful about
-- Valuation: Free cash flow yield -0.1%
-- Shareholder returns: Share count growing (dilution)
-- Growth: Revenue +1% a year over 3 years
+- Revenue declined 7% in the latest quarter and has grown only 1% annually over three years, suggesting a stalling business
+- Free cash flow is negative at -$10.0M while company burns cash, despite reporting $1.6B in net income
+- Valuation trades at 98x earnings (P/E 97.77), an extremely high multiple that leaves little room for disappointment
 
-**Watch next:** The next quarterly report: whether revenue growth of -7% holds.
+**Watch next:** Whether the company can return to positive free cash flow while stabilizing its slowing revenue trend, as the current cash burn undermines the profitability numbers.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors seeking exposure to established healthcare infrastructure who can tolerate high valuation risk and are betting on a turnaround in revenue growth.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $8.3B (+1% vs prior year)

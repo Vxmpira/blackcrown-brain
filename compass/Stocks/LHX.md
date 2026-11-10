@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend, bouncing
 
-## Solid: balance sheet stands out, price trend holds it back
+## Defense contractor with steady growth, weak price momentum, and solid cash returns
 
-L3Harris scores 51 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend, bouncing.
+L3Harris is a $50.7 billion aerospace and defense company. It grew revenue 10% last year and generates $2.7 billion in free cash annually. The stock has fallen 5% over the past year and trades 29% below its 52-week high.
 
 ### What is working
-- Balance sheet: Debt is 0.5x shareholder equity
-- Shareholder returns: Share count shrinking (buybacks)
-- Valuation: Free cash flow yield 5.2%
+- Revenue expanded 10% year over year to $21.3B, with quarterly growth of 7%
+- Free cash flow of $2.7B supports a 5.3% cash yield and 2.4% dividend
+- Low debt relative to equity (0.5x ratio) and shrinking share count from buybacks
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
+- Stock is down 5% over one year and sits 27% below its 52-week high of $378.48
+- Price momentum weak: 50-day average is below the 200-day average
+- Net profit margin of 8% and return on equity of 8% are modest for the sector
 
-**Watch next:** The next quarterly report: whether revenue growth of +7% holds.
+**Watch next:** Whether the recent 15.5% monthly bounce signals a reversal in the downtrend or remains a temporary rebound amid 30% yearly volatility.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable with cyclical industrials who prioritize steady cash generation and dividends over near-term price appreciation.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-01-03)
 - Revenue $21.3B (+10% vs prior year)

@@ -14,22 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Losing steam
 
-## Solid: valuation stands out, price trend holds it back
+## Strong cash generation and analyst support offset weak earnings and falling stock price
 
-Capital One scores 55 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: losing steam.
+Capital One is a credit services company that lent $8.1 billion in revenue last year, up 36% from the prior year. It generated $2.5 billion in net income and $26.1 billion in free cash flow. The stock has fallen 10% over the past year and sits 24% below its 52-week high.
 
 ### What is working
-- Valuation: Trades at 11x earnings
-- Analyst consensus: 29 analysts, consensus Buy, 79% rate it a buy
+- Revenue jumped 36% year over year to $8.1B, with quarterly revenue up 24%
+- Generated $26.1B in free cash flow, yielding 21.8% on the current market value
+- Trades at 11x earnings, and 79% of analysts rate it a buy
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
+- Earnings per share fell 65% year over year despite revenue growth
+- Stock price down 10% over the past year and sits 24% below its 52-week high
+- Return on equity is only 2%, and share count grew 37.7% over three years, diluting existing shareholders
 
-**Watch next:** The next quarterly report: whether revenue growth of +24% holds.
+**Watch next:** The gap between strong revenue growth and falling earnings per share needs to close, or investors will question whether the business is actually becoming more profitable.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors comfortable with cyclical financial stocks who value cash generation and analyst consensus over recent price momentum and near-term earnings trends.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $8.1B (+36% vs prior year)

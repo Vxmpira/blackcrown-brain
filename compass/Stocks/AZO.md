@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Bearish read · trend: Downtrend, bouncing
 
-## Mixed: shareholder returns stands out, balance sheet holds it back
+## Profitable retailer faces debt burden while analysts stay bullish
 
-AutoZone scores 49 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: downtrend, bouncing.
+AutoZone is a specialty retailer of aftermarket auto parts and accessories. It generated $20.3B in revenue last year with a 13% profit margin and $1.8B in free cash flow. The company carries significant debt at 37.8x shareholder equity, which is the main financial constraint.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Analyst consensus: 33 analysts, consensus Buy, 82% rate it a buy
-- Profitability: Keeps 13% of revenue as profit
+- Strong profitability: keeps 13% of revenue as net profit and generates $1.8B in free cash flow annually
+- Analyst support: 82% of 33 covering analysts rate it a buy, with consensus Buy rating
+- Shareholder returns: share count down 11.7% over 3 years through buyback program
 
 ### What to be careful about
-- Balance sheet: Debt is 37.8x shareholder equity
-- Price trend: Price is below its 200-day average
-- Growth: Revenue +5% a year over 3 years
+- Extreme debt load: debt is 37.8x shareholder equity, a structural balance sheet risk
+- Price momentum weak: down 13% over past year, trading 37% of the way up its 52-week range
+- Slow growth: revenue up only 5% annually over 3 years; earnings per share +5% year over year
 
-**Watch next:** The next quarterly report: whether revenue growth of +6% holds.
+**Watch next:** Whether the company can reduce its debt-to-equity ratio while maintaining free cash flow generation and buyback activity.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors comfortable with high leverage and cyclical retail exposure who believe analyst consensus on valuation and the company's ability to service its debt from operating cash flow.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-08-29)
 - Revenue $20.3B (+7% vs prior year)

@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Losing steam
 
-## Solid: shareholder returns stands out, growth holds it back
+## Defensive cash machine losing momentum; cheap valuation offsets earnings decline
 
-Archer Daniels Midland scores 54 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: losing steam.
+ADM is a large agricultural processor generating $25.0B in annual revenue with a 4% profit margin. The company produces steady free cash flow of $4.2B per year and returns capital to shareholders through buybacks and a 2.4% dividend. Growth has stalled, with three-year revenue declining 3% annually and latest earnings down 39% year-over-year.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Balance sheet: Debt is 0.3x shareholder equity
-- Valuation: Free cash flow yield 12.6%
+- Free cash flow yield of 12.6% and P/E of 13x suggest the market is pricing in weakness
+- Balance sheet is fortress-like: debt of only 0.3x shareholder equity provides cushion
+- Share count down 14% over three years and 2.4% dividend yield show consistent shareholder returns
 
 ### What to be careful about
-- Growth: Revenue -3% a year over 3 years
-- Analyst consensus: 15 analysts, consensus Hold, 33% rate it a buy
-- Price trend: Price is below its 200-day average
+- Earnings per share dropped 39% year-over-year, the sharpest decline in the dataset
+- Stock down 13.8% in the past month and 14.1% over six months; currently 42% down from its 52-week high of 88.09
+- Revenue has shrunk on average 3% annually over the past three years despite latest quarter showing +3% growth
 
-**Watch next:** The next quarterly report: whether revenue growth of +3% holds.
+**Watch next:** Whether the latest quarter's 3% revenue growth signals a reversal of the three-year downtrend or remains a one-time bounce.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Patient investors seeking defensive exposure with modest income who can tolerate volatility and accept that earnings may remain pressured before stabilizing.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $25.0B (+2% vs prior year)

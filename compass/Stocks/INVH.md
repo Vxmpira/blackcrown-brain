@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend
 
-## Solid: valuation stands out, price trend holds it back
+## Residential REIT with strong cash generation but shrinking revenue
 
-Invitation Homes scores 54 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend.
+Invitation Homes owns and manages single-family rental homes. The company generates substantial free cash flow and profit margins, though reported revenue dropped 25% year over year. Stock price has fallen 4% over the past year and trades below its 200-day moving average.
 
 ### What is working
-- Valuation: Free cash flow yield 7.2%
-- Profitability: Keeps 1318% of revenue as profit
-- Shareholder returns: Share count flat
+- Free cash flow margin of 2641% and $1.2B in annual free cash flow show exceptional cash generation
+- Profit margin of 1318% indicates the company keeps most revenue as profit after all expenses
+- Dividend yield of 3.1% with flat share count means shareholders receive steady returns without dilution
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Growth: Latest revenue -25% year over year
+- Revenue fell 25% year over year to $44.6M, raising questions about core business momentum
+- Stock is down 4% over the past year and sits 12% below its 52-week high of $30.59
+- Debt of $8.7B is 1.0x shareholder equity, indicating moderate leverage that could limit flexibility
 
-**Watch next:** The next quarterly report: whether revenue growth of -25% holds.
+**Watch next:** Whether the 25% revenue decline represents a temporary reporting issue or signals weakness in the underlying rental business, since the massive profit and cash flow numbers seem inconsistent with such a sharp revenue drop.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors seeking income through dividends who can tolerate a residential REIT in a downtrend and want to monitor the revenue situation closely.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2016-12-31)
 - Revenue $44.6M (-25% vs prior year)

@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend
 
-## Solid: shareholder returns stands out, price trend holds it back
+## Profitable industrial leader losing momentum despite strong recent quarter
 
-Hubbell Incorporated scores 52 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend.
+Hubbell makes electrical equipment and parts. The company is profitable, generates steady free cash flow, and returned $874.7M in cash to shareholders in 2025. Recent quarter revenue jumped 25% year over year, but the stock price has fallen 5% over the past year and sits 21% below its 52-week high.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Profitability: Keeps 15% of revenue as profit
-- Growth: Revenue +6% a year over 3 years
+- Net profit margin of 15% and operating margin of 21% show the business runs efficiently
+- Generated $874.7M in free cash flow in 2025 with a 15% free cash flow margin
+- Latest quarter revenue up 25% year over year signals near-term demand strength
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
+- Stock down 5% over the past year and sits 21% below its 52-week high of $557.85
+- Price trades at 26x earnings, which is above the free cash flow yield of 3.7%
+- Debt of $4.8B is 1.2x shareholder equity, leaving limited room for financial stress
 
-**Watch next:** The next quarterly report: whether revenue growth of +25% holds.
+**Watch next:** Whether the 25% quarterly revenue growth in the latest quarter is sustainable or a temporary spike, and how that affects full-year 2026 guidance.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable with cyclical industrial stocks that value steady cash generation and buybacks over rapid stock price gains.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $5.8B (+4% vs prior year)

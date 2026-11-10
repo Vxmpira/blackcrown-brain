@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend
 
-## Solid: shareholder returns stands out, price trend holds it back
+## Oil services company posting slow growth but cheap valuation and strong cash returns
 
-Halliburton scores 52 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend.
+Halliburton is an oil and gas equipment and services provider with $22.2B in annual revenue. The company is profitable with a 6% net margin and generates $1.7B in free cash flow yearly. It returns capital to shareholders through buybacks and a 1.7% dividend.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Valuation: Free cash flow yield 6.4%
-- Balance sheet: Debt is 0.6x shareholder equity
+- Valuation is attractive: trades at 13x earnings with a 6.4% free cash flow yield
+- Capital allocation favors shareholders: share count down 6.1% over 3 years through buybacks
+- Balance sheet is solid: debt of 0.6x shareholder equity leaves room for flexibility
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Growth: Revenue +3% a year over 3 years
+- Revenue declined 3% year over year in the latest full year; 3-year growth only 3% annually
+- Stock is down 24.2% over the past 6 months and sits 26% below its 52-week high
+- Price trend is weak: 50-day average below 200-day average; sits only 34% up its yearly range
 
-**Watch next:** The next quarterly report: whether revenue growth of +2% holds.
+**Watch next:** Whether the latest quarter's 2% revenue growth marks a turnaround or if the full-year decline resumes.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable with cyclical energy exposure who value cash generation and buybacks over revenue growth.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $22.2B (-3% vs prior year)

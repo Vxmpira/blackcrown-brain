@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend, bouncing
 
-## Solid: shareholder returns stands out, price trend holds it back
+## Honeywell trades cheap with strong cash but growth has stalled
 
-Honeywell scores 52 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend, bouncing.
+Honeywell is a large industrial conglomerate with $37.4B in annual revenue. It generates steady profits and significant free cash flow, but revenue growth has slowed to just 1% year over year in the latest quarter. The stock is down 13% from its 52-week high and trades below its longer-term average price.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Balance sheet: Debt is 0.6x shareholder equity
-- Valuation: Free cash flow yield 3.7%
+- Valuation is low: trades at 10x earnings with a 7.5% free cash flow yield, meaning cheap entry relative to what it produces
+- Profitability remains solid: keeps 13% of revenue as profit and generates $5.4B in annual free cash flow
+- Balance sheet is stable: debt is only 0.6x equity, and the company is buying back shares (count down 5.9% over 3 years) and paying a 2.2% dividend
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Growth: Revenue +2% a year over 3 years
+- Growth is weak: revenue rose only 1% last quarter and just 2% annually over the past three years
+- Earnings fell 16% year over year, signaling profit pressure despite revenue gains
+- Price momentum is fading: stock is 48% of the way up its 52-week range and sits below its 200-day average
 
-**Watch next:** The next quarterly report: whether revenue growth of +1% holds.
+**Watch next:** Whether the latest quarter's 1% revenue growth can accelerate or if slowing demand persists in coming quarters.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Investors who seek stable cash-generating businesses trading at low multiples and are comfortable with minimal growth in exchange for steady returns and shareholder distributions.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $37.4B (+8% vs prior year)

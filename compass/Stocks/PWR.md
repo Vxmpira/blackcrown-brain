@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend
 
-## Solid: balance sheet stands out, valuation holds it back
+## Fast-growing engineer hits recent turbulence despite strong earnings.
 
-Quanta Services scores 54 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend.
+Quanta Services is a large industrial engineering and construction company posting robust revenue growth of 19% annually over three years, with latest quarterly revenue up 57% year over year. The company operates profitably but trades at a premium valuation while its stock price has declined significantly in recent months despite analyst backing.
 
 ### What is working
-- Balance sheet: Net cash of $436.7M
-- Growth: Revenue +19% a year over 3 years
-- Shareholder returns: Share count growing (dilution)
+- Revenue grew 57% in the latest quarter versus a year ago, well above the 19% three-year average rate.
+- Balance sheet is strong with net cash of $436.7M, providing financial flexibility during downturns.
+- Analyst consensus is Buy, with 81% of 36 analysts rating it a buy, suggesting institutional confidence in fundamentals.
 
 ### What to be careful about
-- Valuation: Free cash flow yield 1.8%
-- Price trend: Price is below its 200-day average
+- Stock is down 15% in one month and 22.9% over six months, sitting 25% below its 52-week high despite year-to-date gains.
+- Trades at 52.98x earnings and carries a 1.8% free cash flow yield, suggesting limited margin of safety at current prices.
+- Keeps only 4% of revenue as profit and generates 6% free cash flow margin, leaving limited cushion if growth slows.
 
-**Watch next:** The next quarterly report: whether revenue growth of +57% holds.
+**Watch next:** Monitor whether the recent 57% quarterly revenue surge can sustain, or if it proves a temporary spike that fails to support the elevated valuation.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Investors comfortable with volatile, high-growth industrials who believe near-term price weakness is temporary and analyst consensus will prove correct.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $28.5B (+20% vs prior year)

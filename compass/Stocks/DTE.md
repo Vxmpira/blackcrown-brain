@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Bearish read · trend: Downtrend, bouncing
 
-## Mixed: valuation stands out, balance sheet holds it back
+## Utility with strong cash generation faces debt concerns and stalled long-term growth
 
-DTE Energy scores 47 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: downtrend, bouncing.
+DTE Energy is a regulated electric utility generating $12.6 billion in annual revenue. It converts about 12% of revenue into profit and produces substantial free cash flow of $3.4 billion yearly. The company is down 11% from its 52-week high and has grown earnings per share only 4% year over year.
 
 ### What is working
-- Valuation: Free cash flow yield 11.8%
-- Profitability: Keeps 12% of revenue as profit
-- Analyst consensus: 23 analysts, consensus Buy, 61% rate it a buy
+- Free cash flow margin of 27% provides substantial cash to shareholders and debt service
+- Dividend yield of 3.6% paid from operating cash, with 61% of analysts rating it a buy
+- Latest quarter revenue jumped 16% year over year, suggesting near-term momentum despite flat 3-year trend
 
 ### What to be careful about
-- Balance sheet: Debt is 2.1x shareholder equity
-- Price trend: Price is below its 200-day average
-- Growth: Revenue +1% a year over 3 years
+- Debt of $25.3 billion is 2.1x shareholder equity, limiting financial flexibility for a utility
+- Price is 11% below its 52-week high and sits below its 200-day moving average in a downtrend
+- Three-year revenue growth is only 1% annually; share count grew 5.6% over three years, diluting existing holders
 
-**Watch next:** The next quarterly report: whether revenue growth of +16% holds.
+**Watch next:** Whether the 16% latest-quarter revenue growth sustains or reverts to the 1% annual three-year trend, as this will signal if the business is accelerating or if growth remains structurally limited.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Investors seeking steady utility dividends with regulatory stability who are comfortable holding through volatility and can accept slow earnings growth in exchange for predictable cash generation.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2017-12-31)
 - Revenue $12.6B (+19% vs prior year)

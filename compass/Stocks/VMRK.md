@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Turning up
 
-## Strong: profitability stands out, growth holds it back
+## High-profit REIT with slow growth trades at premium valuation
 
-Vivmark Residential scores 63 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: turning up.
+Vivmark Residential is a real estate investment trust that owns residential properties. It generates strong cash profits with a 41% net margin and pays a 2.1% dividend, but revenue grows slowly at 3-4% per year.
 
 ### What is working
-- Profitability: Keeps 41% of revenue as profit
-- Shareholder returns: Share count flat
-- Balance sheet: Debt is 0.8x shareholder equity
+- Keeps 41% of revenue as profit, well above typical business averages
+- Free cash flow margin of 61% means most revenue converts to actual cash
+- Pays 2.1% dividend yield and has kept share count nearly flat for three years
 
 ### What to be careful about
-- Growth: Revenue +4% a year over 3 years
+- Trades at 58x earnings, which is expensive compared to growth rate of 3-4%
+- Revenue growth only 3% last quarter and 4% annually over three years
+- Price is 7% below its 52-week high and 50-day average trails 200-day average
 
-**Watch next:** The next quarterly report: whether revenue growth of +3% holds.
+**Watch next:** Whether the recent one-month gain of 6.9% signals a genuine turnaround or bounces back down, given the 50-day moving average still lags the 200-day.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Long-term investors seeking steady dividend income who can tolerate high valuations and slow growth in exchange for reliable cash generation.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2019-12-31)
 - Revenue $2.7B (+5% vs prior year)

@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend
 
-## Solid: growth stands out, price trend holds it back
+## Fast-growing Latin America e-commerce leader hit hard; profitable but pricey
 
-MercadoLibre scores 53 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend.
+MercadoLibre is an e-commerce and payments platform serving Latin America, with revenue growing 40% annually and generating 10% net profit margins. The stock has fallen 28% over the past year and now trades 34% below its 52-week high, though the business continues to expand rapidly.
 
 ### What is working
-- Growth: Revenue +40% a year over 3 years
-- Profitability: Keeps 10% of revenue as profit
-- Shareholder returns: Share count shrinking (buybacks)
+- Revenue jumped 44% in the latest quarter and has grown 40% per year over three years
+- Converts 10% of revenue to net profit and generated $10.8B in free cash flow last year
+- Return on equity stands at 24%, and the company is shrinking share count through buybacks
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Balance sheet: Debt is 1.6x shareholder equity
+- Stock price is down 28% over one year and sits at the bottom of its 52-week range
+- Trades at 41x earnings, which is high relative to the 13.9% free cash flow yield
+- Debt of $13.2B is 1.6x shareholder equity, leaving less cushion if business slows
 
-**Watch next:** The next quarterly report: whether revenue growth of +44% holds.
+**Watch next:** Whether the stock can stabilize after its sharp decline, or if momentum weakness signals deeper concern about Latin American consumer spending.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Long-term investors comfortable with high volatility (42% yearly) who believe in emerging market growth and can tolerate a compressed valuation multiple.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $20.3B (+34% vs prior year)

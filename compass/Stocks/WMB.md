@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend
 
-## Mixed: balance sheet stands out, price trend holds it back
+## Profitable midstream energy company facing price headwinds despite analyst backing
 
-Williams Companies scores 49 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: downtrend.
+Williams Companies is an energy infrastructure business that generated $14.9B in revenue and $2.6B in net income last year. The company maintains strong profitability with an 18% net margin and positive free cash flow, but its stock price has declined 9.8% over the past six months despite a 13% gain over the past year.
 
 ### What is working
-- Balance sheet: Net cash of $203.0M
-- Shareholder returns: Share count flat
-- Profitability: Keeps 18% of revenue as profit
+- Strong profitability: 18% net margin and 20% return on equity show efficient operations
+- Analyst consensus: 87% of 30 analysts rate it a buy with an overall Buy rating
+- Solid cash generation: $1.0B free cash flow supports the 2.8% dividend yield
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Growth: Revenue -6% a year over 3 years
-- Valuation: Free cash flow yield 1.2%
+- Price momentum weak: Stock sits 15% below its 52-week high and below its 200-day average
+- Revenue stalled: Latest quarter showed 0% growth year over year, with 3-year revenue decline of 6% annually
+- Expensive valuation: Trades at 26x earnings with only 1.2% free cash flow yield
 
-**Watch next:** The next quarterly report: whether revenue growth of +0% holds.
+**Watch next:** Monitor whether quarterly revenue can return to year-over-year growth, as the latest quarter's flat performance contradicts the full-year 18% increase.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Long-term investors seeking steady cash flow and dividend income who can tolerate energy sector volatility and near-term price weakness.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $14.9B (+18% vs prior year)

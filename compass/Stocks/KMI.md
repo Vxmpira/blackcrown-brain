@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend
 
-## Solid: shareholder returns stands out, price trend holds it back
+## Profitable midstream operator paying 6.5% yield, but price momentum has stalled
 
-Kinder Morgan scores 55 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend.
+Kinder Morgan transports oil, gas, and other energy products through pipelines and terminals. It keeps one dollar of profit for every five dollars it collects, and generates substantial free cash flow. The company has recovered revenue growth this year after a three-year decline.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Profitability: Keeps 20% of revenue as profit
-- Valuation: Free cash flow yield 4.2%
+- Net profit margin of 20% and free cash flow margin of 19% show strong cost control
+- Dividend yield of 6.5% plus ongoing share buybacks (down 1.6% over three years) reward shareholders
+- Latest revenue up 12% year over year, reversing a three-year decline of 6% annually
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Growth: Revenue -6% a year over 3 years
+- Stock price is 9% below its 52-week high and sits below its 200-day moving average, signaling weakening momentum
+- Debt of 33.1 billion dollars equals the entire shareholder equity, leaving limited borrowing room
+- Three-year revenue trend shows -6% annual decline despite recent quarterly strength, raising durability questions
 
-**Watch next:** The next quarterly report: whether revenue growth of +12% holds.
+**Watch next:** Whether the 12% quarterly revenue growth can sustain or whether the stock price finds support above its 200-day average.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Long-term investors seeking steady cash income from a mature utility-like business who can tolerate 22% price swings and are comfortable with energy sector exposure.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $15.2B (+13% vs prior year)

@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Turning up
 
-## Solid: shareholder returns stands out, growth holds it back
+## Elevator maker with steady cash, slowing growth, and recent momentum bounce
 
-Otis Worldwide scores 56 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: turning up.
+Otis is a large industrial machinery company that generates reliable profits and cash flow from a mature business. Revenue grew just 1% last year, though the latest quarter showed 6% growth. The stock fell 15% over the past year but has rebounded 16% in the past month.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Valuation: Free cash flow yield 4.7%
-- Profitability: Keeps 10% of revenue as profit
+- Converts 10% of revenue into profit and generates $1.4B in free cash flow annually
+- Returning capital to shareholders: share count down 6.6% over three years plus 1.6% dividend yield
+- Latest quarter revenue up 6% year over year, suggesting possible acceleration from the 1% annual growth
 
 ### What to be careful about
-- Growth: Revenue +2% a year over 3 years
+- Earnings per share down 14% year over year despite higher revenue, signaling margin pressure
+- Three-year revenue growth of only 2% per year indicates a slow-growing business
+- Carries $8.2B in debt against $866M in cash, meaning net debt of $7.3B limits financial flexibility
 
-**Watch next:** The next quarterly report: whether revenue growth of +6% holds.
+**Watch next:** Whether the 6% quarterly revenue growth can sustain or if it reverts to the slower 1-2% annual trend, since earnings fell even as sales rose.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Long-term investors comfortable with slow growth who value reliable cash generation and dividends over capital appreciation.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $14.4B (+1% vs prior year)

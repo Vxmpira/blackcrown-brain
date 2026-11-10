@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend, bouncing
 
-## Solid: valuation stands out, price trend holds it back
+## Defense contractor showing growth momentum but caught in a downtrend from recent highs
 
-Huntington Ingalls Industries scores 53 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend, bouncing.
+Huntington Ingalls is an aerospace and defense manufacturer with $12.5B in annual revenue. The company is growing sales and earnings, generating substantial free cash flow, and returning capital to shareholders through buybacks and dividends. However, the stock price has fallen 33% from its 52-week high and sits near the bottom of its yearly trading range.
 
 ### What is working
-- Valuation: Free cash flow yield 6.6%
-- Balance sheet: Debt is 0.5x shareholder equity
-- Shareholder returns: Share count shrinking (buybacks)
+- Revenue grew 11% in the latest quarter and 8% in the full year, accelerating from the 5% three-year average
+- Free cash flow of $794M yields 6.6%, well above typical bond rates, and the company has minimal debt at 0.5x equity
+- Analysts favor the stock with 59% rating it a buy, and the company is shrinking share count through buybacks while paying a 2.2% dividend
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
+- Stock is down 1.5% over the past year and sits 33% below its 52-week high of $453.73, showing prolonged weakness
+- Price trend is weak: the 50-day average sits below the 200-day average, a sign of recent momentum loss
+- Profitability margins are thin at 5% net margin and 6% free cash flow margin, leaving little room for operational missteps
 
-**Watch next:** The next quarterly report: whether revenue growth of +11% holds.
+**Watch next:** Whether the stock can hold above its 52-week low of $257.05 or whether the downtrend continues to test support levels, since the recent one-month bounce of 15.4% needs to establish a sustainable reversal.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors who value steady free cash flow generation and defense sector exposure but can tolerate high volatility (40% yearly swings) and accept that near-term price momentum is negative.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $12.5B (+8% vs prior year)

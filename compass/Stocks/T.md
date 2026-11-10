@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend
 
-## Solid: valuation stands out, price trend holds it back
+## Mature telecom with strong cash flow, but stock price down 12% as growth stalls
 
-AT&T scores 56 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend.
+AT&T is a large telecommunications company generating $125.6B in annual revenue. It converts roughly 17% of revenue into profit and produces substantial free cash flow. The stock has fallen sharply while the company maintains stable operations and pays a high dividend.
 
 ### What is working
-- Valuation: Free cash flow yield 11.8%
-- Shareholder returns: Share count shrinking (buybacks)
-- Profitability: Keeps 17% of revenue as profit
+- Free cash flow yield of 12.6% is unusually high, meaning the cash generated relative to market value is substantial
+- Profitability remains solid with 17% net margin and 18% return on equity, showing efficient use of shareholder capital
+- Dividend yield of 6.9% combined with ongoing buybacks (share count down 5.4% over 3 years) returns cash directly to holders
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
+- Revenue growth is weak at +1% annually over 3 years; latest quarter's +5% growth has not reversed the longer trend
+- Stock is down 12% over the past year and sits 25% below its 52-week high, reflecting sustained investor skepticism
+- Debt of $134.7B is 1.1x shareholder equity, creating financial risk if operations weaken or rates rise
 
-**Watch next:** The next quarterly report: whether revenue growth of +5% holds.
+**Watch next:** Whether the latest quarter's 5% revenue growth represents a turning point or a temporary bump in an otherwise stagnant business.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors seeking current income through dividends and buybacks who can tolerate a mature, slow-growth company and accept recent price weakness.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $125.6B (+3% vs prior year)

@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend
 
-## Solid: valuation stands out, price trend holds it back
+## Mature telecom with strong cash and dividends, but growth and price momentum lag
 
-Verizon scores 55 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend.
+Verizon is a large telecommunications company generating $138.2 billion in annual revenue with a 13% net profit margin. It produces substantial free cash flow of $37.1 billion per year and returns cash to shareholders through a 7.1% dividend yield. However, the company is showing little revenue growth and faces a near-term downtrend in its stock price.
 
 ### What is working
-- Valuation: Free cash flow yield 19.1%
-- Profitability: Keeps 13% of revenue as profit
-- Shareholder returns: Share count growing (dilution)
+- Free cash flow margin of 27% and $37.1B annual free cash flow support the 7.1% dividend
+- Trading at 12x earnings with a 19.4% free cash flow yield, suggesting valuation room
+- Return on equity of 16% shows efficient use of shareholder capital
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Growth: Revenue +0% a year over 3 years
+- Revenue flat over three years at 0% annual growth and only +1% in latest quarter
+- Stock down 4.4% over six months and sits 11% below its 52-week high
+- Debt of $93.1B is 0.9x shareholder equity, creating leverage risk in downturns
 
-**Watch next:** The next quarterly report: whether revenue growth of +1% holds.
+**Watch next:** Whether revenue growth accelerates beyond 1% year-over-year or continues to stall, as growth is the primary weakness in this otherwise cash-generative profile.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Long-term investors seeking steady dividend income and cash flow stability over capital appreciation, with tolerance for limited growth.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $138.2B (+3% vs prior year)

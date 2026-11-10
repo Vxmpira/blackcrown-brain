@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Turning up
 
-## Solid: balance sheet stands out, growth holds it back
+## Solid profitability masks recent revenue slowdown and pricey valuation
 
-Vulcan Materials Company scores 55 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: turning up.
+Vulcan Materials is a large construction materials company that generated $7.9B in revenue and $1.1B in free cash flow over the past year. It trades at 34x earnings with a strong balance sheet but faces recent quarterly revenue decline.
 
 ### What is working
-- Balance sheet: Debt is 0.5x shareholder equity
-- Shareholder returns: Share count shrinking (buybacks)
-- Profitability: Keeps 14% of revenue as profit
+- Profitability is solid: keeps 14% of revenue as net profit and generates $1.1B in free cash flow annually
+- Balance sheet is fortress-like: debt is only 0.5x shareholder equity, leaving room for flexibility
+- Analyst consensus leans positive: 63% of 30 analysts rate it a buy, and the stock is up 16.9% over the past month
 
 ### What to be careful about
-- Growth: Revenue +3% a year over 3 years
-- Valuation: Free cash flow yield 3.0%
+- Latest quarter revenue dropped 5% year over year, signaling recent business weakness despite full-year growth of 7%
+- Valuation is stretched at 34x earnings; free cash flow yield of 3.1% offers limited income cushion
+- Stock has gone nowhere for a year (down 0.3%) and sits 13% below its 52-week high, with high volatility at 30% annually
 
-**Watch next:** The next quarterly report: whether revenue growth of -5% holds.
+**Watch next:** Monitor whether the 5% quarterly revenue decline signals a temporary dip or the start of a broader slowdown in construction demand.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors comfortable with cyclical materials companies that generate cash but require patience through uneven quarterly results.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $7.9B (+7% vs prior year)

@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Uptrend
 
-## Solid: profitability stands out, growth holds it back
+## Residential REIT with strong cash generation but slowing revenue and premium valuation
 
-Essex Property Trust scores 56 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: uptrend.
+Essex Property Trust is a residential real estate investment trust that owns and operates apartment communities. The company generates substantial free cash flow and pays a 4.3% dividend, but revenue has declined 6% annually over three years despite a recent quarterly uptick.
 
 ### What is working
-- Profitability: Keeps 7491% of revenue as profit
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
+- Free cash flow yield of 6.0% with $1.1B in annual free cash flow generation
+- Profitability metrics are exceptional with 7491% net margin and 13% return on equity
+- Price is in an uptrend, 59% of the way up its 52-week range and 5% higher over the past year
 
 ### What to be careful about
-- Growth: Revenue -6% a year over 3 years
-- Analyst consensus: 30 analysts, consensus Hold, 40% rate it a buy
-- Valuation: Free cash flow yield 6.0%
+- Revenue down 9% year over year and declined 6% annually over the past three years
+- Stock trades at 51x earnings, well above typical market multiples
+- Debt stands at $6.4B, which is 1.2x shareholder equity, indicating moderate leverage
 
-**Watch next:** The next quarterly report: whether revenue growth of +4% holds.
+**Watch next:** Whether the latest quarter's 4% revenue growth represents a genuine turnaround or a temporary uptick after years of decline.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Long-term investors seeking dividend income who are comfortable with real estate sector exposure and can tolerate the premium valuation multiple.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $9.4M (-9% vs prior year)

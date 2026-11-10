@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend, bouncing
 
-## Solid: balance sheet stands out, price trend holds it back
+## Domino's profits strongly but growth has stalled and stock is down sharply
 
-Domino's scores 57 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend, bouncing.
+Domino's is a profitable pizza delivery company generating $4.9B in annual revenue. It keeps 12% of sales as profit and produces substantial free cash flow. However, revenue growth has slowed to 3% annually, and the stock price has fallen 19.6% over the past year.
 
 ### What is working
-- Balance sheet: Net cash of $214.4M
-- Shareholder returns: Share count shrinking (buybacks)
-- Valuation: Free cash flow yield 6.1%
+- Profitability is robust: 12% net margin and 14% free cash flow margin show pricing power
+- Balance sheet is fortress-like: $214.4M in net cash with minimal debt of $14.6M
+- Returns capital to shareholders: buybacks have shrunk share count by 5.1% over 3 years, boosting per-share value
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Growth: Revenue +3% a year over 3 years
+- Growth has stalled: revenue up only 3% yearly over 3 years, latest quarter +3% is slow for a restaurant chain
+- Stock price down 19.6% over the past year and trades 25% below its 52-week high of $438.42
+- Analyst consensus is tepid: only 47% of 36 analysts rate it a buy, with majority rating it Hold
 
-**Watch next:** The next quarterly report: whether revenue growth of +3% holds.
+**Watch next:** Whether revenue growth can accelerate beyond the current 3% pace in coming quarters, since profitability is already strong.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors seeking stable cash flow and dividends from a mature, profitable business rather than those betting on rapid expansion.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-28)
 - Revenue $4.9B (+5% vs prior year)

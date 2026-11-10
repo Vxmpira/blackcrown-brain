@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Strong uptrend
 
-## Solid: price trend stands out, valuation holds it back
+## Utility with strong price momentum but burning cash and trading expensively
 
-American Water Works scores 50 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: strong uptrend.
+American Water Works operates regulated water and wastewater systems. Revenue grew 10% last year and 11% annually over three years. The company is currently burning cash and trades at 26 times earnings.
 
 ### What is working
-- Price trend: Price is above its 200-day average
+- Stock price up 13% over the past year and sits near 52-week highs, 87% of the way up its range
+- Revenue climbing steadily at +11% per year over three years, with latest year at +10%
+- Operating margin of 37% shows the core business converts sales to profit efficiently
 
 ### What to be careful about
-- Valuation: Free cash flow yield -3.6%
-- Profitability: Keeps 22% of revenue as profit
-- Analyst consensus: 19 analysts, consensus Hold, 37% rate it a buy
+- Free cash flow is negative $1.1 billion; the company is burning cash despite collecting revenue
+- Trades at 26 times earnings, which is expensive relative to the growth rate of 3% in latest quarter
+- Share count has grown 7.1% over three years, diluting each existing share's ownership stake
 
-**Watch next:** The next quarterly report: whether revenue growth of +3% holds.
+**Watch next:** Monitor free cash flow trend next quarter to see if negative cash burn improves or widens further.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Investors seeking regulated utility dividends with tolerance for premium valuations and negative cash flow dynamics.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $5.1B (+10% vs prior year)

@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend, bouncing
 
-## Solid: shareholder returns stands out, price trend holds it back
+## Profitable builder supply giant in a slump, but yielding 7% with cheap cash flow
 
-CRH plc scores 56 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend, bouncing.
+CRH is a large construction materials company generating $37.4 billion in annual revenue with a 10% net profit margin. It trades below its 200-day average after a 14% decline over the past year, though it remains profitable with strong cash generation and minimal debt.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Valuation: Free cash flow yield 8.6%
-- Analyst consensus: 30 analysts, consensus Buy, 97% rate it a buy
+- Free cash flow yield of 8.6% is high relative to the stock price, and the company generated $5.6 billion in free cash flow last year
+- Dividend yield of 7.0% plus active share buybacks (down 11.4% over 3 years) return cash to shareholders
+- Profitability is solid: 10% net margin, 15% operating margin, and 15% return on equity show consistent earnings power
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Growth: Revenue +5% a year over 3 years
+- Stock price is down 14% over the past year and sits 26% below its 52-week high; recent bounce of 19.9% in one month needs confirmation
+- Revenue growth is flat at 3% year over year and only 5% annually over 3 years, suggesting limited expansion in end markets
+- Debt of $19.5 billion limits financial flexibility, even though leverage at 0.8x equity is moderate
 
-**Watch next:** The next quarterly report: whether revenue growth of +3% holds.
+**Watch next:** Whether the recent 19.9% monthly bounce signals a genuine trend reversal or a temporary bounce within a broader downtrend.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable holding cyclical construction-linked businesses that prioritize cash returns over growth, and who can tolerate 34% annual price swings.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $37.4B (+5% vs prior year)

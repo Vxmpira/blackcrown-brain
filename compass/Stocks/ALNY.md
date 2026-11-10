@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend
 
-## Solid: balance sheet stands out, shareholder returns holds it back
+## RNA drug company with strong revenue growth but stock price down 65% in a year
 
-Alnylam Pharmaceuticals scores 56 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend.
+Alnylam is a biotechnology company that develops RNA interference treatments. Revenue grew 65% last year to $3.7B and the company is now profitable. The stock has fallen sharply despite improving financial results.
 
 ### What is working
-- Balance sheet: Net cash of $1.1B
-- Growth: Revenue +53% a year over 3 years
-- Analyst consensus: 38 analysts, consensus Buy, 76% rate it a buy
+- Revenue accelerating: $3.7B in fiscal 2025, up 65% year over year and 53% annually over three years
+- Turned profitable: Generated $313.7M in net income with 8% net margin and $465.4M in free cash flow
+- Strong balance sheet: $1.1B in net cash and no solvency concerns; analysts 76% bullish with consensus Buy
 
 ### What to be careful about
-- Shareholder returns: Share count growing (dilution)
-- Price trend: Price is below its 200-day average
+- Stock in deep downtrend: Down 65% over one year and trading at bottom of 52-week range; volatility is 58%
+- Valuation multiple compressed: Now trades at 7.7x earnings after the price collapse, suggesting market lost confidence
+- Shareholder dilution: Share count up 10.7% over three years, which dilutes existing owners' ownership stakes
 
-**Watch next:** The next quarterly report: whether revenue growth of +17% holds.
+**Watch next:** Whether revenue growth stays at 17% quarterly pace or accelerates back toward the 53% historical trend, since that will show if the stock decline reflects fading business momentum or just market pessimism.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Long-term investors comfortable with high volatility in biotech who believe a profitable, cash-generative company with 65% revenue growth deserves a higher valuation than the current market price.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $3.7B (+65% vs prior year)

@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Bearish read · trend: Downtrend
 
-## Mixed: shareholder returns stands out, growth holds it back
+## Chemical maker posting losses but paying 5% dividend from dwindling cash flow
 
-LyondellBasell scores 45 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: downtrend.
+LyondellBasell is a specialty chemicals company that lost $738 million in 2025 despite $30.2 billion in revenue. The company is currently unprofitable on an operating basis but still generating modest free cash flow and maintaining a strong balance sheet relative to its equity.
 
 ### What is working
-- Shareholder returns: Dividend yield 5.2%
-- Balance sheet: Debt is 0.5x shareholder equity
+- Balance sheet is solid: debt is only 0.5x shareholder equity, leaving room to weather downturns
+- Latest quarter revenue jumped 10% year over year, suggesting recent stabilization after three years of declines
+- Dividend yield of 5.3% is among the highest on the market, backed by $384 million in annual free cash flow
 
 ### What to be careful about
-- Growth: Revenue -16% a year over 3 years
-- Profitability: Keeps -2% of revenue as profit
-- Price trend: Price is below its 200-day average
+- Company posted a $738 million net loss in 2025; operating margin is negative at -1%
+- Full-year revenue fell 10% versus prior year and is down 16% per year over three years
+- Stock is down 20.7% over the past six months and sits 28% below its 52-week high; volatility is 43%
 
-**Watch next:** The next quarterly report: whether revenue growth of +10% holds.
+**Watch next:** Whether next quarter's revenue growth can accelerate beyond the 10% pace and whether the company can return to profitability before cash reserves decline.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors seeking high current income who can tolerate unprofitability and cyclical commodity exposure, and who view the dividend as sustainable despite near-term losses.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $30.2B (-10% vs prior year)

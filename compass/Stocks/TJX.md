@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend, bouncing
 
-## Solid: balance sheet stands out, price trend holds it back
+## Profitable retailer in a downtrend, strong balance sheet and cash return.
 
-TJX Companies scores 55 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend, bouncing.
+TJX is a large off-price apparel retailer generating $60.4B in annual revenue with a 9% net profit margin. The company produces strong free cash flow of $4.9B yearly and holds $3.1B in net cash. Recent price weakness has pulled the stock down 6% over the past year despite solid underlying business metrics.
 
 ### What is working
-- Balance sheet: Net cash of $3.1B
-- Shareholder returns: Share count shrinking (buybacks)
-- Profitability: Keeps 9% of revenue as profit
+- Profit margin of 9% of revenue and free cash flow of $4.9B show consistent cash generation.
+- Return on equity at 52% indicates efficient use of shareholder capital.
+- Share count down 4.2% over three years through buybacks; dividend yield 1.5% adds to shareholder returns.
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
+- Price is 30% below its 52-week high and down 6% over the past year; sitting at lower end of trading range.
+- Trading at 25x earnings, above typical market multiples for retail; valuation offers limited margin of safety.
+- Latest quarterly revenue growth at 5% year over year, below the three-year average of 7%, signaling slower momentum.
 
-**Watch next:** The next quarterly report: whether revenue growth of +5% holds.
+**Watch next:** Whether revenue growth accelerates back toward the 7% three-year trend or continues to decelerate, as this will signal if the slowdown is temporary or structural.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors comfortable with cyclical consumer stocks who prioritize strong cash flows and balance sheets over near-term price momentum.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-01-31)
 - Revenue $60.4B (+7% vs prior year)

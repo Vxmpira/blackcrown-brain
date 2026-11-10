@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Bearish read · trend: Downtrend, bouncing
 
-## Solid: profitability stands out, price trend holds it back
+## Tower REIT with strong cash generation but massive debt and shrinking recent revenue
 
-SBA Communications scores 58 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend, bouncing.
+SBA Communications owns and leases communication towers. It generates huge cash profits relative to its size, but carries 43 times more debt than shareholder equity. Recent quarterly revenue dropped 36% year over year, raising questions about the business trend.
 
 ### What is working
-- Profitability: Keeps 431% of revenue as profit
-- Shareholder returns: Share count shrinking (buybacks)
-- Valuation: Free cash flow yield 5.2%
+- Free cash flow margin of 436% means cash generation far exceeds revenue, providing cushion for debt service.
+- Analyst consensus is Buy with 64% of 28 analysts rating it positively, suggesting professional confidence in the business.
+- Share buybacks reducing share count by 1.7% over 3 years, and dividend yield of 1.5%, return capital to holders.
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Growth: Revenue -6% a year over 3 years
+- Debt stands at 43.1 times shareholder equity, an extremely high leverage ratio that limits financial flexibility.
+- Latest quarterly revenue fell 36% year over year, and revenue has declined 6% annually over the past 3 years.
+- Stock price is 48% down from its 52-week high and sits below its 200-day average, signaling downward momentum.
 
-**Watch next:** The next quarterly report: whether revenue growth of -36% holds.
+**Watch next:** Monitor whether the latest quarter's 36% revenue drop represents a one-time event or the start of sustained business decline.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors seeking steady cash generation who can tolerate extreme leverage and are willing to hold through price volatility.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $244.5M (+60% vs prior year)

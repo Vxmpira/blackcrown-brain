@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Pullback in uptrend
 
-## Solid: price trend stands out, valuation holds it back
+## Specialty chemicals firm with strong price momentum but thin profits and expensive valuation
 
-International Flavors & Fragrances scores 51 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: pullback in uptrend.
+IFF makes flavors and fragrances for food, beverage, and personal care products. The company posted revenue decline over three years, though the latest quarter showed a 4% rebound. Net profit margin sits at just 3%, and the stock trades at 108 times earnings.
 
 ### What is working
-- Price trend: Price is above its 200-day average
-- Balance sheet: Debt is 0.5x shareholder equity
-- Shareholder returns: Share count flat
+- Price gained 34% over the past year and sits 64% up its 52-week range, showing sustained upward momentum
+- Analysts are mostly bullish: 72% rate it a buy, and the consensus is Buy across 25 analysts
+- Dividend yield of 4.3% and flat share count mean long-term shareholders collect cash while avoiding dilution
 
 ### What to be careful about
-- Valuation: Free cash flow yield 1.2%
-- Growth: Revenue -4% a year over 3 years
-- Profitability: Keeps 3% of revenue as profit
+- Revenue fell 4% per year over three years; full-year 2025 revenue dropped 5% despite recent quarterly recovery
+- Valuation is stretched: P/E of 108.43 and free cash flow yield of just 1.2% leave little margin for error
+- Profitability is weak: operating margin is negative 4%, net margin is 3%, and return on equity is 3%
 
-**Watch next:** The next quarterly report: whether revenue growth of +4% holds.
+**Watch next:** Whether the latest quarter's 4% revenue growth signals a sustained turnaround or remains a one-time bounce after three years of decline.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Patient investors comfortable with modest cash returns through dividends who can tolerate high valuation and volatile prices in exchange for exposure to a turnaround story backed by analyst consensus.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $10.9B (-5% vs prior year)

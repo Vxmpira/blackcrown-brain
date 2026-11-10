@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Losing steam
 
-## Mixed: shareholder returns stands out, profitability holds it back
+## Growth accelerating but profitability collapsed to near zero
 
-Charles Schwab Corporation scores 47 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: losing steam.
+Schwab is a financial services company that generated $23.9B in revenue in 2025, up 22% from the prior year. Revenue has grown at 5% annually over three years. However, net income fell to just $8.9M, erasing profitability margins that were presumably higher in prior periods.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Valuation: Trades at 16x earnings
-- Growth: Revenue +5% a year over 3 years
+- Revenue jumped 22% year over year; latest quarter revenue grew 17% versus a year ago
+- Earnings per share surged 56% year over year despite margin compression
+- Free cash flow remains strong at $8.8B; company buying back shares (down 4.5% over 3 years)
 
 ### What to be careful about
-- Profitability: Keeps 0% of revenue as profit
-- Price trend: Price is below its 200-day average
+- Net margin collapsed to 0%; company kept zero dollars of profit from each revenue dollar
+- Stock down 2% over the past year and 4.2% in the last month; sits 18% below its 52-week high
+- Heavy debt of $24.6B against cash of $36.7B; net debt position requires monitoring
 
-**Watch next:** The next quarterly report: whether revenue growth of +17% holds.
+**Watch next:** Whether the company can restore profitability margins from their current 0% level, since revenue growth alone has not translated into earnings growth.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors comfortable with near-term margin pressure who believe the company can recover profitability while maintaining revenue momentum.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $23.9B (+22% vs prior year)

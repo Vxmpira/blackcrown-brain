@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Uptrend
 
-## Solid: price trend stands out, balance sheet holds it back
+## Live Nation rides strong ticket demand but carries heavy debt load
 
-Live Nation Entertainment scores 55 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: uptrend.
+Live Nation is a large entertainment company generating $25.2 billion in annual revenue from concerts, ticketing, and venue operations. Revenue has grown 15% per year over three years, with the latest quarter up 19% year-over-year. The stock has gained 25% over the past year and sits 80% of the way up its 52-week range.
 
 ### What is working
-- Price trend: Price is above its 200-day average
-- Shareholder returns: Share count flat
-- Growth: Revenue +15% a year over 3 years
+- Revenue growth is consistent: up 15% annually over 3 years and +19% in the latest quarter
+- Stock momentum is positive: +25% over one year and trading above its 200-day moving average
+- Analyst consensus is strong: 81% of 31 analysts rate it a buy
 
 ### What to be careful about
-- Balance sheet: Debt is 21.5x shareholder equity
-- Valuation: Free cash flow yield 0.8%
+- Valuation is extremely stretched: P/E of 275.5x earnings and free cash flow yield of only 0.8%
+- Profitability is thin: only 2% net margin and 1% free cash flow margin relative to revenue
+- Debt is very high: $9.8 billion in debt versus $8.3 billion in cash, creating a 21.5x debt-to-equity ratio
 
-**Watch next:** The next quarterly report: whether revenue growth of +19% holds.
+**Watch next:** Whether the company can sustain its 19% quarterly revenue growth while managing debt levels and improving operating margins from the current 5%.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable with volatile growth stocks who believe in recovering live entertainment demand and can tolerate high financial leverage and thin near-term profit margins.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $25.2B (+9% vs prior year)

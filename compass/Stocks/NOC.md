@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend, bouncing
 
-## Solid: shareholder returns stands out, price trend holds it back
+## Defense contractor with solid profits and cash flow, but price stuck in downtrend
 
-Northrop Grumman scores 51 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend, bouncing.
+Northrop Grumman is a large aerospace and defense company generating $42.0B in annual revenue. It keeps 10% of sales as profit and produces steady free cash flow. The stock price has fallen 4.6% over the past year and sits 24% of the way up its 52-week range.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Valuation: Free cash flow yield 4.2%
-- Balance sheet: Debt is 0.8x shareholder equity
+- Profitability is strong: 10% net margin and 22% return on equity show efficient use of shareholder capital
+- Free cash flow of $3.3B and cash balance of $3.7B provide cushion and fuel for dividends and buybacks
+- Latest quarter revenue jumped 7% year over year, outpacing the slower 2% full-year growth
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Growth: Revenue +5% a year over 3 years
+- Price trend is weak: down 4.6% over one year and sits 29% below its 52-week high of $768.02
+- Revenue growth is modest: only 5% per year over 3 years; full year 2025 revenue grew just 2% year over year
+- High debt load of $15.2B is 0.8x shareholder equity, limiting financial flexibility in downturns
 
-**Watch next:** The next quarterly report: whether revenue growth of +7% holds.
+**Watch next:** Whether latest quarter revenue momentum (up 7%) can sustain and lift the stock out of its 52-week downtrend.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors in mature industrials who value steady cash generation and buybacks over fast growth, and can tolerate cyclical price swings.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $42.0B (+2% vs prior year)

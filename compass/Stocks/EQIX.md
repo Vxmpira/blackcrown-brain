@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Neutral read · trend: Turning up
 
-## Mixed: analyst consensus stands out, valuation holds it back
+## Data center operator growing revenue but burning cash while trading at steep valuation
 
-Equinix scores 46 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: turning up.
+Equinix operates real estate for data centers and networking. Revenue is growing at 11% lately, but the company is spending more cash than it generates. Analysts broadly support the stock, yet valuation metrics show extreme valuations.
 
 ### What is working
-- Analyst consensus: 41 analysts, consensus Buy, 85% rate it a buy
-- Growth: Revenue +8% a year over 3 years
-- Price trend: Price is above its 200-day average
+- Latest revenue up 11% year over year, well ahead of 3-year average of 8% a year
+- Earnings per share jumped 62% year over year, showing profit growth
+- 41 analysts covering the stock with 85% rating it a buy; consensus is Buy
 
 ### What to be careful about
-- Valuation: Free cash flow yield -0.4%
-- Balance sheet: Debt is 1.6x shareholder equity
-- Profitability: Keeps 15% of revenue as profit
+- Free cash flow is negative $400 million; company is burning cash despite $1.4B net income
+- Trades at 64x earnings and has negative 0.4% free cash flow yield, among the priciest metrics
+- Debt is 1.6x shareholder equity; high leverage limits financial flexibility
 
-**Watch next:** The next quarterly report: whether revenue growth of +11% holds.
+**Watch next:** Whether free cash flow turns positive within the next two quarters, since large capital spending today determines cash generation tomorrow.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Long-term investors comfortable with high valuation and negative cash flow if they believe in data center demand growth and eventual cash generation.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $9.2B (+5% vs prior year)

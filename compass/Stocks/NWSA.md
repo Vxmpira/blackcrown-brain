@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Losing steam
 
-## Solid: balance sheet stands out, growth holds it back
+## News Corp trades below its trend with weak earnings but strong cash and analyst backing
 
-News Corp (Class A) scores 53 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: losing steam.
+News Corp is a communication and entertainment company generating $9.0B in annual revenue with 8% profit margins. It trades at 26 times earnings while producing $811M in free cash flow yearly and carrying minimal debt relative to equity.
 
 ### What is working
-- Balance sheet: Debt is 0.2x shareholder equity
-- Shareholder returns: Share count shrinking (buybacks)
-- Valuation: Free cash flow yield 5.6%
+- Free cash flow yield of 5.5% suggests the company returns cash to shareholders efficiently
+- Balance sheet strength: debt is only 0.2x shareholder equity, leaving room for flexibility
+- Analyst consensus is Buy with 88% of 16 analysts rating it favorably
 
 ### What to be careful about
-- Growth: Revenue +4% a year over 3 years
-- Price trend: Price is below its 200-day average
+- Earnings per share dropped 50% year over year despite 6% revenue growth
+- Stock price down 2% over the past year and sits 16% below its 52-week high
+- Valuation at 26x earnings is elevated relative to the company's 4% long-term revenue growth rate
 
-**Watch next:** The next quarterly report: whether revenue growth of +6% holds.
+**Watch next:** The disconnect between revenue growth of 6% and earnings per share decline of 50% needs to reverse for the stock to sustain investor interest.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable holding stable cash-generative businesses through earnings volatility and price weakness may find the balance sheet and analyst backing appealing.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-06-30)
 - Revenue $9.0B (+7% vs prior year)

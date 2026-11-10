@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend
 
-## Solid: shareholder returns stands out, price trend holds it back
+## Logistics firm with strong balance sheet but mixed growth signals
 
-J.B. Hunt scores 54 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend.
+J.B. Hunt is an integrated freight and logistics company generating $12.0B in annual revenue. The business keeps 5% of revenue as profit and produces nearly $948M in free cash flow yearly. Its balance sheet is very strong with debt at just 0.3x shareholder equity.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Balance sheet: Debt is 0.3x shareholder equity
+- Latest quarter revenue jumped 20% year over year, showing recent momentum despite longer-term headwinds
+- Free cash flow yield of 4.5% and shrinking share count through buybacks suggest capital is being returned to owners
+- Return on equity of 16% and debt-to-equity of 0.3x indicate efficient use of capital and financial stability
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Growth: Revenue -7% a year over 3 years
+- Annual revenue fell 1% last year and has declined 7% per year over the past three years, signaling a long-term slowdown
+- Stock is down 25% from its 52-week high and sits below its 200-day moving average, showing price weakness
+- Trades at 31x earnings, which is elevated relative to the modest profitability and revenue decline pattern
 
-**Watch next:** The next quarterly report: whether revenue growth of +20% holds.
+**Watch next:** Whether the 20% latest quarterly revenue growth signals a real turnaround or is temporary, since the three-year revenue trend has been consistently negative.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors seeking stable cash generation from an established company and who can tolerate sector cyclicality and current price weakness for potential mean reversion.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $12.0B (-1% vs prior year)

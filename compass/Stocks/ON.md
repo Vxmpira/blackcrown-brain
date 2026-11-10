@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Bearish read · trend: Downtrend
 
-## Mixed: shareholder returns stands out, growth holds it back
+## Semiconductor maker in transition: shrinking revenue but recent quarter growth
 
-ON Semiconductor scores 44 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: downtrend.
+ON Semiconductor designs and manufactures chips for automotive, industrial and other markets. The company reported full-year revenue down 15% to $6.0B, though the latest quarter showed 11% growth. Profitability remains thin with a 2% net margin and minimal returns on shareholder equity.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Balance sheet: Debt is 0.6x shareholder equity
+- Latest quarter revenue grew 11% year over year, suggesting a potential recovery after full-year decline of 15%.
+- Generates substantial free cash flow at $1.4B annually with a 24% free cash flow margin.
+- Bought back 8.1% of shares over 3 years, returning capital to remaining shareholders.
 
 ### What to be careful about
-- Growth: Revenue -10% a year over 3 years
-- Price trend: Price is below its 200-day average
-- Valuation: Free cash flow yield 5.0%
+- Full-year revenue fell 15% and has declined 10% per year over the past 3 years, showing persistent weakness.
+- Earnings per share collapsed 92% year over year despite the recent quarter revenue gain.
+- Stock trades at 39x earnings while the company generates only a 2% net profit margin and 2% return on equity.
 
-**Watch next:** The next quarterly report: whether revenue growth of +11% holds.
+**Watch next:** Whether the 11% quarterly revenue growth continues into the next full year or if the company's revenue decline resumes.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Investors comfortable holding volatile turnaround stories with deteriorating profits who can tolerate 65% yearly swings and a 48% drop from recent highs.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $6.0B (-15% vs prior year)

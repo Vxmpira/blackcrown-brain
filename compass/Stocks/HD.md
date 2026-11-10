@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Neutral read · trend: Turning up
 
-## Mixed: shareholder returns stands out, balance sheet holds it back
+## Home Depot shows strong cash generation but faces slowing growth and high leverage
 
-Home Depot (The) scores 48 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: turning up.
+Home Depot is a massive home improvement retailer generating $164.7B in annual revenue with a 9% profit margin. The company is currently in a mixed position: it produces substantial free cash flow and returns money to shareholders, but growth has decelerated and debt sits at 3.0x equity.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Profitability: Keeps 9% of revenue as profit
+- Profitability is robust: 9% net margin, 13% operating margin, and 85% return on equity show efficient operations
+- Strong cash generation: $12.6B in free cash flow supports a 2.7% dividend and ongoing share buybacks that shrunk the count by 2.9% over three years
+- Recent momentum: stock up 20.6% in the past month and 12.9% over six months, with 63% of 46 analysts rating it a buy
 
 ### What to be careful about
-- Balance sheet: Debt is 3.0x shareholder equity
-- Growth: Revenue +2% a year over 3 years
+- Growth is stalling: revenue up only 2% annually over three years, and earnings per share declined 5% year over year despite 6% quarterly revenue growth
+- Heavy debt load: $49.4B in debt against $22.5B in shareholder equity means leverage of 3.0x, limiting financial flexibility
+- Valuation is not cheap: trading at 24.5x earnings with a 3.6% free cash flow yield, leaving limited margin for error
 
-**Watch next:** The next quarterly report: whether revenue growth of +6% holds.
+**Watch next:** Whether quarterly revenue growth momentum can lift full-year earnings per share out of its recent decline, or if margin pressure persists despite top-line gains.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Investors seeking steady cash flow and dividends from an established retailer, comfortable with moderate leverage and accepting slower growth in a mature, cyclical sector.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-02-01)
 - Revenue $164.7B (+3% vs prior year)

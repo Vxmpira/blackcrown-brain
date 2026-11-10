@@ -14,18 +14,22 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Short-term downtrend
 
-## Building: no single area stands out
+## Unprofitable space company trades down 29% from peak, backed by strong balance sheet
 
-Space Exploration Technologies Corp. scores 58 of 100 on the Compass, which puts it in the Building tier. Its long-term price trend is: short-term downtrend.
+SpaceX is a private aerospace company valued at $1.9T with minimal profitability. The stock is down 12.4% over one month and sits in a downtrend, though nearly half of analysts rate it a buy.
 
 ### What is working
-- No area scores above 60 right now.
+- Balance sheet is strong: debt is only 0.2x shareholder equity, leaving room to invest or weather downturns
+- Analyst consensus is Buy: 78% of 49 analysts covering the stock rate it a buy
+- Price sits 37% of the way up its 52-week range, meaning it has moved well off recent highs
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Company loses money: it keeps negative 2% of every dollar in revenue as profit
+- Stock is down 29% from its 52-week high of $201.80 and fell 12.4% in the last month
+- Extreme volatility: yearly swings hit 80%, meaning price can swing wildly without news
 
-**Watch next:** Whether the price holds above its 200-day average.
+**Watch next:** Whether the company reaches profitability or shows a clear path to it, since current operations lose money despite massive revenue.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Long-term investors who can tolerate sharp price swings and are comfortable holding unprofitable companies betting on future growth.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.

@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Bearish read · trend: Downtrend
 
-## Mixed: balance sheet stands out, price trend holds it back
+## Apartment REIT with solid cash generation but slowing growth and falling stock price
 
-Mid-America Apartment Communities scores 48 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: downtrend.
+Mid-America Apartment Communities owns and operates apartment buildings. Revenue grew just 1% last year after years of 3% annual growth. The company still generates strong cash flow and keeps 20% of revenue as profit.
 
 ### What is working
-- Balance sheet: Net cash of $71.5M
-- Profitability: Keeps 20% of revenue as profit
-- Shareholder returns: Share count growing (dilution)
+- Free cash flow of $717.9M with a 32% margin shows the business converts sales into real money efficiently
+- Net profit margin of 20% is healthy; company keeps a fifth of every revenue dollar as bottom-line earnings
+- Balance sheet shows $71.5M in net cash, providing a financial cushion with no reported debt
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Growth: Revenue +3% a year over 3 years
+- Earnings per share fell 16% year over year despite slightly positive revenue, signaling profit is shrinking
+- Stock price is down 8.8% over the past year and sits 15% of the way up its 52-week range, near the bottom
+- Revenue growth has slowed to just 1% latest year versus a 3% annual pace over three years, showing momentum loss
 
-**Watch next:** The next quarterly report: whether revenue growth of +1% holds.
+**Watch next:** Whether revenue growth accelerates back toward the 3% trend or continues declining, since growth is already the weakest link in the profile.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Long-term investors seeking a diversified real estate income stream who can tolerate recent price weakness and slowing growth in exchange for reliable cash generation and a 4.6% dividend.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $2.2B (+1% vs prior year)

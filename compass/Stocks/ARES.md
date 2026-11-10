@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Neutral read · trend: Uptrend
 
-## Mixed: shareholder returns stands out, valuation holds it back
+## Asset manager with strong cash flow but expensive valuation and slowing recent revenue
 
-Ares Management Corporation scores 50 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: uptrend.
+Ares Management is a financial services company that manages assets for clients. It reported strong full-year revenue growth of 44% to $5.6B, but the latest quarter showed revenue down 14% from a year ago. The company keeps 8% of revenue as profit and generates $3.3B in annual free cash flow.
 
 ### What is working
-- Shareholder returns: Dividend yield 2.8%
-- Analyst consensus: 27 analysts, consensus Buy, 74% rate it a buy
-- Price trend: Price is above its 200-day average
+- Free cash flow yield of 10.4% is well above typical stock market returns, showing cash generation relative to market value
+- Most analysts agree: 74% rate it a buy with consensus Buy rating across 27 analysts covering the stock
+- Strong full-year revenue growth of 44% in 2025 shows expansion from prior year, and 3-year revenue growth averaged 22% annually
 
 ### What to be careful about
-- Valuation: Trades at 50x earnings
-- Profitability: Keeps 8% of revenue as profit
+- Latest quarter revenue fell 14% year over year, signaling a sharp slowdown after strong full-year results
+- Valuation at 50x earnings is very high compared to typical market averages, leaving little room for disappointment
+- Stock is down 10% over the past year despite being up 18% in the last month, showing recent volatility with yearly volatility at 44%
 
-**Watch next:** The next quarterly report: whether revenue growth of -14% holds.
+**Watch next:** Whether the 14% quarterly revenue decline signals a lasting slowdown or is temporary, since full-year growth was strong but momentum appears to be fading.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Long-term investors comfortable with significant price swings and expensive valuations who believe in the company's asset management business and cash generation ability.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $5.6B (+44% vs prior year)

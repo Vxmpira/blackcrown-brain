@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Losing steam
 
-## Solid: balance sheet stands out, shareholder returns holds it back
+## Fast-growing chipmaker losing money, but analysts still bullish despite recent stock plunge
 
-Lumentum Holdings Inc. scores 54 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: losing steam.
+Lumentum makes communication equipment and chips. Revenue surged 137% in the latest quarter and 19% annually over three years, but the company reported a net loss of 6.9 billion dollars last fiscal year. The stock has gained 150% over one year but dropped 40% in the past six months.
 
 ### What is working
-- Balance sheet: Debt is 0.3x shareholder equity
-- Growth: Revenue +19% a year over 3 years
+- Revenue growth is strong at 137% year-over-year in the latest quarter and 19% annually over three years
+- Analyst consensus is bullish with 86% of 36 analysts rating it a buy
+- Balance sheet is solid with debt at only 0.3x shareholder equity
 
 ### What to be careful about
-- Shareholder returns: Share count growing (dilution)
-- Valuation: Free cash flow yield 0.7%
-- Profitability: Keeps -230% of revenue as profit
+- Company lost 6.9 billion dollars with a net margin of negative 230% last fiscal year
+- Stock has fallen 47% from its 52-week high and dropped 39.6% in just one month
+- Valuation metrics are strained with a free cash flow yield of only 0.5% and no trailing profitability
 
-**Watch next:** The next quarterly report: whether revenue growth of +137% holds.
+**Watch next:** Whether the company can swing to profitability while maintaining its high revenue growth rate, since current losses are unsustainable at this valuation.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Investors comfortable with high volatility who believe in a turnaround story and are willing to wait for losses to convert into profits.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-06-27)
 - Revenue $3.0B (+83% vs prior year)

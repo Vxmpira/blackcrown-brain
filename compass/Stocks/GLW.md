@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend
 
-## Solid: balance sheet stands out, valuation holds it back
+## Corning shows earnings pop but trades at steep price after recent selloff
 
-Corning Inc. scores 54 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend.
+Corning is a diversified hardware manufacturer with $15.6B in annual revenue. Recent fiscal year saw revenue jump 19% and earnings per share spike 216%, though that came off a low base. The stock has fallen 42.6% over the past six months despite analyst optimism.
 
 ### What is working
-- Balance sheet: Debt is 0.3x shareholder equity
-- Analyst consensus: 23 analysts, consensus Buy, 74% rate it a buy
-- Shareholder returns: Share count growing (dilution)
+- Latest quarter revenue up 18% year over year, showing momentum in demand
+- Net margin of 10% and free cash flow of $1.4B show the core business generates real cash
+- Balance sheet is strong with debt at only 0.3x equity, leaving room to weather downturns
 
 ### What to be careful about
-- Valuation: Free cash flow yield 1.4%
-- Price trend: Price is below its 200-day average
+- Stock trades at 46x earnings, well above typical valuations, leaving little margin for error
+- Price is 56% below its 52-week high and sits in a downtrend; volatility of 76% is very high
+- Six-month return of -42.6% shows recent sharp decline; free cash flow yield of only 1.4% is thin
 
-**Watch next:** The next quarterly report: whether revenue growth of +18% holds.
+**Watch next:** Whether the latest quarter's 18% revenue growth can hold or if the 42% decline signals weakening demand ahead.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Investors tolerant of short-term volatility who believe in the company's cash generation and can hold through downturns without selling.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $15.6B (+19% vs prior year)

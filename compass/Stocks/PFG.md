@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Uptrend
 
-## Strong: shareholder returns stands out, growth holds it back
+## Principal Financial shows strong price momentum but earnings fell 21% year over year
 
-Principal Financial Group scores 63 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: uptrend.
+Principal Financial is a diversified insurance and financial services company with $15.6 billion in annual revenue. The stock has climbed 39% over the past year and trades near its 52-week high, but underlying earnings have weakened significantly.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Valuation: Trades at 13x earnings
-- Price trend: Price is above its 200-day average
+- Stock price up 39% over the past year and sits 90% of the way up its 52-week range
+- Shareholder returns strong: 3.7% dividend yield plus share count down 11.6% over 3 years through buybacks
+- Latest quarter revenue jumped 25% year over year; free cash flow of $4.5 billion covers all debt of $4.3 billion
 
 ### What to be careful about
-- Growth: Revenue -4% a year over 3 years
-- Profitability: Keeps 8% of revenue as profit
+- Earnings per share fell 21% year over year despite the stock's 39% gain
+- Full-year revenue declined 4% annually over 3 years; only latest quarter showed growth
+- Analyst consensus is Sell with only 9% of 22 analysts rating it a buy; valuation at 16x earnings is elevated relative to weak profitability
 
-**Watch next:** The next quarterly report: whether revenue growth of +25% holds.
+**Watch next:** Whether the 25% quarterly revenue jump signals a real turnaround or is temporary, given the three-year revenue decline trend.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Investors seeking dividend income from a financial services company who can tolerate a mixed earnings picture and above-average stock price volatility.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $15.6B (-3% vs prior year)

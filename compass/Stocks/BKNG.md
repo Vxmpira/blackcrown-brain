@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend
 
-## Solid: shareholder returns stands out, balance sheet holds it back
+## Profitable travel platform hit by slowing growth and heavy debt load
 
-Booking Holdings scores 54 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend.
+Booking Holdings operates an online travel services platform. The company is highly profitable with strong cash generation, but recent revenue growth has stalled and its balance sheet carries significant debt relative to shareholder equity.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Profitability: Keeps 20% of revenue as profit
-- Valuation: Free cash flow yield 7.5%
+- Keeps 20% of revenue as profit and generates $9.1B in free cash flow annually
+- Free cash flow yield of 7.5% is attractive for income-focused investors
+- Share count down 18.5% over 3 years shows consistent capital returns to shareholders
 
 ### What to be careful about
-- Balance sheet: Debt is 11.3x shareholder equity
-- Price trend: Price is below its 200-day average
-- Growth: Revenue +16% a year over 3 years
+- Latest quarter revenue fell 1% year over year, reversing the 16% three-year growth trend
+- Debt of $20.1B is 11.3 times shareholder equity, a very high leverage ratio
+- Stock down 18% over the past year and trades 26% below its 52-week high
 
-**Watch next:** The next quarterly report: whether revenue growth of -1% holds.
+**Watch next:** Whether the latest quarter's revenue decline signals a real slowdown in travel booking demand or is temporary, since growth has been central to the investment case.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Investors seeking profitable, cash-generative companies who can tolerate high debt levels and are comfortable with cyclical travel industry exposure.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $26.9B (+13% vs prior year)

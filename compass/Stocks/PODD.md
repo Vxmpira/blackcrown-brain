@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend, bouncing
 
-## Mixed: profitability stands out, price trend holds it back
+## Medical device maker growing revenue fast but stock down 54% with profit headwinds
 
-Insulet Corporation scores 50 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: downtrend, bouncing.
+Insulet makes insulin delivery systems. The company grew revenue 31% last year and maintains an 18% operating margin, but net profit fell 40% year over year. The stock has dropped sharply and trades 57% below its 52-week high.
 
 ### What is working
-- Profitability: Keeps 9% of revenue as profit
-- Balance sheet: Debt is 0.9x shareholder equity
-- Shareholder returns: Share count growing (dilution)
+- Revenue accelerating: $2.7B total, up 31% last year and averaging 28% annual growth over 3 years
+- Generates real cash: $377.7M free cash flow last year with a 14% margin and $584.4M cash on hand
+- Analyst backing: 32 analysts cover it with 59% rating it a buy despite the recent stock decline
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
+- Earnings collapsing: Net profit down 40% year over year even as revenue grew 31%
+- Stock in free fall: Down 54% over the past year and sits only 8% up from its 52-week low
+- Dilution ongoing: Share count up 2.8% over 3 years, reducing ownership per share
 
-**Watch next:** The next quarterly report: whether revenue growth of +19% holds.
+**Watch next:** Monitor whether earnings per share stabilizes in the next quarter or continues falling despite revenue growth.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Investors who tolerate high volatility (48% yearly swings) and can wait through profit pressure while a growth company scales, assuming the earnings decline reverses.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $2.7B (+31% vs prior year)

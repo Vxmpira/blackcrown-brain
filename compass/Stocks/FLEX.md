@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend
 
-## Solid: shareholder returns stands out, price trend holds it back
+## Hardware contractor shows recent momentum but stock is down sharply from peak
 
-Flex Ltd. scores 53 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend.
+Flex is a large technology hardware and equipment manufacturer with $27.9B in annual revenue. The company is profitable and generates free cash flow, though margins are thin at 3%. Latest quarter revenue jumped 25% year over year, but the stock has fallen 52% from its 52-week high.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Analyst consensus: 20 analysts, consensus Buy, 90% rate it a buy
-- Balance sheet: Debt is 0.9x shareholder equity
+- Latest quarter revenue grew 25% year over year, reversing a three-year trend of flat revenue.
+- Analyst consensus is Buy with 90% of 20 analysts rating it a buy.
+- Share count down 18.2% over three years through buybacks, concentrating value for remaining shareholders.
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
+- Stock is down 43.9% over the past six months and sits 22% of the way up its 52-week range, suggesting sustained weakness.
+- Net profit margin of only 3% leaves little room for error if revenue slows or costs rise.
+- At 27.9x earnings, valuation is elevated for a company with thin margins and historically flat revenue growth.
 
-**Watch next:** The next quarterly report: whether revenue growth of +25% holds.
+**Watch next:** Whether the 25% revenue jump in the latest quarter represents a sustained turnaround or a temporary spike, given the stock has fallen sharply despite this strength.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Long-term investors comfortable with hardware cyclicality and willing to hold through volatile swings, seeking exposure to contract manufacturing at an analyst-supported valuation.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-03-31)
 - Revenue $27.9B (+8% vs prior year)

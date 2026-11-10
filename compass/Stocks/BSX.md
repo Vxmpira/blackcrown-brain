@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend
 
-## Solid: balance sheet stands out, price trend holds it back
+## Strong cash generator hit hard; fundamentals solid but stock down 56% in a year
 
-Boston Scientific scores 55 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend.
+Boston Scientific is a large medical device maker that grew revenue 20% last year to $20.1 billion and keeps 14% of sales as profit. The company generates $3.7 billion in free cash flow annually but has seen its stock price collapse 56% over the past year, now trading well below its 200-day average.
 
 ### What is working
-- Balance sheet: Debt is 0.2x shareholder equity
-- Valuation: Free cash flow yield 5.8%
-- Profitability: Keeps 14% of revenue as profit
+- Revenue grew 20% year over year to $20.1B, with a three-year growth rate of 17% annually
+- Free cash flow margin of 18% and operating margin of 18% show strong operational efficiency
+- Balance sheet is very clean with debt at only 0.2x shareholder equity; 65% of analysts rate it a buy
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Shareholder returns: Share count growing (dilution)
+- Stock is down 56% over the past year and sits only 3% up from its 52-week low of $41.58
+- Latest quarter revenue grew only 1% year over year, showing significant recent slowdown
+- Share count has grown 3.8% over three years, diluting existing shareholders; no dividend paid
 
-**Watch next:** The next quarterly report: whether revenue growth of +1% holds.
+**Watch next:** Whether quarterly revenue growth accelerates back toward the historical 17% annual pace or continues to stall near 1%, as this will signal if the slowdown is temporary or structural.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Investors comfortable with established industrial cash generators who can tolerate near-term price weakness while waiting for operational trends to clarify.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $20.1B (+20% vs prior year)

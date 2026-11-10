@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Turning up
 
-## Mixed: shareholder returns stands out, balance sheet holds it back
+## Profitable paint maker with strong cash generation, but growth is slowing and debt is high
 
-Sherwin-Williams scores 50 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: turning up.
+Sherwin-Williams is a specialty chemicals company that converts 11% of sales into profit and generates $2.7 billion in free cash yearly. Revenue grew 8% last quarter but only 2% annually over three years. The stock trades at 32 times earnings with debt of 2.4 times equity.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Profitability: Keeps 11% of revenue as profit
+- Operating margin of 18% shows efficient core business, with 11% net profit kept from each revenue dollar
+- Free cash flow of $2.7B annually funds buybacks that have shrunk share count 4.3% over three years
+- Return on equity of 65% means the company generates strong returns on shareholder capital invested
 
 ### What to be careful about
-- Balance sheet: Debt is 2.4x shareholder equity
-- Growth: Revenue +2% a year over 3 years
-- Valuation: Free cash flow yield 3.0%
+- Long-term revenue growth is just 2% per year over three years, despite latest quarter at 8%
+- Debt of $9.4B is 2.4 times shareholder equity, a key red flag in the balance sheet score of zero
+- Stock trades at 32 times earnings with free cash flow yield of only 3.1%, suggesting limited margin of safety at current price
 
-**Watch next:** The next quarterly report: whether revenue growth of +8% holds.
+**Watch next:** Whether the recent 8% quarterly revenue jump signals a return to faster growth or remains a temporary spike given the three-year trend of 2% annual expansion.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors who tolerate above-average debt and moderate valuations in exchange for steady cash generation and buyback-driven shareholder returns.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $23.6B (+2% vs prior year)

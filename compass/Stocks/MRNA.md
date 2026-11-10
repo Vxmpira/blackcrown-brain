@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Strong uptrend
 
-## Solid: balance sheet stands out, valuation holds it back
+## Moderna stock surged 961% in a year but lost $2.8B; cash burning accelerates
 
-Moderna scores 53 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: strong uptrend.
+Moderna is a biotech company with a $110.9B market value that reported $1.9B in revenue for 2025, down 40% from the prior year. The company is unprofitable, burning $2.1B in free cash flow annually, though it has $1.2B in net cash remaining. The stock price has climbed sharply while business fundamentals have deteriorated.
 
 ### What is working
-- Balance sheet: Net cash of $604.0M
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
+- Stock price is up 961% over the past year and sits 97% of the way up its 52-week range, showing strong momentum
+- Latest quarterly revenue grew 29% year over year, suggesting a possible turnaround after three years of decline
+- Net cash position of $604.0M provides runway, and the company is buying back shares, shrinking share count by 6.5% over three years
 
 ### What to be careful about
-- Valuation: Free cash flow yield -2.0%
-- Profitability: Keeps -145% of revenue as profit
+- Annual revenue fell 53% over three years and dropped 40% in 2025, indicating a severe contraction in core business
+- The company lost $2.8B in net income in 2025 and burned $2.1B in free cash flow, losing 145% of revenue as profit
+- Analysts are split with consensus Hold and only 32% rating it a buy; the stock's 130% yearly volatility suggests extreme uncertainty
 
-**Watch next:** The next quarterly report: whether revenue growth of +29% holds.
+**Watch next:** Whether the latest quarter's 29% revenue growth represents a sustained recovery or a temporary bounce before deeper losses resume.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** This profile suits risk-tolerant investors with high conviction in biotech turnarounds who can tolerate years of losses and extreme price swings.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $1.9B (-40% vs prior year)

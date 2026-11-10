@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Neutral read · trend: Uptrend
 
-## Solid: balance sheet stands out, growth holds it back
+## Packaged food giant shrinking but paying shareholders while analysts say sell
 
-The Kraft Heinz Company scores 52 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: uptrend.
+Kraft Heinz is a major food company with $24.9B in annual revenue. It is currently unprofitable on a net income basis, posting a -$5.8B loss last year. The company generates $3.7B in free cash flow and returns money to shareholders through dividends and buybacks.
 
 ### What is working
-- Balance sheet: Debt is 0.4x shareholder equity
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
+- Strong balance sheet: debt is only 0.4x shareholder equity, providing financial cushion
+- High free cash flow yield at 12.6% and generates $3.7B in annual free cash flow despite net losses
+- Shareholder returns: 4.6% dividend yield and share count down 3.9% over 3 years from buybacks
 
 ### What to be careful about
-- Growth: Revenue -2% a year over 3 years
-- Profitability: Keeps -23% of revenue as profit
+- Revenue declining: down 4% last year and -2% annually over the past 3 years
+- Deep unprofitability: net margin is -23% and operating margin is -19%; lost $5.8B last year
+- Analyst consensus is Sell with only 7% of 28 analysts rating it a buy; -16% return on equity
 
-**Watch next:** The next quarterly report: whether revenue growth of -2% holds.
+**Watch next:** Whether revenue decline stabilizes or accelerates, as consistent 2-4% annual shrinkage is unsustainable for a mature packaged foods business.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Conservative income-focused investors who can tolerate significant operational losses in exchange for current dividend yield and are betting on a turnaround.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-27)
 - Revenue $24.9B (-4% vs prior year)

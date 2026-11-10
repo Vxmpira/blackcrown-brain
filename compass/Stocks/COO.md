@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Bearish read · trend: Downtrend, bouncing
 
-## Mixed: balance sheet stands out, price trend holds it back
+## Medical device maker with slowing growth trapped between debt and weak stock price
 
-Cooper Companies (The) scores 47 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: downtrend, bouncing.
+Cooper Companies makes contact lenses and eye care devices. Revenue grew 5% last year but earnings fell 5%, and the stock is down 10% over the past year while trading 31% below its 52-week high.
 
 ### What is working
-- Balance sheet: Debt is 0.3x shareholder equity
-- Shareholder returns: Share count growing (dilution)
-- Valuation: Free cash flow yield 3.6%
+- Strong balance sheet: debt is only 0.3x shareholder equity, well-controlled leverage
+- Generates real cash: free cash flow margin of 11% and $433.7M in free cash flow last year
+- Solid profitability: keeps 9% of each revenue dollar as net profit and operates at 17% margin
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Growth: Revenue +7% a year over 3 years
+- Growth is stalling: latest quarter revenue up only 1% while earnings per share fell 5%
+- Expensive relative to growth: trading at 21x earnings with revenue growth at just 1% recently
+- Stock momentum weak: down 10% over 12 months and sits 25% below its 52-week high of $84.32
 
-**Watch next:** The next quarterly report: whether revenue growth of +1% holds.
+**Watch next:** Whether quarterly revenue growth accelerates above 1% or continues to decelerate further, signaling whether the slowdown is temporary or structural.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Patient investors comfortable with mature, cash-generating healthcare companies who can tolerate stalled growth and near-term stock weakness while waiting for a turnaround or income from operations.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-10-31)
 - Revenue $4.1B (+5% vs prior year)

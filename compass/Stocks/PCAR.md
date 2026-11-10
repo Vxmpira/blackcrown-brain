@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend
 
-## Solid: balance sheet stands out, price trend holds it back
+## Truck maker with strong cash but caught in a downtrend and earnings decline
 
-Paccar scores 51 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend.
+Paccar manufactures heavy-duty trucks and related equipment. The company swung from a difficult 2025 (full-year revenue down 16%) to a stronger recent quarter (up 19%), but earnings per share fell 43% year over year. It holds $3.2 billion in net cash and generates substantial free cash flow.
 
 ### What is working
-- Balance sheet: Net cash of $3.2B
-- Valuation: Free cash flow yield 6.7%
-- Shareholder returns: Share count growing (dilution)
+- Generates $3.7B in free cash flow annually with a 13% margin, providing cushion for operations or returns
+- Latest quarter revenue jumped 19% year over year, suggesting demand may be recovering after a weak full year
+- Strong balance sheet with $3.2B net cash and no debt mentioned, reducing financial risk
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Growth: Revenue -0% a year over 3 years
+- Full-year 2025 revenue fell 16%, indicating a severe demand slowdown or market contraction
+- Earnings per share dropped 43% year over year despite slight margin maintenance, signaling profitability pressure
+- Stock is 24% below its 52-week high and trades below its 200-day average, showing price weakness over several months
 
-**Watch next:** The next quarterly report: whether revenue growth of +19% holds.
+**Watch next:** Whether the 19% revenue growth in the latest quarter signals a sustained recovery or remains a one-quarter bounce before a return to decline.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Patient investors comfortable with cyclical industrial exposure who value balance sheet strength and cash generation over near-term earnings consistency.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $28.4B (-16% vs prior year)

@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Neutral read · trend: Turning up
 
-## Mixed: shareholder returns stands out, valuation holds it back
+## DuPont shows price strength but faces thin profits and steep valuation
 
-DuPont scores 49 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: turning up.
+DuPont is a specialty chemicals company with $6.8B in annual revenue. The company has shrunk revenues by 19% over three years, though the latest quarter showed a 4% year-over-year rebound. Profitability remains weak, with just 1% net margin and 1% return on equity.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Balance sheet: Debt is 0.5x shareholder equity
-- Analyst consensus: 28 analysts, consensus Buy, 82% rate it a buy
+- Price near 52-week high, up 29% over the past year and 19% in the last month
+- Strong balance sheet with debt at 0.5x equity, well-managed leverage
+- Aggressive buybacks shrinking share count by 16.1% over three years; 2.0% dividend yield
 
 ### What to be careful about
-- Valuation: Free cash flow yield 1.1%
-- Growth: Revenue -19% a year over 3 years
-- Profitability: Keeps 1% of revenue as profit
+- Revenue declined 19% annually over three years; company is smaller than it was
+- Trades at 68x earnings with only 1.1% free cash flow yield, expensive relative to profits
+- Net profit of just $88M on $6.8B revenue means only 1% makes it to the bottom line
 
-**Watch next:** The next quarterly report: whether revenue growth of +4% holds.
+**Watch next:** Whether the recent quarterly revenue growth of 4% year-over-year marks a genuine turnaround or a temporary pause in the three-year revenue decline.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors patient with turnarounds who can tolerate high valuations and thin margins while waiting for profitability to improve.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $6.8B (+2% vs prior year)

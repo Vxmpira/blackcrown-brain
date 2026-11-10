@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Neutral read · trend: Turning up
 
-## Mixed: growth stands out, valuation holds it back
+## Healthcare REIT with strong revenue growth but burning cash and trading expensively
 
-Ventas scores 45 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: turning up.
+Ventas owns and operates healthcare facilities like senior housing and medical offices. Revenue grew 23% last quarter and 12% annually over three years. The company is currently unprofitable on a free cash flow basis and trades at 179 times earnings.
 
 ### What is working
-- Growth: Revenue +12% a year over 3 years
-- Balance sheet: Debt is 0.8x shareholder equity
+- Revenue accelerating: +23% year over year in latest quarter, +12% annually over 3 years
+- Analyst backing: 82% of 27 analysts rate it a buy
+- Price momentum: Up 17% over the past year and above its 200-day average
 
 ### What to be careful about
-- Valuation: Free cash flow yield -3.1%
-- Profitability: Keeps 4% of revenue as profit
+- Burning cash: Free cash flow is negative $1.3B with a -22% margin
+- Valuation extreme: Trading at 179x earnings with -2.7% free cash flow yield
+- Profitability weak: Only 4% net margin and 2% return on equity
 
-**Watch next:** The next quarterly report: whether revenue growth of +23% holds.
+**Watch next:** Whether free cash flow turns positive in upcoming quarters, since the company is currently burning $1.3B annually despite revenue growth.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Patient investors comfortable with REITs that prioritize growth and dividends over near-term cash generation, and who believe in the healthcare real estate sector long-term.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $5.8B (+18% vs prior year)

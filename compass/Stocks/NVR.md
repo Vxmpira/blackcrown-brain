@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Bearish read · trend: Downtrend
 
-## Solid: balance sheet stands out, price trend holds it back
+## Homebuilder with strong profits but shrinking sales and analyst skepticism
 
-NVR, Inc. scores 51 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend.
+NVR is a residential construction company generating $10.3B in annual revenue with a 13% net profit margin and $1.1B in free cash flow. Revenue has declined 1% annually over three years, with the latest quarter down 8% year over year. The stock has fallen 16% over the past year and trades 25% below its 52-week high.
 
 ### What is working
-- Balance sheet: Net cash of $569.4M
-- Shareholder returns: Share count shrinking (buybacks)
-- Valuation: Free cash flow yield 5.9%
+- Converts 13% of revenue into profit, well above many industries
+- Generated $1.1B in free cash flow last year with a 6.6% cash yield
+- Holding $569.4M in net cash and cutting share count by 12.5% over three years through buybacks
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Growth: Revenue -1% a year over 3 years
+- Revenue down 8% in latest quarter; three-year annual decline of 1%
+- Earnings per share fell 14% year over year
+- Stock is 25% below its 52-week high and trades 20% of the way up its 52-week range, suggesting weak momentum
 
-**Watch next:** The next quarterly report: whether revenue growth of -8% holds.
+**Watch next:** Whether next quarter's revenue stabilizes or continues to decline, since the latest quarter showed -8% year-over-year contraction and the full-year trend is negative.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors seeking profitable cash-generating businesses who can tolerate cyclical downturns and analyst disagreement, and who are comfortable with residential construction sector sensitivity.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $10.3B (-2% vs prior year)

@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Bearish read · trend: Downtrend
 
-## Mixed: shareholder returns stands out, price trend holds it back
+## Semiconductor maker in downtrend with strong recent growth but elevated valuation
 
-Microchip Technology scores 44 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: downtrend.
+Microchip Technology makes semiconductor products. Revenue fell 18% per year over three years, but the latest quarter jumped 42% year over year. The company is profitable and generates cash, though it carries $5.5B in debt.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Balance sheet: Debt is 0.8x shareholder equity
+- Latest quarter revenue surged 42% year over year, breaking a multi-year downtrend
+- Free cash flow of $871.0M supports a 2.1% dividend and ongoing $33.0B buyback program
+- Analysts show 79% buy rating with consensus Buy, suggesting professional confidence in recovery
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Valuation: Free cash flow yield 2.6%
+- Stock down 40% from its 52-week high and 36.9% over six months, now 23% up its yearly range
+- Trades at 39x earnings with only 2.6% free cash flow yield, leaving little margin for error
+- Three-year revenue decline of 18% annually raises questions about whether the 42% rebound is sustainable
 
-**Watch next:** The next quarterly report: whether revenue growth of +42% holds.
+**Watch next:** Whether the latest quarter's 42% revenue growth continues in coming quarters or reverts to the three-year downtrend.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Long-term investors comfortable with semiconductor cyclicality and willing to hold through near-term price weakness if they believe in the business recovery.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-03-31)
 - Revenue $4.7B (+7% vs prior year)

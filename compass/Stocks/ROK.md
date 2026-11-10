@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Losing steam
 
-## Solid: shareholder returns stands out, growth holds it back
+## Profitable industrial automation leader fighting recent momentum loss
 
-Rockwell Automation scores 53 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: losing steam.
+Rockwell Automation makes control systems and software for factory automation. The company is highly profitable with strong cash generation, but revenue growth has slowed to just 1% annually. Recent stock momentum has deteriorated, though the latest quarter showed 8% revenue acceleration.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Profitability: Keeps 10% of revenue as profit
-- Balance sheet: Debt is 0.7x shareholder equity
+- Keeps 10% of revenue as profit and generates $1.5B in free cash flow annually
+- Return on equity is 25%, meaning shareholder capital is being deployed efficiently
+- Buyback program has shrunk share count by 3.1% over three years while paying 1.8% dividend
 
 ### What to be careful about
-- Growth: Revenue +2% a year over 3 years
-- Price trend: Price is below its 200-day average
-- Valuation: Free cash flow yield 3.5%
+- Revenue growth is only 2% per year over three years, while earnings per share fell 7% most recently
+- Stock trades at 36x earnings with just 3.5% free cash flow yield, leaving little room for disappointment
+- Price is down 20% from its 52-week high and down 13.3% over the past six months
 
-**Watch next:** The next quarterly report: whether revenue growth of +8% holds.
+**Watch next:** Whether the 8% quarterly revenue growth represents a genuine turnaround or a temporary bounce after three years of sluggish expansion.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors seeking stable cash-generating industrial businesses with modest growth who can tolerate near-term price weakness and elevated valuation multiples.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-09-30)
 - Revenue $8.3B (+1% vs prior year)

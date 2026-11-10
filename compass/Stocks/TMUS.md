@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend, bouncing
 
-## Mixed: shareholder returns stands out, price trend holds it back
+## Profitable telecom with strong cash flow faces near-term price headwinds
 
-T-Mobile US scores 49 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: downtrend, bouncing.
+T-Mobile is a large telecommunications company generating $88.3B in annual revenue with solid profitability (12% net margin) and substantial free cash flow ($18.0B). The company is returning capital to shareholders through buybacks and dividends while carrying significant debt.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Valuation: Free cash flow yield 9.5%
-- Profitability: Keeps 12% of revenue as profit
+- Free cash flow yield of 10.2% is unusually high relative to the stock price
+- Operating margin of 21% and return on equity of 20% show efficient capital use
+- 85% of 34 analysts rate it a buy, with consensus recommendation at Buy
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Balance sheet: Debt is 1.5x shareholder equity
-- Growth: Revenue +4% a year over 3 years
+- Stock is down 19% over the past year and sits 25% below its 52-week high
+- Debt of $86.3B is 1.5x shareholder equity, which limits financial flexibility
+- Revenue growth has slowed to 4% annually over three years despite recent 8% year-over-year bump
 
-**Watch next:** The next quarterly report: whether revenue growth of +7% holds.
+**Watch next:** Whether quarterly revenue growth sustains above 7% and if free cash flow margins hold at 20% as debt repayment accelerates.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors seeking stable cash generation and current income who are comfortable holding through price swings and can tolerate high leverage.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $88.3B (+8% vs prior year)

@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Strong uptrend
 
-## Solid: price trend stands out, growth holds it back
+## CRL surged 106% in a year, but profits are negative and valuation is steep
 
-Charles River Laboratories scores 56 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: strong uptrend.
+Charles River is a healthcare research services company with $4.0 billion in annual revenue. The stock has climbed sharply on investor optimism, yet the business is currently unprofitable and revenue is flat to slightly declining.
 
 ### What is working
-- Price trend: Price is above its 200-day average
-- Shareholder returns: Share count shrinking (buybacks)
-- Balance sheet: Debt is 0.7x shareholder equity
+- Stock price up 106% over the past year and sits 86% of the way up its 52-week range, showing strong momentum
+- Free cash flow of $518.5 million remains positive despite net losses, providing real cash to the business
+- Share count down 3.4% over three years through buybacks, concentrating ownership among remaining shareholders
 
 ### What to be careful about
-- Growth: Revenue +0% a year over 3 years
-- Valuation: Free cash flow yield 3.1%
-- Profitability: Keeps -4% of revenue as profit
+- Net income is -$144.3 million; the company lost money in the latest year despite $4.0B in revenue
+- Revenue fell 1% year over year and grew 0% per year over the past three years, showing no growth momentum
+- P/E ratio of 419x is extremely high; free cash flow yield of only 3.1% suggests limited margin of safety
 
-**Watch next:** The next quarterly report: whether revenue growth of -2% holds.
+**Watch next:** Whether revenue can return to growth in coming quarters, since the $4.0B business has been flat to shrinking while the stock price has nearly doubled.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Investors comfortable holding through volatility and believing in a turnaround to profitability, rather than those seeking stable current earnings or dividends.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-27)
 - Revenue $4.0B (-1% vs prior year)

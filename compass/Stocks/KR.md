@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Neutral read · trend: Turning up
 
-## Mixed: shareholder returns stands out, balance sheet holds it back
+## Kroger: Flat growth, high debt, but returning cash to shareholders
 
-Kroger scores 42 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: turning up.
+Kroger is a large grocery retailer with $147.6B in annual revenue and essentially flat sales over three years. The company converts just 1% of revenue into profit and carries significant debt at 2.6x equity. It is buying back shares and paying a 2.6% dividend while analysts remain broadly positive.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
+- Price is 8.4% higher over the past month and sits 20% below its 52-week high, suggesting recent upward momentum
+- Free cash flow yield of 8.7% is notably high, meaning the business generates meaningful cash relative to its market value
+- Share buybacks have shrunk the share count 9.9% over three years, concentrating ownership among remaining shareholders
 
 ### What to be careful about
-- Balance sheet: Debt is 2.6x shareholder equity
-- Growth: Revenue -0% a year over 3 years
+- Earnings per share fell 58% year over year, signaling a sharp recent profitability decline
+- Debt is 2.6x shareholder equity, a level that limits financial flexibility and requires ongoing cash flow to service
+- Revenue growth is essentially zero: flat over the past year and flat over three years, with only 2% growth in the latest quarter
 
-**Watch next:** The next quarterly report: whether revenue growth of +2% holds.
+**Watch next:** Whether net income and earnings per share can stabilize and recover from the 58% year-over-year drop, given flat revenue.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors seeking cash generation and dividend income who can tolerate a mature, low-growth business with elevated debt and are comfortable holding through earnings volatility.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-01-31)
 - Revenue $147.6B (+0% vs prior year)

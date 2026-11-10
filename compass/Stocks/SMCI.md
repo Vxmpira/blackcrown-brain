@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Neutral read · trend: Losing steam
 
-## Solid: growth stands out, shareholder returns holds it back
+## Supermicro: Explosive growth meets cash burn and stock price decline
 
-Supermicro scores 52 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: losing steam.
+Supermicro is a computer hardware company experiencing extraordinary revenue growth, with annual revenue up 76% over three years and latest quarterly revenue up 298% year over year. Despite strong top-line growth, the company is burning cash, keeping only 6% of revenue as profit, and its stock has fallen 29% over the past year while shares outstanding have grown 24.6%.
 
 ### What is working
-- Growth: Revenue +76% a year over 3 years
-- Balance sheet: Net cash of $6.8B
+- Revenue grew 298% in the latest quarter compared to the year-ago period, and annual revenue reached $39.1B
+- Company holds $6.8B in net cash, providing a financial cushion with minimal debt at $85.6M
+- Stock trades at 5x earnings, which is low compared to many technology peers
 
 ### What to be careful about
-- Shareholder returns: Share count growing (dilution)
-- Profitability: Keeps 6% of revenue as profit
-- Price trend: Price is below its 200-day average
+- Free cash flow is -$7.0B, meaning the company is burning cash despite $2.2B in net income
+- Stock price is down 29% over the past year and sits 43% below its 52-week high of $50.17
+- Share count has grown 24.6% over three years, diluting existing shareholders; analysts are mostly skeptical with only 16% rating it a buy
 
-**Watch next:** The next quarterly report: whether revenue growth of +298% holds.
+**Watch next:** Monitor whether free cash flow turns positive while revenue growth continues, as the current -$7.0B cash burn rate is unsustainable despite the large cash balance.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Investors comfortable with extreme volatility (95% yearly) who believe in the company's ability to convert rapid growth into profitability, and who can tolerate significant stock price swings.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-06-30)
 - Revenue $39.1B (+78% vs prior year)

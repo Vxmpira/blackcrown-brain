@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Strong uptrend
 
-## Solid: price trend stands out, growth holds it back
+## Generic drug maker with strong price momentum but shrinking revenue and heavy debt
 
-Viatris scores 62 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: strong uptrend.
+Viatris is a specialty and generic pharmaceutical company with $14.3 billion in annual revenue. The company is not profitable on a net income basis and carries $13.3 billion in debt against $1.8 billion in cash. It generated $1.9 billion in free cash flow last year despite operating losses.
 
 ### What is working
-- Price trend: Price is above its 200-day average
-- Profitability: Free cash flow margin 14%
-- Balance sheet: Debt is 1.0x shareholder equity
+- Stock price up 101.6% over the past year and sitting 99% of the way up its 52-week range, showing strong momentum
+- Free cash flow yield of 8.3% and dividend yield of 5.1% provide income to shareholders despite unprofitability
+- 67% of 18 analysts rate it a buy, with consensus rating at Buy
 
 ### What to be careful about
-- Growth: Revenue -4% a year over 3 years
+- Revenue has declined 4% a year over the past three years and is flat in the latest quarter, showing no growth
+- Operating margin of -19% and net margin of -3% mean the company loses money on every dollar of sales
+- Debt of $13.3 billion is 1.0x shareholder equity, and share count has grown 100.8% over three years, diluting existing shareholders
 
-**Watch next:** The next quarterly report: whether revenue growth of -0% holds.
+**Watch next:** Whether revenue stabilizes in coming quarters, since the company is burning operating margin while managing substantial debt and shareholder dilution.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable with negative margins and debt-heavy balance sheets who prioritize current cash flow yield over profit growth.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $14.3B (-3% vs prior year)

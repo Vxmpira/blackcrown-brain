@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Turning up
 
-## Solid: valuation stands out, balance sheet holds it back
+## Clorox shows earnings pop but faces heavy debt and analyst skepticism
 
-Clorox scores 55 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: turning up.
+Clorox is a household and personal products company with $7.1B in annual revenue. Recent earnings jumped 190% year over year, though full-year revenue is flat. The company carries $4.0B in debt against $184.0M in cash.
 
 ### What is working
-- Valuation: Free cash flow yield 5.9%
-- Profitability: Keeps 8% of revenue as profit
-- Shareholder returns: Share count flat
+- Latest quarterly revenue surged 33% versus a year ago
+- Earnings per share rose 190% year over year
+- Generates $761.0M in annual free cash flow with a 5.9% yield
 
 ### What to be careful about
-- Balance sheet: Debt is 56.3x shareholder equity
-- Analyst consensus: 27 analysts, consensus Sell, 4% rate it a buy
+- Debt stands at 56.3x shareholder equity, an extremely high leverage ratio
+- Full-year revenue is flat at $7.1B with no growth over three years
+- Only 4% of 27 analysts rate the stock a buy; consensus is Sell
 
-**Watch next:** The next quarterly report: whether revenue growth of +33% holds.
+**Watch next:** Whether the 33% quarterly revenue jump is temporary or signals a sustained shift in demand, since full-year revenue remains flat.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors comfortable with high debt loads who prioritize current cash generation and dividends over growth, and who can withstand analyst disapproval.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-06-30)
 - Revenue $7.1B (+0% vs prior year)

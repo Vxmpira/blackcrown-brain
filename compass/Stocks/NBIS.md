@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Losing steam
 
-## Solid: growth stands out, valuation holds it back
+## Explosive growth company burning cash hard; analysts bullish but valuation extreme
 
-Nebius Group N.V. scores 52 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: losing steam.
+Nebius is a communication services company with extraordinary revenue growth of 479% year over year, but it is losing money on operations and burning billions in cash flow. The company keeps 16% of revenue as profit on paper, yet free cash flow is deeply negative at negative 3.7 billion dollars.
 
 ### What is working
-- Growth: Revenue +240% a year over 3 years
-- Shareholder returns: Share count shrinking (buybacks)
-- Balance sheet: Debt is 0.9x shareholder equity
+- Revenue jumped 479% in the latest year and grew 240% annually over three years, showing sustained expansion
+- Analyst consensus is Buy with 70% of 30 analysts rating it a buy, reflecting market confidence
+- Share count has shrunk 32.7% over three years through buybacks, concentrating ownership per share
 
 ### What to be careful about
-- Valuation: Free cash flow yield -10.5%
-- Profitability: Keeps 16% of revenue as profit
-- Price trend: Price is below its 200-day average
+- Free cash flow is negative 3.7 billion dollars against 529.8 million in revenue; the company is burning cash rapidly
+- Stock price is down 32.5% in one month and down 51% from its 52-week high despite growth narrative
+- P/E ratio of 906.93 is extremely high; free cash flow yield is negative 9.6%, suggesting valuation is stretched
 
-**Watch next:** The next quarterly report: whether revenue growth of +479% holds.
+**Watch next:** Whether the company can close its massive free cash flow gap while maintaining revenue growth, as current burn rate is unsustainable.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Investors who can tolerate extreme volatility (109% yearly) and believe in high-growth turnaround stories where profitability lags far behind revenue expansion.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $529.8M (+479% vs prior year)

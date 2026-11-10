@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend
 
-## Solid: shareholder returns stands out, price trend holds it back
+## Logistics firm showing earnings growth but stuck in year-long downtrend
 
-C.H. Robinson scores 54 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend.
+C.H. Robinson is an integrated freight and logistics company that moves goods for other businesses. Full-year revenue fell 8% to $16.2B, but the latest quarter jumped 30% year-over-year, suggesting recent momentum. The company is profitable, generates cash, and returns capital to shareholders.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Valuation: Free cash flow yield 6.0%
-- Analyst consensus: 30 analysts, consensus Buy, 77% rate it a buy
+- Latest quarter revenue surged 30% year-over-year to $5.4B, reversing full-year decline
+- Earnings per share grew 25% year-over-year while share count shrank 4.4% over three years via buybacks
+- Free cash flow yield of 6.0% and dividend yield of 3.0% provide income; generates $894.9M in annual free cash flow
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
+- Stock is down 14% over the past year and sits only 5% up from its 52-week low of $124.61; 39% below its high of $209.42
+- Full-year revenue down 8% and has declined at 13% annualized rate over three years, showing a longer trend
+- Debt of $1.9B is 1.2x shareholder equity, moderately high leverage; net margin of only 4% leaves little room for error
 
-**Watch next:** The next quarterly report: whether revenue growth of +30% holds.
+**Watch next:** Whether the 30% latest-quarter revenue growth sustains or reverses, since full-year results contracted sharply.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Patient investors comfortable with cyclical industrials who want both dividend income (3.0%) and potential share appreciation if the recent quarterly rebound continues.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $16.2B (-8% vs prior year)

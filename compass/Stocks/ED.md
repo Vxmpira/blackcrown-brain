@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Turning up
 
-## Solid: valuation stands out, analyst consensus holds it back
+## Utility giant with strong cash flow but analyst consensus warns of overvaluation
 
-Consolidated Edison scores 55 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: turning up.
+Consolidated Edison is a large regulated electric utility serving millions in the Northeast. It generates substantial free cash flow and pays a dividend, but reported minimal net income in its latest year despite $17.0B in revenue.
 
 ### What is working
-- Valuation: Free cash flow yield 10.9%
-- Price trend: Price is above its 200-day average
-- Shareholder returns: Share count growing (dilution)
+- Free cash flow of $4.8B represents a 10.9% yield on current market value, well above typical stocks
+- Revenue rose 10% year-over-year in the latest period, accelerating from a 3% average growth rate over three years
+- Stock price up 19.9% over the past year and sits near its 52-week high, showing investor appetite
 
 ### What to be careful about
-- Analyst consensus: 27 analysts, consensus Sell, 11% rate it a buy
-- Growth: Revenue +3% a year over 3 years
+- Net income was $2.0M on $17.0B revenue (0% margin), indicating profit gets taxed or reinvested heavily in the regulated utility model
+- Analyst consensus rates the stock Sell, with only 11% of 27 analysts rating it a buy
+- Share count growing 0.8% over three years signals dilution, which reduces future earnings per existing share
 
-**Watch next:** The next quarterly report: whether revenue growth of +6% holds.
+**Watch next:** Monitor whether the 10% revenue surge continues or reverts to the historical 3% trend, as this directly affects the cash flow yield that justifies the valuation.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Long-term investors seeking steady dividend income and cash generation who are comfortable with utility regulation and can tolerate that Wall Street consensus currently opposes the stock.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $17.0B (+10% vs prior year)

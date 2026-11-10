@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Strong uptrend
 
-## Solid: shareholder returns stands out, growth holds it back
+## Insurance giant with strong price momentum but shrinking revenue and weak analyst sentiment
 
-Aflac scores 55 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: strong uptrend.
+Aflac is a life insurance company with $17.2B in annual revenue and $3.6B in net profit. Revenue has fallen 9% year over year and 4% per year over the past three years, with the latest quarter down 31%. The stock price has climbed 10% over the past year and sits near its 52-week high.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Valuation: Trades at 13x earnings
-- Price trend: Price is above its 200-day average
+- Stock trades at 13x earnings, below market average, with 4.2% free cash flow yield
+- Company keeps 21% of revenue as profit and generates $2.6B in annual free cash flow
+- Share buybacks have reduced count by 16% over three years; dividend yield stands at 2.4%
 
 ### What to be careful about
-- Growth: Revenue -4% a year over 3 years
-- Analyst consensus: 24 analysts, consensus Sell, 12% rate it a buy
+- Revenue fell 31% in the latest quarter and 9% for the full year, signaling serious contraction
+- Only 12% of 24 analysts rate the stock a buy; consensus recommendation is Sell
+- Three-year revenue trend is negative at 4% decline per year; profitability relies on shrinking base
 
-**Watch next:** The next quarterly report: whether revenue growth of -31% holds.
+**Watch next:** Whether the 31% quarterly revenue drop represents a one-time event or the start of a steeper decline in the core insurance business.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Investors seeking stable dividend income who can tolerate near-term business contraction in exchange for a low valuation and shareholder-friendly capital returns.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $17.2B (-9% vs prior year)
