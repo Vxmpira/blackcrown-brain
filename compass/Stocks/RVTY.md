@@ -14,27 +14,27 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Strong uptrend
 
-## Strong price momentum masks slow revenue growth and high valuation
+## Revvity rides strong momentum but trades at steep earnings multiple
 
-Revvity is a diagnostics and research company with $2.9 billion in annual revenue. The stock has surged 74% in the past year and sits near its 52-week high, but the underlying business is growing slowly and trades at a steep multiple.
+Revvity is a diagnostics and research company with $2.9B in annual revenue. The stock has surged 74% over the past year and sits near its 52-week high, but the underlying business is growing slowly with revenue flat over three years.
 
 ### What is working
-- Stock price up 74% over the past year and 59% over six months, with 50-day average above 200-day average
-- Generates $509.4 million in free cash flow annually with an 18% free cash flow margin
-- Low debt relative to equity at 0.4x, and actively buying back shares (down 7.8% over three years)
+- Stock price up 74% in the past year and trades 91% of the way up its 52-week range, showing strong momentum
+- Balance sheet is clean with debt at just 0.4x shareholder equity, giving financial flexibility
+- Free cash flow of $509.4M (18% margin) provides real cash to fund operations and shareholder returns
 
 ### What to be careful about
-- Revenue declined 5% per year on average over the past three years, though latest quarter showed +1% growth
-- Trades at 70x earnings, which is expensive relative to the 2.9% free cash flow yield
-- Net profit margin of only 8%, and return on equity is just 3% despite the high stock valuation
+- Trading at 70x earnings, a steep valuation that leaves little room for disappointment
+- Revenue declined 5% annually over the past three years, despite a recent +4% quarterly rebound
+- Return on equity of 3% is very low, meaning the company generates minimal profit per dollar of shareholder capital
 
-**Watch next:** Whether quarterly revenue growth accelerates above 1% year-over-year, since the three-year trend has been negative.
+**Watch next:** Whether revenue can sustain its recent 4% quarterly growth or reverts to the downward three-year trend will determine if the stock's valuation can be justified.
 
-**Tends to suit:** Investors comfortable with high valuations and betting on a turnaround in growth, rather than those seeking value or steady earnings expansion.
+**Tends to suit:** Patient long-term investors comfortable with high valuations who believe in the company's diagnostic business and can tolerate 40% annual price swings.
 
 Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-28)
 - Revenue $2.9B (+4% vs prior year)
 - Net margin 8%, free cash flow $509.4M
-- Cash $1.0B, debt $3.2B
+- Cash $592.8M, debt $2.6B

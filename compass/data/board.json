@@ -3382,6 +3382,19 @@
    "headline": "Insurance broker with strong profits and recent price rally, but growth has stalled"
   },
   {
+   "symbol": "RVTY",
+   "name": "Revvity",
+   "sector": "Healthcare",
+   "score": 61.1,
+   "tier": "Solid",
+   "read": "neut",
+   "trend": "Strong uptrend",
+   "ret_1y": 0.7405,
+   "pe": 70.48,
+   "div_yield": 0.0031,
+   "headline": "Revvity rides strong momentum but trades at steep earnings multiple"
+  },
+  {
    "symbol": "ABBV",
    "name": "AbbVie",
    "sector": "Healthcare",
@@ -3562,19 +3575,6 @@
    "pe": 20.42,
    "div_yield": 0.0364,
    "headline": "Stable utility with steady cash generation and rising debt levels"
-  },
-  {
-   "symbol": "RVTY",
-   "name": "Revvity",
-   "sector": "Healthcare",
-   "score": 60.1,
-   "tier": "Solid",
-   "read": "neut",
-   "trend": "Strong uptrend",
-   "ret_1y": 0.7405,
-   "pe": 70.48,
-   "div_yield": 0.0031,
-   "headline": "Strong price momentum masks slow revenue growth and high valuation"
   },
   {
    "symbol": "YUM",
