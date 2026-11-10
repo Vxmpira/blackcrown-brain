@@ -1,5 +1,5 @@
 {
- "data_asof_utc": "2026-11-10T14:50:39.223139+00:00",
+ "data_asof_utc": "2026-11-10T16:09:22.002311+00:00",
  "scoreboard": {
   "strategy": "v2-catalyst-both-ways",
   "closed_trades": 1,
@@ -38,8 +38,8 @@
   "last30_expectancy_pct": -1.513
  },
  "min_sample": 30,
- "universe_count": 63,
- "universe_asof": "2026-11-09T20:06:45.075995+00:00",
+ "universe_count": 10,
+ "universe_asof": "2026-11-10T16:09:22.002311+00:00",
  "rules": {
   "strategy": "v2-catalyst-both-ways",
   "notional": 10000.0,
