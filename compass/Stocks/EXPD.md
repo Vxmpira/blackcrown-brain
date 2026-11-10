@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Pullback in uptrend
 
-## Strong: balance sheet stands out, analyst consensus holds it back
+## Logistics firm in uptrend with strong cash generation, but growth remains uneven
 
-Expeditors International scores 69 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: pullback in uptrend.
+Expeditors International is a freight and logistics company with $11.1B in annual revenue. It sits on $1.1B in net cash and generates substantial free cash flow. The stock has climbed 36% over the past year and trades near 52-week highs.
 
 ### What is working
-- Balance sheet: Net cash of $1.1B
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
+- Strong balance sheet: $1.1B in net cash with no debt listed, giving financial flexibility
+- Solid profitability: 7% net margin and 35% return on equity show efficient capital use
+- Returning cash to shareholders: share count down 17.1% over 3 years via buybacks
 
 ### What to be careful about
-- Analyst consensus: 23 analysts, consensus Hold, 13% rate it a buy
+- Revenue trend is mixed: down 13% annually over 3 years, though latest quarter jumped 42%
+- Valuation is stretched: trades at 23x earnings and only yields 3.9% free cash flow
+- Analyst skepticism: just 13% of 23 analysts rate it a buy; consensus is Hold
 
-**Watch next:** The next quarterly report: whether revenue growth of +42% holds.
+**Watch next:** Whether the 42% quarterly revenue jump signals a sustained turnaround or remains a temporary spike given the three-year revenue decline.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors comfortable with logistics cyclicality who value balance sheet strength and buybacks over rapid top-line growth.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $11.1B (+4% vs prior year)

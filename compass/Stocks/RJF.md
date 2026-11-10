@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Uptrend
 
-## Strong: shareholder returns stands out
+## Financial services firm growing steadily with strong cash generation and cheap valuation
 
-Raymond James Financial scores 69 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: uptrend.
+Raymond James is a capital markets and financial services company with $15.9B in annual revenue. It generated $2.1B in net income last year and is returning cash to shareholders through buybacks and a 1.6% dividend.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Valuation: Trades at 15x earnings
-- Price trend: Price is above its 200-day average
+- Revenue grew 14% in the latest quarter and 12% per year over three years
+- Free cash flow yield of 7.0% and zero debt show strong cash generation
+- Trades at 14x earnings with return on equity of 17%, suggesting efficient use of shareholder capital
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Analyst consensus is Hold rather than Buy, with only 48% of 21 analysts rating it a buy
+- Earnings per share grew just 6% year over year, lagging revenue growth of 14%
+- Stock is down 7% from its 52-week high and carries 26% annual volatility
 
-**Watch next:** The next quarterly report: whether revenue growth of +14% holds.
+**Watch next:** Monitor whether earnings growth accelerates to match the 14% revenue growth shown in the latest quarter, since recent EPS growth of 6% lags behind.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors seeking steady cash generation and modest capital appreciation from a profitable financial services company trading at a reasonable valuation.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-09-30)
 - Revenue $15.9B (+7% vs prior year)

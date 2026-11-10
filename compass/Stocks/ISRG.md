@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Turning up
 
-## Strong: balance sheet stands out, valuation holds it back
+## Surgical robotics leader growing fast but priced for perfection
 
-Intuitive Surgical scores 69 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: turning up.
+Intuitive Surgical makes robotic surgery systems. The company grew revenue 22% last quarter and keeps 28% as profit. It trades at 54 times earnings, which is expensive for most long-term investors.
 
 ### What is working
-- Balance sheet: Net cash of $3.0B
-- Profitability: Keeps 28% of revenue as profit
-- Growth: Revenue +17% a year over 3 years
+- Revenue jumped 22% year over year in the latest quarter, with full-year growth at 21%
+- Profitability is strong: net margin sits at 28% and free cash flow margin at 25%
+- Balance sheet is fortress-like with $3.0 billion in net cash and no debt
 
 ### What to be careful about
-- Valuation: Free cash flow yield 1.5%
+- Stock is down 19.8% over the past year despite earnings growth, showing investor patience is wearing
+- Trading at 54 times earnings with only 1.6% free cash flow yield leaves little margin for error
+- Price sits 24% below its 52-week high and volatility runs at 36%, meaning swings can be sharp
 
-**Watch next:** The next quarterly report: whether revenue growth of +22% holds.
+**Watch next:** Watch whether the company can sustain 20%+ revenue growth for the next two quarters, since the valuation depends entirely on continued expansion.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** This profile suits long-term investors who believe in high-quality compounders and can tolerate paying premium prices for proven execution.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $10.1B (+21% vs prior year)

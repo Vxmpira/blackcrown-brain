@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: shareholder returns stands out
+## Healthcare operator with steady growth, cheap valuation, but mixed analyst view
 
-Universal Health Services scores 72 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+UHS runs medical care facilities and generated $17.4B in revenue last year, up 10%. The company keeps 9% of sales as profit and produces meaningful free cash flow. It trades at just 8 times earnings.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Valuation: Free cash flow yield 6.7%
-- Price trend: Price is above its 200-day average
+- Revenue grew 10% last year and has averaged 9% annually over three years
+- Free cash flow yield sits at 7.3%, well above typical market returns
+- Earnings per share jumped 37% year over year while share count fell 12.7% over three years via buybacks
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Stock down 14.6% over the past 12 months despite recent three-month strength
+- Only 36% of 25 analysts rate it a buy; consensus is Hold
+- Trades 20% below its 52-week high with yearly volatility at 34%
 
-**Watch next:** The next quarterly report: whether revenue growth of +5% holds.
+**Watch next:** Whether the consensus among analysts shifts from Hold to Buy as earnings growth sustains, since only one-third currently recommend purchase.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors seeking steady cash generation from healthcare services who can tolerate short-term price swings and want exposure to a mature, profitable operator.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $17.4B (+10% vs prior year)

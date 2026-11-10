@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: price trend stands out, growth holds it back
+## Industrial machinery company trading near highs with strong cash generation but pricey valuation
 
-Nordson Corporation scores 72 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Nordson is an industrial machinery manufacturer with $2.8B in annual revenue. The company generates substantial free cash flow and maintains healthy profit margins. It trades at a premium multiple despite modest long-term revenue growth.
 
 ### What is working
-- Price trend: Price is above its 200-day average
-- Balance sheet: Debt is 0.5x shareholder equity
-- Shareholder returns: Share count shrinking (buybacks)
+- Free cash flow margin of 24% shows strong cash generation relative to revenue
+- Return on equity of 15% indicates efficient use of shareholder capital
+- Stock price up 39% over the past year and sitting 90% of the way up its 52-week range
 
 ### What to be careful about
-- Growth: Revenue +3% a year over 3 years
-- Valuation: Free cash flow yield 3.6%
+- Trades at 32x earnings, which is a high valuation multiple for industrial machinery
+- Revenue growth averaged only 3% per year over the past 3 years despite latest quarter up 10%
+- Stock is 3% below its 52-week high with 23% yearly volatility, limiting margin for error
 
-**Watch next:** The next quarterly report: whether revenue growth of +10% holds.
+**Watch next:** Monitor whether the latest quarter's 10% revenue growth sustains or reverts to the historical 3% annual trend, as this will determine if the high valuation is justified.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable with premium valuations who prioritize steady cash generation and shareholder returns over rapid growth, and have a multi-year time horizon.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-10-31)
 - Revenue $2.8B (+4% vs prior year)

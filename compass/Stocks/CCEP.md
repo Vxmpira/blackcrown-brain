@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: price trend stands out, balance sheet holds it back
+## Beverage distributor near 52-week high with strong cash flow but rising debt
 
-Coca-Cola Europacific Partners scores 66 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+CCEP is a major non-alcoholic beverage distributor in Europe and the Pacific region. It generated 20.9 billion euros in revenue last year with a 9% profit margin and returned 5.0% to shareholders via dividends.
 
 ### What is working
-- Price trend: Price is above its 200-day average
-- Shareholder returns: Share count flat
-- Profitability: Keeps 9% of revenue as profit
+- Stock up 27.5% over the past year and sits near its 52-week high of 117.49 euros
+- Generated 2.2 billion euros in free cash flow in 2025 while keeping 9% of revenue as profit
+- Return on equity of 25% shows efficient use of shareholder capital; dividend yield of 5.0% exceeds many peers
 
 ### What to be careful about
-- Balance sheet: Debt is 1.5x shareholder equity
+- Latest quarter revenue flat at 3.1B EUR versus a year ago, signaling near-term stagnation
+- Debt of 12.0B EUR is 1.5 times shareholder equity, limiting financial flexibility in downturns
+- Trades at 23x earnings; analysts are split with a Hold consensus despite 61% buy ratings
 
-**Watch next:** The next quarterly report: whether revenue growth of +0% holds.
+**Watch next:** Whether quarterly revenue growth returns to the 6% annual pace seen over the past three years, or continues flat.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Long-term investors seeking stable dividend income and defensive consumer exposure who are comfortable holding through revenue growth slowdowns and higher-than-average debt levels.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue 20.9B EUR (+2% vs prior year)

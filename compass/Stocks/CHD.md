@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: price trend stands out
+## Stable household brand riding strong price momentum, but growth has slowed
 
-Church & Dwight scores 70 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Church & Dwight makes everyday consumer products like baking soda and personal care items. The company is profitable and generates steady cash flow. Revenue growth has cooled to just 1% in the latest quarter, though the stock price has climbed 28% over the past year.
 
 ### What is working
-- Price trend: Price is above its 200-day average
-- Balance sheet: Debt is 0.5x shareholder equity
-- Shareholder returns: Share count shrinking (buybacks)
+- Price sits 97% of the way up its 52-week range, showing sustained investor demand
+- Free cash flow margin of 18% and operating margin of 17% show efficient operations
+- Share count shrinking by 0.8% over 3 years through buybacks, boosting per-share value
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Latest quarterly revenue grew only 1% year over year, suggesting business momentum is stalling
+- Stock trades at 34x earnings and 33.67 P/E, meaning you pay a premium price for each dollar of profit
+- Analyst consensus is Hold, not Buy, and only 50% of 26 analysts rate it a buy
 
-**Watch next:** The next quarterly report: whether revenue growth of +1% holds.
+**Watch next:** Whether the next two quarters show revenue acceleration or if the 1% growth rate persists, since the stock's high valuation depends on the company growing.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors seeking a stable, profitable company willing to pay a premium price for modest growth and consistent dividend income.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $6.2B (+2% vs prior year)

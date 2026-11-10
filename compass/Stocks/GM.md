@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Uptrend
 
-## Strong: balance sheet stands out, growth holds it back
+## GM trades near 52-week high with strong cash generation but weak profit margins
 
-General Motors scores 66 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: uptrend.
+General Motors is a large automaker generating $168 billion in annual revenue. The company is currently profitable but keeps only 2 cents of profit per dollar of sales. It holds $23.2 billion in net cash and is returning capital to shareholders through buybacks.
 
 ### What is working
-- Balance sheet: Net cash of $23.2B
-- Shareholder returns: Share count shrinking (buybacks)
-- Valuation: Free cash flow yield 23.2%
+- Stock up 26% over the past year and sits 86% of the way up its 52-week range
+- Free cash flow yield of 23.2% means strong cash generation relative to market value
+- Net cash position of $23.2 billion with no debt reported provides financial cushion
 
 ### What to be careful about
-- Growth: Revenue +5% a year over 3 years
+- Earnings per share fell 49% year over year despite revenue growth in latest quarter
+- Net profit margin of 2% is very thin and leaves little room for error
+- Full-year revenue down 2% despite 3% growth in latest quarter signals recent momentum
 
-**Watch next:** The next quarterly report: whether revenue growth of +3% holds.
+**Watch next:** Whether the 3% latest-quarter revenue growth can sustain and whether net margins can recover from 2% compression.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable with cyclical businesses that generate cash today but show deteriorating profitability trends.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $168.0B (-2% vs prior year)

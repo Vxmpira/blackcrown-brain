@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Neutral read · trend: Downtrend
 
-## Strong: balance sheet stands out, price trend holds it back
+## Tech giant with strong earnings growth faces near-term price pressure
 
-Alphabet Inc. (Class C) scores 68 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: downtrend.
+Alphabet is a large internet and advertising company generating $402.8B in annual revenue with a 33% profit margin. It is growing revenue at 25% in the latest quarter while maintaining substantial free cash flow of $73.3B per year.
 
 ### What is working
-- Balance sheet: Debt is 0.2x shareholder equity
-- Shareholder returns: Share count shrinking (buybacks)
-- Profitability: Keeps 33% of revenue as profit
+- Revenue growth accelerating: latest quarter +25% year over year, versus 3-year average of +16%
+- Profitability and cash: net margin of 33%, free cash flow of $73.3B, and return on equity of 20%
+- Analyst support strong: 90% of 68 analysts rate it a buy; consensus is Buy
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
+- Price in downtrend: stock down 17.5% in one month and 25% in six months; sits only 12% up its 52-week range
+- Valuation not cheap: trades at 15x earnings with free cash flow yield of just 2.1%
+- High volatility: yearly volatility of 33% means large price swings are normal
 
-**Watch next:** The next quarterly report: whether revenue growth of +25% holds.
+**Watch next:** Whether the stock can stabilize above its 200-day average after falling 28% from its 52-week high of $399.04.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Long-term investors comfortable with large established tech companies, able to tolerate near-term price swings, and seeking exposure to profitable growth rather than immediate dividend income.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $402.8B (+15% vs prior year)

@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: price trend stands out
+## Insurance broker with strong profits and buybacks faces slowing earnings growth
 
-Marsh & McLennan Companies, Inc. scores 72 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Marsh & McLennan is an insurance and risk consulting broker that generated $27.0B in revenue in 2025. The company converts 15% of sales into net profit and returns cash to shareholders through buybacks and a 1.8% dividend.
 
 ### What is working
-- Price trend: Price is above its 200-day average
-- Shareholder returns: Share count shrinking (buybacks)
-- Profitability: Keeps 15% of revenue as profit
+- Revenue grew 10% last year and has averaged 9% annually over three years
+- Net margin of 15% and return on equity of 28% show efficient profit generation
+- Free cash flow of $5.0B and ongoing buybacks (share count down 2.2% over three years) support shareholder returns
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Earnings per share grew only 3% year over year, lagging revenue growth of 8%
+- Stock trades at 24.1x earnings, above historical averages for the insurance sector
+- Debt stands at $18.9B against cash of $1.8B, leaving net debt of $17.1B
 
-**Watch next:** The next quarterly report: whether revenue growth of +8% holds.
+**Watch next:** Whether earnings per share growth accelerates back toward revenue growth rates, since the recent slowdown to 3% represents a significant deceleration.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors seeking stable cash-generating businesses with moderate dividend income who can tolerate near-peak valuations and moderate debt levels.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $27.0B (+10% vs prior year)

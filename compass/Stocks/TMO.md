@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: price trend stands out, valuation holds it back
+## TMO near 52-week high with strong momentum but trading at premium valuation
 
-Thermo Fisher Scientific scores 65 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Thermo Fisher is a large healthcare diagnostics and research company with $44.6B in annual revenue. The business generates steady profits and free cash flow while returning capital to shareholders through buybacks.
 
 ### What is working
-- Price trend: Price is above its 200-day average
-- Shareholder returns: Share count shrinking (buybacks)
-- Balance sheet: Debt is 0.8x shareholder equity
+- Price up 25% over the past year and sits 99% of the way up its 52-week range, showing sustained momentum
+- Latest quarter revenue grew 9% year over year while the company maintains a 15% net profit margin
+- Generated $6.3B in free cash flow last year and has reduced share count by 4.1% over three years through buybacks
 
 ### What to be careful about
-- Valuation: Free cash flow yield 2.3%
-- Growth: Revenue -0% a year over 3 years
+- Trades at 37x earnings, which is high; free cash flow yield of only 2.4% means you get back little cash relative to price paid
+- Revenue growth is modest at just 4% annually over the past year, down from a three-year trend of flat growth
+- Carries $41.1B in debt, which is 0.8x shareholder equity; high debt load limits financial flexibility
 
-**Watch next:** The next quarterly report: whether revenue growth of +9% holds.
+**Watch next:** Whether the latest quarter's 9% revenue growth can accelerate or if the company faces a slowdown that justifies the premium 37x earnings multiple.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors seeking established profitable businesses with steady cash generation who are comfortable paying above-market valuations for quality and can tolerate 30% annual price swings.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $44.6B (+4% vs prior year)

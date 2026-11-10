@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Losing steam
 
-## Strong: growth stands out, shareholder returns holds it back
+## Fast-growing chip company with strong profits, but priced at 82x earnings
 
-Astera Labs, Inc. Common Stock scores 66 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: losing steam.
+Astera Labs is a semiconductor company with exceptional revenue growth of 154% in its latest quarter and a 26% net profit margin. It holds $209.4M in net cash with no debt. The stock has surged 33% over the past year but is now down 32% in the last month and trades at an extremely high valuation multiple.
 
 ### What is working
-- Growth: Revenue +120% a year over 3 years
-- Balance sheet: Net cash of $209.4M
-- Profitability: Keeps 26% of revenue as profit
+- Revenue grew 154% year over year in the latest quarter, with 3-year annual growth of 120%
+- Company keeps 26% of revenue as profit and generated $281.8M in free cash flow
+- Strong balance sheet with $209.4M in net cash and no debt; 69% of 29 analysts rate it a buy
 
 ### What to be careful about
-- Shareholder returns: Share count growing (dilution)
-- Valuation: Free cash flow yield 0.7%
-- Price trend: Price is below its 200-day average
+- Stock trades at 82x earnings with a free cash flow yield of just 0.7%, among the highest valuations
+- Price is 55% below its 52-week high of $483.02 and has fallen 32.3% in the past month
+- Share count has grown 425.5% over three years, meaning existing shareholders own a smaller slice of the company
 
-**Watch next:** The next quarterly report: whether revenue growth of +154% holds.
+**Watch next:** Whether the recent 32% monthly decline signals a sustained pullback or a temporary dip, given the stock's 102% yearly volatility and position 31% of the way up its 52-week range.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Investors with high risk tolerance who believe in the company's long-term growth and can weather sharp price swings, not those seeking stable valuations or near-term returns.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $852.5M (+115% vs prior year)

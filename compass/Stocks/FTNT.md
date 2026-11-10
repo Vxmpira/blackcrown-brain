@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Losing steam
 
-## Strong: profitability stands out, analyst consensus holds it back
+## Profitable software firm growing at 20%, but valuation and recent price drop raise questions
 
-Fortinet scores 66 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: losing steam.
+Fortinet is a cybersecurity software company keeping 27 cents of every dollar as profit and generating $2.6B in free cash flow annually. Revenue grew 20% in the latest quarter and 14% for the full year. The stock is down 36% from its recent high, though it has still gained 50% over the past year.
 
 ### What is working
-- Profitability: Keeps 27% of revenue as profit
-- Balance sheet: Net cash of $3.3B
-- Shareholder returns: Share count shrinking (buybacks)
+- Profitability is exceptional: 27% net margin, 31% operating margin, 82% return on equity
+- Latest quarter revenue jumped 20% year over year, accelerating from the 14% annual growth rate
+- Balance sheet is fortress-like: $3.3B net cash, shrinking share count through buybacks, free cash flow yield of 3.0%
 
 ### What to be careful about
-- Analyst consensus: 50 analysts, consensus Hold, 12% rate it a buy
-- Valuation: Free cash flow yield 3.0%
+- Stock has fallen 36.3% in the last month and trades 37% below its 52-week high, suggesting recent momentum has reversed
+- Valuation is stretched at 38x earnings and 3.0% free cash flow yield, leaving little margin for error
+- Analyst consensus is Hold with only 12% of 50 analysts rating it a buy, indicating skepticism about near-term direction
 
-**Watch next:** The next quarterly report: whether revenue growth of +20% holds.
+**Watch next:** The gap between strong earnings growth (latest quarter +20%) and a 36% one-month price decline suggests whether confidence in the company's business is rebuilding or eroding further.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Investors who prioritize profitability and balance sheet strength over near-term price momentum and can tolerate 49% annual volatility and elevated valuations.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $6.8B (+14% vs prior year)

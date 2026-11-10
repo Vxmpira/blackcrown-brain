@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Turning up
 
-## Strong: balance sheet stands out
+## Profitable software maker with strong cash generation trades at premium valuation
 
-Autodesk scores 69 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: turning up.
+Autodesk is a design software company generating $7.2B in annual revenue with 16% profit margins and $2.4B in free cash flow. Revenue grew 18% last year and the company maintains a net cash position of $1.6B. The stock has recovered 11.1% in the past month after declining 12.7% over the past year.
 
 ### What is working
-- Balance sheet: Net cash of $1.6B
-- Profitability: Keeps 16% of revenue as profit
-- Shareholder returns: Share count shrinking (buybacks)
+- Free cash flow margin of 33% shows strong money generation relative to sales
+- Return on equity of 33% demonstrates efficient use of shareholder capital
+- Revenue growth of 16% year over year outpaces the 3-year average of 13% annually
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Stock trades at 34x earnings, above typical software industry multiples
+- Down 12.7% over the past year despite profitable operations and growth
+- Yearly volatility of 40% means the stock price swings substantially; currently 16% below its 52-week high of $310.25
 
-**Watch next:** The next quarterly report: whether revenue growth of +16% holds.
+**Watch next:** Whether the recent one-month rally of 11.1% signals a sustained recovery or another pullback, given the stock's high valuation and recent underperformance.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable with premium valuations who value consistent profitability and cash generation over near-term price momentum.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-01-31)
 - Revenue $7.2B (+18% vs prior year)

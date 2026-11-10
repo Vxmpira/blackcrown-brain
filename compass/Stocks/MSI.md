@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: price trend stands out, balance sheet holds it back
+## Motorola Solutions: Strong profit engine near 52-week high, but pricey and leveraged
 
-Motorola Solutions scores 68 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Motorola Solutions makes communication equipment and technology. It is profitable and growing, generating substantial free cash flow. The stock has rallied sharply over the past year and now trades at a premium valuation.
 
 ### What is working
-- Price trend: Price is above its 200-day average
-- Profitability: Keeps 18% of revenue as profit
-- Shareholder returns: Share count shrinking (buybacks)
+- Revenue grew 12% in the latest quarter and 9% annually over three years, showing consistent expansion
+- Net margin of 18% and free cash flow margin of 22% demonstrate strong operational efficiency; generated $2.6B in free cash flow
+- Return on equity of 70% is exceptional; 84% of 19 analysts rate it a buy, and the company is returning cash via buybacks (share count down 1.7% over three years)
 
 ### What to be careful about
-- Balance sheet: Debt is 3.1x shareholder equity
-- Valuation: Free cash flow yield 2.9%
+- Trades at 42x earnings with a free cash flow yield of only 2.9%, meaning investors pay a steep price relative to earnings and cash generation
+- Debt is 3.1x shareholder equity, which limits financial flexibility if business momentum slows or interest rates stay high
+- Stock is near its 52-week high (within 1% of peak) after rallying 34% in one year, leaving less room for appreciation without further acceleration
 
-**Watch next:** The next quarterly report: whether revenue growth of +12% holds.
+**Watch next:** Whether revenue growth can sustain above the 9% three-year average while the company manages its 3.1x debt-to-equity ratio.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors comfortable paying premium valuations for a stable, highly profitable business with strong cash generation and analyst backing.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $11.7B (+8% vs prior year)

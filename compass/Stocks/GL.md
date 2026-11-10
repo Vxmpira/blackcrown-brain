@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Pullback in uptrend
 
-## Strong: valuation stands out
+## Life insurer with steady profits trades cheap; growth is modest
 
-Globe Life scores 70 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: pullback in uptrend.
+Globe Life is a life insurance company generating $6.0 billion in annual revenue with a 19% profit margin. It trades at 10 times earnings and returns cash to shareholders through buybacks, though dividend yield is low at 0.7%.
 
 ### What is working
-- Valuation: Trades at 10x earnings
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
+- Valuation is low: P/E of 10.25 puts it in the bottom tier for price relative to profits
+- Profitability is solid: keeps 19 cents of every revenue dollar as profit; return on equity is 18%
+- Cash generation funds buybacks: share count down 16.6% over three years; free cash flow yield is 10.3%
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Revenue growth is slow: only 5% per year over three years; latest quarter added just 5% versus last year
+- Stock is off its peak: down 13% from the 52-week high of $186.02; one-month return is -1.9%
+- Debt is substantial: $2.7 billion owed versus $257.9 million in cash on hand
 
-**Watch next:** The next quarterly report: whether revenue growth of +5% holds.
+**Watch next:** Whether revenue growth can accelerate beyond its current 5% annual pace, since the company's value story rests on steady profits rather than expansion.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable with slow-growth, profitable businesses that trade at low multiples and return cash via buybacks rather than dividends.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $6.0B (+4% vs prior year)

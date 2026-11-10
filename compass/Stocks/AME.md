@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Pullback in uptrend
 
-## Strong: balance sheet stands out, valuation holds it back
+## Profitable industrial machinery maker faces valuation premium amid solid growth
 
-Ametek scores 68 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: pullback in uptrend.
+Ametek is an industrial machinery company generating $7.4B in annual revenue with a 20% profit margin and $1.7B in free cash flow. Recent quarterly revenue jumped 17% year over year, though the stock has pulled back 8% from its 52-week high after rising 22% over the past year.
 
 ### What is working
-- Balance sheet: Debt is 0.6x shareholder equity
-- Price trend: Price is above its 200-day average
-- Profitability: Keeps 20% of revenue as profit
+- Strong profitability: 20% net margin and 23% free cash flow margin show efficient operations
+- Recent momentum: Latest quarter revenue +17% year over year signals accelerating demand
+- Solid balance sheet: Debt at 0.6x equity is conservative; generates $1.7B free cash annually
 
 ### What to be careful about
-- Valuation: Free cash flow yield 3.0%
+- High valuation: Trades at 34x earnings with only 3.0% free cash flow yield
+- Modest long-term growth: Revenue up just 6% a year over 3 years despite recent quarterly strength
+- Recent pullback: Down 4.5% in the past month; still 8% below 52-week high after strong 2025
 
-**Watch next:** The next quarterly report: whether revenue growth of +17% holds.
+**Watch next:** Whether the 17% recent quarterly revenue growth proves sustainable or represents a temporary spike relative to the 6% three-year trend.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable with quality industrial businesses at premium valuations and who can tolerate 25% annual price swings.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $7.4B (+7% vs prior year)

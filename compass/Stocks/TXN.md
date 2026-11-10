@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: price trend stands out, valuation holds it back
+## Chipmaker with strong profits and buybacks, but valuation leaves little room for error
 
-Texas Instruments scores 71 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Texas Instruments is a semiconductor company generating $17.7 billion in annual revenue with a 28% profit margin. The stock has surged 84% over the past year and sits near its 52-week high. Recent quarterly revenue jumped 28% year over year, though three-year revenue growth is negative at -4% annually.
 
 ### What is working
-- Price trend: Price is above its 200-day average
-- Profitability: Keeps 28% of revenue as profit
-- Shareholder returns: Share count shrinking (buybacks)
+- Operating margin of 34% and net margin of 28% show disciplined cost control and pricing power
+- Free cash flow of $2.6B funds both a 3.4% dividend and ongoing share buybacks that shrunk the share count 1.4% over three years
+- Return on equity of 26% demonstrates efficient use of shareholder capital
 
 ### What to be careful about
-- Valuation: Free cash flow yield 1.0%
+- Stock trades at 37.54x earnings with only a 1.0% free cash flow yield, leaving minimal margin for disappointment
+- Three-year revenue trend is -4% annually, despite the latest quarter's 28% jump, raising questions about sustained growth
+- Debt of $13.6B is substantial, though manageable at 0.7x shareholder equity; rising rates could increase borrowing costs
 
-**Watch next:** The next quarterly report: whether revenue growth of +28% holds.
+**Watch next:** Whether the latest quarter's 28% revenue growth represents a turning point in the -4% three-year trend or a temporary bounce.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Patient investors comfortable with mature, cash-generative hardware companies who can tolerate high valuations and modest long-term growth rates.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $17.7B (+13% vs prior year)

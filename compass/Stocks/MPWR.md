@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Turning up
 
-## Strong: balance sheet stands out, valuation holds it back
+## Semiconductor maker with strong cash generation but historically high valuation
 
-Monolithic Power Systems scores 65 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: turning up.
+Monolithic Power Systems designs power management chips for industrial and computing applications. The company posted 63% revenue growth in its latest quarter and converts 22% of sales into net profit. It holds a net cash position of $560.5M with no debt.
 
 ### What is working
-- Balance sheet: Net cash of $560.5M
-- Profitability: Keeps 22% of revenue as profit
-- Shareholder returns: Share count flat
+- Latest quarter revenue jumped 63% year over year, well above the 3-year average of 16% annually
+- Profitability remains strong: 22% net margin and 24% free cash flow margin generate $666.2M in annual free cash
+- Analyst consensus is solidly bullish with 87% of 23 analysts rating it a buy
 
 ### What to be careful about
-- Valuation: Free cash flow yield 1.0%
+- Earnings per share fell 61% year over year, a sharp reversal despite rising revenue
+- Valuation is stretched at 75x earnings and 1.0% free cash flow yield, among the highest multiples in semiconductors
+- Stock is down 14.6% over the past 6 months and sits 19% below its 52-week high, with 58% yearly volatility
 
-**Watch next:** The next quarterly report: whether revenue growth of +63% holds.
+**Watch next:** Monitor whether earnings per share growth returns to positive in coming quarters, as the 61% decline contradicts the strong revenue momentum.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Long-term investors comfortable holding through volatility and willing to pay a premium for companies with proven cash generation and analyst support.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $2.8B (+26% vs prior year)

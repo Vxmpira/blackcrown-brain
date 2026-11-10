@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Neutral read · trend: Downtrend
 
-## Strong: growth stands out, price trend holds it back
+## Broadcom: Strong growth and profits face steep valuation after recent price drop
 
-Broadcom scores 65 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: downtrend.
+Broadcom is a large semiconductor company generating $63.9B in annual revenue with exceptional profitability. The business keeps 36% of revenue as net profit and produces substantial free cash flow of $26.9B yearly. Recent quarterly revenue jumped 86% year over year, but the stock trades at 40x earnings after falling 31% from its 52-week high.
 
 ### What is working
-- Growth: Revenue +24% a year over 3 years
-- Profitability: Keeps 36% of revenue as profit
-- Balance sheet: Debt is 0.6x shareholder equity
+- Revenue grew 24% annually over three years; latest quarter showed 86% year-over-year jump
+- Profitability is exceptional: 36% net margin, 40% operating margin, 23% return on equity
+- Generates $26.9B in free cash flow with 42% free cash flow margin; debt at manageable 0.6x equity level
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Valuation: Free cash flow yield 1.8%
+- Stock price is down 22% from its 52-week high and down 5% over the past year despite earnings growth
+- Valuation remains stretched at 40x earnings and 1.8% free cash flow yield despite the recent decline
+- Share count has grown 14.7% over three years, diluting existing shareholders; yearly volatility is 48%
 
-**Watch next:** The next quarterly report: whether revenue growth of +86% holds.
+**Watch next:** Whether the company can sustain the 86% quarter-over-quarter revenue growth rate or if this represents a temporary spike from a specific customer or product.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Long-term investors comfortable with high valuations who prioritize proven profitability and cash generation over near-term price recovery.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-11-02)
 - Revenue $63.9B (+24% vs prior year)

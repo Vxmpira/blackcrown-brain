@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Neutral read · trend: Downtrend, bouncing
 
-## Strong: growth stands out, price trend holds it back
+## Fast-growing software firm profitable now, but stock fell 37% in a year
 
-AppLovin Corporation scores 67 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: downtrend, bouncing.
+AppLovin is a technology company that kept 61% of its $5.5 billion in revenue as profit last year. Revenue grew 56% in the latest quarter compared to a year ago. The company generates strong free cash flow of $4.0 billion annually.
 
 ### What is working
-- Growth: Revenue +25% a year over 3 years
-- Profitability: Keeps 61% of revenue as profit
-- Shareholder returns: Share count shrinking (buybacks)
+- Revenue jumped 56% in the latest quarter year over year, and 70% for the full fiscal year
+- Net profit margin sits at 61%, meaning the company keeps most of what it earns
+- Free cash flow of $4.0 billion per year with a margin of 72%, funding buybacks that shrink share count by 8% over 3 years
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
+- Stock price is 37% below its level one year ago and sits 32% of the way up its 52-week range
+- Debt of $3.5 billion is 1.1x shareholder equity, meaning significant leverage
+- Trades at 27x earnings, which is high relative to the 2.9% free cash flow yield
 
-**Watch next:** The next quarterly report: whether revenue growth of +56% holds.
+**Watch next:** Whether the stock can hold its recent bounce (up 44.7% in one month) or return to downward pressure, given yearly volatility of 81%.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Investors comfortable with high volatility and drawn to profitable, fast-growing software companies trading at premium valuations despite recent price declines.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $5.5B (+70% vs prior year)

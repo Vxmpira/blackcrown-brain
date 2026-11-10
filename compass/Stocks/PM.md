@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Pullback in uptrend
 
-## Top rated: profitability stands out
+## Profitable tobacco company trades at premium with massive debt load
 
-Philip Morris International scores 79 of 100 on the Compass, which puts it in the Top rated tier. Its long-term price trend is: pullback in uptrend.
+Philip Morris is a consumer defensive company that generates strong cash flow and profit margins of 28%. The company is shifting its business model but remains heavily dependent on traditional tobacco revenues. It carries substantial debt relative to shareholder equity.
 
 ### What is working
-- Profitability: Keeps 28% of revenue as profit
-- Price trend: Price is above its 200-day average
-- Shareholder returns: Share count flat
+- Profitability is exceptional: 28% net margin and 26% free cash flow margin with $10.7B generated last year
+- Price momentum is solid: stock up 27% over the past year and trading 74% of the way up its 52-week range
+- Dividend is attractive at 5.5% yield while share count has remained essentially flat over 3 years
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Valuation is stretched: P/E of 28x is high relative to 3.5% free cash flow yield
+- Debt burden is extreme: $49.0B in debt versus $6.7B in cash creates significant leverage risk
+- Growth is slowing: revenue growth rates declined from 9% annually to 5% in the latest quarter
 
-**Watch next:** The next quarterly report: whether revenue growth of +5% holds.
+**Watch next:** Monitor whether debt levels decline relative to cash generation, since the 186x debt-to-equity ratio is the single biggest risk factor in the data.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors seeking high current income who can tolerate cyclical consumer defensive stocks and are comfortable with high financial leverage.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $40.6B (+7% vs prior year)

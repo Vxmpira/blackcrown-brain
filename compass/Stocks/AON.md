@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Turning up
 
-## Strong: profitability stands out
+## Profitable insurance broker growing steadily, but recent rally has lifted valuation
 
-Aon scores 67 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: turning up.
+Aon is a large insurance brokerage and consulting firm generating $17.2B in annual revenue. It keeps 22% of revenue as profit and delivers a 37% return on shareholder equity, marking it as a highly profitable business. Recent momentum has pushed the stock up 21% in one month, though it remains down 4% over the past year.
 
 ### What is working
-- Profitability: Keeps 22% of revenue as profit
-- Valuation: Trades at 18x earnings
-- Shareholder returns: Share count growing (dilution)
+- Net profit margin of 22% and operating margin of 25% show the core business runs efficiently
+- Earnings per share jumped 36% year over year, growing faster than revenue at 3% growth
+- Free cash flow of $3.2B supports the business and provides flexibility for capital allocation
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Debt sits at $28.0B against only $2.0B in cash, creating a leverage ratio of 14x net debt
+- Share count has grown 1.8% over three years through dilution, reducing ownership per share
+- Latest quarterly revenue grew just 3% year over year, slowing from the 11% three-year trend
 
-**Watch next:** The next quarterly report: whether revenue growth of +3% holds.
+**Watch next:** Monitor whether quarterly revenue growth can re-accelerate back toward the historical 11% trend or continues decelerating toward the recent 3% pace.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors seeking stable, highly profitable cash-generating companies willing to accept moderate leverage and hold through flat price periods may find this profile relevant.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $17.2B (+9% vs prior year)

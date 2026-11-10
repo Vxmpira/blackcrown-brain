@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: balance sheet stands out, valuation holds it back
+## Profitable industrial services company near 52-week high, but trading at premium valuation
 
-Cintas scores 72 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Cintas is a specialty business services company generating $11.3B in annual revenue with strong profitability: an 18% net margin and 23% operating margin. The company generates $1.9B in free cash flow annually and maintains a very clean balance sheet with debt at only 0.3x equity.
 
 ### What is working
-- Balance sheet: Debt is 0.3x shareholder equity
-- Price trend: Price is above its 200-day average
-- Profitability: Keeps 18% of revenue as profit
+- Revenue growing 11% in the latest quarter, accelerating from the 9% three-year average
+- Profitability is exceptional: 18% net margin, 38% return on equity, and 17% free cash flow margin
+- Stock has risen 20% over the past year and trades 3% below its 52-week high of $229.03, showing sustained momentum
 
 ### What to be careful about
-- Valuation: Free cash flow yield 2.1%
+- Trading at 42.89x earnings, well above typical market multiples, leaves little room for disappointment
+- Free cash flow yield of just 2.1% is low, suggesting investors are paying a steep price relative to cash generation
+- Only 56% of 27 analysts rate it a buy, meaning consensus support is less than overwhelming despite the Buy rating
 
-**Watch next:** The next quarterly report: whether revenue growth of +11% holds.
+**Watch next:** Monitor whether quarterly revenue growth can sustain its 11% pace or if it settles back toward the slower 9% historical average, as this will test whether the premium valuation is justified.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** This profile suits long-term investors comfortable with premium valuations in exchange for consistent profitability and strong cash generation, provided they have a multi-year time horizon.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-05-31)
 - Revenue $11.3B (+9% vs prior year)

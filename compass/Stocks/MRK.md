@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: price trend stands out, valuation holds it back
+## Merck trades near 52-week highs with strong profits but stretched valuation
 
-Merck & Co. scores 68 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Merck is a large pharmaceutical manufacturer generating $65.0B in annual revenue with net profit margins of 28% and free cash flow of $12.4B. The stock has surged 70% over the past year and sits 86% of the way up its 52-week range, while earnings growth remains modest at 8% year over year.
 
 ### What is working
-- Price trend: Price is above its 200-day average
-- Profitability: Keeps 28% of revenue as profit
-- Shareholder returns: Share count shrinking (buybacks)
+- Profitability is exceptional: 28% net margin, 41% return on equity, and $12.4B in free cash flow annually
+- Stock momentum is strong: up 70% over the past year and 30% over six months, trading above all major moving averages
+- Analyst consensus leans bullish: 71% of 35 analysts rate it a buy, and the stock generates steady shareholder returns through a 2.9% dividend and share buybacks
 
 ### What to be careful about
-- Valuation: Free cash flow yield 3.4%
-- Growth: Revenue +3% a year over 3 years
+- Valuation is stretched: trades at 150x earnings (P/E 149.5) with only 3.4% free cash flow yield relative to market value
+- Revenue growth is sluggish: only 3% a year over three years and just 5% in the latest quarter, suggesting limited expansion
+- Debt is elevated: $53.8B in debt is 1.2x shareholder equity, leaving limited financial flexibility if earnings disappoint
 
-**Watch next:** The next quarterly report: whether revenue growth of +5% holds.
+**Watch next:** Watch whether quarterly revenue growth can sustain above 5% or if it slows further, as earnings expansion is already modest at 8% year over year.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** This profile suits long-term investors who prioritize stable cash generation and dividend income over rapid growth, and who can tolerate high current valuations.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $65.0B (+1% vs prior year)

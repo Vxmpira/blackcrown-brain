@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Turning up
 
-## Strong: valuation stands out, balance sheet holds it back
+## Cruise operator posting strong growth but carrying heavy debt load
 
-Carnival scores 66 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: turning up.
+Carnival is the world's largest cruise company by revenue. It grew revenue 30% annually over three years and just posted 40% earnings growth year over year. The company keeps 10% of revenue as profit and generates $2.6B in free cash flow.
 
 ### What is working
-- Valuation: Free cash flow yield 6.3%
-- Growth: Revenue +30% a year over 3 years
-- Analyst consensus: 34 analysts, consensus Buy, 79% rate it a buy
+- Revenue surged 30% per year over the past 3 years, showing strong demand recovery
+- Earnings jumped 40% year over year with a 10% net profit margin and 19% return on equity
+- Valuation appears attractive: 13x earnings with a 6.3% free cash flow yield
 
 ### What to be careful about
-- Balance sheet: Debt is 1.7x shareholder equity
+- Debt of $24.6B is 1.7x shareholder equity, leaving limited financial flexibility
+- Share count grew 18.8% over three years, diluting existing shareholders
+- Stock volatility is 49% annually; stock is down 10% from its 52-week high despite recent gains
 
-**Watch next:** The next quarterly report: whether revenue growth of +3% holds.
+**Watch next:** Whether debt levels start declining as free cash flow continues, since the $24.6B debt load is the single largest constraint on financial health.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Investors who can tolerate high volatility and believe leisure spending will remain strong long-term, and who are comfortable with a capital-intensive business model.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-11-30)
 - Revenue $26.6B (+6% vs prior year)

@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Pullback in uptrend
 
-## Strong: balance sheet stands out, growth holds it back
+## Refiner riding oil rally but growth is murky and profits are thin
 
-Valero Energy scores 70 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: pullback in uptrend.
+Valero Energy refines and sells oil products. The stock has surged 97% in one year as energy prices recovered, but the company's long-term revenue is falling and it keeps only 2 cents of profit per dollar of sales.
 
 ### What is working
-- Balance sheet: Net cash of $1.6B
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
+- Stock price up 97% over the past year and sits 62% of the way through its 52-week range, showing upward momentum.
+- Trades at 8x earnings with a 5.9% free cash flow yield, suggesting the market values it cheaply relative to cash it generates.
+- Balance sheet is strong: net cash of $1.6B, and the company returned cash to shareholders via a 3.3% dividend and 22% share count reduction over three years.
 
 ### What to be careful about
-- Growth: Revenue -11% a year over 3 years
+- Revenue down 11% a year over the past three years, and full-year 2025 revenue fell 6% despite a strong latest quarter.
+- Net profit margin is only 2% and return on equity is just 8%, meaning the business does not earn much on its assets.
+- Earnings per share fell 12% year over year while the stock rose 97%, raising a question about what is driving the price gain.
 
-**Watch next:** The next quarterly report: whether revenue growth of +43% holds.
+**Watch next:** Whether the latest quarter's 43% revenue surge signals a sustained recovery or is a temporary bounce from volatile energy markets.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors comfortable with cyclical commodity exposure who view the stock as a way to play energy prices and shareholder returns rather than earnings growth.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $122.7B (-6% vs prior year)

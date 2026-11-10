@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: profitability stands out, balance sheet holds it back
+## Profitable pharma with strong cash generation faces high debt load
 
-Gilead Sciences scores 69 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Gilead Sciences is a large drug manufacturer generating $29.4B in annual revenue with exceptional profitability: it keeps 29% of revenue as profit and produces $9.5B in free cash flow yearly. The stock has risen 42% over the past year and trades near its 52-week high, with 83% of analysts rating it a buy.
 
 ### What is working
-- Profitability: Keeps 29% of revenue as profit
-- Price trend: Price is above its 200-day average
-- Shareholder returns: Share count shrinking (buybacks)
+- Profitability metrics are exceptional: 29% net margin, 34% operating margin, and 65% return on equity show the company converts sales into cash very efficiently
+- Free cash flow is strong at $9.5B annually with a 32% free cash flow margin, providing real money for dividends and debt reduction
+- Stock price momentum is solid: up 42% in one year, trading 90% of the way up its 52-week range, with the 50-day average above the 200-day average
 
 ### What to be careful about
-- Balance sheet: Debt is 2.0x shareholder equity
-- Valuation: Free cash flow yield 4.5%
+- Debt is elevated at 2.0x shareholder equity ($26.2B debt versus $13.1B in equity), which limits financial flexibility despite strong cash generation
+- Revenue growth is sluggish at only 3% annually over three years; latest quarter showed 7% growth but long-term trend remains modest
+- Valuation shows a negative trailing P/E ratio, suggesting the company is not currently profitable on a trailing twelve-month basis despite strong annual net income
 
-**Watch next:** The next quarterly report: whether revenue growth of +7% holds.
+**Watch next:** Whether revenue growth can accelerate beyond the recent 7% quarterly pace or if it reverts to the slower 3% annual trend, since earnings depend on top-line momentum.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Long-term investors seeking cash-generative healthcare exposure who are comfortable with high leverage and can tolerate 27% annual price swings.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $29.4B (+2% vs prior year)

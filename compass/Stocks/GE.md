@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Turning up
 
-## Strong: shareholder returns stands out, valuation holds it back
+## Fast-growing aerospace supplier with strong profits but premium price tag
 
-GE Aerospace scores 66 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: turning up.
+GE Aerospace is a large industrial company generating $45.9B in annual revenue with 19% net profit margins. Revenue has grown 16% per year over three years, and the company converts over 16% of revenue into free cash flow. Analysts overwhelmingly rate it a buy.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Profitability: Keeps 19% of revenue as profit
-- Growth: Revenue +16% a year over 3 years
+- Revenue growth of 18% year over year and 16% annually over three years shows sustained expansion
+- Net margin of 19% and operating margin of 50% demonstrate strong cost control and pricing power
+- Free cash flow of $7.3B annually with return on equity of 50% shows money is flowing to shareholders efficiently
 
 ### What to be careful about
-- Valuation: Free cash flow yield 2.1%
+- Trading at 38x earnings, which is steep. Free cash flow yield of only 2.1% means you get limited cash return on your investment
+- Debt of $20.5B is 1.2x shareholder equity, meaning the balance sheet relies on borrowed money to fund operations
+- Stock is down 13% from its 52-week high and carries 35% yearly volatility, so price swings are large
 
-**Watch next:** The next quarterly report: whether revenue growth of +16% holds.
+**Watch next:** Monitor whether the company can maintain 16%+ revenue growth while keeping debt ratios stable as interest rates fluctuate.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Investors comfortable with higher valuations who want exposure to a profitable, fast-growing industrial company with analyst backing.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $45.9B (+18% vs prior year)

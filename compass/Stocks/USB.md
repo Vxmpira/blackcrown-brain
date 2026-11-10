@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Uptrend
 
-## Strong: valuation stands out
+## Regional bank trading near 52-week high with steady profits and 5.2% yield
 
-U.S. Bancorp scores 71 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: uptrend.
+U.S. Bancorp is a regional bank with 28.7 billion dollars in annual revenue. It converts over one quarter of revenue into profit and returns 8 percent of its value in free cash flow each year. The stock has climbed 28 percent over the past year and sits near its highest price of the year.
 
 ### What is working
-- Valuation: Trades at 12x earnings
-- Price trend: Price is above its 200-day average
-- Profitability: Keeps 26% of revenue as profit
+- Price momentum: stock is up 27.9% over one year and trades 75% of the way up its 52-week range
+- Profit generation: keeps 26% of revenue as net profit and produces 8.0 billion dollars in free cash flow annually
+- Valuation: trades at 11x earnings, which ranks in the top percentile for cheapness on the analyst scorecard
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Share dilution: share count has grown 4.6% over three years, which reduces ownership per share
+- Modest growth: revenue grows only 6% annually over three years, slower than broader economy
+- Distance from peak: stock is down 7% from its 52-week high of 65.42 dollars, suggesting pullback risk
 
-**Watch next:** The next quarterly report: whether revenue growth of +9% holds.
+**Watch next:** Whether latest quarter revenue growth of 9% year over year can sustain, since annual growth has averaged only 6%.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Long-term investors seeking steady cash income and profit stability over rapid growth, with tolerance for bank sector cyclicality.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $28.7B (+4% vs prior year)

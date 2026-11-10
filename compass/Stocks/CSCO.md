@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Losing steam
 
-## Strong: balance sheet stands out
+## Cisco stays profitable but price has retreated 24% from its peak this year
 
-Cisco scores 68 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: losing steam.
+Cisco is a large technology company that makes networking and communication equipment. It generated $63.3 billion in revenue last fiscal year and keeps 21 cents of profit from every dollar of sales. The company is returning cash to shareholders through buybacks and a 3.2% dividend.
 
 ### What is working
-- Balance sheet: Debt is 0.5x shareholder equity
-- Profitability: Keeps 21% of revenue as profit
-- Shareholder returns: Share count shrinking (buybacks)
+- Latest quarter revenue jumped 18% year over year, well ahead of the 4% annual growth rate over three years
+- Converts 20% of revenue into free cash flow ($12.8B last year), giving room to fund dividends and buybacks
+- Return on equity of 26% shows the company deploys shareholder money efficiently; balance sheet is solid at 0.5x debt to equity
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Stock price is 24% below its 52-week high and down 14.6% over the past month, suggesting recent momentum has faded
+- Trades at 29x earnings, which is rich relative to the 3.3% free cash flow yield it offers investors
+- Three-year revenue growth averaged only 4% annually despite the latest quarter's 18% pop; unclear if new pace will hold
 
-**Watch next:** The next quarterly report: whether revenue growth of +18% holds.
+**Watch next:** Whether revenue growth stays above 10% or settles back toward the historical 4% trend will determine if the current valuation is justified.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Patient investors seeking a large, cash-generative tech company that pays a dividend and buys back shares, without expecting near-term price appreciation.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-07-25)
 - Revenue $63.3B (+12% vs prior year)

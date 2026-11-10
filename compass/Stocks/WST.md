@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: price trend stands out, valuation holds it back
+## West Pharma hits 52-week high on strong momentum, but trades at steep valuation
 
-West Pharmaceutical Services scores 68 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+West Pharmaceutical Services makes equipment and supplies for the drug and healthcare industry. The company grew revenue 6% last year and is sitting near its all-time high, with 21 analysts rating it a buy.
 
 ### What is working
-- Price trend: Price is above its 200-day average
-- Balance sheet: Net cash of $261.2M
-- Shareholder returns: Share count shrinking (buybacks)
+- Price momentum is strong: up 52% over the past year and sitting 98% of the way up its 52-week range
+- Generates real cash: free cash flow of $468.9M on a 15% margin, plus $261.2M in net cash on the balance sheet
+- Analyst consensus is solid: 95% of 21 analysts rate it a buy, with the consensus at Buy
 
 ### What to be careful about
-- Valuation: Free cash flow yield 1.6%
-- Growth: Revenue +2% a year over 3 years
+- Growth is slowing: revenue up only 2% per year over three years, though latest quarter showed 9% growth
+- Valuation is stretched: trades at 45x earnings with just 1.6% free cash flow yield, leaving little margin for disappointment
+- Volatility is high: 31% yearly volatility means the stock swings sharply; it is already 1% from its 52-week high
 
-**Watch next:** The next quarterly report: whether revenue growth of +9% holds.
+**Watch next:** Track whether the latest quarter's 9% revenue growth can sustain, or if the three-year trend of 2% annual growth resumes.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors comfortable with healthcare equipment makers at premium valuations who value strong cash generation and analyst backing over cheap entry prices.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $3.1B (+6% vs prior year)

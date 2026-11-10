@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Losing steam
 
-## Strong: profitability stands out, price trend holds it back
+## Profitable software giant losing price momentum despite strong earnings growth
 
-Adobe Inc. scores 70 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: losing steam.
+Adobe is a large software company generating $23.8B in annual revenue with a 30% net profit margin and $9.9B in free cash flow. The company is growing revenue at 11% annually and earnings per share at 35% year over year, but its stock price has fallen 28% over the past year and sits 34% below its 52-week high.
 
 ### What is working
-- Profitability: Keeps 30% of revenue as profit
-- Shareholder returns: Share count shrinking (buybacks)
-- Valuation: Free cash flow yield 10.7%
+- Exceptional profitability: 30% net margin and 41% free cash flow margin show the business converts sales to cash efficiently
+- Strong earnings momentum: earnings per share up 35% year over year while revenue grew 13% in latest quarter
+- Attractive valuation metrics: trades at 13x earnings with a 10.7% free cash flow yield, and debt is only 0.4x shareholder equity
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Analyst consensus: 45 analysts, consensus Hold, 33% rate it a buy
+- Stock down 28% over the past year and sits 34% below its 52-week high of $357.53, indicating loss of investor confidence
+- Price is below its 200-day moving average, suggesting the downtrend remains in place despite underlying business strength
+- Analyst consensus is Hold with only 33% of 45 analysts rating it a buy, showing disagreement about current attractiveness
 
-**Watch next:** The next quarterly report: whether revenue growth of +13% holds.
+**Watch next:** Whether the stock can stabilize above its 200-day moving average ($235 is 25% up its 52-week range) while revenue growth continues at double-digit rates.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable holding through price declines in exchange for exposure to a cash-generative, profitable business trading at a reasonable multiple.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-11-28)
 - Revenue $23.8B (+11% vs prior year)

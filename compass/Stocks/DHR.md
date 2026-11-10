@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: price trend stands out, growth holds it back
+## Strong price momentum masks slowing growth and rich valuation
 
-Danaher Corporation scores 66 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Danaher is a large healthcare diagnostics and research company generating $24.6B in annual revenue with solid profitability. The stock price has climbed sharply recently and sits near 52-week highs, but the company's long-term revenue growth has declined and it trades at a steep multiple.
 
 ### What is working
-- Price trend: Price is above its 200-day average
-- Balance sheet: Debt is 0.5x shareholder equity
-- Shareholder returns: Share count shrinking (buybacks)
+- Price is 90% of the way up its 52-week range, up 40.7% in 6 months, showing strong momentum
+- Generates $5.3B in free cash flow annually with a 21% free cash flow margin, funding its operations and returns
+- Analysts agree: 84% of 31 covering analysts rate it a buy with a consensus Buy rating
 
 ### What to be careful about
-- Growth: Revenue -3% a year over 3 years
-- Valuation: Free cash flow yield 3.2%
+- Revenue declined 3% a year over the past 3 years, and current earnings per share fell 5% year over year
+- Trades at 37.5x earnings and offers only a 3.2% free cash flow yield, leaving little margin for error
+- Carries $26.5B in debt and sits 3% below its 52-week high with 31% yearly volatility, meaning sharp pullbacks are possible
 
-**Watch next:** The next quarterly report: whether revenue growth of +8% holds.
+**Watch next:** Watch whether the latest quarter's 8% revenue growth continues or whether the three-year declining trend reasserts itself.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Suits long-term investors comfortable with premium valuations who believe diagnostics and research will sustain higher growth rates ahead.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $24.6B (+3% vs prior year)

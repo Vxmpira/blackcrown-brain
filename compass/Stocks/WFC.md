@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Uptrend
 
-## Strong: valuation stands out, growth holds it back
+## Wells Fargo: Stable bank with modest growth and cheap valuation
 
-Wells Fargo scores 68 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: uptrend.
+Wells Fargo is a large diversified bank with $83.7B in annual revenue and $21.3B in net income. The company is growing slowly at 2% revenue growth year over year, but returning cash to shareholders through buybacks and a 2.3% dividend.
 
 ### What is working
-- Valuation: Trades at 12x earnings
-- Shareholder returns: Share count shrinking (buybacks)
-- Profitability: Keeps 25% of revenue as profit
+- Valuation is attractive at 11x earnings, ranking in the top tier across the Compass dataset
+- Profitability is solid with a 25% net margin and 12% return on equity
+- Share buybacks are working: share count fell 15.5% over three years, boosting per-share metrics
 
 ### What to be careful about
-- Growth: Revenue +4% a year over 3 years
+- Revenue growth is slow at 2% year over year and just 4% annually over three years
+- Free cash flow is negative at -$19.0B, which limits the bank's financial flexibility
+- Price has fallen 11% from its 52-week high of $96.39, and has returned -0.4% over the past year
 
-**Watch next:** The next quarterly report: whether revenue growth of +2% holds.
+**Watch next:** Whether free cash flow turns positive next year, since negative cash flow limits dividend and buyback sustainability.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors seeking a large-cap bank with steady dividends and modest share buybacks who are comfortable with slow growth and cyclical financial sector risk.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $83.7B (+2% vs prior year)

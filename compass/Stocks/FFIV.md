@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Losing steam
 
-## Strong: balance sheet stands out
+## Profitable software firm stumbling on price, but cash generation and balance sheet stay strong
 
-F5, Inc. scores 67 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: losing steam.
+F5 is a mid-cap infrastructure software company with solid profitability. It generated $3.1B in revenue last year with a 22% net profit margin and $906.4M in free cash flow. The company carries no debt and holds $1.6B in cash.
 
 ### What is working
-- Balance sheet: Net cash of $1.6B
-- Shareholder returns: Share count shrinking (buybacks)
-- Profitability: Keeps 22% of revenue as profit
+- Profitability is the standout: 25% operating margin and 22% net margin mean the company keeps significant cash from each sale
+- Free cash flow yield of 5.0% and $906.4M annual free cash flow show the business converts earnings to spendable cash reliably
+- Balance sheet is fortress-like: $1.6B net cash with zero debt, plus buybacks shrinking share count by 4% over three years
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Stock price is down 32.6% in the past month and 33% from its 52-week high of $479.83, showing recent sharp reversals
+- Long-term revenue growth is modest at 5% a year over three years, though latest quarter showed 11% year-over-year growth
+- Analyst consensus is Hold, not Buy, with only 45% of 20 analysts rating it a buy; stock volatility runs 42% annually
 
-**Watch next:** The next quarterly report: whether revenue growth of +11% holds.
+**Watch next:** Whether revenue growth momentum sustains at 11% or drops back toward the 5-year trend, since recent earnings beat is paired with steep price declines that may reflect analyst caution.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors seeking stable, cash-generative tech companies with fortress balance sheets and less concern with near-term price recovery.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-09-30)
 - Revenue $3.1B (+10% vs prior year)

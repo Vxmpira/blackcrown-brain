@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: balance sheet stands out, profitability holds it back
+## Healthcare insurer with strong price momentum but facing profitability headwinds
 
-Centene Corporation scores 65 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Centene is a major healthcare insurance company managing medical plans for millions of members. The stock has climbed sharply over the past year and the company holds $5.2B in net cash. However, recent results show no revenue growth, negative profit margins, and a negative return on shareholder equity.
 
 ### What is working
-- Balance sheet: Net cash of $5.2B
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
+- Stock price up 81% over the past year and sits 82% up its 52-week range, showing sustained investor interest
+- Company holds $5.2B net cash and generates $4.3B in annual free cash flow despite current losses
+- Share count down 15.3% over three years through buybacks, reducing dilution for remaining shareholders
 
 ### What to be careful about
-- Profitability: Keeps -4% of revenue as profit
-- Growth: Revenue +9% a year over 3 years
+- Latest quarter revenue flat year over year at $45.1B, signaling growth has stalled after 20% annual increase prior year
+- Company lost $6.7B last year with net margin of -4%, meaning it kept negative profit from every dollar of revenue
+- Return on equity is -30%, showing the company is destroying shareholder capital rather than generating returns
 
-**Watch next:** The next quarterly report: whether revenue growth of +0% holds.
+**Watch next:** Monitor whether next quarter's revenue returns to growth and whether operating margins begin to move positive, since current losses are unsustainable.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Investors comfortable with near-term financial stress in a large, cash-generative business betting that management turns operational performance around.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $174.6B (+20% vs prior year)

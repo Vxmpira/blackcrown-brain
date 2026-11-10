@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Uptrend
 
-## Strong: valuation stands out
+## Packaging company with strong revenue growth but thin profits and rising share count
 
-Amcor scores 68 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: uptrend.
+Amcor is a large packaging and containers manufacturer with $23.5B in annual revenue. The company has grown revenue 20% annually over three years, but keeps only 5% of sales as profit. It pays a 5.3% dividend while its share count has grown 61% over three years.
 
 ### What is working
-- Valuation: Free cash flow yield 5.9%
-- Balance sheet: Debt is 0.7x shareholder equity
-- Growth: Revenue +20% a year over 3 years
+- Revenue grew 20% per year over the last three years, with latest quarter up 7% year-over-year
+- Free cash flow yield of 5.9% and annual free cash flow of $1.2B provide cash for dividends and debt paydown
+- Price is 58% of the way up its 52-week range and above its 200-day moving average, showing an uptrend
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Net profit margin of only 5% means the company keeps very little from each dollar of sales
+- Share count has grown 61% over three years, diluting existing shareholders' ownership per share
+- Debt of $8.3B is substantial relative to annual free cash flow of $1.2B, requiring years to pay down
 
-**Watch next:** The next quarterly report: whether revenue growth of +7% holds.
+**Watch next:** Whether the company can grow free cash flow faster than its debt load, given that debt is 0.7x shareholder equity and cash generation is narrow.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Patient investors seeking dividend income who can tolerate low profit margins and dilution in exchange for exposure to consistent packaging demand.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-06-30)
 - Revenue $23.5B (+57% vs prior year)

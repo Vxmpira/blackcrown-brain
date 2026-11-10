@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: balance sheet stands out, valuation holds it back
+## WELL: Strong price momentum and revenue growth offset expensive valuation and weak returns
 
-Welltower scores 70 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Welltower is a real estate investment trust that owns and finances healthcare facilities. The company has grown revenue 27% annually over three years and generated $1.8B in free cash flow last year. It trades at a high price relative to its earnings and cash generation.
 
 ### What is working
-- Balance sheet: Debt is 0.4x shareholder equity
-- Price trend: Price is above its 200-day average
-- Growth: Revenue +27% a year over 3 years
+- Revenue surged 51% in the latest quarter and 40% year-over-year, with 27% annual growth over three years
+- Price is up 29% over the past year and sits 91% of the way up its 52-week range, showing sustained uptrend
+- Strong balance sheet with debt at only 0.4x shareholder equity and $2.3B in cash on hand
 
 ### What to be careful about
-- Valuation: Free cash flow yield 1.1%
+- Trades at 108x earnings, an extremely high price-to-earnings multiple with only 1.0% free cash flow yield
+- Earnings per share fell 11% year-over-year despite revenue growth, signaling profitability pressure
+- Return on equity is just 2%, meaning the company generates minimal profit per dollar of shareholder capital
 
-**Watch next:** The next quarterly report: whether revenue growth of +51% holds.
+**Watch next:** Whether earnings per share growth returns to positive territory as revenue continues expanding, since current profitability is not keeping pace with top-line gains.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Long-term investors comfortable with high valuations who believe in healthcare real estate growth and can tolerate share dilution from a REIT structure.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $8.5B (+40% vs prior year)

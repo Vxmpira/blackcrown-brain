@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Turning up
 
-## Strong: profitability stands out, price trend holds it back
+## Profitable credit giant turning up after a year-long decline
 
-American Express scores 67 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: turning up.
+American Express is a financial services company that processes credit and payment transactions. It keeps 26% of revenue as profit and earned $10.8 billion last year on $41.3 billion in sales. The stock is up 4.3% in the past month after falling 11.8% over the past year.
 
 ### What is working
-- Profitability: Keeps 26% of revenue as profit
-- Shareholder returns: Share count shrinking (buybacks)
-- Valuation: Trades at 18x earnings
+- Profitability is exceptional: 26% net margin and 30% return on equity rank at the top
+- Earnings grew 10% year over year while revenue grew 8%, showing operational leverage
+- Strong cash generation: $16.0 billion in free cash flow with $43.2 billion in cash on hand
 
 ### What to be careful about
-- Price trend: Price is above its 200-day average
+- Stock is down 11.8% over the past year and sits 16% below its 52-week high
+- Debt of $58.5 billion is larger than cash of $43.2 billion, leaving $15.3 billion net debt
+- Analyst consensus is Hold, not Buy; 54% rate it a buy while most others do not
 
-**Watch next:** The next quarterly report: whether revenue growth of +8% holds.
+**Watch next:** Track whether the recent upward price momentum (up 4.3% in one month) continues or reverses after a year of losses.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors who value stable, profitable companies with strong cash flow and can tolerate 26% annual volatility without panic selling.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $41.3B (+6% vs prior year)

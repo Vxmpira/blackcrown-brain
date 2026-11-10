@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Neutral read · trend: Downtrend
 
-## Strong: balance sheet stands out, price trend holds it back
+## Chip equipment maker shows strong profits but stock down sharply from peak
 
-Lam Research scores 70 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: downtrend.
+Lam Research makes semiconductor manufacturing equipment. The company just reported 54% revenue growth in its latest quarter and keeps 31 cents of every revenue dollar as profit. The stock price has fallen 48% from its 52-week high despite strong business results.
 
 ### What is working
-- Balance sheet: Net cash of $3.7B
-- Shareholder returns: Share count shrinking (buybacks)
-- Profitability: Keeps 31% of revenue as profit
+- Latest quarter revenue jumped 54% year over year, showing strong near-term demand
+- Keeps 31% of revenue as profit and generates $4.9B in free cash flow annually
+- Strong balance sheet with $3.7B in net cash and 88% of analysts rating it a buy
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Valuation: Free cash flow yield 1.7%
+- Stock price down 27% in the past month and 22% over six months, sitting 29% up its 52-week range
+- Trades at 33x earnings with only 1.8% free cash flow yield, expensive by valuation measures
+- Yearly volatility of 69% means price swings are large; stock 48% below its 52-week high
 
-**Watch next:** The next quarterly report: whether revenue growth of +54% holds.
+**Watch next:** Whether revenue growth stays at 54% year over year or slows back toward the 10% annual trend, signaling if recent demand spike is sustainable.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Long-term investors comfortable with high volatility who want exposure to semiconductor equipment demand and can hold through sharp price swings.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-06-28)
 - Revenue $23.2B (+26% vs prior year)

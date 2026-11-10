@@ -14,20 +14,22 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Losing steam
 
-## Strong: valuation stands out, price trend holds it back
+## Credit card lender trading cheap with strong cash flow but momentum fading
 
-Synchrony Financial scores 63 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: losing steam.
+Synchrony Financial is a credit services company that issues and manages private label and co-branded credit cards. It generated 3.6 billion dollars in net income last year and produced 9.9 billion dollars in free cash flow. The stock trades at 6.84 times earnings.
 
 ### What is working
-- Valuation: Trades at 8x earnings
-- Shareholder returns: Share count shrinking (buybacks)
-- Profitability: Return on equity 21%
+- Revenue grew 20% year over year, well ahead of earnings growth of 9%
+- Return on equity stands at 21%, meaning the company generates strong returns on shareholder capital
+- Valuation is compressed at 7x earnings with a 43.2% free cash flow yield, near the bottom of the 52-week range
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
+- Stock price is 33% below its 52-week high of 88.47 dollars and sits 19% underwater from peak
+- Price trend shows momentum fading with 50-day average still above 200-day, but stock down 2.2% in the past month
+- Yearly volatility is 32%, indicating significant price swings; debt of 17.0 billion dollars against 15.9 billion in cash
 
-**Watch next:** Whether the price holds above its 200-day average.
+**Watch next:** Whether revenue growth can sustain its 20% year-over-year pace or whether credit card lending pressures slow expansion.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors seeking cash flow yield and value pricing who can tolerate high stock volatility and credit cycle risks in financial services.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.

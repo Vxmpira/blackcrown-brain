@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: shareholder returns stands out, analyst consensus holds it back
+## Profitable data firm climbing hard, but analysts say pump the brakes
 
-FactSet scores 66 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+FactSet sells financial data and analytics to investment professionals. The company is growing modestly at 6-7% a year while maintaining strong profit margins of 22%. Its stock price has surged 20% in the past year and recently hit near its 52-week high.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
-- Profitability: Keeps 22% of revenue as profit
+- Profitability is solid: keeps 22% of revenue as net profit and generates 27% return on equity
+- Stock momentum is strong: up 46.5% over six months and sits 82% of the way up its 52-week range
+- Free cash flow is healthy at $707.5M, funding both debt paydown and share buybacks that shrunk count 5.9% over three years
 
 ### What to be careful about
-- Analyst consensus: 27 analysts, consensus Sell, 15% rate it a buy
-- Growth: Revenue +6% a year over 3 years
+- Growth is sluggish: revenue only up 6% year over year, and earnings per share actually fell 6% despite higher sales
+- Analyst consensus is Sell: only 15% of 27 analysts rate it a buy, suggesting the stock may be priced for more than fundamentals support
+- Valuation has stretched: trades at 22x earnings after the recent 20% annual climb, now 8% below its 52-week high
 
-**Watch next:** The next quarterly report: whether revenue growth of +6% holds.
+**Watch next:** Whether quarterly revenue growth can accelerate beyond the current 6% pace or if earnings per share will rebound after declining despite top-line gains.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Investors comfortable holding steady-growth, high-profit businesses that generate cash but are willing to accept analyst skepticism and recent price momentum.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-08-31)
 - Revenue $2.5B (+7% vs prior year)

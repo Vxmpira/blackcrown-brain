@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Uptrend
 
-## Strong: shareholder returns stands out
+## Strong uptrend and buybacks offset latest revenue slowdown at major bank
 
-Bank of New York Mellon Corp scores 72 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: uptrend.
+BNY is a large investment banking and financial services company with $20.1 billion in annual revenue. The stock has climbed 38% over the past year and trades above its 200-day moving average. Recent results show profit margins of 28%, but latest quarterly revenue fell 2% year over year.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Valuation: Trades at 16x earnings
-- Price trend: Price is above its 200-day average
+- Stock price up 38% over the past year and sits 77% of the way up its 52-week range
+- Net profit margin of 28% means the company keeps more than a quarter of every dollar in revenue
+- Share count has shrunk 12% over three years through buybacks, concentrating ownership among remaining shareholders
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Latest quarter revenue fell 2% compared to a year ago, suggesting recent slowdown in business activity
+- Debt level of $33.3 billion is substantial relative to annual cash flow of $5.2 billion
+- Only 67% of analysts rate it a buy, meaning one-third hold a more cautious view
 
-**Watch next:** The next quarterly report: whether revenue growth of -2% holds.
+**Watch next:** Whether quarterly revenue can return to growth after the latest 2% year-over-year decline.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors comfortable with financial sector cyclicality who want exposure to a profitable established player with consistent buybacks and a moderate dividend.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $20.1B (+8% vs prior year)

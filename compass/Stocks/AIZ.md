@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: price trend stands out, profitability holds it back
+## Strong momentum masks modest profit margins in specialty insurance
 
-Assurant scores 71 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Assurant is a specialty insurance company generating $12.8B in annual revenue with consistent mid-single-digit growth. The stock has risen 41% over the past year and sits near its 52-week high, supported by share buybacks and analyst optimism.
 
 ### What is working
-- Price trend: Price is above its 200-day average
-- Shareholder returns: Share count shrinking (buybacks)
-- Valuation: Trades at 14x earnings
+- Price momentum is strong: up 41% in one year and trades 98% of the way up its 52-week range
+- Earnings growing faster than revenue: EPS up 17% year over year versus 9% revenue growth
+- Valuation offers a cushion: P/E of 14.5 is low relative to the strong analyst consensus of 85% buy ratings
 
 ### What to be careful about
-- Profitability: Keeps 7% of revenue as profit
+- Profit margins are thin: the company keeps only 7% of revenue as net profit
+- Growth is modest: revenue rising 8% per year over three years, not accelerating
+- Stock price is already stretched: trades at 98% of its 52-week high with 23% yearly volatility
 
-**Watch next:** The next quarterly report: whether revenue growth of +9% holds.
+**Watch next:** Whether the earnings growth momentum of 17% can sustain as revenue growth remains stuck around 8 to 9 percent.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors seeking moderate growth from an established financial services business with solid analyst backing, who can tolerate near-peak valuations and single-digit profit margins.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $12.8B (+8% vs prior year)

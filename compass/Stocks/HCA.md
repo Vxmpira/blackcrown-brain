@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: shareholder returns stands out
+## Hospital chain with strong cash generation, but massive debt load raises concern
 
-HCA Healthcare scores 73 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+HCA Healthcare operates hospitals and medical facilities across the US. The company generated 75.6 billion dollars in revenue last year and turned 9% of that into profit. It is trading near the top of its 52-week range after gaining 6% over the past year.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Valuation: Free cash flow yield 6.4%
-- Price trend: Price is above its 200-day average
+- Free cash flow margin sits at 10%, meaning the company converts a dime of every revenue dollar into cash available for debt payoff or shareholder returns
+- Share count has shrunk 18.7% over 3 years through buybacks, concentrating ownership among remaining shareholders
+- Free cash flow yield of 7.3% suggests the stock's cash-generating power is relatively attractive at current prices
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Debt of 44.8 billion dollars against shareholder equity of only 355 million creates a debt-to-equity ratio of 125.8x, meaning the company owes 126 dollars for every dollar of equity
+- Latest quarter revenue grew only 4% year over year, a slowdown from the 8% average over 3 years, signaling possible deceleration
+- Share price is down 8% from its 52-week high of 545.13 dollars despite analyst consensus favoring a buy
 
-**Watch next:** The next quarterly report: whether revenue growth of +4% holds.
+**Watch next:** Monitor whether free cash flow continues at 7.7 billion annually, since most of it will likely service the 44.8 billion dollar debt burden rather than fund growth or buybacks.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors comfortable holding stable, cash-generative businesses with substantial debt provided they believe the hospital industry remains resilient over many years.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $75.6B (+7% vs prior year)

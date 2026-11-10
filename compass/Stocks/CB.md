@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: shareholder returns stands out
+## Strong momentum and cheap valuation mask slowing revenue growth
 
-Chubb Limited scores 72 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Chubb is a large property and casualty insurer generating $59.4B in annual revenue. The company keeps 17% of sales as profit and returned $12.8B in free cash flow last year. Its stock has climbed 27% in the past year and trades at 12x earnings.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Valuation: Trades at 12x earnings
-- Price trend: Price is above its 200-day average
+- Price sits 88% up its 52-week range with 50-day average above 200-day average, showing sustained uptrend momentum
+- Trades at 12x earnings with 9.2% free cash flow yield, well below typical insurance multiples
+- Returned $12.8B in free cash flow and cut share count by 5.2% over three years through buybacks
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Latest quarter revenue flat year-over-year at $16.2B despite full-year revenue up 7%, signaling growth deceleration
+- Analyst consensus is Hold despite 51% buy rating, with no price target above recent levels in consensus view
+- Debt of $18.0B against cash of $3.0B means net debt of $15.0B; insurance exposure to property claims unknown from filing data
 
-**Watch next:** The next quarterly report: whether revenue growth of +0% holds.
+**Watch next:** Whether next quarter revenue returns to year-over-year growth or continues the recent flatness seen in latest quarter results.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors seeking mature companies with steady cash generation and moderate dividend income who tolerate 19% annual stock swings.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $59.4B (+7% vs prior year)

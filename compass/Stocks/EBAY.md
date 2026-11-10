@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: shareholder returns stands out, balance sheet holds it back
+## eBay rallies 47% in a year on profit strength, but valuation looks stretched
 
-eBay scores 67 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+eBay is an online marketplace that generated $11.1 billion in revenue last year. The company keeps 18% of sales as profit and produces strong free cash flow, but has slowed revenue growth over three years.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
-- Profitability: Keeps 18% of revenue as profit
+- Stock up 47% over the past year and trades 95% of the way up its 52-week range, showing strong price momentum
+- Profitability is solid: 18% net margin and 46% return on equity mean management deploys capital efficiently
+- Free cash flow of $1.4 billion and shrinking share count (down 16.1% over three years) fund buybacks and a 2.4% dividend
 
 ### What to be careful about
-- Balance sheet: Debt is 1.5x shareholder equity
+- Long-term revenue growth is weak at 4% annually over three years, despite 14% growth in the latest quarter
+- Stock trades at 26x earnings with a 2.7% free cash flow yield, meaning the market is pricing in future growth that hasn't materialized yet
+- Debt of $6.8 billion is 1.5x shareholder equity, leaving limited room to maneuver if business declines
 
-**Watch next:** The next quarterly report: whether revenue growth of +14% holds.
+**Watch next:** Whether the latest quarter's 14% revenue jump represents a durable trend or a temporary spike, since the three-year average remains only 4% growth.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable with mature, profitable businesses trading at premium valuations and willing to wait for growth to accelerate.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $11.1B (+8% vs prior year)

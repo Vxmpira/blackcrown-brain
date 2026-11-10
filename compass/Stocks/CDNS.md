@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Turning up
 
-## Strong: balance sheet stands out, valuation holds it back
+## Profitable software maker with strong cash flow, but trading at a steep price
 
-Cadence Design Systems scores 66 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: turning up.
+Cadence Design Systems makes software used by engineers to design computer chips and electronics. The company is growing revenue at 14% annually and keeps 21 cents of every dollar as profit. It generates substantial free cash flow and has minimal debt.
 
 ### What is working
-- Balance sheet: Debt is 0.4x shareholder equity
-- Profitability: Keeps 21% of revenue as profit
-- Analyst consensus: 30 analysts, consensus Buy, 93% rate it a buy
+- Revenue grew 22% in the latest quarter compared to a year ago, outpacing the 14% annual trend
+- Free cash flow margin sits at 30%, meaning the company converts three dollars of every ten in revenue to cash it can spend freely
+- Balance sheet is strong with debt at only 0.4x shareholder equity, giving room to invest or return money to shareholders
 
 ### What to be careful about
-- Valuation: Free cash flow yield 1.7%
+- Stock trades at 67x earnings, meaning investors pay 67 dollars for every one dollar the company earned last year
+- Price is down 20% from its 52-week high and down 7.5% over the past six months
+- Free cash flow yield of 1.7% is low, suggesting limited cash return relative to what investors paid for the stock
 
-**Watch next:** The next quarterly report: whether revenue growth of +22% holds.
+**Watch next:** Whether the latest quarter's 22% revenue growth can sustain, since this is faster than the historical 14% annual pace and justifies the high valuation only if it continues.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors who believe in a company's long-term earnings power and can tolerate high valuations and 42% yearly price swings in exchange for exposure to a profitable, cash-generative business.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $5.3B (+14% vs prior year)

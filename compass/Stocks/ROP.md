@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: balance sheet stands out
+## Strong uptrend and cash generation tempered by slowing growth and analyst caution
 
-Roper Technologies scores 74 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Roper Technologies is an industrial machinery company with $7.9B in annual revenue. It generates substantial free cash flow of $2.5B and maintains healthy profit margins, but revenue growth has decelerated from a 14% annual average over three years to just 8% in the latest quarter.
 
 ### What is working
-- Balance sheet: Debt is 0.5x shareholder equity
-- Price trend: Price is above its 200-day average
-- Profitability: Keeps 19% of revenue as profit
+- Stock is up 26.8% over one month and 43.8% over six months, sitting 85% of the way up its 52-week range
+- Free cash flow margin of 32% and operating margin of 28% show strong profit conversion
+- Balance sheet is solid with debt at only 0.5x shareholder equity, leaving room to deploy capital
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Earnings per share fell 1% year over year despite revenue gains, signaling margin or cost pressures
+- Latest quarter revenue growth of 8% trails the 14% annual growth rate from the prior three years
+- Analyst consensus is Hold, with only 42% rating it a buy; 24 analysts cover the stock
 
-**Watch next:** The next quarterly report: whether revenue growth of +8% holds.
+**Watch next:** Monitor whether quarterly revenue growth accelerates back toward the historical 14% annual rate or continues to decelerate, as this will signal whether the growth slowdown is temporary or structural.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** This profile suits long-term investors comfortable with industrial cyclicals who value steady free cash flow generation and balance sheet strength over rapid earnings expansion.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $7.9B (+12% vs prior year)

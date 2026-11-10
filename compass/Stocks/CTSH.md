@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: valuation stands out, growth holds it back
+## IT services firm with solid cash generation trades cheap but growth is slowing
 
-Cognizant scores 69 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Cognizant is a large information technology services company generating $21.1 billion in annual revenue. It keeps 11% of revenue as profit and produces strong free cash flow of $2.6 billion per year. The stock has risen 33% in the past six months but remains down 13% over the full year.
 
 ### What is working
-- Valuation: Free cash flow yield 9.1%
-- Balance sheet: Debt is 0.1x shareholder equity
-- Shareholder returns: Share count shrinking (buybacks)
+- Valuation is attractive: trades at 11x earnings with a 9.1% free cash flow yield, well above typical market rates
+- Balance sheet is fortress-like: debt of only 0.1x shareholder equity with $1.5 billion in cash on hand
+- Capital returns to shareholders are steady: the company shrinks share count through buybacks and pays a 1.6% dividend
 
 ### What to be careful about
-- Growth: Revenue +3% a year over 3 years
+- Revenue growth is decelerating: expanded 7% last year but has only grown 3% annually over three years
+- Earnings per share growth barely moved: only +1% year over year despite revenue gains, signaling margin pressure
+- Stock remains 27% below its 52-week high at $86.70, with 43% yearly volatility showing significant swings
 
-**Watch next:** The next quarterly report: whether revenue growth of +5% holds.
+**Watch next:** Track whether revenue growth can reaccelerate beyond the recent 5% quarterly pace, as slowing top-line expansion is the primary weakness in the story.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors seeking stable cash-generating businesses with modest dividends and share buybacks, who can tolerate flat-to-slow growth in exchange for valuation margin of safety.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $21.1B (+7% vs prior year)

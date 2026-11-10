@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Neutral read · trend: Downtrend, bouncing
 
-## Strong: valuation stands out, price trend holds it back
+## Profitable footwear giant stumbles but keeps generating cash and buying back shares
 
-Deckers Brands scores 65 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: downtrend, bouncing.
+Deckers Brands is a large apparel and footwear company with strong profitability. Revenue grew 10% last year and 15% annually over three years, though recent quarterly growth has slowed to 3%. The company converts nearly one-fifth of sales into net profit and generates substantial free cash flow.
 
 ### What is working
-- Valuation: Free cash flow yield 9.1%
-- Balance sheet: Net cash of $1.2B
-- Shareholder returns: Share count shrinking (buybacks)
+- Net profit margin of 19% and operating margin of 23% show pricing power and cost control
+- Free cash flow margin of 20% with $1.1B generated last year; company sits on $1.2B net cash with no debt
+- Return on equity of 44% and share count shrinking 8.9% over three years through buybacks
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
+- Latest quarter revenue grew only 3% year over year after three years of 15% annual growth, signaling deceleration
+- Stock is down 26% from its 52-week high and trades 27% of the way up its yearly range; price sits below its 200-day average
+- Yearly volatility of 41% and analyst consensus is Hold, not Buy; only 53% of 34 analysts rate it a buy
 
-**Watch next:** The next quarterly report: whether revenue growth of +3% holds.
+**Watch next:** Whether quarterly revenue growth accelerates back toward the three-year 15% annual trend or continues slowing, which would signal demand weakness.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable holding through price swings who prioritize cash generation and balance sheet strength over near-term momentum.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-03-31)
 - Revenue $5.5B (+10% vs prior year)

@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Uptrend
 
-## Strong: shareholder returns stands out
+## Payment processor with strong cash generation, but earnings fell and valuation looks stretched
 
-Global Payments scores 68 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: uptrend.
+Global Payments processes transactions for businesses worldwide. The company generated $7.7 billion in revenue last year with healthy profit margins of 18%. Most recent quarter revenue jumped 64% year over year, though full-year revenue was flat.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
-- Profitability: Keeps 18% of revenue as profit
+- Free cash flow of $2.0B with a 26% margin shows strong cash-generating ability despite earnings pressure
+- Stock up 34% over the past year and sitting at the top of its 52-week range, with price above both 50-day and 200-day moving averages
+- Returning capital through buybacks that shrunk share count by 12.2% over three years, benefiting remaining shareholders
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Earnings per share fell 6% year over year while revenue was flat, signaling profitability pressure in the core business
+- Debt of $22.6B is roughly equal to shareholder equity of $22.4B, leaving less cushion if conditions worsen
+- Analysts are split with consensus Hold and only 48% rating it a buy, suggesting uncertainty about value at current price levels
 
-**Watch next:** The next quarterly report: whether revenue growth of +64% holds.
+**Watch next:** Watch whether the latest quarter's 64% revenue surge becomes a sustained trend or a one-time spike, since full-year growth was flat.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Suits investors comfortable with mature industrial businesses that generate steady cash but face near-term earnings headwinds, seeking recovery potential.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $7.7B (-0% vs prior year)

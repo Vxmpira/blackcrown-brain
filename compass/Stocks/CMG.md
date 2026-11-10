@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Turning up
 
-## Strong: balance sheet stands out, valuation holds it back
+## Profitable restaurant chain with strong cash generation, but valuation sits well above historical norms
 
-Chipotle Mexican Grill scores 66 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: turning up.
+Chipotle is a large restaurant operator generating $11.9B in annual revenue with a 13% profit margin and $1.4B in free cash flow. The company carries no debt and is actively buying back shares. Growth has moderated to low double digits recently after years of faster expansion.
 
 ### What is working
-- Balance sheet: Net cash of $634.2M
-- Shareholder returns: Share count shrinking (buybacks)
-- Profitability: Keeps 13% of revenue as profit
+- Profitability is solid: keeps 13% of every revenue dollar as profit and generates $1.4B in free cash flow annually
+- Balance sheet is fortress-like: $634.2M in net cash with zero debt provides flexibility for investments or returns
+- Shareholder-friendly capital allocation: share count down 4.3% over three years through buybacks, concentrating ownership gains
 
 ### What to be careful about
-- Valuation: Free cash flow yield 3.2%
+- Valuation is stretched: trades at 33x earnings, well above typical restaurant multiples, leaving limited margin for disappointment
+- Growth is decelerating: revenue growth slowed from an 11% annual pace (3-year average) to 5% year over year on the full year
+- Stock volatility is high: 41% yearly volatility and down 12% from its 52-week high despite being up 17% over one year shows swings
 
-**Watch next:** The next quarterly report: whether revenue growth of +10% holds.
+**Watch next:** Whether quarterly revenue growth can sustain the 10% pace seen in the latest quarter or continues slowing toward the full-year 5% rate.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable with cyclical consumer spending who believe strong profitability and cash generation justify a premium valuation despite slower growth.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $11.9B (+5% vs prior year)

@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: profitability stands out, growth holds it back
+## Profitable cash machine with heavy debt and shrinking sales
 
-Altria scores 75 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Altria is a tobacco company generating substantial profits and cash. Revenue has declined 2% annually over three years, though the latest quarter showed a 1% year-over-year gain. The company returns significant cash to shareholders through dividends and buybacks.
 
 ### What is working
-- Profitability: Keeps 30% of revenue as profit
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
+- Keeps 30% of revenue as profit and generates 9.1 billion dollars in free cash flow annually
+- Dividend yield is 9.4% and share count has shrunk 6.7% over three years through buybacks
+- Stock price is up 31% over the past year and sits 91% of the way up its 52-week range
 
 ### What to be careful about
-- Growth: Revenue -2% a year over 3 years
+- Revenue declined 3% in the latest fiscal year and has fallen 2% annually over the past three years
+- Debt is 8.7x shareholder equity, meaning 24.1 billion dollars of debt against a small equity base
+- Earnings per share dropped 37% year over year, and analyst consensus is Hold rather than Buy
 
-**Watch next:** The next quarterly report: whether revenue growth of +1% holds.
+**Watch next:** Whether revenue can stabilize or return to growth, since the past three years show consistent annual declines of 2%.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Investors seeking high current income from dividends who are comfortable with a mature business in a declining industry and can tolerate high leverage.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $23.3B (-3% vs prior year)

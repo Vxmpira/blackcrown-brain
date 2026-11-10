@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: price trend stands out, valuation holds it back
+## Waste management leader showing strong price momentum but trading at premium valuation
 
-Republic Services scores 65 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Republic Services is a large waste and recycling company generating $16.6 billion in annual revenue. It keeps 13% of revenue as profit, produces $2.4 billion in free cash flow yearly, and returns money to shareholders through dividends and buybacks.
 
 ### What is working
-- Price trend: Price is above its 200-day average
-- Shareholder returns: Share count shrinking (buybacks)
-- Profitability: Keeps 13% of revenue as profit
+- Stock price up 20% over the past year and sits 93% of the way up its 52-week trading range
+- Free cash flow margin of 15% and return on equity of 17% show strong cash generation and capital efficiency
+- Latest quarter revenue grew 8% year over year while the company shrinks share count through buybacks
 
 ### What to be careful about
-- Valuation: Free cash flow yield 3.1%
+- Trades at 34x earnings, well above typical industrials, leaving little margin for disappointment
+- Revenue growth of 8% in latest quarter slowed from the 3-year average pace of 7% annually
+- Debt of $13.7 billion is 1.1x shareholder equity, meaning debt load relative to ownership is moderate to elevated
 
-**Watch next:** The next quarterly report: whether revenue growth of +8% holds.
+**Watch next:** Whether quarterly revenue growth stays near 8% or slows further, since the valuation assumes continued solid expansion.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors seeking a mature, cash-generative company who are comfortable paying a premium price for stability and can accept single-digit dividend yields.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $16.6B (+3% vs prior year)

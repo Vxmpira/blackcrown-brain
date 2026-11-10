@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Neutral read · trend: Downtrend
 
-## Strong: balance sheet stands out, price trend holds it back
+## Profitable chip equipment maker hitting a rough patch after big run-up
 
-Applied Materials scores 64 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: downtrend.
+Applied Materials makes equipment that manufacturers use to produce semiconductors. The company is highly profitable, generating $7.0B in net income on $28.4B in revenue, and holds a strong balance sheet with $593.0M in net cash. However, its stock price has fallen sharply in recent months despite analyst support.
 
 ### What is working
-- Balance sheet: Net cash of $593.0M
-- Shareholder returns: Share count shrinking (buybacks)
-- Profitability: Keeps 25% of revenue as profit
+- Keeps 25% of revenue as profit and generates $5.7B in free cash flow annually, showing strong operational efficiency
+- Latest quarter revenue jumped 25% year over year, suggesting recent momentum in its core business
+- 45 analysts cover it with 89% rating it a buy, and the company returns cash to shareholders through buybacks that have shrunk share count 7.9% over three years
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Valuation: Free cash flow yield 1.9%
+- Stock has dropped 24% in the past month and sits 48% below its 52-week high of $723.0, indicating significant recent losses
+- Full-year revenue growth of only 4% and a three-year annual growth rate of 3% are modest for the sector
+- Trades at 32x earnings with a free cash flow yield of just 1.9%, suggesting the market prices in high future expectations
 
-**Watch next:** The next quarterly report: whether revenue growth of +25% holds.
+**Watch next:** Whether the 25% year-over-year quarterly revenue growth can sustain or if momentum will continue weakening like the stock price suggests.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Long-term investors who can tolerate high volatility (63% yearly) and can hold through downtrends while betting on a profitable, cash-generative company that analysts still favor.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-10-26)
 - Revenue $28.4B (+4% vs prior year)

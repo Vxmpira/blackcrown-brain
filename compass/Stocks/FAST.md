@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: balance sheet stands out, valuation holds it back
+## Fastenal rides strong momentum but commands a premium price
 
-Fastenal scores 68 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Fastenal is an industrial distributor generating $8.2B in annual revenue with solid profitability (15% net margin, 30% return on equity). The stock has surged 32% over the past year and sits near its 52-week high, reflecting investor confidence in the business.
 
 ### What is working
-- Balance sheet: Net cash of $111.9M
-- Price trend: Price is above its 200-day average
-- Profitability: Keeps 15% of revenue as profit
+- Latest quarterly revenue jumped 15% year-over-year, well above the 3-year average growth of 6% annually
+- Strong cash generation: $1.1B in free cash flow with a 13% margin, plus $111.9M net cash on the balance sheet
+- High profitability metrics: 20% operating margin and 30% return on equity show efficient capital use
 
 ### What to be careful about
-- Valuation: Free cash flow yield 1.7%
-- Analyst consensus: 26 analysts, consensus Hold, 42% rate it a buy
+- Valuation is steep at 44x earnings with only a 1.7% free cash flow yield, leaving little room for disappointment
+- Share count has nearly doubled over 3 years, diluting existing shareholders even as the company buys back stock
+- Analyst consensus is Hold with only 42% rating it a buy, suggesting skepticism about price levels despite strong fundamentals
 
-**Watch next:** The next quarterly report: whether revenue growth of +15% holds.
+**Watch next:** Whether the latest 15% quarterly revenue growth can sustain above the 6% three-year trend, or if it moderates back toward historical norms.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Long-term investors comfortable owning quality industrial businesses at premium valuations and willing to hold through cycles.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $8.2B (+9% vs prior year)

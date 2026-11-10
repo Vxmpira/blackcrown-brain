@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Turning up
 
-## Strong: valuation stands out
+## Retail REIT with strong cash generation and 5% dividend, but slow growth
 
-Kimco Realty scores 68 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: turning up.
+Kimco Realty is a real estate investment trust that owns and manages retail properties. It generates substantial cash profits and pays shareholders a 5.1% dividend, but revenue growth has slowed to 5% annually and the company is diluting existing shareholders by issuing new shares.
 
 ### What is working
-- Valuation: Free cash flow yield 6.4%
-- Profitability: Keeps 26% of revenue as profit
-- Balance sheet: Debt is 0.8x shareholder equity
+- Converts 51% of revenue to free cash flow, well above typical corporate levels
+- Keeps 26% of each revenue dollar as profit after all expenses
+- Offers 5.1% dividend yield while stock has risen 24% over the past year
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Share count has grown 9.3% over three years, diluting ownership of existing shareholders
+- Revenue growth has slowed to 5% year over year, down from 7% three-year average
+- Carries 7.7 billion dollars in debt, though debt-to-equity ratio of 0.8x remains manageable
 
-**Watch next:** The next quarterly report: whether revenue growth of +5% holds.
+**Watch next:** Whether revenue growth can accelerate beyond its current 5% pace, since the entire investment case depends on stable cash generation from a slow-growing asset base.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Investors seeking steady dividend income from an established company that does not require business growth to remain profitable, who accept slower expansion and shareholder dilution.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $2.1B (+5% vs prior year)

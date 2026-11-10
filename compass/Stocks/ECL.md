@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: price trend stands out, valuation holds it back
+## Strong uptrend masks slowing revenue growth and expensive valuation
 
-Ecolab scores 67 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Ecolab is a specialty chemicals company generating $16.1B in annual revenue with 13% net profit margins and solid cash generation. The stock has climbed 19% in the past year and sits near its 52-week high, though full-year revenue growth has slowed to 2% despite a recent quarter showing 13% growth.
 
 ### What is working
-- Price trend: Price is above its 200-day average
-- Balance sheet: Debt is 0.5x shareholder equity
-- Shareholder returns: Share count flat
+- Price momentum is strong: up 19.5% over one year and trading 87% of the way up its 52-week range
+- Profitability is solid: 13% net margin, 20% return on equity, and $1.9B in free cash flow generated
+- Analyst consensus is bullish: 80% of 30 analysts rate it a buy with a consensus Buy rating
 
 ### What to be careful about
-- Valuation: Free cash flow yield 2.2%
-- Growth: Revenue +4% a year over 3 years
+- Valuation is steep: P/E of 41.31x earnings and free cash flow yield of only 2.2% leave little margin for disappointment
+- Revenue growth is weak: full-year revenue rose just 2% while earnings per share fell 1% year over year
+- Debt load is moderate: $4.9B in debt against $2.1B net income means 2.3x net debt to annual earnings
 
-**Watch next:** The next quarterly report: whether revenue growth of +13% holds.
+**Watch next:** Whether the recent 13% quarterly revenue growth can sustain or if full-year growth remains stuck near 2% will determine if the stock's premium valuation is justified.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Patient investors comfortable holding expensive stocks that generate reliable cash flow and dividends, who believe near-term growth will accelerate to match current pricing.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $16.1B (+2% vs prior year)

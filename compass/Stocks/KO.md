@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: price trend stands out, valuation holds it back
+## Coca-Cola trades at peak price with strong profits but limited margin for error
 
-Coca-Cola Company (The) scores 72 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Coca-Cola is a mature beverage company generating $47.9B in annual revenue with a 27% net profit margin. It sits at the top of its 52-week price range after a 36% one-year rally, returning cash to shareholders through dividends (3.1% yield) and buybacks while carrying $36.5B in debt.
 
 ### What is working
-- Price trend: Price is above its 200-day average
-- Profitability: Keeps 27% of revenue as profit
-- Shareholder returns: Share count shrinking (buybacks)
+- Profitability is robust: 27% net margin, 35% return on equity, and $5.3B free cash flow generation
+- Price momentum is strong: up 36% over one year and 100% of the way up its 52-week range
+- Shareholder returns are consistent: 3.1% dividend yield plus ongoing share buybacks shrinking count by 0.9% over 3 years
 
 ### What to be careful about
-- Valuation: Free cash flow yield 1.3%
+- Valuation is stretched: trades at 28x earnings with only 1.3% free cash flow yield
+- Growth is sluggish: revenue rose just 2% last year and 4% annualized over 3 years
+- Debt load is substantial: $36.5B owed against $13.5B in cash means 1.0x debt-to-equity ratio
 
-**Watch next:** The next quarterly report: whether revenue growth of +7% holds.
+**Watch next:** Latest quarterly revenue growth of 7% versus the flat annual trend will show whether the company is genuinely accelerating or benefiting from temporary factors.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Long-term investors seeking stable cash income and predictable business models who are comfortable owning at premium valuations and can tolerate single-digit annual revenue growth.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $47.9B (+2% vs prior year)

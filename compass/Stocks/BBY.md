@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: balance sheet stands out, analyst consensus holds it back
+## Best Buy bounces back with earnings growth, but long-term revenue trend remains flat
 
-Best Buy scores 69 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Best Buy is a specialty electronics retailer with $41.7B in annual revenue. The company recently returned to earnings growth (up 18% per share year over year) while revenue has stabilized after a three-year decline. It trades at 17x earnings and carries net cash of $1.1B.
 
 ### What is working
-- Balance sheet: Net cash of $1.1B
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
+- Stock price up 29% over the past year and sits 92% of the way up its 52-week range, showing strong recent momentum
+- Latest quarter revenue grew 4% year over year, breaking a three-year downward trend
+- Returns cash to shareholders through buybacks (6% share count reduction over 3 years) and a 5.3% dividend yield
 
 ### What to be careful about
-- Analyst consensus: 30 analysts, consensus Hold, 20% rate it a buy
-- Growth: Revenue -3% a year over 3 years
+- Three-year revenue decline of 3% annually shows the core business has shrunk despite recent quarterly stabilization
+- Profit margins are thin at 3%, leaving little room for error or unexpected cost increases
+- Analysts are mostly skeptical: consensus is Hold with only 20% rating it a buy, despite the strong price run-up
 
-**Watch next:** The next quarterly report: whether revenue growth of +4% holds.
+**Watch next:** Monitor whether the latest quarterly revenue growth of 4% represents a lasting reversal of the three-year decline or just a temporary bounce.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors comfortable with thin-margin retailers that produce steady cash flow and pay dividends, but uncertain whether the company can return to growth.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-01-31)
 - Revenue $41.7B (+0% vs prior year)

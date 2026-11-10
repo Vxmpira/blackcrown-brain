@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: shareholder returns stands out
+## Medical distributor near 52-week high with strong growth but thin profit margins
 
-McKesson Corporation scores 71 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+McKesson is a massive healthcare distributor moving $403.4B in annual revenue. The company is in a strong uptrend, growing revenue steadily, but operates on razor-thin profit margins of just 1%.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
-- Growth: Revenue +13% a year over 3 years
+- Price is 99% of the way up its 52-week range and +25% over the past year
+- Revenue growing consistently at +13% annually over 3 years, latest quarter +8%
+- Analysts heavily favor it: 82% rate as buy, with consensus Buy rating across 22 analysts
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Profit margin is only 1% of revenue, meaning $403.4B in sales yields just $4.8B net income
+- Debt of $9.2B is 1.3x total shareholder equity, adding financial risk
+- Trading at 26x earnings is near the higher end of valuation, leaving less room for disappointment
 
-**Watch next:** The next quarterly report: whether revenue growth of +8% holds.
+**Watch next:** Whether the company can expand its 1% net margin or if competitive pressures keep profits thin despite revenue gains.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Patient investors comfortable with steady, modest earnings growth from a capital-intensive business that generates cash but trades on momentum, not deep value.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-03-31)
 - Revenue $403.4B (+12% vs prior year)

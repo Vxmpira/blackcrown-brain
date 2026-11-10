@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Turning up
 
-## Strong: balance sheet stands out
+## Medical device maker with steady growth and strong balance sheet, but expensive valuation
 
-Steris scores 64 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: turning up.
+Steris makes healthcare sterilization and contamination control products. Revenue and earnings are growing steadily at around 9% annually, and the company is profitable with solid cash generation.
 
 ### What is working
-- Balance sheet: Debt is 0.2x shareholder equity
-- Shareholder returns: Share count shrinking (buybacks)
-- Profitability: Keeps 13% of revenue as profit
+- Revenue grew 9% year over year to $5.9B, matching its 3-year growth rate
+- Free cash flow of $972.4M gives a 16% margin and funds buybacks plus a 1.0% dividend
+- Debt of 0.2x shareholder equity is very low; strong balance sheet provides flexibility
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Stock trades at 31x earnings, well above typical valuations, leaving little room for disappointment
+- Price fell 4% over the past year despite earnings up 28%, showing valuation compression risk
+- Near 52-week high at 77% of range; 26% yearly volatility means price swings can be sharp
 
-**Watch next:** The next quarterly report: whether revenue growth of +9% holds.
+**Watch next:** Whether revenue growth stays at 9% annually or accelerates, since the high valuation assumes that momentum continues.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable with healthcare exposure who value steady profit generation over quick price gains and can accept premium valuations.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-03-31)
 - Revenue $5.9B (+9% vs prior year)

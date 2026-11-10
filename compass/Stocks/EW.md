@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: balance sheet stands out, valuation holds it back
+## Strong price momentum masks a valuation premium for this steady medical device maker
 
-Edwards Lifesciences scores 68 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Edwards Lifesciences is a profitable medical device company generating $6.1B in annual revenue with consistent 10-12% growth. It trades at a high multiple (58x earnings) but maintains a fortress balance sheet with $2.5B in net cash and shrinking share count.
 
 ### What is working
-- Balance sheet: Net cash of $2.5B
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
+- Stock is up 23% over the past year and sits 93% of the way up its 52-week range, showing sustained uptrend.
+- Company converts revenue to profit efficiently: 18% net margin and 22% free cash flow margin, generating $1.3B in annual free cash.
+- Balance sheet strength with $2.5B net cash position and 82% of 39 analysts rating it a buy provides downside cushion.
 
 ### What to be careful about
-- Valuation: Free cash flow yield 2.2%
-- Growth: Revenue +11% a year over 3 years
+- Valuation is stretched at 58x earnings with only 2.2% free cash flow yield, leaving little margin for error.
+- Earnings per share fell 74% year over year despite 10% revenue growth, signaling profitability challenges that offset top-line gains.
+- Stock sits 2% from its 52-week high after a 23% one-year run, potentially limiting upside room in the near term.
 
-**Watch next:** The next quarterly report: whether revenue growth of +10% holds.
+**Watch next:** Watch whether the next quarter's earnings rebound from the 74% EPS decline or if profitability pressure persists despite revenue growth.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Suits patient long-term investors comfortable with premium valuations who prioritize stable cash generation and strong balance sheets over near-term upside.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $6.1B (+12% vs prior year)

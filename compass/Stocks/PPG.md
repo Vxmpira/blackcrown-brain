@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Turning up
 
-## Strong: shareholder returns stands out
+## Specialty chemicals maker with strong cash generation faces sluggish long-term growth
 
-PPG Industries scores 67 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: turning up.
+PPG Industries is a specialty chemicals company generating $15.9 billion in annual revenue with consistent profitability. The company keeps 10% of revenue as profit and generates $1.2 billion in free cash flow yearly. Recent quarters show momentum with 7% revenue growth, though three-year revenue growth sits at just 1% annually.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
-- Valuation: Free cash flow yield 4.1%
+- Stock up 28% over the past year and sits 79% of the way up its 52-week range, showing sustained momentum
+- Generates $1.2 billion in free cash flow with 4.2% yield, funding both dividends and share buybacks that have shrunk the share count 4.3% over three years
+- Latest quarter revenue jumped 7% year over year and earnings per share rose 46%, suggesting recent operational acceleration
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Three-year revenue growth is only 1% annually despite latest quarter up 7%, indicating inconsistent top-line expansion
+- Full-year revenue flat year over year at $15.9 billion despite quarterly momentum, raising questions about sustainability
+- Debt of $6.8 billion is 0.8x shareholder equity, and analysts are split with only 55% rating it a buy versus consensus Hold
 
-**Watch next:** The next quarterly report: whether revenue growth of +7% holds.
+**Watch next:** Whether the 7% quarterly revenue growth continues or reverts to the flat full-year trend, as this will determine if the company has shifted to a faster growth pace.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors seeking steady cash returns from a mature industrial company, comfortable with modest growth and moderate leverage.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $15.9B (+0% vs prior year)

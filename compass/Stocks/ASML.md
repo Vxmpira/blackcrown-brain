@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Losing steam
 
-## Strong: profitability stands out, valuation holds it back
+## Profitable chip equipment maker with premium valuation and recent price pullback
 
-ASML Holding scores 70 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: losing steam.
+ASML is a semiconductor equipment manufacturer that generated 32.7B EUR in revenue and 9.6B EUR in profit over the past year. The company converts more than a third of its sales into free cash and holds 8.5B EUR in net cash. It trades at a significant valuation premium to historical norms.
 
 ### What is working
-- Profitability: Keeps 29% of revenue as profit
-- Balance sheet: Net cash of 8.5B EUR
-- Shareholder returns: Share count shrinking (buybacks)
+- Revenue and earnings grew 16% and 28% respectively over the past year, with consistent 16% annual revenue growth over three years
+- Profitability is exceptional: 29% net margin, 35% operating margin, and 49% return on equity with 11.1B EUR in free cash flow
+- Strong balance sheet with 8.5B EUR in net cash and 86% of 42 analysts rating the stock as a buy
 
 ### What to be careful about
-- Valuation: Trades at 47x earnings
+- Stock trades at 47x earnings, among the highest valuation multiples on the market and well above typical levels
+- Price has fallen 23% from its 52-week high and dropped 12.5% in the past month, suggesting momentum has weakened recently
+- Yearly volatility sits at 49%, meaning swings of this magnitude are common; price is still 55% of its way through the 52-week range
 
-**Watch next:** The next quarterly report: whether revenue growth of +16% holds.
+**Watch next:** Monitor whether the recent 12.5% monthly decline continues or stabilizes, since the company fundamentals remain strong but the price trend label reads 'losing steam.'
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Long-term investors comfortable holding stable, highly profitable companies through 30-50% price swings and willing to accept a premium valuation for quality.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue 32.7B EUR (+16% vs prior year)

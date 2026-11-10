@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Neutral read · trend: Downtrend
 
-## Strong: balance sheet stands out, price trend holds it back
+## Profitable renewable utility with strong growth, but stock price has fallen sharply
 
-GE Vernova scores 66 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: downtrend.
+GE Vernova is a renewable energy and power infrastructure company with $38.1B in annual revenue. It generated $4.9B in net income last year and maintains a strong balance sheet with $16.8B in net cash. The business is growing revenue faster lately, with latest quarter up 27% year over year.
 
 ### What is working
-- Balance sheet: Net cash of $16.8B
-- Growth: Revenue +9% a year over 3 years
-- Profitability: Keeps 13% of revenue as profit
+- Earnings per share jumped 217% year over year, showing strong profit growth
+- Company keeps 13% of revenue as profit and generates $3.7B in free cash flow annually
+- Balance sheet shows $16.8B in net cash with no reported debt, providing financial flexibility
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
+- Stock is down 26.8% over the past 6 months and sits 33% below its 52-week high
+- Price trades at 21x earnings, which is above historical norms for utilities
+- Free cash flow yield of 1.7% is relatively low, meaning cash returns to shareholders are modest
 
-**Watch next:** The next quarterly report: whether revenue growth of +27% holds.
+**Watch next:** Monitor whether the latest quarter's 27% revenue growth sustains or slows, as this acceleration is the main driver of the bull case.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Investors comfortable with high volatility and long holding periods who want exposure to renewable energy infrastructure profits rather than immediate cash returns.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $38.1B (+9% vs prior year)

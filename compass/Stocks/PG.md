@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: price trend stands out, growth holds it back
+## Mature household goods giant at peak price with steady cash but slowing growth
 
-Procter & Gamble scores 71 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Procter & Gamble is a large consumer defensive company that makes household and personal care products. It generates substantial profits and cash flow while returning money to shareholders through dividends and buybacks. Revenue growth is modest at 2 percent annually over three years.
 
 ### What is working
-- Price trend: Price is above its 200-day average
-- Profitability: Keeps 18% of revenue as profit
-- Shareholder returns: Share count shrinking (buybacks)
+- Strong profitability: keeps 18% of revenue as net profit and generates $15.1B in free cash flow annually
+- Consistent shareholder returns: cutting share count by 2.5% over 3 years while paying 2.5% dividend yield
+- Solid balance sheet: debt is only 0.7x shareholder equity, leaving room to borrow if needed
 
 ### What to be careful about
-- Growth: Revenue +2% a year over 3 years
+- Expensive valuation: trades at 24x earnings with only 3.9% free cash flow yield
+- Slow growth: revenue up just 2% annually over 3 years, with earnings per share up only 2% year over year
+- High price already: stock is at the top of its 52-week range with 21% yearly volatility
 
-**Watch next:** The next quarterly report: whether revenue growth of +4% holds.
+**Watch next:** Whether the 4% quarterly revenue growth can sustain or if it slows back toward the 2 percent annual trend.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Long-term investors seeking stable cash-generating holdings who are comfortable with slow growth and don't need rapid capital appreciation.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-06-30)
 - Revenue $87.0B (+3% vs prior year)

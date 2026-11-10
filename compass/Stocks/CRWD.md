@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Pullback in uptrend
 
-## Strong: balance sheet stands out, shareholder returns holds it back
+## Fast-growing security software with strong cash flow but trades at extreme valuation
 
-CrowdStrike scores 69 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: pullback in uptrend.
+CrowdStrike is a cloud security software company growing revenue 26% in its latest quarter and 29% annually over three years. It generates $1.3B in free cash flow yearly but operates at a net loss of $161.2M. The stock has climbed 68% in the past year and sits 73% of the way up its 52-week range.
 
 ### What is working
-- Balance sheet: Net cash of $4.3B
-- Price trend: Price is above its 200-day average
-- Growth: Revenue +29% a year over 3 years
+- Revenue grew 26% in latest quarter and 29% per year over 3 years, showing consistent acceleration
+- Free cash flow margin of 27% means the business converts sales into actual cash very efficiently
+- Balance sheet holds $4.3B in net cash, providing a fortress with minimal financial risk
 
 ### What to be careful about
-- Shareholder returns: Share count growing (dilution)
-- Valuation: Free cash flow yield 0.6%
+- Stock trades at 4009x earnings due to negative net income of -$161.2M, making traditional valuation metrics break down
+- Price is down 19% from its 52-week high and fell 13.7% in the past month despite strong growth
+- Operating margin is -6%, meaning the company spends more to run operations than it brings in from sales
 
-**Watch next:** The next quarterly report: whether revenue growth of +26% holds.
+**Watch next:** Whether the company can reach profitability while maintaining its 26% revenue growth rate, since the -3% net margin and -6% operating margin are the core tension in this valuation.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Long-term investors comfortable holding unprofitable high-growth software companies and willing to accept high volatility (57% yearly) in exchange for potential future profitability.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-01-31)
 - Revenue $4.8B (+22% vs prior year)

@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: profitability stands out, balance sheet holds it back
+## Profitable tech services firm with strong cash generation, but debt load and slowing growth warrant caution
 
-Broadridge Financial Solutions scores 70 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Broadridge is an information technology services company that generated $7.5B in revenue last year with a 15% net profit margin. It converts most earnings into free cash flow and returns capital to shareholders through buybacks and a 1.7% dividend.
 
 ### What is working
-- Profitability: Keeps 15% of revenue as profit
-- Shareholder returns: Share count shrinking (buybacks)
-- Valuation: Free cash flow yield 5.9%
+- Free cash flow margin of 17% means the company turns most revenue into cash it can spend or return to shareholders
+- Return on equity of 43% shows it deploys capital efficiently and generates strong returns for owners
+- Share count shrinking through buybacks while paying a dividend; 72% of analysts rate it a buy
 
 ### What to be careful about
-- Balance sheet: Debt is 1.3x shareholder equity
+- Revenue growth slowed to 5% in the latest quarter, down from the 7% three-year average, signaling momentum is fading
+- Debt of $3.3B is 1.3x shareholder equity, which is elevated and limits financial flexibility in downturns
+- Stock is down 13.9% over one year and trades at 21x earnings, a premium valuation if growth continues to slow
 
-**Watch next:** The next quarterly report: whether revenue growth of +5% holds.
+**Watch next:** Monitor whether quarterly revenue growth accelerates back toward 7% or continues decelerating, as that will determine if the valuation is justified.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors seeking stable, profitable tech services exposure who are comfortable with moderate debt levels and can tolerate 30% yearly price swings.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-06-30)
 - Revenue $7.5B (+9% vs prior year)

@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Neutral read · trend: Downtrend
 
-## Strong: balance sheet stands out, price trend holds it back
+## Strong earnings growth masks recent price decline in industrial contractor
 
-EMCOR Group, Inc. scores 66 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: downtrend.
+EMCOR is a large engineering and construction services company with $17.0B in annual revenue. It is growing fast with latest quarter revenue up 29% year over year, while keeping 7% of sales as profit and holding $774.8M in net cash with no debt.
 
 ### What is working
-- Balance sheet: Net cash of $774.8M
-- Shareholder returns: Share count shrinking (buybacks)
-- Growth: Revenue +15% a year over 3 years
+- Revenue grew 29% in the latest quarter and 15% per year over three years
+- Earnings per share rose 31% year over year while profit margin stays solid at 7%
+- Strong balance sheet with $774.8M net cash, zero debt, and 30% return on equity
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
+- Stock price fell 17% in the past month and sits 32% below its 52-week high
+- Price trend is below its 200-day average with yearly volatility at 43%
+- Stock has been flat over the past year despite strong earnings growth
 
-**Watch next:** The next quarterly report: whether revenue growth of +29% holds.
+**Watch next:** Whether the 29% latest quarter revenue growth can continue or if the company is hitting a slowdown after its sharp recent price drop.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Long-term investors who own industrial and construction stocks and can tolerate near-term price swings in exchange for exposure to expanding revenue and strong free cash flow generation.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $17.0B (+17% vs prior year)

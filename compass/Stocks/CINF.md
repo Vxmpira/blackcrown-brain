@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: valuation stands out
+## Insurance firm with strong price momentum trades cheaply despite recent earnings slowdown
 
-Cincinnati Financial scores 70 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Cincinnati Financial is a property and casualty insurance company generating $12.6B in annual revenue. It keeps 19% of revenue as profit and trades at 11x earnings. The latest quarter showed a revenue drop of 18% versus last year, which stands out against longer-term growth trends.
 
 ### What is working
-- Valuation: Trades at 11x earnings
-- Price trend: Price is above its 200-day average
-- Shareholder returns: Share count shrinking (buybacks)
+- Stock price up 13.5% over the past year and sits 86% of the way up its 52-week range, showing sustained uptrend
+- Valuation at 11x earnings is in the bottom 10% of market (100/100 score), with free cash flow yield of 10.8%
+- Return on equity of 15% and net profit margin of 19% show the business converts revenue into earnings efficiently
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Latest quarter revenue fell 18% year over year, a sharp reversal from the 24% average annual growth over three years
+- Analyst consensus is Hold, not Buy; only 50% of 16 analysts rate it a buy despite the low valuation
+- Yearly volatility of 21% means the stock swings meaningfully; it is already down 3% from its recent 52-week high
 
-**Watch next:** The next quarterly report: whether revenue growth of -18% holds.
+**Watch next:** Whether the latest quarter's 18% revenue decline signals a temporary slowdown or a shift in insurance demand that will persist into 2026.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Long-term investors comfortable owning stable cash-generating businesses that trade cheaply but may experience lumpy quarterly results from insurance underwriting cycles.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $12.6B (+11% vs prior year)

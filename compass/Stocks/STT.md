@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Pullback in uptrend
 
-## Strong: shareholder returns stands out
+## State Street shows strong momentum but trades near 52-week highs after 45% year rally
 
-State Street Corporation scores 72 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: pullback in uptrend.
+State Street is a financial services company that manages and services assets for institutional clients. The company generated $13.9B in revenue in 2025 and keeps 21 cents of profit for every dollar earned. Recent quarterly revenue jumped 13% year over year, showing acceleration in its core business.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Valuation: Trades at 14x earnings
-- Price trend: Price is above its 200-day average
+- Stock up 45% over the past year and trading 72% of the way up its 52-week range, with 50-day average above 200-day average
+- Latest quarter revenue grew 13% year over year, significantly faster than the 5% average annual growth over three years
+- Company returned $10.8B in free cash flow last year, yielding 23.3% on current market value, while reducing share count by 21.9% over three years and paying 3.9% dividend
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Stock is 12% below its 52-week high of $194.26 after recent pullback; yearly volatility runs 25%
+- Return on equity of 10% trails many competitors; profitability score of 61 suggests room for margin expansion
+- Debt of $11.8B against cash of $4.8B leaves net debt of $7B; company must service this while competing in a cyclical industry
 
-**Watch next:** The next quarterly report: whether revenue growth of +13% holds.
+**Watch next:** Monitor whether latest quarterly revenue growth of 13% is sustainable or normalizes back toward the three-year average of 5%, since this acceleration drove much of recent performance.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Investors seeking exposure to asset management and financial services with stable cash generation, dividend income, and share buybacks, who can tolerate 25% annual price swings.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $13.9B (+7% vs prior year)

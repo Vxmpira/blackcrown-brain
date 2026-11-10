@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: shareholder returns stands out, growth holds it back
+## Large health insurer with strong price momentum but slowing earnings growth
 
-Elevance Health scores 66 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Elevance Health is a major healthcare insurance company with $199.1B in annual revenue. The stock has rallied 32% over the past year and sits near its 52-week high. Recent earnings growth has stalled even as the company generates steady cash and returns capital to shareholders.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
-- Balance sheet: Debt is 0.7x shareholder equity
+- Stock price up 32% over the past year and trading 85% of the way up its 52-week range
+- Company generates $3.2B in free cash flow and is shrinking share count by 7.5% over 3 years through buybacks
+- 68% of 28 analysts rate it a buy, and dividend yield of 1.2% provides income
 
 ### What to be careful about
-- Growth: Revenue +8% a year over 3 years
+- Earnings per share declined 2% year over year despite revenue growth, signaling profit pressure
+- Latest quarter revenue grew only 1% compared to a year ago, showing momentum fading
+- Profit margin is thin at 3%, leaving little room for unexpected cost increases
 
-**Watch next:** The next quarterly report: whether revenue growth of +1% holds.
+**Watch next:** Whether next quarter's revenue growth accelerates from 1% or continues to decelerate, which would indicate whether the slowdown is temporary or structural.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors seeking stable cash-generating healthcare exposure who can tolerate near-term volatility and are comfortable with already-elevated valuations relative to earnings growth.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $199.1B (+12% vs prior year)

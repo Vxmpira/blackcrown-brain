@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Uptrend
 
-## Strong: profitability stands out, balance sheet holds it back
+## Profitable biotech with strong growth trades at a steep price multiple
 
-Incyte scores 66 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: uptrend.
+Incyte is a biotechnology company generating $5.1 billion in annual revenue with a 25% net profit margin and positive free cash flow of $1.4 billion. The company has grown revenue 15% per year over three years and trades at 61 times earnings, reflecting high market expectations.
 
 ### What is working
-- Profitability: Keeps 25% of revenue as profit
-- Price trend: Price is above its 200-day average
-- Growth: Revenue +15% a year over 3 years
+- Revenue accelerating: +21% year over year in latest full year, with +14% growth in most recent quarter
+- Highly profitable: keeps 25% of every revenue dollar as profit and generates $1.4B in free cash flow annually
+- Stock momentum: up 76% of its 52-week range and above its 200-day price average, with +14% return over past year
 
 ### What to be careful about
-- Balance sheet: Debt is 3.4x shareholder equity
-- Valuation: Free cash flow yield 5.9%
+- Expensive valuation: trades at 61x earnings and only yields 5.8% in free cash flow relative to market value
+- Heavy debt load: carries $19.1B in debt versus $3.3B in cash, with debt at 3.4x shareholder equity
+- Limited analyst bullishness: only 54% of 35 analysts rate it a buy despite consensus Buy rating
 
-**Watch next:** The next quarterly report: whether revenue growth of +14% holds.
+**Watch next:** Monitor whether revenue growth can sustain above 14% per year while the company manages its debt burden alongside continued share buybacks.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors comfortable with high-growth biotech companies that generate profit today but trade on future earnings potential, and willing to tolerate significant debt on the balance sheet.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $5.1B (+21% vs prior year)

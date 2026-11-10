@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Pullback in uptrend
 
-## Strong: balance sheet stands out
+## Strong growth and cash generation offset expensive valuation and analyst caution
 
-Workday, Inc. scores 70 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: pullback in uptrend.
+Workday is a mid-sized software company growing revenue 13% annually with $2.8B in free cash flow. It trades at 36.5x earnings and carries $3.0B in debt against $661M in cash. The stock has risen 60% in six months but fallen 16% over the past year.
 
 ### What is working
-- Balance sheet: Debt is 0.5x shareholder equity
-- Price trend: Price is above its 200-day average
-- Growth: Revenue +15% a year over 3 years
+- Revenue growing 13% year over year with three-year average of 15% growth
+- Free cash flow margin of 29% shows strong cash conversion from sales
+- Balance sheet has only 0.5x debt to equity, indicating room for financial flexibility
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Trades at 37x earnings, well above typical software multiples, limiting margin for error
+- Share count up 5.2% over three years dilutes ownership of existing shareholders
+- Analysts consensus is Hold with only 51% rating it a buy despite 49 analysts covering
 
-**Watch next:** The next quarterly report: whether revenue growth of +13% holds.
+**Watch next:** Whether revenue growth can sustain at 13%+ while the company expands margins from their current 7-8% net profit level.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Long-term investors who believe in the company's growth and can tolerate high valuations and 54% annual stock volatility.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-01-31)
 - Revenue $9.6B (+13% vs prior year)

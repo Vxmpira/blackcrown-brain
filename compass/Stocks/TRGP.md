@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Pullback in uptrend
 
-## Strong: shareholder returns stands out, balance sheet holds it back
+## Strong pipeline operator with high leverage but solid cash generation and analyst backing
 
-Targa Resources scores 65 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: pullback in uptrend.
+Targa Resources moves oil and gas through pipelines and processing facilities. The company just posted 35% revenue growth in the latest quarter and generates $1.9B in annual profit, though it carries $19.8B in debt against $2.1B in shareholder equity.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
-- Profitability: Keeps 11% of revenue as profit
+- Price momentum: Up 63% in one year and trading 76% of the way up its 52-week range
+- Latest growth: Latest quarter revenue jumped 35% year over year, and earnings per share rose 48%
+- Cash returns: Shrinking share count by 6% over three years, plus 2.3% dividend yield from free cash flow
 
 ### What to be careful about
-- Balance sheet: Debt is 5.2x shareholder equity
-- Valuation: Free cash flow yield 1.0%
+- Heavy debt load: Debt is 5.2x shareholder equity, meaning debt far outweighs owner stake
+- Expensive valuation: Trading at 26x earnings with only a 1.0% free cash flow yield
+- Long-term revenue decline: Revenue down 7% annually over the last three years before the recent quarter surge
 
-**Watch next:** The next quarterly report: whether revenue growth of +35% holds.
+**Watch next:** Whether the 35% quarterly revenue growth is a new trend or a one-time spike, since three-year revenue has been falling.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable with capital-intensive infrastructure companies that use debt financing and prioritize steady distributions over growth.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $17.0B (+4% vs prior year)

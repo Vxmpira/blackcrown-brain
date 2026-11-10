@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Turning up
 
-## Strong: balance sheet stands out, growth holds it back
+## Steady waste hauler trades premium for profits and buybacks
 
-Waste Management scores 65 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: turning up.
+Waste Management is a large industrials company that collects and processes waste. It grew revenue 14% last year and keeps 11% of sales as profit. The stock has climbed 16% over the past year and sits near its 52-week high.
 
 ### What is working
-- Balance sheet: Net cash of $247.0M
-- Shareholder returns: Share count shrinking (buybacks)
-- Profitability: Keeps 11% of revenue as profit
+- Strong profitability: 11% net margin and 27% return on equity show efficient operations
+- Consistent cash generation: $2.8B free cash flow funds 1.7% dividend and share buybacks
+- Analyst backing: 71% of 38 analysts rate it a buy with consensus Buy rating
 
 ### What to be careful about
-- Growth: Revenue +9% a year over 3 years
-- Valuation: Free cash flow yield 3.0%
+- Expensive valuation: Trades at 30x earnings, limiting upside from price alone
+- Earnings declined: EPS down 2% year over year despite revenue growth of 6%
+- Low cash yield: Free cash flow yield of 3.0% offers modest returns for the price paid
 
-**Watch next:** The next quarterly report: whether revenue growth of +6% holds.
+**Watch next:** Watch whether earnings per share can return to growth while revenue keeps expanding at 6% or higher.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Suits long-term investors seeking steady cash flow and dividend income from a mature, profitable business rather than rapid growth.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $25.2B (+14% vs prior year)

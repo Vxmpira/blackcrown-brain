@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Uptrend
 
-## Strong: valuation stands out
+## PayPal trades cheap with strong profits but growth has stalled
 
-PayPal scores 74 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: uptrend.
+PayPal is a financial services company that processes payments and extends credit. It generated $33.2B in revenue last year with a net profit margin of 16%. Revenue growth has slowed to just 2% in the latest quarter, down from a 6% annual pace over three years.
 
 ### What is working
-- Valuation: Trades at 11x earnings
-- Shareholder returns: Share count shrinking (buybacks)
-- Profitability: Keeps 16% of revenue as profit
+- Valuation is low at 10.64x earnings and offers an 11.1% free cash flow yield
+- Profitability is solid with 16% net margin and 27% return on equity
+- Stock has gained 29.3% in the past 6 months and sits in an uptrend above its 200-day average
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Growth is decelerating: latest quarter revenue up only 2% versus 6% annual growth over three years
+- Analysts are skeptical with only 27% rating it a buy and consensus at Hold despite 52 analysts covering it
+- Stock fell 11.3% over the past year and is down 13% from its 52-week high of $67.40
 
-**Watch next:** The next quarterly report: whether revenue growth of +2% holds.
+**Watch next:** Whether revenue growth accelerates above 2% in coming quarters, since the valuation discount assumes the company can reignite expansion.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable with mature, slow-growth businesses that generate steady cash and return capital through buybacks.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $33.2B (+4% vs prior year)

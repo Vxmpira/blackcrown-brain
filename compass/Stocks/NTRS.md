@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Uptrend
 
-## Strong: shareholder returns stands out, growth holds it back
+## Profitable bank riding steady uptrend, but earnings just fell year-over-year
 
-Northern Trust scores 68 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: uptrend.
+Northern Trust is a financial services company managing assets for institutions and wealthy clients. It generated $5.0 billion in revenue last year and kept 35% as profit, while the stock price has climbed 36% over the past year and now sits near its 52-week high.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
-- Valuation: Trades at 19x earnings
+- Stock price 79% of the way up its 52-week range; up 36% over the past year
+- Strong profitability: 35% net margin and 13% return on equity
+- Returning cash to shareholders: dividends yield 3.9% and share buybacks reduced count 8% over 3 years
 
 ### What to be careful about
-- Growth: Revenue +4% a year over 3 years
+- Earnings per share fell 11% year over year despite revenue rising 8%
+- Growth is modest: revenue up only 4% per year over 3 years
+- Analyst consensus is Hold; only 36% of 22 analysts rate it a buy
 
-**Watch next:** The next quarterly report: whether revenue growth of +8% holds.
+**Watch next:** Whether earnings per share can recover in coming quarters, since profit margins stayed strong but EPS still declined.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors seeking a profitable, dividend-paying financial services company who can accept modest revenue growth and analyst skepticism in exchange for solid current returns and a stock in an uptrend.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $5.0B (+6% vs prior year)

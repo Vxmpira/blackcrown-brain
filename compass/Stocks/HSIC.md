@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Uptrend
 
-## Strong: shareholder returns stands out, growth holds it back
+## Medical distributor with steady growth, strong balance sheet, and rising stock price
 
-Henry Schein scores 66 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: uptrend.
+Henry Schein distributes medical and dental supplies to healthcare providers. Revenue grew 4% last year to $13.2B, though long-term growth averages only 1% annually. The company generates $573M in free cash flow and maintains a lean balance sheet with debt at just 0.3x equity.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Balance sheet: Debt is 0.3x shareholder equity
-- Price trend: Price is above its 200-day average
+- Stock up 23% over the past year and trading 88% of the way through its 52-week range
+- Free cash flow yield of 5.9% suggests the business converts revenue to cash efficiently
+- Share count fell 11.6% over three years through buybacks, concentrating ownership
 
 ### What to be careful about
-- Growth: Revenue +1% a year over 3 years
+- Revenue growth averaged only 1% annually over three years, despite 4% in the latest year
+- Net profit margin of 3% is thin; the company keeps only $3 of every $100 in revenue
+- Trading at 23x earnings is elevated relative to modest growth and thin margins
 
-**Watch next:** The next quarterly report: whether revenue growth of +4% holds.
+**Watch next:** Whether quarterly revenue growth can sustain above 4% or reverts toward the slower 1% three-year trend.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors seeking a stable, cash-generating distributor in healthcare who accept low profit margins and modest growth in exchange for a strong balance sheet and buyback activity.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-27)
 - Revenue $13.2B (+4% vs prior year)

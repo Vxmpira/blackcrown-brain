@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: shareholder returns stands out, valuation holds it back
+## Agilent near 52-week high with strong margins but expensive valuation
 
-Agilent Technologies scores 69 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Agilent is a healthcare diagnostics and research company generating $6.9B in annual revenue with 19% profit margins and solid free cash flow. The stock has climbed 21% over the past year and sits near its highest point in 52 weeks, supported by positive analyst sentiment.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
-- Balance sheet: Debt is 0.5x shareholder equity
+- Profitability is strong: 19% net margin and 21% operating margin show the business converts sales into profit efficiently
+- Price momentum is solid: stock is up 21% over one year and 57.8% over six months, trading 95% of the way up its 52-week range
+- Balance sheet is healthy: debt is only 0.5x shareholder equity, providing financial flexibility for the company
 
 ### What to be careful about
-- Valuation: Free cash flow yield 2.3%
-- Growth: Revenue +0% a year over 3 years
+- Valuation is stretched: P/E of 34.22 means you pay $34 for every $1 of annual earnings, well above historical norms
+- Growth has stalled: revenue flat over three years despite an 8% bump in the latest quarter, raising durability questions
+- Stock is near peak: trading 2% below its 52-week high with 32% yearly volatility, leaving limited room for upside before a pullback
 
-**Watch next:** The next quarterly report: whether revenue growth of +8% holds.
+**Watch next:** Monitor whether the latest quarter's 8% revenue growth sustains or reverts to the flat trend of the past three years.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors seeking a mature, profitable healthcare business with steady cash generation who accept premium valuations for quality and analyst backing.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-10-31)
 - Revenue $6.9B (+7% vs prior year)

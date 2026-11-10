@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Losing steam
 
-## Strong: balance sheet stands out, valuation holds it back
+## Semiconductor leader posting strong growth and profits, but valuation and recent price drop raise questions
 
-Marvell Technology, Inc. scores 64 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: losing steam.
+Marvell Technology is a semiconductor company generating $8.2 billion in annual revenue with a 33% net profit margin and positive free cash flow of $1.4 billion. The company has grown revenue 11% per year over three years, with the latest quarter up 37% year over year. It carries a clean balance sheet relative to shareholder equity.
 
 ### What is working
-- Balance sheet: Debt is 0.3x shareholder equity
-- Profitability: Keeps 33% of revenue as profit
-- Growth: Revenue +11% a year over 3 years
+- Revenue grew 42% last year and 37% in the latest quarter, well above the three-year average of 11% annually
+- Converts 33% of revenue to net profit and generates $1.4 billion in free cash flow annually, showing operational efficiency
+- Analyst consensus is strong: 91% of 53 analysts rate it a buy, and the overall rating is Buy
 
 ### What to be careful about
-- Valuation: Free cash flow yield 1.0%
+- Stock has lost 41.3% in the last month and sits 51% below its 52-week high of $316.43, showing recent sharp decline
+- Trades at 51x earnings with only a 1.0% free cash flow yield, leaving little margin for error on growth expectations
+- Price is 34% below its 200-day average and volatility is 84%, indicating significant price swings and uncertainty
 
-**Watch next:** The next quarterly report: whether revenue growth of +37% holds.
+**Watch next:** Whether the 37% quarterly revenue growth can sustain or whether recent price weakness signals slowing demand ahead.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Long-term investors comfortable with high valuations and volatility who believe in semiconductor demand and can tolerate sharp drawdowns.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-01-31)
 - Revenue $8.2B (+42% vs prior year)

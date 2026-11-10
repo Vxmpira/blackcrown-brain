@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Uptrend
 
-## Strong: shareholder returns stands out, growth holds it back
+## Fox trades cheap with steady cash generation, but earnings just fell 22%
 
-Fox Corporation (Class A) scores 67 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: uptrend.
+Fox Corporation is a communication and entertainment company with $17.1 billion in annual revenue. It generates solid free cash flow and pays a dividend while shrinking share count. Recent quarter revenue jumped 22% year over year, but full-year earnings dropped sharply.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Valuation: Free cash flow yield 5.5%
-- Balance sheet: Debt is 0.5x shareholder equity
+- Valuation is low: trades at 13x earnings with a 5.5% free cash flow yield, compared to many peers
+- Latest quarter revenue surged 22% year over year, showing recent business momentum
+- Shareholder returns active: share count down 17.3% over 3 years via buybacks, plus 1.7% dividend yield
 
 ### What to be careful about
-- Growth: Revenue +5% a year over 3 years
+- Earnings per share fell 22% year over year despite revenue growth, signaling margin pressure or one-time costs
+- Three-year revenue growth is only 5% per year, showing limited organic expansion
+- Debt stands at $6.6 billion against $4.5 billion in cash, leaving limited financial flexibility
 
-**Watch next:** The next quarterly report: whether revenue growth of +22% holds.
+**Watch next:** Whether earnings per share recovers next fiscal year or if the 22% decline reflects a lasting shift in profitability.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable with mature, cash-generative media companies and willing to wait for earnings to stabilize.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-06-30)
 - Revenue $17.1B (+5% vs prior year)

@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Uptrend
 
-## Strong: shareholder returns stands out
+## JPMorgan Chase trades cheap while profits stay strong, but earnings growth has stalled
 
-JPMorgan Chase scores 72 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: uptrend.
+JPMorgan Chase is a diversified financial services company with 182.4B in annual revenue. It keeps 31% of revenue as profit and returns cash to shareholders through buybacks and a 2.7% dividend. However, earnings per share grew only 1% year over year despite solid revenue growth.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Valuation: Trades at 14x earnings
-- Price trend: Price is above its 200-day average
+- Valuation is attractive at 14x earnings while peers typically trade higher
+- Price sits 73% of the way up its 52-week range, with momentum above the 200-day average
+- Return on equity stands at 15%, showing efficient use of shareholder capital
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Earnings per share growth of only 1% lags revenue growth of 8% in the latest quarter
+- Free cash flow is negative 147.8B, which typically signals cash is being absorbed rather than generated
+- Analysts are split: only 58% rate it a buy while consensus remains Hold
 
-**Watch next:** The next quarterly report: whether revenue growth of +8% holds.
+**Watch next:** Track whether earnings per share growth accelerates in coming quarters, since revenue is growing but profit per share is not.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable with financial stocks and seeking dividend income plus modest price appreciation over years rather than rapid earnings expansion.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $182.4B (+3% vs prior year)

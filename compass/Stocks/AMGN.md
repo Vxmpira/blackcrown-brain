@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: price trend stands out, balance sheet holds it back
+## Profitable drug maker riding strong momentum, but expensive and heavily leveraged
 
-Amgen scores 69 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Amgen is a large pharmaceutical company generating $36.8 billion in annual revenue with solid growth of 8-12% depending on the measure. It converts over one-fifth of revenue into profit and produces substantial free cash flow, but carries $54 billion in debt against $13.2 billion in cash.
 
 ### What is working
-- Price trend: Price is above its 200-day average
-- Profitability: Keeps 21% of revenue as profit
-- Shareholder returns: Share count flat
+- Price momentum is strong: up 45% over the past year and sitting 91% of the way through its 52-week range
+- Profitability is exceptional: 21% net margin, 25% operating margin, and 54% return on equity shows efficient capital use
+- Cash generation is reliable: $8.1 billion in free cash flow funds both the 3.2% dividend and growth
 
 ### What to be careful about
-- Balance sheet: Debt is 3.8x shareholder equity
+- Valuation is stretched: trades at 27x earnings with a 3.2% free cash flow yield, leaving little margin for disappointment
+- Debt load is substantial: $54 billion owed against only $13.2 billion in cash means 3.8x debt-to-equity ratio
+- Analyst consensus is lukewarm: only 43% of 42 analysts rate it a buy, with the consensus at Hold
 
-**Watch next:** The next quarterly report: whether revenue growth of +8% holds.
+**Watch next:** Whether revenue growth can sustain above 8% annually while the company reduces its debt burden from current levels.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors seeking steady dividend income and proven profitability who are comfortable with near-peak valuations and higher balance sheet leverage.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $36.8B (+10% vs prior year)

@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: shareholder returns stands out, valuation holds it back
+## Strong uptrend masks slowing growth and premium valuation
 
-W. W. Grainger scores 66 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+W. W. Grainger is an industrial distributor with $17.9B in annual revenue. The stock has climbed 52% over the past year and trades near its 52-week high. Earnings per share fell 9% year over year despite revenue growth, signaling profit pressure.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
-- Balance sheet: Debt is 0.6x shareholder equity
+- Price momentum is strong: up 52% over 12 months and sitting 93% of the way up its 52-week range
+- Profitability is solid with 10% net margin and 39% return on equity, plus $1.3B in free cash flow
+- Shareholder returns active: share count down 6.1% over 3 years through buybacks
 
 ### What to be careful about
-- Valuation: Free cash flow yield 2.0%
-- Analyst consensus: 24 analysts, consensus Hold, 29% rate it a buy
-- Growth: Revenue +6% a year over 3 years
+- Earnings per share declined 9% year over year despite revenue growth of 11% in the latest quarter
+- Valuation is stretched at 31x earnings with only 2.0% free cash flow yield
+- Long-term revenue growth is modest at 6% annually over 3 years, below typical industrial growth
 
-**Watch next:** The next quarterly report: whether revenue growth of +11% holds.
+**Watch next:** Monitor whether earnings per share can recover in coming quarters or if profit margin pressure continues despite rising sales.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Suits investors comfortable with premium valuations who trust the company's established market position and are willing to hold through slower growth cycles.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $17.9B (+5% vs prior year)

@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: balance sheet stands out, shareholder returns holds it back
+## Strong uptrend and analyst consensus offset pricey valuation and earnings decline
 
-Synopsys scores 62 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Synopsys is a software infrastructure company generating $7.1B in annual revenue with 19% profit margins and strong free cash flow. The stock has climbed 17% over the past year and sits near the top of its 52-week range, though recent quarters show mixed signals: revenue surged 42% latest quarter while earnings per share fell 45% year over year.
 
 ### What is working
-- Balance sheet: Debt is 0.3x shareholder equity
-- Price trend: Price is above its 200-day average
-- Profitability: Keeps 19% of revenue as profit
+- Price sits above both 50-day and 200-day averages; up 17% over the past year
+- Revenue growing 15% annually over three years; latest quarter jumped 42% year over year
+- Generates $1.3B free cash flow with 19% margin; balance sheet clean at 0.3x debt-to-equity
 
 ### What to be careful about
-- Shareholder returns: Share count growing (dilution)
-- Valuation: Free cash flow yield 1.8%
+- Earnings per share dropped 45% year over year despite revenue growth
+- Valuation is steep at 83x earnings; free cash flow yield only 1.5%
+- Share count up 5.9% over three years, diluting existing shareholders; stock down 8.3% in last month
 
-**Watch next:** The next quarterly report: whether revenue growth of +42% holds.
+**Watch next:** Watch whether earnings per share recovers in upcoming quarters or if the profit squeeze persists despite strong revenue growth.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Suits long-term investors comfortable with premium valuations in exchange for analyst consensus and cash generation, but wary of near-term volatility at 45% yearly swings.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-10-31)
 - Revenue $7.1B (+15% vs prior year)

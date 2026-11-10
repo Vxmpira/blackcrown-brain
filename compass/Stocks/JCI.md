@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Pullback in uptrend
 
-## Strong: shareholder returns stands out
+## Industrial giant with strong cash generation, but valuation is stretched at 30x earnings
 
-Johnson Controls scores 69 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: pullback in uptrend.
+Johnson Controls is a $23.6 billion revenue industrial company that makes building and HVAC systems. It is profitable, generating $3.3 billion in net income and $2.1 billion in free cash flow annually. The stock has climbed 17% over the past year and trades near the top of its 52-week range.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Balance sheet: Debt is 0.7x shareholder equity
-- Price trend: Price is above its 200-day average
+- Earnings doubled year over year; latest quarter revenue grew 8% versus a year ago
+- Generates $2.1 billion in free cash flow annually with 9% margin; returns cash via 2.8% dividend and buybacks that reduced share count 6.5% over three years
+- Return on equity stands at 24%, showing management deploys capital efficiently; 63% of 27 analysts rate it a buy
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Stock trades at 30x earnings, well above typical industrial averages; free cash flow yield of only 2.5% suggests limited margin of safety
+- Stock is down 8.2% over the past month and sits 10% below its 52-week high; volatility runs 33% annually
+- Revenue growth of 5% per year over three years is modest; operating margin of only 4% leaves little room for cost pressures
 
-**Watch next:** The next quarterly report: whether revenue growth of +8% holds.
+**Watch next:** Whether the latest quarter's 8% revenue growth can sustain, or if the three-year trend of 5% annual growth resumes as the valuation multiple suggests expectations are high.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable with industrial cyclicality who value steady cash generation over rapid growth, and who can tolerate current valuations that price in optimism.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-09-30)
 - Revenue $23.6B (+3% vs prior year)

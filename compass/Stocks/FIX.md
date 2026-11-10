@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Neutral read · trend: Downtrend
 
-## Strong: profitability stands out, price trend holds it back
+## Profitable industrial company with sharp earnings growth, but price has fallen sharply
 
-Comfort Systems USA, Inc. scores 68 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: downtrend.
+Comfort Systems USA is an industrial services and engineering company with exceptional profitability. Latest quarter revenue jumped 54% year over year, and net income reached $1.0B with a 56% net margin. The stock price has dropped 45% from its high, though it remains up 19% over the past year.
 
 ### What is working
-- Profitability: Keeps 56% of revenue as profit
-- Balance sheet: Net cash of $2.1B
-- Analyst consensus: 16 analysts, consensus Strong buy, 88% rate it a buy
+- Net margin of 56% and free cash flow margin of 56% show strong cost control and cash generation
+- Latest quarter revenue +54% year over year signals recent business momentum
+- Return on equity of 31% and net cash position of $2.1B indicate efficient capital deployment
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
+- Stock is down 30.8% in the last month and 43.8% over six months, showing recent volatility
+- Annual volatility of 62% means large price swings are common
+- Full year revenue fell 74%, suggesting the latest quarter jump may reverse or be incomplete
 
-**Watch next:** The next quarterly report: whether revenue growth of +54% holds.
+**Watch next:** Whether the 54% latest quarter revenue growth translates into sustained full-year growth or reverts to the three-year decline trend of negative 24% annually.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Long-term investors comfortable with high price volatility and focused on strong profitability and cash generation over near-term price stability.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $1.8B (-74% vs prior year)

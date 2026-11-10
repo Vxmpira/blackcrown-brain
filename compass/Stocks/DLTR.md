@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: shareholder returns stands out, growth holds it back
+## Dollar Tree stock up 29% in a year; solid cash flow but growth slowing
 
-Dollar Tree scores 68 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Dollar Tree is a discount retailer with $19.4B in annual revenue. The company is profitable, generates real free cash flow, and has been buying back shares. Recent momentum is strong but analyst consensus leans cautious.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
-- Valuation: Free cash flow yield 4.1%
+- Price momentum: up 29% over the past year and sits 83% of the way up its 52-week range
+- Cash generation: $1.1B in free cash flow with a 4.1% free cash flow yield; also shrinking share count by 7.9% over 3 years
+- Profitability metrics solid: 37% return on equity and 7% net profit margin; operating margin at 9%
 
 ### What to be careful about
-- Growth: Revenue +8% a year over 3 years
-- Analyst consensus: 36 analysts, consensus Hold, 44% rate it a buy
+- Growth is modest: revenue up only 8% a year over 3 years; latest quarter up just 7% year over year
+- Analyst skepticism: only 44% of 36 analysts rate it a buy; consensus is Hold not Buy
+- Valuation not cheap: trades at 16x earnings; stock is 7% below its 52-week high after a big run
 
-**Watch next:** The next quarterly report: whether revenue growth of +7% holds.
+**Watch next:** Watch whether quarterly revenue growth accelerates above 7% or continues to slow, that will signal if the recent price momentum can hold.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Suits long-term investors who want a stable, profitable company with consistent cash flow and don't need rapid growth or high dividends.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-01-31)
 - Revenue $19.4B (+10% vs prior year)

@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: price trend stands out
+## Profitable exchange operator with strong momentum, but valuation limits upside
 
-CME Group scores 69 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+CME Group runs financial exchanges and clearinghouses where traders buy and sell futures, options, and other contracts. The company keeps 62 cents of every revenue dollar as profit and generated $4.2 billion in free cash flow last year. It trades at 25 times earnings, near the higher end of historical ranges.
 
 ### What is working
-- Price trend: Price is above its 200-day average
-- Profitability: Keeps 62% of revenue as profit
-- Shareholder returns: Share count flat
+- Latest quarter revenue jumped 13% year over year, well ahead of the 3-year average of 9% annual growth
+- Profit margin of 62% shows the business model is highly efficient at converting sales into earnings
+- Stock price is up 11% over the past year and sits 81% of the way up its 52-week range, reflecting steady uptrend
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Valuation at 25x earnings leaves less room for error if growth slows or sentiment shifts
+- Analyst consensus is Hold, not Buy, with only 59% of 22 analysts rating it a buy
+- Free cash flow yield of 3.9% is modest, offering limited cushion if the company faces headwinds
 
-**Watch next:** The next quarterly report: whether revenue growth of +13% holds.
+**Watch next:** Whether latest quarter's 13% revenue growth rate can sustain, or if it reverts toward the slower 9% average pace.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Long-term investors comfortable with mature, profitable businesses trading at premium valuations and seeking steady dividend income rather than rapid capital gains.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $6.5B (+6% vs prior year)

@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Uptrend
 
-## Strong: shareholder returns stands out, growth holds it back
+## Railroad operator with strong margins and buybacks, but revenue trends shifting
 
-CSX Corporation scores 66 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: uptrend.
+CSX is a major rail freight company generating $14.1B in annual revenue. It keeps 20% of revenue as profit and returns cash to shareholders through buybacks and a 1.4% dividend. The stock has risen 43% in the past year and sits near its 52-week high.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
-- Profitability: Keeps 20% of revenue as profit
+- Operating margin of 32% shows the core business runs efficiently
+- Free cash flow of $1.7B supports dividends and buybacks that have shrunk share count by 12.5% over 3 years
+- Return on equity of 20% means management deploys shareholder capital effectively
 
 ### What to be careful about
-- Growth: Revenue -2% a year over 3 years
-- Valuation: Free cash flow yield 1.9%
+- Full-year revenue fell 3% to $14.1B despite latest quarter up 12%, signaling an inconsistent trend
+- Earnings per share declined 14% year over year even as latest quarter revenue grew
+- Stock trades at 26x earnings and yields just 1.9% free cash flow, leaving limited margin for disappointment
 
-**Watch next:** The next quarterly report: whether revenue growth of +12% holds.
+**Watch next:** Whether full-year 2026 revenue growth sustains the 12% quarterly pace or reverts to the three-year declining trend.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable with cyclical industrial exposure who value steady cash generation and shareholder returns over near-term earnings growth.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $14.1B (-3% vs prior year)

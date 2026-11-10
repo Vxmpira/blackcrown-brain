@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Uptrend
 
-## Strong: shareholder returns stands out, growth holds it back
+## FOX trades cheap with stable cash flow, but earnings fell while revenue grew
 
-Fox Corporation (Class B) scores 67 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: uptrend.
+Fox Corporation is a media and entertainment company generating $17.1 billion in annual revenue. It profits at a 10% rate and produces steady free cash flow of $1.5 billion per year. The stock trades at 13 times earnings with a 5.5% free cash flow yield.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Valuation: Free cash flow yield 5.5%
-- Balance sheet: Debt is 0.5x shareholder equity
+- Latest quarter revenue jumped 22% year over year, showing recent momentum in the business
+- Valuation is attractive: P/E of 13.28 and free cash flow yield of 5.5% are both in bargain range
+- Share count has shrunk 17.3% over three years through buybacks, concentrating ownership for remaining shareholders
 
 ### What to be careful about
-- Growth: Revenue +5% a year over 3 years
+- Earnings per share fell 22% year over year despite revenue growth, signaling profit pressure
+- Stock is flat over the past year (up 0.1%), and current price is 12% below its 52-week high of 67.76
+- Debt of 6.6 billion sits at 0.5x shareholder equity, leaving less room for financial flexibility in downturns
 
-**Watch next:** The next quarterly report: whether revenue growth of +22% holds.
+**Watch next:** Watch whether the 22% quarterly revenue growth can sustain without further earnings declines in the next two quarters.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Suits long-term investors seeking stable cash generation from a cheap media stock, with tolerance for near-term earnings volatility and 35% price swings.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-06-30)
 - Revenue $17.1B (+5% vs prior year)

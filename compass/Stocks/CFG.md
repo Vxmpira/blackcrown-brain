@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Losing steam
 
-## Strong: valuation stands out
+## Regional bank with cheap valuation and high dividend, but growth is slowing
 
-Citizens Financial Group scores 65 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: losing steam.
+Citizens Financial is a regional bank generating $1.6B in annual revenue with a net margin of 112%. It trades at 12x earnings with a 6.2% dividend yield and strong analyst support from 25 firms.
 
 ### What is working
-- Valuation: Trades at 12x earnings
-- Shareholder returns: Share count shrinking (buybacks)
-- Analyst consensus: 25 analysts, consensus Buy, 84% rate it a buy
+- Valuation is extremely cheap at 12x earnings with a free cash flow yield of 8.1%, well below historical bank averages
+- Shareholder returns are aggressive: dividend yield of 6.2% plus share buybacks that have cut the share count by 8.6% over three years
+- Earnings per share jumped 27% year over year, showing strong profitability improvement despite modest revenue growth
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Revenue growth is decelerating fast: up 8% annually over three years but only 2% in the latest quarter
+- Price is 13% below its 52-week high and sits below its 200-day moving average, suggesting recent momentum has faded
+- Return on equity is just 7%, indicating the bank generates only $0.07 in profit for every dollar of shareholder equity invested
 
-**Watch next:** The next quarterly report: whether revenue growth of +2% holds.
+**Watch next:** Whether the latest quarter's 2% revenue growth continues to slow or stabilizes, since deposit and lending trends will drive the bank's ability to maintain earnings momentum.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Income-focused investors seeking steady dividends with valuation upside, rather than growth seekers betting on expansion.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $1.6B (+7% vs prior year)

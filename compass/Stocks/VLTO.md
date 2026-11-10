@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: price trend stands out
+## Profitable industrial pollution control company near 52-week high with slowing growth
 
-Veralto scores 70 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Veralto is an industrial company that makes pollution and treatment control equipment. It generates strong profits and cash flow, keeps 17% of revenue as net income, and has returned 29% on shareholder equity. The company is trading near its highest price of the year after a 19% gain over 12 months.
 
 ### What is working
-- Price trend: Price is above its 200-day average
-- Profitability: Keeps 17% of revenue as profit
-- Shareholder returns: Share count growing (dilution)
+- Profitability is robust: 17% net margin and 18% free cash flow margin show disciplined operations
+- Strong cash generation of $1.0B in free cash flow supports dividends and reduces debt
+- Price momentum is solid: up 19% in one month and 36% over six months, sitting 99% of the way up its 52-week range
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Revenue growth is modest at +4% per year over three years, suggesting a mature business with limited expansion
+- Valuation is stretched at 28x earnings and 3.6% free cash flow yield, offering limited margin of safety
+- Share count is growing by 1.6% over three years, diluting existing shareholders; dividend yield is very low at 0.4%
 
-**Watch next:** The next quarterly report: whether revenue growth of +7% holds.
+**Watch next:** Monitor whether revenue growth can accelerate from the 4% three-year trend, since the high valuation relies on the company maintaining strong profitability as its main source of returns.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Suits long-term investors who value stable, predictable cash flows from a profitable business over high growth, and who are comfortable entering near all-time highs.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $5.5B (+6% vs prior year)

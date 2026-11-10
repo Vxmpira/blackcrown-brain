@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: shareholder returns stands out
+## Medical device giant with strong momentum, but profitability questions loom
 
-Medtronic scores 65 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Medtronic is a large healthcare equipment manufacturer with $36.4B in annual revenue. The company is growing faster recently (latest quarter up 14% year over year) and returning cash to shareholders through dividends and buybacks. However, net profit sits at nearly zero despite an 18% operating margin, raising questions about what is happening below the operating line.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
-- Balance sheet: Debt is 0.6x shareholder equity
+- Price is 87% of the way up its 52-week range, with the 50-day average above the 200-day average, showing upward momentum
+- Latest quarter revenue jumped 14% year over year, accelerating from the 5% annual growth rate over the prior three years
+- Shareholder returns are strong: 3.5% dividend yield plus share count shrinking 3.4% over three years from buybacks
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Net income is $4.8K on $36.4B revenue (0% net margin), meaning almost no profit reaches the bottom line despite 18% operating margin
+- Stock trades at 25x earnings, higher than many industrial peers, leaving less room for valuation expansion
+- Debt stands at $28.1B versus $1.7B cash, or 0.6x shareholder equity, which is moderate but worth monitoring if cash generation weakens
 
-**Watch next:** The next quarterly report: whether revenue growth of +14% holds.
+**Watch next:** The gap between 18% operating margin and 0% net margin needs explanation: watch whether future quarters show net income recovering or if this signals structural headwinds below operating profit.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Long-term investors who are comfortable with companies in transition and want steady dividend income can explore this, but those seeking clear earnings growth may want visibility into why profits are vanishing.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-04-24)
 - Revenue $36.4B (+8% vs prior year)

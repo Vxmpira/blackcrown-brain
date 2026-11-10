@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Losing steam
 
-## Strong: balance sheet stands out, valuation holds it back
+## Fast-growing software company trading at premium price after steep recent decline
 
-ServiceNow scores 62 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: losing steam.
+ServiceNow is a cloud software company that helps businesses manage workflows and operations. Revenue is growing 21% year over year, and the company is profitable with strong free cash flow of $4.6B. However, the stock price has fallen 42% from its high and trades at 74 times earnings, which is expensive by historical standards.
 
 ### What is working
-- Balance sheet: Debt is 0.4x shareholder equity
-- Growth: Revenue +22% a year over 3 years
-- Profitability: Keeps 13% of revenue as profit
+- Revenue growing 21% year over year, with 22% annual growth over the past 3 years
+- Generated $4.6B in free cash flow last year, with 34% free cash flow margin
+- Balance sheet is strong with debt at only 0.4x shareholder equity; 90% of 52 analysts rate it a buy
 
 ### What to be careful about
-- Valuation: Free cash flow yield 4.3%
-- Price trend: Price is below its 200-day average
+- Stock down 42% from its 52-week high of $173.50 and fell 28.2% in just the last month
+- Trades at 74x earnings, meaning you pay $74 for every $1 of annual profit the company makes
+- Share count has grown 414.3% over 3 years, diluting ownership for existing shareholders
 
-**Watch next:** The next quarterly report: whether revenue growth of +21% holds.
+**Watch next:** Whether the stock can stabilize above its 200-day average of around $126 or if the recent sharp declines signal deeper concerns about growth sustainability.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Investors comfortable holding volatile growth stocks during downturns and willing to own expensive valuations if they believe in long-term revenue expansion and cash generation.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $13.3B (+21% vs prior year)

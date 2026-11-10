@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: balance sheet stands out, growth holds it back
+## Home furnishings retailer with strong cash flow trades at premium valuation
 
-Williams-Sonoma scores 72 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Williams-Sonoma is a specialty retailer of home goods and furnishings generating $7.8B in annual revenue. The company is profitable, converts 14% of sales to free cash flow, and has zero debt with $1.0B in net cash on hand.
 
 ### What is working
-- Balance sheet: Net cash of $1.0B
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
+- Price is up 31% over the past year and sits 87% of the way up its 52-week range, showing sustained uptrend
+- Profitability is strong: 14% net margin, 18% operating margin, and 51% return on equity indicate efficient operations
+- Free cash flow of $1.1B with zero debt and $1.0B net cash provides flexibility for buybacks and dividends
 
 ### What to be careful about
-- Growth: Revenue -3% a year over 3 years
+- Three-year revenue trend is negative at minus 3% annually, though latest quarter showed plus 7% growth
+- Stock trades at 25x earnings, which is a premium valuation with free cash flow yield of only 3.5%
+- Analyst consensus is Hold with only 50% rating it a buy, showing no strong agreement on direction
 
-**Watch next:** The next quarterly report: whether revenue growth of +7% holds.
+**Watch next:** Watch whether the latest quarter's 7% revenue growth becomes a sustained trend or reverts to the three-year decline pattern.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Suits investors comfortable with consumer discretionary cyclical exposure who value current profitability and cash generation over rapid growth.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-02-01)
 - Revenue $7.8B (+1% vs prior year)

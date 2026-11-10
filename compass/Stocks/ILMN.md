@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Pullback in uptrend
 
-## Strong: balance sheet stands out, growth holds it back
+## Profitable diagnostics leader posts strong cash flow but faces valuation and near-term price pressure
 
-Illumina, Inc. scores 68 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: pullback in uptrend.
+Illumina is a healthcare diagnostics company that generated $4.3B in revenue and $850M in net income last year. It converts over 20% of revenue into profit and produces substantial free cash flow, but its stock has fallen 21% in the past month after a sharp year-long rally.
 
 ### What is working
-- Balance sheet: Net cash of $616.0M
-- Price trend: Price is above its 200-day average
-- Profitability: Keeps 20% of revenue as profit
+- Profitability is exceptional: 20% net margin, 21% free cash flow margin, and 27% return on equity show the business converts sales into cash efficiently
+- Strong balance sheet with $616.0M in net cash and no solvency pressure, plus $931.0M in annual free cash flow generation
+- Price momentum remains positive on longer timeframes: up 79% over one year and trading 58% of the way up its 52-week range despite recent pullback
 
 ### What to be careful about
-- Growth: Revenue -2% a year over 3 years
-- Valuation: Free cash flow yield 2.7%
+- Valuation is stretched at 36.87x earnings and 2.8% free cash flow yield, meaning investors pay a premium relative to cash the business generates
+- Revenue growth is weak: down 1% year over year at the company level and down 2% annually over three years, though latest quarter showed 4% growth
+- Recent volatility is significant with 49% yearly swings and a 21% one-month drop, indicating this stock can move sharply against long-term holders
 
-**Watch next:** The next quarterly report: whether revenue growth of +4% holds.
+**Watch next:** Whether the latest quarter's 4% revenue growth can accelerate in coming quarters, as this would validate the valuation and reverse the multi-year revenue decline trend.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Long-term investors who tolerate stock price swings and are comfortable owning profitable, cash-generative healthcare businesses even at premium valuations.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-28)
 - Revenue $4.3B (-1% vs prior year)

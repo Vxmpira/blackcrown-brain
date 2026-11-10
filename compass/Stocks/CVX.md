@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Pullback in uptrend
 
-## Strong: balance sheet stands out, growth holds it back
+## Energy giant with strong cash returns but slowing revenue growth
 
-Chevron Corporation scores 69 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: pullback in uptrend.
+Chevron is a large integrated oil and gas company generating $184.4 billion in annual revenue. It is currently profitable with $12.3 billion in net income and produces significant free cash flow of $16.6 billion per year. The stock has risen 35% over the past year and sits near its 52-week high.
 
 ### What is working
-- Balance sheet: Debt is 0.2x shareholder equity
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
+- Stock price up 35% over the past year and trading 71% of the way up its 52-week range
+- Strong shareholder returns: 4.2% dividend yield and share count shrinking 4.3% over 3 years via buybacks
+- Fortress balance sheet with debt at only 0.2x shareholder equity and $13.9 billion in cash
 
 ### What to be careful about
-- Growth: Revenue -8% a year over 3 years
+- Revenue declined 8% per year over the past 3 years, though latest quarter showed +35% jump year over year
+- Earnings per share fell 32% year over year despite higher quarterly revenue
+- Low profitability margins: keeps only 7% of revenue as profit and 6% return on equity
 
-**Watch next:** The next quarterly report: whether revenue growth of +35% holds.
+**Watch next:** Whether the 35% jump in latest quarter revenue signals a sustainable turnaround or a one-time commodity price spike, given the three-year revenue decline trend.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Long-term investors comfortable with cyclical commodity exposure who value steady dividend income and capital returns over rapid growth.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $184.4B (-5% vs prior year)

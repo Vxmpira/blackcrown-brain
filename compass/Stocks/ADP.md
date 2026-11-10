@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: profitability stands out, analyst consensus holds it back
+## Profitable payroll giant near 52-week highs with modest growth and high valuation
 
-Automatic Data Processing scores 70 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+ADP processes payroll and HR services for businesses worldwide. The company generates strong profits (20% net margin) and substantial free cash flow ($5.4B yearly), but revenue grows slowly at 6-7% annually. Analysts are mixed, with most recommending Hold rather than Buy.
 
 ### What is working
-- Profitability: Keeps 20% of revenue as profit
-- Price trend: Price is above its 200-day average
-- Shareholder returns: Share count shrinking (buybacks)
+- Exceptional profitability: keeps 20% of $21.9B revenue as profit; return on equity hits 87%
+- Reliable cash generation: free cash flow margin of 25% funds dividends (2.4% yield) and buybacks (-3% share count in 3 years)
+- Strong price momentum: up 17% in 1 year and 39% in 6 months; sits 91% through its 52-week range
 
 ### What to be careful about
-- Analyst consensus: 23 analysts, consensus Hold, 30% rate it a buy
+- Sluggish growth: revenue only +6% in latest quarter and +7% annually over 3 years; modest earnings growth +10% year over year
+- Expensive valuation: trades at 26x earnings with just 4.6% free cash flow yield; stock is -3% from 52-week high, leaving little room for error
+- Analyst skepticism: only 30% of 23 analysts rate it a buy; consensus is Hold, suggesting limited upside seen by professionals
 
-**Watch next:** The next quarterly report: whether revenue growth of +6% holds.
+**Watch next:** Whether the 6-7% revenue growth rate can accelerate, since the high valuation assumes the company can sustain or improve earnings expansion.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Investors seeking steady dividend income and cash generation from a market-leading business, willing to accept slower growth and pay a premium multiple for stability and predictability.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-06-30)
 - Revenue $21.9B (+7% vs prior year)

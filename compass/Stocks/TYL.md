@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: balance sheet stands out, valuation holds it back
+## Profitable software firm with strong analyst backing, but expensive valuation
 
-Tyler Technologies scores 66 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Tyler Technologies is a software company that generated $2.3 billion in revenue last year, growing 9% annually. It keeps 14% of revenue as profit and produces substantial free cash flow of $637.5 million. The stock has risen sharply in recent months but trades at a premium multiple.
 
 ### What is working
-- Balance sheet: Debt is 0.5x shareholder equity
-- Price trend: Price is above its 200-day average
-- Profitability: Keeps 14% of revenue as profit
+- Revenue growing 9% last year and averaging 8% annually over three years
+- Free cash flow margin of 27% shows strong cash generation relative to sales
+- 28 analysts cover the stock with 82% rating it a buy; consensus is Buy
 
 ### What to be careful about
-- Valuation: Free cash flow yield 3.5%
+- Stock trades at 49x earnings, nearly 50 times what the company earned per share
+- Free cash flow yield is only 3.9%, indicating investors pay a high price for each dollar of cash generated
+- Share count has grown 3.3% over three years, diluting existing shareholders
 
-**Watch next:** The next quarterly report: whether revenue growth of +9% holds.
+**Watch next:** Monitor whether the company can sustain 9% revenue growth while maintaining its 27% free cash flow margin, since the valuation assumes this performance continues.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable holding quality software businesses at premium prices and willing to accept modest cash returns in exchange for growth potential.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $2.3B (+9% vs prior year)

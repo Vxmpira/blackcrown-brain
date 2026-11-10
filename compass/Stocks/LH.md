@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: shareholder returns stands out
+## LabCorp rides strong momentum with steady diagnostics revenue and shareholder returns
 
-LabCorp scores 69 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+LabCorp is a healthcare diagnostics company generating $14.0B in annual revenue with 7% year-over-year growth. The stock has climbed 44% over the past year and sits near its 52-week high, backed by 27 analyst buy ratings.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
-- Balance sheet: Debt is 0.7x shareholder equity
+- Price momentum strong: +44% over 1 year, trading 94% of the way up its 52-week range
+- Generating real cash: $1.2B free cash flow annually with 9% margin, funding dividends and buybacks
+- Analyst consensus solid: 78% of 27 analysts rate it a buy; consensus recommendation is Buy
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Valuation is stretched: trades at 30x earnings, well above typical diagnostic peers; free cash yield only 4.0%
+- Profitability is modest: 6% net margin and 10% return on equity suggest limited pricing power or cost control
+- Growth is slowing: revenue up only 6% annually over 3 years, despite recent 7% quarterly uptick
 
-**Watch next:** The next quarterly report: whether revenue growth of +7% holds.
+**Watch next:** Whether revenue growth can sustain above 6-7% annually, since current valuation at 30x earnings depends on maintaining momentum in a mature diagnostics market.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable with mature, cash-generative healthcare businesses at premium valuations who value steady dividends (1.4% yield) and buybacks over explosive growth.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $14.0B (+7% vs prior year)

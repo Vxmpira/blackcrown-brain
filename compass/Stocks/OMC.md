@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Uptrend
 
-## Strong: price trend stands out
+## Ad agency with strong cash flow and rising stock price, but profitability is flat
 
-Omnicom Group scores 64 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: uptrend.
+Omnicom is a large advertising and communications company with $17.3B in annual revenue. Latest quarter revenue jumped 59% year over year. The stock has climbed 17% over the past year and sits near its 52-week high.
 
 ### What is working
-- Price trend: Price is above its 200-day average
-- Shareholder returns: Share count shrinking (buybacks)
-- Growth: Revenue +7% a year over 3 years
+- Free cash flow of $2.8B and margin of 16% show the business converts sales into usable cash
+- Stock price up 17% in the past year and 92% of the way up its 52-week range signals upward momentum
+- Revenue grew 10% year over year with latest quarter at $6.4B, suggesting recent acceleration
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Net income is -$54.5M with -0% net margin, meaning the company is not turning revenue into profit
+- Debt of $10.2B is equal to shareholder equity of $10.2B, limiting financial flexibility
+- Return on equity is -1%, showing capital is not generating returns for shareholders
 
-**Watch next:** The next quarterly report: whether revenue growth of +59% holds.
+**Watch next:** Watch whether the company can move from negative net income to positive profit while maintaining its revenue growth rate.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors seeking a cash-generative business in a mature industry who can tolerate near-term lack of net profit and are drawn to the 3.5% dividend yield.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $17.3B (+10% vs prior year)

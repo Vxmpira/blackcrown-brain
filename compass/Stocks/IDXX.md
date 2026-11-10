@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Turning up
 
-## Strong: balance sheet stands out, valuation holds it back
+## Profitable diagnostics company trades expensively but shows strong cash generation
 
-Idexx Laboratories scores 70 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: turning up.
+Idexx Laboratories is a healthcare diagnostics company generating $4.3 billion in annual revenue. It keeps 25% of revenue as profit and converts that into $1.1 billion in free cash flow yearly. The stock has climbed 30.8% in the past month but trades at 45.7 times earnings.
 
 ### What is working
-- Balance sheet: Debt is 0.2x shareholder equity
-- Profitability: Keeps 25% of revenue as profit
-- Shareholder returns: Share count shrinking (buybacks)
+- Profitability is exceptional: 25% net margin and 32% operating margin mean the company turns revenue into cash efficiently
+- Free cash flow remains strong at $1.1 billion annually, with a 25% free cash flow margin providing resources for dividends or buybacks
+- Earnings per share grew 23% year over year while revenue grew 10%, showing margin expansion and operational leverage
 
 ### What to be careful about
-- Valuation: Free cash flow yield 1.9%
+- Valuation is stretched: at 45.7x earnings and 2.0% free cash flow yield, the stock prices in significant future growth
+- Stock volatility is 36% annually, meaning sharp moves in either direction are common
+- Price has fallen 3% over the past year despite strong fundamentals, suggesting the market has repriced expectations downward at times
 
-**Watch next:** The next quarterly report: whether revenue growth of +10% holds.
+**Watch next:** Whether the recent 30.8% one-month rally and 28.4% six-month gain sustain, or if the stock retreats toward its 200-day average like the 50-day average has done.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors who believe in the company's ability to grow earnings faster than its valuation multiple compresses, and who tolerate significant annual price swings for stable, growing cash generation.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $4.3B (+10% vs prior year)

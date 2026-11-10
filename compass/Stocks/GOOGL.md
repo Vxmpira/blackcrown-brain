@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Neutral read · trend: Downtrend
 
-## Strong: balance sheet stands out, price trend holds it back
+## Tech giant with strong earnings growth but stock down 28% from peak
 
-Alphabet Inc. (Class A) scores 69 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: downtrend.
+Alphabet is a large internet and advertising company generating $402.8B in annual revenue. It keeps 33% of revenue as profit and produces $73.3B in free cash flow yearly. The stock price has fallen significantly in recent months even as business fundamentals remain strong.
 
 ### What is working
-- Balance sheet: Debt is 0.2x shareholder equity
-- Shareholder returns: Share count shrinking (buybacks)
-- Profitability: Keeps 33% of revenue as profit
+- Revenue grew 25% in the latest quarter and 16% annually over three years
+- Converts 33% of revenue to net profit and generates $73.3B in free cash flow
+- Return on equity is 20%, meaning it earns strong returns on shareholder capital
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
+- Stock is down 25.1% over the past 6 months and sits 28% below its 52-week high
+- Price trades 13% of the way up its 52-week range, showing weakness relative to recent history
+- Stock volatility is 34% annually, meaning price swings are large
 
-**Watch next:** The next quarterly report: whether revenue growth of +25% holds.
+**Watch next:** Whether the stock price stabilizes near current levels or continues declining despite strong quarterly revenue growth of 25%.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Investors comfortable holding through price swings who want exposure to a profitable company with consistent revenue growth and minimal debt.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $402.8B (+15% vs prior year)

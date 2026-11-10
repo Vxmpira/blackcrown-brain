@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Neutral read · trend: Downtrend
 
-## Strong: balance sheet stands out, price trend holds it back
+## Fast-growing industrial company riding strong demand but expensive after recent selloff
 
-Vertiv Holdings Co scores 64 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: downtrend.
+Vertiv makes electrical equipment and infrastructure systems. Revenue jumped 61% in the latest quarter and the company is profitable with positive free cash flow. The stock price has dropped 48% from its high this year, though it remains well above levels from five years ago.
 
 ### What is working
-- Balance sheet: Net cash of $584.4M
-- Growth: Revenue +22% a year over 3 years
-- Profitability: Keeps 13% of revenue as profit
+- Revenue grew 61% in the latest quarter and 22% annually over three years, showing sustained demand growth
+- Generates $1.9B in free cash flow with 19% margins and keeps 13% of revenue as profit
+- Holds $584.4M in net cash (more cash than debt), reducing financial risk
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Valuation: Free cash flow yield 2.5%
+- Stock trades at 37x earnings, which is expensive relative to the 2.4% free cash flow yield it offers
+- Price is down 46.5% in the past six months and sits 48% below its 52-week high, showing steep recent losses
+- Yearly volatility runs at 71%, meaning price swings are large; share count has grown 3.3% over three years, diluting existing shareholders
 
-**Watch next:** The next quarterly report: whether revenue growth of +61% holds.
+**Watch next:** Track whether the latest quarter's 61% revenue surge continues or slows, since forward growth assumptions are baked into the high valuation.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Long-term investors comfortable owning fast-growing industrial companies that are expensive now but backed by strong cash generation and analyst consensus.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $10.2B (+28% vs prior year)

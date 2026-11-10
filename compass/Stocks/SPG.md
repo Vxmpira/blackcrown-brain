@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Uptrend
 
-## Strong: profitability stands out, balance sheet holds it back
+## Strong profits and high yields mask heavy debt burden in retail REIT
 
-Simon Property Group scores 72 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: uptrend.
+Simon Property Group is a retail real estate company that owns and operates shopping centers. It generates substantial cash and profits, with an 84% net margin and 6.3% dividend yield. However, it carries $28.4B in debt against $75B in market value.
 
 ### What is working
-- Profitability: Keeps 84% of revenue as profit
-- Price trend: Price is above its 200-day average
-- Shareholder returns: Share count flat
+- Profitability is exceptional: 84% net margin and $3.2B free cash flow in 2025
+- Stock price has momentum: +26% over the past year and sits 91% up its 52-week range
+- Latest quarter revenue jumped 13% year over year, accelerating from the 3-year trend of 6% annual growth
 
 ### What to be careful about
-- Balance sheet: Debt is 7.0x shareholder equity
+- Debt load is severe: $28.4B in debt is 7.0x shareholder equity, the lowest score on the profile
+- Analyst consensus is cautious: only 36% of 25 analysts rate it a buy; consensus is Hold
+- Valuation leaves little margin: trades at 17x earnings with 4.3% free cash flow yield
 
-**Watch next:** The next quarterly report: whether revenue growth of +13% holds.
+**Watch next:** Whether the company can sustain the 13% revenue growth from the latest quarter or if it will revert to the slower 6% historical trend.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors seeking high current income from dividends who are comfortable with leverage and retail real estate risk, and who view the debt as manageable given strong cash generation.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $6.4B (+7% vs prior year)

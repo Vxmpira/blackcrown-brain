@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Uptrend
 
-## Strong: profitability stands out
+## Profitable payroll giant with strong cash flow, but growth is slowing and debt is rising
 
-Paychex scores 70 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: uptrend.
+Paychex is a large payroll and HR services company generating $6.3 billion in annual revenue. It converts nearly 28% of sales into profit and produces substantial free cash flow. The stock has climbed 21% in six months and trades near the top of its yearly range.
 
 ### What is working
-- Profitability: Keeps 28% of revenue as profit
-- Shareholder returns: Share count shrinking (buybacks)
-- Valuation: Free cash flow yield 5.7%
+- Profitability is exceptional: 28% net margin and 37% free cash flow margin show the business turns revenue into cash efficiently
+- Returns cash to shareholders through buybacks and a 3.0% dividend while generating $2.3B in annual free cash flow
+- Price is above its 200-day moving average and sits 67% of the way up its 52-week range, showing near-term upward momentum
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Growth is decelerating: revenue rose 16% last year but only 6% in the latest quarter, and earnings per share grew just 7%
+- Debt load of $4.6B is 1.2 times shareholder equity, leaving less margin if operations weaken or rates stay high
+- Analysts are split: only 31% rate it a buy; consensus is Hold. The stock is down just 1% over a full year despite recent gains
 
-**Watch next:** The next quarterly report: whether revenue growth of +6% holds.
+**Watch next:** Monitor whether quarterly revenue growth accelerates back toward the 9% three-year average or continues to slow, as this would signal whether the company's core growth is intact.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors seeking a large, profitable, cash-generating business with modest income from dividends, who can tolerate moderate debt and accept that growth may be modest rather than rapid.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-05-31)
 - Revenue $6.3B (+16% vs prior year)

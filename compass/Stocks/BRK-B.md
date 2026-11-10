@@ -14,22 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: shareholder returns stands out, analyst consensus holds it back
+## Massive cash machine near 52-week high, but analysts say sell
 
-Berkshire Hathaway scores 66 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Berkshire Hathaway is a $1.2 trillion diversified insurance and investment company that generated $67 billion in profit last year. Revenue declined 1% annually but the latest quarter jumped 17% year over year. The stock has climbed 16% in the past year and sits near all-time highs.
 
 ### What is working
-- Price trend: Price is above its 200-day average
-- Valuation: Trades at 14x earnings
+- Stock sits 99% of the way up its 52-week range with a 16% gain over the past year
+- Generated $25 billion in free cash flow and holds $41.7 billion in cash on the balance sheet
+- Keeps 27% of revenue as profit, showing strong earnings power; trades at 14x earnings
 
 ### What to be careful about
-- Analyst consensus: 10 analysts, consensus Sell, 10% rate it a buy
+- Annual revenue fell 1% versus the prior year despite quarterly growth
+- Return on equity is 9%, which is modest for a financial services company
+- All 10 analysts covering the stock have a consensus Sell rating, with only 10% rating it a buy
 
-**Watch next:** The next quarterly report: whether revenue growth of +17% holds.
+**Watch next:** Whether the latest quarter's 17% revenue surge represents a sustained turnaround or a temporary spike after the prior year's annual decline.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors seeking exposure to diversified financial and insurance operations who are comfortable holding a massive, mature company despite widespread analyst skepticism.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $247.2B (-1% vs prior year)

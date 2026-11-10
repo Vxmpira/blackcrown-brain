@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Uptrend
 
-## Strong: shareholder returns stands out, valuation holds it back
+## Rail equipment maker on uptrend with strong cash but pricey valuation
 
-Wabtec scores 68 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: uptrend.
+Wabtec manufactures rail and transit equipment, generating $11.2B in annual revenue with 10% net profit margins. The company produces $1.5B in free cash flow yearly and carries moderate debt at 0.6x equity.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
-- Balance sheet: Debt is 0.6x shareholder equity
+- Price momentum: stock up 45% over one year and sits 94% of the way up its 52-week range
+- Cash generation: $1.5B free cash flow annually with 13% free cash flow margin
+- Analyst backing: 72% of 18 analysts rate it a buy with consensus rating at Buy
 
 ### What to be careful about
-- Valuation: Free cash flow yield 2.9%
+- Valuation stretched: trades at 35x earnings with only 3.1% free cash flow yield
+- Growth moderating: revenue growth slowed to 8% year over year from 10% annual average
+- High debt load: $6.4B outstanding debt despite low leverage ratio, reduces financial flexibility
 
-**Watch next:** The next quarterly report: whether revenue growth of +8% holds.
+**Watch next:** Whether the slowdown in revenue growth from the 3-year trend of 10% annually to 8% latest year continues or reverses.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors comfortable with industrial cyclicals who want steady cash flow and modest dividends but can tolerate a premium valuation and 27% annual price swings.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $11.2B (+8% vs prior year)

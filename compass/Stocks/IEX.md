@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Uptrend
 
-## Strong: balance sheet stands out, growth holds it back
+## Strong uptrend and solid cash generation, but valuation is stretched at 32x earnings
 
-IDEX Corporation scores 66 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: uptrend.
+IEX is an industrial machinery company with $3.5B in annual revenue and a 14% profit margin. The stock has climbed 40% over the past year and sits near its 52-week high, while the company generates steady free cash flow of $616.8M annually.
 
 ### What is working
-- Balance sheet: Debt is 0.4x shareholder equity
-- Price trend: Price is above its 200-day average
-- Shareholder returns: Share count shrinking (buybacks)
+- Price momentum is strong: up 40% in one year and trading 94% of the way up its 52-week range
+- Profitability is solid with 14% net margin and 20% operating margin, plus free cash flow of $616.8M
+- Balance sheet is clean with debt at only 0.4x equity, and the company is buying back shares
 
 ### What to be careful about
-- Growth: Revenue +3% a year over 3 years
-- Valuation: Free cash flow yield 3.5%
+- Valuation looks expensive at 32x earnings, which limits room for multiple expansion
+- Revenue growth is modest at 3% annually over three years, though latest quarter showed 8% growth
+- Earnings per share declined 3% year over year despite revenue growth, signaling margin pressure
 
-**Watch next:** The next quarterly report: whether revenue growth of +8% holds.
+**Watch next:** Monitor whether the 8% latest quarter revenue growth can sustain, or if growth reverts to the slower 3% annual trend.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors comfortable holding established industrial companies that trade at premium valuations for steady cash generation and modest buyback support.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $3.5B (+6% vs prior year)

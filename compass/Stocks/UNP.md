@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Uptrend
 
-## Strong: profitability stands out, balance sheet holds it back
+## Profitable railroad with strong cash generation sits near 52-week highs
 
-Union Pacific Corporation scores 70 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: uptrend.
+Union Pacific is a major railroad operator generating $24.5B in annual revenue with exceptional profitability. The company converts 29% of revenue to net profit and produces $5.5B in free cash flow yearly. It has climbed 34% over the past year and trades at 23 times earnings.
 
 ### What is working
-- Profitability: Keeps 29% of revenue as profit
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
+- Profitability is exceptional: 29% net margin, 40% operating margin, and 32% return on equity
+- Strong cash generation: $5.5B free cash flow annually supports 2.3% dividend and share buybacks reducing share count by 4.5% over three years
+- Price momentum is positive: up 34% in one year, sits 85% of the way through its 52-week range, and 50-day average is above 200-day
 
 ### What to be careful about
-- Balance sheet: Debt is 1.4x shareholder equity
-- Growth: Revenue -0% a year over 3 years
+- Valuation is not cheap: 23x earnings is above average for industrials; free cash flow yield of 3.1% is modest
+- Revenue growth is sluggish: flat over three years though latest quarter showed 15% gain; earnings per share only up 8% yearly
+- Balance sheet leverage is notable: debt of $31.8B is 1.4 times shareholder equity, limiting financial flexibility
 
-**Watch next:** The next quarterly report: whether revenue growth of +15% holds.
+**Watch next:** Whether the latest quarter's 15% revenue jump represents a real trend reversal or a one-time event, since three-year revenue growth has been flat.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors seeking stable cash generation and dividends from a profitable, established business that can tolerate higher leverage and modest growth rates.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $24.5B (+1% vs prior year)

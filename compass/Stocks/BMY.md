@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Pullback in uptrend
 
-## Strong: shareholder returns stands out, balance sheet holds it back
+## Profitable drug maker with strong cash generation, but saddled with heavy debt
 
-Bristol Myers Squibb scores 70 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: pullback in uptrend.
+Bristol Myers Squibb is a large pharmaceutical company generating $48.2B in annual revenue with a 15% profit margin. The stock has climbed 32% over the past year and trades below its 52-week high. Analysts are split between hold and buy ratings.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Valuation: Free cash flow yield 10.1%
-- Profitability: Keeps 15% of revenue as profit
+- Profitability is exceptional: 15% net margin, 27% free cash flow margin, and 30% return on equity
+- Valuation appears reasonable: trades at 14x earnings with a 10.1% free cash flow yield
+- Shareholder returns are active: 4.6% dividend yield plus share count shrinking 5% over three years
 
 ### What to be careful about
-- Balance sheet: Debt is 1.8x shareholder equity
+- Debt load is heavy: $42.6B owed versus $126.7B market value, representing 1.8x shareholder equity
+- Revenue growth is stalled: flat year-over-year and only 1% annually over three years
+- Analyst consensus is cautious: only 41% rate it a buy, with consensus at Hold despite strong profitability
 
-**Watch next:** The next quarterly report: whether revenue growth of +7% holds.
+**Watch next:** Whether the company can reignite revenue growth beyond the recent 7% quarterly bump while managing its substantial debt load.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Long-term investors seeking steady cash flow and dividends from an established healthcare company, comfortable with moderate leverage and slower growth.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $48.2B (-0% vs prior year)

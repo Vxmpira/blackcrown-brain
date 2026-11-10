@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: price trend stands out, growth holds it back
+## Strong price run-up masks slow revenue growth and thin margins
 
-Stanley Black & Decker scores 66 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Stanley Black & Decker is a large industrial tools and accessories maker with $15.1B in annual revenue. The stock has surged 68% over the past year and sits near its 52-week high, but the underlying business has shrunk 4% annually over three years.
 
 ### What is working
-- Price trend: Price is above its 200-day average
-- Shareholder returns: Share count shrinking (buybacks)
-- Balance sheet: Debt is 0.5x shareholder equity
+- Stock price is 94% of the way up its 52-week range, up 68% over one year, showing strong momentum
+- Free cash flow is solid at $687.9M with a 4.0% yield; company is buying back shares and paying a 3.5% dividend
+- Earnings per share jumped 36% year over year, and debt is conservative at 0.5x shareholder equity
 
 ### What to be careful about
-- Growth: Revenue -4% a year over 3 years
-- Profitability: Keeps 3% of revenue as profit
+- Revenue has fallen 4% annually over three years and declined 1% in the latest quarter, signaling weak demand
+- Net profit margin is only 3% and return on equity is just 5%, both thin for a manufacturer of this size
+- Analysts are split: only 38% rate it a buy, consensus is Hold, and valuation at 20x earnings is not cheap for a shrinking business
 
-**Watch next:** The next quarterly report: whether revenue growth of -1% holds.
+**Watch next:** Whether the latest quarter's 1% revenue decline continues or stabilizes, since top-line growth has been the biggest concern.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors comfortable with a mature, slower-growth company that returns cash to shareholders through dividends and buybacks but offers limited upside from business expansion.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-01-03)
 - Revenue $15.1B (-2% vs prior year)

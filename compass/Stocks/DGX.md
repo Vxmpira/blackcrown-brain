@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: price trend stands out
+## Diagnostics leader riding strong momentum with steady cash generation
 
-Quest Diagnostics scores 70 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Quest Diagnostics is a healthcare company that performs medical tests and research services. It generates $11.0B in annual revenue with a 9% profit margin and produces $1.4B in free cash flow yearly. The stock has climbed 42% over the past year and sits near its 52-week high.
 
 ### What is working
-- Price trend: Price is above its 200-day average
-- Shareholder returns: Share count shrinking (buybacks)
-- Balance sheet: Debt is 0.7x shareholder equity
+- Price momentum is strong: up 42% over one year and 95% of the way up its 52-week range.
+- Latest quarterly revenue grew 10% year over year, accelerating above the 3-year trend of 4% annual growth.
+- Company returns cash to shareholders through buybacks (share count down 4.2% over 3 years) and a 2.1% dividend yield.
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Valuation is elevated at 25x earnings, which is above typical market averages for mature healthcare companies.
+- Long-term growth has been modest: revenue grew only 4% annually over three years despite recent acceleration.
+- Debt load of $5.5B is nearly 7x the annual free cash flow, limiting financial flexibility for major investments.
 
-**Watch next:** The next quarterly report: whether revenue growth of +10% holds.
+**Watch next:** Whether the latest 10% quarterly revenue growth sustains or reverts to the slower 4% historical trend will signal if the company is entering a new growth phase.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Investors seeking a stable healthcare business with consistent cash generation and returning capital, who can tolerate near-peak valuations and modest long-term growth rates.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $11.0B (+12% vs prior year)

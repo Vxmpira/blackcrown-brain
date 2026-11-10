@@ -14,22 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Turning up
 
-## Strong: valuation stands out
+## Regional bank showing modest growth with attractive income yield and cheap valuation
 
-PNC Financial Services scores 66 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: turning up.
+PNC is a regional bank with $23.1B in annual revenue. Latest quarter revenue jumped 11% year over year, though three-year growth has been slower at 3% annually. The company generated $4.4B in free cash flow last year.
 
 ### What is working
-- Valuation: Trades at 12x earnings
-- Shareholder returns: Share count shrinking (buybacks)
+- Valuation is cheap at 11.62x earnings, scoring 100 on the compass scale
+- Shareholder returns are strong: 4.8% dividend yield plus share count down 3.9% over three years from buybacks
+- Latest quarter revenue surged 11% year over year, well above the three-year trend
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Stock is volatile at 22% yearly swings and currently down 10% from its 52-week high
+- Three-year revenue growth is only 3% annually, suggesting slow underlying expansion
+- Profitability keeps only 29% of revenue as profit, a modest margin for a financial services firm
 
-**Watch next:** The next quarterly report: whether revenue growth of +11% holds.
+**Watch next:** Whether the 11% quarterly revenue growth can sustain or if the company reverts to its slower 3% annual trend.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Long-term investors seeking steady income from dividends and buybacks in a stable financial services company, comfortable with regional bank exposure and moderate price swings.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $23.1B (+7% vs prior year)

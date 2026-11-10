@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Pullback in uptrend
 
-## Strong: balance sheet stands out, valuation holds it back
+## Strong growth and cash generation offset stretched valuation and recent sharp pullback
 
-Everpure, Inc. scores 71 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: pullback in uptrend.
+Everpure is a technology hardware company growing revenue at 38% in its latest quarter while generating $615.7M in free cash flow. The company carries no debt and maintains $385.7M in net cash, but trades at 138x earnings after a 34.6% one-month decline from its 52-week high.
 
 ### What is working
-- Balance sheet: Net cash of $385.7M
-- Growth: Revenue +10% a year over 3 years
-- Price trend: Price is above its 200-day average
+- Latest quarter revenue jumped 38% year over year, well above the 3-year average of 10% annual growth
+- Generates $615.7M in free cash flow with a 17% margin, proving the growth translates to real cash
+- Balance sheet is fortress-like with $385.7M net cash and zero debt, providing flexibility
 
 ### What to be careful about
-- Valuation: Free cash flow yield 1.8%
+- Stock fell 34.6% in the past month and sits 35% below its 52-week high, signaling recent investor doubt
+- Trades at 138x earnings with only a 1.8% free cash flow yield, leaving little margin for error
+- Net margin of 5% is thin; operating margin of only 3% means most revenue goes to cover costs
 
-**Watch next:** The next quarterly report: whether revenue growth of +38% holds.
+**Watch next:** Whether the 38% latest-quarter revenue growth sustains or moderates, since the valuation depends heavily on continued acceleration.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Investors comfortable with high volatility (76% yearly) who believe the company's cash generation justifies a premium price and can weather 30%+ swings.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-02-01)
 - Revenue $3.7B (+16% vs prior year)

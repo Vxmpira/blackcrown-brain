@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Turning up
 
-## Strong: balance sheet stands out, valuation holds it back
+## Self-storage REIT with outsized profits but pricey valuation
 
-Extra Space Storage scores 67 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: turning up.
+Extra Space Storage operates self-storage facilities and generates enormous profit margins relative to revenue. The company is growing revenue steadily while returning cash to shareholders through dividends, though it finances operations with debt.
 
 ### What is working
-- Balance sheet: Debt is 0.0x shareholder equity
-- Profitability: Keeps 752% of revenue as profit
-- Price trend: Price is above its 200-day average
+- Net margin of 752% means the company keeps $7.52 in profit for every $1 of revenue collected
+- Free cash flow of $1.3B covers the dividend and shows real cash available after operations
+- Revenue growing 16% annually over 3 years, with latest quarter up 7% year-over-year
 
 ### What to be careful about
-- Valuation: Free cash flow yield 3.8%
+- Stock trades at 35x earnings, which is expensive relative to its 3.8% free cash flow yield
+- Share count up 49.5% over 3 years means existing shareholders own less of the company
+- Debt of $560.6M remains on the balance sheet despite low leverage ratio
 
-**Watch next:** The next quarterly report: whether revenue growth of +7% holds.
+**Watch next:** Whether revenue growth sustains above 7% or slows further, since the valuation relies heavily on continued expansion.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Long-term investors seeking steady dividend income who can tolerate a premium valuation and accept that share ownership will be diluted over time.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $129.5M (+7% vs prior year)
