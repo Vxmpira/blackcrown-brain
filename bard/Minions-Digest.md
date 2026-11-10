@@ -182,3 +182,9 @@
 - Critic (556, 558, 563) set the direction word budget at about 90 words for three shots, and flagged keyboards and screen grids as glyph risks: screens show abstract light only, with no readable legends or axis values, to keep the No Text Law.
 - Director (541) keeps the crown and raven out of Operator clip frames for brand mark safety, and the Operator watcher concept should use the shadow or reflection idea only if the mark stays unreadable.
 - Director (545, 551) could not restate prior directions verbatim because the text was not in the session; directions must be filed in the vault so desks can restate them exactly rather than reconstruct them from memory, which breaks the critic's match check.
+
+## 2026-11-10 (30 notes condensed)
+- Bard's Operator/Observer watcher and Crown night-shift directions drafted 10-28 went through repeated FRESH rewrites; critic passed only a few and kept flagging stock-video cliche (dark room, drifting dust, dark screens, hand on keyboard), so future watcher briefs need a specific Crown or Korvus hook, not generic mood.
+- Critic ruling 10-28: a raven perch shaped like the crown mark reproduces the brand crown inside footage and gets FIX; keep the raven and crown marks out of the generated footage unless the owner names them.
+- Directors cannot resend prior direction text verbatim when it is absent from their context; the desk should pass the original file path or paste the text rather than get a fresh rewrite labeled as a resend.
+- Standard shot format that cleared critic on 10-28: 9:16, 12 seconds, three shots of four seconds, motion starting in the first second, closing with the No Text Law line.

@@ -143,3 +143,11 @@
 - Education-copy standard that passed gating: a three-sentence chart habit post (session open plus prior day high and low on the 15 minute chart, price reaction as the read, closing "Education only, not financial advice.") cleared every literal check at about 250 characters.
 - Discussion starter that passed: five question-led sentences with a closing education-only line, no trading advice, no internal labels, cleared for filing pending owner green light.
 - Crier drafting rule that failed repeatedly: opener phrasing like "Before you take a trade" or step-by-step routines reads as trading procedure and fails Auditor; use descriptive framing and state the sentence count the spec requires.
+
+## 2026-11-10 (30 notes condensed)
+- Globex overnight window is not a fixed 6:00 pm to 9:30 am ET span: equity index futures run nearly around the clock Sunday evening through Friday afternoon ET with a daily maintenance halt, so fixed-hours session copy fails the gate and needs a dated CME spec source.
+- Auditor gate ruling (11-01 Globex redraft): FAIL on fixed-window framing and unfilled "[capture date]" slot; a dated line with no fixed open or close is the required replacement.
+- Operator annual CTA copy: $79.99 annual, listed first with savings label, bundles LodeStone TradingView access; the not-advice line must stay on every product claim.
+- Outbound Korvus links need the standing UTM tags (live since 2026-10-26); bare korvus.industries mentions fail the gate for attribution.
+- X posts are capped at 280 characters with links counting 23; long-form drafts must be cut before any X filing, and the not-advice line survives the cut.
+- Overnight high and low figures are not instrumented yet; drafts must not invent levels and should file a feed-instrumentation task before publishing those numbers.
