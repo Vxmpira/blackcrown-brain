@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Bearish read · trend: Downtrend, bouncing
 
-## Mixed: balance sheet stands out, price trend holds it back
+## Regulated utility with steady revenue growth but burning cash and heavy debt load
 
-Atmos Energy scores 40 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: downtrend, bouncing.
+Atmos Energy is a natural gas utility company with $4.7 billion in annual revenue. The business keeps 25% of revenue as profit and pays a 2.9% dividend, but it is burning cash and carries $10.2 billion in debt against $521 million in cash.
 
 ### What is working
-- Balance sheet: Debt is 0.7x shareholder equity
+- Revenue grew 13% year over year in the latest fiscal year and earnings per share rose 9%
+- Debt-to-equity ratio of 0.7x is conservative for a regulated utility
+- Operating margin of 33% shows the core business runs efficiently
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Profitability: Keeps 25% of revenue as profit
-- Valuation: Free cash flow yield -5.2%
+- Free cash flow is negative $1.5 billion, meaning the company spends more cash than it earns
+- Price is down 2% over the past year and sits 10% below its 52-week high
+- Share count has grown 16.3% over three years, diluting existing shareholders
 
-**Watch next:** The next quarterly report: whether revenue growth of +5% holds.
+**Watch next:** Monitor whether free cash flow turns positive in coming quarters, since the company is currently burning cash despite strong revenue growth.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Long-term investors comfortable with regulated utilities who prioritize steady dividends over capital appreciation and can tolerate negative free cash flow from a regulated business model.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-09-30)
 - Revenue $4.7B (+13% vs prior year)

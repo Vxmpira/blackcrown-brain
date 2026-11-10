@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Weak** · Bearish read · trend: Downtrend, bouncing
 
-## Weak: no single area stands out, price trend holds it back
+## Utility giant burning cash while stock slides; low valuation but high debt concerns
 
-PG&E Corporation scores 25 of 100 on the Compass, which puts it in the Weak tier. Its long-term price trend is: downtrend, bouncing.
+PG&E is a regulated electric utility with $24.9B in annual revenue and a 11% profit margin. The company is shrinking its free cash flow (negative $3.1B last year) while carrying heavy debt of $62.8B. Stock has fallen 20% over the past year and sits 31% below its 52-week high.
 
 ### What is working
-- No area scores above 60 right now.
+- Trades at 9x earnings, below many peers, offering a low entry point if fundamentals stabilize
+- Operating margin of 19% shows the core business generates solid operational returns before financing costs
+- 52% of analysts rate it a buy, suggesting some see value in the beaten-down price
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Balance sheet: Debt is 1.9x shareholder equity
-- Profitability: Keeps 11% of revenue as profit
+- Free cash flow is negative $3.1B, meaning the company is burning rather than generating cash
+- Debt of $62.8B is 1.9x shareholder equity, creating refinancing and interest rate risk
+- Revenue growth has stalled at 0% in the latest quarter after years of only 5% annual growth
 
-**Watch next:** The next quarterly report: whether revenue growth of +0% holds.
+**Watch next:** Monitor whether free cash flow turns positive in coming quarters, as persistent cash burn would strain the ability to service $62.8B in debt.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors seeking defensive exposure to regulated utilities may find appeal in the low valuation, but those uncomfortable with high leverage and negative cash generation should wait for improvement.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $24.9B (+2% vs prior year)

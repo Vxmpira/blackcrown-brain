@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Neutral read · trend: Turning up
 
-## Weak: shareholder returns stands out, balance sheet holds it back
+## Utility giant with strong dividends but negative cash flow and heavy debt
 
-Southern Company scores 37 of 100 on the Compass, which puts it in the Weak tier. Its long-term price trend is: turning up.
+Southern Company is a large regulated electric utility generating $29.6 billion in annual revenue with a 15% profit margin. It pays a 4.0% dividend but is burning cash and carrying $72.1 billion in debt against $106.9 billion in market value.
 
 ### What is working
-- Shareholder returns: Share count growing (dilution)
-- Price trend: Price is above its 200-day average
+- Revenue jumped 11% year over year to $29.6B, driven by 8% quarterly growth
+- Operating margin sits at a healthy 25%, showing core business efficiency
+- Dividend yield of 4.0% provides regular income to shareholders
 
 ### What to be careful about
-- Balance sheet: Debt is 1.8x shareholder equity
-- Profitability: Keeps 15% of revenue as profit
-- Valuation: Free cash flow yield -2.9%
+- Free cash flow is negative at -$2.9B, meaning the company spent more than it earned
+- Debt of $72.1B is 1.8x shareholder equity, limiting financial flexibility
+- Earnings per share fell 2% year over year despite revenue growth, signaling margin pressure
 
-**Watch next:** The next quarterly report: whether revenue growth of +8% holds.
+**Watch next:** Monitor whether free cash flow turns positive in coming quarters, since the negative $2.9B figure is the biggest red flag in the data.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Investors seeking steady dividend income who can tolerate high leverage and are comfortable with utilities that may not grow earnings quickly.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $29.6B (+11% vs prior year)

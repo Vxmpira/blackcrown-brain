@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Weak** · Bearish read · trend: Downtrend, bouncing
 
-## Weak: shareholder returns stands out, balance sheet holds it back
+## Utility giant with strong profits but negative cash flow and heavy debt load
 
-Edison International scores 32 of 100 on the Compass, which puts it in the Weak tier. Its long-term price trend is: downtrend, bouncing.
+Edison International is a large regulated electric utility with $19.3B in annual revenue and a 23% profit margin. The company paid a 4.5% dividend last year but is currently burning cash and carrying $40.8B in debt against $22.8B in market value.
 
 ### What is working
-- Shareholder returns: Share count growing (dilution)
+- Revenue grew 10% year over year to $19.3B, and the company keeps 23% of each dollar as net profit
+- Return on equity stands at 25%, showing the company generates strong returns on shareholder capital
+- Dividend yield of 4.5% provides regular cash distributions to shareholders
 
 ### What to be careful about
-- Balance sheet: Debt is 2.3x shareholder equity
-- Analyst consensus: 25 analysts, consensus Sell, 8% rate it a buy
-- Price trend: Price is below its 200-day average
+- Free cash flow is negative at -$715.0M, meaning the company is burning cash despite high profits
+- Debt is 2.3x shareholder equity at $40.8B, creating a heavy balance sheet burden
+- Latest quarter revenue fell 15% year over year, and price is down 26% from its 52-week high
 
-**Watch next:** The next quarterly report: whether revenue growth of -15% holds.
+**Watch next:** Whether the company can return to positive free cash flow while managing its $40.8B debt load, since negative cash generation is unsustainable long term.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Patient investors comfortable with high dividend yields and regulated utilities may consider this, though the weak analyst consensus and negative cash flow suggest waiting for stronger fundamentals.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $19.3B (+10% vs prior year)

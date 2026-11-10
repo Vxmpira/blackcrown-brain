@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Weak** · Bearish read · trend: Downtrend
 
-## Weak: balance sheet stands out, growth holds it back
+## Utility giant shows strong balance sheet but revenue falling and cash flow deeply negative
 
-Sempra scores 25 of 100 on the Compass, which puts it in the Weak tier. Its long-term price trend is: downtrend.
+Sempra is a large diversified utility company with $12.4B in annual revenue and a fortress balance sheet (debt at 0.4x equity). However, revenue has declined 3% per year over three years, the latest quarter fell 7% year-over-year, and free cash flow is negative $6.0B, a major red flag for a utility company.
 
 ### What is working
-- Balance sheet: Debt is 0.4x shareholder equity
+- Balance sheet is very strong: debt is only 0.4x shareholder equity, well below typical utility leverage
+- Analysts are mostly bullish: 77% of 26 analysts rate it a buy with consensus Buy rating
+- Dividend yield of 3.2% provides income while you hold the stock
 
 ### What to be careful about
-- Growth: Revenue -3% a year over 3 years
-- Price trend: Price is below its 200-day average
-- Profitability: Keeps 15% of revenue as profit
+- Free cash flow is deeply negative at negative $6.0B; the company is burning cash despite $1.8B in net income
+- Revenue falling: down 3% per year over three years and down 7% in the latest quarter alone
+- Stock down sharply: -16.5% over one year and trading 22% below its 52-week high of $99.75
 
-**Watch next:** The next quarterly report: whether revenue growth of -7% holds.
+**Watch next:** Whether free cash flow turns positive in coming quarters, since the negative $6.0B figure is unsustainable and could force changes to the dividend or require more debt.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Investors seeking dividend income who can tolerate significant near-term uncertainty and can research why a utility's cash generation has inverted so sharply from net income.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $12.4B (+5% vs prior year)

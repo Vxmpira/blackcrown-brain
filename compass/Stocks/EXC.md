@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Weak** · Bearish read · trend: Downtrend, bouncing
 
-## Weak: shareholder returns stands out, price trend holds it back
+## Regulated utility with slowing profits despite revenue growth and heavy debt
 
-Exelon scores 30 of 100 on the Compass, which puts it in the Weak tier. Its long-term price trend is: downtrend, bouncing.
+Exelon is a large electric utility generating $24.3B in annual revenue with 11% profit margins. The company is experiencing revenue growth of 8% over three years but earnings per share declined 13% year over year. It carries significant debt at 1.6x shareholder equity and is currently burning cash.
 
 ### What is working
-- Shareholder returns: Share count growing (dilution)
+- Revenue growing 8% annually over three years and latest quarter up 8% year over year
+- Operating margin of 21% shows core business efficiency in regulated utility operations
+- Dividend yield of 3.7% provides income to shareholders despite other headwinds
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Balance sheet: Debt is 1.6x shareholder equity
-- Profitability: Keeps 11% of revenue as profit
+- Earnings per share fell 13% year over year while revenue grew, signaling margin pressure
+- Free cash flow negative at -$2.3B and cash burning with -9% free cash flow margin
+- Debt level of $47.9B is 1.6x shareholder equity, limiting financial flexibility for a utility
 
-**Watch next:** The next quarterly report: whether revenue growth of +8% holds.
+**Watch next:** Whether free cash flow turns positive next quarter, as the -$2.3B annual burn undermines the dividend and debt service capacity.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Long-term investors seeking utility dividend income should weigh the 3.7% yield against deteriorating cash generation and elevated leverage that constrains future sustainability.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $24.3B (+5% vs prior year)

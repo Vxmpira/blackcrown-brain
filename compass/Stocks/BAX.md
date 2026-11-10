@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Neutral read · trend: Uptrend
 
-## Mixed: price trend stands out, valuation holds it back
+## Baxter rallies 44% in a year despite unprofitable operations and high debt
 
-Baxter International scores 44 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: uptrend.
+Baxter is a $11.2B revenue medical supplies company that is currently unprofitable. It lost $957.0M last year with a -9% net margin. The stock has climbed sharply over the past year, but fundamentals remain weak with negative returns on shareholder equity.
 
 ### What is working
-- Price trend: Price is above its 200-day average
-- Shareholder returns: Share count growing (dilution)
+- Stock price is up 44% over the past year and 44.5% over six months, sitting near 52-week highs
+- Revenue grew 6% in the latest year and 5% in the latest quarter, showing modest ongoing growth
+- Generates positive free cash flow of $332.0M and pays a 3.2% dividend despite losses
 
 ### What to be careful about
-- Valuation: Free cash flow yield 2.5%
-- Balance sheet: Debt is 1.5x shareholder equity
-- Profitability: Keeps -9% of revenue as profit
+- Company lost $957.0M last year with a -9% net margin and negative operating margin of -3%
+- Debt of $9.4B is 1.5x shareholder equity, creating high leverage that limits financial flexibility
+- Return on equity is -15%, meaning shareholders lost value on invested capital in the latest year
 
-**Watch next:** The next quarterly report: whether revenue growth of +5% holds.
+**Watch next:** Whether the company can return to profitability and reduce its -9% net margin, as current losses erode the equity base that funds operations and dividends.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors with high risk tolerance who believe a turnaround in profitability is coming and can tolerate year-to-year losses and share dilution of 1.8% over three years.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $11.2B (+6% vs prior year)

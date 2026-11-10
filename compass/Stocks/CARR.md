@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Bearish read · trend: Downtrend
 
-## Mixed: shareholder returns stands out, price trend holds it back
+## Industrial giant showing revenue growth but earnings collapsed and stock down 8% yearly
 
-Carrier Global scores 41 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: downtrend.
+Carrier Global is a large industrial company in heating, cooling, and construction. It grew revenue 12% in the latest quarter but saw full-year revenue decline 3%. Earnings per share fell 72% year over year, which is a major red flag.
 
 ### What is working
-- Shareholder returns: Share count flat
-- Analyst consensus: 33 analysts, consensus Buy, 58% rate it a buy
+- Latest quarter revenue jumped 12% versus a year ago, suggesting recent momentum
+- Generates solid free cash flow of $2.1B with a 10% free cash flow margin
+- Majority of analysts rate it a buy (58% of 33 covering); consensus is Buy
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Growth: Revenue +8% a year over 3 years
-- Valuation: Free cash flow yield 4.8%
+- Full-year revenue fell 3% despite the strong quarter, showing inconsistency
+- Earnings per share dropped 72% year over year; company is not profitable on trailing basis
+- Stock down 8% over the past year and sits near the bottom of its 52-week range at 10% up from low
 
-**Watch next:** The next quarterly report: whether revenue growth of +12% holds.
+**Watch next:** Whether the 12% latest quarter revenue growth can sustain or if full-year results will contract again, since the gap between quarterly strength and annual weakness needs to close.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors comfortable with industrials that generate cash but face near-term earnings headwinds and want exposure to construction and HVAC cycles.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $21.7B (-3% vs prior year)

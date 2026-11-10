@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Weak** · Bearish read · trend: Downtrend
 
-## Weak: balance sheet stands out, analyst consensus holds it back
+## Office REIT in downtrend with negative earnings but strong cash generation
 
-Alexandria Real Estate Equities scores 31 of 100 on the Compass, which puts it in the Weak tier. Its long-term price trend is: downtrend.
+Alexandria Real Estate is a real estate investment trust focused on office properties. The company generated $3.0 billion in revenue last year but reported a net loss of $1.4 billion. Despite the loss, it produced $1.4 billion in free cash flow and pays a 4.7% dividend.
 
 ### What is working
-- Balance sheet: Debt is 0.9x shareholder equity
+- Free cash flow of $1.4B provides cushion despite -$1.4B net loss; FCF margin at 47%
+- Free cash flow yield of 17.6% suggests cash generation relative to market value
+- Debt at 0.9x shareholder equity is moderate for a REIT
 
 ### What to be careful about
-- Analyst consensus: 24 analysts, consensus Sell, 8% rate it a buy
-- Price trend: Price is below its 200-day average
-- Growth: Revenue +5% a year over 3 years
+- Stock down 19.7% over the past year and sits 24% below its 52-week high
+- Latest quarter revenue fell 11% year-over-year; full year revenue down 3%
+- Net loss of $1.4 billion and negative 47% net margin; return on equity at -10%
 
-**Watch next:** The next quarterly report: whether revenue growth of -11% holds.
+**Watch next:** Whether quarterly revenue stabilizes or continues declining, since the latest quarter showed an 11% drop year-over-year.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors seeking high current income willing to accept significant asset value uncertainty and office sector headwinds.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $3.0B (-3% vs prior year)

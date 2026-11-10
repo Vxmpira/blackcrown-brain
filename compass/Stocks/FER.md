@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Weak** · Bearish read · trend: Downtrend, bouncing
 
-## Weak: shareholder returns stands out, valuation holds it back
+## Engineering firm with strong cash flow but earnings collapsed and valuation looks stretched
 
-Ferrovial SE scores 34 of 100 on the Compass, which puts it in the Weak tier. Its long-term price trend is: downtrend, bouncing.
+Ferrovial is a large European construction and engineering company generating nearly 10 billion euros in annual revenue. It produces significant free cash flow and pays a dividend, but earnings per share fell 72% year over year, and the stock trades at 62 times earnings.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Profitability: Keeps 9% of revenue as profit
+- Free cash flow margin of 20% shows the core business converts sales to cash efficiently
+- Balance sheet holds 4.3 billion euros in cash against 10.4 billion in debt, providing a buffer
+- Returning capital to shareholders through buybacks that shrunk share count 0.7% over three years
 
 ### What to be careful about
-- Valuation: Trades at 62x earnings
-- Balance sheet: Debt is 1.8x shareholder equity
-- Price trend: Price is below its 200-day average
+- Earnings per share dropped 72% year over year, signaling a sharp profitability decline
+- Stock trades at 62x earnings, far above typical industrial company multiples
+- Price is 18% below its 52-week high and sits below its 200-day average, showing weakness
 
-**Watch next:** The next quarterly report: whether revenue growth of +5% holds.
+**Watch next:** The 72% earnings per share decline needs clarification in the next quarterly report to determine if this is temporary or signals structural problems in the business.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Patient investors comfortable with cyclical industrial businesses who can tolerate high price multiples and want dividend income plus potential capital returns from buybacks.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue 9.6B EUR (+5% vs prior year)

@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Bearish read · trend: Downtrend
 
-## Mixed: growth stands out, price trend holds it back
+## Oracle shows strong revenue growth but faces cash burn and steep price decline
 
-Oracle Corporation scores 38 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: downtrend.
+Oracle is a large software infrastructure company generating $67.4B in annual revenue with a 25% profit margin. Recent quarters show accelerating growth at 30% year over year, but the stock has fallen 50% over the past year and sits near its 52-week low.
 
 ### What is working
-- Growth: Revenue +10% a year over 3 years
+- Revenue jumped 30% in the latest quarter and rose 17% for the full year, well above the 10% annual average over three years
+- Net margin of 25% and operating margin of 31% show the core business is highly profitable
+- Analyst consensus is Buy with 81% of 47 analysts rating it a buy, despite recent price weakness
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Balance sheet: Debt is 1.9x shareholder equity
-- Valuation: Free cash flow yield -6.8%
+- Free cash flow is negative $23.7B, meaning the company burned cash rather than generating it despite $17.0B in net income
+- Stock price fell 50% over the past year and sits only 3% up from its 52-week low of $114.99
+- Debt of $130.1B is 1.9x shareholder equity, a high leverage ratio that limits financial flexibility
 
-**Watch next:** The next quarterly report: whether revenue growth of +30% holds.
+**Watch next:** Monitor whether free cash flow returns to positive territory, since the $23.7B cash burn gap between reported earnings and actual cash generation is the most unusual red flag in the data.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Investors comfortable with high volatility and balance sheet risk who believe in the company's growth narrative despite recent price collapse and near-term cash constraints.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-05-31)
 - Revenue $67.4B (+17% vs prior year)

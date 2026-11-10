@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Bearish read · trend: Downtrend
 
-## Mixed: growth stands out, shareholder returns holds it back
+## Fast-growing space company burns cash despite strong sales momentum
 
-Rocket Lab USA, Inc. scores 39 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: downtrend.
+Rocket Lab is an aerospace company with explosive revenue growth of 73% in its latest quarter and 42% annually over three years. It has $4.4B in net cash but is currently unprofitable, losing $198.2M in 2025 and burning $321.8M in free cash flow.
 
 ### What is working
-- Growth: Revenue +42% a year over 3 years
-- Balance sheet: Net cash of $4.4B
+- Revenue jumped 73% year-over-year in the latest quarter; 42% compound annual growth over three years shows sustained momentum
+- Balance sheet is strong with $4.4B in net cash, giving the company runway to fund operations and growth
+- Analyst consensus is Buy with 83% of 30 analysts rating it a buy, signaling professional confidence in the business
 
 ### What to be careful about
-- Shareholder returns: Share count growing (dilution)
-- Valuation: Free cash flow yield -1.0%
-- Profitability: Keeps -33% of revenue as profit
+- Company lost $198.2M on $601.8M in revenue, keeping negative 33% of sales as profit; operating margin at negative 38%
+- Free cash flow is negative $321.8M; the company is burning cash faster than it generates it despite high revenue
+- Stock price fell 49.6% over the past six months and sits 61% below its 52-week high; yearly volatility is 94%, meaning large price swings
 
-**Watch next:** The next quarterly report: whether revenue growth of +73% holds.
+**Watch next:** Whether the company can reach profitability before its $4.4B cash cushion depletes, given it burned $321.8M in free cash flow last year while revenue grew 73%.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Investors with high risk tolerance who believe in long-term growth stories and can weather severe price swings while a young company scales toward profitability.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $601.8M (+38% vs prior year)

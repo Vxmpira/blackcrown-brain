@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Bearish read · trend: Downtrend, bouncing
 
-## Mixed: balance sheet stands out, growth holds it back
+## Satellite TV operator burning cash despite strong analyst support and balance sheet
 
-EchoStar Corporation scores 39 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: downtrend, bouncing.
+EchoStar is a telecommunications company with $15.0B in annual revenue, primarily in satellite services. The company is currently unprofitable with negative free cash flow, though it holds $3.6B in net cash and trades at 3x earnings.
 
 ### What is working
-- Balance sheet: Net cash of $3.6B
-- Shareholder returns: Share count shrinking (buybacks)
-- Analyst consensus: 14 analysts, consensus Buy, 93% rate it a buy
+- Strong balance sheet: $3.6B in net cash provides cushion for operations
+- Analyst consensus heavily bullish: 93% of 14 analysts rate it a buy
+- Share buybacks reducing share count by 6.6% over 3 years, concentrating ownership
 
 ### What to be careful about
-- Growth: Revenue -7% a year over 3 years
-- Profitability: Keeps -0% of revenue as profit
-- Price trend: Price is below its 200-day average
+- Revenue collapsing: latest quarter down 69% year-over-year; three-year trend down 7% annually
+- Severe profitability problems: free cash flow margin at -7%, burning $1.1B in cash annually
+- Stock down 20.1% over 6 months and trades 27% below its 52-week high of $141.8
 
-**Watch next:** The next quarterly report: whether revenue growth of -69% holds.
+**Watch next:** Monitor whether the company can stabilize its quarterly revenue trend and return to positive free cash flow before its $3.6B net cash position erodes significantly.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** This profile suits investors comfortable with turnaround situations who can tolerate high volatility (55% yearly) and near-term cash burn, betting on a business recovery that analysts expect.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $15.0B (-5% vs prior year)

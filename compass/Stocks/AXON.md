@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Bearish read · trend: Downtrend
 
-## Mixed: analyst consensus stands out, shareholder returns holds it back
+## Fast-growing defense contractor hit hard; analysts still bullish but valuation extreme
 
-Axon Enterprise scores 39 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: downtrend.
+Axon Enterprise makes law enforcement and public safety equipment. Revenue is growing 33% annually, but the stock has dropped 51% in the past year and trades at 95 times earnings, which is very expensive for a company that keeps only 4% of sales as profit.
 
 ### What is working
-- Analyst consensus: 28 analysts, consensus Buy, 89% rate it a buy
-- Balance sheet: Debt is 0.8x shareholder equity
-- Growth: Revenue +33% a year over 3 years
+- Revenue grew 33% per year over three years and 28% in the latest quarter
+- 28 analysts cover the stock and 89% rate it a buy
+- Balance sheet is solid with 0.8x debt relative to shareholder equity and 1.5B in cash
 
 ### What to be careful about
-- Shareholder returns: Share count growing (dilution)
-- Price trend: Price is below its 200-day average
-- Valuation: Free cash flow yield 0.3%
+- Earnings per share fell 69% year over year despite revenue growth
+- Stock trades at 95x earnings with only 0.3% free cash flow yield, suggesting investors are paying a steep price
+- Price is down 51% in the past year and sits at the bottom of its 52-week range; volatility is 65%
 
-**Watch next:** The next quarterly report: whether revenue growth of +28% holds.
+**Watch next:** Whether net income and free cash flow can catch up to the rapid revenue growth, or if the gap signals execution problems that might justify the stock's recent decline.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Investors comfortable with high volatility and depressed valuations who believe growth-stage industrial companies can turn investment back into profits.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $2.8B (+33% vs prior year)

@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Neutral read · trend: Pullback in uptrend
 
-## Weak: shareholder returns stands out, valuation holds it back
+## Asset manager with strong cash flow but unprofitable on paper, cheap valuation
 
-Invesco scores 38 of 100 on the Compass, which puts it in the Weak tier. Its long-term price trend is: pullback in uptrend.
+Invesco is a large asset management firm generating $6.4B in annual revenue. It is currently unprofitable by accounting standards but produces substantial free cash flow. The company is returning capital to shareholders through buybacks and a 5.8% dividend.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
+- Free cash flow yield of 11.5% suggests cash generation is strong relative to market value
+- Revenue up 14% in latest quarter versus a year ago, accelerating from flat 3-year trend
+- Shareholder returns active: share count down 1.0% over 3 years via buybacks, plus 5.8% dividend yield
 
 ### What to be careful about
-- Valuation: Not profitable on a trailing basis
-- Profitability: Keeps -3% of revenue as profit
-- Growth: Revenue +2% a year over 3 years
+- Company lost $174.8M in net income for full year; negative 3% net margin and negative 11% operating margin
+- Return on equity is negative 1%, meaning the business is destroying shareholder capital on an accounting basis
+- Stock down 14% from its 52-week high and down 2.2% over the past month despite year-long gains
 
-**Watch next:** The next quarterly report: whether revenue growth of +14% holds.
+**Watch next:** Whether the latest quarter's 14% revenue growth can sustain, or if it reverts to the flat 2% annual trend seen over three years.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable with negative accounting profits but positive cash flow, seeking dividend income and capital return from a stable financial services business.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $6.4B (+5% vs prior year)

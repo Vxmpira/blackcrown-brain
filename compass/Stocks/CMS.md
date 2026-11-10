@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Bearish read · trend: Downtrend, bouncing
 
-## Mixed: valuation stands out, balance sheet holds it back
+## Utility with solid cash generation but heavy debt and stalled revenue growth
 
-CMS Energy scores 44 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: downtrend, bouncing.
+CMS Energy is a regulated electric utility generating $8.3 billion in annual revenue. It produces consistent free cash flow of $2.2 billion per year and maintains a 13% net profit margin. The stock has declined 5% over the past year and trades at 21 times earnings.
 
 ### What is working
-- Valuation: Free cash flow yield 10.3%
-- Profitability: Keeps 13% of revenue as profit
+- Free cash flow yield of 10.3% is high relative to earnings multiples, showing cash generation strength
+- Operating margin of 21% and net margin of 13% indicate efficient conversion of revenue to profit
+- Dividend yield of 3.4% provides income while the company generates $2.2B in annual free cash flow
 
 ### What to be careful about
-- Balance sheet: Debt is 1.9x shareholder equity
-- Price trend: Price is below its 200-day average
-- Growth: Revenue -0% a year over 3 years
+- Debt of $19.0B is 1.9 times shareholder equity, leaving limited financial flexibility for downturns
+- Revenue has grown 0% annually over the past 3 years despite a 13% jump in the latest fiscal year
+- Share count has grown 3.8% over 3 years, diluting existing shareholders; stock down 5.5% over 1 year
 
-**Watch next:** The next quarterly report: whether revenue growth of +1% holds.
+**Watch next:** Whether revenue growth of 13% in the latest fiscal year marks a turnaround or is a one-time event, given the stalled 3-year trend.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Long-term investors seeking steady cash returns who tolerate low growth and can accept high leverage in a regulated utility model.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $8.3B (+13% vs prior year)

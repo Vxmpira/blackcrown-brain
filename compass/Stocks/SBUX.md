@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Neutral read · trend: Turning up
 
-## Mixed: shareholder returns stands out, valuation holds it back
+## Starbucks trades near 52-week highs with slowing growth and high leverage
 
-Starbucks scores 45 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: turning up.
+Starbucks is a mature restaurant company generating $37.2 billion in annual revenue with a 5% net profit margin. Recent quarterly revenue declined 1% year over year, signaling a slowdown after years of steady growth. The company carries substantial debt at 8.1 times shareholder equity while returning cash to shareholders through buybacks and a 2.2% dividend.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
+- Price up 27% over the past year and currently 96% of the way to its 52-week high
+- Profitability remains solid with 5% net margin and 7% free cash flow margin, generating $2.4B in annual free cash flow
+- Aggressive share buybacks shrinking the share count by 1.6% over three years, concentrating earnings among remaining shareholders
 
 ### What to be careful about
-- Valuation: Free cash flow yield 2.0%
-- Growth: Revenue +5% a year over 3 years
+- Latest quarter revenue fell 1% year over year, and three-year revenue growth has slowed to just 5% annually
+- Earnings per share dropped 51% year over year, a sharp decline despite flat revenue performance
+- Debt stands at $13.3 billion versus only $3.4 billion in cash, creating a 8.1x leverage ratio relative to shareholder equity
 
-**Watch next:** The next quarterly report: whether revenue growth of -1% holds.
+**Watch next:** Monitor whether next quarter's revenue stabilizes or continues declining, since the 1% drop suggests demand softening after years of growth.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** This profile suits investors comfortable with mature, established companies that prioritize cash returns over growth, though the high debt level and slowing revenue present execution risk.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-09-28)
 - Revenue $37.2B (+3% vs prior year)

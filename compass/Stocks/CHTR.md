@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Bearish read · trend: Downtrend, bouncing
 
-## Mixed: valuation stands out, balance sheet holds it back
+## Profitable telecom with heavy debt trades cheap but faces long-term headwinds
 
-Charter Communications scores 41 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: downtrend, bouncing.
+Charter Communications is a large telecommunications company generating $54.8B in annual revenue with strong profitability (9% net margin, 24% operating margin) and substantial free cash flow of $4.4B. The stock has fallen 44% over the past year and sits well below its 52-week high, while analysts lean toward a Sell rating.
 
 ### What is working
-- Valuation: Free cash flow yield 21.1%
-- Shareholder returns: Share count shrinking (buybacks)
-- Profitability: Keeps 9% of revenue as profit
+- Valuation is compressed: trades at 4x earnings with a 21.1% free cash flow yield, meaning every $100 invested generates $21.10 in annual free cash
+- Profitability remains solid: company keeps 9% of revenue as profit and generates $4.4B in free cash flow annually despite revenue decline
+- Buyback program shrinking share count by 16.2% over three years, concentrating earnings and cash flow among fewer shares
 
 ### What to be careful about
-- Balance sheet: Debt is 9.7x shareholder equity
-- Price trend: Price is below its 200-day average
-- Analyst consensus: 28 analysts, consensus Sell, 18% rate it a buy
+- Debt load is extreme: $107.1B in debt against $20.9B market value means debt is 9.7x shareholder equity, leaving little room for error
+- Revenue stalled: flat growth over three years with the full-year 2025 down 1% despite recent quarterly strength at +9%
+- Analyst consensus is Sell: only 18% of 28 analysts rate it a buy, suggesting professionals see downside risk the cheap price may not reflect
 
-**Watch next:** The next quarterly report: whether revenue growth of +9% holds.
+**Watch next:** Monitor whether quarterly revenue growth of 9% can sustain or if the full-year decline of 1% signals that recent momentum is temporary.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Suits contrarian investors seeking deep-value opportunities in mature industries who can tolerate high leverage and extended downtrends, but not beginners uncomfortable with debt risk.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $54.8B (-1% vs prior year)

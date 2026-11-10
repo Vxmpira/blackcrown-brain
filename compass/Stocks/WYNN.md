@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Bearish read · trend: Downtrend, bouncing
 
-## Mixed: shareholder returns stands out, price trend holds it back
+## Casino operator treading water: growth stalled, but cheap on cash flow and debt towers
 
-Wynn Resorts scores 44 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: downtrend, bouncing.
+Wynn Resorts runs luxury casinos and resorts. Revenue has grown 24% annually over three years but flatlined last year and fell 8% in the latest quarter. The company is profitable and generates solid free cash flow but carries very high debt relative to shareholder equity.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Valuation: Free cash flow yield 7.7%
-- Profitability: Keeps 5% of revenue as profit
+- Free cash flow yield of 8.1% is high, meaning strong cash generation relative to market value
+- Revenue grew 24% per year over the past 3 years, showing historical growth capacity
+- Share buybacks have shrunk the share count by 8.3% over 3 years, concentrating ownership among remaining shareholders
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Growth: Revenue +24% a year over 3 years
+- Latest quarter revenue down 8% year over year and full-year revenue flat at $7.1B, signaling growth has stalled
+- Debt is 115.7x shareholder equity, an extreme leverage ratio that limits financial flexibility
+- Earnings per share fell 28% year over year despite positive free cash flow, indicating profitability pressure
 
-**Watch next:** The next quarterly report: whether revenue growth of -8% holds.
+**Watch next:** Whether quarterly revenue stabilizes or continues declining, as the latest quarter's 8% drop signals whether the slowdown is temporary or structural.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Long-term investors comfortable with cyclical consumer spending, high debt loads, and value-play valuations who believe the company can navigate near-term weakness.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $7.1B (+0% vs prior year)

@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Bearish read · trend: Downtrend, bouncing
 
-## Mixed: shareholder returns stands out, price trend holds it back
+## Asset manager with strong cash generation but recent revenue decline raises questions
 
-Apollo Global Management scores 40 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: downtrend, bouncing.
+Apollo Global Management is a large financial services firm that manages assets globally. The company grew revenue 43% annually over three years but saw latest quarter revenue drop 52% year over year. It keeps 11% of revenue as profit and generates significant free cash flow.
 
 ### What is working
-- Shareholder returns: Share count growing (dilution)
-- Analyst consensus: 28 analysts, consensus Buy, 71% rate it a buy
-- Profitability: Keeps 11% of revenue as profit
+- Free cash flow yield of 10.0% means the company converts revenue to cash efficiently relative to its market value
+- Return on equity of 21% shows the company generates solid returns on shareholder capital
+- Revenue up 23% in full year 2025 and up 43% annually over three years demonstrates long-term expansion
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Valuation: Trades at 38x earnings
-- Growth: Revenue +43% a year over 3 years
+- Latest quarter revenue fell 52% year over year, signaling a sharp recent slowdown in the core business
+- Earnings per share declined 24% year over year despite full-year revenue growth, showing profit pressure
+- Stock trades at 38x earnings, which is elevated relative to typical asset managers, leaving less margin for error
 
-**Watch next:** The next quarterly report: whether revenue growth of -52% holds.
+**Watch next:** The gap between strong full-year 2025 revenue growth and the 52% latest quarter decline needs clarification in upcoming earnings to understand whether this is temporary or structural.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Investors comfortable with financial services volatility and willing to accept near-term weakness if convinced the quarter was an anomaly rather than a trend reversal.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $32.0B (+23% vs prior year)

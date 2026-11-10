@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Weak** · Bearish read · trend: Downtrend, bouncing
 
-## Weak: no single area stands out, balance sheet holds it back
+## Utility with solid profit margin but negative cash flow and rising debt concerns
 
-Eversource Energy scores 34 of 100 on the Compass, which puts it in the Weak tier. Its long-term price trend is: downtrend, bouncing.
+Eversource Energy is a regulated electric utility generating $13.5B in annual revenue with a 13% net profit margin. The company is growing modestly at 3% annually while paying a 4.6% dividend, but it is burning cash and carrying $29.1B in debt against $1.8B in equity.
 
 ### What is working
-- No area scores above 60 right now.
+- Net margin of 13% and operating margin of 22% show profitable core operations
+- Latest annual revenue jumped 14% versus prior year, though this masks slower 3-year trend
+- Dividend yield of 4.6% offers income to patient holders
 
 ### What to be careful about
-- Balance sheet: Debt is 1.8x shareholder equity
-- Price trend: Price is below its 200-day average
-- Profitability: Keeps 13% of revenue as profit
+- Free cash flow is negative at -$45.1M; the company is not generating cash to fund operations or returns
+- Debt of $29.1B is 1.8x shareholder equity, meaning leverage is elevated for a utility
+- Stock price down 5% over the past year and trades 9% below its 52-week high; momentum is weak
 
-**Watch next:** The next quarterly report: whether revenue growth of +2% holds.
+**Watch next:** Whether free cash flow turns positive in coming quarters, since negative FCF combined with high debt and dividend payments raises sustainability questions.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Conservative income-focused investors who are comfortable with slow growth and can tolerate utility sector volatility, provided they monitor cash flow trends closely.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $13.5B (+14% vs prior year)

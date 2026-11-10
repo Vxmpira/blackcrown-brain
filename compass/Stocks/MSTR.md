@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Weak** · Bearish read · trend: Losing steam
 
-## Weak: balance sheet stands out, shareholder returns holds it back
+## Unprofitable software firm with massive losses despite analyst optimism
 
-MicroStrategy Inc. scores 24 of 100 on the Compass, which puts it in the Weak tier. Its long-term price trend is: losing steam.
+MicroStrategy is a business intelligence software company with $477.2M in annual revenue. It is currently losing money significantly, with a net loss of $3.8B and negative free cash flow of $75.5M. The company has a strong balance sheet with only 0.1x debt-to-equity, but is burning cash and destroying shareholder value.
 
 ### What is working
-- Balance sheet: Debt is 0.1x shareholder equity
+- Balance sheet is fortress-like: debt is only 0.1x shareholder equity, meaning very low financial risk
+- Analyst consensus is bullish: 88% of 26 analysts rate it a buy, the highest confidence score on this profile
+- Cash position of $2.5B provides runway to fund operations and strategy without immediate solvency pressure
 
 ### What to be careful about
-- Shareholder returns: Share count growing (dilution)
-- Valuation: Free cash flow yield -0.2%
-- Profitability: Keeps -806% of revenue as profit
+- Company is deeply unprofitable: net loss of $3.8B means it keeps -806% of revenue as profit, not operating sustainably
+- Revenue is shrinking: down 1% per year over three years, with latest quarter down 3% year-over-year
+- Free cash flow is negative at -$75.5M and margin is -16%, meaning the company burns cash despite having revenue
 
-**Watch next:** The next quarterly report: whether revenue growth of -3% holds.
+**Watch next:** Whether the company can return to revenue growth and move toward profitability before its $2.5B cash buffer is depleted by ongoing losses.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** This profile suits investors with high risk tolerance who believe in a turnaround story and can stomach large drawdowns; not suitable for conservative long-term holders seeking stable returns.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $477.2M (+3% vs prior year)

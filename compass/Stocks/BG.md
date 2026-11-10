@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Weak** · Bearish read · trend: Downtrend
 
-## Weak: balance sheet stands out, profitability holds it back
+## Agricultural trader with strong analyst backing but weakening profits and cash burn
 
-Bunge Global scores 35 of 100 on the Compass, which puts it in the Weak tier. Its long-term price trend is: downtrend.
+Bunge Global is an agricultural commodities and food business that generated $16.9B in revenue in 2025. The company just posted a 25% revenue jump in the latest quarter, but profitability has deteriorated and it is burning cash.
 
 ### What is working
-- Balance sheet: Debt is 0.6x shareholder equity
-- Analyst consensus: 20 analysts, consensus Buy, 90% rate it a buy
+- Latest quarter revenue surged 25% year over year, showing near-term momentum
+- Analyst consensus is Buy with 90% of 20 analysts rating it a buy
+- Balance sheet is solid with debt at only 0.6x shareholder equity
 
 ### What to be careful about
-- Profitability: Keeps 5% of revenue as profit
-- Price trend: Price is below its 200-day average
-- Growth: Revenue -7% a year over 3 years
+- Free cash flow is negative $879M and the company has a negative 5% free cash flow margin, burning cash
+- Earnings per share fell 39% year over year despite revenue growth
+- Price is down 22.1% over six months and sits 25% below its 52-week high of $131.41
 
-**Watch next:** The next quarterly report: whether revenue growth of +25% holds.
+**Watch next:** Track whether the company can return to positive free cash flow in coming quarters, since current cash burn at $879M annually is not sustainable long-term.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors who tolerate volatility and believe in analyst consensus over current financial metrics, and who can hold through periods when profits lag revenue growth.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $16.9B (+9% vs prior year)

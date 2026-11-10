@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Neutral read · trend: Turning up
 
-## Mixed: shareholder returns stands out, balance sheet holds it back
+## Regulated utility with steady dividends but burning cash and heavy debt load
 
-Duke Energy scores 44 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: turning up.
+Duke Energy is a large electric utility generating $31.7B in annual revenue with a 16% profit margin. It pays a 4.5% dividend yield but is currently burning cash while carrying $87.9B in debt against $99.9B in market value.
 
 ### What is working
-- Shareholder returns: Share count growing (dilution)
-- Price trend: Price is above its 200-day average
+- Revenue growing 9% in latest quarter, accelerating from 3-year trend of +3% annually
+- Operating margin of 27% shows strong pricing power in core business
+- 56% of 27 analysts rate it a buy; consensus rating is Buy with stock up 8.7% in the past month
 
 ### What to be careful about
-- Balance sheet: Debt is 1.6x shareholder equity
-- Profitability: Keeps 16% of revenue as profit
-- Valuation: Free cash flow yield -1.7%
+- Free cash flow is negative at -$1.7B; company is burning rather than generating cash
+- Debt of $87.9B is 1.6x shareholder equity, limiting financial flexibility for downturns
+- Trades at 19x earnings with -1.7% free cash flow yield; valuation leaves little room for error
 
-**Watch next:** The next quarterly report: whether revenue growth of +9% holds.
+**Watch next:** Whether free cash flow returns to positive territory next year, since current burn rate of -$1.7B is unsustainable for dividend payments without rising debt.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Investors seeking current income via dividends who can tolerate utility-sector leverage and slower growth than the broader market.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $31.7B (+6% vs prior year)

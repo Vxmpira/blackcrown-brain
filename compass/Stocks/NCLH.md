@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Bearish read · trend: Downtrend, bouncing
 
-## Weak: balance sheet stands out, price trend holds it back
+## Cruise operator with revenue growth stalling and cash flow turning negative
 
-Norwegian Cruise Line Holdings scores 37 of 100 on the Compass, which puts it in the Weak tier. Its long-term price trend is: downtrend, bouncing.
+Norwegian Cruise Line is a travel services company that generated $9.8 billion in revenue over the past year. Revenue grew 27% annually over three years but flatlined in the latest quarter. The company is currently burning cash and keeping only 4% of revenue as profit.
 
 ### What is working
-- Balance sheet: Debt is 0.5x shareholder equity
+- Revenue expanded 27% per year over the past three years, showing historical growth momentum
+- Balance sheet is relatively stable with debt at 0.5x shareholder equity, leaving room to borrow if needed
+- Stock recovered 19.4% in the past month and trades at 10x earnings, which is below many peers
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Profitability: Keeps 4% of revenue as profit
-- Growth: Revenue +27% a year over 3 years
+- Latest quarter revenue grew 0% year over year, signaling growth has stalled completely
+- Free cash flow is negative $1.2 billion annually, meaning the company is burning cash rather than generating it
+- Earnings per share fell 51% year over year despite revenue growing 4%, showing collapsing profitability
 
-**Watch next:** The next quarterly report: whether revenue growth of +0% holds.
+**Watch next:** Whether the company can return to positive free cash flow next year, since burning $1.2 billion annually is unsustainable without balance sheet damage.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** This profile suits patient investors comfortable with cyclical downturns who believe cruise demand will recover, but not those seeking steady cash generation or stable earnings growth.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $9.8B (+4% vs prior year)

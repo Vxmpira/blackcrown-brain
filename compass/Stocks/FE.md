@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Bearish read · trend: Downtrend, bouncing
 
-## Mixed: balance sheet stands out, price trend holds it back
+## Regulated utility with growing revenue but negative cash flow and weak profitability
 
-FirstEnergy scores 41 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: downtrend, bouncing.
+FirstEnergy is a utility company serving electricity customers. Revenue has grown 12% in the latest year, but the company burned $1.0B in free cash flow last year and keeps only 7% of revenue as profit. Analysts lean toward a buy rating despite recent price weakness.
 
 ### What is working
-- Balance sheet: Net cash of $52.0M
-- Shareholder returns: Share count growing (dilution)
-- Analyst consensus: 26 analysts, consensus Buy, 69% rate it a buy
+- Revenue grew 12% year over year, outpacing its 7% three-year average
+- 69% of 26 analysts rate the stock a buy, showing majority support
+- Dividend yield of 4.4% provides regular cash payouts to shareholders
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Profitability: Keeps 7% of revenue as profit
-- Valuation: Free cash flow yield -3.7%
+- Free cash flow was negative $1.0B last year; company is burning rather than generating cash
+- Profit margin is thin at 7%, leaving little room for error or reinvestment
+- Stock price is 36% of the way up its 52-week range and down 11% from its high
 
-**Watch next:** The next quarterly report: whether revenue growth of +12% holds.
+**Watch next:** Whether free cash flow turns positive in coming quarters, since burning $1.0B annually is unsustainable for a utility paying a 4.4% dividend.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Long-term investors seeking steady dividend income who can tolerate near-term price weakness and are willing to monitor whether the company's cash burn improves.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $15.1B (+12% vs prior year)

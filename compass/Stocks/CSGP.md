@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Weak** · Bearish read · trend: Downtrend
 
-## Weak: balance sheet stands out, price trend holds it back
+## Revenue growing fast, but profits have nearly vanished and stock down 55% in a year
 
-CoStar Group scores 37 of 100 on the Compass, which puts it in the Weak tier. Its long-term price trend is: downtrend.
+CoStar Group is a real estate services company with strong revenue growth of 19% year over year and 14% over three years. However, the company is barely profitable, turning 0% of revenue into net profit, and the stock price has fallen sharply.
 
 ### What is working
-- Balance sheet: Debt is 0.1x shareholder equity
-- Analyst consensus: 28 analysts, consensus Buy, 57% rate it a buy
+- Revenue grew 19% last year to $3.2B, and 14% annually over the past three years
+- Balance sheet is strong with debt only 0.1x shareholder equity, giving financial flexibility
+- 28 analysts cover the stock with 57% rating it a buy, showing professional interest
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Valuation: Free cash flow yield 1.0%
-- Profitability: Keeps 0% of revenue as profit
+- Net income fell 94% year over year to just $6.5M, erasing profitability gains
+- Stock is down 55% over the past year and sits 57% below its 52-week high of $69.2
+- Trades at 68x earnings with only 1.0% free cash flow yield, making it expensive relative to cash generation
 
-**Watch next:** The next quarterly report: whether revenue growth of +14% holds.
+**Watch next:** Whether the company can return to meaningful profitability as revenue grows, or if margin pressure persists and earnings stay flat or fall further.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Patient long-term investors who believe in the business model and can tolerate significant volatility while waiting for profitability to recover.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $3.2B (+19% vs prior year)

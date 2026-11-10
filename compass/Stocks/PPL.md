@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Bearish read · trend: Downtrend, bouncing
 
-## Weak: shareholder returns stands out, profitability holds it back
+## Utility with revenue growth but negative cash flow and heavy debt load
 
-PPL Corporation scores 38 of 100 on the Compass, which puts it in the Weak tier. Its long-term price trend is: downtrend, bouncing.
+PPL is a regulated electric utility generating $9.2B in annual revenue with 9% year-over-year growth. The company is profitable on paper with a 13% net margin, but it is burning cash and carrying $20.0B in debt against $27.1B in market value.
 
 ### What is working
-- Shareholder returns: Share count growing (dilution)
+- Revenue growing 9% year over year, outpacing its 3-year average of 6% annually
+- Analyst consensus is Buy with 79% of 24 analysts rating it a buy
+- Dividend yield of 3.6% provides steady income to shareholders
 
 ### What to be careful about
-- Profitability: Keeps 13% of revenue as profit
-- Price trend: Price is below its 200-day average
-- Valuation: Free cash flow yield -5.3%
+- Free cash flow is negative at -$1.4B; the company is burning rather than generating cash
+- Debt of $20.0B is 1.3x shareholder equity, limiting financial flexibility
+- Stock down 3% over the past year and trades 11% below its 52-week high of $39.81
 
-**Watch next:** The next quarterly report: whether revenue growth of +9% holds.
+**Watch next:** Monitor whether free cash flow returns to positive territory in coming quarters, since persistent cash burn combined with high debt could constrain dividend growth or force further share dilution.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Investors seeking dividend income from a regulated utility who can tolerate modest price weakness and are comfortable with high leverage in the capital structure.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $9.2B (+9% vs prior year)

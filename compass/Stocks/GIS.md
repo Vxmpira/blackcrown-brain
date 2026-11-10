@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Weak** · Bearish read · trend: Downtrend
 
-## Weak: shareholder returns stands out, price trend holds it back
+## Packaged food giant shrinking revenue and profits, offering high dividend yield
 
-General Mills scores 25 of 100 on the Compass, which puts it in the Weak tier. Its long-term price trend is: downtrend.
+General Mills is a large consumer packaged foods company currently in a downtrend. Revenue has fallen 5% year over year and 3% per year over three years. The company is unprofitable on a net income basis but still generates free cash flow.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
+- Free cash flow yield of 8.7% is high relative to the market
+- Dividend yield of 3.6% plus ongoing share buybacks (down 10.6% over 3 years) return cash to shareholders
+- Still generates $1.6B in annual free cash flow despite losses
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Balance sheet: Debt is 1.8x shareholder equity
-- Analyst consensus: 28 analysts, consensus Sell, 11% rate it a buy
+- Revenue declined 5% in the latest year and 3% annually over three years, showing persistent decline
+- Net income is negative at -$85.0M; the company is not profitable on a trailing basis
+- Debt of $13.5B is 1.8x shareholder equity, leaving limited financial flexibility
 
-**Watch next:** The next quarterly report: whether revenue growth of -3% holds.
+**Watch next:** Whether revenue decline stabilizes or accelerates further in coming quarters, since three consecutive years of contraction is the core concern.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors seeking high current yield who can tolerate a shrinking business and are comfortable holding through continued uncertainty.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-05-31)
 - Revenue $18.4B (-5% vs prior year)

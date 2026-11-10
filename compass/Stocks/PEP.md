@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Bearish read · trend: Downtrend, bouncing
 
-## Mixed: shareholder returns stands out, balance sheet holds it back
+## PepsiCo trades below its highs with weak earnings but strong cash generation
 
-PepsiCo scores 41 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: downtrend, bouncing.
+PepsiCo is a large beverage and snack company generating $93.9B in annual revenue. It keeps 9% of sales as profit and produces steady free cash flow of $7.7B per year. The stock has fallen 1% over the past year and sits 38% of the way up its 52-week range.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Profitability: Keeps 9% of revenue as profit
-- Valuation: Free cash flow yield 4.0%
+- Profitability is strong: 37% return on equity and 9% net margin show efficient operations
+- Cash flow is reliable: $7.7B in free cash flow funds a 3.0% dividend and ongoing buybacks
+- Valuation appears reasonable: 3.9% free cash flow yield and 18x earnings relative to the company's scale
 
 ### What to be careful about
-- Balance sheet: Debt is 2.1x shareholder equity
-- Price trend: Price is below its 200-day average
-- Growth: Revenue +3% a year over 3 years
+- Earnings declined 14% year over year despite revenue growth, signaling margin pressure
+- Stock is in downtrend: down 1% over the past year and trades 17% below its 52-week high
+- High debt load: $46.4B in debt is 2.1x shareholder equity, limiting financial flexibility
 
-**Watch next:** The next quarterly report: whether revenue growth of +6% holds.
+**Watch next:** Monitor whether the latest quarterly revenue growth of 6% can sustain while earnings per share trends stabilize, given the 14% decline in the most recent full year.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Long-term investors seeking stable cash flow and dividend income from an established company, who can tolerate current weakness in the stock price and earnings.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-27)
 - Revenue $93.9B (+2% vs prior year)

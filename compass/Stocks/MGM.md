@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Bearish read · trend: Downtrend
 
-## Weak: shareholder returns stands out, balance sheet holds it back
+## Casino operator with cheap valuation but slowing revenue and high debt
 
-MGM Resorts scores 38 of 100 on the Compass, which puts it in the Weak tier. Its long-term price trend is: downtrend.
+MGM Resorts operates casinos and resorts. Revenue grew 10% yearly over three years, but the latest quarter shows -1% decline. The company generates solid free cash flow but carries significant debt relative to shareholder equity.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Valuation: Free cash flow yield 16.1%
+- Free cash flow yield of 17.5% is very high, meaning strong cash generation relative to market value
+- Revenue up 10% annually over the past 3 years shows historical growth trend
+- Share count down 32.9% over 3 years through buybacks, concentrating ownership
 
 ### What to be careful about
-- Balance sheet: Debt is 2.3x shareholder equity
-- Price trend: Price is below its 200-day average
-- Growth: Revenue +10% a year over 3 years
+- Latest quarter revenue declined 1% year over year, breaking the multi-year growth pattern
+- Earnings per share fell 68% year over year, signaling profit pressure
+- Debt of 5.7B is 2.3x shareholder equity, leaving little cushion for downturns
 
-**Watch next:** The next quarterly report: whether revenue growth of -1% holds.
+**Watch next:** Whether next quarter's revenue returns to growth or continues declining, since the recent -1% represents a shift from the 10% annual trend.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable with cyclical consumer stocks and high leverage who believe near-term weakness is temporary.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $17.5B (+2% vs prior year)

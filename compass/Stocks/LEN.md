@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Weak** · Bearish read · trend: Downtrend, bouncing
 
-## Mixed: balance sheet stands out, price trend holds it back
+## Homebuilder facing revenue decline with weak analyst support and downward price momentum
 
-Lennar scores 41 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: downtrend, bouncing.
+Lennar is a residential homebuilder with $34.2 billion in annual revenue. The company is profitable with a 6% net margin but is shrinking: revenue fell 4% last year and 9% in the latest quarter. Most analysts rate the stock a Sell.
 
 ### What is working
-- Balance sheet: Debt is 0.3x shareholder equity
-- Shareholder returns: Share count shrinking (buybacks)
+- Balance sheet is strong with debt at only 0.3x shareholder equity, well-capitalized
+- Returning cash to shareholders through buybacks that cut share count 11.3% over three years
+- Generates positive free cash flow of $28.2M and maintains $1.5B in cash reserves
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Growth: Revenue +1% a year over 3 years
+- Revenue declined 4% last year and 9% in the latest quarter, showing accelerating weakness
+- Price is down 28% over the past year and sits 34% below its 52-week high
+- Analyst consensus is Sell with only 7% of 28 analysts rating it a buy; analyst score is just 2 of 100
 
-**Watch next:** The next quarterly report: whether revenue growth of -9% holds.
+**Watch next:** Whether the latest quarter's 9% revenue decline reverses or continues to worsen in coming quarterly results.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** This profile suits investors with high risk tolerance who believe residential construction will recover from current weakness, not those seeking stability or near-term growth.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-11-30)
 - Revenue $34.2B (-4% vs prior year)

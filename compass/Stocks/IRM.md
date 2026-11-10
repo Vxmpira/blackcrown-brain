@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Weak** · Bearish read · trend: Downtrend
 
-## Weak: shareholder returns stands out, valuation holds it back
+## Real estate giant with strong revenue growth but cash burn and extreme leverage
 
-Iron Mountain scores 24 of 100 on the Compass, which puts it in the Weak tier. Its long-term price trend is: downtrend.
+Iron Mountain is a large REIT that stores and manages physical records and data for clients. Revenue is growing 11-13% annually, but the company is burning cash and carrying debt 685 times its equity.
 
 ### What is working
-- Shareholder returns: Share count growing (dilution)
+- Revenue growing 13% in latest quarter and 11% per year over 3 years
+- Operating margin of 17% shows the core business is efficient
+- Dividend yield of 4.1% and 88% of analysts rate it a buy
 
 ### What to be careful about
-- Valuation: Free cash flow yield -2.8%
-- Profitability: Keeps 2% of revenue as profit
-- Price trend: Price is below its 200-day average
+- Free cash flow is negative 931.6 million dollars despite 6.9 billion in revenue
+- Debt of 18 billion is 685.6 times shareholder equity, an extremely high ratio
+- Earnings per share fell 20% year over year while stock trades at 73x earnings
 
-**Watch next:** The next quarterly report: whether revenue growth of +13% holds.
+**Watch next:** Whether free cash flow turns positive next quarter, since the company cannot sustain negative cash burn long-term.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** This profile suits long-term investors comfortable with high debt and willing to collect a 4% dividend while waiting for cash flow to stabilize.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $6.9B (+12% vs prior year)

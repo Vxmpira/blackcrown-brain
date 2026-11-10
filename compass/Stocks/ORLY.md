@@ -14,22 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Bearish read · trend: Downtrend, bouncing
 
-## Mixed: profitability stands out, price trend holds it back
+## Profitable auto parts retailer faces debt load and price decline amid analyst support
 
-O'Reilly Auto Parts scores 44 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: downtrend, bouncing.
+O'Reilly Auto Parts is a mature specialty retailer generating $17.8B in annual revenue with solid profitability: 14% net margin and $1.6B in free cash flow. The company trades at 27x earnings and carries substantial debt of $7.7B against $194.4M in cash. Price has fallen 9% over the past year and sits 32% up from its 52-week low.
 
 ### What is working
-- Profitability: Keeps 14% of revenue as profit
+- Latest quarter revenue grew 9% year over year, outpacing the 6% annual growth rate
+- Net profit margin holds steady at 14%, with operating margin at 19%, showing pricing power
+- Generates $1.6B in free cash flow annually, demonstrating ability to fund operations and returns
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Valuation: Free cash flow yield 2.1%
+- Debt stands at 17.5x shareholder equity, a critical structural risk that limits financial flexibility
+- Stock price is 13% below its 52-week high and has declined 8.5% over the past year
+- Valuation at 27x earnings is elevated for a mature retailer with 7% historical growth
 
-**Watch next:** The next quarterly report: whether revenue growth of +9% holds.
+**Watch next:** Monitor whether the company can reduce its debt-to-equity ratio (now 17.5x) while maintaining free cash flow generation, as this ratio is the single largest structural constraint on the business.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** This profile suits long-term investors comfortable with established retail businesses that generate cash but carry heavy debt, who can tolerate near-term price volatility (26% yearly) in exchange for profitability.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $17.8B (+6% vs prior year)

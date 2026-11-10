@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Bearish read · trend: Downtrend, bouncing
 
-## Mixed: shareholder returns stands out, price trend holds it back
+## Utility stock with steady dividend but weak price momentum and high debt load
 
-Public Service Enterprise Group scores 39 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: downtrend, bouncing.
+Public Service Enterprise Group is a regulated electric utility that generated $12.2B in revenue in 2025. The company keeps 17% of revenue as profit and pays a 3.5% dividend, but faces headwinds from recent revenue decline and a downtrend in its stock price.
 
 ### What is working
-- Shareholder returns: Share count flat
+- Dividend yield of 3.5% with flat share count means consistent payouts per shareholder
+- Net margin of 17% and operating margin of 24% show strong profitability from core operations
+- Free cash flow generation of $26.0M supports both debt service and dividend payments
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Balance sheet: Debt is 1.4x shareholder equity
-- Growth: Revenue +7% a year over 3 years
+- Latest quarterly revenue dropped 9% year over year, despite full-year growth of 18%
+- Stock is down 10.4% over the past year and trades 40% below its 52-week high of $86.95
+- Debt of $23.6B is 1.4x shareholder equity, limiting financial flexibility in a rising rate environment
 
-**Watch next:** The next quarterly report: whether revenue growth of -9% holds.
+**Watch next:** Monitor whether the latest quarter's 9% revenue decline signals a trend reversal or temporary dip, as this drives the company's ability to sustain its dividend.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Long-term income-focused investors seeking steady dividends who can tolerate regulated utility economics and have patience for price recovery in a downtrend.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $12.2B (+18% vs prior year)

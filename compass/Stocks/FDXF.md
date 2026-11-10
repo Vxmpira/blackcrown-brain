@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Weak** · Bearish read · trend: Short-term uptrend
 
-## Weak: shareholder returns stands out, valuation holds it back
+## Freight company growing revenue but losing cash; analysts bullish despite strain
 
-FedEx Freight Holding Company, Inc. scores 26 of 100 on the Compass, which puts it in the Weak tier. Its long-term price trend is: short-term uptrend.
+FedEx Freight is a large integrated freight and logistics company with $8.8B in annual revenue. It grew quarterly revenue 8% year over year but its full-year revenue fell 1%, and earnings per share dropped 51% in the latest fiscal year. The company is currently burning cash.
 
 ### What is working
-- Shareholder returns: Share count flat
-- Analyst consensus: 20 analysts, consensus Buy, 70% rate it a buy
+- Latest quarter revenue up 8% year over year, showing recent momentum in core business
+- 70% of 20 analysts rate it a buy, suggesting professional consensus sees recovery potential
+- Net profit margin of 7% means the company still converts about one dollar in seven to profit
 
 ### What to be careful about
-- Valuation: Free cash flow yield -1.1%
-- Price trend: Sits 24% of the way up its 52-week range
-- Profitability: Keeps 7% of revenue as profit
+- Earnings per share fell 51% year over year, a sharp decline in profitability per shareholder
+- Free cash flow is negative $212.0M; company burned cash instead of generating it
+- Stock trades at 54x earnings, extremely high multiple when cash generation is negative
 
-**Watch next:** The next quarterly report: whether revenue growth of +8% holds.
+**Watch next:** Whether free cash flow turns positive in coming quarters, since the company cannot sustain negative cash burn and high debt indefinitely.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Investors comfortable with high volatility and turnaround stories who believe freight demand will recover enough to restore profitability and cash generation.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-05-31)
 - Revenue $8.8B (-1% vs prior year)

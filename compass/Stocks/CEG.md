@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Bearish read · trend: Downtrend
 
-## Mixed: shareholder returns stands out, price trend holds it back
+## Utilities giant with strong balance sheet stumbles on earnings despite revenue growth
 
-Constellation Energy scores 43 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: downtrend.
+Constellation Energy is a large utility company generating $22.7 billion in annual revenue with a fortress balance sheet (debt at 0.6x equity). It keeps 10% of revenue as profit and generates $1.3 billion in free cash flow yearly. Yet the stock has fallen 25% over the past year, and earnings per share dropped 38% most recently.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Balance sheet: Debt is 0.6x shareholder equity
-- Analyst consensus: 29 analysts, consensus Buy, 86% rate it a buy
+- Balance sheet is fortress-like: debt only 0.6x shareholder equity, well-positioned for stability
+- Latest revenue jumped 13% year over year; full-year revenue rose 20% to $22.7B
+- Analyst consensus is strong: 86% of 29 analysts rate it a buy; consensus is Buy
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Growth: Revenue +2% a year over 3 years
-- Valuation: Free cash flow yield 1.3%
+- Stock price down 25% over the past year and sits 22% of the way up its 52-week range
+- Earnings per share fell 38% most recently, a sharp deterioration despite revenue gains
+- Valuation looks stretched: P/E of 28.23 and free cash flow yield of only 1.3% limit upside
 
-**Watch next:** The next quarterly report: whether revenue growth of +13% holds.
+**Watch next:** Whether earnings per share stabilizes and rebounds in coming quarters, or if the 38% decline signals a deeper profitability challenge ahead.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Long-term investors comfortable holding stable utility stocks through near-term volatility and who value strong balance sheets over near-term price momentum.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $22.7B (+20% vs prior year)

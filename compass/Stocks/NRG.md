@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Bearish read · trend: Downtrend
 
-## Weak: shareholder returns stands out, balance sheet holds it back
+## NRG Energy: Analysts bullish but stock down 44% as debt and margins worry
 
-NRG Energy scores 36 of 100 on the Compass, which puts it in the Weak tier. Its long-term price trend is: downtrend.
+NRG Energy is an independent power producer with $30.3B in annual revenue. The company just posted 25% quarterly revenue growth, but profit margins remain thin at 3%. A heavy debt load of 4.4x equity sits against modest free cash flow generation.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Valuation: Free cash flow yield 4.0%
+- Latest quarter revenue jumped 25% year over year, showing recent momentum
+- Analysts are 83% bullish with consensus Buy rating across 23 firms
+- Returning cash to shareholders via 3.3% dividend yield and 15.7% share buybacks over 3 years
 
 ### What to be careful about
-- Balance sheet: Debt is 4.4x shareholder equity
-- Price trend: Price is below its 200-day average
-- Growth: Revenue -1% a year over 3 years
+- Stock down 44% over the past year and sits only 15% of the way up its 52-week range
+- Debt of $23.1B is 4.4x shareholder equity, a heavy burden for a low-margin business
+- Net profit margin of only 3% and free cash flow margin of 3% leave little room for error
 
-**Watch next:** The next quarterly report: whether revenue growth of +25% holds.
+**Watch next:** Monitor whether the latest quarter's 25% revenue growth translates into sustained earnings and cash flow, given that full-year earnings per share fell 20%.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Long-term investors seeking utility exposure who can tolerate high volatility (53% yearly) and heavy debt, and who believe analyst consensus will eventually be proven right.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $30.3B (+9% vs prior year)

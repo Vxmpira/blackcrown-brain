@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Weak** · Bearish read · trend: Downtrend, bouncing
 
-## Weak: no single area stands out, balance sheet holds it back
+## Utility company growing revenue but burning cash, while analysts stay bullish
 
-NiSource scores 32 of 100 on the Compass, which puts it in the Weak tier. Its long-term price trend is: downtrend, bouncing.
+NiSource is a regulated gas utility with 6.5 billion dollars in annual revenue. The company is growing revenue modestly and turning a profit, but its free cash flow is negative and debt is high relative to shareholder equity.
 
 ### What is working
-- No area scores above 60 right now.
+- Revenue jumped 23% last year and latest quarter revenue grew 5% year over year
+- Analysts overwhelmingly back the stock: 81% rate it a buy, consensus is Buy
+- Company kept 14% of revenue as net profit and generated 929.5 million dollars in net income
 
 ### What to be careful about
-- Balance sheet: Debt is 1.8x shareholder equity
-- Profitability: Keeps 14% of revenue as profit
-- Price trend: Price is below its 200-day average
+- Free cash flow is negative 420 million dollars; company is burning cash despite profitability
+- Debt of 17.5 billion dollars is 1.8 times shareholder equity, which is elevated leverage
+- Stock price sits 8% below its 52-week high and sits below its 200-day moving average
 
-**Watch next:** The next quarterly report: whether revenue growth of +5% holds.
+**Watch next:** Whether free cash flow improves in coming quarters, since the company is currently burning 420 million dollars annually despite positive net income.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Investors seeking regulated utility dividends who are comfortable with high debt levels and negative cash flow in exchange for analyst consensus support and modest revenue growth.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $6.5B (+23% vs prior year)

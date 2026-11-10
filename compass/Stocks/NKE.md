@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Bearish read · trend: Downtrend, bouncing
 
-## Mixed: shareholder returns stands out, price trend holds it back
+## Nike slides 36% in a year as sales shrink; profitability holds steady
 
-Nike, Inc. scores 43 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: downtrend, bouncing.
+Nike is a large apparel and footwear company generating $46.4B in annual revenue. The company is currently facing declining sales and a stock price in downtrend, though it maintains a 7% net profit margin and generates meaningful free cash flow.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Balance sheet: Debt is 0.5x shareholder equity
-- Valuation: Free cash flow yield 3.8%
+- Strong balance sheet with debt at only 0.5x equity, leaving room to invest or weather pressure
+- Consistent free cash generation of $2.2B annually with a 5% free cash flow margin
+- Return on equity of 20% shows the company deploys shareholder capital efficiently; active buybacks shrinking share count by 5.7% over three years
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Growth: Revenue -3% a year over 3 years
+- Revenue down 4% in the latest quarter and flat over the full year; three-year trend shows -3% annual decline
+- Stock price down 36% over the past year and trades 43% below its 52-week high of $67.78
+- Analyst consensus is Hold with only 29% rating it a Buy; 49 analysts covering the stock show mixed conviction
 
-**Watch next:** The next quarterly report: whether revenue growth of -4% holds.
+**Watch next:** Whether the latest quarter's -4% revenue decline stabilizes or accelerates, as sustained sales shrinkage could pressure the 7% profit margin over time.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Patient investors comfortable holding through cycles who value steady free cash generation and low debt over near-term price momentum.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-05-31)
 - Revenue $46.4B (+0% vs prior year)

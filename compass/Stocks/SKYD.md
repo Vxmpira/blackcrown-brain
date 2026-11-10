@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Weak** · Bearish read · trend: Downtrend
 
-## Weak: balance sheet stands out, price trend holds it back
+## Entertainment giant losing money despite $1.4B cash cushion
 
-Skydance Corporation scores 34 of 100 on the Compass, which puts it in the Weak tier. Its long-term price trend is: downtrend.
+Skydance is a large entertainment and communication services company with $29.2B in annual revenue. It reported a net loss of $6.2B in fiscal 2024 and is shrinking slightly year over year. The stock has fallen 48% over the past year and trades well below its highs.
 
 ### What is working
-- Balance sheet: Net cash of $1.4B
-- Shareholder returns: Share count growing (dilution)
+- Strong balance sheet: $1.4B in net cash provides runway during turnaround
+- Positive free cash flow: Generated $489.0M despite operating losses
+- Low valuation: Free cash flow yield of 1.1% reflects deeply discounted valuation
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Growth: Latest revenue -1% year over year
-- Profitability: Keeps -21% of revenue as profit
+- Heavy losses: Net loss of $6.2B means the company lost 21 cents on every dollar of revenue
+- Negative growth: Revenue fell 1% year over year with no upside shown
+- Analyst skepticism: Only 13% of 30 analysts rate it a buy; consensus is Sell
 
-**Watch next:** The next quarterly report: whether revenue growth of -1% holds.
+**Watch next:** Whether revenue returns to growth and operating margins improve enough to turn the $6.2B annual loss into consistent profitability.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Investors with very high risk tolerance who believe turnaround restructuring will succeed and have years to wait for recovery.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2024-12-31)
 - Revenue $29.2B (-1% vs prior year)

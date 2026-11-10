@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Weak** · Bearish read · trend: Downtrend
 
-## Weak: analyst consensus stands out, valuation holds it back
+## Coinbase tumbles 57% in a year as revenue growth stalls and profits fall
 
-Coinbase Global scores 31 of 100 on the Compass, which puts it in the Weak tier. Its long-term price trend is: downtrend.
+Coinbase is a financial exchange and data platform. Full-year revenue grew 9% to $7.2B, but the latest quarter dropped 35% year over year. The company is profitable with an 18% net margin and generated $2.4B in free cash flow.
 
 ### What is working
-- Analyst consensus: 47 analysts, consensus Buy, 66% rate it a buy
+- Full-year revenue up 9% to $7.2B and up 31% per year over 3 years
+- Keeps 18% of revenue as profit with $2.4B in free cash flow
+- Holds $8.6B in cash against $5.9B in debt; 66% of analysts rate it a buy
 
 ### What to be careful about
-- Valuation: Not profitable on a trailing basis
-- Price trend: Price is below its 200-day average
-- Growth: Revenue +31% a year over 3 years
+- Latest quarter revenue fell 35% year over year; earnings per share down 53%
+- Stock down 57% over the past year and sits near the bottom of its 52-week range
+- Share count grew 29.2% over 3 years, diluting existing shareholders; return on equity only 9%
 
-**Watch next:** The next quarterly report: whether revenue growth of -35% holds.
+**Watch next:** Whether the latest quarter's 35% revenue drop signals a new trend or a temporary weakness tied to market cycles.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Investors who can tolerate high volatility (72% yearly) and are willing to hold through downturns to bet on a cyclical turnaround.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $7.2B (+9% vs prior year)

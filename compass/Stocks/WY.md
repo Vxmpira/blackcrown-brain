@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Bearish read · trend: Downtrend, bouncing
 
-## Mixed: shareholder returns stands out, price trend holds it back
+## Timber REIT in downtrend with weak growth but strong balance sheet and buybacks
 
-Weyerhaeuser scores 39 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: downtrend, bouncing.
+Weyerhaeuser is a real estate investment trust focused on timberlands and wood products. Revenue has declined 12% annually over three years, though the latest quarter showed 8% growth. The company generates steady free cash flow and maintains a conservative debt level.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Balance sheet: Debt is 0.6x shareholder equity
+- Balance sheet is strong with debt at only 0.6x shareholder equity, providing financial flexibility
+- Returning cash to shareholders through both a 3.4% dividend yield and ongoing buybacks that have reduced share count 2.6% over three years
+- Analyst consensus is Buy with 81% of 21 analysts rating it a buy, suggesting institutional confidence
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Growth: Revenue -12% a year over 3 years
-- Valuation: Free cash flow yield 3.4%
+- Stock price is down 10% over the past year and sits 26% below its 52-week high, showing sustained weakness
+- Revenue fell 3% in the latest full year and is down 12% annually over three years, indicating long-term shrinkage
+- Profitability is thin with only 5% net margin and 3% return on equity, meaning each dollar of shareholder capital generates minimal returns
 
-**Watch next:** The next quarterly report: whether revenue growth of +8% holds.
+**Watch next:** Whether the 8% latest quarter revenue growth signals a sustained recovery or remains a temporary bounce in a declining business.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors seeking steady dividend income who can tolerate below-average growth and are comfortable with a historically cyclical commodity-exposed sector.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $6.9B (-3% vs prior year)

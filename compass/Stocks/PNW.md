@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Neutral read · trend: Turning up
 
-## Mixed: price trend stands out, profitability holds it back
+## Utility with rising price but cash burn and weak profitability metrics
 
-Pinnacle West scores 42 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: turning up.
+Pinnacle West is a regulated electric utility generating $5.3B in annual revenue with steady 7-8% yearly growth. The company is profitable on paper at 12% net margin but is burning cash and has not improved earnings per share.
 
 ### What is working
-- Price trend: Price is above its 200-day average
+- Stock price up 19% over the past year and sitting 79% of the way up its 52-week range
+- Revenue growing 8% in the latest quarter and 7% annually over three years
+- Dividend yield of 4.8% provides income to long-term holders
 
 ### What to be careful about
-- Profitability: Keeps 12% of revenue as profit
-- Balance sheet: Debt is 1.5x shareholder equity
-- Valuation: Free cash flow yield -6.4%
+- Free cash flow is negative at -$819.5M, meaning the company is spending more than it collects
+- Earnings per share declined 4% year over year despite revenue growth
+- Debt of $11.0B is 1.5 times shareholder equity, limiting financial flexibility
 
-**Watch next:** The next quarterly report: whether revenue growth of +8% holds.
+**Watch next:** Whether free cash flow turns positive in coming quarters, since current negative cash generation conflicts with the dividend and debt load.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Investors seeking steady dividend income from a regulated utility who can tolerate cash burn concerns and modest earnings growth over a multi-year period.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $5.3B (+4% vs prior year)

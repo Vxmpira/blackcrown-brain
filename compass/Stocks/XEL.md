@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Neutral read · trend: Turning up
 
-## Mixed: price trend stands out, profitability holds it back
+## Regulated utility with analyst support but slowing growth and cash burn concerns
 
-Xcel Energy scores 39 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: turning up.
+Xcel Energy is a utility company generating $11.5B in annual revenue with a 17% profit margin. It pays a 2.9% dividend but is currently burning cash and growing slowly at 2% annually.
 
 ### What is working
-- Price trend: Price is above its 200-day average
+- Strong analyst consensus: 88% of 25 analysts rate it a buy
+- Solid profit margin of 17% shows the core business converts revenue to earnings
+- Price up 7.3% over the past month and 70% of the way up its 52-week range
 
 ### What to be careful about
-- Profitability: Keeps 17% of revenue as profit
-- Growth: Revenue +2% a year over 3 years
-- Balance sheet: Debt is 1.5x shareholder equity
+- Free cash flow is negative $6.8B, meaning the company is burning cash despite profitability
+- Revenue growth has stalled: latest quarter down 1% year over year and only up 2% annually over 3 years
+- High debt load of $37.5B is 1.5x shareholder equity, limiting financial flexibility
 
-**Watch next:** The next quarterly report: whether revenue growth of -1% holds.
+**Watch next:** Whether free cash flow turns positive in coming quarters, since sustained cash burn would eventually constrain dividend sustainability and growth investments.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Patient investors seeking steady dividend income who can tolerate slow growth and are comfortable with utility sector regulation and capital intensity.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2018-12-31)
 - Revenue $11.5B (+1% vs prior year)

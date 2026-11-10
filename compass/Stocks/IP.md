@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Weak** · Bearish read · trend: Downtrend, bouncing
 
-## Weak: balance sheet stands out, valuation holds it back
+## Profitable operations mask a loss year; analysts bullish despite cash burn
 
-International Paper scores 22 of 100 on the Compass, which puts it in the Weak tier. Its long-term price trend is: downtrend, bouncing.
+International Paper is a large packaging company with $23.6B in annual revenue. The company reported a $3.5B net loss in 2025 despite an operating margin of 10%, and burned $159M in free cash flow last year. Share count has grown 37.8% over three years.
 
 ### What is working
-- Balance sheet: Debt is 0.7x shareholder equity
+- Operating margin of 10% shows the core business generates profit before one-time charges
+- 80% of covering analysts rate it a buy, with consensus rating of Buy
+- Balance sheet is solid with debt at 0.7x shareholder equity, providing borrowing capacity
 
 ### What to be careful about
-- Valuation: Free cash flow yield -0.9%
-- Profitability: Keeps -15% of revenue as profit
-- Price trend: Price is below its 200-day average
+- Company lost $3.5B and burned $159M in free cash flow in fiscal 2025
+- Net margin of -15% means the company kept negative profit per dollar of sales
+- Return on equity is -27%, destroying shareholder value instead of building it
 
-**Watch next:** The next quarterly report: whether revenue growth of -0% holds.
+**Watch next:** Whether free cash flow turns positive in 2026 and what caused the $3.5B loss (one-time vs. ongoing).
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** This profile suits investors with high risk tolerance who believe the loss year was temporary and trust the 80% analyst consensus over the negative earnings.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $23.6B (+49% vs prior year)

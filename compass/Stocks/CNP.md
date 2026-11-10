@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Weak** · Bearish read · trend: Downtrend, bouncing
 
-## Weak: no single area stands out, balance sheet holds it back
+## Utility with stalled growth, high debt, and cash burn despite steady dividend
 
-CenterPoint Energy scores 30 of 100 on the Compass, which puts it in the Weak tier. Its long-term price trend is: downtrend, bouncing.
+CenterPoint Energy is a regulated electric and gas utility generating $9.3 billion in annual revenue. The company keeps 11% of sales as profit but is burning cash at $2.4 billion annually while carrying $22.5 billion in debt.
 
 ### What is working
-- No area scores above 60 right now.
+- Revenue jumped 9% year over year in the latest fiscal year
+- Dividend yield of 2.9% provides steady income to shareholders
+- Operating margin of 23% shows the core business runs efficiently
 
 ### What to be careful about
-- Balance sheet: Debt is 2.0x shareholder equity
-- Profitability: Keeps 11% of revenue as profit
-- Growth: Revenue +0% a year over 3 years
+- Free cash flow is negative $2.4 billion; the company is burning cash
+- Debt is 2.0x shareholder equity, indicating high financial leverage
+- Revenue growth has been flat at 0% per year over three years
 
-**Watch next:** The next quarterly report: whether revenue growth of +1% holds.
+**Watch next:** Whether free cash flow turns positive in coming quarters, since the company is currently burning cash while servicing $22.5 billion in debt.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Conservative investors seeking utility dividend income who can tolerate high debt levels and are comfortable with minimal price appreciation.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $9.3B (+9% vs prior year)

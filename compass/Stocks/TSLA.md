@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Weak** · Bearish read · trend: Downtrend, bouncing
 
-## Weak: balance sheet stands out, valuation holds it back
+## Tesla trades at extreme valuation while growth stalls and profitability compresses
 
-Tesla, Inc. scores 34 of 100 on the Compass, which puts it in the Weak tier. Its long-term price trend is: downtrend, bouncing.
+Tesla is a $1.5 trillion auto manufacturer with $94.8 billion in annual revenue. The company generated $3.9 billion in net income last year and $6.2 billion in free cash flow, but growth has stopped and profit margins are thin.
 
 ### What is working
-- Balance sheet: Net cash of $9.9B
+- Strong balance sheet with $9.9B in net cash (cash minus debt)
+- Free cash flow generation of $6.2B shows the business converts sales to actual cash
+- Analysts are split but 54% rate it a buy, suggesting some see value ahead
 
 ### What to be careful about
-- Valuation: Free cash flow yield 0.5%
-- Shareholder returns: Share count growing (dilution)
-- Growth: Revenue +5% a year over 3 years
+- Revenue fell 3% year over year; latest quarter showed 0% growth
+- Earnings per share dropped 47% year over year despite $94.8B in sales
+- Stock trades at 467x earnings (P/E ratio), far above historical norms for automakers
 
-**Watch next:** The next quarterly report: whether revenue growth of -0% holds.
+**Watch next:** Whether revenue returns to growth and whether profit margins expand back toward historical levels, as flat sales and compressed profits conflict with the valuation multiple.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Investors seeking stable, profitable cash generation from mature businesses should look elsewhere; this profile suits only those who believe in significant future growth that does not yet show in the numbers.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $94.8B (-3% vs prior year)

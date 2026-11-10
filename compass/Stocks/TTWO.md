@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Neutral read · trend: Turning up
 
-## Weak: balance sheet stands out, shareholder returns holds it back
+## Gaming giant losing money now despite analyst optimism, shares down from peak
 
-Take-Two Interactive scores 36 of 100 on the Compass, which puts it in the Weak tier. Its long-term price trend is: turning up.
+Take-Two is a major video game publisher with $6.7B in annual revenue. The company is currently unprofitable, posting a $298.2M net loss in its last fiscal year. Latest quarterly revenue fell 16% year over year, signaling a recent slowdown.
 
 ### What is working
-- Balance sheet: Debt is 0.5x shareholder equity
+- Balance sheet is solid with debt at only 0.5x shareholder equity, providing financial cushion
+- Still generating positive free cash flow of $461.5M despite current losses
+- Analyst consensus is strong: 92% of 39 analysts rate it a buy
 
 ### What to be careful about
-- Shareholder returns: Share count growing (dilution)
-- Valuation: Free cash flow yield 1.2%
-- Growth: Revenue +8% a year over 3 years
+- Company lost money: negative 4% net margin and negative 8% return on equity
+- Recent quarter revenue dropped 16% year over year, showing momentum has stalled
+- Share count grew 47% over three years, diluting ownership for existing shareholders
 
-**Watch next:** The next quarterly report: whether revenue growth of -16% holds.
+**Watch next:** Whether the next quarterly revenue stabilizes or continues its 16% year-over-year decline, as this will signal if the recent slowdown is temporary or structural.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Patient investors comfortable holding through downturns who believe in turnarounds, given the gap between current losses and widespread analyst optimism.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-03-31)
 - Revenue $6.7B (+18% vs prior year)

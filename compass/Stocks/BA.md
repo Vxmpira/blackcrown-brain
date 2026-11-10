@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Weak** · Bearish read · trend: Downtrend
 
-## Weak: analyst consensus stands out, balance sheet holds it back
+## Boeing faces cash burn and heavy debt despite analyst optimism
 
-Boeing scores 33 of 100 on the Compass, which puts it in the Weak tier. Its long-term price trend is: downtrend.
+Boeing is a large aerospace and defense manufacturer with $89.5B in annual revenue. The company is growing sales but remains unprofitable by free cash flow measures, carrying $45.6B in debt against $9.5B in cash. Analyst consensus is strongly bullish, yet the stock has fallen 12% over the past year.
 
 ### What is working
-- Analyst consensus: 37 analysts, consensus Buy, 92% rate it a buy
+- Revenue grew 34% in the latest fiscal year and has averaged +10% annually over 3 years
+- Analysts heavily favor the stock: 92% rate it a buy, and consensus is Buy
+- Return on equity stands at 34%, showing efficient use of shareholder capital
 
 ### What to be careful about
-- Balance sheet: Debt is 7.0x shareholder equity
-- Price trend: Price is below its 200-day average
-- Profitability: Keeps 2% of revenue as profit
+- Free cash flow is negative at -$1.9B; the company is burning cash despite positive net income of $2.2B
+- Debt is 7.0x shareholder equity, a very high leverage ratio that limits financial flexibility
+- Stock has fallen 12% over the past year and sits only 6% above its 52-week low; price trend is downward
 
-**Watch next:** The next quarterly report: whether revenue growth of +4% holds.
+**Watch next:** Monitor quarterly free cash flow trends; the -$1.9B annual burn rate must improve for the debt load to become sustainable.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors who can tolerate high volatility (35% yearly) and trust analyst consensus over current price weakness, and who have a multi-year horizon to wait out the cash flow recovery.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $89.5B (+34% vs prior year)

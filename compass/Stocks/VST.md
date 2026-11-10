@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Bearish read · trend: Downtrend
 
-## Weak: shareholder returns stands out, balance sheet holds it back
+## Power generator with strong analyst backing but significant recent price decline and debt load
 
-Vistra Corp. scores 37 of 100 on the Compass, which puts it in the Weak tier. Its long-term price trend is: downtrend.
+Vistra is an independent power producer with $17.6B in annual revenue. Revenue grew 25% last quarter and the company generates $1.3B in free cash flow yearly. However, the stock has fallen 31% over the past year and trades with heavy debt of $21.1B against $2.7B in cash.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Valuation: Free cash flow yield 2.9%
+- Latest quarter revenue jumped 25% year over year, well above the 3-year average of 4% annual growth
+- Analyst consensus is strong: 27 analysts covering the stock with 93% rating it a buy
+- Company returned $1.3B in free cash flow last year and reduced share count by 18.2% over 3 years through buybacks
 
 ### What to be careful about
-- Balance sheet: Debt is 3.4x shareholder equity
-- Price trend: Price is below its 200-day average
-- Growth: Revenue +4% a year over 3 years
+- Stock price down 31% over the past year and trades 25% below its 52-week high of $188.28
+- Earnings per share fell 69% year over year despite revenue growth, signaling profit pressure
+- Debt stands at $21.1B versus only $2.7B in cash, creating a debt-to-equity ratio of 3.4x
 
-**Watch next:** The next quarterly report: whether revenue growth of +25% holds.
+**Watch next:** Monitor whether the company can sustain the 25% recent revenue growth while improving earnings per share, which collapsed 69% last year despite higher sales.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Long-term investors comfortable with utilities and infrastructure who can tolerate high volatility (54% yearly) and significant debt, especially those who trust analyst consensus over near-term price movements.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $17.6B (+19% vs prior year)

@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Bearish read · trend: Downtrend, bouncing
 
-## Mixed: balance sheet stands out, growth holds it back
+## Packaged food company flat for a year, caught between weak sales and strong balance sheet
 
-Hormel Foods scores 38 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: downtrend, bouncing.
+Hormel Foods is a packaged food producer with $12.1B in annual revenue. The company is treading water: revenue fell 2% last quarter, yet it maintains a fortress balance sheet with minimal debt and generates steady free cash flow of $534.3M per year.
 
 ### What is working
-- Balance sheet: Debt is 0.4x shareholder equity
-- Shareholder returns: Share count flat
+- Balance sheet is fortress-like: debt is only 0.4x shareholder equity, providing financial flexibility
+- Free cash flow margin of 4% and $534.3M in annual free cash flow supports the 3.5% dividend
+- Price bounced 14.4% in the last month, though still down 17% from its 52-week high
 
 ### What to be careful about
-- Growth: Revenue -1% a year over 3 years
-- Price trend: Price is below its 200-day average
+- Revenue fell 2% in the latest quarter and has declined 1% per year over the last three years
+- Earnings per share dropped 41% year over year, a sharp deterioration in profitability
+- Stock trades at 36x earnings with only 4% net profit margin, leaving little room for error
 
-**Watch next:** The next quarterly report: whether revenue growth of -2% holds.
+**Watch next:** Whether the latest quarter's 2% revenue decline stabilizes or accelerates in coming quarters, as growth has been the company's main weakness.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors seeking steady dividend income and low financial risk, who are comfortable with stagnant growth and can tolerate packaged food industry headwinds.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-10-26)
 - Revenue $12.1B (+2% vs prior year)

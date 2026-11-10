@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Neutral read · trend: Turning up
 
-## Mixed: price trend stands out, profitability holds it back
+## Utility stock with rising price but negative cash flow and heavy debt load
 
-Ameren scores 44 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: turning up.
+Ameren is a regulated electric utility generating $8.8B in annual revenue. The company is profitable on paper with a 17% net margin, but it is burning cash and carrying $20.6B in debt against $31.4B in market value. Analysts lean toward Buy, though the data shows mixed operational health.
 
 ### What is working
-- Price trend: Price is above its 200-day average
-- Analyst consensus: 24 analysts, consensus Buy, 62% rate it a buy
+- Price momentum: up 8% over the past year and 9.5% in the last month, sitting 75% of the way up its 52-week range
+- Profitability on income statement: 17% net margin and 23% operating margin show the core business is earning money
+- Analyst backing: 62% of 24 covering analysts rate it a buy, with consensus Buy rating
 
 ### What to be careful about
-- Profitability: Keeps 17% of revenue as profit
-- Balance sheet: Debt is 1.5x shareholder equity
-- Growth: Revenue +3% a year over 3 years
+- Cash flow crisis: free cash flow is negative $775M, and the company is burning cash despite reporting $1.5B in net income
+- Heavy debt: $20.6B in debt against only $12M in cash leaves little cushion if rates or costs change
+- Revenue weakening: latest quarter revenue fell 6% year over year, even though full-year revenue rose 15%
 
-**Watch next:** The next quarterly report: whether revenue growth of -6% holds.
+**Watch next:** Whether free cash flow turns positive in coming quarters, since negative cash flow is the sharpest red flag in the data.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Long-term investors who are comfortable with regulated utility dividends and can tolerate balance sheet leverage, but should monitor cash generation closely.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $8.8B (+15% vs prior year)

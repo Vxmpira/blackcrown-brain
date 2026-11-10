@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Weak** · Bearish read · trend: Downtrend, bouncing
 
-## Weak: shareholder returns stands out, valuation holds it back
+## Mosaic shows strong balance sheet but revenue declining and cash flow negative
 
-Mosaic Company (The) scores 31 of 100 on the Compass, which puts it in the Weak tier. Its long-term price trend is: downtrend, bouncing.
+Mosaic is an agricultural inputs company that makes fertilizer and crop nutrients. Revenue fell 10% in the latest quarter and 14% annually over three years, though full-year 2025 revenue rose 8% to $12.1B. The company is currently burning cash while keeping only 4% of revenue as profit.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Balance sheet: Debt is 0.3x shareholder equity
+- Balance sheet is very strong with debt at just 0.3x shareholder equity, giving flexibility
+- Share buybacks are working: share count down 10.4% over three years despite headwinds
+- Earnings per share jumped 209% year over year, showing profit concentration in fewer shares
 
 ### What to be careful about
-- Valuation: Free cash flow yield -7.6%
-- Price trend: Price is below its 200-day average
-- Profitability: Keeps 4% of revenue as profit
+- Revenue is in a long-term decline: down 14% per year over three years and down 10% in latest quarter
+- Free cash flow is negative at negative $534.6M; company is burning cash despite $272.6M on hand
+- Profitability margins are thin: net margin of 4%, operating margin of 7%, and return on equity just 5%
 
-**Watch next:** The next quarterly report: whether revenue growth of -10% holds.
+**Watch next:** Whether free cash flow turns positive in coming quarters, since the company cannot sustain buybacks and a 2.2% dividend yield while burning cash.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Investors seeking stable commodity exposure with low debt, but not those requiring near-term earnings growth or positive cash generation.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $12.1B (+8% vs prior year)

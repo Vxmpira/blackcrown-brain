@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Weak** · Bearish read · trend: Downtrend
 
-## Weak: growth stands out, shareholder returns holds it back
+## Fast-growing GPU infrastructure firm losing money and cash, stock down 52% in a year
 
-CoreWeave, Inc. Class A Common Stock scores 28 of 100 on the Compass, which puts it in the Weak tier. Its long-term price trend is: downtrend.
+CoreWeave provides computing infrastructure for AI workloads. Revenue grew 168% in the latest year to $5.1 billion, but the company lost $1.2 billion and burned $7.3 billion in cash. The stock has fallen sharply and trades well below its highs.
 
 ### What is working
-- Growth: Latest revenue +112% year over year
-- Analyst consensus: 52 analysts, consensus Buy, 71% rate it a buy
+- Revenue grew 168% year over year to $5.1B, showing strong demand for AI compute resources
+- Latest quarter revenue of $2.6B was up 112% versus the prior year, maintaining acceleration
+- 52 analysts cover the stock with 71% rating it a buy, showing professional optimism about future prospects
 
 ### What to be careful about
-- Shareholder returns: Share count growing (dilution)
-- Balance sheet: Debt is 7.1x shareholder equity
-- Valuation: Free cash flow yield -26.8%
+- Company lost $1.2B in net income and burned $7.3B in free cash flow in the latest year
+- Debt is 7.1x shareholder equity, meaning the balance sheet is highly leveraged relative to assets owned by shareholders
+- Stock is down 52% over the past year and sits only 7% up from its 52-week low, showing sustained investor caution
 
-**Watch next:** The next quarterly report: whether revenue growth of +112% holds.
+**Watch next:** Whether CoreWeave can narrow losses and turn cash flow positive as revenue scales, since current burn rates are not sustainable without profitable growth.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Investors with high risk tolerance who believe AI infrastructure buildout will eventually drive profitability, and can tolerate multi-year losses and volatility above 97% yearly.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $5.1B (+168% vs prior year)

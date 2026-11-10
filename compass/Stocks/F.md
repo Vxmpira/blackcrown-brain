@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Bearish read · trend: Downtrend
 
-## Mixed: balance sheet stands out, price trend holds it back
+## Ford trades below trend with losses, strong cash position, and high dividend yield
 
-Ford Motor Company scores 41 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: downtrend.
+Ford is a major auto manufacturer currently unprofitable, losing $8.2B last year. The company maintains a fortress balance sheet with $22.0B in net cash and generates substantial free cash flow of $12.5B annually despite negative net margins.
 
 ### What is working
-- Balance sheet: Net cash of $22.0B
-- Shareholder returns: Share count shrinking (buybacks)
+- Strong net cash position of $22.0B provides financial cushion during downturns
+- Free cash flow of $12.5B funds a high dividend yield of 5.8% and share buybacks
+- Free cash flow yield of 24.9% is unusually high, reflecting depressed valuation
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Growth: Revenue +6% a year over 3 years
-- Profitability: Keeps -4% of revenue as profit
+- Company lost $8.2B last year with net margin of -4% and operating margin of -5%
+- Stock down 6.8% over the past year and sits 29% below its 52-week high
+- Latest quarter revenue fell 2% year over year, signaling recent momentum challenges
 
-**Watch next:** The next quarterly report: whether revenue growth of -2% holds.
+**Watch next:** Whether quarterly revenue stabilizes or continues declining, since the latest quarter showed a 2% year-over-year drop versus the annual 1% growth.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors seeking high current dividend income who can tolerate unprofitability and accept that cash generation may not translate to near-term profitability recovery.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $187.3B (+1% vs prior year)

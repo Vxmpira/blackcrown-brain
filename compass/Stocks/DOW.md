@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Weak** · Bearish read · trend: Downtrend, bouncing
 
-## Weak: shareholder returns stands out, valuation holds it back
+## Dow trades near 52-week lows after three-year revenue decline, despite strong dividend
 
-Dow Inc. scores 38 of 100 on the Compass, which puts it in the Weak tier. Its long-term price trend is: downtrend, bouncing.
+Dow Inc. is a large chemicals company with $40.0B in annual revenue that has contracted 11% per year over three years, though the latest quarter showed 13% growth. The company generates a 12% profit margin and pays a 5.4% dividend, but is currently burning cash with negative free cash flow of -$1.4B.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
+- Latest quarter revenue jumped 13% year over year, reversing the three-year downtrend
+- High dividend yield of 5.4% and share buybacks shrinking count by 1.9% over three years
+- Return on equity of 29% shows remaining capital is deployed efficiently
 
 ### What to be careful about
-- Valuation: Free cash flow yield -6.5%
-- Growth: Revenue -11% a year over 3 years
-- Price trend: Price is below its 200-day average
+- Free cash flow is negative at -$1.4B; company is burning cash despite $4.6B in net income
+- Revenue down 7% last year and -11% per year over three years, showing long-term deterioration
+- Stock is 27% below its 52-week high and sits in a downtrend; 42% yearly volatility shows large swings
 
-**Watch next:** The next quarterly report: whether revenue growth of +13% holds.
+**Watch next:** Whether the 13% latest quarter revenue growth signals a sustained recovery or is temporary, since three-year trends show persistent contraction and cash burn.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors seeking dividend income who can tolerate high volatility and deteriorating fundamentals while waiting for a business turnaround.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $40.0B (-7% vs prior year)

@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Weak** · Bearish read · trend: Losing steam
 
-## Weak: balance sheet stands out, shareholder returns holds it back
+## Intel losing money and cash while price tumbles 59% from peak
 
-Intel scores 31 of 100 on the Compass, which puts it in the Weak tier. Its long-term price trend is: losing steam.
+Intel is a semiconductor company currently unprofitable. Revenue stayed flat year-over-year at $52.9B, though the latest quarter jumped 21% compared to a year ago. The company is burning cash and losing money on every dollar of sales.
 
 ### What is working
-- Balance sheet: Debt is 0.4x shareholder equity
+- Latest quarter revenue +21% year-over-year shows recent momentum in demand
+- Strong balance sheet with debt at 0.4x equity, leaving room to weather losses
+- Stock up 55% over the past year despite current weakness
 
 ### What to be careful about
-- Shareholder returns: Share count growing (dilution)
-- Valuation: Free cash flow yield -1.8%
-- Profitability: Keeps -1% of revenue as profit
+- Company lost $267.0M in net income with -1% net margin; burning cash at -$4.9B free cash flow
+- Price down 41.6% in one month and 50.9% over six months, sitting 58% below its 52-week high
+- Three-year revenue trend is -6% annually; operating margin at -4% shows core business struggling
 
-**Watch next:** The next quarterly report: whether revenue growth of +21% holds.
+**Watch next:** Whether the +21% latest quarter revenue growth can sustain and when the company returns to positive free cash flow and profitability.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** This profile suits investors with high risk tolerance who believe in turnaround stories and can handle volatility (85% yearly), not those seeking stable current profits or cash returns.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-27)
 - Revenue $52.9B (-0% vs prior year)
