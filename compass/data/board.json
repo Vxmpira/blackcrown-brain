@@ -36,8 +36,8 @@
    "read": "bull",
    "trend": "Strong uptrend",
    "ret_1y": 0.2493,
-   "pe": null,
-   "div_yield": null,
+   "pe": 33.32,
+   "div_yield": 0.0082,
    "headline": "Top rated: profitability stands out"
   },
   {
@@ -49,7 +49,7 @@
    "read": "bull",
    "trend": "Losing steam",
    "ret_1y": 2.6606,
-   "pe": 6.98,
+   "pe": 6.49,
    "div_yield": null,
    "headline": "Top rated: growth stands out"
   },
@@ -62,8 +62,8 @@
    "read": "bull",
    "trend": "Strong uptrend",
    "ret_1y": 0.3885,
-   "pe": 20.19,
-   "div_yield": 0.0037,
+   "pe": 19.75,
+   "div_yield": 0.004,
    "headline": "Top rated: balance sheet stands out"
   },
   {
@@ -114,8 +114,8 @@
    "read": "bull",
    "trend": "Strong uptrend",
    "ret_1y": 0.0453,
-   "pe": 11.44,
-   "div_yield": 0.0215,
+   "pe": 11.36,
+   "div_yield": 0.0024,
    "headline": "Top rated: valuation stands out"
   },
   {
@@ -192,8 +192,8 @@
    "read": "bull",
    "trend": "Pullback in uptrend",
    "ret_1y": 0.2713,
-   "pe": 28.51,
-   "div_yield": 0.0284,
+   "pe": 28.18,
+   "div_yield": 0.0551,
    "headline": "Top rated: profitability stands out"
   },
   {
@@ -205,7 +205,7 @@
    "read": "bull",
    "trend": "Strong uptrend",
    "ret_1y": 0.1128,
-   "pe": 19.06,
+   "pe": 20.56,
    "div_yield": null,
    "headline": "Top rated: balance sheet stands out"
   },
@@ -257,8 +257,8 @@
    "read": "bull",
    "trend": "Pullback in uptrend",
    "ret_1y": -0.0049,
-   "pe": 13.39,
-   "div_yield": 0.0113,
+   "pe": 13.64,
+   "div_yield": 0.025,
    "headline": "Top rated: shareholder returns stands out"
   },
   {
@@ -270,8 +270,8 @@
    "read": "bull",
    "trend": "Strong uptrend",
    "ret_1y": -0.0964,
-   "pe": 19.81,
-   "div_yield": 0.0135,
+   "pe": 19.33,
+   "div_yield": 0.018,
    "headline": "Top rated: shareholder returns stands out"
   },
   {
@@ -296,7 +296,7 @@
    "read": "bull",
    "trend": "Pullback in uptrend",
    "ret_1y": -0.0603,
-   "pe": 116.92,
+   "pe": 111.38,
    "div_yield": null,
    "headline": "Top rated: growth stands out, valuation holds it back"
   },
@@ -309,8 +309,8 @@
    "read": "bull",
    "trend": "Strong uptrend",
    "ret_1y": 0.421,
-   "pe": 10.45,
-   "div_yield": 0.0108,
+   "pe": 9.72,
+   "div_yield": 0.0225,
    "headline": "Top rated: valuation stands out"
   },
   {
@@ -348,8 +348,8 @@
    "read": "bull",
    "trend": "Pullback in uptrend",
    "ret_1y": 0.7975,
-   "pe": 7.93,
-   "div_yield": 0.019,
+   "pe": 7.85,
+   "div_yield": 0.0354,
    "headline": "Top rated: balance sheet stands out"
   },
   {
@@ -374,8 +374,8 @@
    "read": "bull",
    "trend": "Strong uptrend",
    "ret_1y": -0.0777,
-   "pe": 21.13,
-   "div_yield": 0.0103,
+   "pe": 20.71,
+   "div_yield": 0.0125,
    "headline": "Top rated: balance sheet stands out"
   },
   {
@@ -413,8 +413,8 @@
    "read": "bull",
    "trend": "Losing steam",
    "ret_1y": -0.0884,
-   "pe": 21.68,
-   "div_yield": 0.0002,
+   "pe": 22.32,
+   "div_yield": 0.0003,
    "headline": "Top rated: growth stands out, price trend holds it back"
   },
   {
@@ -426,7 +426,7 @@
    "read": "bull",
    "trend": "Strong uptrend",
    "ret_1y": 0.3381,
-   "pe": 35.28,
+   "pe": 34.85,
    "div_yield": null,
    "headline": "Top rated: balance sheet stands out, valuation holds it back"
   },
@@ -478,8 +478,8 @@
    "read": "bull",
    "trend": "Turning up",
    "ret_1y": 0.3172,
-   "pe": 19.97,
-   "div_yield": 0.0089,
+   "pe": 20.06,
+   "div_yield": 0.0148,
    "headline": "Top rated: balance sheet stands out"
   },
   {
@@ -504,8 +504,8 @@
    "read": "bull",
    "trend": "Turning up",
    "ret_1y": 0.2271,
-   "pe": 22.87,
-   "div_yield": 0.0087,
+   "pe": 22.22,
+   "div_yield": 0.0241,
    "headline": "Top rated: balance sheet stands out"
   },
   {
@@ -530,7 +530,7 @@
    "read": "bull",
    "trend": "Strong uptrend",
    "ret_1y": 0.028,
-   "pe": 49.61,
+   "pe": 48.39,
    "div_yield": null,
    "headline": "Strong: balance sheet stands out, valuation holds it back"
   },
@@ -608,8 +608,8 @@
    "read": "bull",
    "trend": "Pullback in uptrend",
    "ret_1y": 0.5595,
-   "pe": 24.88,
-   "div_yield": 0.0117,
+   "pe": 24.39,
+   "div_yield": 0.0255,
    "headline": "Strong: shareholder returns stands out, balance sheet holds it back"
   },
   {
@@ -647,8 +647,8 @@
    "read": "bull",
    "trend": "Strong uptrend",
    "ret_1y": 0.2688,
-   "pe": 87.97,
-   "div_yield": 0.0075,
+   "pe": 31.99,
+   "div_yield": 0.0107,
    "headline": "Strong: profitability stands out, valuation holds it back"
   },
   {
@@ -686,8 +686,8 @@
    "read": "bull",
    "trend": "Uptrend",
    "ret_1y": -0.1129,
-   "pe": 11.21,
-   "div_yield": 0.0023,
+   "pe": 10.64,
+   "div_yield": 0.0099,
    "headline": "Strong: valuation stands out"
   },
   {
@@ -712,8 +712,8 @@
    "read": "bull",
    "trend": "Losing steam",
    "ret_1y": 0.7826,
-   "pe": 26.13,
-   "div_yield": 0.0056,
+   "pe": 26.43,
+   "div_yield": 0.0368,
    "headline": "Strong: profitability stands out"
   },
   {
@@ -725,8 +725,8 @@
    "read": "bull",
    "trend": "Uptrend",
    "ret_1y": 0.32,
-   "pe": 29.0,
-   "div_yield": 0.0064,
+   "pe": 24.59,
+   "div_yield": 0.0127,
    "headline": "Strong: shareholder returns stands out, balance sheet holds it back"
   },
   {
@@ -738,8 +738,8 @@
    "read": "bull",
    "trend": "Strong uptrend",
    "ret_1y": 0.2667,
-   "pe": 23.89,
-   "div_yield": 0.0021,
+   "pe": 23.34,
+   "div_yield": 0.0022,
    "headline": "Strong: balance sheet stands out, growth holds it back"
   },
   {
@@ -764,8 +764,8 @@
    "read": "bull",
    "trend": "Strong uptrend",
    "ret_1y": 0.0422,
-   "pe": 18.39,
-   "div_yield": 0.007,
+   "pe": 18.05,
+   "div_yield": 0.0057,
    "headline": "Strong: balance sheet stands out"
   },
   {
@@ -933,8 +933,8 @@
    "read": "bull",
    "trend": "Strong uptrend",
    "ret_1y": -0.1461,
-   "pe": 8.2,
-   "div_yield": 0.0041,
+   "pe": 7.94,
+   "div_yield": 0.0058,
    "headline": "Strong: shareholder returns stands out"
   },
   {
@@ -959,8 +959,8 @@
    "read": "bull",
    "trend": "Uptrend",
    "ret_1y": 0.4636,
-   "pe": 28.54,
-   "div_yield": 0.0069,
+   "pe": 28.42,
+   "div_yield": 0.0102,
    "headline": "Strong: balance sheet stands out"
   },
   {
@@ -972,8 +972,8 @@
    "read": "bull",
    "trend": "Strong uptrend",
    "ret_1y": -0.0574,
-   "pe": 27.82,
-   "div_yield": 0.0082,
+   "pe": 27.42,
+   "div_yield": 0.0087,
    "headline": "Strong: shareholder returns stands out"
   },
   {
@@ -1050,8 +1050,8 @@
    "read": "bull",
    "trend": "Uptrend",
    "ret_1y": 0.2606,
-   "pe": 16.7,
-   "div_yield": null,
+   "pe": 16.62,
+   "div_yield": 0.0629,
    "headline": "Strong: profitability stands out, balance sheet holds it back"
   },
   {
@@ -1128,7 +1128,7 @@
    "read": "bull",
    "trend": "Pullback in uptrend",
    "ret_1y": 1.1224,
-   "pe": 108.95,
+   "pe": 105.89,
    "div_yield": null,
    "headline": "Strong: balance sheet stands out, valuation holds it back"
   },
@@ -1141,8 +1141,8 @@
    "read": "bull",
    "trend": "Pullback in uptrend",
    "ret_1y": 0.4495,
-   "pe": 14.01,
-   "div_yield": 0.0226,
+   "pe": 12.62,
+   "div_yield": 0.0392,
    "headline": "Strong: shareholder returns stands out"
   },
   {
@@ -1167,8 +1167,8 @@
    "read": "bull",
    "trend": "Strong uptrend",
    "ret_1y": 0.1453,
-   "pe": 25.35,
-   "div_yield": 0.0251,
+   "pe": 24.24,
+   "div_yield": 0.0249,
    "headline": "Strong: price trend stands out, growth holds it back"
   },
   {
@@ -1180,7 +1180,7 @@
    "read": "bull",
    "trend": "Pullback in uptrend",
    "ret_1y": 0.7104,
-   "pe": 27.4,
+   "pe": 25.13,
    "div_yield": null,
    "headline": "Strong: balance sheet stands out"
   },
@@ -1193,8 +1193,8 @@
    "read": "bull",
    "trend": "Uptrend",
    "ret_1y": 0.2792,
-   "pe": 11.8,
-   "div_yield": 0.0336,
+   "pe": 11.34,
+   "div_yield": 0.0516,
    "headline": "Strong: valuation stands out"
   },
   {
@@ -1219,7 +1219,7 @@
    "read": "bull",
    "trend": "Pullback in uptrend",
    "ret_1y": 0.1273,
-   "pe": 139.1,
+   "pe": 137.65,
    "div_yield": null,
    "headline": "Strong: balance sheet stands out, valuation holds it back"
   },
@@ -1232,8 +1232,8 @@
    "read": "bull",
    "trend": "Uptrend",
    "ret_1y": 0.0675,
-   "pe": 11.09,
-   "div_yield": 0.0473,
+   "pe": 10.83,
+   "div_yield": 0.0497,
    "headline": "Strong: valuation stands out, growth holds it back"
   },
   {
@@ -1245,8 +1245,8 @@
    "read": "bull",
    "trend": "Strong uptrend",
    "ret_1y": 0.8424,
-   "pe": 38.31,
-   "div_yield": 0.0185,
+   "pe": 37.54,
+   "div_yield": 0.0339,
    "headline": "Strong: price trend stands out, valuation holds it back"
   },
   {
@@ -1297,8 +1297,8 @@
    "read": "bull",
    "trend": "Pullback in uptrend",
    "ret_1y": 0.9722,
-   "pe": 7.8,
-   "div_yield": 0.0131,
+   "pe": 7.67,
+   "div_yield": 0.0327,
    "headline": "Strong: balance sheet stands out, growth holds it back"
   },
   {
@@ -1336,8 +1336,8 @@
    "read": "bull",
    "trend": "Strong uptrend",
    "ret_1y": 0.1928,
-   "pe": 29.04,
-   "div_yield": 0.0037,
+   "pe": 28.24,
+   "div_yield": 0.0043,
    "headline": "Strong: price trend stands out"
   },
   {
@@ -1375,8 +1375,8 @@
    "read": "bull",
    "trend": "Uptrend",
    "ret_1y": 0.0133,
-   "pe": 22.51,
-   "div_yield": 0.0389,
+   "pe": 22.62,
+   "div_yield": 0.03,
    "headline": "Strong: profitability stands out"
   },
   {
@@ -1440,8 +1440,8 @@
    "read": "bull",
    "trend": "Uptrend",
    "ret_1y": 0.3409,
-   "pe": 23.13,
-   "div_yield": 0.0183,
+   "pe": 23.0,
+   "div_yield": 0.0232,
    "headline": "Strong: profitability stands out, balance sheet holds it back"
   },
   {
@@ -1687,8 +1687,8 @@
    "read": "bull",
    "trend": "Uptrend",
    "ret_1y": 0.0307,
-   "pe": 14.64,
-   "div_yield": 0.0063,
+   "pe": 13.61,
+   "div_yield": 0.0159,
    "headline": "Strong: shareholder returns stands out"
   },
   {
@@ -1752,8 +1752,8 @@
    "read": "bull",
    "trend": "Uptrend",
    "ret_1y": 0.3647,
-   "pe": 18.57,
-   "div_yield": 0.0174,
+   "pe": 13.21,
+   "div_yield": 0.0393,
    "headline": "Strong: shareholder returns stands out, growth holds it back"
   },
   {
@@ -1791,8 +1791,8 @@
    "read": "bull",
    "trend": "Strong uptrend",
    "ret_1y": 0.2683,
-   "pe": 66.2,
-   "div_yield": 0.0044,
+   "pe": 62.91,
+   "div_yield": 0.005,
    "headline": "Strong: balance sheet stands out, valuation holds it back"
   },
   {
@@ -1869,8 +1869,8 @@
    "read": "bull",
    "trend": "Uptrend",
    "ret_1y": 0.1431,
-   "pe": 27.24,
-   "div_yield": 0.0166,
+   "pe": 27.2,
+   "div_yield": 0.025,
    "headline": "Strong: shareholder returns stands out, growth holds it back"
   },
   {
@@ -2064,8 +2064,8 @@
    "read": "bull",
    "trend": "Turning up",
    "ret_1y": -0.0387,
-   "pe": 37.47,
-   "div_yield": 0.134,
+   "pe": 31.7,
+   "div_yield": 0.0784,
    "headline": "Strong: profitability stands out, valuation holds it back"
   },
   {
@@ -2103,8 +2103,8 @@
    "read": "bull",
    "trend": "Turning up",
    "ret_1y": 0.2838,
-   "pe": 17.65,
-   "div_yield": null,
+   "pe": 17.63,
+   "div_yield": 0.0191,
    "headline": "Strong: shareholder returns stands out"
   },
   {
@@ -2207,8 +2207,8 @@
    "read": "bull",
    "trend": "Turning up",
    "ret_1y": 0.2508,
-   "pe": 12.26,
-   "div_yield": 0.0289,
+   "pe": 11.62,
+   "div_yield": 0.0482,
    "headline": "Strong: valuation stands out"
   },
   {
@@ -2220,8 +2220,8 @@
    "read": "bull",
    "trend": "Turning up",
    "ret_1y": -0.0759,
-   "pe": 30.1,
-   "div_yield": 0.009,
+   "pe": 29.46,
+   "div_yield": 0.0057,
    "headline": "Strong: profitability stands out, growth holds it back"
   },
   {
@@ -2285,8 +2285,8 @@
    "read": "bull",
    "trend": "Strong uptrend",
    "ret_1y": 0.6823,
-   "pe": 20.55,
-   "div_yield": 0.0287,
+   "pe": 20.3,
+   "div_yield": 0.0354,
    "headline": "Strong: price trend stands out, growth holds it back"
   },
   {
@@ -2467,7 +2467,7 @@
    "read": "bull",
    "trend": "Strong uptrend",
    "ret_1y": -0.1113,
-   "pe": 51.87,
+   "pe": 49.37,
    "div_yield": null,
    "headline": "Strong: balance sheet stands out, valuation holds it back"
   },
@@ -2545,8 +2545,8 @@
    "read": "bull",
    "trend": "Strong uptrend",
    "ret_1y": 0.2541,
-   "pe": 37.86,
-   "div_yield": 0.0023,
+   "pe": 36.63,
+   "div_yield": 0.0029,
    "headline": "Strong: price trend stands out, valuation holds it back"
   },
   {
@@ -2571,8 +2571,8 @@
    "read": "bull",
    "trend": "Pullback in uptrend",
    "ret_1y": 0.6287,
-   "pe": 24.8,
-   "div_yield": 0.0029,
+   "pe": 25.89,
+   "div_yield": 0.0228,
    "headline": "Strong: shareholder returns stands out, balance sheet holds it back"
   },
   {
@@ -2623,8 +2623,8 @@
    "read": "bull",
    "trend": "Strong uptrend",
    "ret_1y": 0.1955,
-   "pe": 34.0,
-   "div_yield": 0.0096,
+   "pe": 33.76,
+   "div_yield": 0.0133,
    "headline": "Strong: price trend stands out, valuation holds it back"
   },
   {
@@ -2675,8 +2675,8 @@
    "read": "bull",
    "trend": "Turning up",
    "ret_1y": -0.0415,
-   "pe": 31.88,
-   "div_yield": 0.0097,
+   "pe": 30.85,
+   "div_yield": 0.0102,
    "headline": "Strong: balance sheet stands out"
   },
   {
@@ -2688,8 +2688,8 @@
    "read": "bull",
    "trend": "Pullback in uptrend",
    "ret_1y": 0.1749,
-   "pe": 42.14,
-   "div_yield": 0.0341,
+   "pe": 112.92,
+   "div_yield": 0.0287,
    "headline": "Strong: balance sheet stands out, growth holds it back"
   },
   {
@@ -2701,8 +2701,8 @@
    "read": "neut",
    "trend": "Downtrend, bouncing",
    "ret_1y": 0.1546,
-   "pe": 11.21,
-   "div_yield": 0.0355,
+   "pe": 10.74,
+   "div_yield": 0.0598,
    "headline": "Strong: valuation stands out, price trend holds it back"
   },
   {
@@ -2727,8 +2727,8 @@
    "read": "bull",
    "trend": "Losing steam",
    "ret_1y": 0.3408,
-   "pe": 7.46,
-   "div_yield": 0.0214,
+   "pe": 7.69,
+   "div_yield": 0.012,
    "headline": "Strong: valuation stands out, growth holds it back"
   },
   {
@@ -2740,8 +2740,8 @@
    "read": "bull",
    "trend": "Strong uptrend",
    "ret_1y": -0.233,
-   "pe": 32.2,
-   "div_yield": null,
+   "pe": 30.97,
+   "div_yield": 0.0142,
    "headline": "Strong: balance sheet stands out, growth holds it back"
   },
   {
@@ -2831,8 +2831,8 @@
    "read": "bull",
    "trend": "Uptrend",
    "ret_1y": 0.1741,
-   "pe": 84.67,
-   "div_yield": 0.0308,
+   "pe": 33.83,
+   "div_yield": 0.035,
    "headline": "Strong: price trend stands out"
   },
   {
@@ -2844,8 +2844,8 @@
    "read": "neut",
    "trend": "Downtrend",
    "ret_1y": 0.092,
-   "pe": 36.7,
-   "div_yield": 0.0009,
+   "pe": 36.99,
+   "div_yield": 0.0002,
    "headline": "Strong: balance sheet stands out, price trend holds it back"
   },
   {
@@ -2870,8 +2870,8 @@
    "read": "bull",
    "trend": "Pullback in uptrend",
    "ret_1y": 0.5439,
-   "pe": 17.34,
-   "div_yield": 0.0084,
+   "pe": 16.56,
+   "div_yield": 0.0152,
    "headline": "Strong: shareholder returns stands out, growth holds it back"
   },
   {
@@ -2909,7 +2909,7 @@
    "read": "bull",
    "trend": "Pullback in uptrend",
    "ret_1y": 0.5318,
-   "pe": 812.97,
+   "pe": 882.49,
    "div_yield": null,
    "headline": "Strong: balance sheet stands out, valuation holds it back"
   },
@@ -2922,7 +2922,7 @@
    "read": "neut",
    "trend": "Downtrend",
    "ret_1y": -0.4915,
-   "pe": 20.19,
+   "pe": 19.62,
    "div_yield": null,
    "headline": "Strong: growth stands out, shareholder returns holds it back"
   },
@@ -2948,7 +2948,7 @@
    "read": "bull",
    "trend": "Pullback in uptrend",
    "ret_1y": -0.022,
-   "pe": 90.34,
+   "pe": 91.22,
    "div_yield": null,
    "headline": "Strong: balance sheet stands out, valuation holds it back"
   },
@@ -2987,8 +2987,8 @@
    "read": "bull",
    "trend": "Losing steam",
    "ret_1y": -0.0165,
-   "pe": 7.52,
-   "div_yield": 0.0159,
+   "pe": 6.84,
+   "div_yield": 0.0335,
    "headline": "Strong: valuation stands out, price trend holds it back"
   },
   {
@@ -3026,8 +3026,8 @@
    "read": "bull",
    "trend": "Uptrend",
    "ret_1y": 0.3856,
-   "pe": 12.79,
-   "div_yield": 0.0264,
+   "pe": 15.65,
+   "div_yield": 0.0369,
    "headline": "Strong: shareholder returns stands out, growth holds it back"
   },
   {
@@ -3091,7 +3091,7 @@
    "read": "bull",
    "trend": "Turning up",
    "ret_1y": 0.2488,
-   "pe": 29.33,
+   "pe": 28.59,
    "div_yield": null,
    "headline": "Strong: balance sheet stands out"
   },
@@ -3117,8 +3117,8 @@
    "read": "bull",
    "trend": "Turning up",
    "ret_1y": 0.0961,
-   "pe": 28.33,
-   "div_yield": 0.0409,
+   "pe": 58.28,
+   "div_yield": 0.0206,
    "headline": "Strong: profitability stands out, growth holds it back"
   },
   {
@@ -3169,7 +3169,7 @@
    "read": "bull",
    "trend": "Losing steam",
    "ret_1y": -0.4156,
-   "pe": 72.47,
+   "pe": 73.82,
    "div_yield": null,
    "headline": "Strong: balance sheet stands out, valuation holds it back"
   },
@@ -3195,7 +3195,7 @@
    "read": "bull",
    "trend": "Strong uptrend",
    "ret_1y": 0.1709,
-   "pe": 80.68,
+   "pe": 83.12,
    "div_yield": null,
    "headline": "Strong: balance sheet stands out, shareholder returns holds it back"
   },
@@ -3208,7 +3208,7 @@
    "read": "bull",
    "trend": "Turning up",
    "ret_1y": 0.2349,
-   "pe": 11.03,
+   "pe": 10.97,
    "div_yield": null,
    "headline": "Strong: valuation stands out"
   },
@@ -3234,8 +3234,8 @@
    "read": "bull",
    "trend": "Strong uptrend",
    "ret_1y": 0.233,
-   "pe": 22.78,
-   "div_yield": 0.0217,
+   "pe": 22.28,
+   "div_yield": 0.0137,
    "headline": "Strong: shareholder returns stands out, growth holds it back"
   },
   {
@@ -3260,8 +3260,8 @@
    "read": "bull",
    "trend": "Turning up",
    "ret_1y": 0.2632,
-   "pe": 20.3,
-   "div_yield": 0.0156,
+   "pe": 20.02,
+   "div_yield": 0.0203,
    "headline": "Strong: shareholder returns stands out, growth holds it back"
   },
   {
@@ -3273,8 +3273,8 @@
    "read": "bull",
    "trend": "Turning up",
    "ret_1y": 0.1946,
-   "pe": 34.82,
-   "div_yield": 0.0166,
+   "pe": 33.25,
+   "div_yield": 0.0471,
    "headline": "Strong: profitability stands out, growth holds it back"
   },
   {
@@ -3286,8 +3286,8 @@
    "read": "neut",
    "trend": "Downtrend, bouncing",
    "ret_1y": 0.0541,
-   "pe": 17.14,
-   "div_yield": 0.0472,
+   "pe": 16.65,
+   "div_yield": 0.0504,
    "headline": "Solid: growth stands out, balance sheet holds it back"
   },
   {
@@ -3312,8 +3312,8 @@
    "read": "neut",
    "trend": "Uptrend",
    "ret_1y": 0.2581,
-   "pe": 31.03,
-   "div_yield": 0.0199,
+   "pe": 31.17,
+   "div_yield": 0.0322,
    "headline": "Solid: shareholder returns stands out, growth holds it back"
   },
   {
@@ -3325,8 +3325,8 @@
    "read": "neut",
    "trend": "Turning up",
    "ret_1y": 0.1195,
-   "pe": 32.16,
-   "div_yield": 0.0133,
+   "pe": 31.51,
+   "div_yield": 0.0295,
    "headline": "Solid: shareholder returns stands out, valuation holds it back"
   },
   {
@@ -3364,8 +3364,8 @@
    "read": "neut",
    "trend": "Uptrend",
    "ret_1y": 0.1463,
-   "pe": 11.1,
-   "div_yield": 0.0447,
+   "pe": 10.55,
+   "div_yield": 0.0522,
    "headline": "Solid: valuation stands out, profitability holds it back"
   },
   {
@@ -3377,8 +3377,8 @@
    "read": "neut",
    "trend": "Uptrend",
    "ret_1y": 0.7433,
-   "pe": 16.52,
-   "div_yield": 0.0283,
+   "pe": 17.05,
+   "div_yield": 0.0335,
    "headline": "Solid: price trend stands out, growth holds it back"
   },
   {
@@ -3391,7 +3391,7 @@
    "trend": "Strong uptrend",
    "ret_1y": 1.0163,
    "pe": -1.0,
-   "div_yield": null,
+   "div_yield": 0.0509,
    "headline": "Solid: price trend stands out, growth holds it back"
   },
   {
@@ -3507,8 +3507,8 @@
    "read": "neut",
    "trend": "Turning up",
    "ret_1y": 0.072,
-   "pe": 52.75,
-   "div_yield": 0.0049,
+   "pe": 130.01,
+   "div_yield": 0.0063,
    "headline": "Solid: growth stands out, valuation holds it back"
   },
   {
@@ -3520,8 +3520,8 @@
    "read": "neut",
    "trend": "Strong uptrend",
    "ret_1y": 0.7405,
-   "pe": 75.6,
-   "div_yield": 0.0018,
+   "pe": 70.48,
+   "div_yield": 0.0031,
    "headline": "Solid: shareholder returns stands out, valuation holds it back"
   },
   {
@@ -3546,8 +3546,8 @@
    "read": "neut",
    "trend": "Turning up",
    "ret_1y": 0.1323,
-   "pe": 32.83,
-   "div_yield": 0.0076,
+   "pe": 32.19,
+   "div_yield": 0.0137,
    "headline": "Solid: profitability stands out, valuation holds it back"
   },
   {
@@ -3585,8 +3585,8 @@
    "read": "neut",
    "trend": "Losing steam",
    "ret_1y": 0.2713,
-   "pe": 13.45,
-   "div_yield": 0.0477,
+   "pe": 13.3,
+   "div_yield": 0.0567,
    "headline": "Solid: valuation stands out"
   },
   {
@@ -3676,8 +3676,8 @@
    "read": "neut",
    "trend": "Strong uptrend",
    "ret_1y": 0.7738,
-   "pe": 16.31,
-   "div_yield": 0.0087,
+   "pe": 15.82,
+   "div_yield": 0.013,
    "headline": "Solid: balance sheet stands out, profitability holds it back"
   },
   {
@@ -3702,8 +3702,8 @@
    "read": "neut",
    "trend": "Turning up",
    "ret_1y": 0.0895,
-   "pe": 13.94,
-   "div_yield": 0.0068,
+   "pe": 13.92,
+   "div_yield": 0.0091,
    "headline": "Solid: balance sheet stands out, growth holds it back"
   },
   {
@@ -3728,8 +3728,8 @@
    "read": "neut",
    "trend": "Downtrend, bouncing",
    "ret_1y": 0.3105,
-   "pe": 17.53,
-   "div_yield": 0.0114,
+   "pe": 16.33,
+   "div_yield": 0.0458,
    "headline": "Solid: shareholder returns stands out, balance sheet holds it back"
   },
   {
@@ -3793,8 +3793,8 @@
    "read": "neut",
    "trend": "Downtrend",
    "ret_1y": -0.0241,
-   "pe": 29.95,
-   "div_yield": 0.0088,
+   "pe": 29.13,
+   "div_yield": 0.0131,
    "headline": "Solid: shareholder returns stands out, price trend holds it back"
   },
   {
@@ -3819,8 +3819,8 @@
    "read": "neut",
    "trend": "Turning up",
    "ret_1y": 0.1338,
-   "pe": null,
-   "div_yield": null,
+   "pe": 12.8,
+   "div_yield": 0.0149,
    "headline": "Solid: shareholder returns stands out, growth holds it back"
   },
   {
@@ -3897,8 +3897,8 @@
    "read": "neut",
    "trend": "Losing steam",
    "ret_1y": 0.359,
-   "pe": 24.42,
-   "div_yield": 0.0224,
+   "pe": 24.02,
+   "div_yield": 0.019,
    "headline": "Solid: balance sheet stands out, growth holds it back"
   },
   {
@@ -3949,8 +3949,8 @@
    "read": "neut",
    "trend": "Downtrend, bouncing",
    "ret_1y": 0.0403,
-   "pe": 40.8,
-   "div_yield": 0.0544,
+   "pe": 41.66,
+   "div_yield": 0.057,
    "headline": "Solid: balance sheet stands out, price trend holds it back"
   },
   {
@@ -3975,8 +3975,8 @@
    "read": "neut",
    "trend": "Downtrend, bouncing",
    "ret_1y": -0.0387,
-   "pe": 20.47,
-   "div_yield": 0.0235,
+   "pe": 20.13,
+   "div_yield": 0.0146,
    "headline": "Solid: profitability stands out, price trend holds it back"
   },
   {
@@ -4014,8 +4014,8 @@
    "read": "neut",
    "trend": "Downtrend, bouncing",
    "ret_1y": -0.1809,
-   "pe": 11.4,
-   "div_yield": 0.0702,
+   "pe": 11.73,
+   "div_yield": 0.0579,
    "headline": "Solid: valuation stands out, price trend holds it back"
   },
   {
@@ -4053,8 +4053,8 @@
    "read": "neut",
    "trend": "Downtrend",
    "ret_1y": -0.1403,
-   "pe": 33.1,
-   "div_yield": 0.0076,
+   "pe": 33.06,
+   "div_yield": 0.0079,
    "headline": "Solid: balance sheet stands out, price trend holds it back"
   },
   {
@@ -4183,8 +4183,8 @@
    "read": "neut",
    "trend": "Downtrend",
    "ret_1y": 0.355,
-   "pe": 28.39,
-   "div_yield": 0.0019,
+   "pe": 27.63,
+   "div_yield": 0.0048,
    "headline": "Solid: balance sheet stands out, price trend holds it back"
   },
   {
@@ -4235,8 +4235,8 @@
    "read": "neut",
    "trend": "Turning up",
    "ret_1y": 0.2242,
-   "pe": 49.26,
-   "div_yield": 0.039,
+   "pe": 46.49,
+   "div_yield": 0.04,
    "headline": "Solid: growth stands out, valuation holds it back"
   },
   {
@@ -4261,8 +4261,8 @@
    "read": "neut",
    "trend": "Turning up",
    "ret_1y": 0.1177,
-   "pe": 12.85,
-   "div_yield": 0.041,
+   "pe": 11.75,
+   "div_yield": 0.0654,
    "headline": "Solid: valuation stands out, profitability holds it back"
   },
   {
@@ -4287,8 +4287,8 @@
    "read": "neut",
    "trend": "Strong uptrend",
    "ret_1y": 0.2357,
-   "pe": 61.82,
-   "div_yield": 0.0324,
+   "pe": 61.44,
+   "div_yield": 0.0374,
    "headline": "Solid: shareholder returns stands out, growth holds it back"
   },
   {
@@ -4313,8 +4313,8 @@
    "read": "neut",
    "trend": "Downtrend, bouncing",
    "ret_1y": 0.0811,
-   "pe": 19.32,
-   "div_yield": 0.0235,
+   "pe": 19.07,
+   "div_yield": 0.027,
    "headline": "Solid: balance sheet stands out, price trend holds it back"
   },
   {
@@ -4339,7 +4339,7 @@
    "read": "neut",
    "trend": "Downtrend, bouncing",
    "ret_1y": -0.4124,
-   "pe": 33.81,
+   "pe": 8.3,
    "div_yield": null,
    "headline": "Solid: balance sheet stands out, price trend holds it back"
   },
@@ -4366,7 +4366,7 @@
    "trend": "Strong uptrend",
    "ret_1y": 0.1912,
    "pe": 41.57,
-   "div_yield": null,
+   "div_yield": 0.0538,
    "headline": "Solid: price trend stands out, growth holds it back"
   },
   {
@@ -4456,8 +4456,8 @@
    "read": "neut",
    "trend": "Downtrend",
    "ret_1y": -0.1226,
-   "pe": 11.84,
-   "div_yield": 0.0523,
+   "pe": 11.18,
+   "div_yield": 0.0685,
    "headline": "Solid: valuation stands out, price trend holds it back"
   },
   {
@@ -4495,8 +4495,8 @@
    "read": "neut",
    "trend": "Turning up",
    "ret_1y": -0.1477,
-   "pe": 19.3,
-   "div_yield": 0.0211,
+   "pe": 19.44,
+   "div_yield": 0.016,
    "headline": "Solid: shareholder returns stands out, growth holds it back"
   },
   {
@@ -4534,8 +4534,8 @@
    "read": "neut",
    "trend": "Downtrend, bouncing",
    "ret_1y": 0.0424,
-   "pe": 15.41,
-   "div_yield": 0.0012,
+   "pe": 14.73,
+   "div_yield": 0.001,
    "headline": "Solid: balance sheet stands out, price trend holds it back"
   },
   {
@@ -4547,7 +4547,7 @@
    "read": "neut",
    "trend": "Downtrend, bouncing",
    "ret_1y": 0.3438,
-   "pe": 46.81,
+   "pe": 44.62,
    "div_yield": 0.0005,
    "headline": "Solid: balance sheet stands out, valuation holds it back"
   },
@@ -4599,7 +4599,7 @@
    "read": "neut",
    "trend": "Downtrend, bouncing",
    "ret_1y": -0.2376,
-   "pe": 41.01,
+   "pe": 40.96,
    "div_yield": null,
    "headline": "Solid: profitability stands out, price trend holds it back"
   },
@@ -4612,8 +4612,8 @@
    "read": "neut",
    "trend": "Turning up",
    "ret_1y": -0.0026,
-   "pe": 33.95,
-   "div_yield": 0.0068,
+   "pe": 33.51,
+   "div_yield": 0.0081,
    "headline": "Solid: balance sheet stands out, growth holds it back"
   },
   {
@@ -4703,8 +4703,8 @@
    "read": "neut",
    "trend": "Downtrend, bouncing",
    "ret_1y": -0.0569,
-   "pe": 25.26,
-   "div_yield": 0.012,
+   "pe": 24.85,
+   "div_yield": 0.0148,
    "headline": "Solid: balance sheet stands out, price trend holds it back"
   },
   {
@@ -4742,8 +4742,8 @@
    "read": "neut",
    "trend": "Turning up",
    "ret_1y": 0.1397,
-   "pe": 21.03,
-   "div_yield": 0.0581,
+   "pe": 21.29,
+   "div_yield": 0.0426,
    "headline": "Solid: shareholder returns stands out, balance sheet holds it back"
   },
   {
@@ -4794,8 +4794,8 @@
    "read": "neut",
    "trend": "Downtrend, bouncing",
    "ret_1y": -0.3571,
-   "pe": 34.57,
-   "div_yield": 0.018,
+   "pe": 34.73,
+   "div_yield": 0.015,
    "headline": "Solid: balance sheet stands out, price trend holds it back"
   },
   {
@@ -4859,8 +4859,8 @@
    "read": "neut",
    "trend": "Downtrend",
    "ret_1y": 0.327,
-   "pe": 53.49,
-   "div_yield": 0.0007,
+   "pe": 52.98,
+   "div_yield": 0.0018,
    "headline": "Solid: balance sheet stands out, valuation holds it back"
   },
   {
@@ -4950,8 +4950,8 @@
    "read": "neut",
    "trend": "Downtrend",
    "ret_1y": 0.1939,
-   "pe": 29.99,
-   "div_yield": 0.0067,
+   "pe": 32.05,
+   "div_yield": 0.004,
    "headline": "Solid: balance sheet stands out, price trend holds it back"
   },
   {
@@ -4963,8 +4963,8 @@
    "read": "neut",
    "trend": "Losing steam",
    "ret_1y": 0.0565,
-   "pe": 36.95,
-   "div_yield": 0.0132,
+   "pe": 36.16,
+   "div_yield": 0.0183,
    "headline": "Solid: shareholder returns stands out, growth holds it back"
   },
   {
@@ -5015,8 +5015,8 @@
    "read": "neut",
    "trend": "Losing steam",
    "ret_1y": -0.0241,
-   "pe": 23.28,
-   "div_yield": 0.014,
+   "pe": 25.93,
+   "div_yield": 0.0091,
    "headline": "Solid: balance sheet stands out, growth holds it back"
   },
   {
@@ -5145,8 +5145,8 @@
    "read": "neut",
    "trend": "Downtrend, bouncing",
    "ret_1y": 0.084,
-   "pe": 51.8,
-   "div_yield": 0.0399,
+   "pe": 25.02,
+   "div_yield": 0.0437,
    "headline": "Solid: profitability stands out, price trend holds it back"
   },
   {
@@ -5158,7 +5158,7 @@
    "read": "neut",
    "trend": "Losing steam",
    "ret_1y": -0.2852,
-   "pe": 5.98,
+   "pe": 5.19,
    "div_yield": null,
    "headline": "Solid: growth stands out, shareholder returns holds it back"
   },
@@ -5197,8 +5197,8 @@
    "read": "neut",
    "trend": "Downtrend, bouncing",
    "ret_1y": -0.3607,
-   "pe": 18.2,
-   "div_yield": 0.0145,
+   "pe": 18.06,
+   "div_yield": 0.0139,
    "headline": "Solid: balance sheet stands out, price trend holds it back"
   },
   {
@@ -5210,8 +5210,8 @@
    "read": "neut",
    "trend": "Losing steam",
    "ret_1y": -0.0401,
-   "pe": 25.96,
-   "div_yield": 0.0126,
+   "pe": 25.93,
+   "div_yield": 0.0091,
    "headline": "Solid: balance sheet stands out, growth holds it back"
   },
   {
@@ -5223,7 +5223,7 @@
    "read": "neut",
    "trend": "Downtrend",
    "ret_1y": -0.1625,
-   "pe": 16.77,
+   "pe": 15.87,
    "div_yield": null,
    "headline": "Solid: balance sheet stands out, price trend holds it back"
   },
@@ -5288,8 +5288,8 @@
    "read": "neut",
    "trend": "Downtrend",
    "ret_1y": 0.0614,
-   "pe": 19.95,
-   "div_yield": 0.0411,
+   "pe": 19.88,
+   "div_yield": 0.0117,
    "headline": "Solid: balance sheet stands out, price trend holds it back"
   },
   {
@@ -5314,8 +5314,8 @@
    "read": "neut",
    "trend": "Downtrend, bouncing",
    "ret_1y": -0.0456,
-   "pe": 17.15,
-   "div_yield": 0.0166,
+   "pe": 16.94,
+   "div_yield": 0.0159,
    "headline": "Solid: shareholder returns stands out, price trend holds it back"
   },
   {
@@ -5327,8 +5327,8 @@
    "read": "neut",
    "trend": "Downtrend",
    "ret_1y": 0.0264,
-   "pe": 32.47,
-   "div_yield": 0.0305,
+   "pe": 29.71,
+   "div_yield": 0.0311,
    "headline": "Solid: profitability stands out, price trend holds it back"
   },
   {
@@ -5392,8 +5392,8 @@
    "read": "bear",
    "trend": "Downtrend, bouncing",
    "ret_1y": -0.1042,
-   "pe": 33.97,
-   "div_yield": 0.0104,
+   "pe": 34.23,
+   "div_yield": 0.0102,
    "headline": "Mixed: balance sheet stands out, price trend holds it back"
   },
   {
@@ -5405,8 +5405,8 @@
    "read": "neut",
    "trend": "Turning up",
    "ret_1y": 0.043,
-   "pe": 32.64,
-   "div_yield": 0.0089,
+   "pe": 31.65,
+   "div_yield": 0.0088,
    "headline": "Mixed: shareholder returns stands out, balance sheet holds it back"
   },
   {
@@ -5431,7 +5431,7 @@
    "read": "bear",
    "trend": "Downtrend, bouncing",
    "ret_1y": -0.5383,
-   "pe": 24.13,
+   "pe": 24.23,
    "div_yield": null,
    "headline": "Mixed: profitability stands out, price trend holds it back"
   },
@@ -5470,8 +5470,8 @@
    "read": "bear",
    "trend": "Downtrend, bouncing",
    "ret_1y": -0.1924,
-   "pe": 16.12,
-   "div_yield": 0.0218,
+   "pe": 15.69,
+   "div_yield": 0.0175,
    "headline": "Mixed: shareholder returns stands out, price trend holds it back"
   },
   {
@@ -5548,7 +5548,7 @@
    "read": "neut",
    "trend": "Uptrend",
    "ret_1y": 0.2322,
-   "pe": 97.92,
+   "pe": 97.77,
    "div_yield": null,
    "headline": "Mixed: price trend stands out, valuation holds it back"
   },
@@ -5652,8 +5652,8 @@
    "read": "neut",
    "trend": "Turning up",
    "ret_1y": 0.1439,
-   "pe": 37.2,
-   "div_yield": 0.0324,
+   "pe": 35.96,
+   "div_yield": 0.0406,
    "headline": "Mixed: balance sheet stands out, growth holds it back"
   },
   {
@@ -5665,8 +5665,8 @@
    "read": "bear",
    "trend": "Downtrend, bouncing",
    "ret_1y": -0.3188,
-   "pe": 19.98,
-   "div_yield": 0.0248,
+   "pe": 19.84,
+   "div_yield": 0.0208,
    "headline": "Mixed: shareholder returns stands out, price trend holds it back"
   },
   {
@@ -5691,8 +5691,8 @@
    "read": "neut",
    "trend": "Losing steam",
    "ret_1y": -0.0237,
-   "pe": 15.89,
-   "div_yield": 0.0138,
+   "pe": 15.1,
+   "div_yield": 0.0177,
    "headline": "Mixed: shareholder returns stands out, profitability holds it back"
   },
   {
@@ -5834,8 +5834,8 @@
    "read": "neut",
    "trend": "Turning up",
    "ret_1y": 0.168,
-   "pe": 167.64,
-   "div_yield": 0.0209,
+   "pe": 179.35,
+   "div_yield": 0.0399,
    "headline": "Mixed: growth stands out, valuation holds it back"
   },
   {
@@ -5847,8 +5847,8 @@
    "read": "neut",
    "trend": "Turning up",
    "ret_1y": 0.2705,
-   "pe": 62.84,
-   "div_yield": 0.0224,
+   "pe": 62.38,
+   "div_yield": 0.0222,
    "headline": "Mixed: shareholder returns stands out, valuation holds it back"
   },
   {
@@ -5951,7 +5951,7 @@
    "read": "bear",
    "trend": "Downtrend, bouncing",
    "ret_1y": -0.0852,
-   "pe": 27.16,
+   "pe": 26.57,
    "div_yield": null,
    "headline": "Mixed: profitability stands out, price trend holds it back"
   },
@@ -5977,7 +5977,7 @@
    "read": "bear",
    "trend": "Downtrend",
    "ret_1y": 0.4424,
-   "pe": 41.31,
+   "pe": 38.79,
    "div_yield": null,
    "headline": "Mixed: shareholder returns stands out, growth holds it back"
   },
@@ -6029,8 +6029,8 @@
    "read": "neut",
    "trend": "Turning up",
    "ret_1y": 0.1888,
-   "pe": 19.69,
-   "div_yield": 0.0331,
+   "pe": 19.3,
+   "div_yield": 0.048,
    "headline": "Mixed: price trend stands out, profitability holds it back"
   },
   {
@@ -6120,8 +6120,8 @@
    "read": "bear",
    "trend": "Downtrend",
    "ret_1y": 0.0297,
-   "pe": 20.59,
-   "div_yield": 0.0279,
+   "pe": 21.27,
+   "div_yield": 0.0277,
    "headline": "Mixed: shareholder returns stands out, balance sheet holds it back"
   },
   {
@@ -6146,8 +6146,8 @@
    "read": "bear",
    "trend": "Downtrend, bouncing",
    "ret_1y": -0.0094,
-   "pe": 17.79,
-   "div_yield": 0.0393,
+   "pe": 17.85,
+   "div_yield": 0.0299,
    "headline": "Mixed: shareholder returns stands out, balance sheet holds it back"
   },
   {
@@ -6185,8 +6185,8 @@
    "read": "bear",
    "trend": "Downtrend, bouncing",
    "ret_1y": -0.1037,
-   "pe": 18.57,
-   "div_yield": 0.0336,
+   "pe": 21.0,
+   "div_yield": 0.035,
    "headline": "Mixed: shareholder returns stands out, price trend holds it back"
   },
   {
@@ -6276,8 +6276,8 @@
    "read": "bear",
    "trend": "Downtrend",
    "ret_1y": -0.5008,
-   "pe": 18.72,
-   "div_yield": 0.0166,
+   "pe": 19.14,
+   "div_yield": 0.0138,
    "headline": "Mixed: growth stands out, price trend holds it back"
   },
   {
@@ -6289,8 +6289,8 @@
    "read": "bear",
    "trend": "Downtrend, bouncing",
    "ret_1y": -0.0317,
-   "pe": 21.6,
-   "div_yield": 0.0302,
+   "pe": 20.6,
+   "div_yield": 0.0365,
    "headline": "Weak: shareholder returns stands out, profitability holds it back"
   },
   {
@@ -6341,8 +6341,8 @@
    "read": "bear",
    "trend": "Turning up",
    "ret_1y": 0.0144,
-   "pe": 23.72,
-   "div_yield": 0.0293,
+   "pe": 21.41,
+   "div_yield": 0.0402,
    "headline": "Weak: shareholder returns stands out, balance sheet holds it back"
   },
   {
@@ -6380,8 +6380,8 @@
    "read": "bear",
    "trend": "Downtrend",
    "ret_1y": -0.3114,
-   "pe": 17.75,
-   "div_yield": 0.0067,
+   "pe": 20.44,
+   "div_yield": 0.0244,
    "headline": "Weak: shareholder returns stands out, balance sheet holds it back"
   },
   {
@@ -6393,8 +6393,8 @@
    "read": "bear",
    "trend": "Downtrend",
    "ret_1y": -0.4413,
-   "pe": 16.76,
-   "div_yield": 0.0214,
+   "pe": 24.12,
+   "div_yield": 0.0329,
    "headline": "Weak: shareholder returns stands out, balance sheet holds it back"
   },
   {
@@ -6446,7 +6446,7 @@
    "trend": "Downtrend",
    "ret_1y": -0.4768,
    "pe": -1.0,
-   "div_yield": 0.0265,
+   "div_yield": 0.0054,
    "headline": "Weak: balance sheet stands out, price trend holds it back"
   },
   {
@@ -6458,7 +6458,7 @@
    "read": "bear",
    "trend": "Downtrend, bouncing",
    "ret_1y": -0.1229,
-   "pe": 414.01,
+   "pe": 466.91,
    "div_yield": null,
    "headline": "Weak: balance sheet stands out, valuation holds it back"
   },
@@ -6627,8 +6627,8 @@
    "read": "bear",
    "trend": "Downtrend",
    "ret_1y": -0.1653,
-   "pe": 26.61,
-   "div_yield": 0.0313,
+   "pe": 16.78,
+   "div_yield": 0.0323,
    "headline": "Weak: balance sheet stands out, growth holds it back"
   },
   {
@@ -6653,8 +6653,8 @@
    "read": "bear",
    "trend": "Downtrend, bouncing",
    "ret_1y": -0.2026,
-   "pe": 9.54,
-   "div_yield": 0.003,
+   "pe": 9.31,
+   "div_yield": 0.0167,
    "headline": "Weak: no single area stands out, price trend holds it back"
   },
   {
