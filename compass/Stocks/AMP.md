@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Uptrend
 
-## Strong: valuation stands out
+## Profitable financial firm with strong cash generation and cheap valuation
 
-Ameriprise Financial scores 75 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: uptrend.
+Ameriprise Financial is an asset management and financial services company generating $18.9B in annual revenue. It keeps 19% of revenue as profit and earned a 70% return on equity last year. The company trades at 11x earnings and has been repurchasing shares.
 
 ### What is working
-- Valuation: Trades at 11x earnings
-- Shareholder returns: Share count shrinking (buybacks)
-- Profitability: Keeps 19% of revenue as profit
+- Profitability is exceptional: 19% net margin and 70% return on equity rank in the top tier
+- Valuation appears low: 11x earnings and 18% free cash flow yield leave room for upside
+- Share buybacks working: share count down 13.6% over three years while business grew
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Growth is slowing: revenue rose 10% yearly over three years but only 6% in latest quarter
+- Stock already moved 13% higher in the past year; trading 9% below its 52-week high
+- Analyst consensus is mixed: only 50% of the 20 analysts rate it a buy, not unanimous
 
-**Watch next:** The next quarterly report: whether revenue growth of +6% holds.
+**Watch next:** Watch if quarterly revenue growth re-accelerates above 6% or continues to cool, since expansion has been decelerating.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Suits long-term investors seeking profitable companies with strong cash returns and low valuations over volatility or rapid growth.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $18.9B (+5% vs prior year)

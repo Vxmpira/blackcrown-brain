@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: shareholder returns stands out
+## Restaurant operator with strong recent gains, steady cash flow, but high valuation
 
-Darden Restaurants scores 72 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Darden Restaurants operates casual dining establishments. Revenue grew 9% last year and earnings per share jumped 17%. The company is returning cash to shareholders through buybacks and a 3.4% dividend.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
-- Profitability: Keeps 9% of revenue as profit
+- Price momentum is strong: up 27% over the past year and 93% of the way up its 52-week range
+- Profitability is solid: 9% net margin and 58% return on equity show efficient operations
+- Shareholder returns accelerating: share count down 5.4% over 3 years plus 3.4% dividend yield
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Revenue growth is slowing: up 9% last year but only 5% in the latest quarter
+- Stock sits near 52-week highs at 230.61, only 2% below the top, leaving limited upside room
+- Valuation is elevated: 22x earnings and free cash flow yield of 4.3% offer limited margin of safety
 
-**Watch next:** The next quarterly report: whether revenue growth of +5% holds.
+**Watch next:** Monitor whether quarterly revenue growth can stay above 5% or if consumer spending is fading into the restaurant category.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** This suits long-term investors comfortable with a mature business trading at premium valuations who want steady dividend income and buyback-driven returns.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-05-31)
 - Revenue $13.2B (+9% vs prior year)

@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Top rated** · Bullish read · trend: Turning up
 
-## Top rated: balance sheet stands out
+## Ralph Lauren shows strong profit and cash generation; valuation near historical norms
 
-Ralph Lauren Corporation scores 75 of 100 on the Compass, which puts it in the Top rated tier. Its long-term price trend is: turning up.
+Ralph Lauren is a global apparel manufacturer with $8.1B in annual revenue. The company is profitable, generates substantial free cash flow, and has been expanding revenue at 8-9% yearly. It trades at 22x earnings with a net cash position of $186.1M.
 
 ### What is working
-- Balance sheet: Net cash of $186.1M
-- Shareholder returns: Share count shrinking (buybacks)
-- Profitability: Keeps 12% of revenue as profit
+- Profitability is solid: 12% net margin and 15% operating margin, with free cash flow of $1.2B annually
+- Return on equity of 34% shows efficient use of shareholder capital
+- Earnings per share rose 30% year over year, driven by both revenue growth and share buybacks reducing share count by 9.7% over three years
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Valuation at 22x earnings is elevated; free cash flow yield of 4.9% is modest relative to some alternatives
+- Yearly volatility of 36% means sharp swings in stock price are common
+- Revenue growth of 8% annually over three years is steady but not accelerating; latest quarter showed only 9% growth
 
-**Watch next:** The next quarterly report: whether revenue growth of +9% holds.
+**Watch next:** Whether the 9% revenue growth rate in the latest quarter can sustain or whether it will decelerate back toward the 8% three-year trend.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors seeking a profitable, cash-generative apparel business with modest dividend income who can tolerate 36% annual volatility.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-03-28)
 - Revenue $8.1B (+15% vs prior year)

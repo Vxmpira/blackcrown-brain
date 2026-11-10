@@ -14,20 +14,22 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Losing steam
 
-## Strong: growth stands out, valuation holds it back
+## Strong growth but pricey; tech earnings surging while stock loses recent momentum
 
-Keysight Technologies scores 73 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: losing steam.
+Keysight is a technology hardware company growing revenue and earnings sharply. Latest quarter revenue jumped 37% year over year with $850M in net income. The company holds net cash of $88M and generates $1.3B in free cash flow annually.
 
 ### What is working
-- Growth: Latest revenue +37% year over year
-- Balance sheet: Net cash of $88.0M
-- Shareholder returns: Share count shrinking (buybacks)
+- Revenue and earnings both up 37-40% year over year, the fastest growth on the scorecard
+- Free cash flow of $1.3B shows real money coming in despite high valuation multiples
+- 90% of 19 analysts rate it a buy; net cash position eliminates balance sheet risk
 
 ### What to be careful about
-- Valuation: Free cash flow yield 2.5%
+- Stock down 22.5% in the last month and down 19% over six months, showing recent weakness
+- Trades at 39x earnings, which is expensive compared to growth rate; valuation got a 28 score
+- Free cash flow yield of only 2.6% means investors pay a steep price per dollar of cash generated
 
-**Watch next:** The next quarterly report: whether revenue growth of +37% holds.
+**Watch next:** Monitor whether the stock can stabilize after its recent 22.5% one-month drop and whether quarterly revenue growth stays above 30% or begins to decelerate.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Suits long-term investors comfortable with high valuations who believe in strong earnings growth and can tolerate 47% annual price swings.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.

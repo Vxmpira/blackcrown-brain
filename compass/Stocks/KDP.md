@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: price trend stands out, valuation holds it back
+## Strong price momentum masks expensive valuation and thin profit margins
 
-Keurig Dr Pepper scores 73 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Keurig Dr Pepper is a large beverage company generating $16.6B in annual revenue with a 13% net profit margin. The stock has surged 42% over the past year and trades near its 52-week high, fueled by a 71% jump in latest quarterly revenue.
 
 ### What is working
-- Price trend: Price is above its 200-day average
-- Shareholder returns: Share count shrinking (buybacks)
-- Growth: Revenue +6% a year over 3 years
+- Price is 100% of the way up its 52-week range, showing strong upward momentum over 1 year (+42.2%) and 6 months (+26.6%)
+- Latest quarter revenue jumped 71% year over year, with full-year revenue up 8% to $16.6B
+- Company returns cash to shareholders through 2.6% dividend yield and 4.6% reduction in share count over 3 years via buybacks
 
 ### What to be careful about
-- Valuation: Free cash flow yield 3.0%
+- Stock trades at 30x earnings, which is expensive; free cash flow yield of only 3.0% suggests limited cash return relative to price
+- Debt load of $24.4B is 1.0x shareholder equity, leaving modest cushion for financial stress
+- Profit margins are thin: operating margin is 22% but net margin only 13%; free cash flow margin is just 9%, limiting growth flexibility
 
-**Watch next:** The next quarterly report: whether revenue growth of +71% holds.
+**Watch next:** The gap between the 71% quarterly revenue surge and the modest 6% three-year revenue growth rate will show whether latest growth is sustainable or a one-time event.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors seeking dividend income and share buybacks who can tolerate high valuation multiples and don't expect significant multiple expansion.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $16.6B (+8% vs prior year)

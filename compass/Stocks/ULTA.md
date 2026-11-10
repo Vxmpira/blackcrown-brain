@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: balance sheet stands out, growth holds it back
+## Strong uptrend with solid profits, but valuation and growth rate worth watching
 
-Ulta Beauty scores 74 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Ulta Beauty is a specialty retailer with $12.4B in annual revenue, growing 10% year over year. The company converts 9% of sales into profit and generates $1.1B in free cash flow annually. Its stock price is up 27% over the past year and trades near 52-week highs.
 
 ### What is working
-- Balance sheet: Debt is 0.3x shareholder equity
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
+- Price momentum is strong: up 27% in one year and 80% of the way up its 52-week range
+- Profitability is solid with 9% net margin, 44% return on equity, and $1.1B free cash flow
+- Balance sheet is clean: debt is only 0.3x shareholder equity, leaving room to maneuver
 
 ### What to be careful about
-- Growth: Revenue +7% a year over 3 years
+- Growth is slowing: revenue grew 10% last year but only 7% annually over three years
+- Stock trades at 23x earnings, which is elevated for a retailer with single-digit long-term growth
+- Volatility runs 36% yearly; stock is already 7% down from its 52-week high after recent rally
 
-**Watch next:** The next quarterly report: whether revenue growth of +9% holds.
+**Watch next:** Whether revenue growth can accelerate beyond its recent 7-10% range, since current valuation assumes sustained momentum.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors comfortable with consumer cyclical exposure who value proven profitability and cash generation over rapid expansion.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-01-31)
 - Revenue $12.4B (+10% vs prior year)

@@ -14,20 +14,22 @@ tags: [korvus-compass, stock]
 
 **Top rated** · Bullish read · trend: Pullback in uptrend
 
-## Top rated: valuation stands out
+## Oil producer with strong cash generation, but analyst skepticism and rising share count
 
-APA Corporation scores 77 of 100 on the Compass, which puts it in the Top rated tier. Its long-term price trend is: pullback in uptrend.
+APA Corporation is an oil and gas exploration and production company. It reported $1.4 billion in net income for 2025 and generated $4.5 billion in free cash flow. The stock has risen 88% over the past year but is now down 4.6% in the last month.
 
 ### What is working
-- Valuation: Free cash flow yield 30.4%
-- Price trend: Price is above its 200-day average
-- Profitability: Keeps 23% of revenue as profit
+- Free cash flow yield of 30.4% is unusually high, meaning cash returned relative to market value
+- Net income of $1.4B and 20% return on equity show the company is generating strong profits
+- Debt of 0.6x shareholder equity is moderate; company has room on its balance sheet
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Latest revenue was down 2% year over year, showing top-line pressure
+- Share count grew 7.8% over three years, diluting existing shareholders
+- Only 38% of 34 analysts rate it a buy; consensus is Hold, signaling caution
 
-**Watch next:** Whether the price holds above its 200-day average.
+**Watch next:** Whether revenue stabilizes or continues to decline, since cash flow strength partly depends on maintaining production and prices.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable with volatile commodity exposure who focus on cash generation and balance sheet strength over growth.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.

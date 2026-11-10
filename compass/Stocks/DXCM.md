@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Top rated** · Bullish read · trend: Pullback in uptrend
 
-## Top rated: balance sheet stands out
+## Profitable medical device maker with strong cash generation, but expensive at 31x earnings
 
-Dexcom scores 83 of 100 on the Compass, which puts it in the Top rated tier. Its long-term price trend is: pullback in uptrend.
+Dexcom makes continuous glucose monitoring devices. The company grew revenue 16% last year, keeps 18% as profit, and generates over $1B in free cash annually. It trades at a premium valuation after a 45% gain over the past year.
 
 ### What is working
-- Balance sheet: Net cash of $958.5M
-- Shareholder returns: Share count shrinking (buybacks)
-- Profitability: Keeps 18% of revenue as profit
+- Strong profitability: 18% net margin and 33% return on equity show efficient operations
+- Solid cash engine: $1.1B free cash flow last year with $958.5M net cash on balance sheet
+- Revenue momentum: +16% year over year growth with +17% compound annual growth over 3 years
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Expensive valuation: Trades at 31x earnings, which is above historical norms for the sector
+- Recently pulled back: Stock is down 7.1% over the last month and 14% from its 52-week high
+- High volatility: 38% yearly volatility means price swings are larger than many stocks
 
-**Watch next:** The next quarterly report: whether revenue growth of +11% holds.
+**Watch next:** Whether the 11% quarterly revenue growth can accelerate back to the 16% annual rate, or if growth continues to decelerate.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Long-term investors comfortable with premium valuations in exchange for profitable growth and strong cash generation, and who can tolerate significant price swings.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $4.7B (+16% vs prior year)

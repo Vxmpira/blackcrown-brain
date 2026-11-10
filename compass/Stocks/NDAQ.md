@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: price trend stands out
+## Nasdaq rides strong momentum but valuation is stretched at 29x earnings
 
-Nasdaq, Inc. scores 73 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Nasdaq operates the stock exchange and market data business. Revenue grew 12% last year to $8.3 billion, with earnings jumping 60% year over year. The company keeps 22% of revenue as profit and generated $2.0 billion in free cash flow.
 
 ### What is working
-- Price trend: Price is above its 200-day average
-- Growth: Revenue +10% a year over 3 years
-- Profitability: Keeps 22% of revenue as profit
+- Latest quarter revenue up 21% year over year, well ahead of the 3-year average of 10% growth
+- Stock sits 95% up its 52-week range and up 24% over the past year, showing strong price momentum
+- Net profit margin of 22% and operating margin of 28% show the core business is highly profitable
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Valuation at 29x earnings is well above typical market averages, leaving less margin for error
+- Share count grew 16.2% over 3 years, meaning existing shareholders own a smaller piece of the company
+- Debt of $8.5 billion is 23 times the cash on hand of $365 million, a large leverage ratio
 
-**Watch next:** The next quarterly report: whether revenue growth of +21% holds.
+**Watch next:** Whether the latest 21% revenue growth in the most recent quarter can sustain or will cool back toward the 10% long-term average.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable with premium valuations and who believe financial market growth will continue outpacing historical trends.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $8.3B (+12% vs prior year)

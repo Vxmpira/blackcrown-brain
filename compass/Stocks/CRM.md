@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Pullback in uptrend
 
-## Strong: shareholder returns stands out
+## Profitable software giant with steady growth, now 20% below its peak
 
-Salesforce scores 74 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: pullback in uptrend.
+Salesforce is a large cloud software company generating $41.5B in annual revenue with an 18% profit margin. It is growing revenue at 10% per year and producing substantial free cash flow of $14.4B yearly. The stock has pulled back 11% over the past year but remains above its 200-day price average.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Valuation: Free cash flow yield 8.1%
-- Profitability: Keeps 18% of revenue as profit
+- Strong profitability: keeps 18% of revenue as profit and generates $14.4B in free cash flow annually
+- Solid valuation relative to cash generation: trades at 18x earnings with an 8.1% free cash flow yield
+- Returning cash to shareholders: share count has shrunk 4.1% over three years via buybacks, plus 0.9% dividend yield
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Heavy debt load: owes $39.3B against $8.3B in cash, with debt at 1.0x shareholder equity
+- Growth moderating: revenue expansion at 10% per year is steady but not accelerating relative to profit growth
+- Recent weakness: stock down 11% over the past year and currently 20% below its 52-week high of $266.23
 
-**Watch next:** The next quarterly report: whether revenue growth of +11% holds.
+**Watch next:** Whether quarterly revenue growth can maintain its 11% pace or continues to decelerate toward the 10% annual trend, signaling demand strength for the platform.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Long-term investors seeking a mature, profitable software business with steady cash generation and modest shareholder returns, who can tolerate a $39.3B debt load and moderate revenue growth.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-01-31)
 - Revenue $41.5B (+10% vs prior year)

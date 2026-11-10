@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: shareholder returns stands out
+## Profitable data company with strong cash generation trading at a premium
 
-S&P Global scores 72 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+S&P Global is a financial services company that collects, analyzes, and sells market data and ratings. It generated $15.3B in revenue and $4.5B in net income last year, with a 29% profit margin. The stock has risen 13.5% in the past month and sits near the middle of its 52-week range.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Profitability: Keeps 29% of revenue as profit
-- Price trend: Price is above its 200-day average
+- Profitability is high: the company keeps 29% of each revenue dollar as profit and earned a 23% return on shareholder equity
+- Revenue is growing steadily: up 11% annually over three years and 7% in the latest quarter
+- Management is returning cash to shareholders: share count fell 4.2% over three years through buybacks, and 91% of analysts rate it a buy
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Valuation is stretched: the stock trades at 27x earnings, which is above historical norms for stable businesses
+- Stock price is down 5.7% over the past year despite strong recent momentum, showing volatility
+- Debt is substantial: $13.1B owed against $2.4B in cash, meaning net debt of $10.7B even with strong cash flows
 
-**Watch next:** The next quarterly report: whether revenue growth of +7% holds.
+**Watch next:** Whether revenue growth can accelerate beyond the current 7% quarterly rate, since the valuation assumes continued expansion.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Patient investors seeking exposure to stable, profitable businesses with recurring revenue, who are comfortable with above-market valuations and can hold through 32% annual price swings.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $15.3B (+8% vs prior year)

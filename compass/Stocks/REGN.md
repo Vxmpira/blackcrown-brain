@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Top rated** · Bullish read · trend: Strong uptrend
 
-## Top rated: balance sheet stands out
+## Strong-trending biotech with solid profits but valuation debate among analysts
 
-Regeneron Pharmaceuticals scores 83 of 100 on the Compass, which puts it in the Top rated tier. Its long-term price trend is: strong uptrend.
+Regeneron is a large healthcare company that generated $14.3 billion in revenue last year with a 31% profit margin. The latest quarter showed sharp growth at 36% year over year, though full-year revenue rose only 1% compared to the prior year.
 
 ### What is working
-- Balance sheet: Net cash of $1.7B
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
+- Price momentum is strong: up 39% over the past year and sitting 84% of the way up its 52-week range
+- Profit generation is reliable: the company keeps 31% of revenue as net profit and produces $4.1B in free cash flow annually
+- Buybacks benefit shareholders: share count has shrunk 4.3% over three years while the company maintains $1.7B in net cash
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Full-year revenue growth is sluggish at only 1% year over year, despite the strong recent quarter at 36%
+- Valuation is elevated at 20x earnings; 28% of analysts do not rate it a buy despite the consensus
+- Stock is near its 52-week high with 34% yearly volatility, meaning sharp pullbacks are possible from current levels
 
-**Watch next:** The next quarterly report: whether revenue growth of +36% holds.
+**Watch next:** Monitor whether the 36% quarterly revenue growth represents a sustained trend or a one-time spike, since full-year growth remains flat at 1%.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors who prioritize stable cash generation and buyback returns over explosive growth, and who can tolerate moderate price swings.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $14.3B (+1% vs prior year)

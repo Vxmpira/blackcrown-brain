@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Top rated** · Bullish read · trend: Strong uptrend
 
-## Top rated: balance sheet stands out
+## Steady software company with strong cash generation and buybacks, now near 52-week high
 
-Jack Henry & Associates scores 78 of 100 on the Compass, which puts it in the Top rated tier. Its long-term price trend is: strong uptrend.
+Jack Henry & Associates provides technology services, likely to banks and financial institutions based on sector classification. The company grew revenue 9% last quarter and keeps 20 cents of every dollar as profit while generating substantial free cash flow.
 
 ### What is working
-- Balance sheet: Debt is 0.0x shareholder equity
-- Profitability: Keeps 20% of revenue as profit
-- Price trend: Price is above its 200-day average
+- Profitability is exceptional: 20% net margin, 25% operating margin, and 27% free cash flow margin
+- Balance sheet has zero net debt (0.0x debt-to-equity) while generating $694.9M in annual free cash flow
+- Stock momentum is strong: up 14.2% in the past month, 18.1% in six months, and sits 69% of the way up its 52-week range
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Valuation is elevated at 24x earnings, meaning investors pay $24 for every $1 of annual profit
+- Growth is moderate at 7% annual revenue growth over three years, while the stock has appreciated 6% yearly
+- Stock is already 11% below its 52-week high and has 31% yearly volatility, so corrections are possible
 
-**Watch next:** The next quarterly report: whether revenue growth of +9% holds.
+**Watch next:** Whether the latest quarter's 9% revenue growth can sustain, since three-year average is only 7%, which would signal strengthening or slowing momentum.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors seeking steady profits and cash generation over growth, comfortable holding shares of a profitable software provider that may trade at premium valuations.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-06-30)
 - Revenue $2.5B (+7% vs prior year)

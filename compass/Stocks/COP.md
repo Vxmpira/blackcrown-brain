@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Top rated** · Bullish read · trend: Pullback in uptrend
 
-## Top rated: valuation stands out, growth holds it back
+## Oil giant trades near highs with strong cash but faces earnings headwinds
 
-ConocoPhillips scores 76 of 100 on the Compass, which puts it in the Top rated tier. Its long-term price trend is: pullback in uptrend.
+ConocoPhillips is a major oil and gas producer generating substantial free cash flow ($19.8B last year). Recent quarterly revenue jumped 29% year over year, but full-year earnings per share fell 19%, signaling pressure from commodity or operational factors. The stock is up 55% in one year and valued relatively cheaply at 14x earnings.
 
 ### What is working
-- Valuation: Free cash flow yield 12.4%
-- Balance sheet: Debt is 0.3x shareholder equity
-- Price trend: Price is above its 200-day average
+- Free cash flow yield of 12.4% is very high; company returned cash via 4.0% dividend and buybacks shrinking share count 1.9% over three years
+- Balance sheet is fortress-like with debt only 0.3x shareholder equity; $7.8B cash on hand provides flexibility
+- Latest quarter revenue surged 29% year over year; profitability margin holds steady at 15% of revenue despite headwinds
 
 ### What to be careful about
-- Growth: Revenue -5% a year over 3 years
+- Earnings per share dropped 19% year over year despite strong quarterly revenue, suggesting margin compression or one-time charges
+- Three-year revenue trend is negative at -5% annually; company depends on oil price cycles outside its control
+- Stock is -13% from its 52-week high and shows 32% yearly volatility; pullback could continue if energy prices weaken
 
-**Watch next:** The next quarterly report: whether revenue growth of +29% holds.
+**Watch next:** Whether the next quarter shows earnings recovery or if margin pressure persists, since EPS fell while recent revenue jumped sharply.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable with energy sector cycles and seeking steady cash returns through dividends and low valuation multiples.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $51.8B (+5% vs prior year)

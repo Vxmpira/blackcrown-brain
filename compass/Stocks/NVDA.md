@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Top rated** · Bullish read · trend: Losing steam
 
-## Top rated: growth stands out, price trend holds it back
+## Nvidia: Explosive growth and profits collide with a 28% price drop from its peak
 
-Nvidia scores 76 of 100 on the Compass, which puts it in the Top rated tier. Its long-term price trend is: losing steam.
+Nvidia is a semiconductor company generating $215.9 billion in annual revenue with 56% net margins and $96.7 billion in free cash flow. Revenue has doubled over three years, and the latest quarter showed 106% year-over-year growth. The stock trades at a $4.3 trillion market value but has fallen 9% over the past year and sits 28% below its 52-week high.
 
 ### What is working
-- Growth: Revenue +100% a year over 3 years
-- Profitability: Keeps 56% of revenue as profit
-- Balance sheet: Debt is 0.1x shareholder equity
+- Revenue grew 100% annually over the past 3 years and latest quarter jumped 106% year over year.
+- Company keeps 56% of revenue as profit with 60% operating margin and generates $96.7 billion in free cash flow.
+- Return on equity stands at 52% and debt is minimal at 0.1x shareholder equity; 69 analysts give consensus Strong Buy.
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
+- Stock down 24.2% in the past month and down 9% over the past year despite the profit growth.
+- Stock trades at 22x earnings with only a 2.2% free cash flow yield, suggesting limited margin of safety at current prices.
+- Price volatility runs at 39% annually; stock sits 28% below its 52-week high of 239.24, indicating significant recent weakness.
 
-**Watch next:** The next quarterly report: whether revenue growth of +106% holds.
+**Watch next:** Monitor whether the 50-day moving average holds above the 200-day average or if the downtrend accelerates, as price momentum is currently the weakest part of Nvidia's scorecard.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Long-term investors who can tolerate sharp short-term swings and believe in the company's ability to grow into its valuation despite recent price declines.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-01-25)
 - Revenue $215.9B (+65% vs prior year)

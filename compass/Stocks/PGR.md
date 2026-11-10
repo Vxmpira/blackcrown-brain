@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Top rated** · Bullish read · trend: Strong uptrend
 
-## Top rated: valuation stands out
+## Profitable insurer with strong price momentum but slowing growth and mixed analyst view
 
-Progressive Corporation scores 81 of 100 on the Compass, which puts it in the Top rated tier. Its long-term price trend is: strong uptrend.
+Progressive is a large property and casualty insurance company generating $87.7 billion in annual revenue. It converts 13% of revenue into profit and returned 33% on shareholder equity last year. The stock has rallied 4.5% over the past year and trades near 52-week highs.
 
 ### What is working
-- Valuation: Trades at 11x earnings
-- Price trend: Price is above its 200-day average
-- Profitability: Keeps 13% of revenue as profit
+- Revenue growth of 21% annually over three years shows the business is expanding faster than inflation
+- Net margin of 13% and return on equity of 33% rank among the strongest in the sector
+- Stock trades at 11x earnings with a free cash flow yield of 13%, suggesting the market price leaves room for value
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Latest quarterly revenue grew only 3% year over year, a sharp slowdown from the three-year 21% rate
+- Only 36% of 31 analysts rate it a buy while consensus stands at Hold, showing skepticism among professionals
+- Volatility of 27% means the stock can swing sharply; it sits 4% below its 52-week high after a strong run
 
-**Watch next:** The next quarterly report: whether revenue growth of +3% holds.
+**Watch next:** Whether quarterly revenue growth reaccelerates from the recent 3% pace or continues to decelerate will signal whether the business momentum is sustainable.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Long-term investors seeking profitable, cash-generative companies who can tolerate moderate price swings and hold through periods when analysts remain cautious.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $87.7B (+16% vs prior year)

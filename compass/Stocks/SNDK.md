@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Top rated** · Bullish read · trend: Losing steam
 
-## Top rated: growth stands out
+## Sandisk posts record profits but stock momentum stalls after 266% surge
 
-Sandisk Corporation scores 84 of 100 on the Compass, which puts it in the Top rated tier. Its long-term price trend is: losing steam.
+Sandisk is a memory chip and storage hardware company that more than tripled its revenue in the latest fiscal year to $20.2B. It converts 56% of sales into net profit and generated $11.5B in free cash flow while carrying zero debt. The stock has surged 266% over the past year but has fallen 41% in the past month.
 
 ### What is working
-- Growth: Revenue +49% a year over 3 years
-- Profitability: Keeps 56% of revenue as profit
-- Valuation: Free cash flow yield 8.5%
+- Revenue grew 49% per year over three years and 378% year-over-year in the latest quarter
+- Net profit margin of 56% and free cash flow margin of 57% show exceptional profitability
+- Trades at 6x earnings with a 9.1% free cash flow yield; 35 analysts rate it a buy at 86%
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Stock is 62% below its 52-week high of $2335 and down 41% in the past month alone
+- Yearly volatility of 113% signals extreme price swings; currently 32% of the way up its 52-week range
+- Share count has grown 6.9% over three years, diluting existing shareholders
 
-**Watch next:** The next quarterly report: whether revenue growth of +378% holds.
+**Watch next:** Whether the stock's recent 41% monthly drop signals a reversal of its 266% annual gain or represents a temporary pullback in a highly volatile stock.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Investors comfortable with extreme price swings who seek exposure to highly profitable, cash-generative tech hardware companies.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-07-03)
 - Revenue $20.2B (+175% vs prior year)

@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Uptrend
 
-## Strong: shareholder returns stands out, balance sheet holds it back
+## Highly profitable rental company riding uptrend; debt load is the main concern
 
-United Rentals scores 74 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: uptrend.
+United Rentals rents equipment to construction and industrial customers. The company converts 68% of revenue into net profit and generates strong free cash flow. It trades at 25 times earnings with 74% analyst buy ratings.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Profitability: Keeps 68% of revenue as profit
-- Price trend: Price is above its 200-day average
+- Revenue growing 14% annually over three years; latest quarter up 14% year over year
+- Keeps 68% of revenue as net profit; free cash flow margin of 140% shows cash generation
+- Return on equity of 26% and share count shrinking 9% over three years via buybacks
 
 ### What to be careful about
-- Balance sheet: Debt is 1.5x shareholder equity
+- Debt is 1.5x shareholder equity at $14.3B; balance sheet scored only 31 of 100
+- Earnings per share flat year over year despite 14% revenue growth; profitability not expanding
+- Stock sits 84% up its 52-week range and 7% below its high; volatility is 43% annually
 
-**Watch next:** The next quarterly report: whether revenue growth of +14% holds.
+**Watch next:** Whether earnings per share growth accelerates next quarter to match the 14% revenue gains, since EPS was flat despite strong top-line expansion.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors seeking profitable, cash-generative companies who can tolerate moderate debt levels and recent price momentum in an uptrend.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $3.7B (+3% vs prior year)

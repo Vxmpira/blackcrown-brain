@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: balance sheet stands out, valuation holds it back
+## Veeva trades at a premium while growing revenue steadily and holding strong cash
 
-Veeva Systems Inc. scores 75 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Veeva Systems is a healthcare software and services company that generated $3.2B in revenue in fiscal 2026, growing 16% year over year. The company keeps 28% of its revenue as profit and generated $1.4B in free cash flow last year. It carries $1.8B in net cash and no debt.
 
 ### What is working
-- Balance sheet: Net cash of $1.8B
-- Price trend: Price is above its 200-day average
-- Profitability: Keeps 28% of revenue as profit
+- Revenue growth accelerating: latest quarter showed +18% year over year versus 14% three-year average
+- Exceptional cash generation: 44% free cash flow margin and $1.4B generated last year
+- Strong balance sheet: $1.8B net cash position with no debt outstanding
 
 ### What to be careful about
-- Valuation: Free cash flow yield 2.8%
+- High valuation multiple: stock trades at 48x earnings, well above typical software averages
+- Shareholder dilution: share count grew 2.8% over three years, reducing ownership per share
+- Premium pricing risk: free cash flow yield of only 2.9% means investors are paying a steep price for growth
 
-**Watch next:** The next quarterly report: whether revenue growth of +18% holds.
+**Watch next:** Whether the 18% quarterly revenue growth rate can sustain or trend back toward the 14% three-year average, signaling if growth is accelerating or normalizing.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable with paying premium valuations for stable, profitable software companies with strong cash generation and minimal financial risk.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-01-31)
 - Revenue $3.2B (+16% vs prior year)

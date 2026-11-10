@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: price trend stands out
+## Security equipment maker with strong profits and buybacks, stock near 52-week high
 
-Allegion scores 72 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Allegion makes doors, locks, and security systems for buildings. The company generates solid profits (16% net margin) and converts revenue to free cash flow reliably. It trades at a moderate-to-high valuation and returns cash to shareholders through buybacks.
 
 ### What is working
-- Price trend: Price is above its 200-day average
-- Profitability: Keeps 16% of revenue as profit
-- Shareholder returns: Share count shrinking (buybacks)
+- Profitability is strong: keeps 16% of revenue as net profit and converts 17% of revenue to free cash flow
+- Stock momentum is steep: up 43.4% over 6 months and sits 93% of the way up its 52-week range
+- Returns capital efficiently: 30% return on equity and share count fell 1.9% over 3 years via buybacks
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Valuation is elevated: trades at 23x earnings, which limits room for price growth if multiples compress
+- Growth is moderate: revenue rises only 8% annually over 3 years, though latest quarter showed 10% growth
+- Stock is near its peak: sits 2% below the 52-week high with 30% yearly volatility, leaving less upside cushion
 
-**Watch next:** The next quarterly report: whether revenue growth of +10% holds.
+**Watch next:** Whether latest quarter revenue growth of 10% can sustain, since the 3-year annual average is only 8%, to confirm the company is accelerating or slowing.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors who own industrials and value steady cash generation over rapid growth, and who are comfortable buying near all-time highs when fundamentals are solid.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $4.1B (+8% vs prior year)

@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Top rated** · Bullish read · trend: Losing steam
 
-## Top rated: growth stands out
+## Memory chip maker with explosive growth and strong cash, but stock has lost 40% from peak
 
-Micron Technology scores 86 of 100 on the Compass, which puts it in the Top rated tier. Its long-term price trend is: losing steam.
+Micron is a semiconductor company that designs and manufactures memory chips. Revenue and earnings have grown dramatically over the past year, and the company generates substantial free cash flow. The stock price has surged 205% over twelve months but has pulled back sharply in recent weeks.
 
 ### What is working
-- Growth: Revenue +105% a year over 3 years
-- Profitability: Keeps 64% of revenue as profit
-- Valuation: Free cash flow yield 7.1%
+- Revenue jumped 379% in the latest quarter and 256% for the full year, with consistent 105% annual growth over three years
+- Keeps 64% of revenue as profit and generates $59.0B in free cash flow, with net cash position of $35.6B
+- Trades at 10x earnings with a 7.1% free cash flow yield; 93% of 57 analysts rate it a buy
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Stock is down 26.6% over the past month and 40% from its 52-week high of $1,213.56, with yearly volatility at 83%
+- Price sits below its 200-day average, suggesting recent momentum has shifted downward
+- Share count has grown 4.6% over three years, diluting existing shareholders; dividend yield is only 0.6%
 
-**Watch next:** The next quarterly report: whether revenue growth of +379% holds.
+**Watch next:** Whether the 50-day price average can hold above the 200-day average, as this crossover would signal whether the recent decline is a pullback or a deeper reversal.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Long-term investors comfortable with high volatility who want exposure to semiconductor demand and can tolerate large short-term swings around a growing cash-generative business.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-09-03)
 - Revenue $133.2B (+256% vs prior year)

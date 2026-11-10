@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: balance sheet stands out, valuation holds it back
+## Marriott rides strong momentum but trades at premium valuation
 
-Marriott International scores 72 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Marriott is a global lodging company with $26.2B in annual revenue and a 10% net profit margin. The stock has surged 44% over the past year and sits near its 52-week high. Growth is steady but modest at 8% annually over three years.
 
 ### What is working
-- Balance sheet: Net cash of $430.0M
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
+- Stock price has climbed 44% in the past year and sits 97% of the way up its 52-week range
+- Company converts 12% of revenue into free cash flow and holds $430M in net cash
+- Earnings per share grew 14% year over year while share count shrank 16% over three years from buybacks
 
 ### What to be careful about
-- Valuation: Free cash flow yield 2.8%
+- Valuation is stretched at 40x earnings; free cash flow yield of only 3.0% is low for the sector
+- Revenue growth has slowed to 8% lately after years of 8% annual gains; not accelerating
+- Analysts are split: only 51% rate it a buy while consensus is Hold, not Buy
 
-**Watch next:** The next quarterly report: whether revenue growth of +8% holds.
+**Watch next:** Whether quarterly revenue growth can stay above 8% or begins to decelerate toward single digits.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable with premium valuations who believe travel lodging will grow steadily and believe in the company's ability to return cash through buybacks.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $26.2B (+4% vs prior year)

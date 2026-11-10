@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Top rated** · Bullish read · trend: Pullback in uptrend
 
-## Top rated: balance sheet stands out, valuation holds it back
+## Semiconductor company surging on sales recovery, but trading at premium valuation
 
-Analog Devices scores 77 of 100 on the Compass, which puts it in the Top rated tier. Its long-term price trend is: pullback in uptrend.
+Analog Devices designs and sells semiconductor chips used in industrial, communications, and consumer electronics. Revenue jumped 40% in the latest quarter after three years of decline. The company generates strong cash flow and carries modest debt.
 
 ### What is working
-- Balance sheet: Debt is 0.2x shareholder equity
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
+- Latest quarter revenue up 40% year over year, signaling a sharp turnaround after -3% average decline over three prior years
+- Free cash flow of $4.3B with a 39% margin shows the business converts sales into cash efficiently
+- Balance sheet is solid: debt is only 0.2x shareholder equity, leaving room to invest or return capital
 
 ### What to be careful about
-- Valuation: Free cash flow yield 2.3%
+- Stock trades at 45x earnings, well above typical market multiples, leaving limited margin for error if growth slows
+- Price has pulled back 12% from its 52-week high of $445.48, and is down 6.9% over the past six months despite strong earnings
+- Three-year revenue trend is still negative at -3% annually, meaning the recent quarter gain needs to prove sustainable
 
-**Watch next:** The next quarterly report: whether revenue growth of +40% holds.
+**Watch next:** Whether the 40% quarterly revenue growth continues in coming quarters or represents a temporary rebound before another slowdown.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable holding quality semiconductor exposure through cycles who can tolerate 39% annual price swings and do not need near-term gains.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-11-01)
 - Revenue $11.0B (+17% vs prior year)

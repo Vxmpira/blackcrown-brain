@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Top rated** · Bullish read · trend: Strong uptrend
 
-## Top rated: balance sheet stands out
+## Profitable software firm at all-time high with recent revenue slowdown
 
-PTC Inc. scores 79 of 100 on the Compass, which puts it in the Top rated tier. Its long-term price trend is: strong uptrend.
+PTC is a software company generating $2.7B in annual revenue with strong profitability. It keeps 27% of revenue as profit and produces $856.7M in free cash flow yearly. The stock price recently hit a 52-week high, but latest quarter revenue fell 7% year over year.
 
 ### What is working
-- Balance sheet: Debt is 0.4x shareholder equity
-- Profitability: Keeps 27% of revenue as profit
-- Price trend: Price is above its 200-day average
+- Operating margin of 36% and net margin of 27% show disciplined cost control
+- Free cash flow yield of 4.0% and $856.7M annual cash generation provide flexibility
+- Stock up 35.9% over 6 months and above its 200-day price average; sits at the top of its 52-week range
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Latest quarter revenue down 7% year over year despite full-year growth of 19%
+- Analysts remain cautious: consensus is Hold with only 26% rating it a buy
+- Share count up 2.1% over 3 years dilutes existing shareholders; stock trades at 21x earnings
 
-**Watch next:** The next quarterly report: whether revenue growth of -7% holds.
+**Watch next:** Whether the latest quarter's 7% revenue decline reflects a slowdown or seasonal dip will shape near-term momentum.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Long-term investors who value current cash generation and balance sheet strength over near-term growth acceleration.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-09-30)
 - Revenue $2.7B (+19% vs prior year)

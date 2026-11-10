@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Pullback in uptrend
 
-## Strong: balance sheet stands out, valuation holds it back
+## Strong growth software company with rich valuation and pullback momentum
 
-Okta, Inc. scores 72 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: pullback in uptrend.
+Okta is a cloud identity and access management software company that grew revenue 16% annually over three years and swung to $235.0M net income. It trades at 106x earnings with $763.0M net cash, suggesting investors are pricing in substantial future growth.
 
 ### What is working
-- Balance sheet: Net cash of $763.0M
-- Price trend: Price is above its 200-day average
-- Growth: Revenue +16% a year over 3 years
+- Revenue growth consistent at 16% annually over 3 years; latest quarter still +11% year over year
+- Generated $875.0M in free cash flow with 30% free cash flow margin
+- Stock up 112% over past year and sits 70% of the way up its 52-week range; 51 analysts 80% rate it a buy
 
 ### What to be careful about
-- Valuation: Free cash flow yield 2.7%
+- Trades at 106x earnings with only 2.8% free cash flow yield, suggesting limited margin for error
+- Down 20.4% in the past month and 22% below its 52-week high; volatility at 67% annually
+- Share count up 13.5% over three years, diluting existing shareholders
 
-**Watch next:** The next quarterly report: whether revenue growth of +11% holds.
+**Watch next:** Watch whether revenue growth can sustain above 10% quarterly as the company scales, since current valuation depends on continuing expansion.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Suits long-term investors comfortable holding volatile growth software stocks and can tolerate 100+ earnings multiples if the company maintains double-digit revenue growth.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-01-31)
 - Revenue $2.9B (+12% vs prior year)

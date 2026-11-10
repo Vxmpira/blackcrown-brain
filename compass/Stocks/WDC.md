@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Top rated** · Neutral read · trend: Downtrend
 
-## Top rated: growth stands out, price trend holds it back
+## Strong profits and cash flow face near-term price decline and high volatility
 
-Western Digital scores 76 of 100 on the Compass, which puts it in the Top rated tier. Its long-term price trend is: downtrend.
+Western Digital is a computer hardware company generating substantial profits. Latest revenue grew 55% year-over-year and the company keeps 73% of every dollar as profit. Recent share price momentum has reversed sharply.
 
 ### What is working
-- Growth: Revenue +27% a year over 3 years
-- Profitability: Keeps 73% of revenue as profit
-- Balance sheet: Net cash of $523.0M
+- Revenue up 27% annually over three years and latest quarter jumped 55% year-over-year
+- Generates 73% net profit margin and $3.5B free cash flow annually
+- Return on equity sits at 101% with $523.0M in net cash on the balance sheet
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
+- Stock price down 26% in one month and 41.4% over six months despite strong fundamentals
+- Volatility at 83% yearly means price swings are dramatic and unpredictable
+- Share count increased 20.4% over three years, diluting ownership of existing shareholders
 
-**Watch next:** The next quarterly report: whether revenue growth of +55% holds.
+**Watch next:** Watch whether the stock can stabilize near current levels or if the downtrend continues despite the company's strong cash generation and profitability metrics.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Long-term investors comfortable with high price volatility who focus on underlying financial strength rather than short-term price trends.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-07-03)
 - Revenue $12.9B (+36% vs prior year)

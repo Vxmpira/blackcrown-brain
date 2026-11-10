@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: profitability stands out, valuation holds it back
+## Apple posts strong profits and cash flow, but trades at a premium valuation
 
-Apple Inc. scores 74 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Apple is a highly profitable technology company that generated $478.8B in revenue and $132.2B in net income over the past year. The stock has climbed 29% in the past year and now sits near its 52-week high, with analyst consensus leaning toward a buy rating.
 
 ### What is working
-- Profitability: Keeps 28% of revenue as profit
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
+- Profitability is exceptional: keeps 28% of revenue as profit and generates $136.1B in free cash flow annually
+- Price momentum remains strong: up 29% over the past year and currently 96% of the way up its 52-week range
+- Recent growth is solid: latest quarter revenue up 12% year over year, and earnings per share up 20% year over year
 
 ### What to be careful about
-- Valuation: Free cash flow yield 2.7%
+- Valuation looks stretched: trades at 38x earnings, with only a 2.7% free cash flow yield
+- Long-term revenue growth is modest: up only 8% per year over the past three years despite recent acceleration
+- Stock is trading near its peak: just 1% below the 52-week high, leaving limited room before hitting prior highs
 
-**Watch next:** The next quarterly report: whether revenue growth of +12% holds.
+**Watch next:** Monitor whether the 12% recent quarterly revenue growth can sustain, or whether the company reverts to its slower 8% annual trend from prior years.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors seeking a stable, cash-generative technology holding may find this suitable, though they should be comfortable with the elevated price relative to earnings and cash flow.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-09-26)
 - Revenue $478.8B (+15% vs prior year)

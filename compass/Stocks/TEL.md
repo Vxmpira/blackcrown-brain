@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Top rated** · Bullish read · trend: Strong uptrend
 
-## Top rated: shareholder returns stands out
+## Profitable hardware connector maker with strong cash flow and shrinking share count
 
-TE Connectivity scores 78 of 100 on the Compass, which puts it in the Top rated tier. Its long-term price trend is: strong uptrend.
+TE Connectivity makes physical connectors and sensor equipment for industrial, communication, and consumer electronics. The company is growing revenue at double-digit rates recently while maintaining a 16% net profit margin and generating $3.4B in annual free cash flow.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Balance sheet: Debt is 0.4x shareholder equity
-- Profitability: Keeps 16% of revenue as profit
+- Latest revenue up 12% year over year with free cash flow margin at 17%, showing strong growth hitting profit faster
+- Return on equity of 24% and debt at only 0.4x shareholder equity means capital is working hard with low financial risk
+- Share count down 7.3% over 3 years from buybacks while paying 1.8% dividend, returning cash to long-term holders
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Stock down 10% over the past year and sits only 45% of the way up its 52-week range, suggesting recent weakness despite profit growth
+- Volatility of 37% means share price swings sharply; trades at 19x earnings which is not deeply discounted
+- Revenue growth averaged just 7% annually over 3 years before recent 12% quarter, indicating acceleration is new and unproven
 
-**Watch next:** The next quarterly report: whether revenue growth of +12% holds.
+**Watch next:** Whether the latest quarter's 12% revenue growth sustains or reverts to the 7% three-year average, signaling if business momentum is durable.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors seeking profitable, cash-generating industrial hardware companies trading at reasonable valuations who can tolerate price swings over years.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-09-25)
 - Revenue $19.9B (+15% vs prior year)

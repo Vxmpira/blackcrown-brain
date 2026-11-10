@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Top rated** · Bullish read · trend: Pullback in uptrend
 
-## Top rated: balance sheet stands out, valuation holds it back
+## Fast-growing connector maker trading at a premium, backed by strong cash generation
 
-Amphenol scores 80 of 100 on the Compass, which puts it in the Top rated tier. Its long-term price trend is: pullback in uptrend.
+Amphenol makes electrical connectors and cables for industries from communications to aerospace. Revenue surged 52% last year after growing 22% annually over three years, and the company converts about a fifth of sales into profit while generating substantial free cash.
 
 ### What is working
-- Balance sheet: Net cash of $933.8M
-- Growth: Revenue +22% a year over 3 years
-- Profitability: Keeps 18% of revenue as profit
+- Revenue jumped 65% in the latest quarter year-over-year, well above the three-year 22% annual growth rate
+- Free cash flow margin of 19% shows the business converts sales to actual cash efficiently
+- Net cash position of $933.8M and return on equity of 25% demonstrate financial strength and capital efficiency
 
 ### What to be careful about
-- Valuation: Free cash flow yield 2.2%
+- Stock trades at 34x earnings, which is steep; free cash flow yield of only 2.2% means you collect little cash return per dollar invested
+- Price is down 6.1% in the past month and sits 9% below its 52-week high, suggesting recent momentum has stalled
+- Share count grew 2.9% over three years, diluting existing shareholders, and dividend yield is just 1.0%
 
-**Watch next:** The next quarterly report: whether revenue growth of +65% holds.
+**Watch next:** Whether the 65% quarterly revenue growth can sustain, or whether the business is normalizing after a spike from pent-up demand.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Long-term investors comfortable holding quality businesses at premium valuations, expecting years of mid-20s revenue growth to justify the 34x earnings multiple.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $23.1B (+52% vs prior year)

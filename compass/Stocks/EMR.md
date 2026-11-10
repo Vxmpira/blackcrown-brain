@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: price trend stands out, valuation holds it back
+## Industrial machinery company trading near 52-week high with steady growth and strong cash generation
 
-Emerson Electric scores 72 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Emerson Electric is an industrial machinery manufacturer with $19.0B in annual revenue. The company is profitable, generates substantial free cash flow, and carries moderate debt. Its stock price has climbed 30% over the past year and sits near its highest level in 52 weeks.
 
 ### What is working
-- Price trend: Price is above its 200-day average
-- Balance sheet: Debt is 0.4x shareholder equity
-- Shareholder returns: Share count shrinking (buybacks)
+- Price momentum is strong: up 29.8% in one year and 22.4% in six months, sitting 94% of the way through its 52-week range
+- Balance sheet is conservative with debt at just 0.4x shareholder equity, leaving room to invest or return cash
+- Free cash flow generation is robust at $3.5B annually with a 19% free cash flow margin, supporting the 2.4% dividend and share buybacks that have reduced share count 2.6% over three years
 
 ### What to be careful about
-- Valuation: Free cash flow yield 3.7%
+- Valuation is stretched at 35x earnings, which is elevated and leaves limited margin for error if growth slows
+- Growth is moderate at 7% year-over-year revenue in the latest quarter and 8% compounded over three years, which may not justify the premium valuation
+- The stock sits only 2% below its 52-week high after a strong 30% annual run, meaning it has limited upside room before hitting resistance
 
-**Watch next:** The next quarterly report: whether revenue growth of +7% holds.
+**Watch next:** Whether the latest quarter's 7% revenue growth can accelerate or sustain, since the 35x earnings multiple depends on continued expansion to justify current price levels.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable with cyclical industrials and willing to accept a premium valuation for a company with strong cash generation and fortress balance sheet strength.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-09-30)
 - Revenue $19.0B (+5% vs prior year)

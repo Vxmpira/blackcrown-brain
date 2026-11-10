@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Top rated** · Bullish read · trend: Strong uptrend
 
-## Top rated: profitability stands out, valuation holds it back
+## Mastercard: Strong growth and profits, but priced for perfection
 
-Mastercard scores 79 of 100 on the Compass, which puts it in the Top rated tier. Its long-term price trend is: strong uptrend.
+Mastercard is a financial services company that processes payments. It keeps 46 cents of every revenue dollar as profit and has grown revenue 14% annually over three years. The stock has climbed 18% in the past year and sits near its 52-week high.
 
 ### What is working
-- Profitability: Keeps 46% of revenue as profit
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
+- Revenue growth accelerating: +16% last year, latest quarter +14%, outpacing its 3-year average of 14%
+- Exceptional profitability: 46% net margin and 58% operating margin mean the business converts sales to cash very efficiently
+- Shareholder-friendly capital allocation: Share count down 6.7% over 3 years through buybacks; strong analyst backing with 92% buy ratings
 
 ### What to be careful about
-- Valuation: Trades at 34x earnings
+- Expensive valuation: P/E ratio of 33.69 is high, leaving little room for disappointment or slower growth
+- Debt load: $23.9B in debt against $10.1B in cash; leverage may limit flexibility if conditions tighten
+- Limited dividend return: Yield of 0.5% is modest; most shareholder returns depend on buybacks and price appreciation
 
-**Watch next:** The next quarterly report: whether revenue growth of +14% holds.
+**Watch next:** Watch whether the 14% quarterly revenue growth can sustain above the 3-year average, since the valuation assumes continued momentum.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Suits long-term investors comfortable with a mature, profitable business trading at premium valuations and seeking growth through capital returns rather than dividends.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $32.8B (+16% vs prior year)

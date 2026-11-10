@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Top rated** · Bullish read · trend: Strong uptrend
 
-## Top rated: price trend stands out, valuation holds it back
+## Lilly surges on blockbuster growth, but valuation is at a premium
 
-Lilly (Eli) scores 82 of 100 on the Compass, which puts it in the Top rated tier. Its long-term price trend is: strong uptrend.
+Eli Lilly is a major pharmaceutical manufacturer showing exceptional revenue and earnings growth. The company is highly profitable and generates substantial free cash flow. However, the stock price has risen sharply and now trades at a steep valuation multiple.
 
 ### What is working
-- Price trend: Price is above its 200-day average
-- Growth: Revenue +32% a year over 3 years
-- Profitability: Keeps 32% of revenue as profit
+- Revenue jumped 45% last year and grew 32% annually over three years, well above typical pharma growth
+- Net income of $20.6B represents 32% of revenue; free cash flow of $16.8B shows strong cash generation
+- Return on equity sits at 51%, meaning the company turns shareholder capital into earnings very efficiently
 
 ### What to be careful about
-- Valuation: Free cash flow yield 1.3%
+- Stock trades at 48x earnings, which is expensive compared to historical pharma averages; free cash flow yield is only 1.3%
+- Debt of $49.5B is 1.2x shareholder equity, meaning debt load is meaningful relative to the balance sheet
+- Stock is up 54% in one year and sits at the very top of its 52-week range with 35% annual volatility, leaving less room for appreciation
 
-**Watch next:** The next quarterly report: whether revenue growth of +39% holds.
+**Watch next:** Whether the 39% revenue growth in the latest quarter can sustain, since such high growth rates often moderate over time in mature pharmaceutical companies.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Investors comfortable with premium valuations who believe in the company's pipeline and want exposure to a highly profitable, cash-generative pharmaceutical leader.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $65.2B (+45% vs prior year)

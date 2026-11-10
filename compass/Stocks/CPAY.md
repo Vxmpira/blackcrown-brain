@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: price trend stands out, balance sheet holds it back
+## Profitable software firm at 52-week highs with heavy debt load
 
-Corpay scores 74 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Corpay is a technology infrastructure company generating $4.5B in annual revenue with strong profitability. The company keeps 24% of sales as profit and generated $1.3B in free cash flow last year. It has no dividend but is reducing share count through buybacks.
 
 ### What is working
-- Price trend: Price is above its 200-day average
-- Shareholder returns: Share count shrinking (buybacks)
-- Profitability: Keeps 24% of revenue as profit
+- Revenue grew 18% in the latest quarter versus year ago, accelerating from the 10% three-year average
+- Profitability is exceptional: 44% operating margin and 32% return on equity show efficient operations
+- Free cash flow margin of 29% and $3.1B cash balance provide financial flexibility for operations
 
 ### What to be careful about
-- Balance sheet: Debt is 3.4x shareholder equity
+- Debt of $11.2B is 3.4x shareholder equity, a material leverage level that limits financial cushion
+- Stock trades at 26x earnings and sits 98% of the way up its 52-week range, limiting upside room
+- Valuation is elevated relative to historical free cash flow yield of 4.4%, pricing in future growth
 
-**Watch next:** The next quarterly report: whether revenue growth of +18% holds.
+**Watch next:** Whether quarterly revenue growth stays above 15% or slows back toward the historical 10% trend, signaling if the acceleration is sustainable.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable with software-as-infrastructure plays at premium valuations who value cash generation over near-term price appreciation.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $4.5B (+14% vs prior year)

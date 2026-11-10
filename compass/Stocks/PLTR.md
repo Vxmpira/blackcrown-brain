@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Top rated** · Bullish read · trend: Pullback in uptrend
 
-## Top rated: growth stands out, valuation holds it back
+## Fast-growing software company trades at premium price with strong cash generation
 
-Palantir Technologies scores 78 of 100 on the Compass, which puts it in the Top rated tier. Its long-term price trend is: pullback in uptrend.
+Palantir is a software infrastructure company reporting 56% annual revenue growth and 36% net profit margins. It holds $3.6B in net cash with no debt, and generates $2.1B in free cash flow yearly. The stock trades at 111x earnings, one of the market's highest multiples.
 
 ### What is working
-- Growth: Revenue +33% a year over 3 years
-- Balance sheet: Net cash of $3.6B
-- Profitability: Keeps 36% of revenue as profit
+- Revenue grew 96% in the latest quarter year-over-year, and earnings per share jumped 232% in the same period
+- Company converts 47% of revenue into free cash flow, and keeps 36% as net profit
+- Holds $3.6B net cash with zero debt, providing financial flexibility for growth or shareholder returns
 
 ### What to be careful about
-- Valuation: Free cash flow yield 0.5%
+- Stock trades at 111x earnings compared to software industry norms, leaving little room for disappointment
+- Share count has grown 24.3% over three years, diluting existing shareholders even as profits expand
+- Stock is down 6% over the past year despite strong earnings, and has pulled back 20% from its 52-week high of $209.05
 
-**Watch next:** The next quarterly report: whether revenue growth of +96% holds.
+**Watch next:** Whether the latest quarter's 96% revenue growth can sustain, or if growth begins to moderate toward the 33% three-year average pace.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Long-term investors who can tolerate high volatility (59% yearly swings) and believe rapid growth justifies a premium valuation over many years.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $4.5B (+56% vs prior year)

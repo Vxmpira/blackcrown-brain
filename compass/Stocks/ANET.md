@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Pullback in uptrend
 
-## Strong: balance sheet stands out, valuation holds it back
+## Fast-growing networking chip maker trading at premium valuation with strong cash generation
 
-Arista Networks scores 73 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: pullback in uptrend.
+Arista Networks designs and sells computer networking hardware. The company is growing revenue quickly (58% in the latest quarter) and generates large amounts of free cash flow, but reports almost no accounting profit and commands a high valuation multiple of 50 times earnings.
 
 ### What is working
-- Balance sheet: Net cash of $2.3B
-- Growth: Revenue +27% a year over 3 years
-- Price trend: Price is above its 200-day average
+- Revenue growing 58% year over year in the latest quarter, with 3-year annual growth at 27%
+- Generated $4.4B in free cash flow last year despite reporting minimal net income
+- Strong balance sheet with $2.3B in net cash and zero debt; 35 analysts rate it Buy
 
 ### What to be careful about
-- Valuation: Free cash flow yield 1.9%
+- Reports net income of only $3.5K on $9.0B revenue (0% net margin), relying on accounting methods
+- Trades at 50x earnings with free cash flow yield of just 1.9%, leaving little margin for error
+- Stock down 9.7% in the past month and 12% below its 52-week high; 57% yearly volatility
 
-**Watch next:** The next quarterly report: whether revenue growth of +58% holds.
+**Watch next:** Whether the company can sustain 50%+ quarterly revenue growth rates or if deceleration forces a valuation reset.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Investors comfortable holding high-volatility growth stocks for years and who trust cash flow signals over reported earnings.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $9.0B (+29% vs prior year)

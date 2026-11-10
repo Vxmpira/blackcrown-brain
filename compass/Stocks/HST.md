@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Top rated** · Bullish read · trend: Strong uptrend
 
-## Top rated: balance sheet stands out, growth holds it back
+## Hotel REIT near 52-week high with strong cash flow and rising shareholder payouts
 
-Host Hotels & Resorts scores 78 of 100 on the Compass, which puts it in the Top rated tier. Its long-term price trend is: strong uptrend.
+Host Hotels & Resorts owns and operates hotels across the U.S. In 2025, it generated $6.1 billion in revenue and $1.2 billion in free cash flow. The company trades at 17 times earnings with a 4.1% dividend yield and has been buying back shares.
 
 ### What is working
-- Balance sheet: Net cash of $218.0M
-- Price trend: Price is above its 200-day average
-- Shareholder returns: Share count shrinking (buybacks)
+- Price up 41% over the past year and sits 90% of the way up its 52-week range, showing sustained uptrend momentum
+- Produces 20% free cash flow margin and generates $1.2B in annual free cash, allowing both dividends and buybacks
+- Trading at 7.1% free cash flow yield with net cash position of $218.0M, providing financial cushion
 
 ### What to be careful about
-- Growth: Revenue +8% a year over 3 years
+- Latest quarter revenue grew only 1% year over year, a significant slowdown from the 8% annual growth rate
+- Stock sits near the top of its 52-week range at 26.11, leaving less room for further upside before taking losses
+- 25% yearly volatility means price swings can be sharp; 60% analyst buy rating leaves room for dissent among the 25 covering analysts
 
-**Watch next:** The next quarterly report: whether revenue growth of +1% holds.
+**Watch next:** Whether quarterly revenue growth reaccelerates above 1% or continues to decelerate further will signal if the slowdown is temporary or structural.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Long-term investors who want steady cash returns through dividends and buybacks from a capital-light business model and can tolerate moderate price swings.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $6.1B (+8% vs prior year)

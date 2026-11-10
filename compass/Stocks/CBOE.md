@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: price trend stands out
+## Exchange operator with strong recent growth trades near 52-week high
 
-Cboe Global Markets scores 75 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Cboe Global Markets operates financial exchanges and data services. The company grew revenue 15% last year and earnings per share 45%, keeping 23% of revenue as profit. It trades at 27x earnings with a market value of $37.0 billion.
 
 ### What is working
-- Price trend: Price is above its 200-day average
-- Shareholder returns: Share count shrinking (buybacks)
-- Profitability: Keeps 23% of revenue as profit
+- Latest quarter revenue jumped 19% year over year, well above the 3-year average of 6% annual growth
+- Profit margin is healthy at 23%, and return on equity sits at 19%, showing efficient capital use
+- Stock price up 39% over the past year and sits 92% up its 52-week range, reflecting strong momentum
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Valuation of 27x earnings is elevated, leaving limited margin for error if growth slows
+- Analysts are split: only 48% rate it a buy while consensus is Hold, suggesting uncertainty ahead
+- Stock sits just 3% below its 52-week high with yearly volatility at 37%, indicating price risk if sentiment shifts
 
-**Watch next:** The next quarterly report: whether revenue growth of +19% holds.
+**Watch next:** Whether the 19% quarterly revenue growth can sustain, since the long-term average has only been 6% annually.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors comfortable with higher valuations and willing to hold through exchange-sector cycles, seeking exposure to financial markets infrastructure.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $4.7B (+15% vs prior year)

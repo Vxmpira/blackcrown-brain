@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Top rated** · Bullish read · trend: Turning up
 
-## Top rated: balance sheet stands out
+## Cruise operator firing on cylinders: 27% revenue growth, 36% ROE, but pricey at 20x earnings
 
-Royal Caribbean Group scores 76 of 100 on the Compass, which puts it in the Top rated tier. Its long-term price trend is: turning up.
+Royal Caribbean is a cruise line operator generating $17.9 billion in annual revenue with strong profitability (24% net margin) and cash generation ($1.2 billion free cash flow). The company has nearly tripled its stock price over five years and sits near 52-week highs, with analyst consensus firmly bullish.
 
 ### What is working
-- Balance sheet: Debt is 0.5x shareholder equity
-- Profitability: Keeps 24% of revenue as profit
-- Growth: Revenue +27% a year over 3 years
+- Revenue growing 27% annually over 3 years and 9% year-over-year; earnings per share up 43% in latest year
+- Keeps 24% of revenue as profit (net margin) and 27% as operating profit; generates $1.2B free cash flow
+- Return on equity of 36% shows efficient use of shareholder capital; debt only 0.5x equity (conservative leverage)
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Trades at 20x earnings with free cash flow yield of only 1.4%, suggesting limited margin of safety at current price
+- Stock up 32% in one year and sits 91% of the way through its 52-week range; high valuation after strong run
+- Share count growing 7.4% over three years dilutes existing shareholders; dividend yield low at 1.5%
 
-**Watch next:** The next quarterly report: whether revenue growth of +9% holds.
+**Watch next:** Monitor whether the 9% year-over-year revenue growth accelerates or decelerates in coming quarters, as the long-term 27% annual growth rate may not be sustainable.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** This profile suits investors comfortable with cyclical consumer spending, valuation-indifferent momentum believers, or those betting travel remains a consumer priority despite elevated entry prices.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $17.9B (+9% vs prior year)

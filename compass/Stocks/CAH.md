@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: balance sheet stands out
+## Medical distributor hitting 52-week highs with strong cash generation but thin margins
 
-Cardinal Health scores 74 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Cardinal Health is a large medical distributor with $254.2B in annual revenue. The company generates substantial free cash flow ($4.5B) and carries a net cash position of $2.8B. It operates on very thin profit margins of 1% and is returning cash to shareholders through buybacks and a 1.9% dividend.
 
 ### What is working
-- Balance sheet: Net cash of $2.8B
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
+- Stock up 34% over the past year and trades near its 52-week high of $274.29
+- Free cash flow yield of 7.1% is relatively attractive for valuation comparison
+- Share count down 9.5% over three years from buybacks; net cash position of $2.8B provides financial stability
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Profit margin of only 1% means little room for error; operating margin also 1%
+- Revenue growth modest at 7% annually over three years; latest quarter grew just 5% year over year
+- Stock trades at 37x earnings, which is high relative to the company's 1% net margins and suggests limited margin for price decline
 
-**Watch next:** The next quarterly report: whether revenue growth of +5% holds.
+**Watch next:** Watch whether revenue growth accelerates beyond the recent 5% quarterly rate, since the valuation relies on the company maintaining its current earnings multiple.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Suits investors seeking a large-cap healthcare exposure with steady cash flow who are comfortable with razor-thin operating margins and modest growth in exchange for dividend and buyback returns.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-06-30)
 - Revenue $254.2B (+14% vs prior year)

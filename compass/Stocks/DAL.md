@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Top rated** · Bullish read · trend: Uptrend
 
-## Top rated: price trend stands out
+## Delta up 55% in a year with strong cash flow, but debt and cyclical risks remain
 
-Delta Air Lines scores 77 of 100 on the Compass, which puts it in the Top rated tier. Its long-term price trend is: uptrend.
+Delta is a major airline generating $63.4B in revenue with 8% annual growth. The company keeps 8% of revenue as profit and produces $3.8B in free cash flow yearly. It trades at 18x earnings with a 6.4% free cash flow yield.
 
 ### What is working
-- Price trend: Price is above its 200-day average
-- Valuation: Free cash flow yield 6.4%
-- Balance sheet: Debt is 0.5x shareholder equity
+- Price momentum is strong: up 55% over the past year and sitting 94% of the way up its 52-week range
+- Latest quarter revenue jumped 21% year over year, showing recent demand surge
+- Analyst consensus is firm: 90% of 30 analysts rate it a buy, consensus Buy rating
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Profitability margins are thin: 8% net margin and 6% free cash flow margin leave little room for error
+- Debt load is substantial: $12.1B owed against $3.8B in cash, typical for capital-intensive airlines
+- Yearly volatility is high at 39%, and the stock is already near its 52-week high at 94% of range
 
-**Watch next:** The next quarterly report: whether revenue growth of +21% holds.
+**Watch next:** Watch whether the 21% quarter-over-quarter revenue growth can sustain, since airlines are cyclical and sensitive to economic slowdowns.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Suits investors comfortable with cyclical industrials who want exposure to travel demand and can tolerate high volatility and leverage.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $63.4B (+3% vs prior year)

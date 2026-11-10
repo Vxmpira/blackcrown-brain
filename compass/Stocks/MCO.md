@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Uptrend
 
-## Strong: profitability stands out, valuation holds it back
+## Highly profitable data firm trading at premium; growth slowing at the edges
 
-Moody's Corporation scores 72 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: uptrend.
+Moody's is a financial data and analytics company that keeps 32 cents of every revenue dollar as profit and delivers a 75% return on equity. Revenue grew 12% annually over three years, though recent quarterly growth has slowed to just 1% year over year. The stock is near its 52-week high and trades at 31 times earnings.
 
 ### What is working
-- Profitability: Keeps 32% of revenue as profit
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
+- Exceptional profitability: 32% net margin and 43% operating margin show pricing power and cost discipline
+- Strong capital return: share count down 2.6% over three years via buybacks, and free cash flow of $2.6B funds both debt paydown and shareholder rewards
+- Analyst confidence: 73% of 30 analysts rate it a buy, and the stock has gained 7.4% in the past month and 11.8% over six months
 
 ### What to be careful about
-- Valuation: Trades at 31x earnings
+- Valuation stretched: P/E of 30.56 is elevated, leaving limited margin for error if growth disappoints further
+- Growth momentum fading: latest quarter revenue up only 1% year over year, a sharp deceleration from the three-year 12% annual average
+- High leverage relative to peers: debt of $6.9B against cash of $1.5B leaves net debt of $5.4B, though free cash flow covers it 2.1 times
 
-**Watch next:** The next quarterly report: whether revenue growth of +1% holds.
+**Watch next:** Whether next quarter's revenue growth reaccelerates above 1% year over year, since valuation hinges on the company returning to higher single-digit or double-digit expansion.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors seeking stable, highly profitable businesses with entrenched market positions who can tolerate above-average valuations and near-term volatility of 29% yearly.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $7.7B (+9% vs prior year)

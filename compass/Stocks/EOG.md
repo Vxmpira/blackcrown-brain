@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Top rated** · Bullish read · trend: Strong uptrend
 
-## Top rated: valuation stands out, growth holds it back
+## Oil giant with strong cash flow trades cheap, but revenue trend is mixed
 
-EOG Resources scores 78 of 100 on the Compass, which puts it in the Top rated tier. Its long-term price trend is: strong uptrend.
+EOG Resources is an oil and gas exploration and production company. It posted $22.6 billion in revenue for 2025, with net income of $5.0 billion. The latest quarter showed a sharp 46% revenue jump year-over-year, though full-year revenue fell 4% compared to 2024.
 
 ### What is working
-- Valuation: Free cash flow yield 13.2%
-- Balance sheet: Debt is 0.2x shareholder equity
-- Shareholder returns: Share count shrinking (buybacks)
+- Valuation is historically low: trades at 9x earnings and offers a 13.2% free cash flow yield
+- Balance sheet is fortress-like: debt is only 0.2x shareholder equity, leaving room to invest or return cash
+- Shareholder returns are active: the company shrunk share count by 7.0% over three years and pays a 2.9% dividend
 
 ### What to be careful about
-- Growth: Revenue -4% a year over 3 years
+- Three-year revenue trend is declining: revenue fell 4% per year on average over the past three years
+- Latest earnings fell despite revenue surge: earnings per share dropped 19% year-over-year in 2025
+- Stock is 9% below its 52-week high and has 30% yearly volatility, meaning significant price swings are normal
 
-**Watch next:** The next quarterly report: whether revenue growth of +46% holds.
+**Watch next:** Monitor whether the latest quarter's 46% revenue spike reflects a lasting trend or a one-time spike, since full-year 2025 revenue actually declined.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors comfortable holding cyclical commodity businesses and willing to tolerate price swings in exchange for current cash generation and low valuation.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $22.6B (-4% vs prior year)

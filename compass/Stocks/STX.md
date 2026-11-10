@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Losing steam
 
-## Strong: profitability stands out
+## Storage giant with strong profits and growth, but stock price has fallen sharply this year
 
-Seagate Technology scores 74 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: losing steam.
+Seagate makes data storage hardware. The company is highly profitable, generating 26 cents of profit per dollar of revenue, and grew revenue 61% in its latest quarter. Yet the stock price has dropped 33.9% in the past month and sits 54% below its 52-week high.
 
 ### What is working
-- Profitability: Keeps 26% of revenue as profit
-- Growth: Revenue +18% a year over 3 years
-- Balance sheet: Debt is 0.7x shareholder equity
+- Revenue jumped 61% year over year in the latest quarter; three-year annual growth holds at 18%
+- Keeps 26% of revenue as net profit and generates $3.1B in free cash flow annually
+- Return on equity of 92% and 87% of analysts rate it a buy, with 31 covering the stock
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Stock is down 33.9% in one month and 38.4% over six months despite strong fundamentals
+- Price trades at 26x earnings, which is steep relative to a 2.7% free cash flow yield
+- Share count has grown 10.6% over three years, diluting existing shareholders; debt is $2.4B
 
-**Watch next:** The next quarterly report: whether revenue growth of +61% holds.
+**Watch next:** Monitor whether the recent 54% drop from the 52-week high signals a market shift away from storage demand or represents a temporary pullback in a volatile stock with 77% yearly volatility.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Long-term investors who can tolerate sharp price swings and are comfortable owning a profitable hardware company even when the market is pessimistic about its near-term prospects.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-07-03)
 - Revenue $12.2B (+34% vs prior year)

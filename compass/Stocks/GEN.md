@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Uptrend
 
-## Strong: profitability stands out, balance sheet holds it back
+## Strong profitability and cash generation offset heavy debt load
 
-Gen Digital scores 72 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: uptrend.
+Gen Digital is a software infrastructure company generating $5.0B in annual revenue with robust profit margins of 19% and free cash flow of $1.5B. The stock has climbed 15% over the past year and trades near the top of its 52-week range, though analyst opinion remains mixed.
 
 ### What is working
-- Profitability: Keeps 19% of revenue as profit
-- Valuation: Free cash flow yield 8.6%
-- Price trend: Price is above its 200-day average
+- Profitability is exceptional: 19% net margin, 42% operating margin, and 36% return on equity show efficient operations
+- Free cash flow generation is strong at $1.5B annually, yielding 8.6% on market value, funding both dividends and buybacks
+- Revenue growth is steady and accelerating: +15% annually over three years, with latest quarter up 12% year over year
 
 ### What to be careful about
-- Balance sheet: Debt is 3.0x shareholder equity
+- Debt burden is significant at $8.1B, or 3.0x shareholder equity, which limits financial flexibility
+- Analyst consensus is lukewarm: only 56% of 16 analysts rate it a buy, with consensus at Hold
+- Stock volatility is high at 43% yearly, and price sits 87% up its 52-week range, leaving less room before hitting highs
 
-**Watch next:** The next quarterly report: whether revenue growth of +12% holds.
+**Watch next:** Monitor whether the company reduces its 3.0x debt-to-equity ratio while maintaining its 12%+ revenue growth rate, as debt management will shape future shareholder returns.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors comfortable with leverage who value current cash generation and dividends over growth, and who can tolerate near-52-week-high valuations.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-04-03)
 - Revenue $5.0B (+27% vs prior year)

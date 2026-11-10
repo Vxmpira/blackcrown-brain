@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: balance sheet stands out, growth holds it back
+## Profitable tech services giant with strong cash flow, but growth is slowing
 
-Accenture scores 75 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Accenture is a large information technology services company generating $74.2B in annual revenue. It keeps 11% of sales as profit and produces substantial free cash flow of $11.6B yearly. The stock has climbed 48% in six months and sits near its 52-week high.
 
 ### What is working
-- Balance sheet: Net cash of $12.8B
-- Shareholder returns: Share count shrinking (buybacks)
-- Valuation: Free cash flow yield 7.7%
+- Free cash flow yield of 7.7% is above typical market returns, showing efficient cash generation
+- Return on equity of 27% means the company deploys shareholder capital effectively
+- Net cash position of $12.8B with no debt provides financial flexibility and reduces risk
 
 ### What to be careful about
-- Growth: Revenue +5% a year over 3 years
+- Revenue growth has slowed to 5% annually over three years, down from recent 6% quarterly pace
+- Stock has gained only 2.4% over the past year despite strong recent momentum, suggesting volatility
+- Yearly volatility of 50% means price swings are large; stock is 13% below its 52-week high
 
-**Watch next:** The next quarterly report: whether revenue growth of +6% holds.
+**Watch next:** Whether the 6% latest quarterly revenue growth can sustain or if the three-year 5% annual trend reasserts itself.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Long-term investors seeking stable, cash-generative large-cap technology exposure who tolerate significant price swings.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-08-31)
 - Revenue $74.2B (+6% vs prior year)

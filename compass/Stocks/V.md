@@ -14,22 +14,25 @@ tags: [korvus-compass, stock]
 
 **Top rated** · Bullish read · trend: Strong uptrend
 
-## Top rated: profitability stands out
+## Visa trades near its 52-week high with industry-leading profits but a steep price tag
 
-Visa Inc. scores 85 of 100 on the Compass, which puts it in the Top rated tier. Its long-term price trend is: strong uptrend.
+Visa processes digital payments globally and keeps more than half of every revenue dollar as profit. The company grew revenue 13% in its latest quarter and returned $22.1 billion in free cash flow last fiscal year. It trades at 33 times earnings, which is well above historical norms for mature companies.
 
 ### What is working
-- Profitability: Keeps 51% of revenue as profit
-- Price trend: Price is above its 200-day average
+- Revenue grew 13% in the latest quarter, outpacing its 3-year average of 12% per year
+- Converts 51% of revenue to net profit and generates a 65% return on shareholder equity
+- 49 analysts covering the stock, with 90% rating it a buy
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Stock trades at 33x earnings, leaving little room for disappointment relative to slower-growth peers
+- Price sits 88% of the way up its 52-week range, meaning it is near its recent high
+- Yearly volatility of 23% means larger price swings than some dividend stocks
 
-**Watch next:** The next quarterly report: whether revenue growth of +13% holds.
+**Watch next:** Whether quarterly revenue growth can maintain its 13% pace or slip back toward the 12% historical trend as the company matures.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors seeking exposure to global payments with strong cash generation who are comfortable with premium valuations and moderate price swings.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-09-30)
 - Revenue $45.9B (+15% vs prior year)

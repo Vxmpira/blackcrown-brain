@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Pullback in uptrend
 
-## Strong: balance sheet stands out, valuation holds it back
+## AMD shows strong growth but trades at a premium after 128% surge
 
-Advanced Micro Devices scores 74 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: pullback in uptrend.
+AMD is a semiconductor company with accelerating revenue growth of 45% in its latest quarter and $6.7B in annual free cash flow. The company trades at 110x earnings, reflecting investor confidence after a strong 12-month run-up of 128%.
 
 ### What is working
-- Balance sheet: Net cash of $325.0M
-- Price trend: Price is above its 200-day average
-- Growth: Revenue +14% a year over 3 years
+- Revenue growth accelerating: latest quarter +45% year-over-year, with full-year revenue up 34%
+- Strong cash generation: $6.7B free cash flow annually with 19% free cash flow margin
+- Analyst support: 83% of 60 analysts rate it a buy, consensus is Buy
 
 ### What to be careful about
-- Valuation: Free cash flow yield 0.8%
+- Valuation stretched: P/E ratio of 110x and free cash flow yield of only 0.8% are historically high
+- Stock down 18% from recent peak; 73% annual volatility means large price swings are normal
+- Return on equity of 6% is low relative to the valuation; share dilution of 4.1% over three years
 
-**Watch next:** The next quarterly report: whether revenue growth of +45% holds.
+**Watch next:** Whether the 45% quarterly revenue growth rate can be sustained or moderates as the year progresses, since valuation depends on continued acceleration.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Long-term investors who believe in semiconductor demand and can tolerate 70%+ annual price swings without panic selling.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-27)
 - Revenue $34.6B (+34% vs prior year)

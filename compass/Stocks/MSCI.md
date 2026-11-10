@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Top rated** · Bullish read · trend: Strong uptrend
 
-## Top rated: profitability stands out, valuation holds it back
+## Profitable data company growing steadily, but priced at a premium
 
-MSCI scores 76 of 100 on the Compass, which puts it in the Top rated tier. Its long-term price trend is: strong uptrend.
+MSCI provides financial data and analytics services to investors. The company is growing revenue and earnings at 12% annually, keeps nearly 40 cents of every dollar as profit, and trades at a strong price momentum. However, it is valued at 33 times earnings, which is steep.
 
 ### What is working
-- Profitability: Keeps 38% of revenue as profit
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
+- Revenue and earnings both up 12% year over year; three-year growth rate also 12%
+- Exceptionally profitable: 38% net margin and 55% operating margin show pricing power
+- Strong price momentum: up 11% over one year and sits 83% up its 52-week range
 
 ### What to be careful about
-- Valuation: Trades at 34x earnings
+- Valuation is rich at 33.4x earnings; only 35 out of 100 on valuation score
+- High volatility of 30% yearly means price swings can be sharp
+- Net debt of 6.4 billion dollars against 1.2 billion in net income; leverage is significant
 
-**Watch next:** The next quarterly report: whether revenue growth of +12% holds.
+**Watch next:** Whether quarterly revenue growth can sustain 12% or begins to decelerate, signaling saturation in its market.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors who believe in steady, profitable compounders and are comfortable with above-market valuations and stock price swings.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $3.1B (+10% vs prior year)

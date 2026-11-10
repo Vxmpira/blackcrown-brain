@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Pullback in uptrend
 
-## Strong: shareholder returns stands out, balance sheet holds it back
+## Profitable hardware firm surging but analyst consensus lags rally; debt notable
 
-NetApp scores 74 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: pullback in uptrend.
+NetApp is a data storage and management company generating $6.9 billion in annual revenue with strong profitability (18% net margin, 27% free cash flow margin). The stock has risen 56% over the past year but recently pulled back 26% from its high, while analyst consensus remains cautiously neutral despite solid fundamentals.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Profitability: Keeps 18% of revenue as profit
-- Price trend: Price is above its 200-day average
+- Latest quarter revenue jumped 30% year over year, well ahead of the 3-year average growth of 3% per year
+- Returns 85% on shareholder equity and converts 27% of revenue into free cash flow; generates $1.9B in annual free cash
+- Share buybacks shrinking the share count by 8.6% over three years while paying a 2.5% dividend yield
 
 ### What to be careful about
-- Balance sheet: Debt is 1.7x shareholder equity
+- Debt of $2.5B is 1.7x total shareholder equity, a leverage level worth monitoring in a rising rate environment
+- Stock has fallen 26% from its 52-week high of $239.18 to $176.17 in just the past month; yearly volatility stands at 47%
+- Only 45% of 29 analysts rate it a buy; consensus is Hold, suggesting even coverage remains unconvinced despite the rally
 
-**Watch next:** The next quarterly report: whether revenue growth of +30% holds.
+**Watch next:** Whether the latest quarter's 30% revenue surge continues or normalizes back toward the 3-year average of 3% annual growth.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Investors seeking profitable, cash-generative technology companies who can tolerate high stock volatility and are comfortable with moderate debt loads.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-04-24)
 - Revenue $6.9B (+5% vs prior year)

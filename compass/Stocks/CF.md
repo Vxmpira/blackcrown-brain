@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Top rated** · Bullish read · trend: Pullback in uptrend
 
-## Top rated: profitability stands out
+## Fertilizer maker shows strong profits and cash, but faces long-term revenue headwinds
 
-CF Industries scores 79 of 100 on the Compass, which puts it in the Top rated tier. Its long-term price trend is: pullback in uptrend.
+CF Industries produces and sells nitrogen and phosphate fertilizers to agricultural customers. The company is currently highly profitable with strong cash generation, though revenue has declined over the past three years despite a recent uptick.
 
 ### What is working
-- Profitability: Keeps 25% of revenue as profit
-- Valuation: Free cash flow yield 10.3%
-- Shareholder returns: Share count shrinking (buybacks)
+- Keeps 25% of revenue as profit and generates $1.8B in free cash flow annually
+- Stock up 47% over the past year and trades at 8x earnings with 10.3% free cash flow yield
+- Share count down 21% over three years through buybacks; returning capital to shareholders
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Revenue fell 14% on average per year over the past three years, showing a long-term decline
+- Analyst consensus is Hold, not Buy; only 42% of 31 analysts rate it a buy
+- Stock is 14% below its 52-week high and down 7.7% over the past six months despite strong fundamentals
 
-**Watch next:** The next quarterly report: whether revenue growth of +12% holds.
+**Watch next:** Track whether the latest revenue growth of 12% year over year signals a reversal of the three-year declining trend or is temporary.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors seeking high current profitability and cash generation who are comfortable with a mature business facing structural headwinds in its end markets.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $7.1B (+19% vs prior year)

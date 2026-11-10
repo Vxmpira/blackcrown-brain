@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Top rated** · Bullish read · trend: Pullback in uptrend
 
-## Top rated: balance sheet stands out
+## Energy refiner riding oil prices up, but long-term revenue trend is down
 
-Phillips 66 scores 77 of 100 on the Compass, which puts it in the Top rated tier. Its long-term price trend is: pullback in uptrend.
+Phillips 66 refines and markets oil products. The company generated $132.4B in revenue last year and $4.4B in net income. It returned cash to shareholders through dividends and buybacks.
 
 ### What is working
-- Balance sheet: Net cash of $4.7B
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
+- Price surged 79.8% over the past year and sits 71% up its 52-week range
+- Latest quarter revenue jumped 46% year over year; earnings per share up 116%
+- Strong balance sheet with $4.7B net cash; returns 5.0% free cash flow yield and 3.5% dividend
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Full-year revenue fell 8% compared to prior year; down 8% per year over 3 years
+- Profit margin is thin at 3%; free cash flow margin only 4%
+- Stock down 11.9% in last month and 17% from its 52-week high; volatility is 33%
 
-**Watch next:** The next quarterly report: whether revenue growth of +46% holds.
+**Watch next:** Whether the latest quarter's 46% revenue jump represents a sustained shift or a temporary bounce from oil prices and refining spreads.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors seeking high current yield from a capital-intensive industrial business who can tolerate oil price swings and watch for signs that long-term revenue decline may reverse.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $132.4B (-8% vs prior year)

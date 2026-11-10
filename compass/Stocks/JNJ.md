@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Top rated** · Bullish read · trend: Strong uptrend
 
-## Top rated: price trend stands out, valuation holds it back
+## Healthcare giant trading near 52-week highs with strong profits but a pricey valuation
 
-Johnson & Johnson scores 79 of 100 on the Compass, which puts it in the Top rated tier. Its long-term price trend is: strong uptrend.
+Johnson & Johnson is a large drug and healthcare manufacturer generating $94.2 billion in annual revenue. The company is highly profitable, returning 33% on shareholder equity, and returning cash to investors through dividends and share buybacks. The stock has surged 51% over the past year and now trades at 42 times earnings.
 
 ### What is working
-- Price trend: Price is above its 200-day average
-- Shareholder returns: Share count shrinking (buybacks)
-- Profitability: Keeps 28% of revenue as profit
+- Profitability is exceptional: 28% net profit margin and $19.7B in free cash flow annually
+- Strong shareholder returns: 3.1% dividend yield plus share count down 8.8% over 3 years from buybacks
+- Price momentum is steep: up 51% in 12 months and 99% of the way up its 52-week range
 
 ### What to be careful about
-- Valuation: Free cash flow yield 2.9%
+- Valuation is stretched: P/E ratio of 42x and free cash flow yield of only 2.9% leave little room for error
+- Revenue growth is modest: just 6% annually over 3 years, slower than many growth stocks
+- Stock is at the high end of its range: sitting near 52-week highs with 21% annual volatility means pullbacks are possible
 
-**Watch next:** The next quarterly report: whether revenue growth of +6% holds.
+**Watch next:** Monitor whether revenue growth accelerates beyond 6% annually, as the current valuation assumes steady but unspectacular topline expansion.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors seeking stable dividends and shareholder-friendly policies who are comfortable paying premium prices for defensive, profitable businesses.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-28)
 - Revenue $94.2B (+6% vs prior year)

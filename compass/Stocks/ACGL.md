@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: valuation stands out
+## Insurance giant trades cheap while recent quarter signals a slowdown
 
-Arch Capital Group scores 74 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Arch Capital is a diversified insurance company with $19.9B in annual revenue and $4.4B in net income. It keeps 22% of revenue as profit and has returned 19% to shareholders annually. The stock has climbed 20% in the past year and sits near its 52-week high.
 
 ### What is working
-- Valuation: Trades at 8x earnings
-- Price trend: Price is above its 200-day average
-- Profitability: Keeps 22% of revenue as profit
+- Stock price is 85% of the way up its 52-week range, showing sustained momentum over 1 month (+10.4%), 6 months (+13.8%), and 1 year (+19.8%)
+- Trades at 8x earnings with 17.4% free cash flow yield, suggesting the market prices it below recent profitability levels
+- Three-year revenue growth averaged 28% per year, and full-year 2025 revenue rose 14% to $19.9B
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Latest quarter revenue fell 9% year over year to $4.7B, breaking the multi-year growth trend
+- Earnings per share grew only 4% year over year, much slower than historical revenue growth rates
+- Analyst consensus shows only 57% buy ratings among 28 analysts, meaning 43% are neutral or sell
 
-**Watch next:** The next quarterly report: whether revenue growth of -9% holds.
+**Watch next:** Whether the 9% quarterly revenue decline signals a sustained slowdown or a temporary dip, as this reversal contradicts three years of 28% annual growth.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Long-term investors seeking profitable, cash-generative businesses at reasonable valuations who can tolerate insurance sector cyclicality and a 21% annual price volatility.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $19.9B (+14% vs prior year)

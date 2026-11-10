@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Uptrend
 
-## Strong: valuation stands out
+## Profitable insurer trading cheap, but growth is slowing and analysts are cautious
 
-Allstate scores 75 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: uptrend.
+Allstate is a large property and casualty insurance company generating $67.7B in annual revenue. It keeps 15% of sales as profit and delivers a 31% return on shareholder equity. The stock has risen 27% over the past year and trades at just 5x earnings.
 
 ### What is working
-- Valuation: Trades at 5x earnings
-- Profitability: Keeps 15% of revenue as profit
-- Shareholder returns: Share count shrinking (buybacks)
+- Trading at 5x earnings with 15.9% free cash flow yield, among the lowest valuation metrics on offer
+- Net income jumped 124% year over year to $10.2B, driven by improved underwriting and investment results
+- Returns 15% of revenue as net profit and 31% return on equity, showing strong operational efficiency
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Revenue growth has decelerated: +10% annually over three years but only +1% in the latest quarter
+- Analyst consensus is Hold, not Buy; only 48% of 31 analysts rate it a buy despite cheap valuation
+- Stock is 7% below its 52-week high and trades with 26% yearly volatility, indicating recent pullback from peak
 
-**Watch next:** The next quarterly report: whether revenue growth of +1% holds.
+**Watch next:** Watch whether quarterly revenue growth accelerates back toward the 10% three-year average, as the slowdown to 1% may signal competitive or claims pressures.
 
-**Tends to suit:** Profiles like this, a dividend payer with calmer price swings, tend to suit income-minded holders.
+**Tends to suit:** Suits long-term investors seeking a dividend-paying financial stock with fortress profitability and deep value, who can tolerate insurance-cycle volatility and analyst skepticism.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $67.7B (+6% vs prior year)

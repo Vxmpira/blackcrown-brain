@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Uptrend
 
-## Strong: balance sheet stands out
+## Discount retailer riding strong price momentum with solid cash generation and buybacks
 
-Ross Stores scores 72 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: uptrend.
+Ross Stores is a discount apparel retailer generating $22.8B in annual revenue with a 9% net profit margin. The company maintains a strong balance sheet with $3.3B in net cash and produces $2.2B in annual free cash flow. Recent quarter revenue jumped 13% year over year.
 
 ### What is working
-- Balance sheet: Net cash of $3.3B
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
+- Price momentum is strong: up 46% over the past year and sits 80% of the way up its 52-week range
+- Profitability is solid: 9% net margin, 10% free cash flow margin, and 32% return on equity show efficient operations
+- Balance sheet is fortress-like: $3.3B net cash with active buybacks shrinking share count by 6% over three years
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Valuation is stretched: trades at 28x earnings with only a 2.9% free cash flow yield, leaving little margin for disappointment
+- Growth is moderate: revenue climbs just 7% annually over three years, though latest quarter showed 13% growth
+- Stock is near its 52-week high: currently 8% below the peak, which means downside risk if momentum stalls
 
-**Watch next:** The next quarterly report: whether revenue growth of +13% holds.
+**Watch next:** Watch whether the latest quarter's 13% revenue growth can sustain into coming quarters, or if it was a temporary bump that slows back to the historical 7% annual pace.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Suits investors seeking a profitable, cash-generative retailer with buyback support, but who can tolerate high valuation multiples and consumer cyclical sensitivity in exchange for proven execution.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-01-31)
 - Revenue $22.8B (+8% vs prior year)

@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: balance sheet stands out
+## Disney shows strong momentum with solid cash generation and analyst backing
 
-Walt Disney Company (The) scores 74 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Disney is a large entertainment company generating $94.4B in annual revenue with a 13% profit margin. The stock is near its 52-week high and has posted 6% gains over the past year, while earnings per share jumped 152% year over year.
 
 ### What is working
-- Balance sheet: Debt is 0.4x shareholder equity
-- Price trend: Price is above its 200-day average
-- Shareholder returns: Share count shrinking (buybacks)
+- Price is 95% of the way up its 52-week range, showing sustained uptrend momentum
+- Free cash flow of $10.1B with a 5.0% yield provides cash for dividends and buybacks
+- Earnings per share surged 152% year over year, though this reflects base effects from prior losses
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Revenue growth is modest at 5% annually over three years and only 7% in the latest quarter
+- Debt stands at $46.0B, though offset by equity of $115.0B, limiting financial flexibility
+- Stock trades at 23.61x earnings, above historical norms, leaving less margin for disappointment
 
-**Watch next:** The next quarterly report: whether revenue growth of +7% holds.
+**Watch next:** Monitor whether quarterly revenue growth can accelerate beyond 7% and whether the company can sustain or expand its 13% net margin as streaming and traditional media mix shifts.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors seeking exposure to large-cap entertainment with current profitability and dividend income, who can tolerate 28% annual volatility.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-09-27)
 - Revenue $94.4B (+3% vs prior year)

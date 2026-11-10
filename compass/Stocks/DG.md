@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: price trend stands out
+## Discount retailer with strong price momentum and cash generation, modest growth ahead
 
-Dollar General scores 72 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Dollar General is a large discount store chain generating $42.7B in annual revenue. The company keeps 4% of sales as profit and produces $2.4B in free cash flow yearly. It trades at 17x earnings with an 8.1% free cash flow yield.
 
 ### What is working
-- Price trend: Price is above its 200-day average
-- Valuation: Free cash flow yield 8.1%
-- Balance sheet: Debt is 0.5x shareholder equity
+- Price momentum is sharp: up 37% over the past year and 64% of the way up its 52-week range
+- Cash generation is solid: $2.4B in free cash flow and 6% free cash flow margin
+- Capital discipline evident: debt is only 0.5x equity and share count fell 2.4% over three years via buybacks
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Revenue growth is slow at 4% annually over three years, with latest quarter at only 5%
+- Profitability is thin: just 4% net margin and 5% operating margin leave little room for error
+- Analysts are mixed: only 50% of 40 analysts rate it a buy, with consensus just Buy not Strong Buy
 
-**Watch next:** The next quarterly report: whether revenue growth of +5% holds.
+**Watch next:** Monitor whether the 5% revenue growth rate can sustain or accelerate, since the company's margin improvement strategy depends on scaling sales across its store base.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors seeking steady cash flow and buyback returns from a mature retail business, comfortable with slow growth and thin margins in exchange for defensive characteristics.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-01-30)
 - Revenue $42.7B (+5% vs prior year)

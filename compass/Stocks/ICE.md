@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: price trend stands out
+## Financial exchange operator at 52-week high with accelerating quarterly growth
 
-Intercontinental Exchange scores 73 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+ICE is a major financial data and exchange company that keeps 26 cents of every revenue dollar as profit. Annual revenue is $12.6 billion, up 7% year over year, but the latest quarter grew 21%, showing recent momentum. The stock has climbed 17% over the past year and now sits near its highest point in 52 weeks.
 
 ### What is working
-- Price trend: Price is above its 200-day average
-- Profitability: Keeps 26% of revenue as profit
-- Growth: Revenue +9% a year over 3 years
+- Latest quarter revenue jumped 21% while full-year revenue gained 9% a year over 3 years, signaling acceleration
+- Strong profitability: keeps 26% of revenue as net profit and generates $4.3 billion in free cash flow annually
+- Price momentum is pronounced: up 17% in one year, with the 50-day average above the 200-day, and 81% of analysts rate it a buy
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Valuation is steep at 23.37x earnings, which leaves less margin for error if growth slows
+- Shareholder dilution: share count has grown 2.5% over three years, meaning existing owners own smaller slices
+- Debt load is heavy at $23.3 billion against cash of just $936 million, creating financial leverage risk
 
-**Watch next:** The next quarterly report: whether revenue growth of +21% holds.
+**Watch next:** Monitor whether the 21% quarterly revenue growth rate can persist, since most of the recent stock run is priced around continued acceleration.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** This profile suits investors comfortable with large, profitable financial infrastructure companies trading at premium valuations and willing to hold through high leverage.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $12.6B (+7% vs prior year)

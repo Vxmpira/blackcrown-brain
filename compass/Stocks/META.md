@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Top rated** · Bullish read · trend: Pullback in uptrend
 
-## Top rated: balance sheet stands out
+## Meta shows strong profit and cash generation, but valuation is stretched and growth is slowing
 
-Meta Platforms scores 81 of 100 on the Compass, which puts it in the Top rated tier. Its long-term price trend is: pullback in uptrend.
+Meta is a massive advertising and social media company generating $201 billion in annual revenue with a 30% profit margin. It produces substantial free cash flow while carrying moderate debt and shrinking its share count through buybacks.
 
 ### What is working
-- Balance sheet: Debt is 0.3x shareholder equity
-- Shareholder returns: Share count shrinking (buybacks)
-- Profitability: Keeps 30% of revenue as profit
+- Revenue growth accelerating: +26% in latest quarter, up from +20% average over 3 years
+- Profitability is exceptional: 30% net margin and 41% operating margin show pricing power
+- Strong cash generation with 23% free cash flow margin and $46.1B annual free cash flow
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Valuation is rich at 22x earnings; free cash flow yield of just 2.8% leaves little margin for error
+- Earnings per share declined 2% year over year despite revenue growth, suggesting margin pressure
+- Stock is down 13.3% in the past month and 17% from its 52-week high; currently in pullback
 
-**Watch next:** The next quarterly report: whether revenue growth of +26% holds.
+**Watch next:** Whether the latest quarter's 26% revenue growth can sustain or if it moderates back toward the 3-year average of 20%
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Long-term investors comfortable with larger companies that prioritize profitability and cash returns over dividend income
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $201.0B (+22% vs prior year)

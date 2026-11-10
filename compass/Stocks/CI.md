@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: shareholder returns stands out
+## Healthcare insurer with strong cash generation trades cheaply as profits stay thin
 
-Cigna scores 73 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Cigna is a large health insurance company with $274.9B in annual revenue. Revenue has grown 15% a year over three years, though recent quarterly growth slowed to 6%. The company converts revenue into cash effectively but keeps only 2% as profit.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Valuation: Free cash flow yield 12.3%
-- Price trend: Price is above its 200-day average
+- Revenue grew 15% per year over 3 years; latest year up 11% to $274.9B
+- Free cash flow yield of 12.3% is high; the company generated $9.6B in free cash last year
+- Share count fell 14.2% over 3 years through buybacks; earnings per share jumped 83% year over year
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Net profit margin is only 2%; the company keeps 2 cents of profit per dollar of revenue
+- Recent quarterly revenue growth slowed to 6% versus the 3-year average of 15%
+- Debt of $39.5B is 0.9x shareholder equity; balance sheet carries meaningful leverage
 
-**Watch next:** The next quarterly report: whether revenue growth of +6% holds.
+**Watch next:** Whether quarterly revenue growth can reaccelerate toward the 15% three-year trend or continues slowing, since recent results showed a meaningful deceleration to 6%.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Long-term investors seeking stable cash generation and buyback support who can tolerate thin profit margins and higher leverage in a slow-growth defensive sector.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $274.9B (+11% vs prior year)

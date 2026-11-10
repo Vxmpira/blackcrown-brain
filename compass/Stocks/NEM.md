@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Top rated** · Bullish read · trend: Uptrend
 
-## Top rated: balance sheet stands out
+## Gold miner posting strong profits and cash flow, but shares diluting fast
 
-Newmont scores 87 of 100 on the Compass, which puts it in the Top rated tier. Its long-term price trend is: uptrend.
+Newmont is a major gold producer generating $22.7B in annual revenue with a 31% profit margin. The company is growing revenue quickly, holds $3.7B in net cash, and returned 45% over the past year as gold prices rose.
 
 ### What is working
-- Balance sheet: Net cash of $3.7B
-- Profitability: Keeps 31% of revenue as profit
-- Growth: Revenue +24% a year over 3 years
+- Revenue grew 24% per year over three years; latest quarter up 15% year over year
+- Keeps 31% of revenue as profit; free cash flow margin is 32%; generated $7.3B in free cash last year
+- Net cash position of $3.7B provides financial cushion; analysts 87% rate it a buy
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Share count grew 39.4% over three years, diluting existing shareholders
+- Stock sits 10% below its 52-week high; yearly volatility is 49%, meaning big price swings
+- Dividend yield of 4.3% is modest relative to the dilution investors face from share growth
 
-**Watch next:** The next quarterly report: whether revenue growth of +15% holds.
+**Watch next:** Monitor whether management slows share dilution in coming years, as the 39.4% three-year increase is a drag on per-share value.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Long-term investors comfortable with commodity price cycles who want exposure to gold and can tolerate high volatility in exchange for strong cash generation and net cash strength.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $22.7B (+21% vs prior year)

@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Top rated** · Bullish read · trend: Strong uptrend
 
-## Top rated: balance sheet stands out, valuation holds it back
+## Profitable giant near 52-week high with expensive valuation
 
-Microsoft scores 82 of 100 on the Compass, which puts it in the Top rated tier. Its long-term price trend is: strong uptrend.
+Microsoft is a large software and cloud infrastructure company generating $331.8B in annual revenue with a 40% profit margin. The company is growing revenue at 19% in its latest quarter and produces substantial free cash flow of $67.0B annually.
 
 ### What is working
-- Balance sheet: Debt is 0.1x shareholder equity
-- Profitability: Keeps 40% of revenue as profit
-- Price trend: Price is above its 200-day average
+- Revenue growth accelerating: +19% latest quarter versus +16% three-year average
+- Exceptional profitability: 40% net margin and 28% return on equity means earnings grow faster than sales
+- Strong balance sheet: Debt is only 0.1x shareholder equity, leaving room for strategic moves
 
 ### What to be careful about
-- Valuation: Free cash flow yield 1.7%
+- Expensive valuation: Trading at 28x earnings with only 1.7% free cash flow yield limits upside
+- Price near all-time high: Stock sits 93% through its 52-week range with limited room to run higher
+- Modest shareholder returns: 0.8% dividend yield and flat share count mean little cash going back to owners
 
-**Watch next:** The next quarterly report: whether revenue growth of +19% holds.
+**Watch next:** Whether revenue growth can stay near 19% or begins to normalize toward the 16% three-year trend as the company matures.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Long-term investors comfortable paying premium prices for quality and preferring capital appreciation over dividend income.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-06-30)
 - Revenue $331.8B (+18% vs prior year)

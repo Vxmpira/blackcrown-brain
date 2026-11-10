@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Uptrend
 
-## Strong: balance sheet stands out, valuation holds it back
+## Strong profit machine with steep price tag; analysts split on value
 
-Garmin scores 73 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: uptrend.
+Garmin is a profitable hardware and equipment company generating $7.2B in annual revenue with 23% net margins and $1.4B in free cash flow. The stock has climbed 42% over the past year and trades near its 52-week highs. However, the company's valuation is notably elevated compared to its cash generation.
 
 ### What is working
-- Balance sheet: Net cash of $2.0B
-- Price trend: Price is above its 200-day average
-- Profitability: Keeps 23% of revenue as profit
+- Profit margins are substantial: 23% net margin and 26% operating margin show pricing power
+- Free cash flow is real and growing: $1.4B generated last year with 19% free cash flow margin
+- Strong balance sheet with $2.0B in net cash and zero debt provides financial flexibility
 
 ### What to be careful about
-- Valuation: Free cash flow yield 2.4%
+- Valuation is stretched: P/E of 27.81 and free cash flow yield of only 2.4% are elevated for a mature hardware company
+- Price run-up limits margin of safety: stock is 79% through its 52-week range and 9% below recent highs
+- Analyst consensus is lukewarm: only 50% of 16 analysts rate it a buy, with consensus at Hold
 
-**Watch next:** The next quarterly report: whether revenue growth of +12% holds.
+**Watch next:** Whether revenue growth can sustain above 12% or begins to decelerate, which would test whether current valuation multiples remain justified.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable with hardware companies who value profitability and cash flow over growth rates, and who can tolerate a stretched valuation and significant price swings.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-27)
 - Revenue $7.2B (+15% vs prior year)

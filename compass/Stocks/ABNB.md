@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Top rated** · Bullish read · trend: Uptrend
 
-## Top rated: balance sheet stands out, valuation holds it back
+## Profitable travel platform at peak valuation with strong cash generation
 
-Airbnb scores 79 of 100 on the Compass, which puts it in the Top rated tier. Its long-term price trend is: uptrend.
+Airbnb is an online marketplace that connects hosts and guests for short-term lodging. The company is highly profitable, generating $2.5B in net income on $12.2B in revenue, and holds $4.9B in net cash. It trades at a premium multiple as its stock has risen 55% over the past year.
 
 ### What is working
-- Balance sheet: Net cash of $4.9B
-- Shareholder returns: Share count shrinking (buybacks)
-- Profitability: Keeps 21% of revenue as profit
+- Exceptional profitability: keeps 21% of revenue as profit and generates $4.6B in free cash flow annually
+- Strong recent momentum: latest quarter revenue grew 19% year over year; stock up 55% over past year
+- Shareholder-friendly capital allocation: share count down 8.4% over 3 years through buybacks; net cash position of $4.9B
 
 ### What to be careful about
-- Valuation: Free cash flow yield 4.1%
+- Expensive valuation: trades at 42x earnings; free cash flow yield of only 4.1% leaves little margin for error
+- Slowing revenue growth: full-year revenue grew 10% but 3-year compound rate is 13%, showing deceleration
+- Peak positioning: stock sits 96% of the way up its 52-week range with 38% annual volatility; any disappointment faces a long fall
 
-**Watch next:** The next quarterly report: whether revenue growth of +19% holds.
+**Watch next:** Monitor whether quarterly revenue growth stays above 15% or continues to trend toward the slower 10% full-year rate, as that would signal whether the recent acceleration is sustainable.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors seeking profitable, cash-generative businesses who are comfortable buying at premium valuations and can tolerate travel sector cyclicality.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $12.2B (+10% vs prior year)

@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Top rated** · Bullish read · trend: Strong uptrend
 
-## Top rated: balance sheet stands out, valuation holds it back
+## Profitable biotech racing upward on strong cash generation and analyst backing
 
-Vertex Pharmaceuticals scores 76 of 100 on the Compass, which puts it in the Top rated tier. Its long-term price trend is: strong uptrend.
+Vertex is a large profitable pharmaceutical company generating $12.0B in annual revenue with a 33% net profit margin. It's near the top of its 52-week trading range after a 34% gain over the past year, backed by 82% analyst buy ratings.
 
 ### What is working
-- Balance sheet: Net cash of $482.7M
-- Price trend: Price is above its 200-day average
-- Profitability: Keeps 33% of revenue as profit
+- Exceptional profitability: keeps 33% of revenue as profit and generates $3.2B in free cash flow annually
+- Strong price momentum: up 34% over the past year and sits 92% of the way up its 52-week range
+- Solid analyst consensus: 39 analysts covering it with 82% rating it a buy
 
 ### What to be careful about
-- Valuation: Free cash flow yield 2.3%
+- Expensive valuation: trades at 35x earnings with only 2.3% free cash flow yield
+- Modest growth: revenue rose just 12% last quarter and averages 10% annually over three years
+- Near 52-week high: stock is 2% from its peak at $558.88, leaving less room for upside
 
-**Watch next:** The next quarterly report: whether revenue growth of +12% holds.
+**Watch next:** Whether the 12% quarterly revenue growth can sustain or decelerate, since overall growth remains single-digit on a three-year basis.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Patient investors seeking a profitable, cash-generative healthcare business willing to accept premium valuation and slower growth than the price momentum might suggest.
 
-Written by Compass rules on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $12.0B (+9% vs prior year)
