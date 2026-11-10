@@ -120,3 +120,16 @@
 - Eclipse-X gate lesson (10-29): an unverified source capture date ("[CAPTURE DATE]") fails the gate, and a closing question asking for a price prediction fails education-only rules; drafts should close on a how-to or observation question.
 - Eclipse-X drafting failure pattern: several Crier re-draft runs were blocked because the original 11-01 and 11-02 drafts and the Community.md copy were not in context, so re-gates ran on unseen or stale text; future re-drafts need the source text pasted or a vault path, and the vault path must be verified rather than assumed.
 - Bloom balance gate (Planner, 10-29): the digest registration in SERVER JOBS, its schedule, time zone, and #boardroom destination must be confirmed before filing a duplicate; Wire C and Fallback A are not defined in institutional memory and need owner definition first.
+
+## 2026-11-09 (30 notes condensed)
+- **Crier 11-01 Eclipse-X post, Globex fix:** Overnight session (6:00 pm to 9:30 am ET) produces its own high and low, separate from regular hours (9:30 am to 4:15 pm ET); the CME citation and capture date were never supplied, so the post stays held until Corvid files them.
+- **Crier fallback X post, 224 characters:** Korvus overnight-headlines copy with the link counted at 23; the tagged UTM link was never pasted in, so filing waits on it.
+- **X counting rule (confirmed by Auditor):** every URL counts as 23 characters regardless of UTM parameters, limit 280.
+- **Globex hours caveat:** Globex has a daily 5:00 to 6:00 pm ET maintenance break, so an overnight-session sentence should say "after the 6:00 pm ET reopen" to be exact; futures RTH closes at 4:15 pm ET while the cash equity close is 4:00 pm ET, so keep the 4:15 figure scoped to index futures.
+- **Eclipse-X word cap:** the standing community post cap is 120 words, which conflicts with 150 to 220 word asks; owner must rule before longer posts run.
+- **Auditor gate pattern:** wording passes on the overnight sentence, but any post with a session-hours claim fails until it cites the CME spec and a capture date; no copy passes while a bracketed placeholder remains.
+- **Raven 19:00 contingency (ledger #274):** if Wire C misses 17:45, the timeline runs miss log at 17:50, fresh render or reuse decision at 18:00, fallback choice at 18:15, Regent review at 18:20, owner green light by 18:30.
+- **Korvus click test baseline:** 56 visits and 2 clicks in 7 days, 3.6% visit to click, 0 signups; a 48 hour test gets only 4 to 8 visits per cell, so it is a direction read, and a candidate winner needs 2 clicks and must beat control before a second run.
+- **Korvus click test rule:** if no variant beats control, the problem is upstream (traffic or offer clarity), so the next test moves to the landing page offer rather than more copy.
+- **Korvus Operator CTA diagnosis:** before rewriting copy, check the CTA sits above the fold at about 390px phone width and that the click event actually fires; if it does not, mark "not instrumented yet" and file the instrumentation job.
+- **Korvus Fallback A body copy:** Observer tier is free, Operator includes the full terminal and LodeStone for TradingView; the copy avoids any profit or advice claim.

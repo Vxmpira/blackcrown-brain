@@ -163,3 +163,13 @@
 - Screen-free Crown Night Shift exclusions to reuse: no screens, monitors, keyboards, glass slabs, raven, crown, or house mark, and no words, letters, numbers, logos, or typography.
 - Operator annual copy options (Quill): "Korvus Operator Annual: 79.99 a Year" with hook "The market does not close while you sleep. Korvus watches it anyway." Caption: "Operator annual: $79.99 a year, LodeStone TradingView indicator included. Not financial advice. korvus.industries"
 - Alternate Operator annual copy: "The Watcher Runs Overnight: Operator Annual," hook "While you sleep, the wire is still reading the tape," caption "Korvus Operator, annual at $79.99, with
+
+## 2026-11-09 (30 notes condensed)
+- Critic 517: Operator annual direction failed review for three reasons: no closing overlay line, generic stock-video mush not tied to the Korvus watcher angle, and no per-shot timings. Directions need timed shots, a Korvus-specific idea, and an overlay field.
+- Critic 536: Operator annual FRESH brief ran about 134 words against the 90-word budget and had no overlay field. Trimmed fix: overlay "FRESH" (0 to 3s), "Operator annual" and "Not financial advice." (8 to 12s), baked by the forge.
+- Critic 540: Crown Night Shift brief ran about 119 words against the 90-word budget and had no overlay. Fix: one exact literal overlay line baked by the forge, e.g. "Crown keeps working while you sleep."
+- Critic 538: Critic cannot open vault files; a PASS or FIX requires the full brief text pasted into the request. Sent-by-reference reviews stall.
+- Director 519, 527, 530, 534, 539: Director has no retrieval of prior filed briefs, so verbatim resend requests fail and get fresh drafts. Bard must attach the stored file text to any resend or review request.
+- Director 537: Crown Night Shift brief quoted token counts (10,000 free, 5 million Crowned), breaking the Crown rule that usage is shown as money. Do not reuse those figures.
+- Quill 526: Operator overlay candidate, locked as reference: HOOK t0 d3 "The market moved while you slept" (33 chars); PAYOFF t5 d4 "Operator 79.99 a year, LodeStone included" (41); DESTINATION t11 d4 "korvus.industries" (17). Verify against held Observer lines before forge.
+- Quill 524, 528: Held Observer CTA lines "The market keeps moving at 3 a.m." (33) and "Korvus watches it while you sleep." (34). The sleep beat collides with the Operator hook, so the Observer t5 line goes only in Observer cuts, never stacked on the

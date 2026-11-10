@@ -143,3 +143,15 @@
 - Hook 4 overlay lines for a Korvus video (one literal line each, baked on render): "The market does not sleep." / "Korvus does not either." / "Index futures, watched around the clock." / "News scored as it breaks, with a written read." / "Not financial advice. Start free at korvus.industries." (463).
 - Annual Operator X variants: "Operator annual is 79.99 a year, and you save 39.89 against paying monthly. LodeStone for TradingView is included." Variant 3 is labeled Illustration and carries the not-advice line (484).
 - Five skeptic objections to Crown's free tier (AI makes up numbers, black box reasoning, pasting trading data, it will tell me what to trade, subscription trap) with honest answers, usable for ownership-angle copy without memory-gap claims (480).
+
+## 2026-11-09 (30 notes condensed)
+- Traffic baseline, 7 days to 2026-10-28: 33 visits, 2 clicks, 0 signups (about 6% click-through). Per-source and per-landing-URL split is not instrumented yet. (491, 501)
+- UTM tagging went live 2026-10-26, so any visits in a 7-day window that start before that date show as untagged or direct. Check the window start before reading any source split as complete. (504)
+- Next-test target: 10% click-through on the next 33 visits, with the free Observer tier named as the first click because it asks for no card. (501)
+- Cold audience for the Observer signup test: index futures day traders who miss headlines when away from the screen, landing on `/` with the signup CTA. (513)
+- Second cold audience: TradingView index traders wanting session context. Land on `/`, not `/lodestone`, since that page leads to a paid product and mismatches a free signup. (513)
+- Operator annual-first hook options: "The market keeps watch while you sleep." (39 chars) and "The watch never sleeps. You can." (32 chars). Both are free of profit claims. (506)
+- Operator annual offer copy: 79.99 a year saves 39.89 against monthly (9.99 x 12 = 119.88), with LodeStone for TradingView included. Monthly stays secondary at 9.99 a month. Proposed vault path korvus/korvus_operator_annual_offer.md, not yet filed. (499)
+- Crown skeptic drafts repeatedly quote "10,000 tokens, no card" in public copy. This breaks the rule against token numbers in public Crown copy. Rewrite the free-tier line as money, such as a free monthly allowance with no card. (494, 496, 498, 503, 509, 512, 514, 516)
+- Crown skeptic canonical URL is inconsistent across drafts: root, /skeptic, and /p/crown-skeptic all appear. Pick one before filing. (489, 492, 494, 509, 512, 514, 516)
+- Index Watch page has no saved vault copy on record after roughly 15 re-delivery asks. Copy sessions without vault write access cannot file it. A writing desk with write access must author the complete document to pages/index-watch.html, which serves at /p/index-watch. (502, 507, 510)
