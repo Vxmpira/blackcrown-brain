@@ -14,23 +14,23 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Turning up
 
-## Aerospace supplier with strong profits and high debt, trading at premium multiple
+## Highly profitable aerospace supplier with strong growth, but carrying heavy debt load
 
-TransDigm makes specialized parts for aircraft and defense. It grows revenue quickly, keeps nearly a quarter of each dollar as profit, and generates substantial cash. The company carries heavy debt relative to shareholder equity.
+TransDigm makes specialized aerospace and defense parts. The company is growing revenue quickly at 23% in the latest quarter and converting over one-fifth of sales to free cash flow. However, it carries 5.4 times as much debt as shareholder equity, which limits financial flexibility.
 
 ### What is working
-- Revenue climbed 23% last quarter and 18% per year over three years, outpacing many industrials
-- Net margin of 23% and free cash flow margin of 21% show disciplined operations that convert sales to cash
-- Dividend yield of 7.8% returns cash to shareholders while the company holds $2.8B in cash
+- Revenue grew 23% in the latest quarter and 18% annually over three years, faster than many industrial peers
+- Converts 23% of revenue to net profit and 21% to free cash flow, showing strong operational discipline
+- Generated $1.8B in free cash flow last year while maintaining a 7.8% dividend yield
 
 ### What to be careful about
-- Debt stands at 5.4x shareholder equity, meaning the balance sheet is leveraged aggressively
-- Stock trades at 31.7x earnings, well above typical industrial multiples, leaving little room for disappointment
-- Analysts are split: 48% rate it a buy, consensus is Hold; stock is 15% below its 52-week high
+- Debt of $32.8B is 5.4 times shareholder equity, leaving little room for economic downturns or acquisition spending
+- Stock trades at 31.7x earnings and 2.7% free cash flow yield, pricing in continued strong performance
+- Analysts are split: only 48% rate it a buy and consensus is Hold; stock is down 3.9% over the past year
 
-**Watch next:** Whether the company begins paying down its $32.8B debt pile or if leverage stays flat despite strong free cash flow generation.
+**Watch next:** Monitor whether management reduces debt levels in the coming year, since the high leverage ratio is the main constraint on financial stability.
 
-**Tends to suit:** Investors comfortable with cyclical aerospace exposure, high dividend income, and balance sheet risk who believe the growth will continue.
+**Tends to suit:** Investors seeking high cash generation and dividend income who can tolerate above-average debt levels and are comfortable with aerospace and defense sector exposure.
 
 Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
 
