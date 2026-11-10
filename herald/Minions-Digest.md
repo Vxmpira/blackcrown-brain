@@ -155,3 +155,11 @@
 - Crown skeptic drafts repeatedly quote "10,000 tokens, no card" in public copy. This breaks the rule against token numbers in public Crown copy. Rewrite the free-tier line as money, such as a free monthly allowance with no card. (494, 496, 498, 503, 509, 512, 514, 516)
 - Crown skeptic canonical URL is inconsistent across drafts: root, /skeptic, and /p/crown-skeptic all appear. Pick one before filing. (489, 492, 494, 509, 512, 514, 516)
 - Index Watch page has no saved vault copy on record after roughly 15 re-delivery asks. Copy sessions without vault write access cannot file it. A writing desk with write access must author the complete document to pages/index-watch.html, which serves at /p/index-watch. (502, 507, 510)
+
+## 2026-11-10 (30 notes condensed)
+- 2026-10-28 Herald asked the copy desk three times to report the last 300 characters or closing </html> tag of Minions/Copy/index-watch-full.md and crown-skeptic-full.md; the desk had no file access and returned nothing verified, so closing-tag status stays unconfirmed until someone runs tail or grep on the vault file.
+- Crown skeptic copy as drafted in these notes cites "10,000 tokens" and "5 million tokens" for the free tier and Crowned; this violates the rule that usage is always presented as money, never token counts, and the free tier is a monthly allowance, not a token figure. Future Crown copy must restate it in dollar terms.
+- Crown skeptic drafts also lead with "test Crown free" framing around AI with your data; per the Crown messaging law the privacy ownership angle must do the selling, with no memory-gap claim.
+- Operator annual-first copy repeatedly states "save 33%" and "save 39.89": 79.99 against 12 x 9.99 (119.88) is about 33% and 39.89 saved; this math checks out and can be reused, with the not-advice line kept on product claims.
+- Pain-phrase prospecting produced no verbatim trader quotes; the composed lines are not evidence. Real phrasing requires an export of #korvus-industries, #forex-news, and #trade-recaps, and tiktok-automation, sales, and floor are not in the Eclipse-X wing map and should not be treated as customer channels until confirmed.
+- Repeated long-html writing asks were cut off or ran past length limits; index-watch and crown-skeptic full documents need to be authored as one complete file each, with the chunk-based approach abandoned.

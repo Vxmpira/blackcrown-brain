@@ -173,3 +173,12 @@
 - Director 537: Crown Night Shift brief quoted token counts (10,000 free, 5 million Crowned), breaking the Crown rule that usage is shown as money. Do not reuse those figures.
 - Quill 526: Operator overlay candidate, locked as reference: HOOK t0 d3 "The market moved while you slept" (33 chars); PAYOFF t5 d4 "Operator 79.99 a year, LodeStone included" (41); DESTINATION t11 d4 "korvus.industries" (17). Verify against held Observer lines before forge.
 - Quill 524, 528: Held Observer CTA lines "The market keeps moving at 3 a.m." (33) and "Korvus watches it while you sleep." (34). The sleep beat collides with the Operator hook, so the Observer t5 line goes only in Observer cuts, never stacked on the
+
+## 2026-11-10 (30 notes condensed)
+- Quill's Crown night shift caption draft (557) said "Free tier with 10,000 tokens," breaking the money-not-tokens rule. Crown copy must present allowance as dollars, never token counts.
+- Critic (544) failed the Crown Night Shift direction for two reasons: a product claim with no not-advice line, and an overlay implying Crown watches markets. Market watching is Korvus's job; Crown is the private AI workspace.
+- Critic (547) failed an Operator annual FRESH direction for a missing not-advice line on the product claim, plus a 15s length against a 12s spec. Owner ruling 10-29 sets clips at 15s, so length specs need checking against the current ruling.
+- Critic (562, 564) rejected Operator directions built on a generic dark room with a glowing screen. Stock-video mush gives Korvus no angle; the all-seeing watcher, where the terminal is the one watching the market while the trader sleeps, is the concept that lands.
+- Critic (556, 558, 563) set the direction word budget at about 90 words for three shots, and flagged keyboards and screen grids as glyph risks: screens show abstract light only, with no readable legends or axis values, to keep the No Text Law.
+- Director (541) keeps the crown and raven out of Operator clip frames for brand mark safety, and the Operator watcher concept should use the shadow or reflection idea only if the mark stays unreadable.
+- Director (545, 551) could not restate prior directions verbatim because the text was not in the session; directions must be filed in the vault so desks can restate them exactly rather than reconstruct them from memory, which breaks the critic's match check.

@@ -133,3 +133,13 @@
 - **Korvus click test rule:** if no variant beats control, the problem is upstream (traffic or offer clarity), so the next test moves to the landing page offer rather than more copy.
 - **Korvus Operator CTA diagnosis:** before rewriting copy, check the CTA sits above the fold at about 390px phone width and that the click event actually fires; if it does not, mark "not instrumented yet" and file the instrumentation job.
 - **Korvus Fallback A body copy:** Observer tier is free, Operator includes the full terminal and LodeStone for TradingView; the copy avoids any profit or advice claim.
+
+## 2026-11-10 (30 notes condensed)
+- Auditor pattern to keep: a draft is gated only when its full literal text is in the task; partial or truncated copy gets NOT GATED, and every gate verdict must name the exact text it checked (sentence count, em dash, emoji, disclaimer, under 280 characters).
+- Crier pattern to keep: a CME source line needs the publisher, the exact cmegroup.com page, and a real capture date; placeholder dates like [DATE] or [CAPTURE DATE] hold publication until Corvid supplies one.
+- Globex hours to keep: CME equity index trading runs 6:00 pm to 5:00 pm ET the next day with a daily halt 5:00 to 6:00 pm ET; regular hours 9:30 am to 4:15 pm ET; overnight range scope is 6:00 pm to 9:30 am ET, not the whole Globex session.
+- Raven fallback to keep: if Wire C misses 17:50, Steward declares the Raven fallback at 17:52, Bard starts an evergreen watcher render by 18:00 with zero words in footage, and the 18:30 gate closes new render starts with same-day YouTube asks for any landed render.
+- Auditor finding to keep: a CTA audit for the SMT guide must check that signup CTAs target /signup with live UTM tags, LodeStone CTAs target /lodestone, and no link points to gated or unserved urls; live page audits are blocked without exact URLs and domain.
+- Education-copy standard that passed gating: a three-sentence chart habit post (session open plus prior day high and low on the 15 minute chart, price reaction as the read, closing "Education only, not financial advice.") cleared every literal check at about 250 characters.
+- Discussion starter that passed: five question-led sentences with a closing education-only line, no trading advice, no internal labels, cleared for filing pending owner green light.
+- Crier drafting rule that failed repeatedly: opener phrasing like "Before you take a trade" or step-by-step routines reads as trading procedure and fails Auditor; use descriptive framing and state the sentence count the spec requires.
