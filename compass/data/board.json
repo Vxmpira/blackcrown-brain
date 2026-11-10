@@ -3252,19 +3252,6 @@
    "headline": "Hyper-profitable broker with stunning cash generation, but valuation and share dilution raise questions"
   },
   {
-   "symbol": "COST",
-   "name": "Costco",
-   "sector": "Consumer Defensive",
-   "score": 61.7,
-   "tier": "Solid",
-   "read": "neut",
-   "trend": "Turning up",
-   "ret_1y": 0.1494,
-   "pe": 51.21,
-   "div_yield": 0.0069,
-   "headline": "Costco shows steady growth but trades at premium price after 15% year gain"
-  },
-  {
    "symbol": "TECH",
    "name": "Bio-Techne",
    "sector": "Healthcare",
@@ -3367,6 +3354,19 @@
    "pe": 37.03,
    "div_yield": null,
    "headline": "Profitable precision instrument maker at peak valuation after strong run"
+  },
+  {
+   "symbol": "COST",
+   "name": "Costco",
+   "sector": "Consumer Defensive",
+   "score": 61.1,
+   "tier": "Solid",
+   "read": "neut",
+   "trend": "Turning up",
+   "ret_1y": 0.1494,
+   "pe": 51.21,
+   "div_yield": 0.0069,
+   "headline": "Costco shows steady growth but trades at premium price after 15% year gain"
   },
   {
    "symbol": "ERIE",
