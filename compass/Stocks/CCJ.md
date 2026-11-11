@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend
 
-## Solid: balance sheet stands out, price trend holds it back
+## Uranium miner with strong growth but steep valuation and recent price drop
 
-Cameco Corporation scores 60 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend.
+Cameco is a Canadian uranium producer showing revenue growth of 23% annually over three years and net profit margins of 17%. The company holds net cash of 118.5M CAD and generates substantial free cash flow, but trades at 113 times earnings and has fallen 21% over the past year.
 
 ### What is working
-- Balance sheet: Net cash of 118.5M CAD
-- Growth: Revenue +23% a year over 3 years
-- Profitability: Keeps 17% of revenue as profit
+- Revenue grew 11% year over year to 3.5B CAD, part of a 23% annual trend over three years
+- Free cash flow margin of 31% and 1.1B CAD in free cash show strong cash generation
+- Earnings per share jumped 246% year over year, and 85% of analysts rate it a buy
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
+- Price sits 46% below its 52-week high and has fallen 21% over the past year
+- P/E ratio of 113x is extremely high relative to current earnings
+- Share count has grown 7% over three years, diluting existing shareholder ownership
 
-**Watch next:** The next quarterly report: whether revenue growth of +11% holds.
+**Watch next:** Whether the extreme 113x P/E multiple compresses as earnings grow, or stays elevated if uranium demand expectations shift.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Long-term investors in growth sectors who can tolerate high volatility and expensive valuations while waiting for fundamentals to catch up to price.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue 3.5B CAD (+11% vs prior year)

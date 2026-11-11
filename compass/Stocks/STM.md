@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Bearish read · trend: Downtrend
 
-## Mixed: balance sheet stands out, growth holds it back
+## Semiconductor maker with strong cash generation but shrinking sales and profits
 
-STMicroelectronics N.V. scores 40 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: downtrend.
+STMicroelectronics is a Swiss chipmaker that generated $11.8B in revenue last year but saw sales fall 11% year over year and earnings collapse 89%. The company still produces substantial free cash flow of $2.2B annually and holds a net cash position of $704M, but faces near-term headwinds in growth and profitability.
 
 ### What is working
-- Balance sheet: Net cash of $704.0M
-- Shareholder returns: Share count shrinking (buybacks)
+- Free cash flow of $2.2B annually and 18% free cash flow margin show the core business still generates real money despite revenue decline
+- Strong balance sheet with $704M net cash and no leverage risk provides a safety cushion
+- 26 analysts maintain a Buy consensus with 81% rating it a buy, reflecting institutional confidence in a turnaround
 
 ### What to be careful about
-- Growth: Revenue -10% a year over 3 years
-- Price trend: Price is below its 200-day average
-- Valuation: Free cash flow yield 5.2%
+- Revenue down 11% year over year and declining 10% annually over the past three years signals sustained demand weakness
+- Net income fell 89% year over year to just $166M; net margin is only 1%, leaving almost no room for error
+- Stock is down 22.8% over six months and 44% from its 52-week high despite the 90% one-year gain, showing recent momentum has reversed sharply
 
-**Watch next:** The next quarterly report: whether revenue growth of -11% holds.
+**Watch next:** Whether revenue decline stabilizes in coming quarters or continues to accelerate, since three straight years of 10% annual drops raise questions about structural demand.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Investors willing to hold through cyclical semiconductor downturns who believe in the company's cash generation and balance sheet, but not those seeking near-term growth or earnings recovery.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $11.8B (-11% vs prior year)

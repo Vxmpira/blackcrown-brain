@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Neutral read · trend: Turning up
 
-## Weak: shareholder returns stands out, balance sheet holds it back
+## Telecom giant with shrinking revenue, massive debt, but strong cash generation
 
-América Móvil, S.A.B. de C.V. scores 37 of 100 on the Compass, which puts it in the Weak tier. Its long-term price trend is: turning up.
+América Móvil is a Mexico-based telecommunications company with $42.9B in annual revenue. It operates globally and generates substantial free cash flow, though revenue fell 11% last year. The company carries very high debt relative to shareholder equity.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
+- Free cash flow of $6.2B annually supports a 2.3% dividend and ongoing share buybacks that have reduced share count by 6.4% over three years
+- Analysts are largely positive: 71% rate it a buy with a consensus Buy rating across 17 analysts
+- Stock price has risen 11% over the past year and is currently 75% of the way up its 52-week range
 
 ### What to be careful about
-- Balance sheet: Debt is 30.2x shareholder equity
-- Valuation: Free cash flow yield 0.4%
-- Growth: Revenue +1% a year over 3 years
+- Revenue dropped 11% in the latest year and has grown only 1% annually over the past three years, signaling a slow or stagnant business
+- Debt is 30.2x shareholder equity, an extremely high leverage ratio that limits financial flexibility and increases refinancing risk
+- Net profit margin of only 3% means the company keeps just 3 cents of every revenue dollar; free cash flow yield of 0.4% is very low relative to market value
 
-**Watch next:** The next quarterly report: whether revenue growth of -11% holds.
+**Watch next:** Whether the latest year's 11% revenue decline stabilizes or continues in upcoming quarterly reports, as consistent shrinkage would suggest structural headwinds in the telecom business.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors seeking steady dividend income and cash generation from a established telecom operator who can tolerate high leverage and slow revenue growth in a mature industry.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2024-12-31)
 - Revenue $42.9B (-11% vs prior year)

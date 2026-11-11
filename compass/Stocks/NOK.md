@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Weak** · Bearish read · trend: Downtrend
 
-## Mixed: balance sheet stands out, growth holds it back
+## Nokia trades at stretched valuation despite strong cash position and buybacks
 
-Nokia Oyj scores 40 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: downtrend.
+Nokia is a Finnish telecommunications equipment maker generating 19.9B EUR in annual revenue. The company produces 3% net profit margins and 2.1B EUR in free cash flow, but faces a downtrend and slowing growth after three years of declining revenue.
 
 ### What is working
-- Balance sheet: Net cash of 2.0B EUR
-- Shareholder returns: Share count shrinking (buybacks)
+- Strong balance sheet: 2.0B EUR net cash (cash 5.5B EUR minus debt 3.4B EUR) provides cushion
+- Returning cash to shareholders through buybacks (share count down 2.9% over 3 years) and 3.1% dividend yield
+- Generated 2.1B EUR in free cash flow in 2025, showing ability to fund operations and returns
 
 ### What to be careful about
-- Growth: Revenue -6% a year over 3 years
-- Price trend: Price is below its 200-day average
+- Valuation stretched at 53x earnings with no free cash flow yield metric available, suggesting limited margin of safety
+- Revenue declining 6% annually over 3 years despite flat +3% last year; earnings per share fell 48% year over year
+- Stock down 16.7% in one month and 37.4% in six months; trades 51% below its 52-week high with 63% yearly volatility
 
-**Watch next:** The next quarterly report: whether revenue growth of +3% holds.
+**Watch next:** Monitor whether the next quarterly revenue report shows a return to growth or continued weakness in the core business.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Patient investors comfortable with cyclical tech hardware who seek stable dividend income and can tolerate significant price swings.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue 19.9B EUR (+3% vs prior year)

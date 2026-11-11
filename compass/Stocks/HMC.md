@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Strong uptrend
 
-## Solid: shareholder returns stands out, profitability holds it back
+## Honda shows strong price momentum but earnings and cash flow are slowing
 
-Honda Motor Co., Ltd. scores 52 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: strong uptrend.
+Honda is a Japanese automaker reporting mixed signals. Its stock price has climbed 17% in the past year and sits near 52-week highs. However, the latest quarter showed revenue declining 2% year over year, earnings per share fell 21%, and free cash flow turned negative at -218.7B JPY.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
-- Balance sheet: Debt is 0.9x shareholder equity
+- Stock price is up 17% over one year and up 44.7% over six months, sitting 89% of the way up its 52-week range
+- Company returned 3.2% dividend yield to shareholders and reduced share count by 9.5% over three years through buybacks
+- Three-year revenue growth averaged 14% annually, and full-year revenue rose 6% to 21.7T JPY
 
 ### What to be careful about
-- Profitability: Keeps 4% of revenue as profit
-- Growth: Revenue +14% a year over 3 years
+- Latest quarter revenue fell 2% year over year, and earnings per share dropped 21%, signaling recent momentum is weakening
+- Free cash flow is negative at -218.7B JPY, meaning the company is burning cash instead of generating it
+- Net profit margin is only 4% of revenue, and return on equity is just 7%, both on the low side for a mature manufacturer
 
-**Watch next:** The next quarterly report: whether revenue growth of -2% holds.
+**Watch next:** Track whether next quarter's revenue returns to growth or continues to decline, since the recent -2% print suggests the growth cycle may be stalling.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors seeking modest dividend income and some price appreciation who can tolerate near-term earnings volatility in a mature, cyclical auto company.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-03-31)
 - Revenue 21.7T JPY (+6% vs prior year)

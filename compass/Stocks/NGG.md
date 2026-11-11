@@ -14,21 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Turning up
 
-## Mixed: price trend stands out, growth holds it back
+## Regulated utility with steady income but stalled growth and heavy debt
 
-National Grid plc scores 45 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: turning up.
+National Grid is a UK-based electricity and gas infrastructure company. Revenue has been flat over three years and fell 7% last year, though earnings per share grew 8%. The company operates in a regulated utility model that generates stable cash and a 5.7% dividend yield.
 
 ### What is working
-- Price trend: Price is above its 200-day average
+- Dividend yield of 5.7% provides regular shareholder income in a stable regulated business.
+- Net profit margin of 16% and operating margin of 27% show the company keeps substantial earnings from revenue.
+- Stock price up 8% over the past month and 30% over five years; currently 49% of the way up its 52-week range.
 
 ### What to be careful about
-- Growth: Revenue -0% a year over 3 years
+- Revenue declined 7% year over year and has grown 0% annually over three years, showing stagnation.
+- Debt of 45.9 billion GBP is 1.2x shareholder equity, meaning the company relies heavily on borrowing to fund operations.
+- Share count has grown 30.8% over three years, diluting ownership and earnings per share for existing holders.
 
-**Watch next:** The next quarterly report: whether revenue growth of -7% holds.
+**Watch next:** Monitor whether revenue stabilizes or continues to contract, since three years of flat growth combined with rising debt levels could pressure future dividend sustainability.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors seeking stable income from dividends who are comfortable with slow or no growth and are willing to accept currency risk from a UK-listed company.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-03-31)
 - Revenue 18.4B GBP (-7% vs prior year)

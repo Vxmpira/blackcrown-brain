@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Bearish read · trend: Downtrend, bouncing
 
-## Mixed: profitability stands out, balance sheet holds it back
+## Stable cash generator with heavy debt and slowing earnings growth
 
-TC Energy Corporation scores 44 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: downtrend, bouncing.
+TC Energy is a Canadian midstream pipeline and power company. It keeps 23% of revenue as profit and generates 7.3 billion dollars in free cash flow yearly. The stock trades at 26 times earnings with debt at 1.7 times equity.
 
 ### What is working
-- Profitability: Keeps 23% of revenue as profit
+- Free cash flow margin of 48% shows the core business converts cash well
+- Revenue grew 11% in the latest year, and the company paid a 7.3% dividend
+- 73% of 26 analysts rate it a buy and consensus says Buy
 
 ### What to be careful about
-- Balance sheet: Debt is 1.7x shareholder equity
-- Price trend: Price is below its 200-day average
-- Growth: Revenue +7% a year over 3 years
+- Earnings per share fell 26% year over year despite revenue growth
+- Debt sits at 46.9 billion dollars against only 27.6 billion in shareholder equity
+- Price is 58% down from its 52-week high of 70.91 and sits below its 200-day moving average
 
-**Watch next:** The next quarterly report: whether revenue growth of +11% holds.
+**Watch next:** Monitor whether net income and earnings per share can stop declining while revenue continues to grow, since profitability metrics matter more than top-line growth when debt is this high.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors who value steady cash flow and dividends over price growth, and can tolerate high leverage and earnings pressure in a regulated infrastructure business.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue 15.2B CAD (+11% vs prior year)

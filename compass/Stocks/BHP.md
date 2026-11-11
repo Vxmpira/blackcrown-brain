@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Losing steam
 
-## Solid: balance sheet stands out, valuation holds it back
+## Mining giant with strong cash generation, but revenue shrinking and price momentum fading
 
-BHP Group Limited scores 53 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: losing steam.
+BHP is a major Australian mining and materials company. It keeps 18% of revenue as profit and generates substantial free cash flow, but revenue has declined 8% annually over three years. The stock has jumped 47% in the past year but has fallen back 18% from its recent high.
 
 ### What is working
-- Balance sheet: Debt is 0.5x shareholder equity
-- Profitability: Keeps 18% of revenue as profit
-- Shareholder returns: Share count flat
+- Profitability is robust: 18% net margin and 38% operating margin show pricing power in commodities
+- Balance sheet is strong: debt is only 0.5x shareholder equity, with 11.9 billion dollars in cash
+- Shareholder returns are meaningful: 5.6% dividend yield and flat share count mean buybacks are not diluting holders
 
 ### What to be careful about
-- Valuation: Free cash flow yield 2.2%
-- Growth: Revenue -8% a year over 3 years
+- Revenue is shrinking: down 8% year over year and down 8% annually over three years
+- Price momentum is reversing: up 47% over one year but down 6.5% in the last month and 18% below the 52-week high
+- Analyst view is cautious: only 35% of 26 analysts rate it a buy; consensus is Hold
 
-**Watch next:** The next quarterly report: whether revenue growth of -8% holds.
+**Watch next:** Whether revenue stabilizes or continues to decline in the next two quarterly reports, since the three-year downtrend has not yet reversed.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable with commodity cyclicality who value dividend income and balance sheet strength over near-term growth.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-06-30)
 - Revenue $51.3B (-8% vs prior year)

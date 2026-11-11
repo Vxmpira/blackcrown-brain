@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend, bouncing
 
-## Solid: balance sheet stands out, valuation holds it back
+## Defense contractor with strong growth and cash, but trading at a steep valuation multiple
 
-Elbit Systems Ltd. scores 54 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend, bouncing.
+Elbit Systems is an Israeli aerospace and defense company generating $7.9B in annual revenue. It grew earnings per share 59% year over year and maintains a strong balance sheet with $533.7M in net cash. The stock is up 58% over the past year but currently sits 27% below its 52-week high.
 
 ### What is working
-- Balance sheet: Net cash of $533.7M
-- Growth: Revenue +13% a year over 3 years
+- Revenue grew 16% year over year and 13% annually over three years, outpacing many industrial peers
+- Free cash flow of $552.8M with a net cash position of $533.7M gives the company financial flexibility
+- 8 out of 8 analysts rate it Buy, and earnings per share jumped 59% year over year
 
 ### What to be careful about
-- Valuation: Free cash flow yield 1.6%
-- Price trend: Price is below its 200-day average
+- Stock trades at 53x earnings, with a free cash flow yield of only 0.5%, suggesting the market has priced in significant future growth
+- Price has fallen 27% from its 52-week high and sits below its 200-day moving average, signaling recent weakness
+- Share count grew 5.2% over three years, diluting existing shareholders; profit margin of 7% is modest for a defense contractor
 
-**Watch next:** The next quarterly report: whether revenue growth of +16% holds.
+**Watch next:** Monitor whether the stock can stabilize above its 200-day moving average and whether the 16% revenue growth rate holds into 2026.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Investors comfortable with high valuation multiples and defense sector exposure who believe growth will justify today's price over a long holding period.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $7.9B (+16% vs prior year)

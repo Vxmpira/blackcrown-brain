@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Bearish read · trend: Downtrend, bouncing
 
-## Mixed: balance sheet stands out, price trend holds it back
+## Stable cash generator in a downtrend; analysts bullish but price signals caution
 
-Amrize AG scores 46 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: downtrend, bouncing.
+Amrize is a Swiss construction materials company with $11.8B in annual revenue. It generates solid cash flow and maintains a lean balance sheet, but growth has stalled at around 1-2% per year and earnings fell 7% last year.
 
 ### What is working
-- Balance sheet: Debt is 0.4x shareholder equity
-- Valuation: Free cash flow yield 6.1%
+- Strong balance sheet: debt is only 0.4x equity, with $299M cash on hand
+- Reliable cash machine: free cash flow margin of 12% and $1.4B generated last year
+- Analyst support: 57% of 30 analysts rate it a buy despite recent price decline
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Shareholder returns: Share count flat
-- Growth: Latest revenue +2% year over year
+- Stalled growth: revenue up just 1% last year and earnings per share down 7%
+- Price weakness: down 15% over the past year and currently 36% below its 52-week high
+- Valuation not cheap: P/E of 19.21 despite minimal growth and profit margin compression
 
-**Watch next:** The next quarterly report: whether revenue growth of +2% holds.
+**Watch next:** Whether the recent one-month bounce of 16.2% signals a trend reversal or remains a brief relief in the broader downtrend.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors seeking stable cash flow from a mature company who can tolerate price volatility and slow growth in exchange for financial safety and current yields.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $11.8B (+1% vs prior year)

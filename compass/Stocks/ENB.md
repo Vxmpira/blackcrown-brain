@@ -14,22 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Bearish read · trend: Downtrend
 
-## Mixed: profitability stands out, price trend holds it back
+## Canadian pipeline giant trades flat with high dividend, but debt and price momentum are weak
 
-Enbridge Inc. scores 44 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: downtrend.
+Enbridge is a large midstream energy company that moves oil and gas through pipelines. It reported 7% revenue growth over three years and generates substantial profit and free cash flow. The company pays a 7.6% dividend but carries significant debt.
 
 ### What is working
-- Profitability: Keeps 26% of revenue as profit
+- Net margin of 26% means the company keeps a quarter of every revenue dollar as profit
+- Free cash flow of 3.3B CAD provides cash for dividends and operations
+- Revenue grew 13% in the latest year and earnings per share rose 38%
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Balance sheet: Debt is 1.5x shareholder equity
+- Debt is 1.5x shareholder equity, a leverage level that limits financial flexibility
+- Price is down 12.9% over six months and sits 20% below its 52-week high
+- Share count has grown 7.7% over three years, diluting existing shareholders
 
-**Watch next:** The next quarterly report: whether revenue growth of -0% holds.
+**Watch next:** Whether the company can reduce debt levels while maintaining the 7.6% dividend yield that attracts income investors.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Income-focused long-term investors who can tolerate foreign currency exposure and sector cyclicality in exchange for high dividend payments.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue 29.3B CAD (+13% vs prior year)

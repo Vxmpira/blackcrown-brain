@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Pullback in uptrend
 
-## Solid: shareholder returns stands out, growth holds it back
+## Oil giant with strong cash returns but shrinking revenue and analyst skepticism
 
-Equinor ASA scores 62 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: pullback in uptrend.
+Equinor is a Norwegian integrated oil and gas company generating $106.5B in annual revenue and $5.0B in net income. It is returning substantial cash to shareholders through an 8.6% dividend yield and share buybacks, but its revenue has declined 11% annually over three years.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
-- Balance sheet: Debt is 0.5x shareholder equity
+- Dividend yield of 8.6% and active buybacks shrinking share count by 18.3% over three years
+- Strong free cash flow of $6.0B and low debt at 0.5x shareholder equity
+- Stock price up 67% over the past year and trading 69% of the way up its 52-week range
 
 ### What to be careful about
-- Growth: Revenue -11% a year over 3 years
+- Revenue down 11% annually over three years; latest quarter up only 2% year over year
+- Earnings per share fell 38% year over year despite positive net income
+- Analyst consensus is Sell, with only 11% of 37 analysts rating it a buy
 
-**Watch next:** The next quarterly report: whether revenue growth of +2% holds.
+**Watch next:** Whether quarterly revenue growth can accelerate from the recent 2% pace and whether analyst sentiment begins to shift from the current consensus Sell.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors seeking high current income from dividends who can tolerate cyclical energy sector swings and are comfortable holding a contrarian position against analyst consensus.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $106.5B (+3% vs prior year)

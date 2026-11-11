@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Bearish read · trend: Downtrend
 
-## Weak: balance sheet stands out, price trend holds it back
+## Baidu trades cheap but burns cash while revenue barely grows
 
-Baidu, Inc. scores 36 of 100 on the Compass, which puts it in the Weak tier. Its long-term price trend is: downtrend.
+Baidu is a Chinese internet and communication services company with $18.5B in annual revenue. The stock has fallen 37% over the past year and trades at 5x earnings. Despite a strong analyst consensus to buy, the company is burning cash and growing slowly.
 
 ### What is working
-- Balance sheet: Debt is 0.2x shareholder equity
-- Shareholder returns: Share count growing (dilution)
+- Analysts are largely optimistic: 83% rate it a buy with a consensus recommendation of Buy
+- Balance sheet is strong: debt is only 0.2x shareholder equity, giving it room to maneuver
+- Earnings jumped 144% year over year, showing profit growth despite flat revenues
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Profitability: Keeps 4% of revenue as profit
+- Revenue is stalled: grew only 1% year over year and just 1% annually over three years
+- Company is burning cash: free cash flow is -$2.2B and the free cash flow margin is -12%
+- Stock has fallen sharply: down 37% over one year and 51% over five years; sits at the bottom of its 52-week range
 
-**Watch next:** The next quarterly report: whether revenue growth of +1% holds.
+**Watch next:** Whether the company can turn negative free cash flow positive while maintaining revenue growth momentum.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Investors who are comfortable with Chinese regulatory risk, can tolerate high volatility, and believe a turnaround in profitability or growth is coming.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $18.5B (+1% vs prior year)

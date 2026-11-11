@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend
 
-## Mixed: balance sheet stands out, price trend holds it back
+## Stable cash generator in a stalled growth phase, with solid finances backing modest returns
 
-Haleon plc scores 49 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: downtrend.
+Haleon is a UK-based specialty and generic drug manufacturer with 11.0 billion GBP in annual revenue. The company is profitable and generates substantial free cash flow, but revenue has been essentially flat over three years and declined 2% in the latest year. Most analysts rate it a buy, though the stock price has drifted lower.
 
 ### What is working
-- Balance sheet: Debt is 0.5x shareholder equity
-- Shareholder returns: Share count shrinking (buybacks)
-- Profitability: Keeps 15% of revenue as profit
+- Profitability is solid: 15% net margin and 21% free cash flow margin show disciplined operations
+- Balance sheet is strong: debt is only 0.5x shareholder equity, providing financial flexibility
+- Analysts favor it: 73% of 26 analysts rate it a buy, and the company returned cash via 2.3% share buybacks over three years
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Growth: Revenue +1% a year over 3 years
+- Revenue growth is stalled: +1% annually over three years and -2% in the latest year signals weak top-line momentum
+- Price is in a downtrend: stock is 20% below its 52-week high and down 4% over the past year despite solid earnings
+- Valuation offers limited margin of safety: at 18x earnings, it is not cheap for a company growing only 1% a year
 
-**Watch next:** The next quarterly report: whether revenue growth of -2% holds.
+**Watch next:** Whether revenue growth returns to positive territory next year, since flat sales are the core concern holding back the stock price despite strong cash generation and analyst support.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** This profile suits long-term investors comfortable holding a slow-growth, profitable business that pays a modest dividend and returns cash via buybacks, rather than expecting stock price appreciation.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue 11.0B GBP (-2% vs prior year)

@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend, bouncing
 
-## Solid: balance sheet stands out, price trend holds it back
+## Profitable telecom equipment maker in downtrend, steady dividend, weak revenue growth
 
-Telefonaktiebolaget LM Ericsson (publ) scores 56 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend, bouncing.
+Ericsson is a Swedish telecommunications equipment manufacturer. It keeps 12% of revenue as profit and generates 30.3B SEK in free cash flow. However, revenue has fallen 5% in the latest year and 4% per year over three years.
 
 ### What is working
-- Balance sheet: Net cash of 11.2B SEK
-- Profitability: Keeps 12% of revenue as profit
-- Shareholder returns: Share count flat
+- Strong profitability: 12% net margin and 26% return on equity show efficient operations
+- Solid balance sheet: 11.2B SEK net cash position provides financial flexibility
+- Cash generation: 30.3B SEK free cash flow funds the 5.2% dividend yield
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Growth: Revenue -4% a year over 3 years
+- Revenue declining: -5% year over year and -4% annually over three years signals shrinking business
+- Price under pressure: Stock sits 32% of the way up its 52-week range and 23% below its high
+- Analyst skepticism: Only 25% of 28 analysts rate it a buy; consensus is Hold
 
-**Watch next:** The next quarterly report: whether revenue growth of -5% holds.
+**Watch next:** Whether revenue decline stabilizes or accelerates will determine if the high profitability can persist.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors who prioritize steady dividend income over growth and can tolerate a stock in a downtrend.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue 236.7B SEK (-5% vs prior year)

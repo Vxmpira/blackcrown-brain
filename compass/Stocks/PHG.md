@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Turning up
 
-## Mixed: balance sheet stands out, growth holds it back
+## Philips shows modest recovery but faces stalled growth and thin profits
 
-Koninklijke Philips N.V. scores 45 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: turning up.
+Koninklijke Philips is a Netherlands-based medical device maker with 17.8B EUR in annual revenue. The company is profitable but keeps only 5% of sales as net profit, and revenue has been flat over three years.
 
 ### What is working
-- Balance sheet: Debt is 0.7x shareholder equity
-- Shareholder returns: Share count growing (dilution)
-- Price trend: Price is above its 200-day average
+- Stock price up 22.9% over the past month and 8% over the past year, trading 73% of the way up its 52-week range
+- Dividend yield is 4.2%, providing regular cash returns to shareholders
+- Balance sheet is solid with debt at 0.7x shareholder equity, giving financial flexibility
 
 ### What to be careful about
-- Growth: Revenue +0% a year over 3 years
-- Profitability: Keeps 5% of revenue as profit
+- Revenue declined 1% year over year and has grown 0% annually over the past three years, showing no momentum
+- Net profit margin of 5% and return on equity of 8% are both weak, meaning the company generates little earnings from its sales and assets
+- Stock has fallen 31% over five years and volatility is 30%, suggesting long-term weakness and price swings
 
-**Watch next:** The next quarterly report: whether revenue growth of -1% holds.
+**Watch next:** Whether revenue can return to growth in coming quarters, since flat sales with thin margins leave little room for error.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable with slow-growth dividend stocks and foreign exchange risk, who value steady income over capital appreciation.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue 17.8B EUR (-1% vs prior year)

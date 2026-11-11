@@ -14,22 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend
 
-## Mixed: shareholder returns stands out, price trend holds it back
+## UK bank trading cheap with steady profits and a fat dividend
 
-Lloyds Banking Group plc scores 49 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: downtrend.
+Lloyds is a regional bank based in the United Kingdom that generated 19.4B GBP in revenue last year. It keeps 24% of revenue as profit and returned 10% to shareholders on equity. The stock pays a 5.9% dividend and trades at 7x earnings.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Profitability: Keeps 24% of revenue as profit
+- Valuation is low at 7x earnings while peers often trade higher, scoring 100 on our scale
+- Revenue grew 8% year over year and earnings per share rose 11% in the latest period
+- Company has shrunk share count by 13.2% over three years through buybacks while paying a 5.9% dividend
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
+- Price sits 18% below its 52-week high and is below its 200-day moving average, showing downward momentum
+- Stock fell 5.3% in the past month despite the dividend, suggesting recent weakness
+- Yearly volatility of 31% is substantial, meaning swings up and down will be sharp
 
-**Watch next:** The next quarterly report: whether revenue growth of +8% holds.
+**Watch next:** Whether the recent one-month decline of 5.3% signals broader earnings trouble or is just a temporary pullback in an otherwise growing business.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable with foreign stocks who value steady income from dividends and can tolerate price swings while holding through cycles.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue 19.4B GBP (+8% vs prior year)

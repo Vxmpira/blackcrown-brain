@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend, bouncing
 
-## Solid: balance sheet stands out, price trend holds it back
+## Profitable IT services firm treading water on growth while stock slides
 
-Infosys Limited scores 61 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend, bouncing.
+Infosys is a large India-based IT services company generating $19.3B in annual revenue with strong profit margins of 16% and net cash of $2.9B. Growth has slowed to 4% year-over-year revenue expansion and flat earnings per share, while the stock price has fallen 24% over the past year and sits 22% of the way up its 52-week trading range.
 
 ### What is working
-- Balance sheet: Net cash of $2.9B
-- Valuation: Free cash flow yield 8.3%
-- Profitability: Keeps 16% of revenue as profit
+- Profitability is a core strength: 16% net margin, 21% operating margin, and 28% return on equity show the business converts sales to real earnings efficiently
+- Cash generation and balance sheet health are excellent: $4.4B in free cash flow and $2.9B in net cash with zero debt provide a cushion
+- Returning cash to shareholders via buybacks (share count down 1.6% over 3 years) and a 2.4% dividend yield
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Growth: Revenue +6% a year over 3 years
+- Growth has stalled: Revenue up only 4% year-over-year and earnings per share flat at 0% growth signal limited momentum in the business
+- Stock price is under pressure: Down 24% over the past year and 44% over five years; currently 38% below its 52-week high
+- Analyst consensus is lukewarm: Only 46% rate it a buy while the majority call it a hold; 48 analysts cover it but offer no bullish consensus
 
-**Watch next:** The next quarterly report: whether revenue growth of +4% holds.
+**Watch next:** Whether quarterly revenue growth can accelerate above 4% and whether earnings per share can return to positive growth after flatness this year.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable holding a stable, cash-generative business through an extended period of modest growth and price volatility, seeking dividend income and buyback support rather than capital appreciation.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-03-31)
 - Revenue $19.3B (+4% vs prior year)

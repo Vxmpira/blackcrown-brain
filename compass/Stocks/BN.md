@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Weak** · Bearish read · trend: Downtrend, bouncing
 
-## Weak: no single area stands out, valuation holds it back
+## Global asset manager facing revenue decline but drawing analyst optimism
 
-Brookfield Corporation scores 20 of 100 on the Compass, which puts it in the Weak tier. Its long-term price trend is: downtrend, bouncing.
+Brookfield is a large Canadian financial services and asset management company with $75.1 billion in annual revenue. The business has shrunk 13% year over year and 7% annually over three years, though earnings per share jumped 145% in the latest period. The company sits on $16.2 billion in cash against $14.3 billion in debt.
 
 ### What is working
-- No area scores above 60 right now.
+- Earnings per share surged 145% year over year, showing sharp profit growth despite revenue pressure
+- Analyst consensus is strong: 90% of 21 analysts rate it a buy
+- Stock is up 30% over five years, suggesting long-term resilience through cycles
 
 ### What to be careful about
-- Valuation: Trades at 87x earnings
-- Profitability: Keeps 2% of revenue as profit
-- Price trend: Price is below its 200-day average
+- Revenue fell 22% in the latest quarter and is down 7% annually over three years
+- Valuation is stretched at 73x earnings, with free cash flow yield at negative 3.6%
+- Return on equity is just 1%, meaning the company generates minimal profit on shareholder capital
 
-**Watch next:** The next quarterly report: whether revenue growth of -22% holds.
+**Watch next:** Whether revenue stabilizes or continues to contract, since the 22% quarterly decline is the steepest trend visible in the data.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors with high risk tolerance who believe in analyst consensus and can hold through volatility (29% yearly swings), though the negative cash flow and extreme valuation are red flags for most long-term holders.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $75.1B (-13% vs prior year)

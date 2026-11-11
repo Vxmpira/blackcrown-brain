@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Bearish read · trend: Downtrend, bouncing
 
-## Weak: shareholder returns stands out, price trend holds it back
+## China e-commerce giant with strong sales growth but razor-thin profits and falling stock
 
-JD.com, Inc. scores 37 of 100 on the Compass, which puts it in the Weak tier. Its long-term price trend is: downtrend, bouncing.
+JD.com is a large Chinese online retailer generating $187.2B in annual revenue with 18% year-over-year growth. The company is profitable on paper but keeps only 2% of revenue as net income and has seen earnings per share fall 50% year over year. Its stock has declined 11% over the past year and sits 36% into its 52-week range.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
+- Revenue accelerating at 18% year over year, above the 7% average growth rate over three years
+- Generating positive free cash flow of $1.6B while maintaining a strong cash position of $19.7B
+- Returning capital through share buybacks, with share count down 6.4% over three years, plus a 2.2% dividend yield
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Valuation: Free cash flow yield 1.9%
-- Growth: Revenue +7% a year over 3 years
+- Earnings per share collapsed 50% year over year despite revenue gains, signaling margin pressure
+- Operating margin at 0% shows the company barely breaks even on operations before financing costs
+- Stock down 11% over one year and 65% over five years; currently 36% below its 52-week high and trading below its 200-day moving average
 
-**Watch next:** The next quarterly report: whether revenue growth of +18% holds.
+**Watch next:** Monitor whether the company can expand its operating margin from 0% back toward historical levels while maintaining 18% revenue growth, or if margin pressure continues.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Suits investors comfortable with Chinese regulatory risk, cyclical retail exposure, and near-term volatility who believe the company can restore profitability without sacrificing growth.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $187.2B (+18% vs prior year)

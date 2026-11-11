@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Strong uptrend
 
-## Mixed: balance sheet stands out, valuation holds it back
+## China real estate services firm trading on momentum despite thin profits
 
-KE Holdings Inc. scores 50 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: strong uptrend.
+BEKE is a Chinese real estate services company with $13.5B in annual revenue. It grew revenue 6% last year and has averaged 15% yearly growth over three years, but currently keeps only 3% of revenue as profit and is burning cash.
 
 ### What is working
-- Balance sheet: Net cash of $928.6M
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
+- Stock price up 16% over the past year and sits 72% of the way up its 52-week range, showing investor momentum
+- Strong balance sheet with $928.6M in net cash and no debt stress (debt of $182.9M vs cash of $1.1B)
+- Analyst consensus lopsided at 96% buy rating among 23 covering analysts, rated Strong buy
 
 ### What to be careful about
-- Valuation: Free cash flow yield -0.2%
-- Profitability: Keeps 3% of revenue as profit
-- Growth: Revenue +15% a year over 3 years
+- Earnings per share fell 25% year over year despite revenue growing 6%, signaling profit pressure
+- Free cash flow is negative at -$140.7M and margin sits at -1%, meaning the company is spending more cash than it generates
+- Valuation is stretched at 30x earnings with a free cash flow yield of -0.1%, leaving little margin for disappointment
 
-**Watch next:** The next quarterly report: whether revenue growth of +6% holds.
+**Watch next:** Whether free cash flow turns positive in coming quarters, since current negative cash generation cannot sustain long term.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Investors comfortable with China-based stocks who believe in the company's turnaround story and can tolerate 37% yearly price swings while it rebuilds profitability.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $13.5B (+6% vs prior year)

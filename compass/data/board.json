@@ -54,6 +54,19 @@
    "headline": "Sandisk posts record profits but stock momentum stalls after 266% surge"
   },
   {
+   "symbol": "WPM",
+   "name": "Wheaton Precious Metals Corp.",
+   "sector": "Basic Materials",
+   "score": 83.9,
+   "tier": "Top rated",
+   "read": "bull",
+   "trend": "Pullback in uptrend",
+   "ret_1y": 0.3792,
+   "pe": 30.13,
+   "div_yield": 0.004,
+   "headline": "Fast-growing precious metals company trading at premium valuation after 38% year-long rally"
+  },
+  {
    "symbol": "AEM",
    "name": "Agnico Eagle Mines Limited",
    "sector": "Basic Materials",
@@ -78,19 +91,6 @@
    "pe": 30.51,
    "div_yield": null,
    "headline": "Profitable medical device maker with strong cash generation, but expensive at 31x earnings"
-  },
-  {
-   "symbol": "WPM",
-   "name": "Wheaton Precious Metals Corp.",
-   "sector": "Basic Materials",
-   "score": 82.6,
-   "tier": "Top rated",
-   "read": "bull",
-   "trend": "Pullback in uptrend",
-   "ret_1y": 0.3792,
-   "pe": 42.21,
-   "div_yield": 0.0048,
-   "headline": "Fast-growing precious metals company trading at premium valuation after 38% year-long rally"
   },
   {
    "symbol": "MSFT",
@@ -2316,6 +2316,19 @@
    "headline": "Regional bank showing modest growth with attractive income yield and cheap valuation"
   },
   {
+   "symbol": "WCN",
+   "name": "Waste Connections, Inc.",
+   "sector": "Industrials",
+   "score": 67.9,
+   "tier": "Strong",
+   "read": "bull",
+   "trend": "Strong uptrend",
+   "ret_1y": 0.1502,
+   "pe": 42.0,
+   "div_yield": 0.0086,
+   "headline": "Waste management company with strong price momentum but expensive valuation"
+  },
+  {
    "symbol": "AMCR",
    "name": "Amcor",
    "sector": "Consumer Cyclical",
@@ -2613,19 +2626,6 @@
    "pe": 13.61,
    "div_yield": 0.0159,
    "headline": "Financial services firm growing steadily with strong cash generation and cheap valuation"
-  },
-  {
-   "symbol": "WCN",
-   "name": "Waste Connections, Inc.",
-   "sector": "Industrials",
-   "score": 66.8,
-   "tier": "Strong",
-   "read": "bull",
-   "trend": "Strong uptrend",
-   "ret_1y": 0.1502,
-   "pe": 42.76,
-   "div_yield": 0.0068,
-   "headline": "Waste management company with strong price momentum but expensive valuation"
   },
   {
    "symbol": "AXP",
@@ -5163,19 +5163,6 @@
    "headline": "Semiconductor firm with strong growth but steep valuation after sharp pullback"
   },
   {
-   "symbol": "WDS",
-   "name": "Woodside Energy Group Ltd",
-   "sector": "Energy",
-   "score": 58.0,
-   "tier": "Solid",
-   "read": "neut",
-   "trend": "Losing steam",
-   "ret_1y": 0.2475,
-   "pe": 14.84,
-   "div_yield": 0.0499,
-   "headline": "Profitable energy producer with strong cash generation facing revenue decline"
-  },
-  {
    "symbol": "IT",
    "name": "Gartner",
    "sector": "Technology",
@@ -5524,7 +5511,7 @@
    "ret_1y": 0.4706,
    "pe": 21.15,
    "div_yield": 0.0562,
-   "headline": "Solid: balance sheet stands out, valuation holds it back"
+   "headline": "Mining giant with strong cash generation, but revenue shrinking and price momentum fading"
   },
   {
    "symbol": "CRL",
@@ -5576,7 +5563,7 @@
    "ret_1y": 0.1603,
    "pe": 29.63,
    "div_yield": 0.0025,
-   "headline": "Mixed: balance sheet stands out, valuation holds it back"
+   "headline": "China real estate services firm trading on momentum despite thin profits"
   },
   {
    "symbol": "TXT",
@@ -5615,7 +5602,20 @@
    "ret_1y": 0.0682,
    "pe": 6.54,
    "div_yield": 0.0593,
-   "headline": "Mixed: shareholder returns stands out, price trend holds it back"
+   "headline": "UK bank trading cheap with steady profits and a fat dividend"
+  },
+  {
+   "symbol": "WDS",
+   "name": "Woodside Energy Group Ltd",
+   "sector": "Energy",
+   "score": 56.3,
+   "tier": "Solid",
+   "read": "neut",
+   "trend": "Losing steam",
+   "ret_1y": 0.2475,
+   "pe": 13.14,
+   "div_yield": 0.0526,
+   "headline": "Profitable energy producer with strong cash generation facing revenue decline"
   },
   {
    "symbol": "CASY",
@@ -5706,7 +5706,7 @@
    "ret_1y": 0.0621,
    "pe": 4.78,
    "div_yield": 0.0544,
-   "headline": "Mixed: shareholder returns stands out, price trend holds it back"
+   "headline": "UK bank trading cheap with strong cash generation but stuck in a downtrend"
   },
   {
    "symbol": "ALNY",
@@ -5761,19 +5761,6 @@
    "headline": "Principal Financial shows strong price momentum but earnings fell 21% year over year"
   },
   {
-   "symbol": "VOD",
-   "name": "Vodafone Group Public Limited Company",
-   "sector": "Communication Services",
-   "score": 55.8,
-   "tier": "Solid",
-   "read": "neut",
-   "trend": "Pullback in uptrend",
-   "ret_1y": 0.3385,
-   "pe": null,
-   "div_yield": null,
-   "headline": "Telecom giant losing money but generating cash and shrinking share count"
-  },
-  {
    "symbol": "ALC",
    "name": "Alcon Inc.",
    "sector": "Healthcare",
@@ -5797,7 +5784,7 @@
    "ret_1y": 0.9976,
    "pe": -1.0,
    "div_yield": null,
-   "headline": "Solid: balance sheet stands out, valuation holds it back"
+   "headline": "Biotech with massive cash, soaring stock price, but deep losses and volatile revenue"
   },
   {
    "symbol": "ESS",
@@ -5836,7 +5823,7 @@
    "ret_1y": 0.5796,
    "pe": 53.13,
    "div_yield": 0.01,
-   "headline": "Solid: balance sheet stands out, valuation holds it back"
+   "headline": "Defense contractor with strong growth and cash, but trading at a steep valuation multiple"
   },
   {
    "symbol": "JBHT",
@@ -5875,7 +5862,7 @@
    "ret_1y": -0.2102,
    "pe": 113.33,
    "div_yield": 0.0023,
-   "headline": "Solid: balance sheet stands out, price trend holds it back"
+   "headline": "Uranium miner with strong growth but steep valuation and recent price drop"
   },
   {
    "symbol": "ABEV",
@@ -5953,7 +5940,7 @@
    "ret_1y": -0.237,
    "pe": 15.23,
    "div_yield": 0.0244,
-   "headline": "Solid: balance sheet stands out, price trend holds it back"
+   "headline": "Profitable IT services firm treading water on growth while stock slides"
   },
   {
    "symbol": "AFL",
@@ -6044,7 +6031,7 @@
    "ret_1y": 0.0935,
    "pe": 17.88,
    "div_yield": 0.0517,
-   "headline": "Solid: balance sheet stands out, price trend holds it back"
+   "headline": "Profitable telecom equipment maker in downtrend, steady dividend, weak revenue growth"
   },
   {
    "symbol": "HLN",
@@ -6057,7 +6044,7 @@
    "ret_1y": -0.0423,
    "pe": 18.36,
    "div_yield": 0.0126,
-   "headline": "Mixed: balance sheet stands out, price trend holds it back"
+   "headline": "Stable cash generator in a stalled growth phase, with solid finances backing modest returns"
   },
   {
    "symbol": "AKAM",
@@ -6122,7 +6109,7 @@
    "ret_1y": 0.0795,
    "pe": 23.84,
    "div_yield": 0.0415,
-   "headline": "Mixed: balance sheet stands out, growth holds it back"
+   "headline": "Philips shows modest recovery but faces stalled growth and thin profits"
   },
   {
    "symbol": "JBL",
@@ -6136,6 +6123,19 @@
    "pe": 24.98,
    "div_yield": 0.0024,
    "headline": "JBL: Strong earnings growth and buybacks offset recent price decline and high debt"
+  },
+  {
+   "symbol": "VOD",
+   "name": "Vodafone Group Public Limited Company",
+   "sector": "Communication Services",
+   "score": 54.3,
+   "tier": "Solid",
+   "read": "neut",
+   "trend": "Pullback in uptrend",
+   "ret_1y": 0.3385,
+   "pe": null,
+   "div_yield": 0.1084,
+   "headline": "Telecom giant losing money but generating cash and shrinking share count"
   },
   {
    "symbol": "VTRS",
@@ -6200,7 +6200,7 @@
    "ret_1y": 0.3818,
    "pe": 23.85,
    "div_yield": 0.0173,
-   "headline": "Solid: shareholder returns stands out, balance sheet holds it back"
+   "headline": "Mexican beverage giant riding strong price momentum but facing growth headwinds"
   },
   {
    "symbol": "GLW",
@@ -6278,7 +6278,7 @@
    "ret_1y": 0.6713,
    "pe": 10.74,
    "div_yield": 0.0856,
-   "headline": "Solid: shareholder returns stands out, growth holds it back"
+   "headline": "Oil giant with strong cash returns but shrinking revenue and analyst skepticism"
   },
   {
    "symbol": "ADM",
@@ -6421,7 +6421,7 @@
    "ret_1y": 0.1701,
    "pe": null,
    "div_yield": 0.0318,
-   "headline": "Solid: shareholder returns stands out, profitability holds it back"
+   "headline": "Honda shows strong price momentum but earnings and cash flow are slowing"
   },
   {
    "symbol": "CVS",
@@ -6603,7 +6603,7 @@
    "ret_1y": 0.3059,
    "pe": 5.59,
    "div_yield": 0.0316,
-   "headline": "Mixed: shareholder returns stands out, profitability holds it back"
+   "headline": "Japanese financial services firm trading cheap with weak profits but strong cash"
   },
   {
    "symbol": "NOC",
@@ -6668,7 +6668,7 @@
    "ret_1y": 1.0297,
    "pe": 14.53,
    "div_yield": 0.072,
-   "headline": "Mixed: balance sheet stands out, valuation holds it back"
+   "headline": "Chipmaker with strong balance sheet but shrinking revenue and sharply fallen stock"
   },
   {
    "symbol": "PODD",
@@ -6798,7 +6798,7 @@
    "ret_1y": 0.0755,
    "pe": 15.91,
    "div_yield": 0.0565,
-   "headline": "Mixed: price trend stands out, growth holds it back"
+   "headline": "Regulated utility with steady income but stalled growth and heavy debt"
   },
   {
    "symbol": "SCHW",
@@ -6993,7 +6993,7 @@
    "ret_1y": -0.274,
    "pe": 6.34,
    "div_yield": 0.0563,
-   "headline": "Weak: valuation stands out, growth holds it back"
+   "headline": "Brazilian bank trading cheap but grappling with earnings decline and cash flow stress"
   },
   {
    "symbol": "DD",
@@ -7123,7 +7123,7 @@
    "ret_1y": 0.215,
    "pe": 25.72,
    "div_yield": 0.0735,
-   "headline": "Mixed: profitability stands out, balance sheet holds it back"
+   "headline": "Stable cash generator with heavy debt and slowing earnings growth"
   },
   {
    "symbol": "HONA",
@@ -7227,7 +7227,7 @@
    "ret_1y": -0.1515,
    "pe": 19.21,
    "div_yield": null,
-   "headline": "Mixed: balance sheet stands out, price trend holds it back"
+   "headline": "Stable cash generator in a downtrend; analysts bullish but price signals caution"
   },
   {
    "symbol": "ENB",
@@ -7240,7 +7240,7 @@
    "ret_1y": 0.001,
    "pe": 24.33,
    "div_yield": 0.0762,
-   "headline": "Mixed: profitability stands out, price trend holds it back"
+   "headline": "Canadian pipeline giant trades flat with high dividend, but debt and price momentum are weak"
   },
   {
    "symbol": "APD",
@@ -7293,19 +7293,6 @@
    "pe": 19.47,
    "div_yield": 0.0506,
    "headline": "Utility showing price strength but burning cash while raising dividend"
-  },
-  {
-   "symbol": "WIT",
-   "name": "Wipro Limited",
-   "sector": "Technology",
-   "score": 46.1,
-   "tier": "Mixed",
-   "read": "neut",
-   "trend": "Turning up",
-   "ret_1y": -0.1654,
-   "pe": 15.5,
-   "div_yield": 0.0322,
-   "headline": "Mixed: valuation stands out, balance sheet holds it back"
   },
   {
    "symbol": "EQIX",
@@ -7422,7 +7409,7 @@
    "ret_1y": -0.0469,
    "pe": 27.42,
    "div_yield": 0.0783,
-   "headline": "Mixed: valuation stands out, growth holds it back"
+   "headline": "Mining giant with strong cash generation but shrinking revenue and steep price decline"
   },
   {
    "symbol": "GNRC",
@@ -7461,7 +7448,7 @@
    "ret_1y": 0.107,
    "pe": 15.7,
    "div_yield": 0.0234,
-   "headline": "Weak: shareholder returns stands out, balance sheet holds it back"
+   "headline": "Telecom giant with shrinking revenue, massive debt, but strong cash generation"
   },
   {
    "symbol": "ETR",
@@ -7487,7 +7474,7 @@
    "ret_1y": 0.1635,
    "pe": 22.84,
    "div_yield": 0.0423,
-   "headline": "Mixed: price trend stands out, profitability holds it back"
+   "headline": "Regulated utility with steady dividend but burning cash and heavy debt load"
   },
   {
    "symbol": "LYB",
@@ -7552,7 +7539,7 @@
    "ret_1y": 0.8997,
    "pe": 483.88,
    "div_yield": 0.0079,
-   "headline": "Mixed: balance sheet stands out, growth holds it back"
+   "headline": "Semiconductor maker with strong cash generation but shrinking sales and profits"
   },
   {
    "symbol": "AEE",
@@ -7656,7 +7643,7 @@
    "ret_1y": -0.1095,
    "pe": 15.55,
    "div_yield": 0.022,
-   "headline": "Weak: shareholder returns stands out, price trend holds it back"
+   "headline": "China e-commerce giant with strong sales growth but razor-thin profits and falling stock"
   },
   {
    "symbol": "NKE",
@@ -7877,7 +7864,7 @@
    "ret_1y": -0.3672,
    "pe": 5.21,
    "div_yield": null,
-   "headline": "Weak: balance sheet stands out, price trend holds it back"
+   "headline": "Baidu trades cheap but burns cash while revenue barely grows"
   },
   {
    "symbol": "IVZ",
@@ -8007,7 +7994,7 @@
    "ret_1y": 0.2061,
    "pe": 53.41,
    "div_yield": 0.0309,
-   "headline": "Mixed: balance sheet stands out, growth holds it back"
+   "headline": "Nokia trades at stretched valuation despite strong cash position and buybacks"
   },
   {
    "symbol": "CSGP",
@@ -8049,6 +8036,19 @@
    "headline": "Homebuilder facing revenue decline with weak analyst support and downward price momentum"
   },
   {
+   "symbol": "WIT",
+   "name": "Wipro Limited",
+   "sector": "Technology",
+   "score": 36.5,
+   "tier": "Weak",
+   "read": "bear",
+   "trend": "Turning up",
+   "ret_1y": -0.1654,
+   "pe": 14.82,
+   "div_yield": 0.0025,
+   "headline": "Profitable Indian IT firm losing revenue and share value; debt load is severe"
+  },
+  {
    "symbol": "TSLA",
    "name": "Tesla, Inc.",
    "sector": "Consumer Cyclical",
@@ -8072,7 +8072,7 @@
    "ret_1y": -0.1545,
    "pe": null,
    "div_yield": null,
-   "headline": "Weak: balance sheet stands out, price trend holds it back"
+   "headline": "German biotech with strong cash but shrinking revenue and deep losses"
   },
   {
    "symbol": "BG",
@@ -8332,7 +8332,7 @@
    "ret_1y": -0.0747,
    "pe": 72.96,
    "div_yield": 0.0082,
-   "headline": "Weak: no single area stands out, valuation holds it back"
+   "headline": "Global asset manager facing revenue decline but drawing analyst optimism"
   },
   {
    "symbol": "GIS",

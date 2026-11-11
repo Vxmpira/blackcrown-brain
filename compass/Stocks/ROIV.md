@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Strong uptrend
 
-## Solid: balance sheet stands out, valuation holds it back
+## Biotech with massive cash, soaring stock price, but deep losses and volatile revenue
 
-Roivant Sciences Ltd. scores 52 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: strong uptrend.
+Roivant is a UK-based biotech company with $1.3B in net cash and no debt burden. It is losing money heavily while showing extreme revenue swings: down 72% year over year in the fiscal year ended March 2026, but up 2136% in the latest quarter. The stock has doubled in one year and sits near 52-week highs.
 
 ### What is working
-- Balance sheet: Net cash of $1.3B
-- Price trend: Price is above its 200-day average
-- Shareholder returns: Share count shrinking (buybacks)
+- Strong balance sheet: $1.3B net cash provides runway to fund drug development without immediate financing pressure
+- Analyst consensus bullish: 85% of 20 analysts rate it a buy with Strong Buy consensus
+- Stock momentum sharp: +99.8% over one year and +19.1% over one month; price 97% of the way up its 52-week range
 
 ### What to be careful about
-- Valuation: Free cash flow yield -2.6%
-- Profitability: Keeps -3629% of revenue as profit
+- Profitability deeply negative: net income -$299.8M; free cash flow -$758.6M; burning cash at scale
+- Revenue highly volatile and shrinking long-term: -72% year over year; -36% annually over 3 years despite latest quarter jump
+- Valuation stretched relative to cash burn: market cap $29.4B against -$758.6M free cash flow; cash runway depends on drug approval timelines
 
-**Watch next:** The next quarterly report: whether revenue growth of +2136% holds.
+**Watch next:** Whether the latest quarter's +2136% revenue surge reflects a one-time event or the start of sustained revenue growth that can close the gap to profitability.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Investors comfortable with long development timelines, deep losses, and high volatility who believe in the company's pipeline and can hold through clinical and regulatory uncertainty.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-03-31)
 - Revenue $8.3M (-72% vs prior year)

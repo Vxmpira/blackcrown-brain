@@ -14,21 +14,22 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Bearish read · trend: Downtrend
 
-## Weak: valuation stands out, growth holds it back
+## Brazilian bank trading cheap but grappling with earnings decline and cash flow stress
 
-Banco Bradesco S.A. scores 31 of 100 on the Compass, which puts it in the Weak tier. Its long-term price trend is: downtrend.
+Banco Bradesco is a major regional bank based in Brazil with a market value of $156.9B. The company reported $23.7B in net income for fiscal 2025, but earnings per share fell 33% year over year while revenue surged 55%. The stock has declined 27% over the past year and trades well below its 52-week high.
 
 ### What is working
-- Valuation: Trades at 2x earnings
-- Shareholder returns: Share count shrinking (buybacks)
+- Stock trades at 6x earnings, putting it in the lowest valuation tier scored
+- Revenue jumped 55% year over year in the latest period
+- Dividend yield sits at 5.6%, and the company is buying back shares to reduce share count
 
 ### What to be careful about
-- Growth: Earnings per share -33% year over year
-- Price trend: Price is below its 200-day average
-- Profitability: Return on equity 13%
+- Earnings per share dropped 33% year over year despite revenue growth
+- Free cash flow is deeply negative at -$67.6B, a major red flag for a bank's ability to fund operations
+- Stock is down 27% over the past year and trades only 5% up from its 52-week low; volatility is 52% annually
 
-**Watch next:** Whether the price holds above its 200-day average.
+**Watch next:** The next earnings report should clarify whether the massive negative free cash flow of -$67.6B reflects a one-time event or a structural problem, and whether the 33% EPS decline is reversing or continuing.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** This profile may appeal to income-focused investors comfortable with foreign currency and banking sector exposure who view the low valuation and high dividend as compensation for recent weakness and execution uncertainty.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.

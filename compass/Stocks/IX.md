@@ -14,21 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Losing steam
 
-## Mixed: shareholder returns stands out, profitability holds it back
+## Japanese financial services firm trading cheap with weak profits but strong cash
 
-ORIX Corporation scores 44 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: losing steam.
+ORIX is a Japan-based financial services company that lends money and manages credit. Revenue grew 7% last quarter and 11% year over year, but the company keeps almost no profit from those sales. It holds 1.5 trillion yen in cash and pays a 3.2% dividend while shrinking its share count.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
+- Revenue accelerating: +11% last year and +7% in latest quarter, above the 3-year average of +5%
+- Valuation is low: P/E ratio of 5.59 means each dollar of earnings costs only $5.59
+- Returns to shareholders: 3.2% dividend yield and share count down 5.2% over three years via buybacks
 
 ### What to be careful about
-- Profitability: Keeps 0% of revenue as profit
+- Profitability nearly flat: net margin and operating margin both at 0%, meaning growth isn't translating to bottom-line earnings
+- Return on equity weak at 6%: the company generates only 6 cents of profit per dollar of shareholder capital
+- Price momentum stalling: stock down 11.3% in the last month and 13.1% in the last six months, despite +31% over a full year
 
-**Watch next:** The next quarterly report: whether revenue growth of +7% holds.
+**Watch next:** Whether earnings growth can catch up to revenue growth over the next two quarters, since the company is expanding sales but not converting them to profit.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable with foreign-listed Japanese financials who prioritize dividend income and low valuation over near-term profit growth.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-03-31)
 - Revenue 1.5T JPY (+11% vs prior year)

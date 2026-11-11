@@ -14,22 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Strong uptrend
 
-## Solid: shareholder returns stands out, balance sheet holds it back
+## Mexican beverage giant riding strong price momentum but facing growth headwinds
 
-Fomento Económico Mexicano, S.A.B. de C.V. scores 54 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: strong uptrend.
+FMX is a large Mexican consumer beverage company with $37.5B in annual revenue. The stock has surged 38% in the past year and trades near 52-week highs, but recent revenue fell 10% year over year. The company generates $1.0B in free cash flow annually and pays a 1.7% dividend.
 
 ### What is working
-- Price trend: Price is above its 200-day average
+- Price momentum is strong: up 38% over one year and sitting 98% of the way up its 52-week range
+- Analysts are bullish: 80% of 20 analysts rate it a buy with consensus rating Buy
+- Returns cash to shareholders: 1.7% dividend yield and generates $1.0B in annual free cash flow
 
 ### What to be careful about
-- Balance sheet: Debt is 10.1x shareholder equity
-- Growth: Revenue +11% a year over 3 years
+- Latest revenue dropped 10% year over year, signaling near-term business pressure despite long-term 11% annual growth
+- Valuation is stretched: trades at 24x earnings with free cash flow yield of only 0.1%
+- Debt load is very high: $144.4B in debt is 10.1x shareholder equity, limiting financial flexibility
 
-**Watch next:** The next quarterly report: whether revenue growth of -10% holds.
+**Watch next:** Whether the 10% revenue decline reverses in upcoming quarters or signals a sustained slowdown in the beverage market.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Patient investors comfortable with foreign-listed companies who can tolerate high leverage if they believe in long-term dividend income and believe current revenue weakness is temporary.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2024-12-31)
 - Revenue $37.5B (-10% vs prior year)

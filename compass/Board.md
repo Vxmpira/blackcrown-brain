@@ -19,9 +19,9 @@ Prices as of 2026-11-10 close.
 | 2 | [[compass/Stocks/NEM|NEM]] | Newmont | 86 | Top rated | Bullish | Uptrend | +45% |
 | 3 | [[compass/Stocks/MU|MU]] | Micron Technology | 85 | Top rated | Bullish | Losing steam | +205% |
 | 4 | [[compass/Stocks/SNDK|SNDK]] | Sandisk Corporation | 84 | Top rated | Bullish | Losing steam | +266% |
-| 5 | [[compass/Stocks/AEM|AEM]] | Agnico Eagle Mines Limited | 83 | Top rated | Bullish | Uptrend | +18% |
-| 6 | [[compass/Stocks/DXCM|DXCM]] | Dexcom | 83 | Top rated | Bullish | Pullback in uptrend | +45% |
-| 7 | [[compass/Stocks/WPM|WPM]] | Wheaton Precious Metals Corp. | 83 | Top rated | Bullish | Pullback in uptrend | +38% |
+| 5 | [[compass/Stocks/WPM|WPM]] | Wheaton Precious Metals Corp. | 84 | Top rated | Bullish | Pullback in uptrend | +38% |
+| 6 | [[compass/Stocks/AEM|AEM]] | Agnico Eagle Mines Limited | 83 | Top rated | Bullish | Uptrend | +18% |
+| 7 | [[compass/Stocks/DXCM|DXCM]] | Dexcom | 83 | Top rated | Bullish | Pullback in uptrend | +45% |
 | 8 | [[compass/Stocks/MSFT|MSFT]] | Microsoft | 82 | Top rated | Bullish | Strong uptrend | +9% |
 | 9 | [[compass/Stocks/REGN|REGN]] | Regeneron Pharmaceuticals | 82 | Top rated | Bullish | Strong uptrend | +39% |
 | 10 | [[compass/Stocks/TD|TD]] | The Toronto-Dominion Bank | 82 | Top rated | Bullish | Strong uptrend | +53% |

@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Neutral read · trend: Turning up
 
-## Mixed: price trend stands out, profitability holds it back
+## Regulated utility with steady dividend but burning cash and heavy debt load
 
-Fortis Inc. scores 42 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: turning up.
+Fortis is a Canadian regulated electric utility with 11.9B CAD in annual revenue. It pays a 4.2% dividend and keeps 16% of revenue as profit, but is burning cash and carrying 33.9B CAD in debt against 2.0B CAD in shareholder equity.
 
 ### What is working
-- Price trend: Price is above its 200-day average
+- Price has risen 16% over the past year and sits near its 52-week high of 61.18
+- Operating margin of 29% shows the core business runs efficiently before financing costs
+- Dividend yield of 4.2% provides regular income to shareholders
 
 ### What to be careful about
-- Profitability: Keeps 16% of revenue as profit
-- Growth: Revenue +3% a year over 3 years
-- Balance sheet: Debt is 1.4x shareholder equity
+- Free cash flow is negative 1.9B CAD; the company is burning cash despite positive net income
+- Debt of 33.9B CAD is 1.4x shareholder equity, leaving little room for error
+- Latest quarter revenue fell 2% year over year, and three-year revenue growth is only 3% per year
 
-**Watch next:** The next quarterly report: whether revenue growth of -2% holds.
+**Watch next:** Whether free cash flow can turn positive in coming quarters, since the negative 1.9B CAD burn is the most structural risk to dividend sustainability and debt paydown.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors seeking steady dividend income who can tolerate regulated utility returns and are comfortable with a foreign-listed Canadian stock carrying elevated leverage.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue 11.9B CAD (+6% vs prior year)

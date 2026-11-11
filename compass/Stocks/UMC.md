@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Losing steam
 
-## Mixed: balance sheet stands out, valuation holds it back
+## Chipmaker with strong balance sheet but shrinking revenue and sharply fallen stock
 
-United Microelectronics Corporation scores 45 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: losing steam.
+UMC is a Taiwan-based semiconductor manufacturer that reported $7.1B in revenue for 2024. The company is profitable with a 21% net margin and holds $3.2B in net cash, but revenue has declined 3% annually over the past three years.
 
 ### What is working
-- Balance sheet: Net cash of $3.2B
-- Shareholder returns: Share count growing (dilution)
-- Profitability: Keeps 21% of revenue as profit
+- Strong balance sheet: $3.2B in net cash with no reported debt
+- Profitable operations: 21% net margin and 22% operating margin in 2024
+- Shareholder income: 7.2% dividend yield despite share dilution of 1% over three years
 
 ### What to be careful about
-- Valuation: Free cash flow yield 0.1%
-- Growth: Revenue -3% a year over 3 years
+- Shrinking top line: Revenue down 3% year over year and -3% annually over three years
+- Earnings in decline: EPS fell 25% year over year
+- Stock in retreat: Down 33.3% in one month and 46% from its 52-week high
 
-**Watch next:** The next quarterly report: whether revenue growth of -3% holds.
+**Watch next:** Whether revenue stabilizes or continues its three-year decline, since earnings momentum depends on reversing the sales trend.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Long-term investors comfortable holding a dividend-paying foreign chipmaker through cyclical downturns and who can tolerate high price swings.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2024-12-31)
 - Revenue $7.1B (-3% vs prior year)
