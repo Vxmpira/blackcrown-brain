@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Turning up
 
-## Profitable auto parts retailer faces debt load and price decline amid analyst support
+## Profitable auto parts retailer with heavy debt and rising share count
 
-O'Reilly Auto Parts is a mature specialty retailer generating $17.8B in annual revenue with solid profitability: 14% net margin and $1.6B in free cash flow. The company trades at 27x earnings and carries substantial debt of $7.7B against $194.4M in cash. Price has fallen 9% over the past year and sits 32% up from its 52-week low.
+O'Reilly Auto Parts is a large specialty retailer generating $17.8B in annual revenue with strong operating margins of 19%. The company is profitable and produces free cash flow, but carries substantial leverage and has been diluting shareholders through share issuance.
 
 ### What is working
-- Latest quarter revenue grew 9% year over year, outpacing the 6% annual growth rate
-- Net profit margin holds steady at 14%, with operating margin at 19%, showing pricing power
-- Generates $1.6B in free cash flow annually, demonstrating ability to fund operations and returns
+- Operating margin of 19% and net margin of 14% show pricing power and cost control in a competitive sector
+- Free cash flow of $1.6B demonstrates the business converts profits into cash despite capital intensity
+- 81% of 36 analysts rate it a buy, and consensus is Buy with latest quarter revenue up 9% year over year
 
 ### What to be careful about
-- Debt stands at 17.5x shareholder equity, a critical structural risk that limits financial flexibility
-- Stock price is 13% below its 52-week high and has declined 8.5% over the past year
-- Valuation at 27x earnings is elevated for a mature retailer with 7% historical growth
+- Debt of $7.7B against shareholder equity creates 17.5x leverage ratio, a critical red flag for financial stability
+- Share count grew 1217.6% over 3 years, meaning existing shareholders own far less of the company than they did
+- Stock down 7.7% over the past year and trades at 27x earnings, which is elevated for a cyclical retailer
 
-**Watch next:** Monitor whether the company can reduce its debt-to-equity ratio (now 17.5x) while maintaining free cash flow generation, as this ratio is the single largest structural constraint on the business.
+**Watch next:** Monitor quarterly free cash flow trends and debt reduction progress, since the 17.5x debt-to-equity ratio limits financial flexibility if revenues weaken.
 
-**Tends to suit:** This profile suits long-term investors comfortable with established retail businesses that generate cash but carry heavy debt, who can tolerate near-term price volatility (26% yearly) in exchange for profitability.
+**Tends to suit:** Investors comfortable with cyclical retail exposure and who can tolerate high financial leverage in exchange for current profitability and analyst support.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $17.8B (+6% vs prior year)

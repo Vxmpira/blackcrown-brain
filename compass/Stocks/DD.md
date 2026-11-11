@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Turning up
 
-## DuPont shows price strength but faces thin profits and steep valuation
+## Specialty chemicals company with strong stock momentum but thin profit margins
 
-DuPont is a specialty chemicals company with $6.8B in annual revenue. The company has shrunk revenues by 19% over three years, though the latest quarter showed a 4% year-over-year rebound. Profitability remains weak, with just 1% net margin and 1% return on equity.
+DuPont is a specialty chemicals manufacturer with $6.8B in annual revenue. The company has faced a three-year revenue decline but showed a small rebound in the latest quarter. Profitability remains weak, with just 1% of revenue converting to net profit.
 
 ### What is working
-- Price near 52-week high, up 29% over the past year and 19% in the last month
-- Strong balance sheet with debt at 0.5x equity, well-managed leverage
-- Aggressive buybacks shrinking share count by 16.1% over three years; 2.0% dividend yield
+- Stock price up 29% over the past year and sitting 97% toward its 52-week high, suggesting recent momentum
+- Analysts strongly bullish: 82% rate it a buy with consensus Buy rating across 28 covering analysts
+- Balance sheet is solid with debt at only 0.5x shareholder equity, providing financial flexibility
 
 ### What to be careful about
-- Revenue declined 19% annually over three years; company is smaller than it was
-- Trades at 68x earnings with only 1.1% free cash flow yield, expensive relative to profits
-- Net profit of just $88M on $6.8B revenue means only 1% makes it to the bottom line
+- Profitability is very thin: only 1% net margin and 1% return on equity means minimal earnings power
+- Stock trades at 68x earnings, which is extremely expensive relative to current profit levels
+- Revenue fell 19% a year over three years, though latest quarter showed +4% growth, the long-term trend is still down
 
-**Watch next:** Whether the recent quarterly revenue growth of 4% year-over-year marks a genuine turnaround or a temporary pause in the three-year revenue decline.
+**Watch next:** Watch whether the latest quarter's 4% revenue growth can accelerate and whether net margins expand from their current 1% level.
 
-**Tends to suit:** Investors patient with turnarounds who can tolerate high valuations and thin margins while waiting for profitability to improve.
+**Tends to suit:** This profile suits patient investors who believe in turnarounds and can tolerate high valuations while waiting for profitability to improve.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $6.8B (+2% vs prior year)

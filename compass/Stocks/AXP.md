@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend, bouncing
 
-## Profitable credit giant turning up after a year-long decline
+## Profitable credit giant treading water on growth; analysts split on direction
 
-American Express is a financial services company that processes credit and payment transactions. It keeps 26% of revenue as profit and earned $10.8 billion last year on $41.3 billion in sales. The stock is up 4.3% in the past month after falling 11.8% over the past year.
+American Express is a large financial services company that processes credit card payments and lends money. It keeps 26 cents of every dollar as profit and returned 87% over five years, but has lost 12% in the past year as growth has slowed.
 
 ### What is working
-- Profitability is exceptional: 26% net margin and 30% return on equity rank at the top
-- Earnings grew 10% year over year while revenue grew 8%, showing operational leverage
-- Strong cash generation: $16.0 billion in free cash flow with $43.2 billion in cash on hand
+- Profitability is exceptional: 26% net margin and 30% return on equity rank at the top tier
+- Generated $16.0B in free cash flow last year; trades at 7.4% free cash flow yield
+- Latest quarter revenue grew 8% year over year, faster than the 6% annual trend
 
 ### What to be careful about
-- Stock is down 11.8% over the past year and sits 16% below its 52-week high
-- Debt of $58.5 billion is larger than cash of $43.2 billion, leaving $15.3 billion net debt
-- Analyst consensus is Hold, not Buy; 54% rate it a buy while most others do not
+- Stock down 12% over the past year and trades 16% below its 52-week high of $384.89
+- Three-year revenue growth is just 6% per year; annual earnings per share growth at 10% relies on buybacks and margin gains
+- Analysts are split: 54% say buy but consensus is Hold; 35 analysts covering signals debate
 
-**Watch next:** Track whether the recent upward price momentum (up 4.3% in one month) continues or reverses after a year of losses.
+**Watch next:** Whether quarterly revenue growth can sustain above 8% or slips back to the 6% long-term trend, which would signal whether the company is accelerating or just cycling.
 
-**Tends to suit:** Long-term investors who value stable, profitable companies with strong cash flow and can tolerate 26% annual volatility without panic selling.
+**Tends to suit:** Suits buy-and-hold investors comfortable with financial services who prioritize current income through dividends and free cash flow over near-term price appreciation.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $41.3B (+6% vs prior year)

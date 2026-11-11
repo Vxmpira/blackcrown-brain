@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Pullback in uptrend
 
-## Profitable travel platform generating strong cash but weighed down by debt and price weakness
+## Travel booking platform shows strong cash generation but faces debt and analyst caution
 
-Expedia is an online travel booking platform that keeps 9% of revenue as profit and generates $3.1B in free cash annually. Revenue grew 12% last quarter, but the stock is down 24% from its 52-week high and flat over the past year.
+Expedia is a travel services company that helps people book flights, hotels, and vacations. It generated $14.7B in revenue last year with a 9% profit margin and turned that into $3.1B in free cash flow. The stock is down 3% over the past year but up 60% over five years.
 
 ### What is working
-- Free cash flow yield of 10.1% means the company generates cash relative to its market value faster than many peers
-- Net margin of 9% and operating margin of 13% show the core business converts sales into profit efficiently
-- Share count fell 18.4% over three years through buybacks, which concentrates ownership among remaining shareholders
+- Profitability is strong: the company keeps 9% of every dollar of revenue as profit, and its free cash flow margin sits at 21%
+- Valuation looks reasonable: the stock trades at 15x earnings with a free cash flow yield of 10.1%, higher than many growth companies
+- The company is rewarding shareholders: share count fell 18.4% over three years through buybacks, concentrating ownership
 
 ### What to be careful about
-- Debt of $5.5B is 3.3x shareholder equity, leaving limited room to weather downturns or invest in growth
-- Stock is down 24% from its 52-week high of $339.13 and up just 0.2% over the past year despite 12% latest quarter revenue growth
-- Analyst consensus is Hold with only 48% calling it a buy; 44 analysts covering suggests mature, uncertain sentiment
+- Debt is elevated: the company owes $5.5B against $5.0B in cash, leaving debt at 3.3x shareholder equity
+- Analyst sentiment is mixed: 48% rate it a buy while consensus is Hold, and only 56 of 100 on analyst scoring
+- The stock is volatile and pulled back recently: 52-week volatility is 52%, the price fell 5% in the past month, and it sits 23% below its 52-week high
 
-**Watch next:** Whether the recent quarterly revenue acceleration (12%) can sustain while the stock remains 24% below its peak, signaling whether growth is genuine or temporary.
+**Watch next:** Whether the latest quarter revenue growth of 12% can hold as the price momentum weakens and debt levels remain a structural challenge.
 
-**Tends to suit:** Long-term investors comfortable with cyclical travel demand and elevated debt levels who value current cash generation over near-term price momentum.
+**Tends to suit:** Long-term investors comfortable with travel industry cyclicality who prioritize cash generation and buybacks over balance sheet strength.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $14.7B (+8% vs prior year)

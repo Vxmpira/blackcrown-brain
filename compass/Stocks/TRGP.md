@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong pipeline operator with high leverage but solid cash generation and analyst backing
+## Targa Resources rides energy midstream strength with heavy debt load
 
-Targa Resources moves oil and gas through pipelines and processing facilities. The company just posted 35% revenue growth in the latest quarter and generates $1.9B in annual profit, though it carries $19.8B in debt against $2.1B in shareholder equity.
+Targa Resources operates oil and gas pipeline and processing infrastructure in the United States. The company just reported a +35% revenue jump in its latest quarter and returned to growth, though its three-year revenue trend has been flat. It carries substantial debt relative to shareholder equity.
 
 ### What is working
-- Price momentum: Up 63% in one year and trading 76% of the way up its 52-week range
-- Latest growth: Latest quarter revenue jumped 35% year over year, and earnings per share rose 48%
-- Cash returns: Shrinking share count by 6% over three years, plus 2.3% dividend yield from free cash flow
+- Price up 72% over the past year and sits near 52-week highs, 84% of the way up its yearly range
+- Latest quarter revenue surged 35% year over year, reversing a three-year decline of 7% annually
+- Analyst consensus is strong: 30 analysts cover the stock with 90% rating it a buy
 
 ### What to be careful about
-- Heavy debt load: Debt is 5.2x shareholder equity, meaning debt far outweighs owner stake
-- Expensive valuation: Trading at 26x earnings with only a 1.0% free cash flow yield
-- Long-term revenue decline: Revenue down 7% annually over the last three years before the recent quarter surge
+- Debt is 5.2x shareholder equity, meaning liabilities far outweigh shareholder ownership
+- Valuation is stretched: trades at 26x earnings with a free cash flow yield of only 1.0%
+- Yearly volatility runs 30%, making price swings substantial for long-term holders
 
-**Watch next:** Whether the 35% quarterly revenue growth is a new trend or a one-time spike, since three-year revenue has been falling.
+**Watch next:** Whether the latest quarter's 35% revenue jump signals a sustained recovery or a one-time spike, given the three-year revenue decline.
 
-**Tends to suit:** Long-term investors comfortable with capital-intensive infrastructure companies that use debt financing and prioritize steady distributions over growth.
+**Tends to suit:** Investors comfortable with high leverage and cyclical energy exposure who value current dividend yield (2.3%) and buyback activity over near-term valuation.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $17.0B (+4% vs prior year)

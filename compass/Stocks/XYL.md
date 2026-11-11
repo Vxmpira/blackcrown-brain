@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Bearish read · trend: Downtrend
 
-## Industrial machinery maker with strong balance sheet but facing recent sales slowdown
+## Water tech leader faces sharp price decline despite solid cash generation
 
-Xylem is an industrials company that generated $9.0B in revenue over the past year with an 11% profit margin. The company has grown revenue 18% annually over three years, but the latest quarter showed revenue down 3% year over year. Its balance sheet is very strong with debt at just 0.3x shareholder equity.
+Xylem is an industrial machinery company with $9.0B in annual revenue and an 11% profit margin. It generates strong free cash flow of $910.0M but has seen its stock fall 37% over the past year while recent quarterly revenue declined 3% year over year.
 
 ### What is working
-- Balance sheet is fortress-like: debt is only 0.3x equity, well below typical industrial peers
-- Three-year revenue growth at 18% annually shows long-term expansion, with $910M in free cash flow generated last year
-- Profitability holds steady: 11% net margin and 14% operating margin mean the company keeps significant earnings from each sales dollar
+- Strong balance sheet with debt at only 0.3x shareholder equity, leaving room for flexibility
+- Consistent free cash flow of $910.0M and 10% free cash flow margin show reliable cash generation
+- Long-term revenue growth of 18% annually over 3 years, despite recent quarterly slowdown
 
 ### What to be careful about
-- Stock is down 35% over the past year and sits near the low end of its 52-week range at $97.62, suggesting recent investor caution
-- Latest quarter revenue fell 3% year over year after years of growth, which may signal demand weakness or market headwinds
-- Share count has grown 34.8% over three years, which dilutes existing shareholders' ownership stake and future earnings per share
+- Stock down 37% in the past year and sits only 11% up from its 52-week low of 88.23
+- Latest quarter revenue fell 3% year over year, signaling a recent slowdown in business
+- Share count has grown 34.8% over 3 years, diluting existing shareholder ownership
 
-**Watch next:** Watch whether the next few quarterly revenue reports can return to year-over-year growth, since the latest quarter's 3% decline marks a sharp turn from the prior three-year trend.
+**Watch next:** Whether the latest quarter's 3% revenue decline reverses or continues, as this marks the first real weakness in the long-term growth trend.
 
-**Tends to suit:** Suits long-term investors comfortable with cyclical industrial companies that are in a near-term downturn but have strong financial footing.
+**Tends to suit:** Investors comfortable with industrial cyclicals who want cash flow and a strong balance sheet but can tolerate ongoing price volatility and recent momentum headwinds.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $9.0B (+6% vs prior year)

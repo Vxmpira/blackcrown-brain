@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Neutral read · trend: Turning up
 
-## Asset manager with strong cash generation but recent revenue decline raises questions
+## Asset manager with strong cash generation but recent revenue drop raises questions
 
-Apollo Global Management is a large financial services firm that manages assets globally. The company grew revenue 43% annually over three years but saw latest quarter revenue drop 52% year over year. It keeps 11% of revenue as profit and generates significant free cash flow.
+Apollo Global Management is a large financial services firm managing investments globally. It posted $32.0B in annual revenue with $3.4B in profit, but the latest quarter showed a sharp 52% revenue decline compared to a year ago.
 
 ### What is working
-- Free cash flow yield of 10.0% means the company converts revenue to cash efficiently relative to its market value
-- Return on equity of 21% shows the company generates solid returns on shareholder capital
-- Revenue up 23% in full year 2025 and up 43% annually over three years demonstrates long-term expansion
+- Free cash flow of $7.2B provides substantial resources; yield of 10.0% is notably high
+- Return on equity stands at 21%, meaning the company generates solid returns on shareholder capital
+- 71% of 28 analysts rate it a buy, suggesting broad professional confidence in the business
 
 ### What to be careful about
-- Latest quarter revenue fell 52% year over year, signaling a sharp recent slowdown in the core business
-- Earnings per share declined 24% year over year despite full-year revenue growth, showing profit pressure
-- Stock trades at 38x earnings, which is elevated relative to typical asset managers, leaving less margin for error
+- Latest quarter revenue dropped 52% year over year, signaling a major near-term weakness
+- Earnings per share fell 24% year over year despite full-year revenue growing 23%
+- Trades at 38x earnings, one of the highest valuation multiples on the sheet; historical average for the market is typically 15-20x
 
-**Watch next:** The gap between strong full-year 2025 revenue growth and the 52% latest quarter decline needs clarification in upcoming earnings to understand whether this is temporary or structural.
+**Watch next:** Track the next quarterly revenue report to determine if the 52% quarter-over-quarter decline was temporary or signals a broader slowdown in the business.
 
-**Tends to suit:** Investors comfortable with financial services volatility and willing to accept near-term weakness if convinced the quarter was an anomaly rather than a trend reversal.
+**Tends to suit:** Investors comfortable with financial services volatility and seeking cash-generative assets, but who can tolerate near-term uncertainty on earnings direction.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $32.0B (+23% vs prior year)

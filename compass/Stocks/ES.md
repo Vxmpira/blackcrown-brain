@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Neutral read · trend: Turning up
 
-## Utility with solid profit margin but negative cash flow and rising debt concerns
+## Utility stock with rising dividend but shrinking cash flow raises durability questions
 
-Eversource Energy is a regulated electric utility generating $13.5B in annual revenue with a 13% net profit margin. The company is growing modestly at 3% annually while paying a 4.6% dividend, but it is burning cash and carrying $29.1B in debt against $1.8B in equity.
+Eversource Energy is a regulated electric utility with $13.5B in annual revenue and a 4.6% dividend yield. The company posted 101% earnings growth year over year, though revenue growth remains modest at 2% to 3% annually. It is currently burning cash rather than generating it.
 
 ### What is working
-- Net margin of 13% and operating margin of 22% show profitable core operations
-- Latest annual revenue jumped 14% versus prior year, though this masks slower 3-year trend
-- Dividend yield of 4.6% offers income to patient holders
+- Earnings per share jumped 101% year over year, a significant jump for a utility
+- Dividend yield of 4.6% provides regular income to shareholders
+- Price has risen 7.3% over the past month and sits above its 200-day average
 
 ### What to be careful about
-- Free cash flow is negative at -$45.1M; the company is not generating cash to fund operations or returns
-- Debt of $29.1B is 1.8x shareholder equity, meaning leverage is elevated for a utility
-- Stock price down 5% over the past year and trades 9% below its 52-week high; momentum is weak
+- Free cash flow is negative at -$45.1M, meaning the company is spending more than it earns
+- Debt of $29.1B is 1.8x shareholder equity, a moderately high leverage ratio for a utility
+- Share count has grown 6.9% over three years, diluting existing shareholders
 
-**Watch next:** Whether free cash flow turns positive in coming quarters, since negative FCF combined with high debt and dividend payments raises sustainability questions.
+**Watch next:** Monitor whether free cash flow returns to positive territory next quarter, since negative cash flow makes dividend sustainability a risk.
 
-**Tends to suit:** Conservative income-focused investors who are comfortable with slow growth and can tolerate utility sector volatility, provided they monitor cash flow trends closely.
+**Tends to suit:** This profile suits investors comfortable with regulated utilities, high current income, and moderate leverage who can tolerate modest growth and cash flow headwinds.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $13.5B (+14% vs prior year)

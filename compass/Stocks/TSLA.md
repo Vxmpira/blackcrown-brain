@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Neutral read · trend: Turning up
 
-## Tesla trades at extreme valuation while growth stalls and profitability compresses
+## Tesla shows mixed signals: strong cash, stalled growth, expensive valuation
 
-Tesla is a $1.5 trillion auto manufacturer with $94.8 billion in annual revenue. The company generated $3.9 billion in net income last year and $6.2 billion in free cash flow, but growth has stopped and profit margins are thin.
+Tesla is a large automaker with $94.8B in annual revenue and $9.9B in net cash. Over the past year, revenue fell 3%, earnings per share dropped 47%, and the stock declined 12%. The company generates meaningful free cash flow but trades at an extremely high price relative to current earnings.
 
 ### What is working
-- Strong balance sheet with $9.9B in net cash (cash minus debt)
-- Free cash flow generation of $6.2B shows the business converts sales to actual cash
-- Analysts are split but 54% rate it a buy, suggesting some see value ahead
+- Strong balance sheet: $9.9B net cash provides financial flexibility
+- Positive free cash flow: $6.2B generated in latest fiscal year
+- Price momentum: Up 4.2% over the past month; above 200-day average
 
 ### What to be careful about
-- Revenue fell 3% year over year; latest quarter showed 0% growth
-- Earnings per share dropped 47% year over year despite $94.8B in sales
-- Stock trades at 467x earnings (P/E ratio), far above historical norms for automakers
+- Valuation is extreme: P/E ratio of 467x is in rare territory
+- Earnings collapsing: EPS down 47% year over year
+- Revenue stalled: Down 3% annually; latest quarter flat at -0%
 
-**Watch next:** Whether revenue returns to growth and whether profit margins expand back toward historical levels, as flat sales and compressed profits conflict with the valuation multiple.
+**Watch next:** Whether revenue returns to growth in coming quarters, since the latest quarter showed zero year-over-year expansion after a full fiscal year of 3% decline.
 
-**Tends to suit:** Investors seeking stable, profitable cash generation from mature businesses should look elsewhere; this profile suits only those who believe in significant future growth that does not yet show in the numbers.
+**Tends to suit:** Long-term investors comfortable with high volatility (46% yearly), extreme valuations, and near-term earnings pressure who believe in a specific thesis about the company's future.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $94.8B (-3% vs prior year)

@@ -16,23 +16,23 @@ tags: [korvus-compass, stock]
 
 ## Dialysis operator with strong cash generation but heavy debt load
 
-DaVita operates kidney dialysis facilities and related healthcare services. Revenue grows steadily at 6% yearly, and the company generates substantial free cash flow. However, debt sits at 78x shareholder equity, which is a major structural concern.
+DaVita operates kidney dialysis and related care facilities. The company generates substantial free cash flow and has cut its share count by 20.8% over three years, but carries $10.8B in debt against only $495.6M in cash.
 
 ### What is working
-- Free cash flow yield of 11.1% is well above typical stock returns, showing cash generation relative to market value
-- Share count down 20.8% over three years through buybacks, concentrating ownership for remaining shareholders
-- Stock up 48% over the past year and sits 57% of the way up its 52-week range, showing upward momentum
+- Free cash flow yield of 11.1% and operating margin of 15% show efficient cash conversion from core business
+- Stock up 52.7% over the past year and trading 58% of the way up its 52-week range, above both 50-day and 200-day averages
+- Share buybacks reduced count by 20.8% in three years, concentrating ownership among remaining shareholders
 
 ### What to be careful about
-- Debt of $10.8B against only $138M in shareholder equity (78x ratio) leaves little room for setbacks
-- Earnings per share fell 8% year over year despite revenue growth, signaling margin pressure
-- Stock down 9% over six months and 24% from its 52-week high despite the longer-term gains, suggesting recent weakness
+- Debt of $10.8B is 78.0x shareholder equity, meaning the company is extremely leveraged relative to its book value
+- Earnings per share fell 8% year over year despite revenue growing 5%, signaling profit pressure
+- Revenue growth slowed to 5% latest quarter and averages only 6% annually over three years; stock is down 7.4% over six months
 
-**Watch next:** Whether earnings per share stabilizes or continues to decline despite revenue growth will determine if the company can service its debt while investing in the business.
+**Watch next:** Monitor whether the company can sustain its 11.1% free cash flow yield while servicing $10.8B in debt amid slowing revenue growth.
 
-**Tends to suit:** Long-term investors comfortable with high financial leverage in exchange for strong current cash yields and stable healthcare revenue streams.
+**Tends to suit:** Investors comfortable with cyclical healthcare operations who value current cash generation over rapid growth and accept high leverage as a structural feature.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $13.6B (+6% vs prior year)

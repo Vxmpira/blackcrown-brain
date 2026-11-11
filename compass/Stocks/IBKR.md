@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Losing steam
 
-## Hyper-profitable broker with stunning cash generation, but valuation and share dilution raise questions
+## Profitable broker with surging earnings but stretched valuation and slowing price
 
-Interactive Brokers is a financial services company that generated $2.4B in revenue last year with extraordinary profitability. The company converted 179% of revenue into net income and produced $15.8B in free cash flow. Yet the stock trades at 113 times earnings, and share count has grown 338% over three years.
+Interactive Brokers is a financial services firm that generated $2.4 billion in revenue in 2025 with exceptional profitability. The company is growing earnings quickly and generates massive free cash flow, but its stock price has lost momentum over the past six months and trades at a very high multiple of earnings.
 
 ### What is working
-- Revenue growing 14% year over year in the latest quarter, with 23% growth in full-year 2025
-- Net margin of 179% means the company keeps nearly two dollars in profit for every dollar of sales
-- Free cash flow yield of 11.9% suggests strong cash generation relative to market value
+- Earnings per share jumped 28% year over year, outpacing revenue growth of 14%
+- Net profit margin of 179% and return on equity of 70% show exceptional efficiency
+- Free cash flow of $15.8 billion provides financial flexibility for the company
 
 ### What to be careful about
-- P/E ratio of 113x is extremely high; investors pay $113 for every $1 of annual earnings
-- Share count increased 338% over three years, diluting existing shareholders significantly
-- Stock price down 11.6% in the past month and 21% below its 52-week high; losing upward momentum
+- Stock trades at 113x earnings, one of the highest multiples in the dataset
+- Price is down 16% from its 52-week high and down 3.1% over the past six months
+- Share count has grown 338.2% over three years, diluting existing shareholders
 
-**Watch next:** Whether revenue growth can sustain double-digit rates while the company manages share dilution and the market's willingness to maintain a 113x valuation multiple.
+**Watch next:** Monitor whether revenue growth rate holds above 14% and whether the stock can stabilize above its 200-day price average after six months of decline.
 
-**Tends to suit:** Investors comfortable with high valuations who prioritize companies with exceptional profit conversion and cash generation over near-term price stability.
+**Tends to suit:** Long-term investors comfortable holding profitable, volatile financial stocks and who can tolerate high valuations in exchange for strong cash generation and earnings growth.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $2.4B (+23% vs prior year)

@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Uptrend
 
-## Steel maker with strong balance sheet and buybacks, but earnings fell despite revenue jump
+## Steel company riding strong price momentum but faces slowing revenue trend
 
-Steel Dynamics is a basic materials company that generated $18.2B in revenue and $1.2B in net income last year. The latest quarter showed a big revenue spike of 35% year over year, but full-year earnings per share dropped 19% compared to the prior year. The company has a clean balance sheet and is returning cash to shareholders through buybacks and a 1.5% dividend.
+Steel Dynamics is a U.S. steelmaker with $18.2B in annual revenue. The company is profitable, generates free cash, and has very low debt relative to shareholder equity. Its stock price has surged 57% over the past year and sits 66% of the way up its 52-week range.
 
 ### What is working
-- Price momentum is solid: up 54% over the past year and trading 63% of the way up its 52-week range
-- Balance sheet is fortress-like: debt is only 0.4x shareholder equity, with $928.6M in cash
-- Shareholder rewards are active: share count shrank 19.6% over three years via buybacks, and the company pays a 1.5% dividend yield
+- Stock price up 57% over the past year, trading above both its 50-day and 200-day moving averages
+- Balance sheet is strong: debt is only 0.4x shareholder equity, leaving room for flexibility
+- Shrinking share count of 19.6% over 3 years shows the company is returning cash through buybacks
 
 ### What to be careful about
-- Earnings moved the wrong way: EPS fell 19% year over year despite the strong latest quarter result
-- Long-term revenue is shrinking: down 7% a year over the past three years, though latest quarter bounced 35%
-- Profitability margins are thin: the company keeps only 7% of revenue as net profit and 3% as free cash flow
+- Three-year revenue trend is negative at 7% decline annually, even though latest quarter was up 35%
+- Earnings per share fell 19% year over year despite revenue growth, signaling margin pressure
+- Free cash flow margin of only 3% means most revenue is consumed by operations and capital needs
 
-**Watch next:** Watch whether the 35% latest-quarter revenue surge represents a real turnaround or a temporary spike, given that three-year revenue is down 7% annually.
+**Watch next:** Track whether the latest quarter's 35% revenue jump represents a recovery in the three-year declining trend or remains a temporary spike.
 
-**Tends to suit:** Suits long-term investors who can tolerate cyclical commodity exposure and want to own a capital-light industrial business with solid shareholder return mechanics and fortress balance sheet strength.
+**Tends to suit:** Investors comfortable with cyclical commodity exposure who want a profitable, low-debt company with shareholder buybacks and dividend income.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $18.2B (+4% vs prior year)

@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Turning up
 
-## IBM trades lower but profits stronger; debt level is the main concern
+## Profitable tech giant with strong cash generation and rising debt load
 
-IBM is a large technology services company generating $67.5B in annual revenue. It has turned in solid profit growth and strong cash generation, but its stock price has fallen 20% over the past year and debt sits at 1.6 times shareholder equity.
+IBM is a large technology services company generating $67.5 billion in annual revenue with 16% profit margins and $12.1 billion in free cash flow. Growth is modest at 4% annually, but profitability and cash generation are substantial. The company carries $56.8 billion in debt against $233.6 billion in market value.
 
 ### What is working
-- Net income jumped 74% year over year, showing improved profitability despite modest revenue growth of 5% last quarter
-- Free cash flow margin of 18% and return on equity of 30% show the business converts sales into cash and shareholder value efficiently
-- Valuation offers a 5.2% free cash flow yield plus a 4.3% dividend yield, totaling nearly 9.5% if held for income
+- Free cash flow of $12.1B supports a 4.3% dividend yield and shareholder returns
+- Return on equity at 30% shows efficient use of shareholder capital
+- Earnings per share jumped 74% year over year, driven by profitability gains
 
 ### What to be careful about
-- Stock is down 20% over the past year and sits 26% below its 52-week high, suggesting recent investor skepticism
-- Debt of $56.8B is 1.6 times shareholder equity, meaning the company carries meaningful leverage relative to its ownership base
-- Share count has grown 4% over three years, diluting existing shareholders even as the company returns cash via dividends
+- Debt is 1.6x shareholder equity, a leverage level worth monitoring
+- Stock down 19.7% over the past year despite strong fundamentals
+- Share count growing by 4% over 3 years dilutes existing shareholders
 
-**Watch next:** Monitor whether IBM can sustain revenue growth above 5% per quarter while managing its debt-to-equity ratio below 1.6x, since profitability is strong but growth remains sluggish.
+**Watch next:** Whether the debt-to-equity ratio of 1.6x stabilizes or increases as the company manages its $56.8 billion debt load.
 
-**Tends to suit:** Suits long-term investors seeking stable cash flow and dividend income who are comfortable with moderate debt levels and can tolerate short-term price weakness.
+**Tends to suit:** Long-term investors seeking stable dividend income and cash generation from an established tech services company that can tolerate modest growth and elevated leverage.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $67.5B (+8% vs prior year)

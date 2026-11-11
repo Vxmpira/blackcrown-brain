@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Turning up
 
-## Profitable auto-auction business stumbling on growth, but cash engine still runs strong
+## Profitable auto auction company shows strong cash generation but growth has stalled
 
-Copart runs vehicle auctions for insurance companies and dealers. The company is highly profitable with a 32% net margin and generates $1.3B in free cash yearly. However, revenue growth has slowed to near flat, and the stock price has dropped 21% over the past year.
+Copart is an online vehicle auction platform that keeps about one-third of every revenue dollar as profit. The company generates substantial free cash flow and carries nearly $2 billion in net cash. However, revenue growth has slowed to flat, and the stock is down 22% over the past year.
 
 ### What is working
-- Operating margin of 35% and net margin of 32% show the core business runs efficiently
-- Free cash flow margin of 27% means nearly a quarter of every revenue dollar converts to cash
-- Net cash position of $1.9B with minimal debt ($11.0M) provides financial flexibility
+- Converts 32% of revenue into profit, well above typical business standards
+- Generated $1.3B in free cash flow last year with a 27% free cash flow margin
+- Holds $1.9B in net cash and bought back 1% of shares over three years
 
 ### What to be careful about
-- Revenue grew only 2% in the latest quarter and 0% annually, suggesting the auction market may be slowing
-- Earnings per share declined 3% year over year despite high profitability
-- Stock down 21% over the past year and trades 23% below its 52-week high
+- Revenue flat year over year after averaging 6% annual growth over three years
+- Stock down 22% over the past year and trades 23% below its 52-week high
+- Earnings per share fell 3% despite flat revenue, signaling margin pressure
 
-**Watch next:** Watch whether quarterly revenue growth rebounds above 2% or continues to flatten, since growth has become the weak link in an otherwise cash-generative business.
+**Watch next:** Whether quarterly revenue growth re-accelerates above the recent 2% pace, since annual revenue has stalled at $4.7B.
 
-**Tends to suit:** Suits patient investors drawn to profitable, cash-generating companies that can weather slow growth and may appeal to those who buy and hold cyclical stocks through price dips.
+**Tends to suit:** Long-term investors who value steady cash generation and balance-sheet strength over near-term growth acceleration, and who can tolerate 33% yearly price swings.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-07-31)
 - Revenue $4.7B (+0% vs prior year)

@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Neutral read · trend: Turning up
 
-## Regulated utility with steady revenue growth but burning cash and heavy debt load
+## Regulated gas utility with modest growth but negative cash flow and high debt load
 
-Atmos Energy is a natural gas utility company with $4.7 billion in annual revenue. The business keeps 25% of revenue as profit and pays a 2.9% dividend, but it is burning cash and carries $10.2 billion in debt against $521 million in cash.
+Atmos Energy operates regulated natural gas distribution in the United States. The company grows revenue slowly at 4% annually, keeps 25 cents of every dollar as profit, and pays a 2.9% dividend. It is currently burning cash rather than generating it.
 
 ### What is working
-- Revenue grew 13% year over year in the latest fiscal year and earnings per share rose 9%
-- Debt-to-equity ratio of 0.7x is conservative for a regulated utility
-- Operating margin of 33% shows the core business runs efficiently
+- Revenue grew 13% year over year in the latest fiscal year, outpacing the 3-year average of 4%
+- Strong balance sheet relative to size: debt is only 0.7x shareholder equity, well below risky levels
+- Stock price up 88% over five years and currently 54% up from its 52-week low, showing long-term upward trajectory
 
 ### What to be careful about
-- Free cash flow is negative $1.5 billion, meaning the company spends more cash than it earns
-- Price is down 2% over the past year and sits 10% below its 52-week high
-- Share count has grown 16.3% over three years, diluting existing shareholders
+- Free cash flow is negative at -1.5 billion dollars, meaning the company is spending more than it generates
+- Share count has grown 16.3% in three years, diluting existing shareholders' ownership stakes
+- Free cash flow yield is -5.2%, indicating the company cannot sustain its dividend from operating cash alone
 
-**Watch next:** Monitor whether free cash flow turns positive in coming quarters, since the company is currently burning cash despite strong revenue growth.
+**Watch next:** Monitor whether free cash flow turns positive in coming quarters, as the company's current negative FCF cannot support its dividend and debt service long-term.
 
-**Tends to suit:** Long-term investors comfortable with regulated utilities who prioritize steady dividends over capital appreciation and can tolerate negative free cash flow from a regulated business model.
+**Tends to suit:** Long-term investors seeking steady dividend income who are comfortable with slow growth and willing to hold through capital-intensive business cycles typical of regulated utilities.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-09-30)
 - Revenue $4.7B (+13% vs prior year)

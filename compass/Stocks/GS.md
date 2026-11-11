@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Neutral read · trend: Downtrend, bouncing
 
-## Goldman Sachs shows profit strength but stock is down from its peak
+## Goldman Sachs shows strong recent growth but stock price is retreating from highs
 
-Goldman Sachs is a major investment bank and financial services firm. It just posted strong recent revenue growth of 23% year over year and keeps 29% of each dollar as profit. The stock price has fallen 21% from its 52-week high, even though the company earned more money.
+Goldman Sachs is a large US investment banking and trading firm. Recent quarterly revenue jumped 23% year over year and the company keeps 29% of revenue as profit. The stock price has risen 16% over the past year but is now 20% below its 52-week high and trading below its 200-day average.
 
 ### What is working
-- Latest quarter revenue jumped 23% compared to a year ago, well above the 7% average growth rate
-- Net profit margin of 29% means the company keeps nearly a third of revenue as earnings
-- Trading at 12x earnings with 3.2% dividend yield and ongoing stock buybacks shrinking share count by 11.3% over three years
+- Latest quarter revenue grew 23% year over year, the strongest pace shown in the data
+- Net profit margin of 29% means the company converts nearly a third of sales into earnings
+- Stock trades at 12x earnings, which ranks at the top of the valuation scale on this measure
 
 ### What to be careful about
-- Stock sits 36% of the way up its 52-week range and is 21% below the high, showing a downtrend
-- Free cash flow is negative at minus $47.2B, meaning cash from operations did not exceed capital needs
-- Debt of $228.7B is close to cash on hand of $176.8B, leaving limited cushion; analysts are split with only 52% saying buy
+- Free cash flow is negative at -47.2 billion dollars, a major red flag for cash generation
+- Stock is down 20% from its 52-week high and sits below its 200-day moving average
+- Yearly volatility of 33% means the stock swings significantly; analyst consensus is only Hold with 48% not rating it a buy
 
-**Watch next:** Whether the 23% quarterly revenue surge can sustain or whether it represents a one-time spike before returning to the 7% baseline.
+**Watch next:** Whether free cash flow turns positive in coming quarters, since negative cash flow of this scale is unusual for a highly profitable company.
 
-**Tends to suit:** Investors comfortable with financial sector volatility who seek current income from dividends and can tolerate 33% yearly price swings.
+**Tends to suit:** Investors comfortable with financial sector volatility who value current dividend yield (3.2%) and buyback activity over near-term price momentum.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $58.3B (+9% vs prior year)

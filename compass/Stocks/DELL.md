@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Pullback in uptrend
 
-## Dell surges 129% in a year but retreats 42% from peak, profits thin but cash strong
+## Dell surges 162% in a year but now 36% off its peak with heavy debt
 
-Dell is a computer hardware and infrastructure company with $113.5B in annual revenue. The company just posted 58% quarterly revenue growth and is generating $8.6B in free cash flow yearly. Profitability margins remain modest at 5% net income.
+Dell is a large computer hardware and infrastructure company generating $113.5 billion in annual revenue. It just posted a 58% jump in latest quarter revenue and swung to strong profitability, though it carries $34.5 billion in debt against $11.6 billion in cash.
 
 ### What is working
-- Latest quarter revenue jumped 58% year over year, showing strong recent demand
-- Free cash flow of $8.6B provides resources for dividends (2.0% yield) and share buybacks that shrunk count 9.2% over 3 years
-- 72% of analysts rate it a buy, with consensus opinion positive
+- Stock up 162% over the past year and sits above its 200-day moving average, showing upward momentum.
+- Latest quarter revenue jumped 58% year over year; company now keeps 5% of revenue as profit and generates $8.6 billion in free cash flow annually.
+- Analyst consensus is Buy with 72% of 36 analysts rating it a buy; company returning cash via share buybacks (down 9.2% over 3 years) and 2.0% dividend yield.
 
 ### What to be careful about
-- Stock has fallen 41.7% in the last month and sits 43% below its 52-week high of $588.4, suggesting momentum has reversed sharply
-- Debt of $34.5B is 5.4x shareholder equity, leaving limited cushion if business weakens
-- Net profit margin stays flat at 5%, meaning the company keeps only 5 cents of every dollar as profit
+- Stock is down 34.7% in the past month and sits 36% below its 52-week high; yearly volatility is 78%, meaning big swings are common.
+- Debt is 5.4 times shareholder equity, a significant leverage level that limits financial flexibility in downturns.
+- Three-year revenue growth is only 4% annually despite recent acceleration, suggesting the company's core business grew slowly until recently.
 
-**Watch next:** Whether the steep one-month decline of 41.7% reflects a temporary pullback or signals that the 129% yearly rally has peaked.
+**Watch next:** Whether the 58% jump in latest quarter revenue represents sustainable demand or a temporary spike, since three-year growth was only 4% annually.
 
-**Tends to suit:** Investors comfortable with hardware cyclicality who want cash generation and shareholder returns but can tolerate high debt and thin margins.
+**Tends to suit:** Investors comfortable with high volatility and heavy debt loads who believe in Dell's recent recovery and want exposure to infrastructure hardware demand.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-01-30)
 - Revenue $113.5B (+19% vs prior year)

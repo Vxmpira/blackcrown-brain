@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Turning up
 
-## Southwest Airlines shows recovery momentum but profit margins stay thin
+## Southwest Airlines grows revenue but struggles with profitability and cash
 
-Southwest is a major US airline operator with $28.1B in annual revenue. The company is growing revenue but keeping only 2% as profit, while burning cash and carrying $4.9B in debt against $3.6B in cash.
+Southwest is a U.S. airline with $28.1 billion in annual revenue. The company is growing sales but keeping only 2 cents of profit per dollar earned. It is burning cash despite a recent uptick in quarterly revenues.
 
 ### What is working
-- Stock price up 42% over the past year and sitting 64% of the way up its 52-week range
-- Latest quarter revenue jumped 21% year over year, accelerating from the flat full-year result
-- Shareholder returns strong: share count down 13.1% over 3 years via buybacks plus 2.9% dividend yield
+- Stock price up 42% over the past year and sits 65% of the way up its 52-week range
+- Latest quarter revenue jumped 21% year over year, showing recent demand strength
+- Share count down 13.1% over three years through buybacks; dividend yield at 2.9%
 
 ### What to be careful about
-- Free cash flow is deeply negative at -$831.0M; company is burning cash despite revenue growth
-- Profit margins razor-thin at 2% net margin and 2% operating margin, leaving little room for cost shocks
-- Stock trades at 21x earnings with 37/100 valuation score; analyst consensus is Hold, not Buy
+- Free cash flow is negative at -$831.0M and margin is -3%, meaning the company is burning money
+- Net profit margin is just 2%, among the lowest in industrials; return on equity only 6%
+- Stock trades at 21x earnings with debt at $4.9B against equity of $7B; debt-to-equity 0.7x is manageable but limits flexibility
 
-**Watch next:** Whether free cash flow turns positive in coming quarters, since the company currently burns cash despite revenue growth and carries debt of 0.7x equity.
+**Watch next:** Watch whether free cash flow turns positive in upcoming quarters, as the negative $831M burn and -3% margin are the biggest red flags in the data.
 
-**Tends to suit:** Investors comfortable with cyclical, capital-intensive businesses that may see volatile earnings and are willing to hold through industry cycles.
+**Tends to suit:** Suits long-term investors who can tolerate airline industry cyclicality and are betting on a turnaround in cash generation and margins rather than current profitability.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $28.1B (+2% vs prior year)

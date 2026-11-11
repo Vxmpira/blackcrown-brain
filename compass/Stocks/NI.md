@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Neutral read · trend: Turning up
 
-## Utility company growing revenue but burning cash, while analysts stay bullish
+## Regulated utility with steady dividend but negative cash flow raises sustainability questions
 
-NiSource is a regulated gas utility with 6.5 billion dollars in annual revenue. The company is growing revenue modestly and turning a profit, but its free cash flow is negative and debt is high relative to shareholder equity.
+NiSource is a U.S. gas utility company generating $6.5B in annual revenue with 14% net profit margins and a 3.8% dividend yield. The company is burning cash despite solid earnings, carrying $17.5B in debt against $21.5B in market value, and diluting shareholders at 7.2% over three years.
 
 ### What is working
-- Revenue jumped 23% last year and latest quarter revenue grew 5% year over year
-- Analysts overwhelmingly back the stock: 81% rate it a buy, consensus is Buy
-- Company kept 14% of revenue as net profit and generated 929.5 million dollars in net income
+- Analysts strongly favor it: 81% of 26 covering analysts rate it a buy, consensus Buy rating
+- Earnings growing faster than revenue: EPS up 20% year over year while revenue up only 5% in latest quarter
+- Price momentum turning positive: up 9.8% in the past month and trading 65% of the way up its 52-week range
 
 ### What to be careful about
-- Free cash flow is negative 420 million dollars; company is burning cash despite profitability
-- Debt of 17.5 billion dollars is 1.8 times shareholder equity, which is elevated leverage
-- Stock price sits 8% below its 52-week high and sits below its 200-day moving average
+- Burning cash despite profits: free cash flow is negative $420.0M while net income is positive $929.5M
+- High debt burden: $17.5B in debt is 1.8x shareholder equity, limiting financial flexibility
+- Shareholder dilution and valuation risk: share count up 7.2% over three years, and P/E of 22.83x is expensive for a utility burning cash
 
-**Watch next:** Whether free cash flow improves in coming quarters, since the company is currently burning 420 million dollars annually despite positive net income.
+**Watch next:** Monitor whether free cash flow turns positive in coming quarters, since the company cannot sustain dividends or debt service long-term if it continues losing cash despite $929.5M in annual profit.
 
-**Tends to suit:** Investors seeking regulated utility dividends who are comfortable with high debt levels and negative cash flow in exchange for analyst consensus support and modest revenue growth.
+**Tends to suit:** Long-term investors seeking steady dividend income who can tolerate high debt and negative cash flow in a regulated utility, and who trust analyst consensus over balance sheet mechanics.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $6.5B (+23% vs prior year)

@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Turning up
 
-## Solid insurer trades cheap but growth is slow and price trend is soft
+## Profitable insurer trading cheap with slowing revenue growth
 
-Hartford is a diversified insurance company generating $1.5B in annual revenue. It is highly profitable with a 255% net margin and generates substantial free cash flow of $5.8B per year. The stock trades at a low valuation multiple but faces weak revenue growth.
+Hartford is a diversified insurance company generating $1.5B in annual revenue. It is highly profitable with a 255% net margin, returning 20% on shareholder equity. The stock trades at 8x earnings and pays a 2.4% dividend while buying back shares.
 
 ### What is working
-- Trades at 8x earnings, well below typical market multiples, with a 16.0% free cash flow yield
-- Net margin of 255% and return on equity of 20% show strong operational profitability
-- Share count down 13.1% over 3 years via buybacks; dividend yield 2.4% returns cash to shareholders
+- Valuation is very low at 8x earnings; free cash flow yield is 16.0%
+- Profitability metrics are strong with 255% net margin and 20% return on equity
+- Actively returning cash via 13.1% share count reduction over 3 years plus 2.4% dividend
 
 ### What to be careful about
-- Revenue grew only 2% year over year and 2% annually over 3 years, indicating slow business expansion
-- Price is 7% below its 52-week high and trades below its 200-day moving average, showing downward momentum
-- Analyst consensus is Hold rather than Buy; only 41% of 29 analysts rate it a buy
+- Revenue growth is flat at +2% per year over 3 years and +2% in latest quarter
+- Analysts are split with only 41% rating it a buy; consensus is Hold from 29 analysts
+- Debt stands at $4.4B against only $178.0M cash, leaving limited financial cushion
 
-**Watch next:** Whether revenue growth accelerates beyond 2% annually, since profitability is strong but top-line expansion remains the limiting factor.
+**Watch next:** Whether revenue can accelerate beyond the 2% annual trend; the current slowdown is the primary brake on the investment thesis.
 
-**Tends to suit:** Long-term investors seeking stable, profitable income from a cheap valuation who can tolerate a weakening price trend and slow growth.
+**Tends to suit:** Long-term investors seeking stable cash generation and dividends from a mature, profitable business trading below historical valuations.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $1.5B (+3% vs prior year)

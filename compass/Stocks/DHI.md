@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend, bouncing
 
-## Builder with strong cash, weak growth, and analyst skepticism
+## Homebuilder with strong cash but facing revenue headwinds and earnings decline
 
-D.R. Horton is the largest U.S. homebuilder by revenue ($34.3B). It keeps 10% of sales as profit and generates $3.3B in free cash flow annually. Growth has stalled: revenue fell 7% year over year, and earnings per share dropped 19%.
+D.R. Horton is the largest U.S. homebuilder by revenue at $34.3B annually. It keeps 10% of revenue as profit and generates $3.3B in free cash flow yearly. The company is in a downtrend, with revenue down 7% last year and earnings per share down 19% year over year.
 
 ### What is working
-- Balance sheet is fortress-like: $2.1B in net cash with no debt mentioned
-- Valuation offers income: 7.7% free cash flow yield and P/E of 14.78
-- Capital discipline: share count shrank 12.7% over three years via buybacks
+- Balance sheet is fortress-like: $2.1B net cash with no significant debt
+- Valuation appears cheap: 7.7% free cash flow yield and 15x earnings multiple
+- Returning cash to shareholders: share count down 12.7% over 3 years via buybacks
 
 ### What to be careful about
-- Growth engine stalled: revenue +1% annually over three years, flat in latest quarter
-- Earnings collapsed: net income down 19% year over year
-- Analyst consensus is Hold, only 30% rate it a buy despite 27 analysts covering it
+- Revenue contracted 7% last year and grew only 1% annually over 3 years
+- Earnings per share fell 19% year over year despite strong cash generation
+- Price is 12% below its 52-week high and below its 200-day average; 37% yearly volatility
 
-**Watch next:** Whether the recent one-month surge of 11% signals a revenue recovery or remains a rally in a stalled business.
+**Watch next:** Whether revenue stabilizes from its 7% year-over-year decline, since recent quarterly revenue showed 0% growth.
 
-**Tends to suit:** Long-term investors seeking stable cash flow over growth, comfortable with cyclical housing exposure and willing to hold through periods of flat earnings.
+**Tends to suit:** Long-term investors comfortable with homebuilding cycles who value cash generation and balance sheet strength over near-term earnings growth.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-09-30)
 - Revenue $34.3B (-7% vs prior year)

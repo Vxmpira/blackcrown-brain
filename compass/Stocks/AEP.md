@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Turning up
 
-## Stable utility with solid cash flow, but rising debt and a downward price trend
+## Utility with steady cash generation facing high debt load
 
-American Electric Power is a large regulated electric utility generating $21.7B in annual revenue. The company keeps 17% of revenue as profit and produces steady free cash flow of $3.5B yearly. It pays a 4.5% dividend but carries $49.6B in debt against $69.9B in market value.
+American Electric Power is a regulated electric utility generating $21.7B in annual revenue with a 17% net profit margin. The company produces $3.5B in free cash flow yearly and pays a 4.5% dividend, typical for the sector.
 
 ### What is working
-- Free cash flow yield of 5.0% and 16% free cash flow margin show strong cash generation relative to size
-- Net profit margin of 17% and operating margin of 25% demonstrate disciplined cost control
-- Analyst consensus is Buy with 69% of 29 analysts rating it a buy; latest quarter revenue up 5% year over year
+- Free cash flow yield of 5.0% supports dividend payments and reinvestment
+- Revenue grew 9% year over year; earnings per share up 19%
+- 69% of 29 analysts rate it a buy; trades at 21x earnings
 
 ### What to be careful about
-- Debt is 1.6x shareholder equity, which is elevated for a utility and limits financial flexibility
-- Stock price is 49% of the way up its 52-week range and down 9% from its high; 50-day average is below 200-day average
-- Share count has grown 4.7% over three years, diluting existing shareholders; dividend yield of 4.5% depends on maintaining payout levels
+- Debt of $49.6B is 1.6x shareholder equity, limiting financial flexibility
+- Share count growing 4.7% over 3 years dilutes existing shareholders
+- Stock is down 7% from its 52-week high; long-term growth averaging only 4% annually
 
-**Watch next:** Whether the company can stabilize its debt-to-equity ratio while continuing to grow revenue and maintain its 5% free cash flow yield.
+**Watch next:** Monitor whether debt levels stabilize or decline relative to equity as the company funds infrastructure investments.
 
-**Tends to suit:** Long-term investors seeking regular dividend income who are comfortable holding through downtrends and can tolerate utility sector volatility.
+**Tends to suit:** Long-term investors seeking regular income who are comfortable with slow growth and concentrated exposure to regulated utility returns.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $21.7B (+9% vs prior year)

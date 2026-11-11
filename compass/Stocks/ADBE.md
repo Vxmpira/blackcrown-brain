@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Neutral read · trend: Downtrend
 
-## Profitable software giant losing price momentum despite strong earnings growth
+## Profitable software giant caught between strong cash generation and steep price decline
 
-Adobe is a large software company generating $23.8B in annual revenue with a 30% net profit margin and $9.9B in free cash flow. The company is growing revenue at 11% annually and earnings per share at 35% year over year, but its stock price has fallen 28% over the past year and sits 34% below its 52-week high.
+Adobe is a large software infrastructure company generating $23.8B in annual revenue with a 30% net profit margin and $9.9B in free cash flow. The company is growing revenue 11-13% yearly and shrinking its share count through buybacks. However, the stock price has fallen 28% over the past year and sits 27% of the way up its 52-week range.
 
 ### What is working
-- Exceptional profitability: 30% net margin and 41% free cash flow margin show the business converts sales to cash efficiently
-- Strong earnings momentum: earnings per share up 35% year over year while revenue grew 13% in latest quarter
-- Attractive valuation metrics: trades at 13x earnings with a 10.7% free cash flow yield, and debt is only 0.4x shareholder equity
+- Free cash flow yield of 10.7% and net margin of 30% show strong profit generation relative to business size
+- Revenue growth of 13% year-over-year in latest quarter outpaces the 3-year average of 11% annually
+- Earnings per share jumped 35% year-over-year while debt remains low at 0.4x shareholder equity
 
 ### What to be careful about
-- Stock down 28% over the past year and sits 34% below its 52-week high of $357.53, indicating loss of investor confidence
-- Price is below its 200-day moving average, suggesting the downtrend remains in place despite underlying business strength
-- Analyst consensus is Hold with only 33% of 45 analysts rating it a buy, showing disagreement about current attractiveness
+- Stock down 28% over the past year and 64% over five years, sitting only 27% up from its 52-week low
+- Price is 34% below its 52-week high of $357.53; 50-day average still below 200-day average
+- Only 33% of 45 analysts rate it a buy; consensus is Hold with no majority agreement on direction
 
-**Watch next:** Whether the stock can stabilize above its 200-day moving average ($235 is 25% up its 52-week range) while revenue growth continues at double-digit rates.
+**Watch next:** Whether analyst consensus shifts from Hold toward Buy as the stock stabilizes, or if earnings growth momentum continues to decelerate from the recent 35% year-over-year gain.
 
-**Tends to suit:** Long-term investors comfortable holding through price declines in exchange for exposure to a cash-generative, profitable business trading at a reasonable multiple.
+**Tends to suit:** Long-term investors comfortable with software infrastructure companies who can tolerate high short-term volatility and believe current weakness reflects a buying opportunity rather than fundamental deterioration.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-11-28)
 - Revenue $23.8B (+11% vs prior year)

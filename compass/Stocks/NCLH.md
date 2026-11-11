@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Neutral read · trend: Turning up
 
-## Cruise operator with revenue growth stalling and cash flow turning negative
+## Cruise operator with recovering revenue but still burning cash despite profit
 
-Norwegian Cruise Line is a travel services company that generated $9.8 billion in revenue over the past year. Revenue grew 27% annually over three years but flatlined in the latest quarter. The company is currently burning cash and keeping only 4% of revenue as profit.
+Norwegian Cruise Line is a travel services company that operates cruise ships. Revenue grew 4% last year to $9.8 billion, but the latest quarter showed no growth compared to a year ago. The company turned profitable with $423 million in net income, yet it burned $1.2 billion in free cash flow.
 
 ### What is working
-- Revenue expanded 27% per year over the past three years, showing historical growth momentum
-- Balance sheet is relatively stable with debt at 0.5x shareholder equity, leaving room to borrow if needed
-- Stock recovered 19.4% in the past month and trades at 10x earnings, which is below many peers
+- Revenue recovered 27% per year over the past 3 years, showing long-term demand recovery from prior downturns
+- Stock price rose 22.9% in the past month and 17.2% over 6 months, suggesting recent momentum
+- Balance sheet is manageable with debt at only 0.5x shareholder equity, leaving room for financial flexibility
 
 ### What to be careful about
-- Latest quarter revenue grew 0% year over year, signaling growth has stalled completely
-- Free cash flow is negative $1.2 billion annually, meaning the company is burning cash rather than generating it
-- Earnings per share fell 51% year over year despite revenue growing 4%, showing collapsing profitability
+- Free cash flow is negative $1.2 billion despite positive net income of $423.2 million, meaning the company is not generating cash for investors
+- Latest quarter revenue grew 0% year over year while earnings per share fell 51%, showing current momentum is slowing
+- Stock is down 31% over 5 years and down 1% over the past year, and the company is still 25% below its 52-week high at $18.82
 
-**Watch next:** Whether the company can return to positive free cash flow next year, since burning $1.2 billion annually is unsustainable without balance sheet damage.
+**Watch next:** Whether the company can return to positive free cash flow in coming quarters, since it is profitable on paper but burning cash in reality.
 
-**Tends to suit:** This profile suits patient investors comfortable with cyclical downturns who believe cruise demand will recover, but not those seeking steady cash generation or stable earnings growth.
+**Tends to suit:** Investors comfortable with cyclical volatility (54% yearly swings) and turnaround situations, who can tolerate years of negative cash burn while watching for operational inflection.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $9.8B (+4% vs prior year)

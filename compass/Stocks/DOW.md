@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Bearish read · trend: Downtrend, bouncing
 
-## Dow trades near 52-week lows after three-year revenue decline, despite strong dividend
+## Chemical maker with strong dividend but negative cash flow signals trouble
 
-Dow Inc. is a large chemicals company with $40.0B in annual revenue that has contracted 11% per year over three years, though the latest quarter showed 13% growth. The company generates a 12% profit margin and pays a 5.4% dividend, but is currently burning cash with negative free cash flow of -$1.4B.
+Dow Inc. is a large U.S. chemicals company generating $40.0B in annual revenue. It turned profitable in 2025 with $4.6B net income, but is burning cash and shrinking revenue over the longer term.
 
 ### What is working
-- Latest quarter revenue jumped 13% year over year, reversing the three-year downtrend
-- High dividend yield of 5.4% and share buybacks shrinking count by 1.9% over three years
-- Return on equity of 29% shows remaining capital is deployed efficiently
+- Latest quarter revenue jumped 13% year over year, breaking a three-year downtrend
+- Dividend yield of 5.4% and share buybacks show commitment to shareholders
+- Return on equity of 29% shows remaining earnings are deployed efficiently
 
 ### What to be careful about
-- Free cash flow is negative at -$1.4B; company is burning cash despite $4.6B in net income
-- Revenue down 7% last year and -11% per year over three years, showing long-term deterioration
-- Stock is 27% below its 52-week high and sits in a downtrend; 42% yearly volatility shows large swings
+- Free cash flow of negative $1.4B means the company is consuming cash despite reporting profits
+- Annual revenue dropped 7% last year and has declined 11% per year over three years
+- Stock price is 22% below its 52-week high and sits 45% below levels five years ago
 
-**Watch next:** Whether the 13% latest quarter revenue growth signals a sustained recovery or is temporary, since three-year trends show persistent contraction and cash burn.
+**Watch next:** Whether the 13% quarterly revenue bounce represents a real turnaround or temporary rebound, since the free cash flow margin remains deeply negative at -4%.
 
-**Tends to suit:** Long-term investors seeking dividend income who can tolerate high volatility and deteriorating fundamentals while waiting for a business turnaround.
+**Tends to suit:** Long-term investors with high risk tolerance who can tolerate volatility and prioritize current income over capital appreciation prospects.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $40.0B (-7% vs prior year)

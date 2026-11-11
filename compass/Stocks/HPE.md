@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Pullback in uptrend
 
-## HPE surges 102% in a year but profits lag despite strong revenue growth
+## HPE surges 110% in a year but profits lag despite strong revenue growth
 
-Hewlett Packard Enterprise is a large technology company with $34.3B in annual revenue. Revenue has grown 14% year over year, but the company currently converts almost no revenue into profit. The stock has climbed sharply but recently pulled back 32.6% in the past month.
+Hewlett Packard Enterprise is a large technology equipment maker with $34.3B in annual revenue. The company is growing revenue quickly but keeps almost no profit from each sale. It returned 110% over the past year but has pulled back 32% from its recent high.
 
 ### What is working
-- Revenue jumped 34% in the latest quarter and 14% for the full year versus prior year
-- Stock gained 102% over the past 12 months and sits 51% of the way up its 52-week range
-- Manageable debt at 0.7x shareholder equity and generates $627M in free cash flow
+- Revenue jumped 34% in the latest quarter and is up 6% a year over three years, showing sustained growth
+- Stock gained 110% over the past year and sits 57% of the way up its 52-week range, indicating strong momentum
+- Free cash flow is positive at $627M and the company has $6.2B in cash on hand to fund operations
 
 ### What to be careful about
-- Net profit margin is 0% and operating margin is negative 1% despite high revenue
-- Stock dropped 32.6% in the past month and is down 35% from its 52-week high of $73.46
-- Yearly volatility is 60%, meaning price swings are large and unpredictable
+- Net profit is essentially flat at $57M on $34.3B revenue, meaning the company keeps 0% of sales as profit
+- Stock is down 27% in the last month and sits 32% below its 52-week high of $73.46, showing recent weakness
+- Trading at 23x earnings with a free cash flow yield of only 1.0%, valuation looks full relative to profitability
 
-**Watch next:** Whether the latest quarter's 34% revenue growth can translate into actual net profit over the next two quarters, since margins remain at or near zero despite the sales acceleration.
+**Watch next:** Whether the company can turn revenue growth into actual profit dollars, since net margins sit at 0% and operating margins are negative at -1%.
 
-**Tends to suit:** Investors who seek exposure to a large profitable company may find this more volatile and margin-challenged than expected; suits those comfortable with a turnaround story backed by dividend income and analyst confidence.
+**Tends to suit:** Investors comfortable with volatility (61% yearly swings) and companies in turnaround mode who value revenue growth and dividends over near-term earnings.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-10-31)
 - Revenue $34.3B (+14% vs prior year)

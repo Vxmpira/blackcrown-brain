@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Turning up
 
-## Insurance broker with strong profits and recent price rally, but growth has stalled
+## Insurance broker turning up after flat quarter, profitable with strong analyst backing
 
-Erie Indemnity is an insurance brokerage firm generating $4.1 billion in annual revenue. It keeps 14% of revenue as profit and returns 22% on shareholder equity. Recent months show a sharp price rebound after a year of decline.
+Erie Indemnity is an insurance broker that generated $4.1 billion in annual revenue and converted 14% of it into profit in 2025. The company is debt-free, returns 22% on shareholder equity, and recently accelerated after months of sideways trading.
 
 ### What is working
-- Profitability is solid: 14% net margin and 22% return on equity show efficient operations
-- Analyst consensus is bullish: 75% of 8 analysts rate it a buy
-- Recent price momentum is strong: up 20.5% in the past month and 24.1% over six months
+- Revenue grew 13% per year over the past 3 years, showing sustained expansion in the broker business
+- Net margin of 14% and return on equity of 22% place the company in the profitable upper tier for its sector
+- Stock up 17.9% in the past month and 28% over 6 months; 75% of analysts rate it a buy
 
 ### What to be careful about
-- Growth has stopped: latest quarter revenue was flat year-over-year despite 13% average growth over three years
-- Full-year revenue growth slowed: 7% in 2025 versus the 13% three-year trend
-- Valuation is not cheap: trades at 22x earnings, which is in the upper range for brokers
+- Latest quarter revenue flat at $1.1 billion year-over-year, suggesting recent growth has stalled
+- Stock trades at 22x earnings, near the higher end of typical valuations, leaving limited margin for disappointment
+- Down 2% over the past year despite recent uptrend; volatility runs 38% annually, meaning sharp swings are common
 
-**Watch next:** Whether quarterly revenue growth rebounds from 0% or continues to decelerate, signaling how sustainable the current business model is.
+**Watch next:** Whether the next quarterly revenue report shows a return to year-over-year growth or continues the recent flatline.
 
-**Tends to suit:** Long-term investors seeking steady profits and dividends from a stable financial services business, willing to accept that growth may be modest.
+**Tends to suit:** Long-term investors comfortable holding stable, profitable financial-services businesses and can tolerate moderate volatility while waiting for growth to re-accelerate.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $4.1B (+7% vs prior year)
