@@ -6723,5 +6723,78 @@
    "headline": "Packaged food giant shrinking revenue and profits, offering high dividend yield"
   }
  ],
- "funds": []
+ "funds": [
+  {
+   "symbol": "SPY",
+   "tracks": "S&P 500",
+   "trend": null,
+   "ret_1y": null
+  },
+  {
+   "symbol": "QQQ",
+   "tracks": "Nasdaq-100",
+   "trend": null,
+   "ret_1y": null
+  },
+  {
+   "symbol": "DIA",
+   "tracks": "Dow 30",
+   "trend": null,
+   "ret_1y": null
+  },
+  {
+   "symbol": "IWM",
+   "tracks": "Russell 2000",
+   "trend": null,
+   "ret_1y": null
+  },
+  {
+   "symbol": "EFA",
+   "tracks": "Developed markets",
+   "trend": null,
+   "ret_1y": null
+  },
+  {
+   "symbol": "EEM",
+   "tracks": "Emerging markets",
+   "trend": null,
+   "ret_1y": null
+  },
+  {
+   "symbol": "EWU",
+   "tracks": "United Kingdom",
+   "trend": null,
+   "ret_1y": null
+  },
+  {
+   "symbol": "EWG",
+   "tracks": "Germany",
+   "trend": null,
+   "ret_1y": null
+  },
+  {
+   "symbol": "EWJ",
+   "tracks": "Japan",
+   "trend": null,
+   "ret_1y": null
+  },
+  {
+   "symbol": "FXI",
+   "tracks": "China",
+   "trend": null,
+   "ret_1y": null
+  },
+  {
+   "symbol": "INDA",
+   "tracks": "India",
+   "trend": null,
+   "ret_1y": null
+  },
+  {
+   "symbol": "EWZ",
+   "tracks": "Brazil",
+   "trend": null,
+   "ret_1y": null
+  }
+ ]
 }

@@ -80,3 +80,20 @@ Prices as of 2026-11-10 close.
 | 500 | [[compass/Stocks/FER|FER]] | Ferrovial SE | 34 | Weak | Bearish | Downtrend, bouncing | -4% |
 | 499 | [[compass/Stocks/INTC|INTC]] | Intel | 35 | Weak | Bearish | Losing steam | +55% |
 | 498 | [[compass/Stocks/BG|BG]] | Bunge Global | 35 | Weak | Bearish | Downtrend | +4% |
+
+## Index funds (trend only, not scored)
+
+| Fund | Tracks | Trend | 1 year | 5 years |
+|---|---|---|---:|---:|
+| SPY | S&P 500 |  | n/a | n/a |
+| QQQ | Nasdaq-100 |  | n/a | n/a |
+| DIA | Dow 30 |  | n/a | n/a |
+| IWM | Russell 2000 |  | n/a | n/a |
+| EFA | Developed markets |  | n/a | n/a |
+| EEM | Emerging markets |  | n/a | n/a |
+| EWU | United Kingdom |  | n/a | n/a |
+| EWG | Germany |  | n/a | n/a |
+| EWJ | Japan |  | n/a | n/a |
+| FXI | China |  | n/a | n/a |
+| INDA | India |  | n/a | n/a |
+| EWZ | Brazil |  | n/a | n/a |
