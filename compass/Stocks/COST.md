@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Turning up
 
-## Costco shows steady growth but trades at premium price after 15% year gain
+## Costco trades at premium valuation despite strong cash generation and balance sheet
 
-Costco is a large discount retailer with $303.2B in annual revenue that grew 10% last year. The company converts 3% of sales into profit and generates strong free cash flow of $9.4B. It holds $14.0B in net cash and has a fortress balance sheet.
+Costco is a large U.S. discount retailer with $303.2B in annual revenue. The company generates substantial free cash flow of $9.4B and holds $14.0B in net cash. It operates with tight margins of 3% net profit but achieves a strong 26% return on equity.
 
 ### What is working
-- Revenue accelerating: $303.2B revenue up 10% last year, and latest quarter revenue up 11% year over year
-- Fortress balance sheet: $14.0B net cash position provides financial flexibility
-- Analyst confidence: 68% of 47 analysts rate it a buy with consensus Buy rating
+- Revenue growing at 11% year over year in latest quarter, above its 3-year average of 8%
+- Generated $9.4B in free cash flow with a $14.0B net cash position, allowing recent $30 special dividend and $4B buyback reauthorization
+- Analyst consensus strongly bullish: 68% rate it a buy among 47 analysts, with median Buy rating
 
 ### What to be careful about
-- Expensive valuation: Trades at 51x earnings with only 2.0% free cash flow yield
-- Thin margins: Keeps just 3% of revenue as profit, typical for discount retail but limits cushion
-- Stock already up sharply: Gained 15% over past year and sits 86% up its 52-week range
+- Valuation is steep at 51x earnings, with free cash flow yield of just 2.0%, leaving limited margin for disappointment
+- Net profit margin of 3% and operating margin of 4% are thin, making the business sensitive to cost increases
+- Share count flat over 3 years means buybacks have not reduced share count; stock price gains depend on earnings growth alone
 
-**Watch next:** Whether revenue growth can sustain above 10% annually to justify the 51x earnings multiple over the next two quarters.
+**Watch next:** Whether quarterly revenue growth can sustain above 10% given the high base of $303.2B, or if it moderates back toward the 8% historical average.
 
-**Tends to suit:** Long-term investors comfortable with premium valuations who seek stable, slowly growing consumer staples backed by strong balance sheets and steady free cash generation.
+**Tends to suit:** Long-term investors comfortable holding large positions in mature, low-margin retailers that prioritize cash return to shareholders over rapid growth.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-08-30)
 - Revenue $303.2B (+10% vs prior year)
