@@ -1,5 +1,5 @@
 {
- "data_asof_utc": "2026-11-10T16:09:22.002311+00:00",
+ "data_asof_utc": "2026-11-11T14:04:32.444942+00:00",
  "scoreboard": {
   "strategy": "v3-all-sessions",
   "closed_trades": 0,
@@ -25,8 +25,8 @@
   "last30_expectancy_pct": null
  },
  "min_sample": 30,
- "universe_count": 10,
- "universe_asof": "2026-11-10T16:09:22.002311+00:00",
+ "universe_count": 89,
+ "universe_asof": "2026-11-11T14:04:15.235613+00:00",
  "rules": {
   "strategy": "v3-all-sessions",
   "session": "all",
