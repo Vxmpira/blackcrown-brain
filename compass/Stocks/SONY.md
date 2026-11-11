@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: balance sheet stands out
+## Sony shows strong momentum but faces flat revenue and heavy share dilution
 
-Sony Group Corporation scores 69 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Sony is a large Japanese electronics and entertainment company with 13.0T JPY in annual revenue. It is currently profitable with a 9% net margin and generates substantial free cash flow of 2.3T JPY. The stock is in a strong uptrend, up 20.5% over six months, though down 3.6% over the full year.
 
 ### What is working
-- Balance sheet: Net cash of 626.7B JPY
-- Price trend: Price is above its 200-day average
-- Profitability: Keeps 9% of revenue as profit
+- Price momentum is solid: up 10.1% in one month and 20.5% over six months, trading 68% of the way up its 52-week range
+- Profitability and cash generation are healthy: 9% net margin, 18% free cash flow margin, and 14% return on equity
+- Analyst consensus is very strong: 31 analysts covering with 90% rating it a buy
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Revenue growth has stalled: flat at 13.0T JPY year over year, despite 9% growth over the prior three years
+- Share dilution is severe: share count grew 385.5% over three years, which reduces what each share owns
+- Valuation metrics are unclear: P/E ratio not listed, making it hard to compare value to earnings
 
-**Watch next:** The next quarterly report: whether revenue growth of -0% holds.
+**Watch next:** Whether revenue growth returns in the next quarter, since the latest full year showed zero year-over-year growth after a three-year trend of 9% annual increases.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable with foreign stocks who value established profitability and cash flow over rapid growth, and who can tolerate a 30% annual volatility range.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-03-31)
 - Revenue 13.0T JPY (-0% vs prior year)

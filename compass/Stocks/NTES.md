@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Turning up
 
-## Strong: balance sheet stands out, valuation holds it back
+## Profitable gaming and media firm with strong cash generation, China-linked risks remain
 
-NetEase, Inc. scores 63 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: turning up.
+NetEase is a Chinese technology company that generates $16.1B in annual revenue from gaming and multimedia. It keeps 31% of revenue as profit and produces $7.1B in free cash flow yearly. The company trades at 17x earnings with $6.7B net cash on its balance sheet.
 
 ### What is working
-- Balance sheet: Net cash of $6.7B
-- Profitability: Keeps 31% of revenue as profit
-- Shareholder returns: Share count shrinking (buybacks)
+- Profitability is exceptional: 31% net margin and 44% free cash flow margin show disciplined operations
+- Valuation offers yield: 8.6% free cash flow yield and 16.89x P/E are attractive for a cash-generative business
+- Balance sheet is fortress: $6.7B net cash with minimal $58.6M debt provides financial flexibility
 
 ### What to be careful about
-- Valuation: Free cash flow yield 1.7%
+- Price momentum is weak: down 8% over the past year despite earnings growing 19%, suggesting sentiment lag
+- Revenue growth is slowing: 3-year average +5% annually versus latest year +12%, indicating deceleration risk
+- Foreign domicile adds regulatory risk: China-based company subject to geopolitical and regulatory shifts outside US control
 
-**Watch next:** The next quarterly report: whether revenue growth of +12% holds.
+**Watch next:** Whether the latest quarter's revenue growth sustains the 12% year-over-year pace or rolls back toward the slower 3-year average.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable with foreign stocks who prioritize current cash generation and dividend yield over rapid growth.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $16.1B (+12% vs prior year)

@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Turning up
 
-## Strong: profitability stands out
+## Large pharma with strong cash generation, expensive valuation, and analyst support.
 
-AstraZeneca PLC scores 71 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: turning up.
+AstraZeneca is a UK-based pharmaceutical company generating $58.7 billion in annual revenue. It keeps 17% of sales as profit and converts 20% into free cash flow. The stock has climbed 12% over the past year and sits near the middle of its 52-week trading range.
 
 ### What is working
-- Profitability: Keeps 17% of revenue as profit
-- Balance sheet: Debt is 0.6x shareholder equity
-- Shareholder returns: Share count flat
+- Revenue grew 12% in the latest quarter and 10% annually over three years, outpacing slow GDP growth.
+- Free cash flow of $11.8 billion and a 20% cash margin fund operations and shareholder returns without heavy leverage (0.6x debt-to-equity).
+- Earnings per share jumped 45% year over year while the share count stayed nearly flat, showing profitable growth.
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Stock trades at 27x earnings and 5.4% free cash flow yield, pricing in years of strong performance.
+- Price is 11% below its 52-week high and volatility runs 31% annually, meaning swings are wide.
+- Debt of $29.6 billion is modest but still substantial; pharmaceutical R&D is expensive and success rates are unpredictable.
 
-**Watch next:** The next quarterly report: whether revenue growth of +12% holds.
+**Watch next:** Watch whether revenue growth stays above 10% annually and whether free cash flow margins hold at 20% or compress.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Suits long-term investors comfortable with large multinational healthcare names, willing to pay near-market multiples for steady cash generation, and able to tolerate currency and regulatory risk from UK operations.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $58.7B (+9% vs prior year)

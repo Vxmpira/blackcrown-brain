@@ -14,21 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: price trend stands out, growth holds it back
+## Canadian bank with strong price momentum but slowing earnings growth
 
-The Bank of Nova Scotia scores 63 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+The Bank of Nova Scotia is a diversified financial services company that generated 37.7 billion CAD in revenue in its latest fiscal year. It converts about 21% of revenue into profit and returned 9% on shareholder equity. The stock has climbed 39% over the past year and sits near its 52-week high.
 
 ### What is working
-- Price trend: Price is above its 200-day average
+- Price trend is strong: up 39% in one year and trading 87% of the way up its 52-week range
+- Valuation appears reasonable at 16x earnings compared to historical bank multiples
+- Dividend yield of 7.0% provides current income for long-term holders
 
 ### What to be careful about
-- Growth: Revenue +6% a year over 3 years
+- Earnings per share fell 3% year over year despite revenue growth of 12%
+- Share count has grown 3.3% over three years, diluting existing shareholders
+- Analysts are split: only 47% rate it a buy and consensus is Hold, not Buy
 
-**Watch next:** The next quarterly report: whether revenue growth of +3% holds.
+**Watch next:** Whether earnings growth returns to match revenue growth in upcoming quarters, since profit per share has turned negative while top-line revenue is still advancing.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors seeking dividend income from a diversified financial institution who can tolerate foreign exchange risk and slower earnings growth.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-10-31)
 - Revenue 37.7B CAD (+12% vs prior year)

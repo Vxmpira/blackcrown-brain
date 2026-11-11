@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Neutral read · trend: Downtrend, bouncing
 
-## Strong: balance sheet stands out, price trend holds it back
+## Travel platform with strong profits and growth, but stock down 37% in a year
 
-Trip.com Group Limited scores 69 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: downtrend, bouncing.
+Trip.com is a Singapore-based online travel booking company that generated $8.9 billion in revenue last year. It keeps 53 cents of every dollar as profit and produced $1.9 billion in free cash flow. The stock has fallen sharply despite the company's financial strength.
 
 ### What is working
-- Balance sheet: Net cash of $1.3B
-- Valuation: Free cash flow yield 6.3%
-- Growth: Revenue +45% a year over 3 years
+- Revenue grew 22% last year and 45% per year over the past three years, showing sustained demand for bookings
+- Net profit margin of 53% and free cash flow margin of 22% mean the business converts sales into cash efficiently
+- Balance sheet holds $1.3 billion in net cash, and return on equity is 19%, indicating capital is deployed well
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
+- Stock is down 37% over the past year and sits 44% below its 52-week high, suggesting investor confidence has weakened
+- Share count has grown 6.3% over three years, diluting existing shareholders even as profits rise
+- Free cash flow yield of only 0.9% and P/E of 7.88 leave little margin for disappointment in future growth
 
-**Watch next:** The next quarterly report: whether revenue growth of +22% holds.
+**Watch next:** Whether the stock's recent bounce of 13.7% in one month signals a reversal of the downtrend or remains a temporary relief within the broader year-long decline.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Long-term investors who believe travel spending will remain strong and can tolerate 36% annual swings in share price while the company's underlying profits grow.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $8.9B (+22% vs prior year)

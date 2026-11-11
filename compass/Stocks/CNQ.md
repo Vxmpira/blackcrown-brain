@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Top rated** · Bullish read · trend: Pullback in uptrend
 
-## Top rated: shareholder returns stands out
+## Oil giant trades cheap with strong cash generation and shrinking share count
 
-Canadian Natural Resources Limited scores 84 of 100 on the Compass, which puts it in the Top rated tier. Its long-term price trend is: pullback in uptrend.
+Canadian Natural Resources is a large-cap oil and gas producer reporting 38.8 billion CAD in annual revenue. It keeps 28% of revenue as profit and generated 15.1 billion CAD in free cash flow last year. The stock has risen 52% over the past year and trades at 10x earnings.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Balance sheet: Debt is 0.4x shareholder equity
-- Profitability: Keeps 28% of revenue as profit
+- Profitability is strong: 28% net margin and 39% free cash flow margin mean most revenue converts to cash
+- Valuation looks inexpensive: P/E of 9.89 is low for a profitable company generating 24% return on equity
+- Shareholder returns are active: share count down 8.7% over 3 years from buybacks, plus 4.5% dividend yield
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Revenue trend is mixed: up 9% year-over-year but down 3% per year over the past three years
+- Stock has pulled back 14% from its 52-week high and fell 4.5% in the last month despite strength elsewhere
+- Analyst consensus is cool: only 42% of 26 analysts rate it a buy; the consensus is Hold, not Buy
 
-**Watch next:** The next quarterly report: whether revenue growth of +9% holds.
+**Watch next:** Whether the 9% year-over-year revenue growth in 2025 marks a true turnaround or is a one-year bounce from a declining trend.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable holding a commodity-linked energy company that prioritizes cash return and trades at a discount to historical multiples.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue 38.8B CAD (+9% vs prior year)

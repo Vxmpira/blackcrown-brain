@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: valuation stands out, balance sheet holds it back
+## Aircraft leasing company trades cheap with strong cash generation but heavy debt load
 
-AerCap Holdings N.V. scores 74 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+AerCap leases commercial aircraft to airlines worldwide. The company generated $8.5 billion in revenue and $3.8 billion in net income last year, keeping 44 cents of every dollar as profit. It trades at 9 times earnings with a 19.9% free cash flow yield.
 
 ### What is working
-- Valuation: Free cash flow yield 17.4%
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
+- Profitability is exceptional: 44% net margin and 63% free cash flow margin mean the business converts revenue into usable cash very efficiently.
+- Valuation looks inexpensive: trades at 9x earnings with 19.9% free cash flow yield, well below typical industrials multiples.
+- Share buybacks are ongoing: share count fell 26.8% over three years, concentrating remaining ownership as earnings stay strong.
 
 ### What to be careful about
-- Balance sheet: Debt is 2.4x shareholder equity
+- Debt is very high: $43.6 billion against $27.1 billion market value means debt is 2.4x shareholder equity, limiting financial flexibility.
+- Revenue growth has stalled: full year revenue rose 6% but latest quarter fell 4% year over year, signaling softening demand.
+- Airline industry exposure creates cyclical risk: leasing income depends on airline health and aircraft utilization rates, which fluctuate with economic cycles.
 
-**Watch next:** The next quarterly report: whether revenue growth of -4% holds.
+**Watch next:** Watch whether quarterly revenue can return to growth; the latest quarter's 4% decline suggests the lease portfolio or demand may be weakening.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Suits long-term investors comfortable with leveraged industrial companies that prioritize cash extraction over growth, seeking high cash yields.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $8.5B (+6% vs prior year)

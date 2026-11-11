@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Turning up
 
-## Strong: growth stands out, shareholder returns holds it back
+## Cruise operator with strong growth and cash flow, but heavy debt load and stock dilution
 
-Viking Holdings Ltd scores 67 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: turning up.
+Viking Holdings is a cruise line operator based in Bermuda that generates around $6.5B in annual revenue. The company is growing fast and producing substantial cash, but carries significant debt relative to shareholder equity.
 
 ### What is working
-- Growth: Revenue +27% a year over 3 years
-- Profitability: Keeps 18% of revenue as profit
-- Valuation: Free cash flow yield 6.5%
+- Revenue grew 28% in the latest quarter and 27% annually over three years, showing sustained expansion.
+- Net profit margin sits at 18% and free cash flow margin at 39%, with $2.6B in free cash generated last year.
+- Return on equity stands at 105%, meaning the company generates $1.05 in profit for every $1 of shareholder capital.
 
 ### What to be careful about
-- Shareholder returns: Share count growing (dilution)
-- Balance sheet: Debt is 5.2x shareholder equity
+- Debt is 5.2x shareholder equity, meaning the company owes $5.7B against only $1.1B in shareholder equity, a high leverage ratio.
+- Share count has grown 9.9% over three years, which dilutes existing shareholders' ownership stakes.
+- Stock trades at 29x earnings, above typical valuations for travel companies, leaving less margin for error.
 
-**Watch next:** The next quarterly report: whether revenue growth of +28% holds.
+**Watch next:** Monitor whether free cash flow stays above $2.6B and whether debt levels decline, since high leverage in a cyclical travel business is the main constraint on the company's financial flexibility.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Long-term investors who can tolerate high volatility and foreign company structures, and who are comfortable with leveraged travel industry exposure if they believe cruise demand will remain strong.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $6.5B (+22% vs prior year)

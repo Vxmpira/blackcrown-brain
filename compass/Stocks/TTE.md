@@ -14,22 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Pullback in uptrend
 
-## Strong: balance sheet stands out, growth holds it back
+## Energy giant trading cheap with strong cash generation, but revenue is shrinking
 
-TotalEnergies SE scores 67 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: pullback in uptrend.
+TotalEnergies is a large integrated oil and gas company based in France. It generated $201.2B in revenue and $13.1B in net income last year, but revenue has declined 11% over three years. The stock has risen 41% in the past year and trades at a significant discount to historical valuations.
 
 ### What is working
-- Balance sheet: Net cash of $26.2B
-- Price trend: Price is above its 200-day average
+- Stock price up 41% over the past year and sits 77% of the way up its 52-week range
+- Generates $27.3B in free cash flow annually with a 15.6% free cash flow yield
+- Pays a 5.4% dividend yield and holds $26.2B in net cash with no reported debt
 
 ### What to be careful about
-- Growth: Revenue -11% a year over 3 years
+- Revenue declined 8% in the latest quarter and 11% per year over three years
+- Earnings per share dropped 14% year over year in the most recent period
+- Stock has fallen 4.2% over the past six months despite the longer-term uptrend
 
-**Watch next:** The next quarterly report: whether revenue growth of -8% holds.
+**Watch next:** Whether the revenue decline reverses or stabilizes over the next four quarters, since the three-year downtrend is the core risk to the profitability story.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors who are comfortable with cyclical commodity-linked businesses and seek current income through dividends alongside capital appreciation.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $201.2B (-6% vs prior year)

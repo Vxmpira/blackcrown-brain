@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Pullback in uptrend
 
-## Strong: shareholder returns stands out
+## Japanese megabank showing strong earnings growth but burning cash operationally
 
-Mizuho Financial Group, Inc. scores 72 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: pullback in uptrend.
+Mizuho Financial Group is Japan's largest bank by some measures, with 8.8 trillion yen in annual revenue. It has grown earnings per share sharply and trades at a modest valuation, but its free cash flow is deeply negative and profitability margins are thin for a financial institution.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
-- Growth: Revenue +27% a year over 3 years
+- Earnings per share jumped 99% year over year, the sharpest metric in the profile
+- Share buybacks shrinking the count by 2.1% over three years, concentrating gains among remaining holders
+- Stock up 49.8% over the past year and trades at 13x earnings, below historical bank multiples
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Free cash flow of negative 2.1 trillion yen means the company is not converting profits into cash despite large net income
+- Net profit margin of 13% is thin; the company keeps only 13 cents of every revenue dollar as profit
+- Recent one-month pullback of 6.2% and 34% annual volatility suggest sharp moves are common
 
-**Watch next:** The next quarterly report: whether revenue growth of +8% holds.
+**Watch next:** Whether the negative free cash flow reverses in the next annual filing, as sustained cash burn would undermine the dividend and buyback program even with large cash reserves of 62.6 trillion yen on hand.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Patient, diversified investors comfortable holding foreign financial stocks through currency risk and who value steady dividends (3.6% yield) over near-term price appreciation.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-03-31)
 - Revenue 8.8T JPY (+8% vs prior year)

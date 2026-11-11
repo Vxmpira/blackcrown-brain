@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: balance sheet stands out, profitability holds it back
+## Mexican beverage bottler growing revenue fast, but profits are thin
 
-Coca-Cola FEMSA, S.A.B. de C.V. scores 73 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Coca-Cola FEMSA bottles and distributes beverages across Mexico and Latin America. The company is growing revenue at a solid pace and has moved sharply higher over the past year, but keeps almost no profit from each sale.
 
 ### What is working
-- Balance sheet: Net cash of 1.3B MXN
-- Price trend: Price is above its 200-day average
-- Shareholder returns: Share count flat
+- Revenue jumped 14% in the latest year and has grown 13% annually over three years
+- Stock has climbed 33% in the past year and sits at the top of its 52-week range
+- Company holds net cash of 1.3B MXN and generates positive free cash flow of 1.1B MXN
 
 ### What to be careful about
-- Profitability: Keeps 0% of revenue as profit
+- Net profit margin sits at 0%, meaning the company keeps nearly nothing from 279.8B MXN in revenue
+- Return on equity of 9% is low, suggesting limited profit generation on shareholder money
+- Stock trades at 18x earnings and has already run up 33% in one year, leaving less room for surprises
 
-**Watch next:** The next quarterly report: whether revenue growth of +14% holds.
+**Watch next:** Monitor whether net profit margins improve in coming quarters, since revenue growth alone cannot sustain the stock's gains if profitability stays flat.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors comfortable with a large mature company in a defensive sector that prioritizes growth and dividends over margin expansion.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2024-12-31)
 - Revenue 279.8B MXN (+14% vs prior year)

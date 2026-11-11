@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Uptrend
 
-## Strong: shareholder returns stands out, growth holds it back
+## Profitable railroad with stalled revenue growth but strong cash returns
 
-Canadian National Railway Company scores 70 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: uptrend.
+Canadian National Railway is a large industrial transport company generating 17.3B CAD in annual revenue. It converts over one-quarter of sales into net profit and produces substantial free cash flow while returning capital to shareholders through buybacks and dividends.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Profitability: Keeps 27% of revenue as profit
-- Price trend: Price is above its 200-day average
+- Profitability is strong: keeps 27% of revenue as profit with 38% operating margin
+- Free cash generation is reliable: 3.4B CAD annual free cash flow supports buybacks and dividends
+- Price momentum is solid: up 33% over the past year and sits 90% of the way up its 52-week range
 
 ### What to be careful about
-- Growth: Revenue +0% a year over 3 years
+- Revenue growth has stalled: 0% growth over 3 years, only 2% year-over-year
+- Analyst consensus is mixed: 31 analysts rate it Hold with only 45% saying buy
+- Valuation is not cheap: trades at 22.5x earnings, above many industrials, with debt at 1.0x equity
 
-**Watch next:** The next quarterly report: whether revenue growth of +2% holds.
+**Watch next:** Whether revenue can return to growth beyond the recent 2% year-over-year rate, since flat 3-year trends suggest structural headwinds in the business.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors seeking stable cash returns from an established infrastructure business are better suited than those betting on revenue expansion.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue 17.3B CAD (+2% vs prior year)

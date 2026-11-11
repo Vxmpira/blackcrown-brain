@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Top rated** · Bullish read · trend: Uptrend
 
-## Top rated: balance sheet stands out, valuation holds it back
+## Gold royalty firm with surging profits trades at premium valuation
 
-Franco-Nevada Corporation scores 79 of 100 on the Compass, which puts it in the Top rated tier. Its long-term price trend is: uptrend.
+Franco-Nevada is a Canadian gold royalty and streaming company that collects payments from mining operations without running mines itself. Net income jumped to $1.1B in 2025, and the latest quarter revenue rose 42% year over year. The stock has climbed 33% in the past year and trades well above its 200-day moving average.
 
 ### What is working
-- Balance sheet: Net cash of $590.9M
-- Profitability: Keeps 61% of revenue as profit
-- Growth: Revenue +11% a year over 3 years
+- Revenue grew 64% year over year to $1.8B while net margin stayed at 61%, showing strong pricing power
+- Generated $1.5B in free cash flow with an 82% free cash flow margin, providing room for dividends and buybacks
+- Holds $590.9M in net cash after accounting for $80.0M in debt, giving financial flexibility
 
 ### What to be careful about
-- Valuation: Free cash flow yield 3.0%
+- Stock trades at 34x earnings, which is steep; free cash flow yield of only 2.1% means you collect little income relative to what you pay
+- Share count has grown 0.6% over three years, indicating mild dilution of ownership
+- Yearly volatility stands at 40%, meaning swings of that size are normal; stock sits 9% below its 52-week high
 
-**Watch next:** The next quarterly report: whether revenue growth of +42% holds.
+**Watch next:** Watch whether the latest quarter's 42% revenue surge continues or begins to slow, since that jump was the main driver of recent results.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Suits long-term investors comfortable holding a volatile, high-valuation asset that generates strong free cash but pays a modest 1.2% dividend yield.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $1.8B (+64% vs prior year)

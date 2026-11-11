@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Top rated** · Bullish read · trend: Uptrend
 
-## Top rated: growth stands out
+## Gold miner with surging profits and strong cash, but valuation and share dilution temper upside
 
-Agnico Eagle Mines Limited scores 85 of 100 on the Compass, which puts it in the Top rated tier. Its long-term price trend is: uptrend.
+Agnico Eagle is a Canadian gold mining company that nearly doubled revenue and quadrupled net income in the past year. It sits on $1.5B in net cash and converts over one-third of sales into free cash flow.
 
 ### What is working
-- Growth: Revenue +28% a year over 3 years
-- Balance sheet: Net cash of $1.5B
-- Profitability: Keeps 37% of revenue as profit
+- Net income jumped 134% year over year to $4.5B, with a net margin of 37%
+- Free cash flow of $4.4B and $1.5B net cash position provide financial flexibility
+- Revenue grew 44% in the latest year, extending a 28% annual growth trend over three years
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Stock is down 24% from its 52-week high and shows yearly volatility of 49%
+- Share count has grown 14.8% over three years, diluting existing holders
+- Trades at 17x earnings, higher than many industrials, leaving less margin of safety
 
-**Watch next:** The next quarterly report: whether revenue growth of +44% holds.
+**Watch next:** Whether revenue growth can sustain its 44% pace or moderates toward the historical 28% annual trend as the company scales.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Long-term investors comfortable with commodity price swings who want exposure to gold mining fundamentals and can accept near-term volatility.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $11.9B (+44% vs prior year)

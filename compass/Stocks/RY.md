@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Uptrend
 
-## Strong: price trend stands out
+## Strong Canadian bank with solid profits, steady dividend, and upward price momentum
 
-Royal Bank of Canada scores 73 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: uptrend.
+Royal Bank of Canada is a large diversified bank generating 66.6 billion CAD in annual revenue with a 31% profit margin. It returned 39% over the past year and trades near its 52-week high. Analysts mostly rate it a buy.
 
 ### What is working
-- Price trend: Price is above its 200-day average
-- Profitability: Keeps 31% of revenue as profit
-- Shareholder returns: Share count flat
+- Revenue grew 16% year over year in the latest period, accelerating from the 3-year trend of 11% annual growth
+- Net profit margin sits at 31%, meaning the bank keeps nearly a third of every dollar it takes in
+- Share price is up 39% over one year and sits 78% of the way up its 52-week range, with the 50-day average above the 200-day average
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Latest quarterly revenue growth slowed to 7% year over year, half the pace of full-year results
+- The stock is already 7% below its 52-week high of 217.87, and volatility runs at 17% annually
+- Valuation at 18x earnings is not especially cheap; 74% of analysts rate it a buy, leaving room for disagreement
 
-**Watch next:** The next quarterly report: whether revenue growth of +7% holds.
+**Watch next:** Whether quarterly revenue growth can re-accelerate above the 7% posted in the latest period, or if the slowdown signals a broader deceleration.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors seeking a dividend-paying large-cap financial stock with established profitability, willing to accept foreign currency exposure and mature-company growth rates.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-10-31)
 - Revenue 66.6B CAD (+16% vs prior year)

@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Top rated** · Bullish read · trend: Pullback in uptrend
 
-## Top rated: growth stands out, valuation holds it back
+## Fast-growing precious metals company trading at premium valuation after 38% year-long rally
 
-Wheaton Precious Metals Corp. scores 83 of 100 on the Compass, which puts it in the Top rated tier. Its long-term price trend is: pullback in uptrend.
+Wheaton Precious Metals is a Canadian mining company that generated $2.3B in revenue in 2025, up 80% year over year. The company is highly profitable, keeping 64% of revenue as net profit, and holds $1.2B in net cash with no debt. It trades on both Canadian and US exchanges.
 
 ### What is working
-- Growth: Revenue +30% a year over 3 years
-- Balance sheet: Net cash of $1.2B
-- Profitability: Keeps 64% of revenue as profit
+- Revenue surged 80% in 2025 and grew 30% annually over three years; latest quarter up 68% year over year
+- Exceptional profitability: 64% net margin, 68% operating margin, and 82% free cash flow margin
+- Strong balance sheet: $1.2B net cash, zero debt, and 17% return on equity; generated $1.9B free cash flow in 2025
 
 ### What to be careful about
-- Valuation: Free cash flow yield 3.1%
+- Valuation is stretched at 42x earnings; free cash flow yield of only 3.1% is low for a mature sector
+- Share count is growing, diluting existing shareholders by 0.5% over three years despite strong cash generation
+- Stock is down 18% from its 52-week high and has fallen 4.3% over six months; yearly volatility is 52%, well above average
 
-**Watch next:** The next quarterly report: whether revenue growth of +68% holds.
+**Watch next:** Whether the company can sustain 30%+ annual revenue growth or if the 80% jump in 2025 was a one-time lift that normalizes.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Long-term investors who believe in rising precious metals demand and can tolerate high price swings while holding through cycles.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $2.3B (+80% vs prior year)

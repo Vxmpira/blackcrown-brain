@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: shareholder returns stands out
+## Canadian insurer with strong price momentum and high dividend yield
 
-Manulife Financial Corporation scores 73 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Manulife Financial is a life insurance and financial services company based in Canada. It reported 8.1B CAD in revenue for fiscal 2025 with a 69% net margin. The stock has climbed 32% over the past year and trades near the top of its 52-week range.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
-- Profitability: Keeps 69% of revenue as profit
+- Price sits 86% of the way up its 52-week range, showing sustained uptrend momentum over the past year (+32.4%)
+- Shareholder returns are strong: dividend yield of 5.5% and share count shrinking 10.7% over three years through buybacks
+- Valuation appears reasonable at 16x earnings compared to profitability; company retains 69% of revenue as profit
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Growth is slowing: revenue rose only 7% year over year, down from the 10% three-year average rate
+- Return on equity of 11% is modest for an insurance company; suggests capital is not generating outsized returns
+- Stock is already 4% from its 52-week high with 21% yearly volatility, leaving less room for price appreciation in the near term
 
-**Watch next:** The next quarterly report: whether revenue growth of +7% holds.
+**Watch next:** Whether revenue growth stabilizes or continues to decelerate below the historical 10% annual pace, since earnings growth has already slowed to 8% year over year.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors seeking income from dividends and share buybacks who can tolerate modest growth and the currency exposure of holding a Canadian-listed company.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue 8.1B CAD (+7% vs prior year)

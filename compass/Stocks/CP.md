@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Top rated** · Bullish read · trend: Uptrend
 
-## Top rated: balance sheet stands out
+## Railroad operator trading near 52-week highs with solid cash generation but pricey valuation
 
-Canadian Pacific Kansas City Ltd. scores 80 of 100 on the Compass, which puts it in the Top rated tier. Its long-term price trend is: uptrend.
+Canadian Pacific Kansas City is a North American railroad transporting freight and operating in the industrials sector. The company reported 15.0B CAD in annual revenue with a 28% profit margin and generated 2.2B CAD in free cash flow in its latest fiscal year.
 
 ### What is working
-- Balance sheet: Debt is 0.3x shareholder equity
-- Price trend: Price is above its 200-day average
-- Shareholder returns: Share count shrinking (buybacks)
+- Revenue grew 20% per year over the past 3 years and latest quarter was up 15% year over year, showing persistent growth momentum
+- Strong profitability with 28% net margin and 37% operating margin, keeping a large share of revenue as earnings
+- Fortress balance sheet: debt is only 0.3x shareholder equity, giving the company financial flexibility and low refinancing risk
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Valuation is stretched at 30x earnings, a multiple that leaves little room for disappointment or valuation compression
+- Return on equity stands at 9%, suggesting the company generates modest returns relative to shareholder capital invested
+- Stock already up 32% over the past year and sits 90% of the way up its 52-week range, limiting upside cushion from current levels
 
-**Watch next:** The next quarterly report: whether revenue growth of +15% holds.
+**Watch next:** Whether quarterly revenue growth can sustain the 15% year-over-year pace seen in the latest quarter or begins to normalize toward the 3-year average of 20% annually.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Investors comfortable with mature industrial businesses that trade at premium valuations in exchange for stable cash flow and low financial risk.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue 15.0B CAD (+4% vs prior year)

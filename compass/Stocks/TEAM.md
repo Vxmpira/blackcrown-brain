@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Pullback in uptrend
 
-## Strong: balance sheet stands out, valuation holds it back
+## Fast-growing software firm is unprofitable but generates cash; stock down sharply
 
-Atlassian Corporation scores 69 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: pullback in uptrend.
+Atlassian is a large Australian software company serving businesses with collaboration tools. Revenue is growing 24% year over year, but the company is currently losing money on paper. The stock has fallen 28.5% in the past month and trades at an extremely high price-to-earnings ratio.
 
 ### What is working
-- Balance sheet: Net cash of $130.5M
-- Growth: Revenue +23% a year over 3 years
-- Price trend: Price is above its 200-day average
+- Revenue up 24% in latest quarter, consistent with 23% annual growth over three years
+- Generated $1.3B in free cash flow despite -$53.8M net loss, showing underlying cash generation
+- Strong balance sheet with $130.5M net cash and no heavy debt burden relative to size
 
 ### What to be careful about
-- Valuation: Free cash flow yield 3.4%
+- Company is unprofitable: -$53.8M net income and -1% net margin in latest fiscal year
+- Valuation is extremely expensive at 437x earnings; free cash flow yield only 3.4%
+- Stock down 28.5% in one month and 67% over five years; volatility is 77% annually
 
-**Watch next:** The next quarterly report: whether revenue growth of +24% holds.
+**Watch next:** Whether the company can return to profitability while maintaining revenue growth, since current losses and sky-high valuation leave little margin for error.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Long-term investors comfortable with extreme price swings and unprofitable growth companies that analysts believe will eventually become profitable.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-06-30)
 - Revenue $6.6B (+26% vs prior year)

@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Uptrend
 
-## Strong: balance sheet stands out, shareholder returns holds it back
+## Biotech with massive profitability swing, huge cash pile, but stretched valuation
 
-argenx SE scores 68 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: uptrend.
+Argenx is a Netherlands-based biotechnology company that reported a dramatic shift to profitability in 2023, with net income of $1.3B on revenue of $35.5M. The company holds $3.5B in net cash and generates strong free cash flow, but its share count has grown 21.4% over three years.
 
 ### What is working
-- Balance sheet: Net cash of $3.5B
-- Profitability: Keeps 3636% of revenue as profit
-- Price trend: Price is above its 200-day average
+- Profitability metrics are extreme: 3636% net margin and 2966% operating margin in 2023 show the company turned highly profitable
+- Strong balance sheet with $3.5B in net cash and free cash flow of $679.0M provides financial flexibility
+- Revenue jumped 254% year over year in the latest fiscal year, and 26 analysts rate it Buy with 88% buy-side consensus
 
 ### What to be careful about
-- Shareholder returns: Share count growing (dilution)
-- Valuation: Free cash flow yield 1.1%
+- Valuation is steep at 23x earnings with only 1.3% free cash flow yield, leaving little room for disappointment
+- Three-year revenue trend is negative at -5% annually, meaning growth is recent and unproven as a pattern
+- Share count has grown 21.4% over three years, diluting existing shareholders despite the company's cash generation
 
-**Watch next:** The next quarterly report: whether revenue growth of +254% holds.
+**Watch next:** Whether the 254% revenue jump in 2023 reflects a sustainable new product cycle or a one-time event that will normalize.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors who can tolerate high volatility (38% yearly) and believe in a biotech company's recent profitability inflection, and who are comfortable with a premium valuation.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2023-12-31)
 - Revenue $35.5M (+254% vs prior year)

@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Top rated** · Neutral read · trend: Downtrend
 
-## Top rated: growth stands out, price trend holds it back
+## Gold miner with strong cash generation trades well below recent highs
 
-Kinross Gold Corporation scores 78 of 100 on the Compass, which puts it in the Top rated tier. Its long-term price trend is: downtrend.
+Kinross Gold is a Canadian mining company that produced $7.1 billion in revenue in 2025, up 37% from the prior year. The company keeps 34% of revenue as profit and generates substantial free cash flow. Its stock has fallen 43% from its 52-week high but trades at relatively low multiples to earnings and cash flow.
 
 ### What is working
-- Growth: Revenue +27% a year over 3 years
-- Valuation: Free cash flow yield 9.7%
-- Balance sheet: Net cash of $1.0B
+- Revenue grew 37% year over year and averaged 27% annual growth over three years
+- Free cash flow margin of 36% and net cash position of $1.0 billion show financial strength
+- Trades at 8x earnings with 6.8% free cash flow yield; 93% of 15 analysts rate it a buy
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
+- Stock is down 12% over the past year and 32% over the past six months
+- Price sits 43% below its 52-week high of $38.07; yearly volatility is 55%
+- Price remains below its 200-day moving average, suggesting ongoing downward momentum
 
-**Watch next:** The next quarterly report: whether revenue growth of +37% holds.
+**Watch next:** Whether the stock can stabilize above its 200-day moving average, given that revenue growth and cash generation remain strong but price momentum has deteriorated.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Long-term investors who can tolerate high volatility and are comfortable holding through downturns, particularly those interested in commodity-linked businesses with current profitability.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $7.1B (+37% vs prior year)

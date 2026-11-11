@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: price trend stands out, valuation holds it back
+## Waste management company with strong price momentum but expensive valuation
 
-Waste Connections, Inc. scores 67 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Waste Connections is a Canada-based waste management company generating $9.5 billion in annual revenue. It keeps 11% of revenue as profit and produces $1.2 billion in free cash flow each year. The stock price has climbed 15% over the past year and sits near its 52-week high.
 
 ### What is working
-- Price trend: Price is above its 200-day average
-- Shareholder returns: Share count flat
-- Balance sheet: Debt is 0.9x shareholder equity
+- Revenue growing 9% per year over three years, with latest quarter up 7% year over year
+- Earnings per share jumped 74% year over year, showing improving profitability
+- Price trend is strong: up 24.3% in one month, 26.4% in six months, and 39% over five years
 
 ### What to be careful about
-- Valuation: Free cash flow yield 2.5%
+- Stock trades at 42.76x earnings, which is expensive relative to the free cash flow yield of 2.5%
+- Share buyback activity is minimal; share count flat over three years means limited shareholder return through that channel
+- Debt stands at $6.9 billion, though balanced by $49.3 billion market value and 0.9x shareholder equity
 
-**Watch next:** The next quarterly report: whether revenue growth of +7% holds.
+**Watch next:** Watch whether the 7% quarterly revenue growth can hold steady or accelerate, since valuation relies on continued earnings expansion.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors seeking a stable, profitable infrastructure company willing to accept a high entry valuation in exchange for predictable cash generation and a track record of rising earnings.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $9.5B (+6% vs prior year)

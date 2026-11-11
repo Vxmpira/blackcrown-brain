@@ -14,22 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: shareholder returns stands out, growth holds it back
+## Global beer giant near 52-week high with strong cash generation but slowing sales
 
-Anheuser-Busch InBev SA/NV scores 68 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Anheuser-Busch InBev is a Belgium-based beverage company that generated $59.3 billion in revenue and $11.2 billion in free cash flow in 2025. Revenue has been nearly flat over three years, though earnings per share grew 19% year over year. The stock has climbed 36% in the past year and trades near its highest point in 52 weeks.
 
 ### What is working
-- Price trend: Price is above its 200-day average
-- Balance sheet: Debt is 0.8x shareholder equity
+- Price momentum is strong: up 36% over one year and currently 98% of the way up its 52-week range
+- Cash generation is robust: free cash flow margin of 19% and $11.2B generated in 2025
+- Analyst consensus is bullish: 84% of 32 analysts rate it a buy with Buy rating
 
 ### What to be careful about
-- Growth: Revenue +1% a year over 3 years
+- Revenue is shrinking: down 1% year over year, with only 1% average annual growth over three years
+- Valuation sits at elevated levels: P/E of 17.03 and free cash flow yield of 7.5% leave less margin for error
+- Debt burden is substantial: $73.0B in debt, though manageable at 0.8x shareholder equity
 
-**Watch next:** The next quarterly report: whether revenue growth of -1% holds.
+**Watch next:** Watch whether revenue can return to growth in coming quarters, since the past year showed a 1% decline despite earnings gains.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Suits long-term investors seeking a defensive stock with steady cash flow and dividends, who are comfortable with a mature company in a slow-growth sector.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $59.3B (-1% vs prior year)

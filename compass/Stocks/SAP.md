@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: balance sheet stands out, valuation holds it back
+## Profitable software giant trading near 52-week high with modest growth ahead
 
-SAP SE scores 73 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+SAP is a large German enterprise software company generating $28.2B in annual revenue with strong profitability (17% net margin) and healthy free cash flow ($6.1B). The stock has recovered well from last year's decline and sits near the top of its 52-week range, though earnings growth is slowing.
 
 ### What is working
-- Balance sheet: Debt is 0.2x shareholder equity
-- Price trend: Price is above its 200-day average
-- Profitability: Keeps 17% of revenue as profit
+- Profitability is solid: converts 17% of revenue to net income and 22% to free cash flow, with 16% return on equity
+- Price momentum is strong: up 39.7% over six months and 59% over five years, currently 81% of the way up its 52-week range
+- Balance sheet is fortress-like: debt is only 0.2x shareholder equity, leaving room to invest or return cash to shareholders
 
 ### What to be careful about
-- Valuation: Free cash flow yield 2.2%
+- Growth is slowing: revenue only up 8% year over year while the stock has run up 39.7% in six months
+- Valuation looks expensive: trades at 31x earnings with only a 2.5% free cash flow yield, leaving little margin for error
+- Stock is down 7.2% over the past year despite analyst optimism, suggesting recent momentum may not reflect fundamentals
 
-**Watch next:** Whether the price holds above its 200-day average.
+**Watch next:** Whether the 8% revenue growth accelerates or continues to lag, since the valuation leaves little room for disappointment.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors seeking a stable, cash-generative business and willing to pay premium multiples for an established market leader in enterprise software.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2017-12-31)
 - Revenue $28.2B (n/a vs prior year)

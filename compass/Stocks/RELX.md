@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: profitability stands out, balance sheet holds it back
+## Highly profitable UK business services firm with strong cash generation and buybacks
 
-RELX Plc scores 66 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+RELX is a specialty business services company based in the UK that generated 9.6B GBP in revenue in 2025, up 2% from the prior year. The company keeps 22% of revenue as profit and produces substantial free cash flow of 2.8B GBP annually. Its stock price has risen 27% over five years but sits 6% below its 52-week high.
 
 ### What is working
-- Profitability: Keeps 22% of revenue as profit
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
+- Exceptional profitability with 22% net margin and 32% operating margin, well above typical service firms
+- Strong free cash flow of 2.8B GBP supports dividends and active buybacks that have reduced share count 4.5% over three years
+- Return on equity of 87% shows the company deploys shareholder capital very efficiently
 
 ### What to be careful about
-- Balance sheet: Debt is 3.1x shareholder equity
-- Growth: Revenue +4% a year over 3 years
+- Debt is 3.1x shareholder equity, a meaningful leverage level that limits financial flexibility
+- Growth is sluggish at only 2% year over year and 4% annualized over three years
+- Valuation at 23x earnings is in the expensive range for an industrials company with modest growth
 
-**Watch next:** The next quarterly report: whether revenue growth of +2% holds.
+**Watch next:** Whether the company can accelerate revenue growth beyond 2-4% annually while maintaining its exceptional 22% profit margins and free cash flow generation.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors seeking stable, mature companies with fortress-like profitability and cash returns through dividends and buybacks, who accept slow revenue growth and higher debt levels.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue 9.6B GBP (+2% vs prior year)

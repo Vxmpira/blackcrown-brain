@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Uptrend
 
-## Strong: price trend stands out
+## Canadian bank posting steady growth and high dividend, but shares near 52-week peak
 
-Canadian Imperial Bank of Commerce scores 71 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: uptrend.
+Canadian Imperial Bank of Commerce is a diversified financial services bank based in Canada that trades on US exchanges. The company generated 29.1 billion CAD in revenue and 8.4 billion CAD in net income in fiscal 2025, with revenue growing 15% in the latest quarter compared to a year ago.
 
 ### What is working
-- Price trend: Price is above its 200-day average
-- Profitability: Keeps 29% of revenue as profit
-- Growth: Revenue +10% a year over 3 years
+- Revenue growth accelerating: latest quarter up 15% year over year, with 3-year average of 10% annually
+- Strong profitability: converts 29% of revenue into net profit, producing 8.4B CAD net income on 29.1B CAD revenue
+- Attractive valuation: trades at 14.78x earnings with 6.5% dividend yield, and generated 13.8B CAD in free cash flow last year
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Share dilution ongoing: share count increased 3.9% over the past 3 years, which reduces ownership per share
+- Stock near recent highs: trading 6% below its 52-week high of 123.74, having already gained 37% in the past year
+- Modest analyst consensus: only 56% of 23 analysts rate it a buy, meaning significant disagreement exists on the outlook
 
-**Watch next:** The next quarterly report: whether revenue growth of +15% holds.
+**Watch next:** Monitor whether revenue growth momentum in the 15% range continues or reverts toward the 10% long-term average, as this will signal whether the latest quarter was a peak or a new baseline.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors seeking stable dividend income and modest growth from a large established bank who are comfortable holding a foreign-domiciled stock and currency exposure to Canadian dollars.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-10-31)
 - Revenue 29.1B CAD (+14% vs prior year)

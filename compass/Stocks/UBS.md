@@ -14,22 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Pullback in uptrend
 
-## Strong: price trend stands out, shareholder returns holds it back
+## Swiss banking giant trading near its highs with strong cash flow but modest earnings growth
 
-UBS Group AG scores 65 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: pullback in uptrend.
+UBS is a diversified global bank with 35.4 billion in annual revenue. It is generating strong free cash flow of 21.9 billion and holds massive cash reserves of 231.4 billion. The company keeps 22% of every revenue dollar as profit.
 
 ### What is working
-- Price trend: Price is above its 200-day average
-- Valuation: Trades at 21x earnings
+- Stock is up 28% over the past year and sits 66% of the way up its 52-week range, showing sustained upward momentum
+- Earnings per share jumped 55% year over year, driven by revenue growth of 7% in the latest period
+- Free cash flow yield stands at 16.2%, and the company is shrinking share count by 3.2% over three years through buybacks
 
 ### What to be careful about
-- Shareholder returns: Share count shrinking (buybacks)
+- Return on equity is only 9%, meaning the bank generates modest returns on shareholder capital invested
+- Revenue grew just 5% per year on average over three years, suggesting slower underlying business expansion
+- Stock is currently 12% below its 52-week high, and yearly volatility is 28%, indicating meaningful price swings
 
-**Watch next:** The next quarterly report: whether revenue growth of +7% holds.
+**Watch next:** Whether earnings growth momentum continues or slows back to the 5% baseline revenue growth rate the company has averaged over the past three years.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors seeking exposure to global banking and financial services who can tolerate 28% yearly volatility and value cash generation over rapid earnings expansion.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2021-12-31)
 - Revenue $35.4B (+7% vs prior year)

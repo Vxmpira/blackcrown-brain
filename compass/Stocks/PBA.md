@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: price trend stands out, growth holds it back
+## Pipeline operator with strong cash generation, but growth and earnings are slowing
 
-Pembina Pipeline Corporation scores 66 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Pembina Pipeline is a Canadian midstream energy company that transports and processes oil and gas. It generates substantial free cash flow and pays a 5.9% dividend, but revenue has declined over three years and recent earnings dropped 11% year over year.
 
 ### What is working
-- Price trend: Price is above its 200-day average
-- Profitability: Keeps 22% of revenue as profit
-- Balance sheet: Debt is 0.7x shareholder equity
+- Free cash flow margin of 42% shows the core business converts most revenue into cash
+- Net profit margin of 22% means the company keeps roughly one dollar of profit for every five in sales
+- Stock price up 32% over the past year and sits near its 52-week high, showing investor confidence
 
 ### What to be careful about
-- Growth: Revenue -12% a year over 3 years
+- Revenue fell 12% per year over three years, signaling a long-term shrinking top line
+- Earnings per share down 11% year over year despite higher total revenue, suggesting cost pressures
+- Debt of 11.7B CAD is 7x the cash on hand, though manageable relative to 0.7x equity ratio
 
-**Watch next:** The next quarterly report: whether revenue growth of +5% holds.
+**Watch next:** Whether the recent revenue turnaround (up 5% year over year) signals a genuine recovery or is temporary, since long-term trend has been declining.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors seeking stable high dividend income who can tolerate energy sector exposure and are comfortable owning a foreign company with slowing growth.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue 7.8B CAD (+5% vs prior year)

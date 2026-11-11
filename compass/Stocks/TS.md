@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong: balance sheet stands out, growth holds it back
+## Strong cash generator in energy services, but growth has stalled
 
-Tenaris S.A. scores 69 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Tenaris makes steel pipes and equipment for oil and gas drilling. The company is profitable and cash-rich, but revenue barely grew over three years and declined 4% last year. Its stock price has surged 48% in the past year despite the slowdown.
 
 ### What is working
-- Balance sheet: Net cash of $266.9M
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
+- Profit margin of 16% shows strong cost control; free cash flow margin of 22% means most revenue converts to cash
+- Net cash position of $266.9M with no liquidity pressure; free cash flow yield of 9.6% is high relative to the stock price
+- Share count down 10.6% over three years plus 3.2% dividend yield mean shareholders are getting returns even without growth
 
 ### What to be careful about
-- Growth: Revenue +1% a year over 3 years
+- Revenue fell 4% year over year and has grown only 1% annually over three years, signaling weak demand in core markets
+- Stock is up 48% in one year while the business itself has not grown; price now sits 86% of the way up its 52-week range
+- Analyst consensus is Hold with only 45% buying; this suggests professional skepticism about upside despite the price run
 
-**Watch next:** The next quarterly report: whether revenue growth of -4% holds.
+**Watch next:** Whether revenue trends return to growth or remain flat over the next two quarters, since demand weakness is the core drag on the business.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors comfortable with low growth but seeking steady cash income and modest buybacks from a capital-light, cyclical energy supplier.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $12.0B (-4% vs prior year)

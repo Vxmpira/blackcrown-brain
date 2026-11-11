@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Pullback in uptrend
 
-## Strong: shareholder returns stands out
+## Agricultural-input giant shows recovery after three-year revenue slide
 
-Nutrien Ltd. scores 69 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: pullback in uptrend.
+Nutrien is a Canadian fertilizer and crop nutrient company with $26.9B in annual revenue. It swung to strong profitability this year after a long contraction, posting $2.3B net income and $2.1B in free cash flow. The stock has climbed 27% in the past year and trades with a 3.9% dividend yield.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Balance sheet: Debt is 0.4x shareholder equity
-- Valuation: Free cash flow yield 6.0%
+- Revenue returned to growth at +4% year over year after declining 11% annually over three years
+- Earnings per share jumped 243% year over year, showing a sharp profitability turnaround
+- Balance sheet is fortress-like with debt at only 0.4x shareholder equity; generates $2.1B free cash flow annually
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Long-term revenue trend remains negative at -11% per year over the past three years
+- Profitability margins are modest: 8% net margin and 9% return on equity; not a high-efficiency business
+- Stock is 14% below its 52-week high and carries 33% yearly volatility, signaling uneven investor appetite
 
-**Watch next:** The next quarterly report: whether revenue growth of +4% holds.
+**Watch next:** Whether the +4% revenue rebound this year marks a genuine turnaround or a temporary bounce in a declining market.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable with cyclical commodity plays who value current dividend income and strong cash generation over rapid growth.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $26.9B (+4% vs prior year)

@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Losing steam
 
-## Strong: balance sheet stands out
+## Oil services firm with strong cash generation but weakening price momentum
 
-TechnipFMC plc scores 68 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: losing steam.
+TechnipFMC is a UK-listed energy services company with $9.9B in annual revenue. It converted 10% of sales into profit last year and generated $1.4B in free cash flow. The company holds net cash of $645.3M and is returning cash to shareholders through buybacks.
 
 ### What is working
-- Balance sheet: Net cash of $645.3M
-- Profitability: Keeps 10% of revenue as profit
-- Valuation: Free cash flow yield 5.3%
+- Profitability is solid: 10% net margin, 14% operating margin, and 29% return on equity show efficient operations
+- Free cash flow yield of 5.8% and $1.4B annual cash generation give room to fund dividends and buybacks
+- Revenue grew 9% last year and averaged 14% yearly growth over three years, outpacing many mature energy firms
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Price is down 19% from its 52-week high and has fallen 11.8% over the past six months despite strong earnings
+- Valuation at 20x earnings is elevated relative to energy sector peers, limiting upside if growth slows
+- Yearly volatility of 33% is high; the stock sits only 58% of the way up its 52-week range, suggesting it lost ground recently
 
-**Watch next:** The next quarterly report: whether revenue growth of +9% holds.
+**Watch next:** Monitor whether the six-month price decline signals fading analyst confidence (currently 69% buy) or is a temporary pullback in a cyclical sector.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable with cyclical energy exposure who prioritize cash generation and balance sheet strength over near-term price recovery.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $9.9B (+9% vs prior year)

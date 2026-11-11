@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Losing steam
 
-## Strong: shareholder returns stands out, growth holds it back
+## Oil giant trading cheap with strong cash flow, but revenue shrinking
 
-Cenovus Energy Inc. scores 62 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: losing steam.
+Cenovus is a large integrated oil and gas company based in Canada. It is profitable with solid cash generation, but revenue has fallen 8% over the past year and 9% annually over three years.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Balance sheet: Debt is 0.3x shareholder equity
-- Profitability: Keeps 8% of revenue as profit
+- Valuation is low at 11x earnings; 91% of analysts rate it a buy
+- Free cash flow of 8.2B CAD and net profit of 3.9B CAD show it converts sales into cash
+- Share count down 9.3% over 3 years and dividend yield of 2.3% show capital returned to owners
 
 ### What to be careful about
-- Growth: Revenue -9% a year over 3 years
+- Revenue down 9% per year over 3 years; latest quarter down 5% year over year
+- Stock down 13.2% in the past month and sits 18% below its 52-week high; volatility is 38%
+- Debt of 11.0B CAD is still meaningful, even though it is only 0.3x equity
 
-**Watch next:** The next quarterly report: whether revenue growth of -5% holds.
+**Watch next:** Whether revenue stabilizes or continues to decline in the next two quarters, since the long-term shrinking trend is the main headwind.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable with commodity exposure who can tolerate high short-term price swings and want current income via dividend.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue 49.7B CAD (-8% vs prior year)

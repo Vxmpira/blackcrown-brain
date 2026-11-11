@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Top rated** · Bullish read · trend: Strong uptrend
 
-## Top rated: shareholder returns stands out
+## Canadian bank with strong profit margins and shrinking share count meets upward price momentum
 
-The Toronto-Dominion Bank scores 85 of 100 on the Compass, which puts it in the Top rated tier. Its long-term price trend is: strong uptrend.
+TD is a diversified bank generating 67.8 billion CAD in annual revenue with a 30% net profit margin and 16% return on equity. The company has grown revenue 11% per year over three years and returned cash to shareholders through buybacks and a 4.6% dividend yield. Price has risen 53% over the past year and sits near its 52-week high.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
-- Profitability: Keeps 30% of revenue as profit
+- Revenue jumped 18% year over year to 16.6B CAD in the latest quarter, outpacing the 3-year trend of 11% annual growth.
+- Earnings per share surged 145% year over year, showing strong bottom-line expansion.
+- Shareholder returns rank at 99 out of 100: share count down 4.7% over three years via buybacks, plus 4.6% dividend yield.
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Free cash flow is deeply negative at -69.6B CAD, a material concern for a financial institution's true cash generation ability.
+- Stock trades at 18x earnings while sitting 91% of the way up its 52-week range, leaving limited room before hitting recent highs.
+- Analyst consensus is only 65 out of 100; while 70% rate it a buy, 30% do not, suggesting meaningful disagreement on outlook.
 
-**Watch next:** The next quarterly report: whether revenue growth of +18% holds.
+**Watch next:** Monitor whether free cash flow remains negative or reverses, since persistent cash burn would undermine the sustainability of buybacks and dividends.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Suits patient investors in developed markets who seek stable dividend income and lower volatility from an established bank with proven profitability and shareholder-friendly capital management.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-10-31)
 - Revenue 67.8B CAD (+18% vs prior year)
