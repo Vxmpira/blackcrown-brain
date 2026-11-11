@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Neutral read · trend: Pullback in uptrend
 
-## Semiconductor company with strong cash generation but shrinking revenue and expensive valuation
+## Chip designer fighting revenue declines while stock price climbs higher
 
-Skyworks Solutions is a semiconductor company generating $4.1 billion in annual revenue with solid profitability and cash flow. However, revenue has declined 9% over three years, and the stock is trading at a high multiple relative to earnings.
+Skyworks Solutions designs semiconductors for mobile and connectivity applications. The company is shrinking by revenue but still generating cash, and its stock price has risen 17% over the past year despite weak earnings.
 
 ### What is working
-- Stock price up 17% over the past year and sitting 75% of the way up its 52-week range, showing sustained upward momentum
-- Generates strong free cash flow of $1.1 billion annually with a 27% free cash flow margin, returning capital via buybacks and a 2.9% dividend
-- Holds $293.1 million in net cash with no significant debt burden, providing financial flexibility
+- Stock price is 75% of the way up its 52-week range and up 17% over one year
+- Company holds $133.3M in net cash and produces $229.3M in annual free cash flow
+- Management is buying back shares (down 5.8% over three years) and paying a 2.9% dividend
 
 ### What to be careful about
-- Revenue fell 9% over the past three years and declined 3% in the latest quarter, indicating ongoing contraction
-- Earnings per share dropped 17% year over year, showing profitability pressure despite stable net margins
-- Stock trades at 113x earnings, one of the highest multiples on record, leaving little room for disappointment
+- Revenue fell 3% last year and is down 6% annually over three years
+- Earnings per share dropped 63% year over year despite positive stock performance
+- Stock trades at 113x earnings while free cash flow yield is only 1.2%, suggesting high valuation risk
 
-**Watch next:** Whether quarterly revenue stabilizes or continues declining, since the 3-year downtrend is the primary headwind offsetting the company's strong cash generation.
+**Watch next:** Whether the next two quarters show revenue stabilization or continued decline, since the stock has climbed while the business has contracted.
 
-**Tends to suit:** Long-term investors comfortable holding mature semiconductor companies with declining revenue but reliable cash returns, who can tolerate high valuation multiples and 50% yearly stock volatility.
+**Tends to suit:** Investors comfortable with high valuations and declining revenue who believe a turnaround is coming, not those seeking immediate earnings growth.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-10-02)
 - Revenue $4.0B (-3% vs prior year)
