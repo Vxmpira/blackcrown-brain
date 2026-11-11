@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend, bouncing
 
-## Solid: profitability stands out, price trend holds it back
+## Profitable pharma with slow growth; stock down from highs despite strong cash generation
 
-GSK plc scores 57 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend, bouncing.
+GSK is a large UK-based drug manufacturer generating 32.7 billion GBP in annual revenue with a 18% profit margin and 6.4 billion GBP in free cash flow. Revenue has grown only 4% annually over the past three years, while the stock has fallen 16% from its 52-week high but remains up 10% over the past year.
 
 ### What is working
-- Profitability: Keeps 18% of revenue as profit
-- Shareholder returns: Share count growing (dilution)
-- Balance sheet: Debt is 0.9x shareholder equity
+- Keeps 18% of revenue as profit and generates 6.4B GBP in free cash flow annually, indicating efficient operations
+- Return on equity stands at 35%, showing strong returns on shareholder capital
+- Dividend yield of 3.9% provides ongoing income to shareholders
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
+- Revenue growth of only 4% annually over three years signals slow expansion in a competitive industry
+- Stock is 34% down from its 52-week high of 61.18 GBP and sits below its 200-day price average, indicating recent weakness
+- Debt of 14.5B GBP is 0.9x shareholder equity, moderating leverage but still material for a company of this size
 
-**Watch next:** The next quarterly report: whether revenue growth of +4% holds.
+**Watch next:** The 44% buy rating from analysts conflicts with the Hold consensus, suggesting divided opinion on where GSK heads next.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Patient investors seeking dividend income from a stable, cash-generative business who can tolerate modest growth and recent price declines in a healthcare holding.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue 32.7B GBP (+4% vs prior year)

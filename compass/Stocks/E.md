@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Pullback in uptrend
 
-## Solid: shareholder returns stands out, growth holds it back
+## Energy giant with strong price momentum but shrinking revenue and modest profits
 
-Eni S.p.A. scores 59 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: pullback in uptrend.
+Eni is a large Italian oil and gas company that has climbed 49% in the past year and trades cheaply at 8x earnings. However, its revenue has fallen 7% in the latest year and 15% annually over three years, while profit margins remain thin at 3%.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
-- Balance sheet: Debt is 0.6x shareholder equity
+- Stock price up 49% over the past year and sits 73% of the way up its 52-week range, showing sustained upward momentum
+- Valuation is attractive at 8x earnings, among the lowest in the dataset tier
+- Returns cash to shareholders through buybacks (share count down 11.5% over 3 years) and a 6.0% dividend yield
 
 ### What to be careful about
-- Growth: Revenue -15% a year over 3 years
+- Revenue has fallen 7% in the latest year and declined 15% annually over the past three years
+- Profit margin is just 3%, meaning the company keeps only 3 cents of every euro in revenue as profit
+- Debt is 28.5B EUR against just 8.1B EUR in cash, leaving 0.6x equity in liabilities to manage
 
-**Watch next:** The next quarterly report: whether revenue growth of -7% holds.
+**Watch next:** Monitor whether revenue stabilizes or continues to decline, since the three-year downtrend is the largest concern beneath the stock's recent price strength.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** This profile suits long-term investors comfortable with cyclical commodity exposure who can tolerate thin margins and value steady dividend income over near-term growth.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue 82.2B EUR (-7% vs prior year)

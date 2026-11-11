@@ -14,22 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Uptrend
 
-## Strong: price trend stands out
+## Strong bank with steady uptrend but analysts mostly cautious
 
-Bank of Montreal scores 64 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: uptrend.
+Bank of Montreal is a large Canadian diversified bank with 36.3 billion CAD in annual revenue. It kept 24% of revenue as profit last year and generates substantial free cash flow of 10.2 billion CAD. The stock has risen 39.7% over the past year and sits near its 52-week high.
 
 ### What is working
-- Price trend: Price is above its 200-day average
-- Profitability: Keeps 24% of revenue as profit
+- Price momentum: up 39.7% over one year and 57% over five years, currently 80% of the way up its 52-week range
+- Earnings growth: earnings per share rose 20% year over year in the latest period
+- Cash generation: free cash flow of 10.2 billion CAD with 67.4 billion CAD on hand provides financial flexibility
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Analyst skepticism: only 40% of 20 analysts rate it a buy; consensus is Hold, not Buy
+- Revenue growth stalling: revenue up only 2% per year over three years, though latest quarter showed 6% growth
+- Low return on equity: 10% ROE is modest for a financial institution and suggests capital is not generating outsized returns
 
-**Watch next:** The next quarterly report: whether revenue growth of +6% holds.
+**Watch next:** Whether revenue growth can sustain the 6% quarterly pace or revert to the slower 2% annual trend that dominated the past three years.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable with large-cap financial stocks who value steady dividend income over rapid capital appreciation and can tolerate currency exposure to Canadian dollars.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-10-31)
 - Revenue 36.3B CAD (+11% vs prior year)

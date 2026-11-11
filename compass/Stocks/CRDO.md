@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Neutral read · trend: Downtrend
 
-## Solid: growth stands out, shareholder returns holds it back
+## High-growth chip designer with surging sales but steep valuation and recent price decline
 
-Credo Technology Group Holding Ltd scores 59 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend.
+Credo Technology designs semiconductors and trades on US exchanges. The company doubled revenue year over year and kept 35% as profit. It holds $466.9 million in net cash and owes no debt.
 
 ### What is working
-- Growth: Revenue +94% a year over 3 years
-- Balance sheet: Net cash of $466.9M
-- Profitability: Keeps 35% of revenue as profit
+- Revenue grew 115% in the latest quarter and 206% over the prior full year
+- Net profit margin sits at 35%; free cash flow margin at 30%
+- Balance sheet has $466.9M in net cash with zero debt; return on equity is 17%
 
 ### What to be careful about
-- Shareholder returns: Share count growing (dilution)
-- Price trend: Price is below its 200-day average
-- Valuation: Free cash flow yield 1.7%
+- Stock is down 21% over the past year and sits 57% below its 52-week high of $302.52
+- Trades at 46x earnings; free cash flow yield is only 1.6%, suggesting limited income relative to price
+- Share count has grown 28.4% over three years, diluting existing shareholder stakes
 
-**Watch next:** The next quarterly report: whether revenue growth of +115% holds.
+**Watch next:** Whether revenue growth can sustain its 115% pace or begins to moderate as the company matures and market comparisons get tougher.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Patient investors who can tolerate 99% yearly volatility and own unprofitable-on-paper growth stocks that trade on earnings multiples rather than cash returns.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-05-02)
 - Revenue $1.3B (+206% vs prior year)

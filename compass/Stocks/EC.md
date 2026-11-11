@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Pullback in uptrend
 
-## Solid: shareholder returns stands out, growth holds it back
+## Colombian oil giant trades cheap with fat dividend, but earnings fell sharply
 
-Ecopetrol S.A. scores 60 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: pullback in uptrend.
+Ecopetrol is an integrated oil and gas company headquartered in Colombia. It reported revenue of 133.3 trillion COP in 2024 and keeps 10% of sales as profit. The stock has surged 54% over the past year but earnings per share dropped 34% year over year.
 
 ### What is working
-- Price trend: Price is above its 200-day average
-- Profitability: Keeps 10% of revenue as profit
+- Price sits 67% of the way up its 52-week range, above the 200-day moving average, showing upward momentum
+- Free cash flow margin of 27% and return on equity of 17% show strong cash generation relative to size
+- Dividend yield of 15% is unusually high; trades at 12x earnings, at or below historical norms for the sector
 
 ### What to be careful about
-- Growth: Revenue +13% a year over 3 years
-- Balance sheet: Debt is 1.5x shareholder equity
+- Latest revenue fell 7% year over year; earnings per share down 34% despite long-term 13% annual revenue growth
+- Debt stands at 1.5x shareholder equity, which limits financial flexibility in a volatile commodity market
+- Nine analysts covering the stock have a Sell consensus; only 11% rate it a Buy, suggesting skepticism on near-term outlook
 
-**Watch next:** The next quarterly report: whether revenue growth of -7% holds.
+**Watch next:** Whether revenue stabilizes or continues falling in upcoming quarters, since the most recent year showed a sharp reversal from the three-year growth trend.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors seeking high current income from an established commodity producer and willing to tolerate currency risk, commodity price swings, and analyst pessimism.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2024-12-31)
 - Revenue 133.3T COP (-7% vs prior year)

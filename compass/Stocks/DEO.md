@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Strong uptrend
 
-## Mixed: shareholder returns stands out, balance sheet holds it back
+## Diageo: Flat growth but strong cash returns in mature spirits market
 
-Diageo plc scores 49 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: strong uptrend.
+Diageo is a UK-based alcoholic beverages company with $28.0B in annual revenue. The stock has rallied 12% over the past year and trades near 52-week highs, but the business itself is not growing and earnings fell 39% year over year.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
-- Profitability: Keeps 9% of revenue as profit
+- Price momentum is strong: up 12% in one year and sitting 98% of the way up its 52-week range.
+- Profitability is solid: the company keeps 9% of revenue as profit and generates $4.3B in free cash flow annually.
+- Capital returns are generous: dividend yield is 2.8% and the share count has shrunk 4.2% over three years via buybacks.
 
 ### What to be careful about
-- Balance sheet: Debt is 1.9x shareholder equity
-- Growth: Revenue -2% a year over 3 years
-- Valuation: Free cash flow yield 1.9%
+- Revenue is flat to declining: up 0% year over year and down 2% annually over the past three years.
+- Earnings took a sharp hit: earnings per share fell 39% year over year, suggesting recent profitability challenges.
+- Debt load is heavy: at $21.7B, debt is 1.9x shareholder equity, which limits financial flexibility.
 
-**Watch next:** The next quarterly report: whether revenue growth of +0% holds.
+**Watch next:** Whether revenue growth returns to positive territory in the next fiscal year, since the stock's recent rally rests on momentum rather than business expansion.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors seeking steady dividend income and buybacks from an established company, who can tolerate a stagnant top line and are comfortable with high leverage.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-06-30)
 - Revenue $28.0B (+0% vs prior year)

@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Losing steam
 
-## Mixed: shareholder returns stands out, profitability holds it back
+## South Korean bank trading cheap with strong dividend but slowing momentum
 
-Shinhan Financial Group Co., Ltd. scores 50 of 100 on the Compass, which puts it in the Mixed tier. Its long-term price trend is: losing steam.
+Shinhan Financial is a regional bank based in South Korea with revenue of 74.1T KRW and net income of 4.5T KRW in 2024. The company trades at 7x earnings and offers a 6.6% dividend yield while buying back shares. Recent price action shows weakness after a strong year.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Growth: Latest revenue +21% year over year
+- Revenue grew 21% year over year to 74.1T KRW, significantly outpacing earnings growth
+- Valuation is low at 7x earnings with dividend yield of 6.6%, among the best on the scorecard
+- Analyst consensus is Buy from 29 firms, with 97% rating it a buy
 
 ### What to be careful about
-- Profitability: Keeps 6% of revenue as profit
-- Price trend: Price is below its 200-day average
+- Profitability is thin with only 6% net margin and 8% return on equity, both weak scores
+- Price dropped 15% in the past month and is 24% below its 52-week high, showing momentum loss
+- Debt of 49.9T KRW exceeds cash of 35.2T KRW by 14.7T KRW, a net debt position
 
-**Watch next:** The next quarterly report: whether revenue growth of +21% holds.
+**Watch next:** Whether the 1-month decline of 15% signals a reversal in the 1-year uptrend of 20%, or if it stabilizes near current levels.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors seeking high current income from dividends with exposure to South Korean financial markets, who can tolerate currency risk and regional economic cycles.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2024-12-31)
 - Revenue 74.1T KRW (+21% vs prior year)

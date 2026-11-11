@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Losing steam
 
-## Solid: balance sheet stands out, growth holds it back
+## Profitable energy producer with strong cash generation facing revenue decline
 
-Woodside Energy Group Ltd scores 58 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: losing steam.
+Woodside Energy is an Australian oil and gas exploration company. It generates substantial profits and free cash flow but has seen revenue shrink 8% over three years. The stock has gained 25% in the past year yet recently lost momentum.
 
 ### What is working
-- Balance sheet: Debt is 0.3x shareholder equity
-- Valuation: Free cash flow yield 17.8%
-- Profitability: Keeps 21% of revenue as profit
+- Keeps 21% of revenue as profit and generates $7.2B in free cash flow annually
+- Trades at 17.8% free cash flow yield with minimal debt at 0.3x shareholder equity
+- Up 25% over the past year and sits at mid-range valuation of 14.84x earnings
 
 ### What to be careful about
-- Growth: Revenue -8% a year over 3 years
+- Revenue fell 1% year over year and declined 8% annually over three years
+- Earnings per share dropped 24% in the latest year despite high profitability
+- Share count grew 25.5% over three years, diluting ownership in each share
 
-**Watch next:** The next quarterly report: whether revenue growth of -1% holds.
+**Watch next:** Whether revenue stabilizes or continues its multi-year decline, since the company depends on commodity markets and production volumes.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors seeking high current cash returns who can tolerate commodity price swings and shrinking top-line revenue in exchange for strong balance sheet strength.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $13.0B (-1% vs prior year)

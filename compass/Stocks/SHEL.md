@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Pullback in uptrend
 
-## Strong: valuation stands out, growth holds it back
+## Energy giant trades cheap with strong cash but revenue in long decline
 
-Shell plc scores 64 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: pullback in uptrend.
+Shell is a large integrated oil and gas company generating substantial free cash flow of 42.9 billion dollars annually. Revenue has declined 11 percent per year over three years, falling 12 percent in the latest quarter. The stock is up 29 percent over the past year and trades at a valuation multiple well below historical averages.
 
 ### What is working
-- Valuation: Free cash flow yield 7.4%
-- Shareholder returns: Share count shrinking (buybacks)
-- Balance sheet: Debt is 0.4x shareholder equity
+- Free cash flow yield of 20.4 percent is very high; company generated 42.9 billion dollars in free cash flow last year
+- Shareholder returns active: share count down 19.7 percent over three years via buybacks, plus 3.9 percent dividend yield
+- Balance sheet is strong with debt at only 0.4x shareholder equity; cash on hand is 30.2 billion dollars
 
 ### What to be careful about
-- Growth: Revenue -11% a year over 3 years
+- Revenue declined 11 percent annually over three years and fell 12 percent in the latest quarter alone
+- Price is down 11 percent from its 52-week high of 108.69 dollars; recent pullback follows sharp one-year gain
+- Analyst consensus is Hold, not Buy, despite 60 percent buy ratings; 25 analysts offer mixed outlook
 
-**Watch next:** The next quarterly report: whether revenue growth of -12% holds.
+**Watch next:** Whether the multi-year revenue decline reverses or continues, since cash generation depends on both production and commodity prices that the data sheet does not forecast.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors seeking high current cash returns and willing to accept revenue headwinds and commodity-linked volatility in exchange for buybacks and dividend income.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $266.9B (-6% vs prior year)

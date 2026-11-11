@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Strong uptrend
 
-## Solid: balance sheet stands out, valuation holds it back
+## Teva rides strong price momentum but earnings are sliding and valuation looks stretched
 
-Teva Pharmaceutical Industries Limited scores 61 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: strong uptrend.
+Teva is a large Israeli pharmaceutical maker with $17.3B in annual revenue, split between generic drugs and specialty medicines. The stock has surged 77% in the past year and sits near its 52-week high, but recent earnings and revenue trends are moving backward.
 
 ### What is working
-- Balance sheet: Net cash of $4.0B
-- Price trend: Price is above its 200-day average
-- Profitability: Keeps 8% of revenue as profit
+- Stock price is up 77% over one year and trades 97% of the way up its 52-week range
+- Strong balance sheet with $4.0B in net cash and no real debt pressure ($40.0M owed)
+- Generates $1.1B in free cash flow annually and analyst consensus is 86% buy ratings
 
 ### What to be careful about
-- Valuation: Free cash flow yield 2.3%
-- Growth: Revenue +5% a year over 3 years
+- Earnings per share fell 30% year over year, and latest quarter revenue dropped 2%
+- Trades at 99x earnings with only 0.7% free cash flow yield, near historically expensive levels
+- Share count growing 4.8% over three years (shareholder dilution) with no dividend to offset it
 
-**Watch next:** The next quarterly report: whether revenue growth of -2% holds.
+**Watch next:** Whether revenue and earnings stabilize or continue declining in coming quarters, since the recent momentum appears disconnected from slowing financial results.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable with pharmaceutical cycles who value strong cash generation and a fortress balance sheet, but can tolerate high valuation multiples.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $17.3B (+4% vs prior year)

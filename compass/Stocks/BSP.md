@@ -14,18 +14,22 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Building: price trend stands out
+## Italian software maker with explosive price rise but heavy debt load
 
-Bending Spoons S.p.A. scores 95 of 100 on the Compass, which puts it in the Building tier. Its long-term price trend is: strong uptrend.
+Bending Spoons is a technology company based in Italy that develops applications. The stock has experienced an extraordinary 660860% price surge over the past year, though it remains 26% below its 52-week high. The company carries significant debt relative to shareholder equity.
 
 ### What is working
-- Price trend: Price is above its 200-day average
+- Price is 74% of the way up its 52-week range, showing sustained upward momentum over time
+- 69% of 16 analysts rate it a buy, suggesting broad analyst support for the company
+- Stock closed at 41.31 on 2026-11-10, up 11.5% in the past month
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Debt is 4.1x shareholder equity, meaning the company owes significantly more than shareholder capital
+- Yearly volatility is 1028%, meaning price swings are extreme and unpredictable
+- Stock is down 26% from its 52-week high of 55.77, showing recent pullback from peak
 
-**Watch next:** Whether the price holds above its 200-day average.
+**Watch next:** Whether the company can generate positive free cash flow to reduce its 4.1x debt-to-equity ratio, which is the most pressing financial risk visible in the data.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Long-term investors comfortable with very high price swings and foreign exchange exposure who believe in the company's ability to manage its debt burden over time.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.

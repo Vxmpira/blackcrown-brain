@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend
 
-## Solid: growth stands out, shareholder returns holds it back
+## Fast-growing Brazilian fintech trades cheap but stock is down 24% in a year
 
-Nu Holdings Ltd. scores 55 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend.
+Nu is a financial services company based in Brazil with US-listed shares. It grew revenue 43% last year and keeps 17 cents of profit per dollar of sales. The stock price has fallen sharply despite strong earnings growth and analyst backing.
 
 ### What is working
-- Growth: Revenue +89% a year over 3 years
-- Profitability: Keeps 17% of revenue as profit
+- Revenue jumped 89% per year over the last three years; latest year showed 43% growth
+- Net profit margin of 17% and return on equity of 26% show efficient operations
+- Free cash flow of $2.4B and cash balance of $9.2B provide financial cushion
 
 ### What to be careful about
-- Shareholder returns: Share count growing (dilution)
-- Price trend: Price is below its 200-day average
+- Stock down 24% over the past year and sits near the bottom of its 52-week range
+- Share count grew 205% over three years, meaning existing shareholders own smaller pieces
+- High volatility at 47% yearly; price swings make it risky for nervous investors
 
-**Watch next:** The next quarterly report: whether revenue growth of +43% holds.
+**Watch next:** Whether the stock finds support at current levels or continues declining, given the disconnect between strong earnings growth and falling price.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Patient, dollar-cost-averaging investors in emerging markets who can tolerate 47% swings and foreign company risks without panicking.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2024-12-31)
 - Revenue $11.5B (+43% vs prior year)

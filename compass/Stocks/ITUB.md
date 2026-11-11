@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Losing steam
 
-## Solid: profitability stands out, growth holds it back
+## Brazilian bank with strong profits but weakening growth and recent price slide
 
-Itaú Unibanco Holding S.A. scores 54 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: losing steam.
+Itaú Unibanco is a major financial services company based in Brazil. It keeps a quarter of its revenue as profit and generates solid cash flow, but earnings per share fell 25% in the latest year while its stock price has dropped 26% in the past month.
 
 ### What is working
-- Profitability: Keeps 24% of revenue as profit
-- Shareholder returns: Share count growing (dilution)
+- Net profit margin of 24% shows efficient operations relative to revenue
+- Return on equity of 19% demonstrates capital is working well for shareholders
+- Trades at 10x earnings, the lowest valuation tier, compared to typical market multiples
 
 ### What to be careful about
-- Growth: Revenue +10% a year over 3 years
-- Price trend: Price is below its 200-day average
+- Earnings per share fell 25% year over year despite revenue growing 8%
+- Stock is down 26.5% in just the past month and sits near the low end of its 52-week range
+- Yearly volatility of 43% means price swings are steep; stock is down 2% over the past year
 
-**Watch next:** The next quarterly report: whether revenue growth of +8% holds.
+**Watch next:** Whether earnings per share stabilizes next quarter after falling 25% this year, and whether the recent sharp price decline reflects temporary weakness or deeper concerns.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable holding foreign bank stocks with currency risk, seeking dividend income plus capital appreciation from an undervalued but slowing earnings profile.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2024-12-31)
 - Revenue 168.1B BRL (+8% vs prior year)

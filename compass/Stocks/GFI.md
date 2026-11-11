@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend
 
-## Solid: balance sheet stands out, price trend holds it back
+## Gold miner with strong profits and 24% return on equity, but stock down 16% in six months
 
-Gold Fields Limited scores 57 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend.
+Gold Fields is a South African mining company that generated $5.2 billion in revenue and $1.2 billion in net income in 2024. It keeps 24 cents of profit from every dollar of sales and has a strong balance sheet with debt at half the level of shareholder equity.
 
 ### What is working
-- Balance sheet: Debt is 0.5x shareholder equity
-- Profitability: Keeps 24% of revenue as profit
-- Shareholder returns: Share count flat
+- Net income jumped 79% year over year while revenue grew 16%, showing expanding profitability
+- Return on equity of 24% means the company generates strong returns on shareholder capital
+- 14 analysts cover the stock with 71% rating it a buy; consensus is Buy
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Valuation: Free cash flow yield 1.2%
+- Stock is down 15.8% over the past six months and sits 38% below its 52-week high
+- Price trades below its 200-day average; short-term trend is down despite long-term strength
+- Yearly volatility of 62% indicates large price swings; the stock can move sharply
 
-**Watch next:** The next quarterly report: whether revenue growth of +16% holds.
+**Watch next:** Whether the stock can stabilize above its 200-day average while gold prices and earnings remain strong.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Long-term investors who can tolerate gold price swings and want exposure to a profitable mining company with dividend income and a fortress balance sheet.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2024-12-31)
 - Revenue $5.2B (+16% vs prior year)

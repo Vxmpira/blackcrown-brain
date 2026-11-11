@@ -14,22 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Losing steam
 
-## Solid: shareholder returns stands out
+## Insurance giant with steady growth, but momentum is slowing after a strong year
 
-Sun Life Financial Inc. scores 58 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: losing steam.
+Sun Life Financial is a diversified insurance and financial services company based in Canada. It generated 41.9 billion CAD in revenue in 2025 with 3.6 billion CAD in net income. The company pays a 4.5% dividend and is buying back shares.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Growth: Revenue +94% a year over 3 years
+- Revenue grew 8% year over year and averaged 94% annual growth over 3 years
+- Earnings per share rose 17% year over year, outpacing revenue growth
+- Dividend yield of 4.5% plus ongoing share buybacks (down 3.9% over 3 years) return cash to shareholders
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Net profit margin of 8% means the company keeps only 8 cents of each revenue dollar
+- Stock price fell 12% from its 52-week high and dropped 4.9% in the past month
+- Price sits below its 200-day average, suggesting recent weakness in momentum
 
-**Watch next:** The next quarterly report: whether revenue growth of +8% holds.
+**Watch next:** Whether the 8% revenue growth can reaccelerate, since the stock has lost momentum while annual earnings growth remains solid at 17%.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Long-term investors seeking steady dividend income and modest capital appreciation who are comfortable holding a foreign financial services stock through normal market cycles.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue 41.9B CAD (+8% vs prior year)

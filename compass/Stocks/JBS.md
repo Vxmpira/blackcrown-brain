@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend, bouncing
 
-## Solid: balance sheet stands out, price trend holds it back
+## Meat processor with strong cash generation, but stock down 33% from highs
 
-Jbs N.V. scores 57 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend, bouncing.
+JBS is a large global meat and protein company doing $86.2B in annual revenue. It is growing sales and earnings in the mid-teens, but operates on razor-thin profit margins of 2%. The stock has fallen sharply over the past year despite the company generating solid free cash flow.
 
 ### What is working
-- Balance sheet: Net cash of $4.4B
-- Valuation: Free cash flow yield 6.3%
-- Shareholder returns: Share count flat
+- Revenue grew 13% last quarter and 12% full year, with earnings per share up 15%
+- Company has $4.4B in net cash on the balance sheet with minimal debt of $191M
+- Free cash flow yield of 5.9% and dividend yield of 11.2% are both above typical market averages
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
+- Net profit margin is only 2%, meaning the company keeps just pennies on every dollar of sales
+- Stock has fallen 4% over the past year and sits 33% below its 52-week high
+- Price volatility is 35%, indicating significant swings in investor sentiment
 
-**Watch next:** The next quarterly report: whether revenue growth of +13% holds.
+**Watch next:** Monitor whether the company's free cash flow can stay stable above $800M annually while the stock price determines if the recent downtrend finds support or breaks lower.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors seeking a dividend-yielding business with steady cash generation but comfort with single-digit profit margins and commodity-sector volatility.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $86.2B (+12% vs prior year)

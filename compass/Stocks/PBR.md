@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Losing steam
 
-## Solid: shareholder returns stands out, growth holds it back
+## Oil giant with strong cash and dividends, but earnings and revenue are falling fast
 
-Petróleo Brasileiro S.A. - Petrobras scores 54 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: losing steam.
+Petrobras is a massive integrated oil and gas company based in Brazil. It generated $91.4 billion in revenue and $38 billion in free cash flow last year. The stock pays a 9.4% dividend yield and trades cheaply relative to earnings and cash generation.
 
 ### What is working
-- Balance sheet: Debt is 0.4x shareholder equity
-- Profitability: Keeps 8% of revenue as profit
+- Free cash flow margin is 42%, meaning the company converts nearly half its revenue into cash it can distribute or reinvest.
+- Dividend yield of 9.4% is well above typical stock yields, backed by actual free cash flow of $38.0 billion per year.
+- Valuation is lean: trades at 5x earnings with a free cash flow yield of 6.1%, among the lowest multiples on record.
 
 ### What to be careful about
-- Growth: Revenue +3% a year over 3 years
-- Valuation: Trades at 32x earnings
+- Revenue fell 11% year over year to $21.0 billion in the latest quarter, and net income dropped 70% annually.
+- Stock price is down 28.1% over the past month and sits 30% below its 52-week high, signaling recent investor concern.
+- Yearly volatility is 39%, reflecting the cyclical nature of oil prices and the company's exposure to commodity swings.
 
-**Watch next:** The next quarterly report: whether revenue growth of -10% holds.
+**Watch next:** Whether revenue and earnings stabilize or continue falling, since the recent collapse in profitability is the core risk beneath the attractive dividend yield.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors seeking high current income who can tolerate commodity-linked volatility and are comfortable with a foreign-domiciled energy company.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2024-12-31)
 - Revenue $91.4B (-11% vs prior year)

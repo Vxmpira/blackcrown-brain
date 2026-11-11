@@ -14,22 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Pullback in uptrend
 
-## Solid: shareholder returns stands out, growth holds it back
+## Energy giant with strong cash generation but flat earnings and shrinking revenue
 
-BP p.l.c. scores 52 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: pullback in uptrend.
+BP is a major integrated oil and gas company generating massive free cash flow of 24.5 billion dollars annually. Revenue has declined 8 percent over three years, and the company converted minimal profit to net income despite large operating margins. The stock has risen 22 percent in the past year and currently trades 13 percent below its 52-week high.
 
 ### What is working
-- Price trend: Price is above its 200-day average
+- Free cash flow yield of 28.5 percent is exceptionally high, meaning the company returns substantial cash relative to its market value of 86 billion dollars
+- Dividend yield of 4.8 percent paid consistently; the company prioritizes shareholder returns despite volatile earnings
+- Stock price up 22 percent in the past year and 60 percent over five years; currently above its 200-day moving average showing upward momentum
 
 ### What to be careful about
-- Growth: Revenue -8% a year over 3 years
-- Profitability: Keeps 0% of revenue as profit
+- Revenue fell 8 percent over three years and dropped 1 percent year over year to 192.5 billion dollars, signaling contraction in core business
+- Net margin of 0 percent means almost no profit reaches shareholders after all costs; net income was only 55 million dollars on 192.5 billion in revenue
+- Debt of 58 billion dollars is 1.1x shareholder equity, leaving moderate leverage; the company carries meaningful financial obligations
 
-**Watch next:** The next quarterly report: whether revenue growth of -1% holds.
+**Watch next:** Monitor whether free cash flow of 24.5 billion dollars remains stable as revenue contracts, since cash generation depends partly on commodity prices outside management control.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors seeking high current dividend income and cash returns who can tolerate commodity-linked volatility and declining revenue trends.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $192.5B (-1% vs prior year)

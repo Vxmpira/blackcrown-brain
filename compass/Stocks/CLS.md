@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend
 
-## Solid: balance sheet stands out, price trend holds it back
+## Fast-growing hardware supplier with strong cash balance, but stock down sharply
 
-Celestica Inc. scores 58 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend.
+Celestica is a Canadian technology company that makes hardware components and equipment. Revenue grew 28% last year and 83% in the latest quarter. The stock has fallen 30% over the past year despite strong earnings growth.
 
 ### What is working
-- Balance sheet: Net cash of $4.0B
-- Shareholder returns: Share count shrinking (buybacks)
-- Growth: Revenue +20% a year over 3 years
+- Revenue jumped 83% in the latest quarter year over year, and annual revenue rose 28%
+- Company holds $4.0B in net cash with zero debt on its balance sheet
+- Share count has shrunk 6% over three years through buybacks; 93% of analysts rate it a buy
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
+- Stock is down 30% over the past year and sits 53% below its 52-week high at $223.89
+- Profit margin is only 7% of revenue; free cash flow margin is just 4%
+- Trades at 25x earnings with a free cash flow yield of only 1.2%, suggesting limited margin of safety
 
-**Watch next:** The next quarterly report: whether revenue growth of +83% holds.
+**Watch next:** Whether the 83% latest-quarter revenue growth can sustain or if growth moderates sharply in coming quarters.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Patient investors comfortable with hardware cyclicality who want growth exposure and can tolerate 82% annual volatility in share price.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $12.4B (+28% vs prior year)

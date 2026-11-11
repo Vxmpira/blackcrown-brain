@@ -14,22 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Turning up
 
-## Solid: balance sheet stands out
+## European budget airline with steady growth, weak recent earnings, and cheap valuation
 
-Ryanair Holdings plc scores 59 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: turning up.
+Ryanair is a large Irish airline that has grown revenue 43% per year over three years and keeps 6% of sales as profit. Latest year revenue grew just 4% while earnings per share fell 13%, signaling slowdown or margin pressure. The company carries low debt relative to shareholder equity.
 
 ### What is working
-- Balance sheet: Debt is 0.4x shareholder equity
-- Shareholder returns: Share count shrinking (buybacks)
+- Revenue expanded 43% per year over the past 3 years, showing strong long-term demand
+- Valuation is low at 14x earnings; balance sheet is strong with debt at only 0.4x equity
+- Generates positive free cash flow of 470.8M EUR and has shrunk share count by 2% in 3 years through buybacks
 
 ### What to be careful about
-- No area scores below 45 right now. Strong numbers can still reverse.
+- Earnings per share dropped 13% year over year despite 4% revenue growth, suggesting profit margins are under pressure
+- Latest revenue growth slowed to just 4%, a dramatic slowdown from the 43% three-year trend
+- Stock price is down 4% over the past year and remains 17% below its 52-week high; volatility is 37%
 
-**Watch next:** The next quarterly report: whether revenue growth of +4% holds.
+**Watch next:** Watch whether the next earnings show if the 13% earnings decline was temporary pressure or the start of a trend toward slower profit growth.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Long-term investors comfortable with airline industry volatility and currency risk (EUR reporting) who believe profit margins will stabilize or improve.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-03-31)
 - Revenue 13.9B EUR (+4% vs prior year)

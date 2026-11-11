@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend
 
-## Solid: valuation stands out, price trend holds it back
+## Mining giant with strong cash generation but weakening earnings and recent price decline
 
-Rio Tinto Group scores 58 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend.
+Rio Tinto is a major global mining and materials company. It keeps 17% of revenue as profit and generates substantial free cash flow, but earnings per share fell 14% year over year while revenue growth has slowed to just 1% annually over three years.
 
 ### What is working
-- Valuation: Free cash flow yield 12.2%
-- Balance sheet: Debt is 0.4x shareholder equity
-- Profitability: Keeps 17% of revenue as profit
+- Produces 15.3% free cash flow yield, meaning cash earnings relative to market value are high
+- Profit margin of 17% and operating margin of 26% show strong pricing power or cost control
+- Balance sheet is solid with debt at only 0.4x shareholder equity
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
-- Growth: Revenue +1% a year over 3 years
+- Earnings per share down 14% year over year despite revenue growth, a warning sign
+- Stock price is down 22.8% over the past six months and 25% from its 52-week high
+- Revenue growth only 1% annually over three years suggests the business is not expanding
 
-**Watch next:** The next quarterly report: whether revenue growth of +7% holds.
+**Watch next:** Whether the 14% earnings per share decline reverses in coming quarters, or if cost pressures and commodity cycles continue to squeeze profitability.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable with commodity price swings who value cash generation and dividends over near-term earnings growth.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $57.6B (+7% vs prior year)

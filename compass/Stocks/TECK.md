@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Pullback in uptrend
 
-## Strong: balance sheet stands out, profitability holds it back
+## Copper miner bouncing back on earnings, but profitability questions remain
 
-Teck Resources Limited scores 63 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: pullback in uptrend.
+Teck is a Canadian mining company that extracts copper and other metals. Revenue jumped 19% last year after a three-year decline, and earnings per share surged 263%. However, the company is burning cash and keeps only 13% of revenue as profit, raising questions about sustainability.
 
 ### What is working
-- Balance sheet: Net cash of 1.1B CAD
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
+- Earnings exploded 263% year over year, showing a sharp improvement in bottom-line performance
+- Stock up 53% over the past year and sits 73% of the way up its 52-week range, reflecting strong momentum
+- Balance sheet is fortress-like with 1.1B CAD in net cash, providing a safety cushion
 
 ### What to be careful about
-- Profitability: Keeps 13% of revenue as profit
+- Free cash flow is negative at minus 359.0M CAD, meaning the company spent more cash than it generated
+- Stock trades at 35x earnings, which is expensive relative to the profit margin of 13%
+- Revenue fell 15% per year on average over three years before the recent 19% jump, showing cyclical volatility
 
-**Watch next:** The next quarterly report: whether revenue growth of +19% holds.
+**Watch next:** Whether free cash flow turns positive in coming quarters will signal whether the earnings rebound is durable or temporary.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Investors comfortable with commodity-price exposure and volatility who can tolerate 48% yearly price swings and temporary unprofitability in a capital-intensive business.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue 10.8B CAD (+19% vs prior year)

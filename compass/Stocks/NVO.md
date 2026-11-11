@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend, bouncing
 
-## Solid: profitability stands out, price trend holds it back
+## Profitable drug maker in downtrend; cheap valuation and strong cash flow offset weak price momentum
 
-Novo Nordisk A/S scores 59 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: downtrend, bouncing.
+Novo Nordisk is a large Danish pharmaceutical company that grew revenue 20% per year over three years but has slowed to 6% annual growth recently. It generates substantial profits and cash, with a net margin of 33% and return on equity of 53%. The stock price has fallen 11% over the past year and sits 36% below its 52-week high.
 
 ### What is working
-- Profitability: Keeps 33% of revenue as profit
-- Shareholder returns: Share count shrinking (buybacks)
-- Balance sheet: Debt is 0.7x shareholder equity
+- Net margin of 33% and operating margin of 41% show the company keeps most of what it sells as profit
+- Free cash flow of 59.0B DKK and return on equity of 53% demonstrate strong cash generation and capital efficiency
+- P/E of 10.39 means the stock trades at a low multiple relative to current earnings
 
 ### What to be careful about
-- Price trend: Price is below its 200-day average
+- Revenue growth slowed from 20% annually over three years to 6% year over year in the latest period
+- Stock price down 11% over one year and 26% over five years; sits 19% of the way up its 52-week range
+- Earnings per share grew only 2% year over year despite higher revenue, suggesting margin pressure
 
-**Watch next:** The next quarterly report: whether revenue growth of +6% holds.
+**Watch next:** Whether revenue growth can stabilize or reaccelerate from its recent 6% pace, and whether analysts begin shifting their outlook from Hold to Buy if the stock stabilizes.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Long-term investors comfortable holding foreign stocks and seeking stable cash-generative companies may find value in the low valuation, but should tolerate extended price weakness and slowing growth.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue 309.1B DKK (+6% vs prior year)

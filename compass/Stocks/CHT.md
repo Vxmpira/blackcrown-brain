@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Strong uptrend
 
-## Solid: balance sheet stands out, valuation holds it back
+## Taiwanese telecom with strong cash generation but shrinking revenue
 
-Chunghwa Telecom Co., Ltd. scores 60 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: strong uptrend.
+Chunghwa Telecom is a large telecommunications company based in Taiwan that trades on US exchanges. Revenue has declined 3% to 4% annually in recent years, though the company remains highly profitable and generates substantial free cash flow.
 
 ### What is working
-- Balance sheet: Net cash of $1.1B
-- Price trend: Price is above its 200-day average
-- Shareholder returns: Share count flat
+- Price trend strong: up 15% over the past year and sitting 89% of the way through its 52-week range
+- Profitability solid: converts 16% of revenue into net profit and generates $1.5B in free cash flow annually
+- Balance sheet fortress: holds $1.1B in net cash with no reported debt
 
 ### What to be careful about
-- Valuation: Free cash flow yield 0.4%
-- Growth: Revenue -3% a year over 3 years
+- Revenue shrinking: down 4% year over year and down 3% annually over the past 3 years
+- Valuation stretched: trades at 31x earnings with only 0.1% free cash flow yield
+- Growth stalled: earnings per share fell 6% year over year and share count barely moving
 
-**Watch next:** The next quarterly report: whether revenue growth of -4% holds.
+**Watch next:** Monitor whether revenue decline stabilizes or accelerates, since falling sales combined with high valuation could pressure returns.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Investors seeking stable dividend income from an established company with fortress balance sheet, who are comfortable holding a mature business in a no-growth phase.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2024-12-31)
 - Revenue $7.0B (-4% vs prior year)

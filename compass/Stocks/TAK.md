@@ -14,23 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Strong uptrend
 
-## Strong: price trend stands out, growth holds it back
+## Japanese pharma with strong price momentum but historically thin profits
 
-Takeda Pharmaceutical Company Limited scores 64 of 100 on the Compass, which puts it in the Strong tier. Its long-term price trend is: strong uptrend.
+Takeda is a large specialty pharmaceutical company based in Japan that generates 4.6 trillion yen in annual revenue. Its stock price has climbed 53% over the past year and sits near 52-week highs. Earnings, however, fell 26% year over year despite modest revenue growth.
 
 ### What is working
-- Price trend: Price is above its 200-day average
-- Balance sheet: Debt is 0.7x shareholder equity
-- Shareholder returns: Share count growing (dilution)
+- Stock price is in a strong uptrend, up 53% over the past year and trading 97% of the way to its 52-week high
+- Company generates real free cash flow of 856.4 billion yen, giving it cash flexibility
+- Balance sheet is manageable with debt at 0.7x shareholder equity, and 71% of analysts rate it a buy
 
 ### What to be careful about
-- Growth: Revenue +9% a year over 3 years
+- Earnings per share dropped 26% year over year despite revenue rising 7%, signaling profit pressure
+- Valuation is extreme at 261x earnings, leaving little room for disappointment
+- Net profit margin sits at just 2% of revenue, meaning the company keeps very little from each sale
 
-**Watch next:** The next quarterly report: whether revenue growth of +7% holds.
+**Watch next:** Whether earnings can stabilize or rebound in coming quarters, since the 26% year-over-year decline contradicts the stock's strong upward price movement.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable with foreign companies trading in dollars who prioritize steady dividend yield (4.4%) over earnings growth and can tolerate high valuations.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-03-31)
 - Revenue 4.6T JPY (+7% vs prior year)

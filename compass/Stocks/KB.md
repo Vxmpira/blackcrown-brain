@@ -14,22 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Pullback in uptrend
 
-## Solid: shareholder returns stands out, profitability holds it back
+## South Korean bank trading cheap with strong dividend but thin profits
 
-KB Financial Group Inc. scores 55 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: pullback in uptrend.
+KB Financial is a regional bank based in South Korea whose US-listed shares have climbed 35% over the past year. The company grew revenue 18% most recently, though earnings per share fell 2% year over year. It trades at just 8x earnings and pays a 5.5% dividend.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
+- Price momentum: stock sits 63% of the way up its 52-week range and 35% higher over one year
+- Valuation: P/E of 8.1 is in the bottom tier; 28 analysts rate it Buy with 96% consensus
+- Shareholder returns: share count shrank 3.8% over three years via buybacks, plus 5.5% dividend yield
 
 ### What to be careful about
-- Profitability: Keeps 0% of revenue as profit
+- Profitability crisis: net margin and operating margin both report as 0%, meaning revenue growth is not flowing to bottom line
+- Earnings disconnect: revenue up 18% latest year but earnings per share down 2%, signaling margin compression
+- Leverage: debt of 53.9B KRW against cash of 16.7B KRW leaves net debt 37.2B KRW; return on equity is only 9%
 
-**Watch next:** The next quarterly report: whether revenue growth of +18% holds.
+**Watch next:** Whether net income and margins recover in coming quarters, since revenue growth is not yet translating to profit growth.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Long-term investors comfortable with foreign currency exposure who want high current yield and can tolerate thin profitability margins in a regional bank.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2023-12-31)
 - Revenue 16.2T KRW (+18% vs prior year)

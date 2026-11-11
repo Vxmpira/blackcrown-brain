@@ -14,22 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Pullback in uptrend
 
-## Solid: shareholder returns stands out, profitability holds it back
+## Japanese financial firm with strong revenue growth but nearly zero profit
 
-Nomura Holdings, Inc. scores 52 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: pullback in uptrend.
+Nomura is a Japan-based capital markets and financial services company. Revenue has grown 19% annually over three years, with latest quarterly sales up 24%. However, the company turned almost no profit into shareholder hands last year, posting a net margin of 0%.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
+- Revenue momentum is solid: +19% annually over 3 years and +24% in the latest quarter
+- Stock price recovered strongly: up 34% over the past year and 116% over five years
+- Valuation is attractive at 11x earnings; 62% of 13 analysts rate it a buy
 
 ### What to be careful about
-- Profitability: Keeps 0% of revenue as profit
+- Profitability has collapsed: net income of 346.0M JPY on 1.2T JPY revenue (0% net margin)
+- Earnings per share fell 61% year over year despite revenue growth
+- Return on equity is only 1%, meaning the company generates almost no returns on shareholder capital
 
-**Watch next:** The next quarterly report: whether revenue growth of +24% holds.
+**Watch next:** Whether the next earnings report shows the company can convert its growing revenue into actual profits, or if the margin squeeze continues.
 
-**Tends to suit:** Profiles like this, fast growers, tend to suit holders who accept bigger swings for growth.
+**Tends to suit:** Investors comfortable with foreign stocks and market cyclicality who believe Nomura will eventually improve profitability despite near-term earnings weakness.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-03-31)
 - Revenue 1.2T JPY (+13% vs prior year)

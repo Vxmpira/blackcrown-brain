@@ -14,24 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Pullback in uptrend
 
-## Solid: balance sheet stands out, valuation holds it back
+## Strong momentum stock with thin profits and cash burn raising valuation concerns
 
-ASE Technology Holding Co., Ltd. scores 51 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: pullback in uptrend.
+ASE Technology is a Taiwan-based semiconductor company with $20.6B in annual revenue. It posted 13% revenue growth last year but only keeps 6% as profit. The stock has surged 133% in the past year and trades well above historical averages.
 
 ### What is working
-- Balance sheet: Net cash of $2.9B
-- Price trend: Price is above its 200-day average
+- Price momentum is strong: up 133% over one year and sits 64% of the way up its 52-week range.
+- Analyst consensus is bullish: 26 analysts rate it Buy, with 96% coverage positive.
+- Balance sheet is fortress-like: $2.9B in net cash with no reported debt.
 
 ### What to be careful about
-- Valuation: Free cash flow yield -0.4%
-- Shareholder returns: Share count growing (dilution)
-- Profitability: Keeps 6% of revenue as profit
+- Profitability is paper-thin: only 6% net margin and free cash flow is negative at -$713.8M.
+- Valuation is steep: trades at 32x earnings with a free cash flow yield of -0.0%.
+- Long-term revenue growth is stalling: down 2% annually over three years despite recent 13% bounce.
 
-**Watch next:** The next quarterly report: whether revenue growth of +13% holds.
+**Watch next:** Whether the company can turn negative free cash flow positive while maintaining revenue growth, since cash burn undermines the strength of its balance sheet.
 
-**Tends to suit:** Profiles like this, with large yearly price swings, tend to suit holders with a high tolerance for volatility.
+**Tends to suit:** Investors comfortable with high volatility and momentum-driven stocks who believe in semiconductor sector tailwinds, not those seeking steady cash generation or low-valuation safety margins.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $20.6B (+13% vs prior year)

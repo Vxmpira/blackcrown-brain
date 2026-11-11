@@ -14,22 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Uptrend
 
-## Solid: shareholder returns stands out, growth holds it back
+## Deutsche Bank trades cheap while recent results show mixed momentum
 
-Deutsche Bank AG scores 57 of 100 on the Compass, which puts it in the Solid tier. Its long-term price trend is: uptrend.
+Deutsche Bank is a major German financial services company with 31.4B EUR in annual revenue. It keeps 20% of revenue as profit and has 122.8B EUR in cash. The stock price has risen 1.7% over the past year and now sits 11% below its 52-week high.
 
 ### What is working
-- Shareholder returns: Share count shrinking (buybacks)
-- Price trend: Price is above its 200-day average
+- Valuation is low at 8.23x earnings, placing it in the bottom tier for price-to-profit ratio
+- Price trend is positive: up 10.2% in one month and 16.8% over six months, above its 200-day moving average
+- Shareholder returns are active: share count down 3% over three years through buybacks, plus 2.7% dividend yield
 
 ### What to be careful about
-- Growth: Revenue +5% a year over 3 years
+- Latest quarter revenue fell 8% year over year, reversing the longer-term growth trend
+- Return on equity is only 8%, meaning the company generates modest profit per dollar of shareholder capital
+- Earnings per share grew 19% but full-year revenue stayed flat, suggesting one-time gains or accounting shifts rather than operating strength
 
-**Watch next:** The next quarterly report: whether revenue growth of -8% holds.
+**Watch next:** Watch whether the recent quarterly revenue decline reverses in coming quarters or signals a weakening trend in the core business.
 
-**Tends to suit:** A steady, middle-of-the-road profile that tends to suit diversified long-term holders.
+**Tends to suit:** Suits long-term investors seeking a deeply discounted financial stock with steady dividends who can tolerate currency risk and near-term earnings uncertainty.
 
-Written by Compass rules on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue 31.4B EUR (-0% vs prior year)
