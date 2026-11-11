@@ -190,3 +190,12 @@
 - Community prospecting (618, 634) produced ranked lists of beginner index futures communities (r/FuturesTrading, r/Daytrading, r/Tradingview, Futures.io, Elite Trader) with audience sizes marked "verify live" because no live browsing was available.
 - Self-promotion rules for Futures.io and Reddit index communities (637) are unverified recall; no community should receive a product link until someone reads its live rules.
 - Watcher-angle hooks (633) for annual Operator: "The market never clocks out" framing paired with a not-advice line, aimed at X direct-post traffic to korvus.industries.
+
+## 2026-11-11 (30 notes condensed)
+- Herald's index-watch page drafts (Minions/Copy 638 through 664) were repeatedly cut off before the closing `</html>`, and the cutoff was never verified in full text; no vault file has been confirmed complete, so none should be filed as a proposal until a verified full-text check passes.
+- Pages authored in the copy desk's gist drafts keep repeating the same two open items: the locked Projects.md watcher caption was never supplied in the brief, and drafts used placeholder hero lines; any index-watch or Crown skeptic page needs the locked caption checked verbatim before filing.
+- Crown skeptic page drafts (Minions/Copy 641, 644, 661, 665, 667) cover the ownership angle with money-only claims ($49.99 with $100 room credit, top-ups from $4.99 never expire, free tier with no card) and avoid memory-gap language, which fits the owner's messaging law; they target blackcrown-intelligence.com with three different slugs (skeptic.html, skeptics.html, root), so the canonical path needs one decision before filing.
+- Crown X options (Minions/Copy 647, 653) are short, one-claim posts: ownership ("Your context stays yours"), flat price ("49.99 a month... $100 of room credit"), and deep logic on purpose; each fits the 280 character limit with the link counted at 23.
+- Korvus X angle lines (Minions/Pitch 656) use the watcher while you sleep framing with the not-advice disclaimer and under 280 characters, no dollar figures.
+- Korvus Operator landing copy with zero dollar figures (Minions/Prospector 642, Copy 659, 662, 666) gives a reusable structure: annual listed first, monthly second, LodeStone included, not-advice line, and prices left to inject from Stripe.
+- Five UTM click-test channel plan (Minions/Prospector 639): X kx_wire_test_01 at 2.0% visit-to-signup target, YouTube kx_watcher_test_01 at 2.5%, targets are hypotheses and rule checks on every channel are still unverified before posting.

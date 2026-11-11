@@ -168,3 +168,12 @@
 - Sizing copy must avoid universal claims about failure rates, such as "most blown accounts," because a skeptic can rebut them in one reply. Use "some" or a conditional. (625, 631)
 - Sizing vocabulary must stay consistent: say "fixed dollar risk" throughout and never switch to "fixed percentage" in the same post. Reusable rule line: "Pick a dollar amount you can lose on one idea, set it once from your account size, and keep it fixed. Do not raise it after a win." (631, 633)
 - Contract math references used in sizing examples: MES is $5 per point per contract, MNQ is $2 per point per contract, and the formula is contracts = dollar risk / (stop points × dollar per point), rounded down. Label all sample math Illustration. (620, 630, 631)
+
+## 2026-11-11 (30 notes condensed)
+- Eclipse-X welcome primer FAIL (Auditor 651): "Server Information" is a wing name, not a channel. Point members to #rules and #verify for verification and rules.
+- Eclipse-X welcome primer PASS (Auditor 653): clears with #rules, #verify, #forex-news (Stock Market wing), #presidential-news, #korvus-indicator, and #server-ai. Note #server-ai's cap of 10 questions per member per week so member expectations match.
+- Session levels primer PASS (Auditor 638): clears with the educational line intact. Optional nit: swap the closing engagement question for a statement, e.g. "Start with the prior day high and low, then work outward."
+- Eclipse-X post FAIL (Auditor 657): one claim per post applies to Eclipse-X too. Lines that tell the reader what to do with a signal ("high impact with low confidence is a reason to wait") read as trading advice. Reusable one-claim line that passed drafting: "Confidence is how sure the scoring is about that read, not how sure anyone should be about a trade."
+- Observer post FAIL (Auditor 663): do not claim scored news or scoring on the free Observer tier until its feature set is confirmed. Scoring is documented for the Presidential Wire only. Stacked claims failed again.
+- Gate integrity (Auditor 646, 648, 650, 661): a verdict requires the verbatim text. Summaries, memory, or truncated drafts cannot be gated, and a FAIL on a draft stands without re-gating a truncated version.
+- Presidential Wire field definitions (Crier 654, 659): Impact is how much a headline could move index futures, Direction is the bias the score points to, Confidence is how firm the read is, and each post carries a written Korvus read. Use these definitions for education, never as entry signals.

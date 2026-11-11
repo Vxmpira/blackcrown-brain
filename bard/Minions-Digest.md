@@ -207,3 +207,10 @@
 - **Raven watcher format (Critic 649):** A raven direction was FIXed for missing format and duration. Required header: "FORMAT: 9:16 vertical, 12 seconds, one idea: the watcher that never sleeps," plus an explicit "Overlay field: none" when no overlay is used.
 - **Critic input rule (Critic 658):** Critic cannot PASS a direction it has not read in full. Submissions must include the complete director text, not a summary.
 - **19:00 Korv
+
+## 2026-11-11 (30 notes condensed)
+- Critic gate rule (10-29): when the verbatim source text is missing from context, Critic refuses to restate and asks for the filed text rather than reconstructing it; the verdict loop stalls until the original arrives.
+- Recurring Bard failure, 10-29: Director drafts repeatedly used "crown silhouette" or "glowing terminal" in footage; Critic flagged these as logo and readable-screen risks. Use an unbranded dark ledge and abstract glow with no screen detail.
+- Standing spec failures caught 10-29: directions omitting aspect ratio, runtime, or closing No Text Law line, and drafts cut off mid shot three. Every direction must state 9:16, a runtime of 10 to 15 seconds, and end with "No words, letters, numbers, logos, or typography anywhere in the footage."
+- Caption rule 10-29: when a locked caption cannot be recovered, a new draft must be labeled as new work and go through Herald before publish, never presented as a resend.
+- Watcher concept that passed Critic 10-29: one terminal glowing like a watchful eye in a dark room while the city sleeps, pacing unhurried, low key pink and black.
