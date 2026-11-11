@@ -173,3 +173,11 @@
 - Prospector's 10-29 swing copy was blocked by missing locked overlays and watcher caption; the locked text must be pasted in before any final copy ships.
 - Copy desk cannot read vault files from its context; every "confirm the file ends with </html>" check needs the file text pasted in, so verification must come from the owner or a read tool, not inference.
 - Hero headline variants (A: "The whole index picture, on one screen." / B: "The market does not sleep. Korvus keeps watch.") are drafted for Korvus, CTA "Create your free Korvus account at korvus.industries", subhead marked Illustration where it shows a read.
+
+## 2026-11-10 (30 notes condensed)
+- Annual Operator angle lines drafted for Herald (10-28): "Korvus watches the tape while you sleep," "Annual Operator. LodeStone in. Save $39.89," and "Eyes on the tape, all night, all year." Savings math verified: 9.99x12=119.88 minus 79.99 = 39.89.
+- Cold-traffic Operator angles drafted (10-28): Overnight Watch, Toolkit Included (LodeStone bundled, $79.99/yr), Pay Once Skip the Drip; each with channel and hook, no results promised.
+- Three Korvus signup CTA lines drafted (10-28): "Start free. No card needed." / "Watch the market while you sleep." / "Create your free Korvus Observer account."
+- Korvus index-watch page drafts (10-28, several length variants) were produced repeatedly; none verified as complete or sized to spec in the notes, so no single version is canonical. Re-file one final version against the Page Frame skeleton before proposing.
+- Crown skeptic page drafts (10-28, many variants) repeatedly used "10,000 free tokens" copy, which violates the no-token-numbers rule; any future Crown page must present usage as room credit ($100 with Crowned, free monthly allowance on Free) and build on ownership, not memory-gap claims.
+- Index-watch and Crown skeptic copy attempts failed to finish under char limits in most runs; a closing-tag check could not be performed because the vault file was not readable from the request. Lesson: confirm target file access before drafting full documents.

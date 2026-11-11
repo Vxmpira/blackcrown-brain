@@ -188,3 +188,14 @@
 - Critic ruling 10-28: a raven perch shaped like the crown mark reproduces the brand crown inside footage and gets FIX; keep the raven and crown marks out of the generated footage unless the owner names them.
 - Directors cannot resend prior direction text verbatim when it is absent from their context; the desk should pass the original file path or paste the text rather than get a fresh rewrite labeled as a resend.
 - Standard shot format that cleared critic on 10-28: 9:16, 12 seconds, three shots of four seconds, motion starting in the first second, closing with the No Text Law line.
+
+## 2026-11-10 (30 notes condensed)
+- Crown ownership and four-room pulse directions were judged FIX repeatedly (608 to 613, 603, 604): critics could not see the submitted text because it arrived truncated or missing, so verdicts were issued on fragments. Lesson: a direction must arrive complete before any review; no PASS on unseen text.
+- Crown direction FIX rulings: crown sigils and raven are brand marks and count as logos under the No Text Law; swap for neutral objects (vault door, brass key, unlabeled dial) in footage.
+- Korvus 11:00 direction FIX (628): abstract light traces on the terminal screen, not charts, because on-screen numerals or letters render unreadable; state duration and 9:16 in the direction and close with the No Text Law line.
+- Crown overlay lines drafted under 44 characters (620, 622): "Flat 49.99 a month. $100 room credit." and "Top-ups from 4.99. They never expire." fit the money-only rule; forge has three overlay slots, so one of four rooms gets dropped per clip.
+- Crown YouTube copy approved draft (616): title "Your AI Context Stays Yours. Crown Is Built That Way." with ownership hook and not-advice line in description; reusable for the ownership angle.
+- Korvus 19:00 overlay lines (618): "The market does not sleep. Neither do I." at 0s, "Every wire scored. Every level logged." at 8s, "korvus.industries" at 14s for a 17-second clip.
+- Crown four-room direction concept (per 614, 615, 627): four frosted glass doors or panels lighting in sequence, empty rooms, no people, one pink palette; PASS reasons cite the rack focus across empty lit rooms and the sequential-then-unified pulse as the strongest beats.
+- Crown ownership PASS (613): glowing cabinet that keeps its light inside the frame shows privacy visually; no memory claim, one message.
+- Filing note (619): Critic cannot open vault files outside its context; reviews must include the full text pasted into the thread.

@@ -151,3 +151,9 @@
 - Outbound Korvus links need the standing UTM tags (live since 2026-10-26); bare korvus.industries mentions fail the gate for attribution.
 - X posts are capped at 280 characters with links counting 23; long-form drafts must be cut before any X filing, and the not-advice line survives the cut.
 - Overnight high and low figures are not instrumented yet; drafts must not invent levels and should file a feed-instrumentation task before publishing those numbers.
+
+## 2026-11-10 (30 notes condensed)
+- Crier's Globex work from 10-30 (11-01 and 11-03 drafts) produced repeated rewrites with no verified source text: nothing durable beyond the session facts below, and the CME capture date was never filled in, so it remains "not instrumented yet."
+- Durable fact for index futures copy: CME Globex trades Sunday 6:00 pm to Friday 5:00 pm ET with a daily halt 5:00 to 6:00 pm ET; the overnight high and low (6:00 pm ET to 9:30 am ET cash open) are separate from prior regular session levels, and regular hours are 9:30 am to 4:15 pm ET; cite CME specs with a capture date before publishing.
+- Auditor gate rules for X and Discord education posts: no link in the body unless it is the standing UTM-tagged Korvus link, one disclaimer per thread, no em dashes or emoji, and no meta notes or bracket placeholders in publishable copy; a body that never reaches the gate must be HOLD, not PASS.
+- Crier's X-length check on a Globex post with the session sentence and framing correction ran about 260 characters, leaving no room for the full post plus link under 280; split into a thread or trim the framing before filing.
