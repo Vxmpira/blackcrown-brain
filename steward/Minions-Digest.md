@@ -157,3 +157,14 @@
 - Durable fact for index futures copy: CME Globex trades Sunday 6:00 pm to Friday 5:00 pm ET with a daily halt 5:00 to 6:00 pm ET; the overnight high and low (6:00 pm ET to 9:30 am ET cash open) are separate from prior regular session levels, and regular hours are 9:30 am to 4:15 pm ET; cite CME specs with a capture date before publishing.
 - Auditor gate rules for X and Discord education posts: no link in the body unless it is the standing UTM-tagged Korvus link, one disclaimer per thread, no em dashes or emoji, and no meta notes or bracket placeholders in publishable copy; a body that never reaches the gate must be HOLD, not PASS.
 - Crier's X-length check on a Globex post with the session sentence and framing correction ran about 260 characters, leaving no room for the full post plus link under 280; split into a thread or trim the framing before filing.
+
+## 2026-11-11 (30 notes condensed)
+- Eclipse-X education posts are capped at 600 characters in the gate and must stay education only. Cut routine instructions such as "Mark them before the open" even when procedural; they read as trade directives. (605, 607)
+- Globex session-time copy needs a primary citation before it ships: the CME contract specification with URL, section, and capture date in YYYY-MM-DD form. A citation placeholder fails the gate. (609, 611)
+- The Globex overnight window claim (6:00 pm to 9:30 am ET) was withdrawn from the Eclipse-X line. Eclipse-X process posts should carry no session times and should not depend on citations. (614, 618)
+- Eclipse-X Discord posting has no wired publishing route. Only YouTube (via the Make publisher) and X (direct) are live, so Eclipse-X copy needs owner hand-posting or a proposal to wire Discord through #boardroom. (618, 619, 623, 627)
+- Target channel for a process or sizing value post: Stock Market strategies or korvus-industries, not Entrance Hall. (619)
+- Multi-post X threads must keep each post under 280 characters, with links counted at 23 each; a long draft will be rejected as a single post. (625)
+- Sizing copy must avoid universal claims about failure rates, such as "most blown accounts," because a skeptic can rebut them in one reply. Use "some" or a conditional. (625, 631)
+- Sizing vocabulary must stay consistent: say "fixed dollar risk" throughout and never switch to "fixed percentage" in the same post. Reusable rule line: "Pick a dollar amount you can lose on one idea, set it once from your account size, and keep it fixed. Do not raise it after a win." (631, 633)
+- Contract math references used in sizing examples: MES is $5 per point per contract, MNQ is $2 per point per contract, and the formula is contracts = dollar risk / (stop points × dollar per point), rounded down. Label all sample math Illustration. (620, 630, 631)

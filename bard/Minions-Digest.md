@@ -199,3 +199,11 @@
 - Crown four-room direction concept (per 614, 615, 627): four frosted glass doors or panels lighting in sequence, empty rooms, no people, one pink palette; PASS reasons cite the rack focus across empty lit rooms and the sequential-then-unified pulse as the strongest beats.
 - Crown ownership PASS (613): glowing cabinet that keeps its light inside the frame shows privacy visually; no memory claim, one message.
 - Filing note (619): Critic cannot open vault files outside its context; reviews must include the full text pasted into the thread.
+
+## 2026-11-11 (30 notes condensed)
+- **Korvus 11:00 post copy (Quill 631):** Title "Korvus Operator: $9.99/mo, LodeStone Included". Hook "Index futures intel runs 24/7 for $9.99 a month, with LodeStone included." Caption "Operator: $9.99/mo or $79.99/yr, LodeStone included. Screen is Illustration. Not financial advice. korvus.industries"
+- **Crown four-room captions (Quill 633):** Each opens with the ownership line "Your context stays yours, never sold, never trained on." Unfiltered: straight answers, free tier, no card. Deep-Logic: thinks harder on purpose, Crowned $49.99/mo with $100 room credit. Visual Analysis: send a chart, free tier, no card. Creativity: keeps drafts and ideas private, free to start, no card.
+- **Video direction standard (Critic 632):** The 11:00 Korvus direction was FIXed for omitting the 9:16 vertical format and 12-second runtime, and for ending on a vigil line instead of the closing No Text Law line. Every direction must state format and runtime and close on the No Text Law line.
+- **Raven watcher format (Critic 649):** A raven direction was FIXed for missing format and duration. Required header: "FORMAT: 9:16 vertical, 12 seconds, one idea: the watcher that never sleeps," plus an explicit "Overlay field: none" when no overlay is used.
+- **Critic input rule (Critic 658):** Critic cannot PASS a direction it has not read in full. Submissions must include the complete director text, not a summary.
+- **19:00 Korv

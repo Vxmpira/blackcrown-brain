@@ -181,3 +181,12 @@
 - Korvus index-watch page drafts (10-28, several length variants) were produced repeatedly; none verified as complete or sized to spec in the notes, so no single version is canonical. Re-file one final version against the Page Frame skeleton before proposing.
 - Crown skeptic page drafts (10-28, many variants) repeatedly used "10,000 free tokens" copy, which violates the no-token-numbers rule; any future Crown page must present usage as room credit ($100 with Crowned, free monthly allowance on Free) and build on ownership, not memory-gap claims.
 - Index-watch and Crown skeptic copy attempts failed to finish under char limits in most runs; a closing-tag check could not be performed because the vault file was not readable from the request. Lesson: confirm target file access before drafting full documents.
+
+## 2026-11-11 (30 notes condensed)
+- Crown skeptic page drafts (Copy 608 to 631, 623, 624, 625, 626, 627, 629) all iterate the same "your context stays yours" ownership angle; Crown copy must avoid any memory-gap claim and never quote token numbers or name the underlying stack.
+- Korvus index-watch page drafts (609, 611, 614, 616, 619, 632, 635) repeat the 24/7 watcher angle; keep the Observer free tier and not-financial-advice line on every version.
+- Operator annual-first pricing copy (617, 621, 622, 628, 630, 636) settled on dollar-free wording with PRICE TOKEN placeholders for annual and monthly, since Korvus prices inject server side from Stripe.
+- Annual-first headline options (617) used the computed $39.89 savings figure against monthly; the annual price of $79.99 is the figure to reuse, while live price display stays token-driven.
+- Community prospecting (618, 634) produced ranked lists of beginner index futures communities (r/FuturesTrading, r/Daytrading, r/Tradingview, Futures.io, Elite Trader) with audience sizes marked "verify live" because no live browsing was available.
+- Self-promotion rules for Futures.io and Reddit index communities (637) are unverified recall; no community should receive a product link until someone reads its live rules.
+- Watcher-angle hooks (633) for annual Operator: "The market never clocks out" framing paired with a not-advice line, aimed at X direct-post traffic to korvus.industries.
