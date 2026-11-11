@@ -4097,19 +4097,6 @@
    "headline": "Food giant posting losses but generating cash; stock near yearly high after 24% gain"
   },
   {
-   "symbol": "SWKS",
-   "name": "Skyworks Solutions",
-   "sector": "Technology",
-   "score": 57.8,
-   "tier": "Solid",
-   "read": "neut",
-   "trend": "Pullback in uptrend",
-   "ret_1y": 0.1749,
-   "pe": 112.92,
-   "div_yield": 0.0287,
-   "headline": "Semiconductor company with strong cash generation but shrinking revenue and expensive valuation"
-  },
-  {
    "symbol": "DHI",
    "name": "D. R. Horton",
    "sector": "Consumer Cyclical",
@@ -5746,6 +5733,19 @@
    "pe": 34.48,
    "div_yield": 0.0457,
    "headline": "Apartment REIT with solid cash generation but slowing growth and falling stock price"
+  },
+  {
+   "symbol": "SWKS",
+   "name": "Skyworks Solutions",
+   "sector": "Technology",
+   "score": 47.2,
+   "tier": "Mixed",
+   "read": "neut",
+   "trend": "Pullback in uptrend",
+   "ret_1y": 0.1749,
+   "pe": 112.92,
+   "div_yield": 0.0287,
+   "headline": "Semiconductor company with strong cash generation but shrinking revenue and expensive valuation"
   },
   {
    "symbol": "APD",
