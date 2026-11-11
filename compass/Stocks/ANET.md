@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Uptrend
 
-## Fast-growing networking chip maker trading at premium valuation with strong cash generation
+## Fast-growing networking company generates cash but trades at a steep valuation
 
-Arista Networks designs and sells computer networking hardware. The company is growing revenue quickly (58% in the latest quarter) and generates large amounts of free cash flow, but reports almost no accounting profit and commands a high valuation multiple of 50 times earnings.
+Arista Networks makes computer networking hardware. The company is growing revenue rapidly at 58% year over year and generates substantial free cash flow. However, it reports almost no accounting profit and trades at 50 times earnings.
 
 ### What is working
-- Revenue growing 58% year over year in the latest quarter, with 3-year annual growth at 27%
-- Generated $4.4B in free cash flow last year despite reporting minimal net income
-- Strong balance sheet with $2.3B in net cash and zero debt; 35 analysts rate it Buy
+- Revenue accelerating: latest quarter up 58% year over year, three-year average up 27% annually
+- Strong cash generation: $4.4B free cash flow with $2.3B net cash and zero debt
+- Price momentum: up 43% over the past year and 513% over five years
 
 ### What to be careful about
-- Reports net income of only $3.5K on $9.0B revenue (0% net margin), relying on accounting methods
-- Trades at 50x earnings with free cash flow yield of just 1.9%, leaving little margin for error
-- Stock down 9.7% in the past month and 12% below its 52-week high; 57% yearly volatility
+- Expensive valuation: trades at 50x earnings with only 1.9% free cash flow yield
+- Profit disconnect: reports $3.5K net income on $9.0B revenue (0% net margin) despite 43% operating margin
+- High volatility: 57% yearly price swings; currently 9% below its 52-week high
 
-**Watch next:** Whether the company can sustain 50%+ quarterly revenue growth rates or if deceleration forces a valuation reset.
+**Watch next:** Watch whether net income grows in line with revenue, since the $3.5K net profit against $9.0B revenue suggests accounting or tax differences that need clarification.
 
-**Tends to suit:** Investors comfortable holding high-volatility growth stocks for years and who trust cash flow signals over reported earnings.
+**Tends to suit:** Suits investors comfortable with high valuations who believe in long-term growth in networking infrastructure and can tolerate significant price swings.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $9.0B (+29% vs prior year)

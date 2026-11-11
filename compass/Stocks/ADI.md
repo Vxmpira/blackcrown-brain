@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Top rated** · Bullish read · trend: Strong uptrend
 
-## Semiconductor company surging on sales recovery, but trading at premium valuation
+## Strong momentum masks expensive valuation for chip designer with solid cash flow
 
-Analog Devices designs and sells semiconductor chips used in industrial, communications, and consumer electronics. Revenue jumped 40% in the latest quarter after three years of decline. The company generates strong cash flow and carries modest debt.
+Analog Devices designs and sells semiconductor chips used in industrial, automotive, and communications equipment. The company just posted 17% revenue growth and 21% net profit margins, though it trades at 45 times earnings. Cash generation is robust at 39% of revenue.
 
 ### What is working
-- Latest quarter revenue up 40% year over year, signaling a sharp turnaround after -3% average decline over three prior years
-- Free cash flow of $4.3B with a 39% margin shows the business converts sales into cash efficiently
-- Balance sheet is solid: debt is only 0.2x shareholder equity, leaving room to invest or return capital
+- Stock up 76% over the past year and sits 83% of the way up its 52-week range, showing sustained upward momentum
+- Latest quarter revenue jumped 40% year over year, breaking a three-year trend of -3% annual revenue decline
+- Strong balance sheet with debt at just 0.2x shareholder equity, plus 4.3 billion dollars in annual free cash flow
 
 ### What to be careful about
-- Stock trades at 45x earnings, well above typical market multiples, leaving limited margin for error if growth slows
-- Price has pulled back 12% from its 52-week high of $445.48, and is down 6.9% over the past six months despite strong earnings
-- Three-year revenue trend is still negative at -3% annually, meaning the recent quarter gain needs to prove sustainable
+- Trading at 45x earnings with only 2.3% free cash flow yield, leaving little margin for disappointment
+- Revenue declined 3% per year over the past three years before the recent rebound, raising questions about durability
+- Volatility runs 39% yearly and stock is already down 5.4% over the past six months despite the strong one-year gain
 
-**Watch next:** Whether the 40% quarterly revenue growth continues in coming quarters or represents a temporary rebound before another slowdown.
+**Watch next:** Whether the latest 40% quarter-over-quarter revenue growth sustains or reverts to the company's three-year trend of decline.
 
-**Tends to suit:** Long-term investors comfortable holding quality semiconductor exposure through cycles who can tolerate 39% annual price swings and do not need near-term gains.
+**Tends to suit:** Investors comfortable holding cyclical semiconductor stocks at premium valuations who believe in the company's current demand cycle and can tolerate high volatility.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-11-01)
 - Revenue $11.0B (+17% vs prior year)

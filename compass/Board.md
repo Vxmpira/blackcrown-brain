@@ -15,85 +15,85 @@ Prices as of 2026-11-11 close.
 
 | # | Stock | Name | Score | Tier | Read | Trend | 1 year |
 |---:|---|---|---:|---|---|---|---:|
-| 1 | [[compass/Stocks/IBN|IBN]] | ICICI Bank Limited | 90 | Top rated | Bullish | Strong uptrend | +15% |
-| 2 | [[compass/Stocks/NEM|NEM]] | Newmont | 86 | Top rated | Bullish | Uptrend | +45% |
-| 3 | [[compass/Stocks/MU|MU]] | Micron Technology | 85 | Top rated | Bullish | Losing steam | +205% |
-| 4 | [[compass/Stocks/SNDK|SNDK]] | Sandisk Corporation | 84 | Top rated | Bullish | Losing steam | +266% |
-| 5 | [[compass/Stocks/WPM|WPM]] | Wheaton Precious Metals Corp. | 84 | Top rated | Bullish | Pullback in uptrend | +38% |
-| 6 | [[compass/Stocks/AEM|AEM]] | Agnico Eagle Mines Limited | 83 | Top rated | Bullish | Uptrend | +18% |
-| 7 | [[compass/Stocks/DXCM|DXCM]] | Dexcom | 83 | Top rated | Bullish | Pullback in uptrend | +47% |
-| 8 | [[compass/Stocks/MSFT|MSFT]] | Microsoft | 82 | Top rated | Bullish | Strong uptrend | +9% |
-| 9 | [[compass/Stocks/REGN|REGN]] | Regeneron Pharmaceuticals | 82 | Top rated | Bullish | Strong uptrend | +39% |
-| 10 | [[compass/Stocks/TD|TD]] | The Toronto-Dominion Bank | 82 | Top rated | Bullish | Strong uptrend | +53% |
-| 11 | [[compass/Stocks/LLY|LLY]] | Lilly (Eli) | 81 | Top rated | Bullish | Strong uptrend | +54% |
-| 12 | [[compass/Stocks/CNQ|CNQ]] | Canadian Natural Resources Limited | 81 | Top rated | Bullish | Pullback in uptrend | +52% |
-| 13 | [[compass/Stocks/META|META]] | Meta Platforms | 81 | Top rated | Bullish | Pullback in uptrend | +4% |
+| 1 | [[compass/Stocks/MU|MU]] | Micron Technology | 92 | Top rated | Bullish | Pullback in uptrend | +220% |
+| 2 | [[compass/Stocks/IBN|IBN]] | ICICI Bank Limited | 90 | Top rated | Bullish | Strong uptrend | +14% |
+| 3 | [[compass/Stocks/NEM|NEM]] | Newmont | 86 | Top rated | Bullish | Pullback in uptrend | +34% |
+| 4 | [[compass/Stocks/SNDK|SNDK]] | Sandisk Corporation | 84 | Top rated | Bullish | Losing steam | +265% |
+| 5 | [[compass/Stocks/WPM|WPM]] | Wheaton Precious Metals Corp. | 84 | Top rated | Bullish | Pullback in uptrend | +33% |
+| 6 | [[compass/Stocks/DXCM|DXCM]] | Dexcom | 83 | Top rated | Bullish | Pullback in uptrend | +47% |
+| 7 | [[compass/Stocks/REGN|REGN]] | Regeneron Pharmaceuticals | 82 | Top rated | Bullish | Strong uptrend | +47% |
+| 8 | [[compass/Stocks/TSM|TSM]] | Taiwan Semiconductor Manufacturing Company Limited | 82 | Top rated | Bullish | Pullback in uptrend | +40% |
+| 9 | [[compass/Stocks/TD|TD]] | The Toronto-Dominion Bank | 82 | Top rated | Bullish | Strong uptrend | +53% |
+| 10 | [[compass/Stocks/MSFT|MSFT]] | Microsoft | 82 | Top rated | Bullish | Strong uptrend | +3% |
+| 11 | [[compass/Stocks/LLY|LLY]] | Lilly (Eli) | 81 | Top rated | Bullish | Strong uptrend | +49% |
+| 12 | [[compass/Stocks/CNQ|CNQ]] | Canadian Natural Resources Limited | 81 | Top rated | Bullish | Pullback in uptrend | +53% |
+| 13 | [[compass/Stocks/SKHY|SKHY]] | SK hynix Inc. | 81 | Top rated | Neutral | Short-term downtrend | n/a |
 | 14 | [[compass/Stocks/APH|APH]] | Amphenol | 80 | Top rated | Bullish | Pullback in uptrend | +10% |
-| 15 | [[compass/Stocks/MA|MA]] | Mastercard | 79 | Top rated | Bullish | Strong uptrend | +18% |
-| 16 | [[compass/Stocks/ABNB|ABNB]] | Airbnb | 79 | Top rated | Bullish | Uptrend | +51% |
-| 17 | [[compass/Stocks/CF|CF]] | CF Industries | 79 | Top rated | Bullish | Uptrend | +49% |
-| 18 | [[compass/Stocks/SKHY|SKHY]] | SK hynix Inc. | 79 | Top rated | Neutral | Short-term downtrend | n/a |
-| 19 | [[compass/Stocks/JNJ|JNJ]] | Johnson & Johnson | 78 | Top rated | Bullish | Strong uptrend | +51% |
-| 20 | [[compass/Stocks/V|V]] | Visa Inc. | 78 | Top rated | Bullish | Strong uptrend | +25% |
-| 21 | [[compass/Stocks/FNV|FNV]] | Franco-Nevada Corporation | 78 | Top rated | Bullish | Uptrend | +33% |
-| 22 | [[compass/Stocks/EOG|EOG]] | EOG Resources | 78 | Top rated | Bullish | Strong uptrend | +44% |
-| 23 | [[compass/Stocks/TEL|TEL]] | TE Connectivity | 78 | Top rated | Bullish | Strong uptrend | -10% |
-| 24 | [[compass/Stocks/NVDA|NVDA]] | Nvidia | 77 | Top rated | Bullish | Losing steam | -9% |
-| 25 | [[compass/Stocks/DAL|DAL]] | Delta Air Lines | 77 | Top rated | Bullish | Uptrend | +56% |
-| 26 | [[compass/Stocks/JKHY|JKHY]] | Jack Henry & Associates | 77 | Top rated | Bullish | Strong uptrend | +6% |
-| 27 | [[compass/Stocks/CIB|CIB]] | Grupo Cibest S.A. | 77 | Top rated | Bullish | Pullback in uptrend | +44% |
-| 28 | [[compass/Stocks/KGC|KGC]] | Kinross Gold Corporation | 77 | Top rated | Neutral | Downtrend | -12% |
-| 29 | [[compass/Stocks/APA|APA]] | APA Corporation | 77 | Top rated | Bullish | Strong uptrend | +92% |
-| 30 | [[compass/Stocks/ADI|ADI]] | Analog Devices | 77 | Top rated | Bullish | Strong uptrend | +76% |
-| 31 | [[compass/Stocks/PLTR|PLTR]] | Palantir Technologies | 77 | Top rated | Bullish | Pullback in uptrend | -6% |
-| 32 | [[compass/Stocks/HST|HST]] | Host Hotels & Resorts | 77 | Top rated | Bullish | Strong uptrend | +41% |
-| 33 | [[compass/Stocks/PGR|PGR]] | Progressive Corporation | 77 | Top rated | Bullish | Strong uptrend | +5% |
-| 34 | [[compass/Stocks/VRTX|VRTX]] | Vertex Pharmaceuticals | 77 | Top rated | Bullish | Strong uptrend | +34% |
-| 35 | [[compass/Stocks/MSCI|MSCI]] | MSCI | 76 | Top rated | Bullish | Strong uptrend | +11% |
-| 36 | [[compass/Stocks/ING|ING]] | ING Groep N.V. | 76 | Top rated | Bullish | Pullback in uptrend | +30% |
-| 37 | [[compass/Stocks/VRSN|VRSN]] | Verisign | 76 | Top rated | Bullish | Strong uptrend | +27% |
+| 15 | [[compass/Stocks/MA|MA]] | Mastercard | 80 | Top rated | Bullish | Strong uptrend | +19% |
+| 16 | [[compass/Stocks/CF|CF]] | CF Industries | 79 | Top rated | Bullish | Uptrend | +49% |
+| 17 | [[compass/Stocks/V|V]] | Visa Inc. | 79 | Top rated | Bullish | Strong uptrend | +27% |
+| 18 | [[compass/Stocks/EOG|EOG]] | EOG Resources | 78 | Top rated | Bullish | Strong uptrend | +44% |
+| 19 | [[compass/Stocks/JNJ|JNJ]] | Johnson & Johnson | 78 | Top rated | Bullish | Strong uptrend | +49% |
+| 20 | [[compass/Stocks/ABNB|ABNB]] | Airbnb | 78 | Top rated | Bullish | Uptrend | +51% |
+| 21 | [[compass/Stocks/TEL|TEL]] | TE Connectivity | 78 | Top rated | Bullish | Strong uptrend | -11% |
+| 22 | [[compass/Stocks/JKHY|JKHY]] | Jack Henry & Associates | 78 | Top rated | Bullish | Strong uptrend | +8% |
+| 23 | [[compass/Stocks/PGR|PGR]] | Progressive Corporation | 78 | Top rated | Bullish | Strong uptrend | +7% |
+| 24 | [[compass/Stocks/FNV|FNV]] | Franco-Nevada Corporation | 78 | Top rated | Bullish | Uptrend | +28% |
+| 25 | [[compass/Stocks/APA|APA]] | APA Corporation | 77 | Top rated | Bullish | Strong uptrend | +92% |
+| 26 | [[compass/Stocks/CIB|CIB]] | Grupo Cibest S.A. | 77 | Top rated | Bullish | Pullback in uptrend | +45% |
+| 27 | [[compass/Stocks/ADI|ADI]] | Analog Devices | 77 | Top rated | Bullish | Strong uptrend | +76% |
+| 28 | [[compass/Stocks/DAL|DAL]] | Delta Air Lines | 77 | Top rated | Bullish | Uptrend | +56% |
+| 29 | [[compass/Stocks/NVDA|NVDA]] | Nvidia | 77 | Top rated | Bullish | Losing steam | -13% |
+| 30 | [[compass/Stocks/MSCI|MSCI]] | MSCI | 77 | Top rated | Bullish | Strong uptrend | +15% |
+| 31 | [[compass/Stocks/HST|HST]] | Host Hotels & Resorts | 77 | Top rated | Bullish | Strong uptrend | +42% |
+| 32 | [[compass/Stocks/KGC|KGC]] | Kinross Gold Corporation | 77 | Top rated | Neutral | Downtrend | -16% |
+| 33 | [[compass/Stocks/PLTR|PLTR]] | Palantir Technologies | 77 | Top rated | Bullish | Pullback in uptrend | -11% |
+| 34 | [[compass/Stocks/VRSN|VRSN]] | Verisign | 76 | Top rated | Bullish | Strong uptrend | +27% |
+| 35 | [[compass/Stocks/URI|URI]] | United Rentals | 76 | Top rated | Bullish | Strong uptrend | +35% |
+| 36 | [[compass/Stocks/VRTX|VRTX]] | Vertex Pharmaceuticals | 76 | Top rated | Bullish | Strong uptrend | +30% |
+| 37 | [[compass/Stocks/ING|ING]] | ING Groep N.V. | 76 | Top rated | Bullish | Pullback in uptrend | +27% |
 | 38 | [[compass/Stocks/MUFG|MUFG]] | Mitsubishi UFJ Financial Group, Inc. | 76 | Top rated | Bullish | Pullback in uptrend | +44% |
-| 39 | [[compass/Stocks/TSM|TSM]] | Taiwan Semiconductor Manufacturing Company Limited | 76 | Top rated | Bullish | Losing steam | +38% |
-| 40 | [[compass/Stocks/COP|COP]] | ConocoPhillips | 76 | Top rated | Bullish | Strong uptrend | +56% |
+| 39 | [[compass/Stocks/COP|COP]] | ConocoPhillips | 76 | Top rated | Bullish | Strong uptrend | +56% |
+| 40 | [[compass/Stocks/AEM|AEM]] | Agnico Eagle Mines Limited | 76 | Top rated | Bullish | Losing steam | +11% |
 
 ## Lowest scores
 
 | # | Stock | Name | Score | Tier | Read | Trend | 1 year |
 |---:|---|---|---:|---|---|---|---:|
 | 642 | [[compass/Stocks/GIS|GIS]] | General Mills | 25 | Weak | Bearish | Downtrend | -26% |
-| 641 | [[compass/Stocks/BN|BN]] | Brookfield Corporation | 26 | Weak | Bearish | Downtrend, bouncing | -7% |
-| 640 | [[compass/Stocks/FDXF|FDXF]] | FedEx Freight Holding Company, Inc. | 26 | Weak | Bearish | Short-term uptrend | n/a |
-| 639 | [[compass/Stocks/SKYD|SKYD]] | Skydance Corporation | 27 | Weak | Bearish | Downtrend | -48% |
-| 638 | [[compass/Stocks/IP|IP]] | International Paper | 28 | Weak | Bearish | Downtrend, bouncing | -8% |
-| 637 | [[compass/Stocks/PCG|PCG]] | PG&E Corporation | 28 | Weak | Bearish | Downtrend, bouncing | -20% |
-| 636 | [[compass/Stocks/CRWV|CRWV]] | CoreWeave, Inc. Class A Common Stock | 28 | Weak | Bearish | Downtrend | -42% |
+| 641 | [[compass/Stocks/BN|BN]] | Brookfield Corporation | 26 | Weak | Bearish | Downtrend, bouncing | -9% |
+| 640 | [[compass/Stocks/SKYD|SKYD]] | Skydance Corporation | 27 | Weak | Bearish | Downtrend | -48% |
+| 639 | [[compass/Stocks/FDXF|FDXF]] | FedEx Freight Holding Company, Inc. | 27 | Weak | Bearish | Short-term uptrend | n/a |
+| 638 | [[compass/Stocks/IP|IP]] | International Paper | 27 | Weak | Bearish | Downtrend, bouncing | -9% |
+| 637 | [[compass/Stocks/PCG|PCG]] | PG&E Corporation | 28 | Weak | Bearish | Downtrend, bouncing | -21% |
+| 636 | [[compass/Stocks/CRWV|CRWV]] | CoreWeave, Inc. Class A Common Stock | 29 | Weak | Bearish | Downtrend | -42% |
 | 635 | [[compass/Stocks/CNP|CNP]] | CenterPoint Energy | 30 | Weak | Bearish | Downtrend, bouncing | +4% |
-| 634 | [[compass/Stocks/EXC|EXC]] | Exelon | 30 | Weak | Bearish | Downtrend, bouncing | +0% |
-| 633 | [[compass/Stocks/COIN|COIN]] | Coinbase Global | 31 | Weak | Bearish | Downtrend | -57% |
-| 632 | [[compass/Stocks/IRM|IRM]] | Iron Mountain | 31 | Weak | Bearish | Downtrend | +7% |
-| 631 | [[compass/Stocks/ARE|ARE]] | Alexandria Real Estate Equities | 31 | Weak | Bearish | Downtrend | -17% |
-| 630 | [[compass/Stocks/EIX|EIX]] | Edison International | 32 | Weak | Bearish | Downtrend, bouncing | +4% |
-| 629 | [[compass/Stocks/SRE|SRE]] | Sempra | 32 | Weak | Bearish | Downtrend | -17% |
-| 628 | [[compass/Stocks/MSTR|MSTR]] | MicroStrategy Inc. | 32 | Weak | Bearish | Losing steam | -49% |
-| 627 | [[compass/Stocks/MOS|MOS]] | Mosaic Company (The) | 32 | Weak | Bearish | Downtrend, bouncing | -14% |
-| 626 | [[compass/Stocks/BA|BA]] | Boeing | 33 | Weak | Bearish | Downtrend | -10% |
-| 625 | [[compass/Stocks/ES|ES]] | Eversource Energy | 34 | Weak | Bearish | Turning up | -3% |
-| 624 | [[compass/Stocks/FER|FER]] | Ferrovial SE | 34 | Weak | Bearish | Downtrend, bouncing | -4% |
-| 623 | [[compass/Stocks/INTC|INTC]] | Intel | 35 | Weak | Bearish | Losing steam | +55% |
+| 634 | [[compass/Stocks/COIN|COIN]] | Coinbase Global | 31 | Weak | Bearish | Downtrend | -57% |
+| 633 | [[compass/Stocks/IRM|IRM]] | Iron Mountain | 31 | Weak | Bearish | Downtrend | +10% |
+| 632 | [[compass/Stocks/EIX|EIX]] | Edison International | 31 | Weak | Bearish | Downtrend, bouncing | +4% |
+| 631 | [[compass/Stocks/ARE|ARE]] | Alexandria Real Estate Equities | 32 | Weak | Bearish | Downtrend | -17% |
+| 630 | [[compass/Stocks/SRE|SRE]] | Sempra | 32 | Weak | Bearish | Downtrend | -16% |
+| 629 | [[compass/Stocks/MSTR|MSTR]] | MicroStrategy Inc. | 32 | Weak | Bearish | Losing steam | -49% |
+| 628 | [[compass/Stocks/MOS|MOS]] | Mosaic Company (The) | 32 | Weak | Bearish | Downtrend, bouncing | -12% |
+| 627 | [[compass/Stocks/EXC|EXC]] | Exelon | 33 | Weak | Bearish | Downtrend, bouncing | +0% |
+| 626 | [[compass/Stocks/BA|BA]] | Boeing | 34 | Weak | Bearish | Downtrend | -10% |
+| 625 | [[compass/Stocks/FER|FER]] | Ferrovial SE | 35 | Weak | Bearish | Downtrend, bouncing | -4% |
+| 624 | [[compass/Stocks/INTC|INTC]] | Intel | 35 | Weak | Bearish | Losing steam | +62% |
+| 623 | [[compass/Stocks/BG|BG]] | Bunge Global | 35 | Weak | Bearish | Downtrend | +5% |
 
 ## Index funds (trend only, not scored)
 
 | Fund | Tracks | Trend | 1 year | 5 years |
 |---|---|---|---:|---:|
-| SPY | S&P 500 | Pullback in uptrend | +12% | +62% |
-| QQQ | Nasdaq-100 | Losing steam | +11% | +73% |
+| SPY | S&P 500 | Pullback in uptrend | +12% | +64% |
+| QQQ | Nasdaq-100 | Pullback in uptrend | +11% | +76% |
 | DIA | Dow 30 | Uptrend | +11% | +45% |
-| IWM | Russell 2000 | Pullback in uptrend | +16% | +20% |
-| EFA | Developed markets | Pullback in uptrend | +11% | +29% |
-| EEM | Emerging markets | Losing steam | +11% | +19% |
-| EWU | United Kingdom | Uptrend | +12% | +43% |
-| EWG | Germany | Turning up | +6% | +25% |
-| EWJ | Japan | Losing steam | +9% | +30% |
-| FXI | China | Downtrend, bouncing | -14% | -14% |
-| INDA | India | Turning up | -4% | +5% |
-| EWZ | Brazil | Losing steam | -0% | +10% |
+| IWM | Russell 2000 | Uptrend | +16% | +19% |
+| EFA | Developed markets | Uptrend | +10% | +28% |
+| EEM | Emerging markets | Losing steam | +12% | +21% |
+| EWU | United Kingdom | Uptrend | +10% | +42% |
+| EWG | Germany | Turning up | +5% | +24% |
+| EWJ | Japan | Pullback in uptrend | +10% | +32% |
+| FXI | China | Downtrend | -17% | -16% |
+| INDA | India | Turning up | -5% | +4% |
+| EWZ | Brazil | Losing steam | -1% | +8% |

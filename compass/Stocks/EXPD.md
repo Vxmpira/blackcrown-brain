@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Logistics firm in uptrend with strong cash generation, but growth remains uneven
+## Logistics firm rebounding with strong cash generation but analysts cautious
 
-Expeditors International is a freight and logistics company with $11.1B in annual revenue. It sits on $1.1B in net cash and generates substantial free cash flow. The stock has climbed 36% over the past year and trades near 52-week highs.
+Expeditors is a freight and logistics company that just posted a +42% revenue jump in its latest quarter after years of decline. It converts 7% of revenue into profit and generates nearly $1B in annual free cash flow while holding $1.1B in net cash.
 
 ### What is working
-- Strong balance sheet: $1.1B in net cash with no debt listed, giving financial flexibility
-- Solid profitability: 7% net margin and 35% return on equity show efficient capital use
-- Returning cash to shareholders: share count down 17.1% over 3 years via buybacks
+- Latest quarter revenue surged 42% year over year, reversing a three-year pattern of -13% annual declines
+- Strong balance sheet with $1.1B in net cash and no disclosed debt
+- High returns on equity at 35%, with 9% free cash flow margin showing efficient operations
 
 ### What to be careful about
-- Revenue trend is mixed: down 13% annually over 3 years, though latest quarter jumped 42%
-- Valuation is stretched: trades at 23x earnings and only yields 3.9% free cash flow
-- Analyst skepticism: just 13% of 23 analysts rate it a buy; consensus is Hold
+- Stock trades at 23x earnings, which is elevated relative to the 3.9% free cash flow yield available to investors
+- Long-term revenue trend remains negative at -13% annually over three years despite the recent quarter bounce
+- 23 analysts covering the stock show consensus Hold, with only 13% rating it a buy
 
-**Watch next:** Whether the 42% quarterly revenue jump signals a sustained turnaround or remains a temporary spike given the three-year revenue decline.
+**Watch next:** Whether the latest quarter's 42% revenue jump represents a sustained recovery or a temporary spike, given the prior three-year decline pattern.
 
-**Tends to suit:** Investors comfortable with logistics cyclicality who value balance sheet strength and buybacks over rapid top-line growth.
+**Tends to suit:** Investors comfortable with cyclical industrial businesses who value near-term momentum and strong balance sheets over long-term growth.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $11.1B (+4% vs prior year)

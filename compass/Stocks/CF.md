@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Top rated** · Bullish read · trend: Uptrend
 
-## Fertilizer maker shows strong profits and cash, but faces long-term revenue headwinds
+## Profitable fertilizer maker trading cheaply, but faces long-term revenue headwinds
 
-CF Industries produces and sells nitrogen and phosphate fertilizers to agricultural customers. The company is currently highly profitable with strong cash generation, though revenue has declined over the past three years despite a recent uptick.
+CF Industries makes agricultural fertilizers and chemical products. The company is currently very profitable with strong cash generation, but its three-year revenue trend shows a -14% annual decline despite a recent +12% quarterly rebound. Analysts are cautiously split on the stock's direction.
 
 ### What is working
-- Keeps 25% of revenue as profit and generates $1.8B in free cash flow annually
-- Stock up 47% over the past year and trades at 8x earnings with 10.3% free cash flow yield
-- Share count down 21% over three years through buybacks; returning capital to shareholders
+- Profitability is exceptional: 25% net margin, 32% operating margin, and 31% return on equity signal efficient operations
+- Valuation is low: trades at 8x earnings with a 10.3% free cash flow yield, well below many peers in basic materials
+- Cash generation funds returns: free cash flow of $1.8B supports a 2.0% dividend and share buybacks that have reduced share count 20.6% over three years
 
 ### What to be careful about
-- Revenue fell 14% on average per year over the past three years, showing a long-term decline
-- Analyst consensus is Hold, not Buy; only 42% of 31 analysts rate it a buy
-- Stock is 14% below its 52-week high and down 7.7% over the past six months despite strong fundamentals
+- Revenue trend is weak long-term: down 14% annually over three years, though latest quarter showed +12% rebound year over year
+- Analyst consensus is cautious: only 42% of 31 analysts rate it a buy, with consensus rating at Hold
+- Price is volatile and near highs: stock is -12% from its 52-week high of 139.27 with yearly volatility of 43%
 
-**Watch next:** Track whether the latest revenue growth of 12% year over year signals a reversal of the three-year declining trend or is temporary.
+**Watch next:** Whether the latest quarter's +12% revenue growth signals a sustained recovery or a temporary bounce in the agricultural cycle.
 
-**Tends to suit:** Investors seeking high current profitability and cash generation who are comfortable with a mature business facing structural headwinds in its end markets.
+**Tends to suit:** Investors who are comfortable with cyclical industries and value companies that prioritize cash returns over growth, but can tolerate high price swings.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $7.1B (+19% vs prior year)

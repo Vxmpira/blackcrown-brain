@@ -14,22 +14,22 @@ tags: [korvus-compass, stock]
 
 **Top rated** · Bullish read · trend: Strong uptrend
 
-## Oil producer with strong cash generation, but analyst skepticism and rising share count
+## Oil explorer with strong cash generation but mixed growth signals
 
-APA Corporation is an oil and gas exploration and production company. It reported $1.4 billion in net income for 2025 and generated $4.5 billion in free cash flow. The stock has risen 88% over the past year but is now down 4.6% in the last month.
+APA Corporation is an oil and gas exploration and production company. It swung to a $1.4B net profit and generated $4.5B in free cash flow last year. Revenue data is incomplete in the filings, making full growth visibility unclear.
 
 ### What is working
-- Free cash flow yield of 30.4% is unusually high, meaning cash returned relative to market value
-- Net income of $1.4B and 20% return on equity show the company is generating strong profits
-- Debt of 0.6x shareholder equity is moderate; company has room on its balance sheet
+- Stock up 92% over the past year and sits 79% of the way up its 52-week range
+- Free cash flow yield of 30.4% is exceptionally high; company keeps 23% of revenue as profit
+- Return on equity stands at 20%; debt is only 0.6x shareholder equity
 
 ### What to be careful about
-- Latest revenue was down 2% year over year, showing top-line pressure
+- Analyst consensus is Hold with only 38% rating it a buy; 34 analysts cover the stock
 - Share count grew 7.8% over three years, diluting existing shareholders
-- Only 38% of 34 analysts rate it a buy; consensus is Hold, signaling caution
+- Stock already -12% from its 52-week high; volatility is 45% annually
 
-**Watch next:** Whether revenue stabilizes or continues to decline, since cash flow strength partly depends on maintaining production and prices.
+**Watch next:** Monitor whether revenue stabilizes or shrinks further, since the latest year showed -2% revenue decline while earnings surged, a divergence that needs explaining.
 
-**Tends to suit:** Long-term investors comfortable with volatile commodity exposure who focus on cash generation and balance sheet strength over growth.
+**Tends to suit:** Long-term investors comfortable with commodity price exposure and high volatility who focus on cash generation and balance sheet strength over traditional growth metrics.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
