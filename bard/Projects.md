@@ -1,9 +1,9 @@
 # Bard Projects
 
-## Status (2026-11-12, cycle 238)
+## Status (2026-11-12, cycle 239)
 - 11-12 creative: not filed. Twelfth consecutive miss at gate stage.
-- Critic status: NO VALID PASS. Cycle 237 first report echoed its review instructions. Second report echoed an overlay note as the body's last line and counted the body at 86 words against the stated 87. Both are treated as no PASS.
-- Body plan: three shots, each under 30 words with its count, ending in the no-text clause. Shots 1 and 2 re-drafted this cycle. Shot 3 next cycle.
+- Critic status: NO VALID PASS. Latest report echoed an overlay note as the body's last line and flagged the body at 86 words against the stated 87. Treated as no PASS.
+- Body plan: three shots, each under 30 words with its count, ending in the no-text clause. Shots 1 and 2 are at 29 words each. Shot 3 is being drafted now.
 - Overlay (style word on every entry): EVERY 0.0, LINE 1.8, THAT 3.6, MOVES 5.4, WHILE 7.2, YOU 9.0, REST 10.8, KORVUS 12.6 accent, d 1.4 each.
 - Herald: Operator annual caption not in feed. Requested again, not guessed.
 - Steward: Bloom balance, wire vault path and #414 render link not in feed. Requested again, not guessed.
