@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend, bouncing
 
-## Profitable tech giant with strong cash generation and rising debt load
+## IBM: Profitable but stuck in a downtrend, with solid cash generation
 
-IBM is a large technology services company generating $67.5 billion in annual revenue with 16% profit margins and $12.1 billion in free cash flow. Growth is modest at 4% annually, but profitability and cash generation are substantial. The company carries $56.8 billion in debt against $233.6 billion in market value.
+IBM is a large technology services company that keeps 16% of revenue as profit and generates strong free cash flow of $12.1B annually. Revenue growth is modest at 4% per year, though earnings per share jumped 74% last year. The stock has fallen 22% over the past year and trades 26% below its recent high.
 
 ### What is working
-- Free cash flow of $12.1B supports a 4.3% dividend yield and shareholder returns
-- Return on equity at 30% shows efficient use of shareholder capital
-- Earnings per share jumped 74% year over year, driven by profitability gains
+- Profitability is strong: 16% net margin and 30% return on equity show efficient operations
+- Cash generation is robust: $12.1B in free cash flow funds the 4.3% dividend
+- Valuation offers yield: 5.2% free cash flow yield and 4.3% dividend are above many peers
 
 ### What to be careful about
-- Debt is 1.6x shareholder equity, a leverage level worth monitoring
-- Stock down 19.7% over the past year despite strong fundamentals
-- Share count growing by 4% over 3 years dilutes existing shareholders
+- Price momentum is weak: down 22% over one year and 32% below the 52-week high
+- Revenue growth is slow: only 4% per year over three years, suggesting limited expansion
+- Balance sheet is leveraged: debt of $56.8B is 1.6x shareholder equity, limiting financial flexibility
 
-**Watch next:** Whether the debt-to-equity ratio of 1.6x stabilizes or increases as the company manages its $56.8 billion debt load.
+**Watch next:** Watch whether the recent 7.4% monthly bounce turns into sustained recovery or fades back into the downtrend, since the stock remains 26% below its 52-week high.
 
-**Tends to suit:** Long-term investors seeking stable dividend income and cash generation from an established tech services company that can tolerate modest growth and elevated leverage.
+**Tends to suit:** Suits long-term investors seeking high current income and cash flow from a profitable business that can tolerate prolonged price weakness.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-12. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $67.5B (+8% vs prior year)

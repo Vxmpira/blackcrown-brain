@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Losing steam
 
-## Dialysis operator with strong cash generation but heavy debt load
+## Dialysis operator trading cheap despite heavy debt load and slowing growth
 
-DaVita operates kidney dialysis and related care facilities. The company generates substantial free cash flow and has cut its share count by 20.8% over three years, but carries $10.8B in debt against only $495.6M in cash.
+DaVita runs kidney dialysis and related care facilities across the US. The company generates solid cash flow from steady patient volumes but faces modest revenue growth of 5-6% annually. Its balance sheet is heavily leveraged.
 
 ### What is working
-- Free cash flow yield of 11.1% and operating margin of 15% show efficient cash conversion from core business
-- Stock up 52.7% over the past year and trading 58% of the way up its 52-week range, above both 50-day and 200-day averages
-- Share buybacks reduced count by 20.8% in three years, concentrating ownership among remaining shareholders
+- Valuation is low: trades at 13x earnings with an 11.1% free cash flow yield, well below historical averages
+- Strong cash generation: $1.3B in free cash flow annually lets the company shrink share count by 20.8% over 3 years
+- Profitability holds: keeps 8% of revenue as profit and maintains 10% free cash flow margins even as volume grows slowly
 
 ### What to be careful about
-- Debt of $10.8B is 78.0x shareholder equity, meaning the company is extremely leveraged relative to its book value
-- Earnings per share fell 8% year over year despite revenue growing 5%, signaling profit pressure
-- Revenue growth slowed to 5% latest quarter and averages only 6% annually over three years; stock is down 7.4% over six months
+- Debt is extreme: $10.8B in debt against only $138M in shareholder equity (78x ratio) means little room for downturns
+- Earnings declined: EPS fell 8% year over year despite 5% revenue growth, showing cost pressures
+- Price losing momentum: down 9.6% over 6 months and down 28% from the 52-week high of $240.96 despite strong 1-year returns
 
-**Watch next:** Monitor whether the company can sustain its 11.1% free cash flow yield while servicing $10.8B in debt amid slowing revenue growth.
+**Watch next:** Monitor whether debt levels decline or stay flat next quarter, since refinancing risk could emerge if the company cannot service or reduce its 78x leverage ratio.
 
-**Tends to suit:** Investors comfortable with cyclical healthcare operations who value current cash generation over rapid growth and accept high leverage as a structural feature.
+**Tends to suit:** Long-term investors comfortable with leveraged healthcare operators offering current yield through cash return programs, who believe dialysis demand stays stable.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-12. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $13.6B (+6% vs prior year)

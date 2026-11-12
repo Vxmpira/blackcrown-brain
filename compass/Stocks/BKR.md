@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend
 
-## Energy services firm shows strong earnings growth but price has fallen sharply this year
+## Baker Hughes: Strong cash generation faces near-term price weakness
 
-Baker Hughes is a large oil and gas equipment and services company with $27.7B in annual revenue. It reported 14% revenue growth in the latest quarter and 56% earnings per share growth year over year. The stock has declined 24.5% over the past six months despite positive fundamentals.
+Baker Hughes is an oil and gas equipment and services company with $27.7B in annual revenue. It is generating solid profits and free cash flow while carrying very little debt, though its stock price has fallen 24.4% over the past six months despite recent earnings growth.
 
 ### What is working
-- Latest quarter revenue grew 14% year over year, accelerating from the 9% annual three-year trend
-- Earnings per share jumped 56% year over year, showing improved profitability
-- Generated $2.5B in free cash flow with $4.0B net cash on the balance sheet, leaving room for shareholder returns
+- Latest quarter revenue jumped 14% year over year, showing current demand strength
+- Generated $2.5B in free cash flow with a 9% margin, funding dividends and buybacks
+- Holds $4.0B in net cash with only $27.0M in debt, giving financial flexibility
 
 ### What to be careful about
-- Stock price fell 24.5% over the past six months and sits 29% below its 52-week high
-- Annual full-year revenue was flat at $27.7B versus prior year, despite strong quarterly growth
-- Yearly volatility of 36% means significant price swings; profit margin of 9% leaves little room for error
+- Stock is down 24.4% over six months and sits 30% below its 52-week high
+- Price volatility is high at 36% yearly, making downside swings common
+- Annual revenue is flat versus the prior year despite quarterly momentum, suggesting uneven conditions
 
-**Watch next:** Whether full-year 2026 revenue can sustain the 14% quarterly growth rate or if results flatten again like they did in 2025.
+**Watch next:** Whether the 14% quarterly revenue growth can sustain into full-year 2026 results, or if it was a one-time spike that masks a slowing trend.
 
-**Tends to suit:** Long-term investors comfortable with energy sector cyclicality who seek dividend income and can tolerate significant price volatility.
+**Tends to suit:** Long-term investors comfortable with energy sector cyclicality and willing to hold through price swings for steady cash generation and dividends.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-12. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $27.7B (-0% vs prior year)

@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend
 
-## Goldman Sachs shows strong recent growth but stock price is retreating from highs
+## Goldman Sachs shows strong earnings growth but price momentum has stalled
 
-Goldman Sachs is a large US investment banking and trading firm. Recent quarterly revenue jumped 23% year over year and the company keeps 29% of revenue as profit. The stock price has risen 16% over the past year but is now 20% below its 52-week high and trading below its 200-day average.
+Goldman Sachs is a global capital markets and investment banking firm. It reported 23% revenue growth in the latest quarter and keeps 29 cents of every dollar as profit. The stock price has fallen 21% from its 52-week high even though earnings per share rose 27% over the past year.
 
 ### What is working
-- Latest quarter revenue grew 23% year over year, the strongest pace shown in the data
-- Net profit margin of 29% means the company converts nearly a third of sales into earnings
-- Stock trades at 12x earnings, which ranks at the top of the valuation scale on this measure
+- Latest quarter revenue jumped 23% year over year, well ahead of the 7% average annual growth rate
+- Company converts 29% of revenue into net profit, above many peers in financial services
+- Valuation at 12x earnings is near the low end; dividend yield sits at 3.2% with active share buybacks reducing share count by 11.3% over three years
 
 ### What to be careful about
-- Free cash flow is negative at -47.2 billion dollars, a major red flag for cash generation
-- Stock is down 20% from its 52-week high and sits below its 200-day moving average
-- Yearly volatility of 33% means the stock swings significantly; analyst consensus is only Hold with 48% not rating it a buy
+- Stock price is 37% of the way up its 52-week range and down 21% from the high, signaling recent investor hesitation
+- Free cash flow is negative 47.2 billion dollars, a major red flag that the company is burning rather than generating cash
+- Debt of 228.7 billion dollars exceeds cash on hand of 176.8 billion dollars; analyst consensus is Hold with only 52% buy ratings
 
-**Watch next:** Whether free cash flow turns positive in coming quarters, since negative cash flow of this scale is unusual for a highly profitable company.
+**Watch next:** Whether free cash flow turns positive in coming quarters, since negative 47.2 billion is unsustainable and could limit future dividends and buybacks.
 
-**Tends to suit:** Investors comfortable with financial sector volatility who value current dividend yield (3.2%) and buyback activity over near-term price momentum.
+**Tends to suit:** Investors comfortable with financial sector volatility (33% yearly swings) who want steady dividend income and are willing to hold through downtrends, assuming cash flow stabilizes.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-12. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $58.3B (+9% vs prior year)

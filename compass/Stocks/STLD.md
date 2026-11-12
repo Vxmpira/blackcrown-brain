@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Pullback in uptrend
 
-## Steel company riding strong price momentum but faces slowing revenue trend
+## Steel producer up 56% in a year with strong balance sheet, but earnings fell
 
-Steel Dynamics is a U.S. steelmaker with $18.2B in annual revenue. The company is profitable, generates free cash, and has very low debt relative to shareholder equity. Its stock price has surged 57% over the past year and sits 66% of the way up its 52-week range.
+Steel Dynamics is a U.S. steelmaker with $18.2B in annual revenue. The stock has rallied sharply over the past year and sits near 52-week highs. The company generates free cash and has reduced debt, but profit per share declined 19% year over year despite a 35% bump in latest quarter revenue.
 
 ### What is working
-- Stock price up 57% over the past year, trading above both its 50-day and 200-day moving averages
-- Balance sheet is strong: debt is only 0.4x shareholder equity, leaving room for flexibility
-- Shrinking share count of 19.6% over 3 years shows the company is returning cash through buybacks
+- Price gained 56% over the past year and sits 65% of the way up its 52-week range, showing sustained uptrend
+- Balance sheet is clean: debt is only 0.4x shareholder equity, and the company holds $928.6M in cash
+- Returning cash to shareholders through buybacks (share count down 19.6% over three years) and 1.5% dividend yield
 
 ### What to be careful about
-- Three-year revenue trend is negative at 7% decline annually, even though latest quarter was up 35%
-- Earnings per share fell 19% year over year despite revenue growth, signaling margin pressure
-- Free cash flow margin of only 3% means most revenue is consumed by operations and capital needs
+- Earnings per share dropped 19% year over year even though revenue rose, signaling margin pressure
+- Free cash flow margin is thin at 3%, meaning limited profit converts to cash after reinvestment
+- Stock is down 16% from its 52-week high and trades at 17x earnings with 37% annual volatility, indicating risk on pullbacks
 
-**Watch next:** Track whether the latest quarter's 35% revenue jump represents a recovery in the three-year declining trend or remains a temporary spike.
+**Watch next:** Monitor whether the latest quarter's 35% revenue surge can sustain without eroding the profit margin that fell year over year.
 
-**Tends to suit:** Investors comfortable with cyclical commodity exposure who want a profitable, low-debt company with shareholder buybacks and dividend income.
+**Tends to suit:** Investors comfortable with cyclical industrial stocks who value balance sheet strength and shareholder buybacks over rapid earnings growth.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-12. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $18.2B (+4% vs prior year)

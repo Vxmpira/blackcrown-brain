@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Bearish read · trend: Downtrend, bouncing
 
-## Cruise operator with recovering revenue but still burning cash despite profit
+## Cruise operator with strong debt position but facing profit and cash flow pressure
 
-Norwegian Cruise Line is a travel services company that operates cruise ships. Revenue grew 4% last year to $9.8 billion, but the latest quarter showed no growth compared to a year ago. The company turned profitable with $423 million in net income, yet it burned $1.2 billion in free cash flow.
+Norwegian Cruise Line is a travel services company that generated $9.8B in revenue over the past year. The company is profitable on paper with a 4% net margin, but it is burning cash and has not grown revenue in its latest quarter.
 
 ### What is working
-- Revenue recovered 27% per year over the past 3 years, showing long-term demand recovery from prior downturns
-- Stock price rose 22.9% in the past month and 17.2% over 6 months, suggesting recent momentum
-- Balance sheet is manageable with debt at only 0.5x shareholder equity, leaving room for financial flexibility
+- Revenue up 27% per year over three years, showing long-term demand for cruises.
+- Strong balance sheet with debt at only 0.5x shareholder equity, leaving room to weather downturns.
+- Stock price up 21.4% over the past month and 13.4% over six months, suggesting near-term momentum.
 
 ### What to be careful about
-- Free cash flow is negative $1.2 billion despite positive net income of $423.2 million, meaning the company is not generating cash for investors
-- Latest quarter revenue grew 0% year over year while earnings per share fell 51%, showing current momentum is slowing
-- Stock is down 31% over 5 years and down 1% over the past year, and the company is still 25% below its 52-week high at $18.82
+- Free cash flow is negative $1.2B, meaning the company is burning cash despite reporting net income.
+- Earnings per share fell 51% year over year, eroding profitability per shareholder.
+- Latest quarter revenue flat at $2.9B with zero growth, signaling demand may be stalling.
 
-**Watch next:** Whether the company can return to positive free cash flow in coming quarters, since it is profitable on paper but burning cash in reality.
+**Watch next:** Monitor whether the next quarter shows revenue growth returning or whether the zero growth trend persists, since cash burn is the most immediate concern.
 
-**Tends to suit:** Investors comfortable with cyclical volatility (54% yearly swings) and turnaround situations, who can tolerate years of negative cash burn while watching for operational inflection.
+**Tends to suit:** Investors with high risk tolerance who can hold through volatile swings and do not need near-term cash returns from their holdings.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-12. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $9.8B (+4% vs prior year)

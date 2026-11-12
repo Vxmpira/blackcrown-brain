@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Arch Capital trades cheaply while posting strong profits and cash generation
+## Insurance giant with strong profits trades cheap, but recent revenue dip raises questions
 
-Arch Capital is a Bermuda-based insurance and reinsurance company with $19.9 billion in annual revenue. It keeps 22 cents of profit from each dollar earned and generated $6.1 billion in free cash flow last year. The stock has climbed 22% over the past year and sits near its 52-week high.
+Arch Capital is a diversified insurance and reinsurance company based in Bermuda. It reported $19.9 billion in annual revenue and $4.4 billion in net income for 2025, but its latest quarterly revenue fell 9% year over year. The stock has climbed 20% in the past year and sits near 52-week highs.
 
 ### What is working
-- Valuation is low at 8x earnings with a free cash flow yield of 17.4%, meaning the company throws off cash relative to its market value
-- Profitability is strong: 22% net margin and 19% return on equity show efficient use of shareholder capital
-- Price momentum is solid: up 22% in one year, 93% of the way through its 52-week range, with 50-day average above 200-day average
+- Profit margin is healthy at 22% of revenue, and return on equity stands at 19%.
+- Stock trades at just 8x earnings, one of the lowest valuation multiples on the screen.
+- Free cash flow yield of 17.4% suggests strong cash generation relative to market value.
 
 ### What to be careful about
-- Latest quarter revenue fell 9% year over year, signaling a recent slowdown despite strong annual growth
-- Analyst consensus is mixed: only 57% rate it a buy, and the consensus confidence score is 58 of 100
-- The stock already sits near its 52-week high at 93% through the range, leaving less room before hitting resistance
+- Latest quarter revenue dropped 9% compared to a year ago, reversing the 3-year trend of 28% annual growth.
+- Analyst consensus has 57% buy ratings, meaning 43% do not rate it a buy; this is less unified than typically seen.
+- Share buybacks are minimal with share count essentially flat over 3 years, limiting shareholder return mechanisms.
 
-**Watch next:** Watch whether the quarterly revenue decline of 9% reverses or deepens, as it conflicts with the strong annual growth trend and may signal shifting market conditions in insurance.
+**Watch next:** Whether the 9% quarterly revenue decline represents a temporary softness or signals a shift in the insurance market demand that Arch serves.
 
-**Tends to suit:** Suits long-term investors comfortable with cyclical insurance companies who value cheap valuations, strong cash generation, and can tolerate 21% annual price swings without panic.
+**Tends to suit:** Long-term investors seeking exposure to insurance and financial services who can tolerate volatility (21% yearly) and are comfortable with a Bermuda-domiciled company trading at a low earnings multiple.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-12. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $19.9B (+14% vs prior year)
