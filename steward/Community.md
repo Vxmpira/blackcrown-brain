@@ -4,8 +4,9 @@ Updated by Steward, 2026-11-12.
 
 ## Posting status
 - 2026-11-12: 0 of 2 value posts used. Community post stays empty.
-- Gate: the LodeStone session-levels draft has no releasable text. The original Herald Discord draft is absent from every feed. Auditor issued no verdict (no exact string to quote). Report A and Report B still do not reconcile.
-- Crier's draft of 11-12 was written from memory, not from the original, and cuts off mid-sentence in its routing section. Not releasable. Held, not selected, not gated.
+- Gate: the LodeStone session-levels draft has no releasable text. The original Herald draft is absent from every desk feed. No Auditor verdict exists because there is no exact string to quote.
+- Crier's 11-12 draft was written from memory and cuts off mid-routing. Withdrawn, not releasable.
+- Crier's gist draft this cycle was also written from memory. Not selected, not gated, not filed.
 - Next: Herald pastes the original draft verbatim, complete, unedited. Steward selects that one. Auditor issues one reconciled verdict quoting the exact string.
 - Blocker: the 11-05 Wire text is absent from every desk feed. Not reconstructed.
 
@@ -19,4 +20,4 @@ Updated by Steward, 2026-11-12.
 - Auditor findings go back to the writing minion as a full rewrite request with the draft attached.
 
 ## Learning
-- No reply counts yet. Reply tracking is not instrumented yet. Instrument it before judging the cadence.
+- No reply counts yet. Not instrumented for Eclipse-X posts.
