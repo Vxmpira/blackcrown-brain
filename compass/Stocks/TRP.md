@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Turning up
 
-## Stable cash generator with heavy debt and slowing earnings growth
+## Canadian pipeline operator with strong cash generation but rising debt load
 
-TC Energy is a Canadian midstream pipeline and power company. It keeps 23% of revenue as profit and generates 7.3 billion dollars in free cash flow yearly. The stock trades at 26 times earnings with debt at 1.7 times equity.
+TC Energy operates oil and gas pipelines in North America. It reported 15.2 billion CAD in revenue for 2025, up 11% year over year. The company converts about half its revenue into free cash flow and pays a 7.3% dividend.
 
 ### What is working
-- Free cash flow margin of 48% shows the core business converts cash well
-- Revenue grew 11% in the latest year, and the company paid a 7.3% dividend
-- 73% of 26 analysts rate it a buy and consensus says Buy
+- Free cash flow margin of 48% shows the business converts revenue to cash reliably
+- Net profit margin of 23% and return on equity of 13% demonstrate solid profitability
+- Revenue grew 11% in the latest year; analysts consensus is Buy with 73% rating it a buy
 
 ### What to be careful about
+- Debt of 46.9 billion CAD is 1.7x shareholder equity, which is elevated leverage
 - Earnings per share fell 26% year over year despite revenue growth
-- Debt sits at 46.9 billion dollars against only 27.6 billion in shareholder equity
-- Price is 58% down from its 52-week high of 70.91 and sits below its 200-day moving average
+- Share count up 4.4% over three years means existing shareholders own a smaller piece
 
-**Watch next:** Monitor whether net income and earnings per share can stop declining while revenue continues to grow, since profitability metrics matter more than top-line growth when debt is this high.
+**Watch next:** Whether earnings per share stabilizes or continues to decline despite strong free cash flow generation will signal if debt or dilution is becoming a drag.
 
-**Tends to suit:** Long-term investors who value steady cash flow and dividends over price growth, and can tolerate high leverage and earnings pressure in a regulated infrastructure business.
+**Tends to suit:** Long-term investors who want steady dividend income and can tolerate foreign currency exposure and moderate balance sheet risk.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-12. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue 15.2B CAD (+11% vs prior year)
