@@ -14,23 +14,23 @@ tags: [korvus-compass, stock]
 
 **Top rated** · Bullish read · trend: Pullback in uptrend
 
-## Profitable chip maker with strong growth, but expensive valuation and recent pullback
+## Chip maker with fortress balance sheet sees revenue surge, but valuation is stretched
 
-TSM is the world's largest contract chipmaker. It keeps 40% of revenue as profit, generated $26.5B in free cash flow last year, and holds $64.9B in net cash. Revenue grew 25% year over year and earnings per share grew 27%.
+Taiwan Semiconductor Manufacturing Company is the world's largest contract chip manufacturer. It reported 25% revenue growth and 40% net profit margins in its most recent fiscal year, backed by $64.9 billion in net cash and no meaningful debt.
 
 ### What is working
-- Profitability is exceptional: 40% net margin and 46% operating margin show pricing power
-- Latest quarter October revenue jumped 60% year over year, signaling strong near-term demand
-- Fortress balance sheet with $64.9B net cash and no debt provides cushion for downturns
+- Revenue jumped 25% year over year; October revenue alone rose 60% year over year
+- Keeps 40% of every sales dollar as profit; free cash flow margin of 30%
+- Balance sheet holds $64.9B in net cash with minimal debt; 27% return on equity
 
 ### What to be careful about
-- Stock trades at 23x earnings and 0.1% free cash flow yield, leaving little margin for disappointment
-- Price pulled back 7.1% in the last month and sits 15% below its 52-week high
-- Yearly volatility of 42% means sharp swings are normal, which can test long-term conviction
+- Stock trades at 23x earnings; free cash flow yield is only 0.1%, leaving little margin for error
+- Down 7.1% in the past month and 15% from its 52-week high; yearly volatility stands at 42%
+- Recent employee data exposure disclosed in filing, though no system breach confirmed
 
-**Watch next:** Whether the 60% October revenue growth sustains into coming quarters or normalizes, since recent quarters lack detailed guidance.
+**Watch next:** Whether Q3 and Q4 revenue momentum can sustain the 60% year-over-year growth rate seen in October, or if demand begins to normalize.
 
-**Tends to suit:** Patient long-term investors who can tolerate 42% annual price swings and believe in semiconductor structural demand, but should be aware the valuation leaves little room for error.
+**Tends to suit:** Long-term investors comfortable holding dominant industrial franchises at premium valuations and tolerating significant price swings for exposure to semiconductor demand.
 
 Written by the Compass Analyst (Claude Haiku) on 2026-11-12. Research, not advice.
 

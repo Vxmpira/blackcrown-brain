@@ -15,3 +15,7 @@ In today's universe at $92.99, market cap $4.29B.
 ## Filings
 
 - 2026-11-12 08:01 AM · 8-K · MED bull 62% · [[intel/Filings/2026-11-12|PVH: Date of Report (Date of earliest event reported)]]
+
+## Paper trades
+
+- 2026-11-12 08:07 AM · LONG 107 @ $92.67 · open
