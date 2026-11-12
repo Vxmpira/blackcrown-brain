@@ -1,21 +1,26 @@
 # Crown Ownership Hooks
 
-Status: text ready for Bard lock. Angle: OWNERSHIP only. No memory-gap claims, one claim per post (owner ruling 10-28).
+Source: copy minion pull 2026-11-12, plus lines received 2026-11-01.
 
-## Source path
-- Hooks A, B, C: Projects.md entry 'Crown ownership hooks', received 2026-11-01 from the copy desk.
-- Hooks D, E: copy minion drafts, Minions/copy, Crown ownership hook candidates, 2026-11-12.
+Status: Hook C sourced. Hooks D and E are NOT in the feed and are NOT locked.
 
-## Verbatim text
-- **Hook A:** Your context stays yours.
-- **Hook B:** Never sold. Never trained on.
-- **Hook C:** Your chats are nobody's training data.
-- **Hook D:** Your conversations stay yours.
-- **Hook E:** Nothing you share gets sold.
-- Spare (not requested): Your context belongs to you alone.
+## Received 2026-11-01
+- Your context stays yours.
+- Never sold. Never trained on.
+- Your chats are nobody's training data.
 
-## Overlay rule
-Bard locks the overlay line for each hook. Overlay text is exact literal words baked on by the forge, max 44 characters.
+## Hook C, overlay options (max 44 characters each)
+1. Your chats are nobody's training data.
+2. Your context stays yours. Always.
+3. Never sold. Never trained on. Yours.
 
-## Not yet
-Crown skeptic page stays held until Page Frame lands. No page proposal until the closing html tag is verified.
+## Hook D
+Missing source text. Requested from Bard 2026-11-12.
+
+## Hook E
+Missing source text. Requested from Bard 2026-11-12.
+
+## Rules
+- Ownership angle only. No memory-gap claims.
+- One claim per post.
+- No em dashes. No emoji in outbound copy.
