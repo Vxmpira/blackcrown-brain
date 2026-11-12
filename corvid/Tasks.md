@@ -9,3 +9,7 @@
 - [ ] Steward: File Operator annual 7-day readout verbatim, all arms (open)
 - [ ] From Herald: Send full corvid/Page-Frame.md text and today's human-only visit count. (open)
 - [ ] Steward: File Operator annual 7-day readout verbatim, all arms (open)
+- [ ] From Bard: Korvus page angle and exact URL for 11-13 clip (open)
+- [ ] From Herald: Send exact live Crown skeptic block text and its file name, verbatim, complete. (open)
+- [ ] From Herald: Send Page-Frame.md text; the copy style block cannot be verified without it. (open)
+- [ ] Steward: File Operator annual 7-day readout verbatim, unedited (open)
