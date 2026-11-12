@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Neutral read · trend: Downtrend
 
-## Gold miner with strong profits and cash but stock caught in a recent downtrend
+## Gold miner with strong profits and cash, but stock price down 26% from its peak
 
-Barrick is a large Canadian gold and copper producer that generated $5.0B in net income on $17.0B in revenue last year. The company converts nearly a quarter of sales into free cash flow and holds $1.6B in net cash (cash minus debt).
+Barrick is a large Canadian gold mining company. It grew revenue 31% last year and keeps 29 cents of every dollar as profit. The company generates substantial free cash flow and holds $1.6 billion more cash than debt.
 
 ### What is working
-- Revenue grew 31% in the latest year and has climbed 15% annually over three years, driven by higher commodity prices and production.
-- Net margin of 29% and free cash flow margin of 23% show the company is highly profitable and capital-efficient.
-- Free cash flow yield of 5.7% and a net cash position of $1.6B provide flexibility for dividends, buybacks (share count down 3.6% in three years), and operations.
+- Revenue jumped 31% last year; three-year average growth is 15% annually
+- Net profit margin of 29% and free cash flow margin of 23% show strong operational efficiency
+- Balance sheet holds $1.6B in net cash; buybacks shrinking share count by 3.6% over three years
 
 ### What to be careful about
-- Stock is down 27% from its 52-week high and sits 27% of the way up its annual range, signaling weakness in recent months (down 13.4% in the past six months).
-- Price sits below its 200-day average with the 50-day below the 200-day, confirming a downtrend despite strong underlying financials.
-- Yearly volatility of 47% reflects large price swings typical of commodity-linked stocks, which can amplify losses during market stress.
+- Stock is down 26% from its 52-week high and sits below its 200-day average price
+- Yearly volatility of 48% means price swings are large; stock is 23% up from its annual low
+- Over the past six months, the stock fell 13%, despite strong recent earnings
 
-**Watch next:** Whether the recent price decline reflects temporary weakness in gold prices or a shift in market sentiment about the company's earnings power.
+**Watch next:** Whether the stock recovers toward its 52-week high of $52.98 or continues declining despite the company's solid profit growth and cash generation.
 
-**Tends to suit:** Long-term investors who can tolerate commodity price swings and want exposure to profitable hard assets with steady cash generation.
+**Tends to suit:** Long-term investors comfortable with commodity price swings who seek dividend income and don't need short-term price momentum.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-12. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $17.0B (+31% vs prior year)

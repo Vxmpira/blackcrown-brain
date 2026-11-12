@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Turning up
 
-## Profitable tobacco giant with shrinking sales but strong cash returns to shareholders
+## Mature tobacco company trades cheap with strong cash returns and shrinking revenue
 
-British American Tobacco is a large, profitable consumer goods company in the tobacco sector. It generated 25.6B GBP in revenue last year, down 1% from the prior year, but keeps 30% of revenue as profit. The company generates substantial free cash flow and returns capital to shareholders through buybacks.
+British American Tobacco is a large multinational tobacco manufacturer based in the UK that trades on US exchanges. It is highly profitable and generates substantial cash, but its core business is shrinking by about 1% per year. The company prioritizes returning cash to shareholders through dividends and buybacks.
 
 ### What is working
-- Profit margin is very high at 30% of revenue, well above many consumer companies
-- Free cash flow margin of 23% means the company converts sales into cash efficiently
-- Share count down 3.0% over 3 years shows consistent capital returns via buybacks
+- Profitability is robust: keeps 30% of revenue as net profit and generates 5.8B GBP in free cash flow annually
+- Shareholder returns are generous: dividend yield of 8.9% and share count down 3.0% over three years through buybacks
+- Valuation appears compressed: trades at 15x earnings, below typical consumer defensive peers, and 84% of 19 analysts rate it a buy
 
 ### What to be careful about
-- Revenue fell 1% last year and has declined 3% annually over 3 years, showing a shrinking top line
-- Debt is 35.1B GBP, which is 0.8x shareholder equity, a meaningful leverage level for investors to monitor
-- Growth component of score is 44, the lowest among score parts, reflecting revenue pressure
+- Revenue is declining: down 1% year over year and down 3% per year over the past three years, signaling a shrinking market
+- Debt load is substantial: 35.1B GBP of debt versus 7.8B GBP of net income, though manageable at 0.8x shareholder equity
+- Price momentum is mixed: up 10% in the past year but down 6.6% over six months, with 26% yearly volatility indicating uneven trading
 
-**Watch next:** Whether the recent price recovery (up 9.3% in one month, turning up from below its 200-day average) signals a stabilization in revenue decline or is a temporary move.
+**Watch next:** Track whether revenue stabilizes or continues to decline, since the business model depends on maintaining volume and pricing power in a shrinking tobacco market.
 
-**Tends to suit:** Long-term investors seeking stable cash income and shareholder returns from a mature, profitable company willing to accept a shrinking business in a contested sector.
+**Tends to suit:** Suits long-term investors seeking steady dividend income and capital returns from a mature, profitable company willing to accept slow revenue decline as the cost of market contraction.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-12. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue 25.6B GBP (-1% vs prior year)

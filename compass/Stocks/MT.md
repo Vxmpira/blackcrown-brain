@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Pullback in uptrend
 
-## Steel giant with shrinking revenue but improving earnings and strong cash generation
+## Steel giant with strong cash generation sits near 52-week high after 67% annual gain
 
-ArcelorMittal is the world's largest steelmaker by revenue ($61.4B). The company is profitable, generating $3.2B in net income and $4.8B in free cash flow, but faces a long-term revenue decline of 8% annually over three years. Its balance sheet is in excellent shape with minimal debt relative to equity.
+ArcelorMittal is a Luxembourg-based steel producer with $61.4 billion in annual revenue. The company is generating substantial free cash flow and has returned capital to shareholders through buybacks, though revenue has declined 8% over three years.
 
 ### What is working
-- Earnings jumped 143% year over year despite flat revenue, showing operational leverage and cost control
-- Free cash flow yield of 9.6% is high, meaning the company generates substantial cash relative to its market value
-- Balance sheet is fortress-like: debt is only 0.2x shareholder equity, providing financial flexibility
+- Price momentum: up 67% over the past year and sits 68% of the way up its 52-week range
+- Cash generation: $4.8 billion free cash flow yield of 11.4%, well above typical stock yields
+- Capital discipline: debt at 0.2x shareholder equity and share count down 16.2% over 3 years
 
 ### What to be careful about
-- Revenue has contracted 8% annually over three years and fell 2% last year, signaling weak demand or market share loss
-- Profitability margins are thin: net margin is 5% and return on equity is 6%, limiting upside from earnings growth
-- Stock price is down 17% from its 52-week high of 78.74, and volatility is 44%, meaning swings are sharp
+- Revenue shrinking: down 8% a year over 3 years, latest year down 2% year over year
+- Profitability thin: 5% net margin and 6% return on equity lag many industries
+- Valuation stretched: trades at 26x earnings after a 67% annual rally; sits 16% below 52-week high
 
-**Watch next:** Whether revenue decline stabilizes or accelerates in coming quarters, since the 3-year downtrend of 8% annually is the largest headwind to future earnings.
+**Watch next:** Whether revenue stabilizes or continues declining, since the company's three-year trend shows consistent contraction despite strong cash flow.
 
-**Tends to suit:** Long-term investors comfortable with cyclical industrial stocks who value strong cash flow and balance sheets over growth, and who can tolerate 40%+ annual price swings.
+**Tends to suit:** Long-term investors comfortable with cyclical commodity exposure who value cash return over growth and can tolerate 44% yearly price swings.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-12. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $61.4B (-2% vs prior year)

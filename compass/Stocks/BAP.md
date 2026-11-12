@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Pullback in uptrend
 
-## Peruvian bank holding company with strong uptrend, flat earnings growth, and solid cash position
+## Peruvian bank holding company with strong price momentum and 5.3% dividend yield
 
-Credicorp is a diversified financial services company based in Peru with 27.5 billion PEN in annual revenue. It operates across banking, insurance, and investment services, primarily serving customers in Peru and the broader Latin American region. The company keeps 20% of revenue as profit and generates 14.2 billion PEN in annual free cash flow.
+Credicorp is a diversified financial services company based in Peru that generated 27.5 billion PEN in revenue in 2024. It keeps one dollar of profit for every five dollars of revenue and has returned 183% over five years.
 
 ### What is working
-- Stock price up 42% over the past year and sits 78% of the way up its 52-week range, showing sustained upward momentum
-- Company holds 47.6 billion PEN in cash against no reported debt, providing a strong financial cushion
-- Return on equity of 16% shows management is generating solid returns on shareholder capital deployed
+- Price is up 42% over the past year and sits 78% of the way up its 52-week range
+- Trades at 13x earnings, in the lower half of typical valuations
+- 87% of 15 analysts covering the stock rate it a buy
 
 ### What to be careful about
-- Latest earnings per share growth of 13% masks slowing revenue growth of only 7% year over year, suggesting margin expansion may not continue
-- Stock is down 9% from its 52-week high and fell 3.7% in the past month despite the longer uptrend, indicating recent weakness
-- Yearly volatility of 35% means quarterly swings of 9% or more are normal; foreign company currency risk adds uncertainty
+- Stock is down 3.1% over the last month and sits 8% below its 52-week high
+- Revenue growth has slowed to 7% year over year, down from 12% annually over three years
+- Yearly volatility is 35%, meaning regular swings of that magnitude are normal
 
-**Watch next:** Whether the gap between EPS growth (13%) and revenue growth (7%) can persist, or if earnings will slow to match revenue trends in coming quarters.
+**Watch next:** Whether revenue growth stabilizes or continues to decelerate from the recent 7% pace, since that slowdown is the main shift in the company's recent performance.
 
-**Tends to suit:** Investors comfortable with foreign stocks and bank sector exposure who can tolerate high volatility and want exposure to Latin American financial services growth.
+**Tends to suit:** Long-term investors in emerging markets who can tolerate currency risk and high volatility and seek dividend income alongside potential price appreciation.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-12. Research, not advice.
 
 ## Key numbers (fiscal year ended 2024-12-31)
 - Revenue 27.5B PEN (+7% vs prior year)
