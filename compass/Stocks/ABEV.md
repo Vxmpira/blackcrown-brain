@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend
 
-## Profitable Brazil beverages giant in price downtrend; strong cash generation holds steady
+## Strong cash machine with analyst skepticism and near-term price weakness
 
-Ambev is a large beverage company based in Brazil that trades in the US. It keeps 18% of revenue as profit and generates substantial free cash flow of 19.9B BRL. Revenue has been flat to slightly down lately, though the company remains solidly profitable.
+Ambev is a major beverage company based in Brazil that generates substantial profits and cash. Revenue has been flat lately, but the company converts nearly a quarter of its sales into free cash and maintains a strong balance sheet with 15.3B BRL in net cash.
 
 ### What is working
-- Profitability is strong: 18% net margin and 26% operating margin show pricing power and cost control
-- Free cash flow of 19.9B BRL with a 23% margin means the business converts sales into real cash reliably
-- Balance sheet has net cash of 15.3B BRL, providing a buffer against uncertainty and capacity to invest or return cash
+- Profitability is robust: 18% net margin and 23% free cash flow margin show strong operational discipline
+- Balance sheet is fortress-like: 15.3B BRL in net cash with 18% return on equity
+- Shareholder returns are meaningful: 7.6% dividend yield plus ongoing share buybacks reducing share count
 
 ### What to be careful about
-- Price is down 42% from its 52-week high and sits below its 200-day moving average, signaling recent weakness
-- Revenue fell 1% year over year despite a 3% three-year average, suggesting recent momentum has stalled
-- Stock has lost 8% over five years and shows 36% yearly volatility, meaning large swings in price are common
+- Price momentum is negative: down 13% in the past month and 18% from its 52-week high
+- Analysts are skeptical: only 10% rate it a buy while consensus is Sell across 20 analysts
+- Revenue growth has stalled: flat year over year at 88.2B BRL, with only 3% annual growth over three years
 
-**Watch next:** Whether revenue growth stabilizes in coming quarters, since the latest year-over-year decline breaks the three-year positive trend.
+**Watch next:** Whether revenue stabilizes in upcoming quarters, since the top line has shown little growth and analysts broadly recommend selling.
 
-**Tends to suit:** Long-term investors comfortable with foreign currency exposure who value stable cash generation and profitability over near-term price appreciation.
+**Tends to suit:** Long-term investors comfortable with foreign-listed stocks who prioritize cash generation and dividends over growth and can tolerate near-term price weakness and analyst skepticism.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-12. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue 88.2B BRL (-1% vs prior year)

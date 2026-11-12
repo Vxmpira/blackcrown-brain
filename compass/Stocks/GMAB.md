@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Profitable biotech with strong cash flow shows revenue growth but earnings fell
+## High-growth biotech with strong cash generation, but trading at a premium valuation
 
-Genmab is a Danish biotechnology company that converted $3.7 billion in revenue into $963 million in profit during 2025. It generates substantial free cash flow and maintains a modest debt load relative to shareholder equity.
+Genmab is a Danish biotechnology company generating $3.7 billion in annual revenue with a net profit margin of 26%. It grew revenue 19% year over year while maintaining robust free cash flow of $1.1 billion, though earnings per share fell 12% over the same period.
 
 ### What is working
-- Revenue grew 19% year over year to $3.7B, with latest quarter also up 19%
-- Converts 26% of revenue to net profit and generates $1.1B in annual free cash flow
-- Stock price up 88.7% over the past year and near 52-week highs at $57.29
+- Revenue grew 19% in latest year, with Q4 showing $925 million (+19% vs year ago)
+- Converts 26% of revenue to net profit and generates $1.1 billion in free cash flow annually
+- Return on equity stands at 16% with $1.7 billion in cash on hand; 80% of 25 analysts rate it a buy
 
 ### What to be careful about
-- Earnings per share declined 12% year over year despite revenue growth, signaling profitability pressure
-- Carries $5.3B in debt, which equals 0.9x shareholder equity and limits financial flexibility
-- Yearly volatility stands at 44%, meaning price swings can be steep and unpredictable
+- Earnings per share declined 12% year over year despite revenue growth, signaling margin or share count pressure
+- Trades at 42x earnings with a free cash flow yield of only 0.5%, among the highest valuations on the sheet
+- Carries $5.3 billion in debt (0.9x shareholder equity) and stock is up 85% in one year with 44% annual volatility
 
-**Watch next:** Whether earnings per share can return to growth in coming quarters or if the gap between revenue growth and profit decline widens further.
+**Watch next:** Monitor whether earnings per share can return to growth while revenue continues its 19% trajectory, as the disconnect between the two suggests operational headwinds.
 
-**Tends to suit:** Investors comfortable with biotech volatility who value current profitability and cash generation over near-term earnings momentum.
+**Tends to suit:** Investors comfortable with high valuations and volatility who believe Genmab's cash generation justifies premium pricing and can tolerate foreign-listed biotech exposure.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-12. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $3.7B (+19% vs prior year)

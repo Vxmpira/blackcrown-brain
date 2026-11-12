@@ -14,22 +14,22 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Losing steam
 
-## Global bank with strong cash generation but slowing earnings and sky-high valuation
+## HSBC shows strong cash generation and buybacks, but price momentum is fading
 
-HSBC is a diversified financial services company based in the UK with $23.1B in annual net income and $432.9B in cash on hand. Earnings per share fell 3% year over year, and the company trades at a P/E ratio of 74.9, which is very high for a bank.
+HSBC is a large diversified bank based in the UK with $229.1B market value. It generated $28.3B in free cash flow last year and holds $432.9B in cash. The stock has climbed 25% over the past year but has retreated 16% from its 52-week high.
 
 ### What is working
-- Free cash flow of $28.3B provides substantial resources for dividends and buybacks
-- Share count has shrunk 12.2% over three years through active buyback programs
-- Stock gained 26.1% over the past year and 198% over five years
+- Free cash flow yield of 12.4% is substantial relative to what the stock costs
+- Share count shrinking by 12.2% over three years through buybacks, concentrating value
+- Dividend yield of 5.5% plus cash return via shrinking share base gives dual shareholder payback
 
 ### What to be careful about
-- Earnings per share declined 3% year over year, signaling profit headwinds
-- P/E of 74.9 is extremely elevated for the banking sector, leaving little room for disappointment
-- Stock is down 17% from its 52-week high and lost 4.7% in the last month, suggesting momentum is fading
+- Earnings per share fell 3% year over year despite revenue jumping 109%, signaling cost pressures
+- Stock is down 4.9% in the last month and sits 16% below its 52-week high, showing weakening momentum
+- Only 41% of 22 analysts rate it a buy; consensus is Hold, suggesting caution in the research community
 
-**Watch next:** Whether earnings per share can return to growth next year, since the current decline and high valuation make the stock vulnerable if profitability remains flat or weakens further.
+**Watch next:** Monitor whether earnings per share can stabilize or recover next quarter, since revenue growth alone has not translated to profit growth.
 
-**Tends to suit:** Long-term investors comfortable with mature financial companies that prioritize cash returns over growth, and who can tolerate currency risk from a UK-domiciled firm.
+**Tends to suit:** Long-term income-focused investors comfortable with UK-listed financials and dividend yields who can tolerate price volatility and near-term momentum weakness.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-12. Research, not advice.

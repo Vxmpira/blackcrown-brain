@@ -14,22 +14,22 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Pullback in uptrend
 
-## Spanish bank with strong price momentum trades cheaply but faces share dilution
+## Spanish bank trading cheaply with strong cash generation, but facing analyst skepticism
 
-BBVA is a diversified banking company based in Spain with a market value of $152.6B. The company generated $10.5B in net income and $14.1B in free cash flow in the most recent fiscal year. Its shares have appreciated 29.7% over the past year and currently trade 11% below their 52-week high.
+BBVA is a diversified banking group based in Spain with a market value of 128 billion dollars. It generated 10.5 billion dollars in net income and 14.1 billion dollars in free cash flow in its latest fiscal year. The company holds 58.8 billion dollars in cash.
 
 ### What is working
-- Stock price is 67% of the way up its 52-week range and has climbed 30% in the past year, showing upward momentum
-- Trades at 15x earnings with a 9.3% free cash flow yield, suggesting the market values it below its cash generation capacity
-- Return on equity stands at 17%, indicating the company generates solid returns on shareholder capital
+- Stock up 24% over the past year and sits 64% of the way up its 52-week range, showing upward momentum
+- Trades at 11x earnings with an 11.1% free cash flow yield, both suggesting the market prices it cheaply relative to profits
+- Return on equity of 17% and a 5.6% dividend yield provide income and show efficient use of shareholder capital
 
 ### What to be careful about
-- Share count has grown 86412600% over three years, signaling severe dilution that reduces value per existing shareholder
-- Earnings per share grew only 5% year over year, a slow pace relative to the stock's 30% price gain
-- Stock has pulled back 11% from its 52-week high and shows yearly volatility of 34%, meaning sharp swings are common
+- Analyst consensus is Hold with only 43% rating it a buy, meaning most experts are not recommending it
+- Share count has grown 86412600% over three years, an extreme dilution figure that significantly weakens existing shareholders
+- Currently 12% below its 52-week high of 29.64, and yearly volatility of 34% means the price swings sharply
 
-**Watch next:** Monitor whether share dilution continues at this pace or moderates, as it directly erodes the value of each share owned.
+**Watch next:** Monitor whether the extreme share dilution over the past three years continues or reverses, as this directly impacts the value of each share you own.
 
-**Tends to suit:** Investors who value low valuation multiples and cash generation but can tolerate foreign exchange risk and significant share count changes from a non-US bank.
+**Tends to suit:** Investors comfortable with foreign banking stocks who seek dividend income and can tolerate high price volatility, but who may be concerned by analyst indifference and share dilution.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-12. Research, not advice.

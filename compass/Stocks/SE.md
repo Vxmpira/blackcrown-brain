@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Neutral read · trend: Downtrend
 
-## Fast-growing Southeast Asia platform showing profits but stock down 48% from peak
+## Fast-growing Asian tech giant profits well but stock price has crashed 52% in a year
 
-Sea Limited is a Singapore-based company operating e-commerce, digital payments, and gaming businesses across Southeast Asia. It grew revenue 33% last year to $19.6B and turned a $1.6B net profit, though the stock has fallen sharply from its highs.
+Sea Limited is a Singapore-based company with $19.6B in annual revenue growing 33% year over year. It operates across e-commerce, digital payments, and gaming in Southeast Asia. The company is profitable, generates substantial free cash flow, and holds a strong balance sheet with $3.1B in net cash.
 
 ### What is working
-- Revenue grew 33% year over year to $19.6B, with a 3-year annual growth rate of 16%
-- Generated $4.5B in free cash flow with a 23% free cash flow margin
-- Holds $3.1B in net cash (cash minus debt), giving financial flexibility
+- Revenue jumped 33% last year and has grown 16% annually over three years, showing consistent acceleration
+- Free cash flow of $4.5B with a 23% margin demonstrates the business converts sales into real cash efficiently
+- Net cash position of $3.1B gives the company financial flexibility with no near-term debt pressure
 
 ### What to be careful about
-- Stock is down 48.8% over the past year and 79% over 5 years, showing sustained investor skepticism
-- P/E of 30.48 remains elevated even after the price decline
-- Share count has grown 14.3% over 3 years, diluting existing shareholder ownership
+- Stock price is down 52% over the past year and sits at the bottom of its 52-week range, suggesting sustained investor skepticism
+- Trades at 28.84x earnings, which is high relative to the 9.6% free cash flow yield some investors demand
+- Share count has grown 14.3% over three years, meaning existing shareholders own a smaller slice of future earnings
 
-**Watch next:** Whether the company can sustain its 33% revenue growth rate while the stock trades 50% below its 52-week high of $155.05.
+**Watch next:** Whether revenue growth momentum can stay above 30% while the company continues to expand operating margins, since both are currently the engine of earnings growth.
 
-**Tends to suit:** Long-term investors comfortable with high volatility (52% yearly) who believe in Southeast Asian growth and can tolerate extended downturns.
+**Tends to suit:** Investors comfortable with foreign stocks who believe in high-growth Asian tech but are uncertain about near-term direction, since strong fundamentals conflict with deteriorating price trend.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-12. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $19.6B (+33% vs prior year)
