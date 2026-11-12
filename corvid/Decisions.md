@@ -393,3 +393,4 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-11-11: [REJECTED] #415 Crown free tier ownership clip, 11-12 body and overlay (note: Regent veto: Detail empty: no overlay or body text. Refile with exact lines.) (via regent)
 - 2026-11-11: [REJECTED] #416 Daily human versus automated visit split report (note: preflight: job asks need a SCHEDULE line) (via preflight)
 - 2026-11-11: [APPROVED] #417 Operator annual X post, LodeStone included, not advice (via admin)
+- 2026-11-11: [APPROVED] #418 Daily human-likely visit report with bot signals (via reaction)

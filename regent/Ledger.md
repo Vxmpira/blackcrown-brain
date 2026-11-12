@@ -313,3 +313,4 @@ Plan: Re
 - 2026-11-11: #412 Crown privacy X post, ownership angle > DONE: posted to X with the brand account (post 2120715418184683878)
 - 2026-11-11: #414 Crown ownership monolith clip for 11-12, 15 seconds. > DONE: rendering via Bloom, package lands in the channel
 - 2026-11-11: #417 Operator annual X post, LodeStone included, not advice > DONE: posted to X with the brand account (post 2120724815178858824)
+- 2026-11-11: #418 Daily human-likely visit report with bot signals > DONE: job registered: "Daily human-likely visit report with bot signals", daily at 18:00 ET, posts to corvid. The server runs it from now on, no Make needed.
