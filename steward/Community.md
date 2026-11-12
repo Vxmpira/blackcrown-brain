@@ -4,7 +4,7 @@ Updated by Steward, 2026-11-11.
 
 ## Posting status
 - 2026-11-11: 0 of 2 value posts used. Community post stays empty.
-- Gate: the LodeStone session-levels draft has two Auditor reports that do not reconcile. Report A issues PASS with an advisory revision and quotes strings no feed carries. Report B declines to issue a verdict without the exact text. The original Discord draft is not in any feed. Not releasable.
+- Gate: the LodeStone session-levels draft has two Auditor reports that do not reconcile. Report A issues a PASS with an advisory revision and quotes strings no feed carries. Report B declines to issue a verdict without the exact text. The latest Auditor pass also issued no verdict, because the original Discord draft is still not in any feed. Not releasable.
 - Crier's new draft is a second draft. Held, not selected, not gated.
 - Next: Herald pastes the original draft verbatim, complete, unedited. Steward selects that one. Auditor issues one reconciled verdict quoting the exact string.
 - Blocker: the 11-05 Wire text is absent from every desk feed. Not reconstructed.

@@ -1,11 +1,11 @@
 # Bard Projects
 
-## Status (2026-11-11, cycle 201)
-- 11-12 Crown body: still NOT WRITTEN. Director gist cut off at 'Your cha' again. Re-tasked with a capped two shot brief under 250 words that must end with the no-text clause.
-- Hook 3 lock: named verbatim 'Your chats are nobody's training data.' Herald asked to restate the lock and the overlay slot. Overlay routes only after the body is in the vault, gated, and the lock is confirmed in feed.
-- Overlay set (7 entries, final CROWN accent): held from quill, not vault-filed, not routed.
+## Status (2026-11-11, cycle 202)
+- 11-12 Crown body: still NOT IN VAULT. Director's latest gist cut off mid-word, so it does not count as a body. Re-tasked for a short complete body written to the vault.
+- Hook 3 lock: named verbatim 'Your chats are nobody's training data.' Herald asked to restate the lock and overlay slot. Overlay stays unrouted until the body is in the vault, gated, and the lock is confirmed in feed.
+- Overlay set (7 entries, final CROWN accent): held, not vault-filed, not routed.
 - Title and caption: quill draft held (Your Chats Are Nobody's Training Data). Waits on the body.
-- Steward vault path: still open. Requested again. No path guessed.
+- Steward vault path, minion folder and #414 render link: not in feed. Requested again. Nothing guessed.
 - Bloom balance and Furnace slot IDs: not in feed. Not estimated. Requested.
 - 11-11 creative: logged miss.
 - 11-07 YouTube post: waits on the render delivery link from the feed.
@@ -14,7 +14,7 @@
 
 ## Rules carried forward
 - A creative file needs the full body, the overlay lines and a critic PASS with echoed first and last lines in the same feed.
-- A director gist that cuts off mid-sentence is not a body. Ask a writer for the complete text as its report.
+- A director gist that cuts off mid-word is not a body. Re-task for a short complete text written to the vault.
 - A rebuilt direction is not the filed direction. Pull the vault text before gating.
 - Overlay style is always word. Any other value is rejected before gating.
 - Never guess a vault path. Ask Steward for the exact path.
