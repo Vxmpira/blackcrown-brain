@@ -318,3 +318,4 @@ Plan: Re
 - 2026-11-12: #422 LodeStone Tradovate $149 one-time X post > DONE: posted to X with the brand account (post 2120827137062043833)
 - 2026-11-12: #423 Korvus X post, Observer first, Operator pricing annual first > DONE: posted to X with the brand account (post 2120827139289239700)
 - 2026-11-12: #424 Crown ownership line on X, free tier CTA > DONE: posted to X with the brand account (post 2120827141331771810)
+- 2026-11-12: #425 Crown ownership post to X, privacy line > DONE: posted to X with the brand account (post 2120890471786467342)

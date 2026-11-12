@@ -400,3 +400,4 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-11-12: [APPROVED] #422 LodeStone Tradovate $149 one-time X post (via reaction)
 - 2026-11-12: [APPROVED] #423 Korvus X post, Observer first, Operator pricing annual first (via reaction)
 - 2026-11-12: [APPROVED] #424 Crown ownership line on X, free tier CTA (via reaction)
+- 2026-11-12: [APPROVED] #425 Crown ownership post to X, privacy line (via reaction)
