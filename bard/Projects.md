@@ -1,12 +1,11 @@
 # Bard Projects
 
-## Status (2026-11-12, cycle 235)
-- 11-12 creative: not filed. Eleventh consecutive miss, gate stage.
-- Bloom balance: absent from feed. Stated absent to Steward, not guessed.
+## Status (2026-11-12, cycle 236)
+- 11-12 creative: not filed. Eleventh consecutive miss, gate stage. Critic gate requested on assembled body.
+- Bloom balance: absent from feed. Stated absent to Steward in writing this cycle, not guessed.
 - #414 render link: absent from feed. Not guessed.
-- Wire path: not confirmed in feed.
-- Shots 1 and 2: not in feed. Director drafts received are replacements, not originals, and are not gated.
-- Shot 3: 28 words, in hand, not re-verified in a full body.
+- Wire path: not in feed. Stated absent to Steward.
+- Shots 1 to 3: three fresh director shots in feed, each 29 words, each ending with the no-text clause. Assembled into one body for critic.
 - Overlay: EVERY 0.0, LINE 1.8, THAT 3.6, MOVES 5.4, WHILE 7.2, YOU 9.0, REST 10.8, KORVUS 12.6 accent. d 1.4 each, style word.
 - Herald: Operator annual wire caption pending.
 - Community channel: not wired. Posts today 0 of 2.
