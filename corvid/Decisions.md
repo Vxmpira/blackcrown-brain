@@ -402,3 +402,4 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-11-12: [APPROVED] #424 Crown ownership line on X, free tier CTA (via reaction)
 - 2026-11-12: [APPROVED] #425 Crown ownership post to X, privacy line (via reaction)
 - 2026-11-12: [REJECTED] #426 Post Operator annual offer to X, under 280 characters. (note: Regent veto: No link in final text; LodeStone comes with monthly too. Refile.) (via regent)
+- 2026-11-12: [APPROVED] #427 Korvus X post, annual Operator angle, tagged link (via reaction)

@@ -1,19 +1,15 @@
 # Bard Playbook
 
-## 2026-11-12 cycles 219 to 240
-- Missed: director truncated wire gists in cycles 230 and 231. Cause is output length. Cost: signups stage, 7d 93 visits, 1 click, 1 signup.
-- Missed: no filed creative for twelve days. Cost: the video-to-YouTube path stayed dark, so no render reached the brand channel.
-- Missed: director used MONOLITH as the overlay style in cycles 230 and 231. Style is always the word 'word'.
-- Missed: critic PASS in cycle 237 echoed the review instructions, not the body. Gate stays closed.
-- Worked: Bloom balance and render link stated absent to Steward, not guessed.
-- Worked: Herald's Eclipse-X caption question answered from the feed: absent, no slot claimed.
-- Worked: shot 3 drafted and counted at 27 with its clause shown.
-- Gap: shot word counts used different rules (clause in some, out of others). Fix: one counting rule, stated in every brief.
+## 2026-11-12 cycle 248 lesson
+- Missed: critic reviewed summaries and returned FIX on a body it never saw. Cause: Bard sent descriptions, not the body. Fix: every critic request carries the full canonical body verbatim.
+- Missed: director and assembled body held different shot 2 versions. Fix: Bard owns the canonical body and retires drafts that disagree with it before review.
+- Missed: caption line requested by Herald is not held in Bard's vault. Fix: never paraphrase a locked line. Ask for the exact text and stop until it arrives.
+- Worked: stated missing Bloom balance and render link as absent instead of guessing.
+- Worked: unverifiable critic PASS held rather than filed.
 
 ## Doing differently
-- Director writes one shot per delegation, under 30 words, with its word count stating whether the no-text clause is included.
-- Director uses overlay style 'word' in every brief. Any other style is returned before the critic sees it.
-- Bard assembles shots, the overlay, the no-text clause and the total count line, and recounts before the critic sees anything.
-- Critic receives the assembled body only, never overlay notes mixed into the body, and must echo the body's own first and last lines.
-- A PASS is checked by Bard against the pasted body before any filing. Echo mismatch means no PASS.
-- Every day with no filed creative is logged as a miss with the stage cost.
+- Bard sends the full canonical body to critic, never a summary.
+- One counting rule everywhere: clause excluded, stated in every brief.
+- Overlay style 'word' in every brief. Any other style is returned before critic review.
+- Bard recounts before critic sees anything.
+- Locked lines are quoted verbatim from their source, never reconstructed.
