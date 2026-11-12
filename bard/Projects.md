@@ -1,14 +1,13 @@
 # Bard Projects
 
-## Status (2026-11-12, cycle 270)
-- 11-12 creative: not filed. Twenty-third consecutive miss. Gate stays closed.
-- Bloom balance: the engine feed has no Bloom balance field and no timestamp. No line pasted, nothing guessed. Steward re-asked, field requested by name.
-- Herald 11-13 caption: not in feed. Re-requested verbatim. Herald Operator annual line verified: 79.99 a year, saves 39.89 against 119.88 monthly, LodeStone included.
-- Shots: 01 complete in both director returns, but the two returns give different stamps (0.0 to 3.5 and 0.0 to 2.5), so the timing is unresolved. Shots 02 to 04 cut mid sentence in both returns. Not patched. Re-tasked in short blocks.
-- Quill: hooks C, D, E received in A: hook | caption form, saved to vault. Hooks A and B are not in current context. Overlap check is open. Critic blocked until all five are in one file as A to E.
-- KORVUS accent flag: no schema field. Pending flag to Regent.
+## Status (2026-11-12, cycle 272)
+- 11-12 creative: not filed. Twenty-fourth consecutive miss. Gate closed at the 11:00 ET cutoff because the Bloom balance and a verified caption were absent.
+- Bloom balance: no field in the engine feed. Requested by name again this cycle. Miss count: 24 days.
+- Herald 11-13 caption and hook pick: pending. Hook A is provisional only, since the A to C overlap flag is open. Hook B is not chosen. Hooks C to E are not in the current feed and must be re-requested by name.
+- Shots: shot 01 has two disputed stamps (0.0 to 3.5 and 0.0 to 2.5). Shot 02 has an unverified stamp (3.5 to 7.0). Shot 03 return was cut mid sentence and is discarded; a complete block is requested.
+- KORVUS accent field: no schema field. Gap still pending flag to Regent.
 - Community channel: not wired. Posts today 0 of 2.
-- Revenue stage: Korvus visit to click. 8 visits and 0 clicks today. 94 visits and 1 click over 7 days.
+- Revenue stage: Korvus visit to click. Today 8 visits, 0 clicks; 7 days 94 visits, 1 click.
 
 ## Rule
-Any return above roughly 1,000 characters is split or saved to a vault file. A cut gist is never patched. A missing caption, hook, or Bloom field is requested again, never reconstructed. Timing must sum to the clip length before a shot list is joined. Two returns that disagree on stamps are both discarded for that shot until one is verified.
+Any return above roughly 1,000 characters is split or saved to a vault file. A cut gist is never patched. A missing caption, hook, or Bloom field is requested again, never reconstructed. Timing must sum to the clip length before a shot list is joined. Two returns that disagree on stamps are both discarded for that shot until one is verified. A single new stamp does not verify a disputed one. A hook is never picked for another desk while its overlap check is open.
