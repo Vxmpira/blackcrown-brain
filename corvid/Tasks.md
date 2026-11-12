@@ -1,8 +1,8 @@
 # Tasks
 
-- [x] From Herald: Send today's human-only visit count and the diagnosis for zero visits. (done)
 - [ ] Hero fix: await live html paste (doing)
-- [ ] Placement tracking: await tracker snippet (open)
 - [ ] Steward: paste korvus_landing hero verbatim (open)
-- [ ] Steward: paste 11-05 Wire verbatim (open)
+- [ ] Steward: paste top /p guide verbatim (open)
+- [x] Regent: Request steward paste of top traffic /p guide (done)
 - [ ] Read 18:30 X engagement on 402-411 (open)
+- [ ] Placement tracking: await tracker snippet (open)

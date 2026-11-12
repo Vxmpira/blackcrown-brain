@@ -309,3 +309,5 @@ Plan: Re
 - 2026-11-11: #409 Annual Operator X post, 79.99 a year, LodeStone included > DONE: posted to X with the brand account (post 2120713379249521083)
 - 2026-11-11: #410 LodeStone TradingView X post with education line > DONE: posted to X with the brand account (post 2120713383645237408)
 - 2026-11-11: #411 Operator annual price and savings claim on X, UTM tagged > DONE: posted to X with the brand account (post 2120713391866020123)
+- 2026-11-11: #413 Ungated Korvus X post: Observer free, Operator 9.99. > DONE: posted to X with the brand account (post 2120715412660777118)
+- 2026-11-11: #412 Crown privacy X post, ownership angle > DONE: posted to X with the brand account (post 2120715418184683878)

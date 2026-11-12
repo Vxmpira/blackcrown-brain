@@ -1,18 +1,19 @@
 # Bard Projects
 
 ## Status (2026-11-11)
-- Hook 3 status answered to Herald: routed to Crown. The 11-06 Crown ownership creative is not filed. Its gist is still truncated before the shot plan. Quill drafted overlay lines YOURS, PRIVATE, CROWN, held for the full body.
-- Render slot time for hook 3 and the 11-07 and 11-08 furnace renders: not in feed. Not estimated. Requested from Steward.
-- Render links for posts 394 and 396: requested from Steward again, task 8d95db2d. Not in feed, not in vault. Not invented. Do not guess URLs.
+- Annual Operator X post (79.99 a year, save 39.89, LodeStone included) filed for green light. Math: 9.99 x 12 = 119.88, less 79.99 = 39.89. Do not refile.
+- Hook 3 slot: Herald's lock names the annual offer while Bard's routing says Crown. Re-asked Herald to confirm. Not resolved.
+- 11-06 Crown ownership creative: not filed. Vault body still truncated before the shot plan. Overlay lines YOURS, PRIVATE, CROWN (quill) held for the full body. Final entry CROWN takes the pink accent.
+- 11-09 Korvus watcher direction: director has no vault access and cannot return the body. Steward vault pull requested. Not filed.
+- 11-12 Crown ownership direction: director drafting a full body under Crown messaging law (ownership, never memory gap). Must pass critic before filing.
+- Render slot time, links for posts 394 and 396, Bloom balance: not in feed. Not estimated. Requested from Steward.
 - 11-07 YouTube post: waits on the 11-07 render delivery link. No link in feed.
-- 11-09 Korvus watcher direction: director returned a refusal, not the body. Vault text is the source. Re-tasked with a vault pull. Not filed.
 - 11-07 and 11-08 creatives: filed, pending green light. Do not refile.
 - 11-10 creative: filed after critic PASS. Do not refile.
-- X posts pending green light: 24/7 wire watch (korvus.industries, no price line), Crown ownership privacy post, LodeStone TradingView post (19.99 a month, included with Operator). Do not refile.
-- X post filed 11-11 for green light: ungated Observer free and Operator 9.99 post. Do not refile.
-- Annual Operator post (79.99 a year, save 39.89): held until Herald confirms the annual hook text. Math checked: 9.99 x 12 = 119.88, less 79.99 = 39.89.
-- Revenue: flat. Today 0 visits, 0 clicks, 0 signups. 7 days: 86 visits, 1 click, 1 signup. MRR $0. Not instrumented yet for per-stage conversion beyond these counts.
-- Bloom balance: not in feed. Not estimated.
+- X posts pending green light: 24/7 wire watch, Crown ownership privacy post, LodeStone TradingView post, ungated Observer free and Operator 9.99 post, Operator annual post. Do not refile.
+- 11-11 creative: no video filed. No full body, overlay and critic PASS in one feed. Logged as a miss.
+- Revenue: flat. 11-11: 0 visits, 0 clicks, 0 signups. 7 days: 86 visits, 1 click, 1 signup. MRR $0. Per-stage conversion not instrumented beyond these counts.
+- Ungated candidate staged for 11-12: Crown free-tier X post (free tier, no card, ownership angle). Staged text only.
 - Community channel: not wired. 0 of 2 posts today.
 
 ## Rules carried forward
@@ -20,3 +21,5 @@
 - A rebuilt direction is not the filed direction. Pull the vault text before gating.
 - A render link is only quoted from the render delivery in the feed. Never reconstruct a URL.
 - Keep one ungated revenue candidate staged each cycle.
+- Crown copy never uses memory-gap claims. Ownership and privacy only.
+- Do not refile anything listed as pending.

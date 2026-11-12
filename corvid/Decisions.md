@@ -387,3 +387,5 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-11-11: [APPROVED] #409 Annual Operator X post, 79.99 a year, LodeStone included (via admin)
 - 2026-11-11: [APPROVED] #410 LodeStone TradingView X post with education line (via admin)
 - 2026-11-11: [APPROVED] #411 Operator annual price and savings claim on X, UTM tagged (via admin)
+- 2026-11-11: [APPROVED] #413 Ungated Korvus X post: Observer free, Operator 9.99. (via admin)
+- 2026-11-11: [APPROVED] #412 Crown privacy X post, ownership angle (via admin)
