@@ -43,18 +43,18 @@ Prices as of 2026-11-11 close.
 | 26 | [[compass/Stocks/CIB|CIB]] | Grupo Cibest S.A. | 77 | Top rated | Bullish | Pullback in uptrend | +45% |
 | 27 | [[compass/Stocks/ADI|ADI]] | Analog Devices | 77 | Top rated | Bullish | Strong uptrend | +76% |
 | 28 | [[compass/Stocks/DAL|DAL]] | Delta Air Lines | 77 | Top rated | Bullish | Uptrend | +56% |
-| 29 | [[compass/Stocks/NVDA|NVDA]] | Nvidia | 77 | Top rated | Bullish | Losing steam | -13% |
-| 30 | [[compass/Stocks/MSCI|MSCI]] | MSCI | 77 | Top rated | Bullish | Strong uptrend | +15% |
-| 31 | [[compass/Stocks/HST|HST]] | Host Hotels & Resorts | 77 | Top rated | Bullish | Strong uptrend | +42% |
-| 32 | [[compass/Stocks/KGC|KGC]] | Kinross Gold Corporation | 77 | Top rated | Neutral | Downtrend | -16% |
-| 33 | [[compass/Stocks/PLTR|PLTR]] | Palantir Technologies | 77 | Top rated | Bullish | Pullback in uptrend | -11% |
-| 34 | [[compass/Stocks/VRSN|VRSN]] | Verisign | 76 | Top rated | Bullish | Strong uptrend | +27% |
-| 35 | [[compass/Stocks/URI|URI]] | United Rentals | 76 | Top rated | Bullish | Strong uptrend | +35% |
-| 36 | [[compass/Stocks/VRTX|VRTX]] | Vertex Pharmaceuticals | 76 | Top rated | Bullish | Strong uptrend | +30% |
-| 37 | [[compass/Stocks/ING|ING]] | ING Groep N.V. | 76 | Top rated | Bullish | Pullback in uptrend | +27% |
-| 38 | [[compass/Stocks/MUFG|MUFG]] | Mitsubishi UFJ Financial Group, Inc. | 76 | Top rated | Bullish | Pullback in uptrend | +44% |
-| 39 | [[compass/Stocks/COP|COP]] | ConocoPhillips | 76 | Top rated | Bullish | Strong uptrend | +56% |
-| 40 | [[compass/Stocks/AEM|AEM]] | Agnico Eagle Mines Limited | 76 | Top rated | Bullish | Losing steam | +11% |
+| 29 | [[compass/Stocks/MSCI|MSCI]] | MSCI | 77 | Top rated | Bullish | Strong uptrend | +15% |
+| 30 | [[compass/Stocks/HST|HST]] | Host Hotels & Resorts | 77 | Top rated | Bullish | Strong uptrend | +42% |
+| 31 | [[compass/Stocks/KGC|KGC]] | Kinross Gold Corporation | 77 | Top rated | Neutral | Downtrend | -16% |
+| 32 | [[compass/Stocks/PLTR|PLTR]] | Palantir Technologies | 77 | Top rated | Bullish | Pullback in uptrend | -11% |
+| 33 | [[compass/Stocks/VRSN|VRSN]] | Verisign | 76 | Top rated | Bullish | Strong uptrend | +27% |
+| 34 | [[compass/Stocks/URI|URI]] | United Rentals | 76 | Top rated | Bullish | Strong uptrend | +35% |
+| 35 | [[compass/Stocks/VRTX|VRTX]] | Vertex Pharmaceuticals | 76 | Top rated | Bullish | Strong uptrend | +30% |
+| 36 | [[compass/Stocks/ING|ING]] | ING Groep N.V. | 76 | Top rated | Bullish | Pullback in uptrend | +27% |
+| 37 | [[compass/Stocks/MUFG|MUFG]] | Mitsubishi UFJ Financial Group, Inc. | 76 | Top rated | Bullish | Pullback in uptrend | +44% |
+| 38 | [[compass/Stocks/COP|COP]] | ConocoPhillips | 76 | Top rated | Bullish | Strong uptrend | +56% |
+| 39 | [[compass/Stocks/AEM|AEM]] | Agnico Eagle Mines Limited | 76 | Top rated | Bullish | Losing steam | +11% |
+| 40 | [[compass/Stocks/WDC|WDC]] | Western Digital | 76 | Top rated | Neutral | Downtrend | +80% |
 
 ## Lowest scores
 

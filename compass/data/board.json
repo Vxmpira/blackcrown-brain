@@ -366,19 +366,6 @@
    "headline": "Delta up 55% in a year with strong cash flow, but debt and cyclical risks remain"
   },
   {
-   "symbol": "NVDA",
-   "name": "Nvidia",
-   "sector": "Technology",
-   "score": 77.2,
-   "tier": "Top rated",
-   "read": "bull",
-   "trend": "Losing steam",
-   "ret_1y": -0.1272,
-   "pe": 22.32,
-   "div_yield": 0.0003,
-   "headline": "Nvidia: Explosive growth and profits collide with a 28% price drop from its peak"
-  },
-  {
    "symbol": "MSCI",
    "name": "MSCI",
    "sector": "Financial Services",
@@ -1027,6 +1014,19 @@
    "pe": 27.81,
    "div_yield": 0.0241,
    "headline": "Strong profit machine with steep price tag; analysts split on value"
+  },
+  {
+   "symbol": "NVDA",
+   "name": "Nvidia",
+   "sector": "Technology",
+   "score": 73.4,
+   "tier": "Strong",
+   "read": "bull",
+   "trend": "Losing steam",
+   "ret_1y": -0.1272,
+   "pe": 22.32,
+   "div_yield": 0.0003,
+   "headline": "Nvidia: Explosive growth and profits clouded by recent price decline and leadership shift"
   },
   {
    "symbol": "ANET",
