@@ -311,3 +311,4 @@ Plan: Re
 - 2026-11-11: #411 Operator annual price and savings claim on X, UTM tagged > DONE: posted to X with the brand account (post 2120713391866020123)
 - 2026-11-11: #413 Ungated Korvus X post: Observer free, Operator 9.99. > DONE: posted to X with the brand account (post 2120715412660777118)
 - 2026-11-11: #412 Crown privacy X post, ownership angle > DONE: posted to X with the brand account (post 2120715418184683878)
+- 2026-11-11: #414 Crown ownership monolith clip for 11-12, 15 seconds. > DONE: rendering via Bloom, package lands in the channel

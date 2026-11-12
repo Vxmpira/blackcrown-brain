@@ -208,3 +208,14 @@
 - Operator annual pricing copy (675, 693) was written with no dollar figures, which fits the rule that Korvus landing prices inject server side; keep the annual plan listed first with the computed savings label.
 - Click-leak analysis (691, 694): baseline 40 visits, 2 clicks, 0 signups over 7 days; no per-step funnel data exists yet ("not instrumented yet"), and the 694 event table (landing_view, scroll depth, CTA, signup, checkout) is the instrumentation spec to file, after checking the SERVER JOBS feed for an existing funnel rollup to extend.
 - Probable-audience profile for beginner overnight index futures traders (672) is knowledge-based, not live-verified; subreddit activity and the "what happened while I slept" phrasing need validation before any hook test.
+
+## 2026-11-11 (30 notes condensed)
+- Korvus watcher page drafts exist under three slugs (/p/korvus-watcher, /p/watcher, /p/index-watch) with no decision on which is canonical. Check pages/ and Decisions.md before filing any of them.
+- Crown skeptic page drafts used five different canonical URLs (root, /skeptics, /skeptics.html, /skeptic.html, /crown-skeptic.html). Several set the canonical to the root, which would point search at the wrong page. Pick one slug before filing.
+- Skeptic page drafts used Georgia serif and pink gradient palettes that do not match the Crown house look. Reuse the established Crown palette instead.
+- Closing-tag checks on Watcher-page.md and Skeptics-page.md could not be completed: no vault read access and truncated feed text, so the result is NOT VERIFIED, not PASS. File-level verification must run on a desk with vault read access.
+- Reusable Operator annual X lines (no dollar figures): one yearly payment, LodeStone included, "Not financial advice" disclaimer on each.
+- Reusable Crown ownership X lines (money-only, no memory claims): "Your context stays yours. Never sold, never trained on," with the ownership rule framed as available on every plan, free included.
+- Click-test CTA variants A/B/C for the Korvus cold landing (watch-line, close-your-eyes, the-watch-never-ends), each paired with an Illustration-labeled proof panel. Variant body was not saved to the vault; the save step is still open.
+- Hypothesis H1 (watcher proof): add one Illustration-labeled scored wire feed sample under the Korvus hero, measured by Observer clicks per 40 visits with UTM source separation. Baseline required before target 2.
+- Visit denominators per click-test variant are not instrumented in this context: the UTM and visit digests are missing, the 16 vs 3 visit gap is unreconciled, and no kill rule can be set until the digests and control baseline are supplied.

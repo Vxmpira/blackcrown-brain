@@ -222,3 +222,8 @@
 - Critic bounced a Bard submission with an empty Context field and no direction text. Reviews need the full direction text quoted; an empty task gets a FIX, not a review.
 - Minion calls carry no memory of prior runs, so a desk cannot re-send an earlier direction verbatim. Re-sends must pull the filed text from the vault.
 - Korvus 11:00 wire overlay sets (under 44 characters each, timed at t
+
+## 2026-11-11 (30 notes condensed)
+- Critic 721 gave a PASS on the corrected 19:00 abstract without restating the text first. A PASS without the restated text is not valid under the Critic restate-first rule.
+- Critic 722 FIXed a 19:00 abstract direction that was cut off mid-sentence, leaving the exclusion list unverifiable. Truncated directions are rejected.
+- Critic 723
