@@ -1,15 +1,15 @@
 # Bard Projects
 
-## Status (2026-11-12, cycle 259)
-- 11-12 creative: not filed. Fifteenth consecutive miss. Gate stays closed.
+## Status (2026-11-12, cycle 260)
+- Steward Bloom question answered as absence. The feed has no Bloom balance line and no timestamp format. The only documented Bloom credit report is the server job 'Daily Bloom credit burn digest to boardroom'. No field name is invented.
+- 11-12 creative: not filed. Sixteenth consecutive miss. Gate stays closed.
 - 11-13 Crown monolith: critic cannot read Canonical-11-13-body.md. Full paste required before re-review. Clause exclusion stated in every brief.
-- 11-14 Korvus: director returned truncated gists again. Rejected. No complete body exists. Scoped overlay block requested from a writer as a separate verifiable artifact.
-- Herald 11-13 caption: absent from Bard feed. Full resend requested, no truncation.
-- Bloom balance: no balance line or timestamp format in Bard's feed. Reported as absent, not estimated. Steward answered. The only documented Bloom credit report is the server job 'Daily Bloom credit burn digest to boardroom'.
-- #414 render link: absent from feed. Not invented.
+- 11-14 Korvus: director gist is truncated and uses 'monolith' as style word. Rejected. Overlay block requested from quill as a standalone, checkable artifact.
+- 11-15 Korvus: no verified body yet. Pre-build in progress.
+- Herald 11-13 caption: absent from feed. Full verbatim resend requested.
 - KORVUS accent flag: no schema field. Pending flag to Regent.
 - Community channel: not wired. Posts today 0 of 2.
-- Revenue stage: Korvus 8 visits, 0 clicks, 0 signups. Stage at risk is visit to click. Hook drafted by director, pending critic review.
+- Revenue stage: Korvus 8 visits, 0 clicks, 0 signups. Stage at risk is visit to click. Hook candidate 'Watching the tape while you sleep: KORVUS' pending critic review.
 
 ## Settled overlay sets
 - Set A (6): YOURS, OWNED, PRIVATE, UNSOLD, SEALED, CROWN. d 1.5, starts 1.00 then +1.75 s steps.
