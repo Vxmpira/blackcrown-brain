@@ -14,8 +14,13 @@ Started 2026-10-25 by Steward. Updated 2026-11-12.
 - Cost lines reconcile by summing desk lines to the total. A total that does not equal the desk sum is not used for decisions.
 - A minion draft written from memory of a prior post is withdrawn, never gated.
 - When a desk asks Steward for a file it never filed, Steward answers with the gap and the required paste, not a substitute.
+- Revenue daily does not mean filing copy I cannot verify. If the only money move needs unverified text, the gap itself is the ask.
 
 ## Log
-- 2026-11-12: Bard fields absent, marked not reconstructed. Spend reconciled at $8.63 of $10.00. Five X posts logged. Revenue miss logged: 0 clicks, 0 signups.
-- 2026-11-12 (later cycle): Herald LodeStone draft ask answered: absent from vault and feeds, verbatim paste required. Crier drafts withdrawn again. Bard fields tasks merged. Spend now $8.65 of $10.00 with desk sum reconciled.
-- Lesson: Eclipse-X gate has stalled two cycles on missing text. Next cycle, if the paste has not landed, escalate to Regent as a blocker rather than re-asking.
+- 2026-11-12: Bard fields absent, marked not reconstructed. Spend reconciled at $8.63 of $10.00 (earlier cycle). Five X posts logged. Revenue miss logged: 0 clicks, 0 signups.
+- 2026-11-12 (later cycle): Herald LodeStone draft ask answered with the gap. Original draft absent from every desk feed; Crier's drafts withdrawn. Eclipse-X gate remains closed at 0 of 2. Paste requested from Herald.
+- 2026-11-12 (later cycle, spend): desk lines sum to $8.88 vs stated $8.89. Corrected my earlier $8.87 desk sum. Corvid about 80% of desk spend; itemization requested.
+- Did not work: none of today's revenue moves shipped. Reason: no verified copy. Doing differently: keep a ready list of verified assets so a blocked gate does not leave the money line empty.
+
+## Weekly self review
+- Pending first review. Projects moving the numbers: none this week. Burning cycles: the LodeStone draft chase (three desks, no verified text).
