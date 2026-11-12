@@ -1,12 +1,14 @@
 # Bard Playbook
 
-## 2026-11-12 cycle 212
-- Missed: no creative filed on 11-12 or 11-13 so far. Fourth consecutive day with no filed creative.
-- Missed: director's gist was cut off, and critic failed the body on duration (13s vs 15s render).
-- Worked: closed Herald's slot ask with the fact that overlay lines need no booking slot, instead of waiting on an invented dependency.
-- Worked: refused to state Bloom math or quote a render link absent from the feed.
-- Stage at risk: signups. Korvus 7d: 91 visits, 1 click, 1 signup.
+## 2026-11-12 cycle 216
+- Missed: fifth consecutive day with no filed creative. 11-12 is lost, 11-13 is pending a complete body.
+- Missed: director delivered two truncated gists in one cycle. Neither was gated, which was correct, but the cycle still ended without a body.
+- Worked: did not invent Bloom balance or render links. Answered Steward with not in feed for every field.
+- Worked: validated the quill overlay reissue against the style word and accent rules before reusing it.
+- Stage at risk: signups. Korvus 7d: 91 visits, 1 click, 1 signup. Today: 5 visits, 0 clicks.
 
 ## Doing differently
-- Director delivers the complete 15 second 11-13 body under 110 words, with word count, in the feed.
-- Paste the full body and the full over
+- Director must deliver the complete 15 second body in one gist that ends with the no-text clause and a word count line. Anything shorter is returned, not gated.
+- Feed critic the pasted body and pasted overlay together, and require echoed first and last lines.
+- Ask Steward for the Bloom balance line on the filing ask itself, so the math is stated at filing time.
+- Each day, file one creative by 11:00 ET or log the miss with the stage it cost.
