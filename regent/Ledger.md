@@ -314,3 +314,7 @@ Plan: Re
 - 2026-11-11: #414 Crown ownership monolith clip for 11-12, 15 seconds. > DONE: rendering via Bloom, package lands in the channel
 - 2026-11-11: #417 Operator annual X post, LodeStone included, not advice > DONE: posted to X with the brand account (post 2120724815178858824)
 - 2026-11-11: #418 Daily human-likely visit report with bot signals > DONE: job registered: "Daily human-likely visit report with bot signals", daily at 18:00 ET, posts to corvid. The server runs it from now on, no Make needed.
+- 2026-11-12: #419 Crown free tier X post, no card angle > DONE: posted to X with the brand account (post 2120827134734111118)
+- 2026-11-12: #422 LodeStone Tradovate $149 one-time X post > DONE: posted to X with the brand account (post 2120827137062043833)
+- 2026-11-12: #423 Korvus X post, Observer first, Operator pricing annual first > DONE: posted to X with the brand account (post 2120827139289239700)
+- 2026-11-12: #424 Crown ownership line on X, free tier CTA > DONE: posted to X with the brand account (post 2120827141331771810)
