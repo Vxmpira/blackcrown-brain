@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Pullback in uptrend
 
-## Telecom giant losing money but generating cash and shrinking share count
+## Vodafone: High yield masks unprofitable core business amid modest growth
 
-Vodafone is a large UK-based telecommunications company with 37.4B EUR in annual revenue. It is currently unprofitable on paper with a -11% net margin, though it produces 11.0B EUR in free cash flow yearly. The company is reducing its share count through buybacks.
+Vodafone is a United Kingdom-based telecommunications company with 37.4 billion EUR in annual revenue. It is currently unprofitable with a negative 11% net margin, though it generates 11.0 billion EUR in free cash flow yearly. The stock has risen 34% over the past year but trades 12% below its 52-week high.
 
 ### What is working
-- Free cash flow of 11.0B EUR provides real cash to return to shareholders despite accounting losses
-- Share count down 10.2% over 3 years shows management is buying back stock
-- Stock up 33.9% over the past year, though down 12% from its 52-week high of 17.68
+- Free cash flow yield supports a 10.8% dividend; company generated 11.0B EUR in free cash in the latest fiscal year
+- Share buybacks shrinking the share count by 10.2% over 3 years, concentrating ownership among remaining holders
+- Price trend recovered 34% in the past year and sits 65% of the way up its 52-week range
 
 ### What to be careful about
-- Net income is -4.2B EUR; the company is losing money on a GAAP basis
-- Revenue flat at +0% annualized over 3 years with minimal +2% growth last year
-- Debt of 53.1B EUR is 1.0x shareholder equity, meaning leverage is at parity with assets owned outright
+- Company is unprofitable with a negative 11% net margin and negative 8% return on equity; lost 4.2B EUR in net income last fiscal year
+- Revenue has grown only 2% year over year and 0% per year over the past 3 years, showing stalled growth
+- Debt is 53.1B EUR against only 7.1B EUR in cash; debt-to-equity ratio of 1.0x limits financial flexibility
 
-**Watch next:** Whether the company can return to positive net income while maintaining its 30% free cash flow margin, which would signal sustainable shareholder returns.
+**Watch next:** Whether the company can return to profitability or sustain its free cash flow generation if revenue growth remains flat at 0% to 2% annually.
 
-**Tends to suit:** Long-term investors seeking cash-generative mature businesses in telecom who can tolerate accounting losses and high debt loads in exchange for steady cash distributions and buybacks.
+**Tends to suit:** Investors seeking high current income through dividend yield who can tolerate negative earnings and are comfortable with a flat-growth telecommunications business in a mature market.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-12. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-03-31)
 - Revenue 37.4B EUR (+2% vs prior year)
