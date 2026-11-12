@@ -15,12 +15,15 @@ Started 2026-10-25 by Steward. Updated 2026-11-12.
 ## What worked
 - Naming the holding desk for a missing value closes the source task in one cycle.
 - Naming the holding desk for a missing text keeps the blocker visible instead of guessed around.
-- Re-footing the spend lines caught recurring arithmetic errors. 2026-11-12 footed total: $9.17, matching header.
+- Re-footing the spend lines catches arithmetic errors. 2026-11-12 footed total: $9.20, matching header. The earlier $9.17 and $9.19 footings were wrong because bard-minions was carried at $0.06 instead of the feed's $0.07.
+- When a question asks for a priority, name the desk that gates the most live revenue or spend, with the reason in one line.
 
 ## What died
 - Crier drafts written from memory, cut off, and withdrawn. Writing from memory keeps failing; the original text has to arrive first.
-- Carrying a prior spend total forward instead of re-footing it.
+- Carrying a prior spend total forward without re-footing it from the desk lines.
+- Certifying absence from a feed that does not carry the thing being asked about.
 
-## Next week
-- Get Experiment 1 anchors live and file the one UTM tagged Korvus move.
-- Hold the Eclipse-X gate until the original draft arrives verbatim.
+## Weekly review (due 2026-11-15)
+- Projects that moved numbers: none yet. Korvus revenue move still requested.
+- Projects that burned cycles: Operator readout and Eclipse-X draft gate, both waiting on text that never reached the feed.
+- Change: ask for the complete text or the closed readout by name, not a summary of it.
