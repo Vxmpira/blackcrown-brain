@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Top rated** · Bullish read · trend: Pullback in uptrend
 
-## Fast-growing precious metals company trading at premium valuation after 38% year-long rally
+## Precious metals royalty company with explosive growth, now 18% off its high
 
-Wheaton Precious Metals is a Canadian mining company that generated $2.3B in revenue in 2025, up 80% year over year. The company is highly profitable, keeping 64% of revenue as net profit, and holds $1.2B in net cash with no debt. It trades on both Canadian and US exchanges.
+Wheaton Precious Metals is a Canadian royalty and streaming company that receives payments from mining operations. It grew revenue 80% in the past year to $2.3B and turned $1.5B in net income. The stock has run up 33% over the past year and trades at a premium valuation.
 
 ### What is working
-- Revenue surged 80% in 2025 and grew 30% annually over three years; latest quarter up 68% year over year
-- Exceptional profitability: 64% net margin, 68% operating margin, and 82% free cash flow margin
-- Strong balance sheet: $1.2B net cash, zero debt, and 17% return on equity; generated $1.9B free cash flow in 2025
+- Revenue jumped 80% year over year; net income reached $1.5B with a 64% profit margin
+- Generated $1.9B in free cash flow; holds $1.2B net cash with zero debt
+- 17 analysts cover it; 94% rate it a buy; analyst consensus is Buy
 
 ### What to be careful about
-- Valuation is stretched at 42x earnings; free cash flow yield of only 3.1% is low for a mature sector
-- Share count is growing, diluting existing shareholders by 0.5% over three years despite strong cash generation
-- Stock is down 18% from its 52-week high and has fallen 4.3% over six months; yearly volatility is 52%, well above average
+- Trades at 30x earnings, well above average; free cash flow yield of only 2.2%
+- Stock is down 18% from its 52-week high of $165.72; yearly volatility runs 52%
+- Share count has grown 0.5% over 3 years, diluting existing shareholders; dividend yield just 0.4%
 
-**Watch next:** Whether the company can sustain 30%+ annual revenue growth or if the 80% jump in 2025 was a one-time lift that normalizes.
+**Watch next:** Monitor whether the revenue growth rate holds above 30% annually, since the latest jump to 80% reflects a temporary spike that may not sustain.
 
-**Tends to suit:** Long-term investors who believe in rising precious metals demand and can tolerate high price swings while holding through cycles.
+**Tends to suit:** Investors comfortable with commodity-price exposure and high valuations who seek holdings with strong cash generation and minimal debt.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-12. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $2.3B (+80% vs prior year)

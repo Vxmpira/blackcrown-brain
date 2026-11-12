@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Waste management company with strong price momentum but expensive valuation
+## Waste company at all-time high trades at premium valuation after strong run
 
-Waste Connections is a Canada-based waste management company generating $9.5 billion in annual revenue. It keeps 11% of revenue as profit and produces $1.2 billion in free cash flow each year. The stock price has climbed 15% over the past year and sits near its 52-week high.
+Waste Connections is a large waste management company generating 9.5 billion dollars in annual revenue. It has grown revenue 9 percent per year over three years and recently swung to strong earnings growth of 74 percent year over year. The stock trades in the US but is incorporated in Canada.
 
 ### What is working
-- Revenue growing 9% per year over three years, with latest quarter up 7% year over year
-- Earnings per share jumped 74% year over year, showing improving profitability
-- Price trend is strong: up 24.3% in one month, 26.4% in six months, and 39% over five years
+- Price momentum is sharp: up 16 percent over the past year and up 25.1 percent in just the last month, now at the top of its 52-week range
+- Recent earnings jumped 74 percent year over year while revenue grew 7 percent, suggesting improving operational efficiency
+- Generates real cash: free cash flow of 1.2 billion dollars and a 13 percent free cash flow margin show the business converts sales into cash
 
 ### What to be careful about
-- Stock trades at 42.76x earnings, which is expensive relative to the free cash flow yield of 2.5%
-- Share buyback activity is minimal; share count flat over three years means limited shareholder return through that channel
-- Debt stands at $6.9 billion, though balanced by $49.3 billion market value and 0.9x shareholder equity
+- Valuation is stretched: the stock trades at 42x earnings, with a free cash flow yield of only 1.8 percent, leaving little margin for disappointment
+- Debt is substantial at 6.9 billion dollars, though manageable at 0.9x equity; rising rates or revenue slowdowns could pressure leverage
+- Long-term revenue growth has plateaued: up 9 percent per year over three years but only 6 percent last year, a trend worth monitoring
 
-**Watch next:** Watch whether the 7% quarterly revenue growth can hold steady or accelerate, since valuation relies on continued earnings expansion.
+**Watch next:** Watch whether the 7 percent latest quarter revenue growth can hold steady or continues to decelerate, since valuation depends on near-term earnings momentum.
 
-**Tends to suit:** Investors seeking a stable, profitable infrastructure company willing to accept a high entry valuation in exchange for predictable cash generation and a track record of rising earnings.
+**Tends to suit:** Long-term investors comfortable with mature industrial companies trading at premium multiples, who believe waste management will grow steadily and don't need immediate income.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-12. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $9.5B (+6% vs prior year)

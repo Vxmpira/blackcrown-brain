@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Losing steam
 
-## Brazilian bank with strong profits but weakening growth and recent price slide
+## Brazil's largest bank shows profit strength but recent price weakness and earnings decline
 
-Itaú Unibanco is a major financial services company based in Brazil. It keeps a quarter of its revenue as profit and generates solid cash flow, but earnings per share fell 25% in the latest year while its stock price has dropped 26% in the past month.
+Itaú Unibanco is a major Brazilian financial services company with 168.1 billion BRL in annual revenue. It keeps 24% of every revenue dollar as profit and generates a 19% return on shareholder equity. The stock trades at 10x earnings, which is considered cheap by market standards.
 
 ### What is working
-- Net profit margin of 24% shows efficient operations relative to revenue
-- Return on equity of 19% demonstrates capital is working well for shareholders
-- Trades at 10x earnings, the lowest valuation tier, compared to typical market multiples
+- Profitability is strong: 24% net margin means the bank converts revenue efficiently into earnings
+- Return on equity of 19% shows capital is working hard for shareholders
+- Valuation is low: P/E of 10.13 is below many peers, and 82% of analysts rate it a buy
 
 ### What to be careful about
-- Earnings per share fell 25% year over year despite revenue growing 8%
-- Stock is down 26.5% in just the past month and sits near the low end of its 52-week range
-- Yearly volatility of 43% means price swings are steep; stock is down 2% over the past year
+- Earnings per share fell 25% year over year despite revenue growing 8%, signaling profit pressure
+- Price has dropped 23.7% in the last month and sits 26% below its 52-week high
+- Share count is growing (up 1.2% over 3 years), which dilutes each shareholder's ownership stake over time
 
-**Watch next:** Whether earnings per share stabilizes next quarter after falling 25% this year, and whether the recent sharp price decline reflects temporary weakness or deeper concerns.
+**Watch next:** Whether earnings per share stops declining in the next reported quarter, since this is the biggest recent red flag in otherwise solid profitability.
 
-**Tends to suit:** Long-term investors comfortable holding foreign bank stocks with currency risk, seeking dividend income plus capital appreciation from an undervalued but slowing earnings profile.
+**Tends to suit:** Investors comfortable with foreign exchange exposure and banking sector cycles who value cheap valuations and high dividend-payers over short-term price momentum.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-12. Research, not advice.
 
 ## Key numbers (fiscal year ended 2024-12-31)
 - Revenue 168.1B BRL (+8% vs prior year)

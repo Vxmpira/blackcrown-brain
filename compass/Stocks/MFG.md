@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Top rated** · Bullish read · trend: Pullback in uptrend
 
-## Japanese megabank showing strong earnings growth but burning cash operationally
+## Japanese bank with strong price momentum but thin profit margins and negative cash flow
 
-Mizuho Financial Group is Japan's largest bank by some measures, with 8.8 trillion yen in annual revenue. It has grown earnings per share sharply and trades at a modest valuation, but its free cash flow is deeply negative and profitability margins are thin for a financial institution.
+Mizuho Financial Group is a major regional bank based in Japan. Revenue has grown 27% annually over three years, and earnings per share more than doubled in the latest year. The stock has climbed 51% over the past year and sits near its 52-week high.
 
 ### What is working
-- Earnings per share jumped 99% year over year, the sharpest metric in the profile
-- Share buybacks shrinking the count by 2.1% over three years, concentrating gains among remaining holders
-- Stock up 49.8% over the past year and trades at 13x earnings, below historical bank multiples
+- Revenue up 8% year over year and up 27% annually over 3 years, showing sustained growth
+- Earnings per share jumped 99% in the latest year; analysts are 81% bullish with consensus Buy
+- Valuation is low at 13x earnings; dividend yield 3.6% and share buybacks shrinking the count by 2.1% over 3 years
 
 ### What to be careful about
-- Free cash flow of negative 2.1 trillion yen means the company is not converting profits into cash despite large net income
-- Net profit margin of 13% is thin; the company keeps only 13 cents of every revenue dollar as profit
-- Recent one-month pullback of 6.2% and 34% annual volatility suggest sharp moves are common
+- Net profit margin is only 13%, meaning the company keeps a thin slice of every revenue dollar
+- Free cash flow was negative 2.1T JPY in the latest fiscal year, raising questions about cash generation
+- Stock is down 4.2% in the past month and sits 11% below its 52-week high; volatility is 34% yearly
 
-**Watch next:** Whether the negative free cash flow reverses in the next annual filing, as sustained cash burn would undermine the dividend and buyback program even with large cash reserves of 62.6 trillion yen on hand.
+**Watch next:** Monitor whether free cash flow turns positive in the next fiscal year, since negative cash flow is unusual for a large bank and can limit dividend and buyback capacity.
 
-**Tends to suit:** Patient, diversified investors comfortable holding foreign financial stocks through currency risk and who value steady dividends (3.6% yield) over near-term price appreciation.
+**Tends to suit:** Patient investors comfortable with foreign bank exposure and moderate dividend income who can tolerate currency risk and regulatory uncertainty in Japanese financial services.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-12. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-03-31)
 - Revenue 8.8T JPY (+8% vs prior year)
