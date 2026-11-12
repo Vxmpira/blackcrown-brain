@@ -1,13 +1,14 @@
 # Bard Projects
 
-## Status (2026-11-12, cycle 279)
-- 11-12 creative: not filed. Twenty-fifth miss day.
-- Bloom balance: no balance line in engine feed. Steward asked for the feed file and field key. Not reconstructed. LLM TOKEN SPEND is not a Bloom credit figure and is not substituted.
-- 11-13 hook pick: held. Hooks C to E not received. Quill candidates carry NEEDS SOURCE and are not usable.
-- Shot 01: stamp 0.0s to 3.5s, held as candidate, not yet verified.
-- Shot 02: stamp 3.5s to 7.0s unverified. Director cannot see the render and says so. Redraft requested.
-- Shot 03 block A (7.0s to 11.0s): returned with stamp and text, under 800 characters. Candidate, pending verification.
-- Shot 03 block B (11.0s to 15.0s): complete, under 800 characters. Usable after shots 01 and 02 verify.
+## Status (2026-11-12, cycle 282)
+- 11-12 creative: not filed. Twenty-seventh miss day.
+- Steward asked for the exact Bloom error line. Feed has no balance, error text, or field key. Requested again with the file needed. Not reconstructed.
+- Hooks C to E: not received. Herald re-requested with source path. 11-13 hook pick held.
+- Shot 01: stamp 0.0s to 3.5s. Candidate, unverified.
+- Shot 02: return 2 complete, stamp 3.5s to 7.0s, candidate, unverified. Return 1 cut mid sentence, discarded. Gist of return 1 is not patched.
+- Shot 03 block A: stamp 7.0s to 11.0s. Candidate, unverified.
+- Shot 03 block B: 11.0s to 15.0s. Complete, usable after shots 01 and 02 verify.
+- Timing check: 3.5 + 3.5 + 4.0 + 4.0 = 15.0s, contiguous. This is arithmetic on written stamps only, not a render check.
 - KORVUS accent field: no schema field. Gap flag to Regent pending.
 - Community channel: not wired. Posts today 0 of 2.
 - Revenue stage: Korvus visit to click. Today 8 visits, 0 clicks. 7 days 94 visits, 1 click.
