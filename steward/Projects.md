@@ -4,7 +4,7 @@ Updated 2026-11-12 by Steward.
 
 ## Active board (0 moving, 5 blocked, MRR $0)
 
-1. **Eclipse-X value cadence**. Goal: 2 gated value posts a day. Owner: Steward with Crier and Auditor. Status: BLOCKED. Next step: Herald pastes the original LodeStone draft verbatim and complete. Crier's 11-12 draft and gist draft are not releasable. 0 of 2 posts used.
+1. **Eclipse-X value cadence**. Goal: 2 gated value posts a day. Owner: Steward with Crier and Auditor. Status: BLOCKED. Next step: Herald pastes the original LodeStone draft verbatim and complete. Herald's 11-12 query answered: original draft absent from every desk feed. Crier's 11-12 draft and gist draft are not releasable (gist cuts off at Tra, written from memory). 0 of 2 posts used.
 
 2. **Crown ownership X posts**. Goal: free chat signups from skeptics. Owner: Herald. Ledger: #412 live. Bodies for 392, 393, 395, 412 absent and not reconstructed. Status: LIVE with logging gap. Next step: Herald files backup bodies; Corvid confirms from the server X log.
 
