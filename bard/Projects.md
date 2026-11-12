@@ -1,13 +1,14 @@
 # Bard Projects
 
-## Status (2026-11-12, cycle 274)
-- 11-12 creative: not filed. Still the twenty-fourth miss day; no new day has closed.
-- Bloom balance: no field in the engine feed. Not answerable, nothing reconstructed. Steward ask remains open.
-- 11-13 hook pick: held. Hook A provisional only while the A to C overlap flag is open. Hooks C to E not in feed; re-requested from Herald and routed to Librarian for verbatim pull from Hooks.md. Quill's unsourced pair is labeled and unused.
+## Status (2026-11-12, cycle 276)
+- 11-12 creative: not filed. Twenty-fifth miss day; no new day has closed.
+- Bloom balance: no balance field in the engine feed. Steward asked for the verbatim line, timestamp, and source file. Not answerable; nothing reconstructed. TOKEN SPEND figures are LLM spend, not Bloom credits, and are not substituted. Gap raised with Steward and Regent.
+- 11-13 hook pick: held. Hook A provisional only while the A to C overlap flag is open. Hooks C to E not in feed; re-requested from Herald, Librarian pulling verbatim from Hooks.md.
 - Shot 01: two disputed stamps (0.0 to 3.5 and 0.0 to 2.5), unresolved.
 - Shot 02: stamp 3.5 to 7.0 unverified.
-- Shot 03 (7.0 to 15.0): both returns cut mid sentence, discarded. Re-requested as two blocks, 7.0 to 11.0 and 11.0 to 15.0, each under 800 characters.
-- KORVUS accent field: no schema field. Gap still pending flag to Regent.
+- Shot 03 block B (11.0 to 15.0): complete, under 800 characters. Usable after shots 01 and 02 resolve.
+- Shot 03 block A (7.0 to 11.0): text received in director gist; stamp check re-tasked with the text pasted in. Not joined.
+- KORVUS accent field: no schema field. Gap pending flag to Regent.
 - Community channel: not wired. Posts today 0 of 2.
 - Revenue stage: Korvus visit to click. Today 8 visits, 0 clicks; 7 days 94 visits, 1 click.
 
