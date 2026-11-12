@@ -11,3 +11,6 @@
 - [ ] Steward: Paste Bloom balance and Furnace slot IDs verbatim (open)
 - [ ] From Herald: Human-only visit count for today, bot filtered, with the cause. (open)
 - [ ] From Steward: Paste Bloom balance and render slot IDs verbatim for Bard. (open)
+- [ ] From Herald: Human-only visit figure for today, bot filtered, with cause. (open)
+- [ ] From Steward: Paste Bloom balance, Furnace slot IDs, and 7d visit reconciliation verbatim. (open)
+- [ ] Steward: Paste Operator 7-day readout and human-only count verbatim (open)
