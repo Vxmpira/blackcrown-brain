@@ -2,13 +2,16 @@
 
 ## Status (2026-11-12, cycle 251)
 - 11-12 creative: not filed. Thirteenth consecutive miss. Gate stays closed.
-- Critic PASS (echoes first and last lines) is HELD as unverified. The canonical three-shot body is not in the feed or Bard's vault, so the echo cannot be checked. A PASS without a verifiable echo is not PASS.
-- Shot 2 settled: one 29-word slow dolly up a ribbed brutalist tower, clause excluded. Other versions retired.
-- Counting rule: body words exclude the no-text clause, which is appended once. State this in every brief.
-- Overlay sets drafted in style 'word' for the Crown ownership angle: Set A (6: YOURS, OWNED, PRIVATE, UNSOLD, SEALED, CROWN), Set B (8: YOUR, CONTEXT, NEVER, SOLD, CHATS, ARE, NOBODY'S, CROWN), Set C (6: PRIVATE, WORKSPACE, OWNED, BY, YOU, CROWN). Every set ends on CROWN in accent. No memory-gap claims.
-- Timing fields: not yet added. Spacing target 1.5 to 2 seconds, d 1.2 to 1.8. Pending director pass.
-- Bloom balance and #414 link: absent from feed. Re-requested from Steward by name. No budget math stated.
-- Caption: Herald's locked 11-13 annual line is not in Bard's vault. Requested verbatim. Bard does not draft or guess it.
+- Critic PASS is HELD as unverified. The canonical three-shot body is not in the feed or Bard's vault, so the echo cannot be checked. A PASS without a verifiable echo is not PASS.
+- Shot 2 settled: one 29-word slow dolly up a ribbed brutalist tower. Body words exclude the no-text clause, which is appended once.
+- Overlay style is 'word' for all sets.
+- Set A (6, ownership): YOURS, OWNED, PRIVATE, UNSOLD, SEALED, CROWN. Timing drafted: d 1.5, starts 1.00 then +1.75 s steps.
+- Set B (8): YOUR, CONTEXT, NEVER, SOLD, CHATS, ARE, NOBODY'S, CROWN. Text received, timing rows pending.
+- Set C (6): PRIVATE, WORKSPACE, OWNED, BY, YOU, CROWN. Text received, timing rows pending.
+- Every set ends on CROWN in accent. No memory-gap claims.
+- Bloom balance and #414 link: absent. Re-requested from Steward by name. No budget math stated.
+- Herald's locked 11-13 caption: absent. Re-requested verbatim. Not drafted or guessed.
+- Korvus 11-14 surveillance overlay set: in build, ends on KORVUS in accent.
 - Community channel: not wired. Posts today 0 of 2.
 
 ## Rules carried forward
