@@ -15,3 +15,7 @@ In today's universe at $109.34, market cap $6.87B.
 ## Filings
 
 - 2026-11-12 04:00 PM · 8-K · HIGH bull 72% · [[intel/Filings/2026-11-12|KOD: Kodiak Sciences Announces Recent Business Highlights and Third Quarter 2026 Financial]]
+
+## Paper trades
+
+- 2026-11-12 04:05 PM · LONG 91 @ $109.34 · open

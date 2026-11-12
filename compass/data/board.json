@@ -6918,6 +6918,19 @@
    "headline": "Construction materials giant bouncing off lows but earnings fell sharply despite revenue surge"
   },
   {
+   "symbol": "SBUX",
+   "name": "Starbucks",
+   "sector": "Consumer Cyclical",
+   "score": 49.9,
+   "tier": "Mixed",
+   "read": "neut",
+   "trend": "Turning up",
+   "ret_1y": 0.2989,
+   "pe": 62.38,
+   "div_yield": 0.0222,
+   "headline": "Starbucks at 52-week high with slowing sales but strong cash and buybacks"
+  },
+  {
    "symbol": "ARES",
    "name": "Ares Management Corporation",
    "sector": "Financial Services",
@@ -7670,19 +7683,6 @@
    "pe": -1.0,
    "div_yield": 0.0458,
    "headline": "Packaged food giant shrinking with losses, but cash flow and buybacks keep yield high"
-  },
-  {
-   "symbol": "SBUX",
-   "name": "Starbucks",
-   "sector": "Consumer Cyclical",
-   "score": 43.2,
-   "tier": "Mixed",
-   "read": "neut",
-   "trend": "Turning up",
-   "ret_1y": 0.2989,
-   "pe": 62.38,
-   "div_yield": 0.0222,
-   "headline": "Starbucks trades near 52-week highs with slowing growth and high leverage"
   },
   {
    "symbol": "TSLA",

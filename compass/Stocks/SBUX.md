@@ -14,27 +14,27 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Neutral read · trend: Turning up
 
-## Starbucks trades near 52-week highs with slowing growth and high leverage
+## Starbucks at 52-week high with slowing sales but strong cash and buybacks
 
-Starbucks is a mature restaurant company generating $37.2 billion in annual revenue with a 5% net profit margin. Recent quarterly revenue declined 1% year over year, signaling a slowdown after years of steady growth. The company carries substantial debt at 8.1 times shareholder equity while returning cash to shareholders through buybacks and a 2.2% dividend.
+Starbucks is a mature restaurant company generating $37.9B in annual revenue with solid profitability (7% net margin, $3.7B free cash flow). Recent performance shows price momentum but weakening sales: revenue grew only 2% annually over three years, and the latest quarter dropped 4% year-over-year.
 
 ### What is working
-- Price up 27% over the past year and currently 96% of the way to its 52-week high
-- Profitability remains solid with 5% net margin and 7% free cash flow margin, generating $2.4B in annual free cash flow
-- Aggressive share buybacks shrinking the share count by 1.6% over three years, concentrating earnings among remaining shareholders
+- Price momentum: stock up 29.9% over the past year and sitting at the top of its 52-week range
+- Strong cash generation: 10% free cash flow margin and $3.7B in annual free cash flow despite slowing sales
+- Shareholder returns: share buybacks shrinking the share count by 0.7% over three years, plus 2.2% dividend yield
 
 ### What to be careful about
-- Latest quarter revenue fell 1% year over year, and three-year revenue growth has slowed to just 5% annually
-- Earnings per share dropped 51% year over year, a sharp decline despite flat revenue performance
-- Debt stands at $13.3 billion versus only $3.4 billion in cash, creating a 8.1x leverage ratio relative to shareholder equity
+- Heavy debt load: $13.3B in debt versus $3.7B in cash creates 8.1x leverage ratio, the lowest score on the sheet
+- Slowing sales growth: revenue up only 2% annually over three years, with latest quarter down 4% year-over-year
+- Expensive valuation: trades at 62x earnings with only 3.0% free cash flow yield, limiting margin for error
 
-**Watch next:** Monitor whether next quarter's revenue stabilizes or continues declining, since the 1% drop suggests demand softening after years of growth.
+**Watch next:** Whether the latest quarter's 4% revenue decline reverses or continues, since growth has been the company's weak point while debt remains high.
 
-**Tends to suit:** This profile suits investors comfortable with mature, established companies that prioritize cash returns over growth, though the high debt level and slowing revenue present execution risk.
+**Tends to suit:** Investors seeking established companies with reliable cash returns who can tolerate high debt levels and are betting on a turnaround in same-store sales.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-12. Research, not advice.
 
-## Key numbers (fiscal year ended 2025-09-28)
-- Revenue $37.2B (+3% vs prior year)
-- Net margin 5%, free cash flow $2.4B
-- Cash $3.4B, debt $13.3B
+## Key numbers (fiscal year ended 2026-09-27)
+- Revenue $37.9B (+2% vs prior year)
+- Net margin 7%, free cash flow $3.7B
+- Cash $3.7B, debt $13.3B

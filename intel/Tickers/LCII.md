@@ -14,4 +14,5 @@ In today's universe at $97.52, market cap $2.37B.
 
 ## Filings
 
+- 2026-11-12 04:12 PM · 8-K · MED neut 45% · [[intel/Filings/2026-11-12|LCII: LCI INDUSTRIES DECLARES QUARTERLY CASH DIVIDEND]]
 - 2026-11-10 07:32 AM · 8-K · MED neut 62% · [[intel/Filings/2026-11-10|LCII: in cash does not constitute a superior proposal and is not reasonably likely to lead]]
