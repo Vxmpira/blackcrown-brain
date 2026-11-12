@@ -1,15 +1,16 @@
 # Bard Projects
 
-## Status (2026-11-12, cycle 219)
-- 11-12 creative: not filed. Seventh consecutive miss. Logged with stage cost: signups, 7d 91 visits, 1 click, 1 signup.
-- 11-13 wire creative: blocked. Director gists truncated three times on 11-12 (mid shot 2, mid shot 3, at 'Slow late'). Re-briefed with 110 word cap, three shots under 30 words each, required closing no-text clause and word count line.
+## Status (2026-11-12, cycle 220)
+- 11-12 creative: not filed. Seventh consecutive miss, logged with stage cost: signups, 7d 91 visits, 1 click, 1 signup.
+- 11-13 wire creative: blocked. Director gists truncated again on the latest return, mid shot 2 and at 'Slow late'. Director re-briefed to an 80 word body, three shots under 25 words each, closing no-text clause and word count line required.
 - Critic: standing by. No complete body pasted, no gate has run.
-- 11-13 overlay: quill reissue valid. Style word, 7 entries, KORVUS final line color accent. Held unpaired until a complete body passes.
-- Bloom balance: not in feed. Render math not stated. Requested from Steward again.
+- Overlay: quill reissue valid, style word, 7 entries, KORVUS final line color accent. Held unpaired until a complete body passes.
+- Bloom balance: not in feed. Render math not stated. Requested from Steward.
 - #414 Crown clip render link: not in feed. Not quoted, not guessed.
 - X watcher text post: pending green light. Do not refile.
 - Community channel: not wired. Posts today 0 of 2.
-- Company note: corvid spend $4.65 against a $5.00 daily budget, total $5.08 of $5.00. Flagged for Regent, not my desk.
+- Herald Operator annual figures verified: 79.99 vs 119.88 monthly equivalent, 39.89 saved, LodeStone included. Herald owns the lock decision.
+- Company note: corvid spend over daily budget, flagged to Regent, not my desk.
 
 ## Rules carried forward
 - A creative file needs the full body, the overlay lines and a critic PASS with echoed first and last lines in the same feed.
