@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Top rated** · Bullish read · trend: Pullback in uptrend
 
-## Chip maker with massive profits posting strong growth, but valuation is stretched
+## Profitable chip maker with strong growth, but expensive valuation and recent pullback
 
-TSM is the world's largest contract chip manufacturer. It reported $88.3B in revenue for 2024 with a 40% profit margin and $26.5B in free cash flow. Recent filings show October 2026 revenue up 59.7% year over year and a $40.9B capital spending plan for 2027.
+TSM is the world's largest contract chipmaker. It keeps 40% of revenue as profit, generated $26.5B in free cash flow last year, and holds $64.9B in net cash. Revenue grew 25% year over year and earnings per share grew 27%.
 
 ### What is working
-- Profitability is exceptional: 40% net margin and 46% operating margin mean the company keeps roughly half its revenue as operating profit
-- Balance sheet is fortress-like: $64.9B in net cash with no debt gives the company cushion to invest and weather downturns
-- Recent momentum is real: October 2026 revenue rose 59.7% year over year, and full-year 2024 revenue grew 25% compared to the prior year
+- Profitability is exceptional: 40% net margin and 46% operating margin show pricing power
+- Latest quarter October revenue jumped 60% year over year, signaling strong near-term demand
+- Fortress balance sheet with $64.9B net cash and no debt provides cushion for downturns
 
 ### What to be careful about
-- Price has lost steam: stock is down 10.8% in the last month and is 18% below its 52-week high of $485.8
-- Valuation is very high: P/E ratio of 291.53 means investors are paying $291 for every $1 of annual earnings, which is extreme by any historical standard
-- Shareholder returns are minimal: share count is flat over 3 years, dividend yield is 0.1%, and free cash flow yield is only 0.3%
+- Stock trades at 23x earnings and 0.1% free cash flow yield, leaving little margin for disappointment
+- Price pulled back 7.1% in the last month and sits 15% below its 52-week high
+- Yearly volatility of 42% means sharp swings are normal, which can test long-term conviction
 
-**Watch next:** The $40.9B capex plan for 2027 signals management expects continued demand, but watch whether actual revenue growth sustains at the 59.7% October rate or slows materially.
+**Watch next:** Whether the 60% October revenue growth sustains into coming quarters or normalizes, since recent quarters lack detailed guidance.
 
-**Tends to suit:** This profile suits long-term investors who believe in the structural demand for semiconductors and can tolerate high volatility (42% yearly) and extreme valuations in exchange for exposure to a company with fortress finances and expanding…
+**Tends to suit:** Patient long-term investors who can tolerate 42% annual price swings and believe in semiconductor structural demand, but should be aware the valuation leaves little room for error.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-12. Research, not advice.
 
 ## Key numbers (fiscal year ended 2024-12-31)
 - Revenue $88.3B (+25% vs prior year)

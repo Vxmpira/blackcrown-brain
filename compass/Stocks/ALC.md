@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Turning up
 
-## Eye-care giant with flat growth, strong cash generation, and minimal shareholder payback
+## Eye-care leader with steady cash generation, but valuation and slowing growth need watching
 
-Alcon is a Swiss-based medical specialty company focused on eye care with $10.4 billion in annual revenue. It keeps 9% of sales as profit and generates $1.7 billion in free cash flow yearly. The company has very low debt and a solid balance sheet.
+Alcon is a Swiss healthcare company focused on eye care that generated $10.4 billion in revenue last year. It keeps 9 cents of profit from each dollar of sales and produces significant free cash flow, but earnings per share declined 3% year over year despite modest revenue growth.
 
 ### What is working
-- Free cash flow of $1.7B annually with a 17% margin shows the core business converts revenue to cash efficiently
-- Balance sheet is fortress-like: debt is only 0.2x equity, giving significant financial flexibility
-- Stock price up 15.1% over the past month and 16.1% over 6 months, though still flat over the full year
+- Strong balance sheet: debt is only 0.2x shareholder equity, giving room for flexibility
+- Free cash flow of $1.7 billion annually provides funds for dividends or reinvestment
+- Operating margin of 13% shows the core business runs profitably
 
 ### What to be careful about
-- Revenue growth is sluggish: only 4% in the latest quarter and 6% annualized over three years
-- Earnings per share fell 3% year over year despite revenue growth, signaling margin pressure
-- Stock trades at 37x earnings, a steep multiple for a company growing in the low single digits
+- Valuation is elevated at 46x earnings, compared to free cash flow yield of 5.7%
+- Revenue growth slowed to 4% in the latest quarter from 6% average over three years
+- Earnings per share fell 3% year over year despite revenue growth, signaling cost pressures
 
-**Watch next:** Whether the recent price momentum of +15% in one month reflects a genuine shift in growth expectations or a temporary bounce in a stalled business.
+**Watch next:** Whether the deceleration in revenue growth from 6% to 4% marks a trend or a temporary pause, since profitability gains depend on scaling the $10.4 billion revenue base.
 
-**Tends to suit:** Investors seeking a defensive cash-generating business with low debt who accept slow top-line growth and a premium valuation in exchange for stability.
+**Tends to suit:** Long-term investors seeking steady cash generation and a defensive healthcare position who are comfortable with a high valuation and modest dividend yield.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-12. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $10.4B (+5% vs prior year)

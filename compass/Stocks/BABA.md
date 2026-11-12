@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend
 
-## Alibaba: Strong cash generation offset by steep price decline and thin earnings growth
+## Alibaba: Strong balance sheet and analyst support offset sharp price decline
 
-Alibaba is a Chinese e-commerce and digital services company with $148.4B in annual revenue. It generates substantial free cash flow and holds $19.1B in net cash, but its stock has fallen 38% over the past year and earnings per share declined 13% year over year.
+Alibaba is a Chinese e-commerce and digital services company with $148.4B in annual revenue. It generated $15.0B in net income last fiscal year and holds $19.1B in net cash. The stock has fallen 38.8% over the past year while remaining profitable.
 
 ### What is working
-- Free cash flow of $11.0B annually shows the core business converts sales into cash reliably
-- Net cash position of $19.1B with no debt listed provides a financial cushion
-- Share count down 8.9% over three years through buybacks, concentrating ownership among remaining shareholders
+- Balance sheet is fortress-like: $19.1B net cash with no reported debt
+- Analyst consensus is strongly bullish: 92% of 47 analysts rate it a buy
+- Returning cash to shareholders: share count down 8.9% over 3 years plus 3.8% dividend yield
 
 ### What to be careful about
-- Stock down 38% over the past year and trades 42% below its 52-week high of $177.18
-- Earnings per share fell 13% year over year despite 8% revenue growth, signaling margin pressure
-- Valuation extremely high at 128x earnings while free cash flow yield is just 0.6%, limiting upside potential
+- Stock down 38.8% over one year, trading 8% of the way up its 52-week range
+- Growth is slowing: revenue up only 5% annually over 3 years, while earnings per share fell 13% year over year
+- Valuation may not be cheap: trades at 24x earnings despite the decline
 
-**Watch next:** Watch whether earnings per share growth returns to positive territory in the next two fiscal years, as declining profits despite growing revenue suggests operational challenges.
+**Watch next:** Watch whether revenue growth accelerates beyond 8% year-over-year and whether earnings per share returns to positive growth, as slowing top-line combined with falling earnings raises questions about operational momentum.
 
-**Tends to suit:** This profile suits long-term investors with high risk tolerance who believe in the company's recovery potential despite heavy losses so far, and who can hold through volatility.
+**Tends to suit:** Suits long-term investors comfortable with China-listed stocks, foreign exchange risk, and significant near-term price volatility who believe in the company's cash generation and balance sheet strength.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-12. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-03-31)
 - Revenue $148.4B (+8% vs prior year)
