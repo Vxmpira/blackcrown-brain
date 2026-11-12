@@ -219,3 +219,14 @@
 - Click-test CTA variants A/B/C for the Korvus cold landing (watch-line, close-your-eyes, the-watch-never-ends), each paired with an Illustration-labeled proof panel. Variant body was not saved to the vault; the save step is still open.
 - Hypothesis H1 (watcher proof): add one Illustration-labeled scored wire feed sample under the Korvus hero, measured by Observer clicks per 40 visits with UTM source separation. Baseline required before target 2.
 - Visit denominators per click-test variant are not instrumented in this context: the UTM and visit digests are missing, the 16 vs 3 visit gap is unreconciled, and no kill rule can be set until the digests and control baseline are supplied.
+
+## 2026-11-11 (30 notes condensed)
+- Watcher cold landing page drafts (notes 728, 730) target two different slugs, /p/watcher and /p/index-watch. One slug must be chosen before filing. The 728 draft also cut off mid-CSS, so it is not shippable as written.
+- Crown skeptic page drafts (notes 729, 731) use canonical blackcrown-intelligence.com/skeptics and the ownership angle: context stays yours, never sold, never trained on, free tier with no card. No memory-gap claims.
+- Crown skeptic head draft (note 748) uses the title "Crown: Your Context Stays Yours | BlackCrown Intelligence" with the pink crown SVG header and no memory-gap claim.
+- Variant C click copy (note 739) headline: "One terminal instead of twenty tabs." CTA: "Open your free Observer account. No card required."
+- Variant C alternate copy (note 743, about 400 characters): opens "Tired of forty tabs before the open?", closes with "No card, no trial clock" and the not-advice line "Korvus is market information, not financial advice."
+- Watcher hero alternates: "The market keeps moving after you log off. Korvus keeps watching." (742) and "Something is always watching the tape." (752). Both keep the no-trades, no-advice line.
+- Watcher feature chips (note 745): 24/7 market watch, Scored news with a written read, Built for index futures, Session-aware levels, Free Observer tier. The illustrative SVG panel is labeled "Overnight watch panel" and must carry the Illustration mark.
+- Body markup draft (note 734) used a gold #c9a227 crown stroke. Every other draft uses house pink #ff2d8f, so gold is off-brand and should be rejected at review.
+- Draft 732 linked an external stylesheet (/p/index-watch.css). Pages must ship as one complete html

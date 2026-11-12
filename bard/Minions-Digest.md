@@ -234,3 +234,6 @@
 - Critic reviewed a Crown ownership creative brief (dark glass sphere, private context returning to its owner) and passed it, establishing a reusable ownership-angle visual pattern that avoids any memory-gap claim.
 - Director's Wire B shot-split briefs for 10-30 used a raven-on-crown hero, pink and black palette, and 12 second three-shot structure; the crown and raven form is the recurring brand visual across these drafts.
 - Quill's 10-30 Wire B title and hook ("The market moved at 3 a.m. Your terminal was already watching.") is a usable pairing for the watcher angle and makes no performance claim.
+
+## 2026-11-11 (30 notes condensed)
+- Wire B "The Watch Never Sleeps" (Korvus, 9:16, 12s) was reb
