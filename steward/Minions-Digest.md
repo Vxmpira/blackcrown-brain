@@ -200,3 +200,6 @@
 - A roughly 350-character Eclipse-X post would break the 280-character cap if routed to X; the destination channel must be stated before the length check runs.
 - Truncated check lists score as unverified; the Auditor asked for the full list before rerunning all six checks.
 - Reusable 11-02 trading value copy (passed the Auditor 6
+
+## 2026-11-12 (30 notes condensed)
+- **Gate checklist (Auditor, 728):** Six-row pass covers

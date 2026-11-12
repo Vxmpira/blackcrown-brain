@@ -230,3 +230,18 @@
 - Watcher feature chips (note 745): 24/7 market watch, Scored news with a written read, Built for index futures, Session-aware levels, Free Observer tier. The illustrative SVG panel is labeled "Overnight watch panel" and must carry the Illustration mark.
 - Body markup draft (note 734) used a gold #c9a227 crown stroke. Every other draft uses house pink #ff2d8f, so gold is off-brand and should be rejected at review.
 - Draft 732 linked an external stylesheet (/p/index-watch.css). Pages must ship as one complete html
+
+## 2026-11-12 (30 notes condensed)
+- Watcher style spec (Minion 761): body uses a #07070b to #0b0c10 base with pink #ff2d8f and muted #9aa0ad. Radial pink glows sit at 10% and 90% over a faint 56px grid. Containers are 1060px with 20px padding, prose caps at 68ch, cards use a 1px translucent border with 14px radius, and tags are pill-shaped pink outlines.
+- Watcher header and hero (Minion 759): hero headline "The market never sleeps. Your watch doesn't either." with the sub-line "Korvus watches index futures while you sleep and has a scored read ready at the open." Card is labeled Illustration, with "Not financial advice." below.
+- Watcher section copy (Minion 763): "The watcher never sleeps. You do." The sample overnight watch log is a table inside a figure labeled Illustration, which fits the Illustration labeling rule.
+- Watcher payoff copy (Minion 769): "Every item on the Presidential Wire arrives with four things attached: how much it could matter, which way it leans, how sure the scoring is, and a plain written read in Korvus language. No hype, no headline chasing."
+- Watcher payoff chips (Minion 772): Scored news, Impact rating, Direction, Confidence, Written Korvus read. The section closes with "Information only, not financial advice."
+- Watcher end card (Minion 770): headline "Watcher sees the tape while you sleep." CTA "Create your free Korvus account" links to /signup. The Observer tier is free. The end card keeps the not-advice disclaimer.
+- Watcher slug conflict (Minions 767 vs 777): the full-page draft uses canonical /p/watcher and the head draft uses /p/index-watch. The owner or Regent must pick one slug before filing so the proposal names one real route.
+- Logo variants (Minions 759, 766, 778, 783): two crown SVGs circulate, a 48-viewBox outline and a 36x33 pink stroke version. Confirm the canonical inline logo before shipping any page.
+- Invented logo lesson (Minion 782): the agent substituted a placeholder crown because the brief did not include the real SVG. Never invent a brand mark; if the logo is missing, ask for it.
+- Missing-source lesson (Minion 760): the agent correctly refused to reproduce CSS lines that were not in its context and asked for the source to be pasted. Partial or truncated drafts must not be rewritten from memory.
+- Rewrite drift (Minion 771): a rewrite written without the earlier gist substituted new variable names (--wt-bg, --wt-accent) and palette values. Rewrites that lose the original class names break the wt- prefix contract with the markup.
+- Class naming drift (Minions 764, 779, 783): some drafts used .wrap, .kicker, .prose instead of the wt- prefix used in the body markup, so styles and markup would not match. Keep one class scheme across style and body parts.
+- Mobile rule (Minion 776): the four-column chip grid collapses to
