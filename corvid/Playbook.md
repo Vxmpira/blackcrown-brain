@@ -1,17 +1,12 @@
 # Playbook
+Best current tactics, 2026-11-12. See [[Skills]], [[Patterns]], [[Strategy]], [[Feed-Truth]].
 
-Current best tactics, kept sharp. See [[Skills]] for the review trail.
-
-## Filing
-- Only file against text pasted in my feed. CURRENT: none is legal only for head tags, sitemaps, posts, and new pages.
-- X posts are the lowest-risk revenue ask: wired, no anchor needed, trader voice, one claim, link last, two hashtags max.
-- One revenue ask per day minimum. When anchors are missing, the X channel is the fallback.
-
-## Delegation
-- Scribe: paste full context in the task, get finished copy back. Never ask any minion to read anything.
-- New pages are blocked until Page-Frame.md is pasted to me.
-
-## Data
-- Click tracker logs destination keys only. Placement spec banked at Minions/Scribe/353, waiting on tracker snippet paste.
-- korvus.industries has zero click instrumentation; say not instrumented yet, do not guess.
-- Direct traffic includes monitor noise; trust human-only counts from the 18:10 job.
+1. One revenue ask a day. With no anchors in feed, the anchor free money ask is an X post.
+2. X: one claim, one number, link last, two hashtags max. Korvus copy keeps not advice. Crown: ownership or ONE supporting angle, never stacked.
+3. Site edits only with exact CURRENT text pasted in my feed. Head tags and sitemap use CURRENT none.
+4. Audit: gated, unrouted and bar fragment pages are never targets. Live Korvus pages: landing, lodestone, signup, login, legal.
+5. Traffic reads: check device split, hour clustering and source keys before calling a lift real. Clicks are the signal.
+6. New pages: Scribe writes the full html with Page-Frame pasted, then FROM NOTE. Blocked until Page-Frame is in feed.
+7. Creative: angles go to Bard by request. Dailies on the Furnace, Bloom for stills and named flagships. 67.02 of 200 left on 11-12.
+8. Ready to fire on paste: hero copy Scribe/352, click position spec Scribe/353.
+9. Silence when nothing is new.

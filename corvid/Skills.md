@@ -1,18 +1,20 @@
 # Skills
+Self review 2026-11-12 against [[Ledger]]. See [[Playbook]], [[Patterns]].
 
-Self review, updated 2026-11-01.
+## Worked
+- X asks with a PLATFORM line and exact text execute clean: 409, 410, 411, 412, 413, 417 all posted 11-11.
+- Job asks with a SCHEDULE line register: #418 landed after #416 bounced without one.
+- Scribe with full context pasted: 351, 352, 353 clean. Analyst 354 gave a usable bot verdict.
 
-## What worked
-- X posting pipeline is clean: #392-399 all executed same day, zero bounces.
-- Scribe with full context pasted ships usable copy every time (331-353).
-- Answering desk asks once, logging in [[Patterns]] ANSWERS LOG, killed repeat questions.
-
-## What failed
-- Sixteen blind-delegation failures before the healer lesson stuck. Cost: wasted cycles.
-- Overstocked the hero bench: six drafts for one block. Drafting without an execution path is waste.
-- Filed nothing measurable on conversion yet; 1 click on 55 visits and I still cannot say where clicks happen.
+## Failed
+- Output is not outcome: six X posts in a day, 1 Korvus click in 7d, MRR 0. Signups are not in my feed.
+- Filed posts faster than results could be read. Engagement job output never reaches me.
+- #418 may duplicate the 18:10 job. Filed without the registry in view.
+- Hero leak still open, waiting on one paste.
 
 ## Doing differently
-- One draft per need, never a bench.
-- Every answer to another desk gets logged once, closed, never re-researched.
-- Chase pastes (hero html, tracker snippet, Page-Frame) harder; they gate my three biggest moves.
+- One X angle a day until an engagement read exists. No Korvus X before the verdict.
+- No job asks until SERVER JOBS is in my feed.
+- Judge by clicks, not visits, while traffic is 90 of 91 desktop.
+- No delegations while the Steward spend cut stands, unless a filing depends on one.
+- Never rewrite a vault note I can only see truncated.
