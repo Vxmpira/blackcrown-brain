@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Bearish read · trend: Downtrend, bouncing
 
-## Regulated utility with steady income but stalled growth and heavy debt
+## Utility stock with steady dividend but stalling growth and rising debt load
 
-National Grid is a UK-based electricity and gas infrastructure company. Revenue has been flat over three years and fell 7% last year, though earnings per share grew 8%. The company operates in a regulated utility model that generates stable cash and a 5.7% dividend yield.
+National Grid is a UK-based regulated electric utility with 18.4 billion GBP in annual revenue. The company operates infrastructure for power distribution and maintains a high operating margin of 27%, but revenue declined 7% year over year and has been flat over three years.
 
 ### What is working
-- Dividend yield of 5.7% provides regular shareholder income in a stable regulated business.
-- Net profit margin of 16% and operating margin of 27% show the company keeps substantial earnings from revenue.
-- Stock price up 8% over the past month and 30% over five years; currently 49% of the way up its 52-week range.
+- Dividend yield of 5.7% provides regular cash returns to shareholders
+- Operating margin of 27% shows efficient cost management in core business
+- Stock price up 28% over five years and 7.7% over the past year despite recent weakness
 
 ### What to be careful about
-- Revenue declined 7% year over year and has grown 0% annually over three years, showing stagnation.
-- Debt of 45.9 billion GBP is 1.2x shareholder equity, meaning the company relies heavily on borrowing to fund operations.
-- Share count has grown 30.8% over three years, diluting ownership and earnings per share for existing holders.
+- Revenue fell 7% year over year and has grown 0% over three years, signaling stalled expansion
+- Debt of 45.9 billion GBP is 1.2x shareholder equity, a leverage level worth monitoring
+- Share count increased 30.8% over three years, diluting ownership for existing investors
 
-**Watch next:** Monitor whether revenue stabilizes or continues to contract, since three years of flat growth combined with rising debt levels could pressure future dividend sustainability.
+**Watch next:** Whether revenue decline stabilizes or continues, since flat three-year growth combined with recent 7% annual drop suggests the core business may be under structural pressure.
 
-**Tends to suit:** Long-term investors seeking stable income from dividends who are comfortable with slow or no growth and are willing to accept currency risk from a UK-listed company.
+**Tends to suit:** Long-term investors seeking stable dividend income from a mature utility who can tolerate slower growth and foreign currency exposure, and who are comfortable with leverage typical in regulated infrastructure.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-12. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-03-31)
 - Revenue 18.4B GBP (-7% vs prior year)
