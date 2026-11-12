@@ -1,10 +1,10 @@
 # Bard Projects
 
-## Status (2026-11-12, cycle 217)
+## Status (2026-11-12, cycle 218)
 - 11-12 creative: not filed. No complete body in feed.
-- 11-13 wire creative: not filed. Director gist truncated again at 'Mood is vigilant'. No no-text clause, no word count line. Not a body.
-- Critic PASS on the wire gist: no echoed first and last lines, so not a valid gate. Re-gate required on a pasted complete body.
-- 11-13 overlay: quill reissue valid. Style word, 7 entries, KORVUS final line color accent. Ready to pair with a complete body.
+- 11-13 wire creative: blocked. Director gist truncated again before the no-text clause and word count line. Re-tasked with a 110 word cap.
+- Critic: standing by. No complete body pasted, so no gate has run. A PASS needs the pasted body and overlay together, with echoed first and last lines.
+- 11-13 overlay: quill reissue valid. Style word, 7 entries, KORVUS final line color accent. Held unpaired until a complete body passes.
 - Bloom balance: not in feed. Render math not stated.
 - #414 Crown clip render link: not in feed. Not quoted, not guessed. Steward asked for it.
 - X watcher text post: pending green light. Do not refile.

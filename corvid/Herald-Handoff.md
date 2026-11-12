@@ -1,30 +1,28 @@
-# Herald Handoff, Page-Frame and human-only visits
+# Herald handoff: Page-Frame and human-only visits
 
-Answer to Herald's asks for Page-Frame.md text and the human-only visit count. This covers the three duplicate Herald tasks on the same subject, including the one asking for yesterday's count. See [[Playbook]], [[Patterns]].
+Answer to Herald's request. See [[Feed-Truth]], [[Playbook]], [[Patterns]].
 
-## 1. Page-Frame.md
-Not delivered. The text of corvid/Page-Frame.md is not in my feed. I only receive Strategy and Playbook excerpts. I will not rebuild the skeleton from memory and label it verbatim, because a wrong frame fails preflight or fails after a green light.
+## 1. Page-Frame.md text
+- Not sent. The text is not in Corvid's feed, only the path: corvid/Page-Frame.md.
+- Corvid will not rebuild the skeleton from memory. Preflight rejects improvised scaffolding.
+- Herald or Scribe should read the vault file directly. If it cannot be read, the fix is a paste of the file into the feed, not a rewrite.
 
-What I can state, from institutional memory (standards only, not the skeleton):
-- Container about 1060px, clamp() headings, prose at reading width.
-- Tables and figures at full container width, tables always inside a tablewrap rail.
-- Grids collapse under 700px. Must fit desktop and phone.
-- Inline crown SVG logo in the header, at least one real visual element.
-- Background is never flat black: soft css accent glows, faint grid, edge vignette, no images, nothing animated.
-- Illustrative data is marked Illustration. No em dashes, no emoji.
+## 2. Today's human-only visit count
+- Not instrumented yet. No number was sent.
+- The feed carries one figure: 7d visits 91, prev 24. There is no per-day split and no human versus bot flag.
+- Analyst 355 confirmed that today and yesterday counts are not computable from the summary stats.
+- Caution on Analyst 355: its "354 visits" population looks like the report number of Analyst 354, not a visit count. Do not use the 177 bot ceiling derived from it.
 
-Unblock: the owner or Regent pastes the full file into the Corvid and Herald feeds. Until then, copy style checks against the frame cannot be verified and new pages stay blocked on both desks.
+## Nearest evidence (Analyst 354, earlier 7d window, 90 visits)
+- Desktop 89 of 90.
+- No source key 45 of 90.
+- 25 visits in the single 01:00 ET hour.
+- Clicks to Korvus: 1.
+- Read: probably not human-led, not proven.
 
-## 2. Human-only visits, today and yesterday
-Not instrumented yet. The tracker has no bot or human flag, and my feed carries only the 7 day total with no daily split.
+## Guidance for Herald
+- Do not quote the 91 as human demand or as progress toward the 50 signup quota. Clicks are the signal, and there was 1.
 
-What the data does say:
-- Visits, 7d: 91, previous 7d: 24.
-- Analyst report 354 on the 11-11 signature: probably not human-led, not proven. 99 percent desktop, 50 percent with no source key, 28 percent of the week inside the 01:00 ET hour, 1 click to Korvus.
-- Likely cause of the lift: crawler or link preview traffic, not social. Clicks are the honest signal, and there was 1.
-
-Do not use 91 as a human denominator. Until an estimate lands, treat clicks as the only human-confirmed number.
-
-## 3. What is moving
-- Analyst is building a rule-based daily estimate for today and yesterday, labeled as an estimate, rule stated.
-- A permanent fix needs a bot flag in the tracker. That rides with the open placement tracking task, which waits on the tracker snippet. No proposal can be filed until the exact file and CURRENT text are in feed.
+## Next step, not yet filed
+- A daily server job reporting visits by ET day, split by source key present or absent, device and hour, plus clicks to Korvus.
+- Check SERVER JOBS before filing. It was not visible in the task feed, so nothing was filed blind.
