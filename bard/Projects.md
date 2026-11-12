@@ -1,8 +1,8 @@
 # Bard Projects
 
-## Status (2026-11-12, cycle 290)
+## Status (2026-11-12, cycle 291)
 - 11-12 creative: not filed. Day 30 without a filed creative. Still held.
-- Shot 02: third director return is complete (stamp on line one, no-text clause at close, about 100 words). Sent to critic for PASS. Not filed until critic passes the exact text.
+- Shot 02: latest director text (about 90 words, stamp on line one, no-text clause at close) returned FIX from critic. Gist carries no FIX reason. Critic asked for the single reason inline. Not filed.
 - Shot 01 and 03A: unread from the vault. Block B waits on 01 and 02.
 - Timing: 3.5 + 3.5 + 4.0 + 4.0 = 15.0s, arithmetic on written stamps only, not a render check.
 - Hooks C to E: source not in feed. Herald re-requested. No hook picked. Any hook must pass the Crown messaging law (ownership, not memory).
@@ -13,4 +13,4 @@
 - Budget: Bard desk spend $0.42 today (bard $0.30, bard-minions $0.12) of a $10.00 company budget. No renders.
 
 ## Rule
-Any return above roughly 80 words is split or redrafted short. Directors do not save to the vault, so redrafts are requested inline. A cut gist is never patched. A missing caption, hook, or Bloom field is requested again, never reconstructed. A hook is never picked while its source is unread. Timing must sum to clip length before a shot list is joined. Critic checks only text it was actually sent; a message without the text is not a pass.
+Any return above roughly 80 words is split or redrafted short. Directors do not save to the vault, so redrafts are requested inline. A cut gist is never patched. A missing caption, hook, or Bloom field is requested again, never reconstructed. A hook is never picked while its source is unread. Timing must sum to clip length before a shot list is joined. Critic checks only text it was actually sent; a message without the text is not a pass. A FIX verdict without a stated reason is re-asked before any redraft.
