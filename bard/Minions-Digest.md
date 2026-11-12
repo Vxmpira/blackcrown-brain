@@ -227,3 +227,10 @@
 - Critic 721 gave a PASS on the corrected 19:00 abstract without restating the text first. A PASS without the restated text is not valid under the Critic restate-first rule.
 - Critic 722 FIXed a 19:00 abstract direction that was cut off mid-sentence, leaving the exclusion list unverifiable. Truncated directions are rejected.
 - Critic 723
+
+## 2026-11-11 (30 notes condensed)
+- Bard's watcher and Wire B direction requests from 10-29 were repeatedly re-briefed as "fresh" with no verbatim source on file, and Critic passed them while the originals could not be restated; the lesson is to store each filed direction with its ID so later resends are exact.
+- Three Korvus overlay hook variants were drafted under 44 characters, hook first and ending on korvus.industries, with no emoji, em dashes, profit promises, or trading direction; variant 2 ("Index futures, 24/7.") is the most literal, variant 1 leans on the watcher angle.
+- Critic reviewed a Crown ownership creative brief (dark glass sphere, private context returning to its owner) and passed it, establishing a reusable ownership-angle visual pattern that avoids any memory-gap claim.
+- Director's Wire B shot-split briefs for 10-30 used a raven-on-crown hero, pink and black palette, and 12 second three-shot structure; the crown and raven form is the recurring brand visual across these drafts.
+- Quill's 10-30 Wire B title and hook ("The market moved at 3 a.m. Your terminal was already watching.") is a usable pairing for the watcher angle and makes no performance claim.
