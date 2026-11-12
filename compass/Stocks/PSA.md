@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Turning up
 
-## Profitable storage REIT trades near 52-week highs with steady cash returns
+## Profitable self-storage giant trades at premium with slowing revenue growth
 
-Public Storage operates self-storage facilities and keeps 37% of revenue as profit. The company generates strong free cash flow of $3.2B annually and pays a 4.7% dividend. Recent quarterly revenue jumped 12% year over year, though full-year growth has slowed to 3-5%.
+Public Storage is a real estate investment trust that owns and operates self-storage facilities. It converts 37% of revenue into profit and generates substantial free cash flow, but growth has slowed to 3% annually over three years despite a recent quarterly jump.
 
 ### What is working
-- Exceptional profitability: 37% net margin and 66% free cash flow margin show pricing power
-- Strong shareholder returns: 4.7% dividend yield with flat share count means cash flows mostly go to owners
-- Recent momentum: Latest quarter revenue +12%, price up 19% over the past year and 15% in the last month
+- Profitability is exceptional: 37% net margin and 66% free cash flow margin show strong operational efficiency
+- Recent quarter revenue jumped 12% year over year, suggesting potential acceleration from the 3-year trend of 5% annual growth
+- Shareholder returns are consistent: flat share count over 3 years and 4.7% dividend yield provide stability for long-term holders
 
 ### What to be careful about
-- Earnings declined: EPS down 15% year over year despite revenue growth, signaling margin pressure
-- Expensive valuation: P/E of 33x is high, and free cash flow yield of 5.0% may not fully compensate for the price
-- Slowing base growth: Annual revenue growth only 3-5% over three years, compared to 12% in latest quarter
+- Earnings per share fell 15% year over year despite revenue growth, signaling pressure on the bottom line
+- Stock trades at 33x earnings, which is high relative to its 5.0% free cash flow yield
+- Three-year revenue growth of only 5% annually is modest for a company valued at 33x earnings, raising questions about growth justification
 
-**Watch next:** Whether quarterly revenue momentum at 12% can sustain or fade back toward the 3-5% annual trend, which will signal if the recent price strength has fundamental support.
+**Watch next:** Monitor whether the 12% quarterly revenue growth can sustain or if it reverts to the slower 3-5% annual trend, as this will determine if the premium valuation is warranted.
 
-**Tends to suit:** Long-term investors seeking steady dividend income and patient capital that can accept mature, slow-growth businesses trading at premium valuations.
+**Tends to suit:** Investors seeking stable dividend income and predictable cash flows from a mature, profitable business, rather than those chasing rapid growth.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-12. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $4.8B (+3% vs prior year)

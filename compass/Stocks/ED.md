@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Strong uptrend
 
-## Utility giant with strong cash flow but analyst consensus warns of overvaluation
+## Utility stock near 52-week high with strong cash flow but analyst skepticism
 
-Consolidated Edison is a large regulated electric utility serving millions in the Northeast. It generates substantial free cash flow and pays a dividend, but reported minimal net income in its latest year despite $17.0B in revenue.
+Consolidated Edison is a regulated electric utility generating $17.0B in annual revenue. The company converts nearly all operating income into free cash flow ($4.8B yearly) but reports minimal net profit due to its regulatory structure. It trades near its yearly peak after a +20% gain over the past year.
 
 ### What is working
-- Free cash flow of $4.8B represents a 10.9% yield on current market value, well above typical stocks
-- Revenue rose 10% year-over-year in the latest period, accelerating from a 3% average growth rate over three years
-- Stock price up 19.9% over the past year and sits near its 52-week high, showing investor appetite
+- Free cash flow yield of 10.9% is notably high relative to the stock price
+- Generated $4.8B in free cash flow on $17.0B revenue (28% margin)
+- Price is up 19.8% over one year and sits 92% up its 52-week range
 
 ### What to be careful about
-- Net income was $2.0M on $17.0B revenue (0% margin), indicating profit gets taxed or reinvested heavily in the regulated utility model
-- Analyst consensus rates the stock Sell, with only 11% of 27 analysts rating it a buy
-- Share count growing 0.8% over three years signals dilution, which reduces future earnings per existing share
+- 27 analyst consensus is Sell; only 11% of analysts rate it a buy
+- Net margin is 0% ($2.0M net income on $17.0B revenue) due to regulatory caps
+- Debt of $25.8B is 1.0x shareholder equity, a moderate but notable leverage level
 
-**Watch next:** Monitor whether the 10% revenue surge continues or reverts to the historical 3% trend, as this directly affects the cash flow yield that justifies the valuation.
+**Watch next:** Whether analyst sentiment shifts as the stock sustains its recent uptrend, since consensus currently lags price performance by a wide margin.
 
-**Tends to suit:** Long-term investors seeking steady dividend income and cash generation who are comfortable with utility regulation and can tolerate that Wall Street consensus currently opposes the stock.
+**Tends to suit:** Income-focused long-term investors comfortable with regulated utility economics and low growth, seeking steady cash returns rather than capital appreciation.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-12. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $17.0B (+10% vs prior year)

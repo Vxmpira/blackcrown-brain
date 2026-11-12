@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend
 
-## Packaging giant with strong revenue growth but thin margins and high valuation
+## Packaging giant with strong revenue growth but thin profits and high valuation
 
-Smurfit WestRock is a large packaging and containers company that nearly doubled revenue in the latest year and has grown earnings per share 62% year over year. However, it keeps only 2% of revenue as profit and trades at 46 times earnings, which is steep relative to its modest profitability.
+SW is a large Irish packaging company that supplies containers to consumer goods makers. Revenue has grown 32% annually over three years, but the company keeps only 2% of sales as profit. The stock trades at 46 times earnings, well above historical norms for the sector.
 
 ### What is working
-- Revenue grew 32% per year over three years and jumped 48% in the latest year
-- Earnings per share surged 62% year over year, showing leverage to sales growth
-- Analyst consensus is strong at 88% buy rating across 26 covering firms
+- Revenue jumped 48% year over year to $31.2B, driven by 32% compound annual growth over three years
+- Earnings per share rose 62% year over year despite thin margins, showing operational leverage
+- Debt is moderate at 0.7x shareholder equity; free cash flow of $1.2B provides financial flexibility
 
 ### What to be careful about
-- Net margin is just 2%, meaning the company keeps only $0.02 from every $1.00 in sales
-- Return on equity is 4%, suggesting weak returns on shareholder capital invested
-- Share count has grown 101.5% over three years, diluting each share's claim on profits
+- Net profit margin of only 2% means the company converts little of its huge revenue into earnings
+- Stock price is 17% below its 52-week high and trades below its 200-day average, signaling weakening momentum
+- Valuation of 46x earnings is extremely steep; free cash flow yield of 5.2% suggests limited upside at current price
 
-**Watch next:** Whether latest quarter revenue growth of only 2% year over year signals a slowdown in underlying demand or reflects normal cyclical softness in packaging.
+**Watch next:** Whether the recent 2% quarterly revenue growth accelerates back toward the 32% annual trend, which would validate the premium valuation.
 
-**Tends to suit:** Investors comfortable holding cyclical companies with thin margins and betting that operational scale and analyst optimism will drive future returns.
+**Tends to suit:** Long-term investors comfortable with cyclical industries who believe packaging demand will remain strong and can tolerate thin margins and significant stock dilution over holding periods.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-12. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $31.2B (+48% vs prior year)

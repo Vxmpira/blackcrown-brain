@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Turning up
 
-## Profitable retailer faces debt burden while analysts stay bullish
+## Profitable retailer with heavy debt load; analysts bullish but price down 13% yearly
 
-AutoZone is a specialty retailer of aftermarket auto parts and accessories. It generated $20.3B in revenue last year with a 13% profit margin and $1.8B in free cash flow. The company carries significant debt at 37.8x shareholder equity, which is the main financial constraint.
+AutoZone is a specialty auto parts retailer generating $20.3 billion in revenue and keeping 13 cents of profit on each dollar of sales. The company is shrinking its share count through buybacks and producing $1.8 billion in free cash flow annually, but carries $9.1 billion in debt against only $326.1 million in cash.
 
 ### What is working
-- Strong profitability: keeps 13% of revenue as net profit and generates $1.8B in free cash flow annually
-- Analyst support: 82% of 33 covering analysts rate it a buy, with consensus Buy rating
-- Shareholder returns: share count down 11.7% over 3 years through buyback program
+- Strong profitability: 13% net margin and 18% operating margin show efficient cost control
+- Consistent buybacks: share count down 11.7% over 3 years, concentrating ownership
+- Analyst consensus: 82% of 33 analysts rate it a buy with neutral-to-positive outlook
 
 ### What to be careful about
-- Extreme debt load: debt is 37.8x shareholder equity, a structural balance sheet risk
-- Price momentum weak: down 13% over past year, trading 37% of the way up its 52-week range
-- Slow growth: revenue up only 5% annually over 3 years; earnings per share +5% year over year
+- Extreme leverage: debt is 37.8x shareholder equity, one of the highest warning signs on the scorecard
+- Slow growth: revenue up only 5% annually over 3 years; latest quarter +6% year over year
+- Price pressure: down 13.4% over the past year and sitting 18% below its 52-week high
 
-**Watch next:** Whether the company can reduce its debt-to-equity ratio while maintaining free cash flow generation and buyback activity.
+**Watch next:** Monitor debt levels and refinancing costs, since the 37.8x leverage ratio leaves little room for revenue slowdowns or interest rate changes.
 
-**Tends to suit:** Investors comfortable with high leverage and cyclical retail exposure who believe analyst consensus on valuation and the company's ability to service its debt from operating cash flow.
+**Tends to suit:** Suits investors comfortable with high financial leverage in exchange for strong current profitability and analyst support, with a multi-year holding horizon.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-12. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-08-29)
 - Revenue $20.3B (+7% vs prior year)

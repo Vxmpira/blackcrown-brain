@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Bearish read · trend: Downtrend, bouncing
 
-## KKR: Strong long-term growth stalled, but analysts see value
+## KKR: Strong long-term growth story undermined by recent revenue drop
 
-KKR is a large asset management and private equity firm with $19.5B in annual revenue. Revenue fell 11% year over year after three years of 51% annual growth. The company keeps 12% of revenue as profit and returned 8% on shareholder equity last year.
+KKR is a large asset manager with $22.6B in cash but $36.9B in debt. Revenue nearly tripled over three years, yet last year fell 11% and latest quarter dropped 17% versus year-ago. The company keeps 12 cents of every revenue dollar as profit.
 
 ### What is working
-- Three-year revenue growth of 51% per year shows the business expanded significantly before recent slowdown
-- 82% of 28 analysts rate it a buy, and consensus is Buy, suggesting professional investors see value
-- Strong balance sheet with $22.6B cash provides cushion despite $36.9B in debt
+- Three-year revenue growth averaged 51% annually, showing strong historical expansion
+- 28 analysts cover the stock with 82% rating it a buy, consensus is Buy
+- Five-year return of +20% despite current weakness; company generated $477.8M in free cash flow last year
 
 ### What to be careful about
-- Revenue dropped 17% in the latest quarter and fell 11% full year, reversing years of growth
-- Stock down 18.8% over the past year and sits 31% below its 52-week high of $142.77
-- Return on equity of 8% and net margin of 12% are modest; free cash flow yield only 0.5%
+- Stock down 19.9% over the past year and sits 32% below its 52-week high; price is 23% of the way up its annual range
+- Latest full-year revenue fell 11% and recent quarter revenue dropped 17% year-over-year, signaling momentum loss
+- Return on equity is just 8%; valuation at 27.93x earnings is elevated given the recent profit slowdown; debt of $36.9B against $22.6B cash
 
-**Watch next:** Whether the latest quarter's -17% revenue decline marks a temporary dip or signals sustained weakness in the asset management business.
+**Watch next:** Whether the 17% quarterly revenue decline reverses or continues will show if last year's 11% drop was temporary or the start of a deeper trend.
 
-**Tends to suit:** Patient investors seeking exposure to asset management who can tolerate high volatility (39% yearly swings) while the business navigates a growth slowdown.
+**Tends to suit:** Suits investors comfortable holding through volatile downtrends who believe asset managers can recover from cyclical revenue setbacks over many years.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-12. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $19.5B (-11% vs prior year)

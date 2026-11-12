@@ -44,7 +44,7 @@
    "symbol": "SNDK",
    "name": "Sandisk Corporation",
    "sector": "Technology",
-   "score": 84.3,
+   "score": 84.2,
    "tier": "Top rated",
    "read": "bull",
    "trend": "Losing steam",
@@ -52,19 +52,6 @@
    "pe": 6.49,
    "div_yield": null,
    "headline": "Sandisk posts record profits but stock momentum stalls after 266% surge"
-  },
-  {
-   "symbol": "WPM",
-   "name": "Wheaton Precious Metals Corp.",
-   "sector": "Basic Materials",
-   "score": 83.5,
-   "tier": "Top rated",
-   "read": "bull",
-   "trend": "Losing steam",
-   "ret_1y": 0.2662,
-   "pe": 30.13,
-   "div_yield": 0.004,
-   "headline": "Precious metals royalty company with explosive growth, now 18% off its high"
   },
   {
    "symbol": "DXCM",
@@ -83,7 +70,7 @@
    "symbol": "REGN",
    "name": "Regeneron Pharmaceuticals",
    "sector": "Healthcare",
-   "score": 82.5,
+   "score": 82.4,
    "tier": "Top rated",
    "read": "bull",
    "trend": "Strong uptrend",
@@ -91,19 +78,6 @@
    "pe": 19.75,
    "div_yield": 0.004,
    "headline": "Strong-trending biotech with solid profits but valuation debate among analysts"
-  },
-  {
-   "symbol": "TSM",
-   "name": "Taiwan Semiconductor Manufacturing Company Limited",
-   "sector": "Technology",
-   "score": 82.0,
-   "tier": "Top rated",
-   "read": "bull",
-   "trend": "Pullback in uptrend",
-   "ret_1y": 0.3926,
-   "pe": 22.75,
-   "div_yield": 0.0199,
-   "headline": "Chip maker with fortress balance sheet sees revenue surge, but valuation is stretched"
   },
   {
    "symbol": "TD",
@@ -117,6 +91,19 @@
    "pe": 18.32,
    "div_yield": 0.0461,
    "headline": "Canadian bank with strong profit margins and shrinking share count meets upward price momentum"
+  },
+  {
+   "symbol": "TSM",
+   "name": "Taiwan Semiconductor Manufacturing Company Limited",
+   "sector": "Technology",
+   "score": 81.8,
+   "tier": "Top rated",
+   "read": "bull",
+   "trend": "Pullback in uptrend",
+   "ret_1y": 0.3926,
+   "pe": 22.75,
+   "div_yield": 0.0199,
+   "headline": "Chip maker with fortress balance sheet sees revenue surge, but valuation is stretched"
   },
   {
    "symbol": "MSFT",
@@ -161,7 +148,7 @@
    "symbol": "SKHY",
    "name": "SK hynix Inc.",
    "sector": "Technology",
-   "score": 80.9,
+   "score": 80.1,
    "tier": "Top rated",
    "read": "neut",
    "trend": "Short-term downtrend",
@@ -210,19 +197,6 @@
    "headline": "Profitable fertilizer maker trading cheaply, but faces long-term revenue headwinds"
   },
   {
-   "symbol": "V",
-   "name": "Visa Inc.",
-   "sector": "Financial Services",
-   "score": 78.6,
-   "tier": "Top rated",
-   "read": "bull",
-   "trend": "Strong uptrend",
-   "ret_1y": 0.2401,
-   "pe": 33.32,
-   "div_yield": 0.0082,
-   "headline": "Visa trades near its 52-week high with industry-leading profits but a steep price tag"
-  },
-  {
    "symbol": "EOG",
    "name": "EOG Resources",
    "sector": "Energy",
@@ -262,6 +236,19 @@
    "headline": "Profitable travel platform at peak valuation with strong cash generation"
   },
   {
+   "symbol": "V",
+   "name": "Visa Inc.",
+   "sector": "Financial Services",
+   "score": 78.2,
+   "tier": "Top rated",
+   "read": "bull",
+   "trend": "Strong uptrend",
+   "ret_1y": 0.2401,
+   "pe": 33.32,
+   "div_yield": 0.0082,
+   "headline": "Visa trades near its 52-week high with industry-leading profits but a steep price tag"
+  },
+  {
    "symbol": "PGR",
    "name": "Progressive Corporation",
    "sector": "Financial Services",
@@ -275,19 +262,6 @@
    "headline": "Profitable insurer with strong price momentum but slowing growth and mixed analyst view"
   },
   {
-   "symbol": "TEL",
-   "name": "TE Connectivity",
-   "sector": "Technology",
-   "score": 77.7,
-   "tier": "Top rated",
-   "read": "bull",
-   "trend": "Strong uptrend",
-   "ret_1y": -0.1187,
-   "pe": 19.33,
-   "div_yield": 0.018,
-   "headline": "Profitable hardware connector maker with strong cash flow and shrinking share count"
-  },
-  {
    "symbol": "APA",
    "name": "APA Corporation",
    "sector": "Energy",
@@ -299,6 +273,19 @@
    "pe": 6.89,
    "div_yield": 0.0271,
    "headline": "Oil explorer with strong cash generation but mixed growth signals"
+  },
+  {
+   "symbol": "TEL",
+   "name": "TE Connectivity",
+   "sector": "Technology",
+   "score": 77.6,
+   "tier": "Top rated",
+   "read": "bull",
+   "trend": "Strong uptrend",
+   "ret_1y": -0.1187,
+   "pe": 19.33,
+   "div_yield": 0.018,
+   "headline": "Profitable hardware connector maker with strong cash flow and shrinking share count"
   },
   {
    "symbol": "JKHY",
@@ -324,7 +311,7 @@
    "ret_1y": 0.2738,
    "pe": 34.4,
    "div_yield": 0.0118,
-   "headline": "Gold royalty firm with surging profits trades at premium valuation"
+   "headline": "Gold royalty company with surging earnings but premium valuation after 27% year-long rally"
   },
   {
    "symbol": "ADI",
@@ -418,10 +405,23 @@
    "headline": "Gold miner with strong cash generation trades well below recent highs"
   },
   {
+   "symbol": "WPM",
+   "name": "Wheaton Precious Metals Corp.",
+   "sector": "Basic Materials",
+   "score": 76.6,
+   "tier": "Top rated",
+   "read": "bull",
+   "trend": "Losing steam",
+   "ret_1y": 0.2662,
+   "pe": 30.13,
+   "div_yield": 0.004,
+   "headline": "Precious metals royalty company with explosive growth, now 18% off its high"
+  },
+  {
    "symbol": "VRSN",
    "name": "Verisign",
    "sector": "Technology",
-   "score": 76.5,
+   "score": 76.4,
    "tier": "Top rated",
    "read": "bull",
    "trend": "Strong uptrend",
@@ -434,7 +434,7 @@
    "symbol": "URI",
    "name": "United Rentals",
    "sector": "Industrials",
-   "score": 76.4,
+   "score": 76.2,
    "tier": "Top rated",
    "read": "bull",
    "trend": "Strong uptrend",
@@ -442,19 +442,6 @@
    "pe": 24.59,
    "div_yield": 0.0127,
    "headline": "Highly profitable rental company with strong price momentum, but carries heavy debt"
-  },
-  {
-   "symbol": "VRTX",
-   "name": "Vertex Pharmaceuticals",
-   "sector": "Healthcare",
-   "score": 76.4,
-   "tier": "Top rated",
-   "read": "bull",
-   "trend": "Strong uptrend",
-   "ret_1y": 0.2642,
-   "pe": 34.85,
-   "div_yield": null,
-   "headline": "Profitable biotech racing upward on strong cash generation and analyst backing"
   },
   {
    "symbol": "COP",
@@ -468,6 +455,19 @@
    "pe": 13.76,
    "div_yield": 0.0399,
    "headline": "Oil giant with strong cash generation, high valuation, and analyst backing"
+  },
+  {
+   "symbol": "VRTX",
+   "name": "Vertex Pharmaceuticals",
+   "sector": "Healthcare",
+   "score": 76.1,
+   "tier": "Top rated",
+   "read": "bull",
+   "trend": "Strong uptrend",
+   "ret_1y": 0.2642,
+   "pe": 34.85,
+   "div_yield": null,
+   "headline": "Profitable biotech racing upward on strong cash generation and analyst backing"
   },
   {
    "symbol": "MUFG",
@@ -509,19 +509,6 @@
    "headline": "Railroad operator trading near 52-week highs with solid cash generation but pricey valuation"
   },
   {
-   "symbol": "WDC",
-   "name": "Western Digital",
-   "sector": "Technology",
-   "score": 75.8,
-   "tier": "Top rated",
-   "read": "neut",
-   "trend": "Downtrend",
-   "ret_1y": 0.8308,
-   "pe": 10.74,
-   "div_yield": 0.0019,
-   "headline": "Strong profits and cash flow face near-term price decline and high volatility"
-  },
-  {
    "symbol": "PSX",
    "name": "Phillips 66",
    "sector": "Energy",
@@ -533,6 +520,19 @@
    "pe": 7.85,
    "div_yield": 0.0354,
    "headline": "Energy refiner riding oil prices up, but long-term revenue trend is down"
+  },
+  {
+   "symbol": "WDC",
+   "name": "Western Digital",
+   "sector": "Technology",
+   "score": 75.7,
+   "tier": "Top rated",
+   "read": "neut",
+   "trend": "Downtrend",
+   "ret_1y": 0.8308,
+   "pe": 10.74,
+   "div_yield": 0.0019,
+   "headline": "Strong profits and cash flow face near-term price decline and high volatility"
   },
   {
    "symbol": "ALL",
@@ -548,19 +548,6 @@
    "headline": "Insurer trading cheap with strong profits but growth hitting the brakes"
   },
   {
-   "symbol": "RCL",
-   "name": "Royal Caribbean Group",
-   "sector": "Consumer Cyclical",
-   "score": 75.4,
-   "tier": "Top rated",
-   "read": "bull",
-   "trend": "Turning up",
-   "ret_1y": 0.2217,
-   "pe": 20.06,
-   "div_yield": 0.0148,
-   "headline": "Cruise operator firing on cylinders: 27% revenue growth, 36% ROE, but pricey at 20x earnings"
-  },
-  {
    "symbol": "CBOE",
    "name": "Cboe Global Markets",
    "sector": "Financial Services",
@@ -572,32 +559,6 @@
    "pe": 27.35,
    "div_yield": 0.0122,
    "headline": "Exchange operator at 52-week high with strong growth but pricey valuation"
-  },
-  {
-   "symbol": "RL",
-   "name": "Ralph Lauren Corporation",
-   "sector": "Consumer Cyclical",
-   "score": 75.2,
-   "tier": "Top rated",
-   "read": "bull",
-   "trend": "Turning up",
-   "ret_1y": 0.1708,
-   "pe": 22.22,
-   "div_yield": 0.0241,
-   "headline": "Ralph Lauren shows strong profit and cash generation; valuation near historical norms"
-  },
-  {
-   "symbol": "TWLO",
-   "name": "Twilio Inc.",
-   "sector": "Technology",
-   "score": 75.1,
-   "tier": "Top rated",
-   "read": "bull",
-   "trend": "Pullback in uptrend",
-   "ret_1y": 0.6244,
-   "pe": 25.13,
-   "div_yield": null,
-   "headline": "Fast-growing cloud platform with solid cash generation but thin profits"
   },
   {
    "symbol": "MFG",
@@ -639,17 +600,17 @@
    "headline": "Profitable software firm at all-time high with recent revenue slowdown"
   },
   {
-   "symbol": "RMD",
-   "name": "ResMed",
-   "sector": "Healthcare",
+   "symbol": "RL",
+   "name": "Ralph Lauren Corporation",
+   "sector": "Consumer Cyclical",
    "score": 75.0,
    "tier": "Strong",
    "read": "bull",
-   "trend": "Strong uptrend",
-   "ret_1y": -0.0536,
-   "pe": 20.71,
-   "div_yield": 0.0125,
-   "headline": "Highly profitable healthcare company in uptrend, but growth is slowing and analysts are cautious"
+   "trend": "Turning up",
+   "ret_1y": 0.1708,
+   "pe": 22.22,
+   "div_yield": 0.0241,
+   "headline": "Luxury apparel maker showing strong profit and cash generation with analyst consensus buy"
   },
   {
    "symbol": "QCOM",
@@ -663,6 +624,32 @@
    "pe": 13.64,
    "div_yield": 0.025,
    "headline": "Qualcomm: Highly profitable chip designer faces revenue headwinds, but shareholder-friendly and cheap"
+  },
+  {
+   "symbol": "RMD",
+   "name": "ResMed",
+   "sector": "Healthcare",
+   "score": 74.9,
+   "tier": "Strong",
+   "read": "bull",
+   "trend": "Strong uptrend",
+   "ret_1y": -0.0536,
+   "pe": 20.71,
+   "div_yield": 0.0125,
+   "headline": "Highly profitable healthcare company in uptrend, but growth is slowing and analysts are cautious"
+  },
+  {
+   "symbol": "TWLO",
+   "name": "Twilio Inc.",
+   "sector": "Technology",
+   "score": 74.9,
+   "tier": "Strong",
+   "read": "bull",
+   "trend": "Pullback in uptrend",
+   "ret_1y": 0.6244,
+   "pe": 25.13,
+   "div_yield": null,
+   "headline": "Fast-growing software company with strong cash, thin profits, and recent sharp pullback"
   },
   {
    "symbol": "ACN",
@@ -704,6 +691,19 @@
    "headline": "Strong growth but pricey; tech earnings surging while stock loses recent momentum"
   },
   {
+   "symbol": "RCL",
+   "name": "Royal Caribbean Group",
+   "sector": "Consumer Cyclical",
+   "score": 74.7,
+   "tier": "Strong",
+   "read": "bull",
+   "trend": "Turning up",
+   "ret_1y": 0.2217,
+   "pe": 20.06,
+   "div_yield": 0.0148,
+   "headline": "Cruise operator shows strong growth and profitability, but trades at a premium valuation"
+  },
+  {
    "symbol": "MCO",
    "name": "Moody's Corporation",
    "sector": "Financial Services",
@@ -728,19 +728,6 @@
    "pe": 12.63,
    "div_yield": 0.0327,
    "headline": "Insurance giant near 52-week high with strong cash generation but earnings declined"
-  },
-  {
-   "symbol": "VEEV",
-   "name": "Veeva Systems Inc.",
-   "sector": "Healthcare",
-   "score": 74.6,
-   "tier": "Strong",
-   "read": "bull",
-   "trend": "Strong uptrend",
-   "ret_1y": 0.0111,
-   "pe": 48.39,
-   "div_yield": null,
-   "headline": "Veeva trades at a premium while growing revenue steadily and holding strong cash"
   },
   {
    "symbol": "AAPL",
@@ -782,6 +769,19 @@
    "headline": "Energy refiner with strong cash generation but volatile earnings tied to oil prices"
   },
   {
+   "symbol": "VEEV",
+   "name": "Veeva Systems Inc.",
+   "sector": "Healthcare",
+   "score": 74.5,
+   "tier": "Strong",
+   "read": "bull",
+   "trend": "Strong uptrend",
+   "ret_1y": 0.0111,
+   "pe": 48.39,
+   "div_yield": null,
+   "headline": "Veeva trades at a premium while growing revenue steadily and holding strong cash"
+  },
+  {
    "symbol": "ONC",
    "name": "BeOne Medicines AG",
    "sector": "Healthcare",
@@ -808,17 +808,17 @@
    "headline": "Medical distributor hitting 52-week highs with strong cash generation but thin margins"
   },
   {
-   "symbol": "STX",
-   "name": "Seagate Technology",
-   "sector": "Technology",
+   "symbol": "SPGI",
+   "name": "S&P Global",
+   "sector": "Financial Services",
    "score": 74.3,
    "tier": "Strong",
    "read": "bull",
-   "trend": "Losing steam",
-   "ret_1y": 0.8928,
-   "pe": 26.43,
-   "div_yield": 0.0368,
-   "headline": "Storage giant with strong profits and growth, but stock price has fallen sharply this year"
+   "trend": "Strong uptrend",
+   "ret_1y": -0.0051,
+   "pe": 27.42,
+   "div_yield": 0.0087,
+   "headline": "Profitable data company with strong cash generation trading at a premium"
   },
   {
    "symbol": "AMP",
@@ -834,6 +834,19 @@
    "headline": "Profitable financial firm with strong cash generation and cheap valuation"
   },
   {
+   "symbol": "STX",
+   "name": "Seagate Technology",
+   "sector": "Technology",
+   "score": 74.2,
+   "tier": "Strong",
+   "read": "bull",
+   "trend": "Losing steam",
+   "ret_1y": 0.8928,
+   "pe": 26.43,
+   "div_yield": 0.0368,
+   "headline": "Storage giant with strong profits and growth, but stock price has fallen sharply this year"
+  },
+  {
    "symbol": "AER",
    "name": "AerCap Holdings N.V.",
    "sector": "Industrials",
@@ -845,19 +858,6 @@
    "pe": 8.67,
    "div_yield": 0.0087,
    "headline": "Aircraft leasing company trades cheap with strong cash generation but heavy debt load"
-  },
-  {
-   "symbol": "SPOT",
-   "name": "Spotify Technology S.A.",
-   "sector": "Communication Services",
-   "score": 74.0,
-   "tier": "Strong",
-   "read": "bull",
-   "trend": "Strong uptrend",
-   "ret_1y": -0.0642,
-   "pe": 33.01,
-   "div_yield": null,
-   "headline": "Streaming leader with strong cash generation but pricy valuation"
   },
   {
    "symbol": "CPAY",
@@ -899,32 +899,6 @@
    "headline": "Peruvian bank holding company with strong price momentum and 5.3% dividend yield"
   },
   {
-   "symbol": "RY",
-   "name": "Royal Bank of Canada",
-   "sector": "Financial Services",
-   "score": 73.8,
-   "tier": "Strong",
-   "read": "bull",
-   "trend": "Uptrend",
-   "ret_1y": 0.3718,
-   "pe": 17.58,
-   "div_yield": 0.0454,
-   "headline": "Strong Canadian bank with solid profits, steady dividend, and upward price momentum"
-  },
-  {
-   "symbol": "SPGI",
-   "name": "S&P Global",
-   "sector": "Financial Services",
-   "score": 73.7,
-   "tier": "Strong",
-   "read": "bull",
-   "trend": "Strong uptrend",
-   "ret_1y": -0.0051,
-   "pe": 27.42,
-   "div_yield": 0.0087,
-   "headline": "Profitable data company with strong cash generation trading at a premium"
-  },
-  {
    "symbol": "ANET",
    "name": "Arista Networks",
    "sector": "Technology",
@@ -938,17 +912,30 @@
    "headline": "Fast-growing networking company generates cash but trades at a steep valuation"
   },
   {
-   "symbol": "ULTA",
-   "name": "Ulta Beauty",
-   "sector": "Consumer Cyclical",
+   "symbol": "RY",
+   "name": "Royal Bank of Canada",
+   "sector": "Financial Services",
+   "score": 73.6,
+   "tier": "Strong",
+   "read": "bull",
+   "trend": "Uptrend",
+   "ret_1y": 0.3718,
+   "pe": 17.58,
+   "div_yield": 0.0454,
+   "headline": "Strong Canadian bank with solid profits, steady dividend, and upward price momentum"
+  },
+  {
+   "symbol": "SPOT",
+   "name": "Spotify Technology S.A.",
+   "sector": "Communication Services",
    "score": 73.6,
    "tier": "Strong",
    "read": "bull",
    "trend": "Strong uptrend",
-   "ret_1y": 0.2451,
-   "pe": 23.34,
-   "div_yield": 0.0022,
-   "headline": "Strong uptrend with solid profits, but valuation and growth rate worth watching"
+   "ret_1y": -0.0642,
+   "pe": 33.01,
+   "div_yield": null,
+   "headline": "Streaming leader with strong cash generation but pricy valuation"
   },
   {
    "symbol": "ICE",
@@ -990,6 +977,19 @@
    "headline": "Strong profit machine with steep price tag; analysts split on value"
   },
   {
+   "symbol": "ULTA",
+   "name": "Ulta Beauty",
+   "sector": "Consumer Cyclical",
+   "score": 73.2,
+   "tier": "Strong",
+   "read": "bull",
+   "trend": "Strong uptrend",
+   "ret_1y": 0.2451,
+   "pe": 23.34,
+   "div_yield": 0.0022,
+   "headline": "Strong uptrend with solid profits, but valuation and growth rate worth watching"
+  },
+  {
    "symbol": "DRI",
    "name": "Darden Restaurants",
    "sector": "Consumer Cyclical",
@@ -1027,19 +1027,6 @@
    "pe": 11.03,
    "div_yield": 0.056,
    "headline": "Spanish bank trading cheaply with strong cash generation, but facing analyst skepticism"
-  },
-  {
-   "symbol": "ROST",
-   "name": "Ross Stores",
-   "sector": "Consumer Cyclical",
-   "score": 72.8,
-   "tier": "Strong",
-   "read": "bull",
-   "trend": "Uptrend",
-   "ret_1y": 0.4579,
-   "pe": 28.42,
-   "div_yield": 0.0102,
-   "headline": "Discount retailer riding strong price momentum with solid cash generation and buybacks"
   },
   {
    "symbol": "ARGX",
@@ -1107,6 +1094,32 @@
    "headline": "Healthcare insurer with strong cash generation trades cheaply as profits stay thin"
   },
   {
+   "symbol": "ROST",
+   "name": "Ross Stores",
+   "sector": "Consumer Cyclical",
+   "score": 72.6,
+   "tier": "Strong",
+   "read": "bull",
+   "trend": "Uptrend",
+   "ret_1y": 0.4579,
+   "pe": 28.42,
+   "div_yield": 0.0102,
+   "headline": "Discount retailer riding strong price momentum with solid cash generation and buybacks"
+  },
+  {
+   "symbol": "TRV",
+   "name": "Travelers Companies (The)",
+   "sector": "Financial Services",
+   "score": 72.6,
+   "tier": "Strong",
+   "read": "bull",
+   "trend": "Strong uptrend",
+   "ret_1y": 0.4096,
+   "pe": 9.72,
+   "div_yield": 0.0225,
+   "headline": "Insurance giant trading near 52-week high with strong cash generation"
+  },
+  {
    "symbol": "ALLE",
    "name": "Allegion",
    "sector": "Industrials",
@@ -1120,19 +1133,6 @@
    "headline": "Security equipment maker with strong profits and buybacks, stock near 52-week high"
   },
   {
-   "symbol": "TRV",
-   "name": "Travelers Companies (The)",
-   "sector": "Financial Services",
-   "score": 72.5,
-   "tier": "Strong",
-   "read": "bull",
-   "trend": "Strong uptrend",
-   "ret_1y": 0.4096,
-   "pe": 9.72,
-   "div_yield": 0.0225,
-   "headline": "Insurance giant trading near 52-week high with strong cash generation"
-  },
-  {
    "symbol": "NTAP",
    "name": "NetApp",
    "sector": "Technology",
@@ -1144,19 +1144,6 @@
    "pe": 24.39,
    "div_yield": 0.0255,
    "headline": "Profitable hardware firm surging but analyst consensus lags rally; debt notable"
-  },
-  {
-   "symbol": "SNY",
-   "name": "Sanofi",
-   "sector": "Healthcare",
-   "score": 72.4,
-   "tier": "Strong",
-   "read": "bull",
-   "trend": "Turning up",
-   "ret_1y": -0.0625,
-   "pe": 14.74,
-   "div_yield": 0.0412,
-   "headline": "Sanofi shows strong earnings growth and cash generation with modest valuation"
   },
   {
    "symbol": "AZN",
@@ -1198,6 +1185,19 @@
    "headline": "Mexican beverage bottler growing revenue fast, but profits are thin"
   },
   {
+   "symbol": "SNY",
+   "name": "Sanofi",
+   "sector": "Healthcare",
+   "score": 72.3,
+   "tier": "Strong",
+   "read": "bull",
+   "trend": "Turning up",
+   "ret_1y": -0.0625,
+   "pe": 14.74,
+   "div_yield": 0.0412,
+   "headline": "Sanofi shows strong earnings growth and cash generation with modest valuation"
+  },
+  {
    "symbol": "P",
    "name": "Everpure, Inc.",
    "sector": "Technology",
@@ -1209,6 +1209,19 @@
    "pe": 137.65,
    "div_yield": null,
    "headline": "Strong growth and cash generation offset stretched valuation and recent sharp pullback"
+  },
+  {
+   "symbol": "ROP",
+   "name": "Roper Technologies",
+   "sector": "Industrials",
+   "score": 72.2,
+   "tier": "Strong",
+   "read": "bull",
+   "trend": "Strong uptrend",
+   "ret_1y": 0.0781,
+   "pe": 18.05,
+   "div_yield": 0.0057,
+   "headline": "Strong uptrend and cash generation tempered by slowing growth and analyst caution"
   },
   {
    "symbol": "CTAS",
@@ -1235,19 +1248,6 @@
    "pe": 40.49,
    "div_yield": 0.01,
    "headline": "Marriott rides strong momentum but trades at premium valuation"
-  },
-  {
-   "symbol": "ROP",
-   "name": "Roper Technologies",
-   "sector": "Industrials",
-   "score": 72.1,
-   "tier": "Strong",
-   "read": "bull",
-   "trend": "Strong uptrend",
-   "ret_1y": 0.0781,
-   "pe": 18.05,
-   "div_yield": 0.0057,
-   "headline": "Strong uptrend and cash generation tempered by slowing growth and analyst caution"
   },
   {
    "symbol": "BUD",
@@ -1300,6 +1300,19 @@
    "pe": 12.38,
    "div_yield": 0.0152,
    "headline": "Strong momentum and cheap valuation mask slowing revenue growth"
+  },
+  {
+   "symbol": "SPG",
+   "name": "Simon Property Group",
+   "sector": "Real Estate",
+   "score": 71.9,
+   "tier": "Strong",
+   "read": "bull",
+   "trend": "Strong uptrend",
+   "ret_1y": 0.2628,
+   "pe": 16.62,
+   "div_yield": 0.0629,
+   "headline": "Strong profits and high yields mask heavy debt burden in retail REIT"
   },
   {
    "symbol": "NVS",
@@ -1458,19 +1471,6 @@
    "headline": "Discount retailer with strong price momentum and cash generation, modest growth ahead"
   },
   {
-   "symbol": "WSM",
-   "name": "Williams-Sonoma",
-   "sector": "Consumer Cyclical",
-   "score": 71.3,
-   "tier": "Strong",
-   "read": "bull",
-   "trend": "Strong uptrend",
-   "ret_1y": 0.3075,
-   "pe": 25.38,
-   "div_yield": 0.0158,
-   "headline": "Home furnishings retailer with strong cash flow trades at premium valuation"
-  },
-  {
    "symbol": "AEM",
    "name": "Agnico Eagle Mines Limited",
    "sector": "Basic Materials",
@@ -1495,19 +1495,6 @@
    "pe": 26.22,
    "div_yield": 0.0243,
    "headline": "Profitable payroll giant near 52-week highs with modest growth and high valuation"
-  },
-  {
-   "symbol": "STT",
-   "name": "State Street Corporation",
-   "sector": "Financial Services",
-   "score": 71.1,
-   "tier": "Strong",
-   "read": "bull",
-   "trend": "Pullback in uptrend",
-   "ret_1y": 0.4544,
-   "pe": 12.62,
-   "div_yield": 0.0392,
-   "headline": "State Street shows strong momentum but trades near 52-week highs after 45% year rally"
   },
   {
    "symbol": "BTI",
@@ -1562,6 +1549,19 @@
    "headline": "Profitable diagnostics leader posts strong cash flow but faces valuation and near-term price pressure"
   },
   {
+   "symbol": "STT",
+   "name": "State Street Corporation",
+   "sector": "Financial Services",
+   "score": 71.0,
+   "tier": "Strong",
+   "read": "bull",
+   "trend": "Pullback in uptrend",
+   "ret_1y": 0.4544,
+   "pe": 12.62,
+   "div_yield": 0.0392,
+   "headline": "State Street shows strong momentum but trades near 52-week highs after 45% year rally"
+  },
+  {
    "symbol": "SAP",
    "name": "SAP SE",
    "sector": "Technology",
@@ -1601,10 +1601,36 @@
    "headline": "Chip equipment maker shows strong profits but stock down sharply from peak"
   },
   {
+   "symbol": "TEAM",
+   "name": "Atlassian Corporation",
+   "sector": "Technology",
+   "score": 70.7,
+   "tier": "Strong",
+   "read": "bull",
+   "trend": "Pullback in uptrend",
+   "ret_1y": -0.0333,
+   "pe": 447.91,
+   "div_yield": null,
+   "headline": "Fast-growing software firm is unprofitable but generates cash; stock down sharply"
+  },
+  {
+   "symbol": "WSM",
+   "name": "Williams-Sonoma",
+   "sector": "Consumer Cyclical",
+   "score": 70.6,
+   "tier": "Strong",
+   "read": "bull",
+   "trend": "Strong uptrend",
+   "ret_1y": 0.3075,
+   "pe": 25.38,
+   "div_yield": 0.0158,
+   "headline": "Home furnishings retailer with strong cash flow trades at premium valuation"
+  },
+  {
    "symbol": "VLTO",
    "name": "Veralto",
    "sector": "Industrials",
-   "score": 70.7,
+   "score": 70.5,
    "tier": "Strong",
    "read": "bull",
    "trend": "Strong uptrend",
@@ -1617,7 +1643,7 @@
    "symbol": "WELL",
    "name": "Welltower",
    "sector": "Real Estate",
-   "score": 70.7,
+   "score": 70.5,
    "tier": "Strong",
    "read": "bull",
    "trend": "Strong uptrend",
@@ -1625,32 +1651,6 @@
    "pe": 108.41,
    "div_yield": 0.0121,
    "headline": "WELL: Strong price momentum and revenue growth offset expensive valuation and weak returns"
-  },
-  {
-   "symbol": "TEAM",
-   "name": "Atlassian Corporation",
-   "sector": "Technology",
-   "score": 70.6,
-   "tier": "Strong",
-   "read": "bull",
-   "trend": "Pullback in uptrend",
-   "ret_1y": -0.0333,
-   "pe": 447.91,
-   "div_yield": null,
-   "headline": "Fast-growing software firm is unprofitable but generates cash; stock down sharply"
-  },
-  {
-   "symbol": "TS",
-   "name": "Tenaris S.A.",
-   "sector": "Energy",
-   "score": 70.5,
-   "tier": "Strong",
-   "read": "bull",
-   "trend": "Strong uptrend",
-   "ret_1y": 0.4763,
-   "pe": 15.83,
-   "div_yield": 0.0317,
-   "headline": "Strong cash generator in energy services, but growth has stalled"
   },
   {
    "symbol": "IDXX",
@@ -1666,17 +1666,30 @@
    "headline": "Profitable diagnostics company trades expensively but shows strong cash generation"
   },
   {
-   "symbol": "USB",
-   "name": "U.S. Bancorp",
-   "sector": "Financial Services",
+   "symbol": "UNP",
+   "name": "Union Pacific Corporation",
+   "sector": "Industrials",
    "score": 70.4,
    "tier": "Strong",
    "read": "bull",
    "trend": "Uptrend",
-   "ret_1y": 0.2698,
-   "pe": 11.34,
-   "div_yield": 0.0516,
-   "headline": "Regional bank trading near 52-week high with steady profits and 5.2% yield"
+   "ret_1y": 0.3532,
+   "pe": 23.0,
+   "div_yield": 0.0232,
+   "headline": "Profitable railroad with strong cash generation sits near 52-week highs"
+  },
+  {
+   "symbol": "TS",
+   "name": "Tenaris S.A.",
+   "sector": "Energy",
+   "score": 70.4,
+   "tier": "Strong",
+   "read": "bull",
+   "trend": "Strong uptrend",
+   "ret_1y": 0.4763,
+   "pe": 15.83,
+   "div_yield": 0.0317,
+   "headline": "Strong cash generator in energy services, but growth has stalled"
   },
   {
    "symbol": "BR",
@@ -1705,17 +1718,17 @@
    "headline": "Profitable tobacco giant with strong cash flow, but extreme leverage raises stability questions"
   },
   {
-   "symbol": "UNP",
-   "name": "Union Pacific Corporation",
-   "sector": "Industrials",
+   "symbol": "USB",
+   "name": "U.S. Bancorp",
+   "sector": "Financial Services",
    "score": 70.3,
    "tier": "Strong",
    "read": "bull",
    "trend": "Uptrend",
-   "ret_1y": 0.3532,
-   "pe": 23.0,
-   "div_yield": 0.0232,
-   "headline": "Profitable railroad with strong cash generation sits near 52-week highs"
+   "ret_1y": 0.2698,
+   "pe": 11.34,
+   "div_yield": 0.0516,
+   "headline": "Regional bank trading near 52-week high with steady profits and 5.2% yield"
   },
   {
    "symbol": "OXY",
@@ -1770,19 +1783,6 @@
    "headline": "Diagnostics leader riding strong momentum with steady cash generation"
   },
   {
-   "symbol": "SPG",
-   "name": "Simon Property Group",
-   "sector": "Real Estate",
-   "score": 70.0,
-   "tier": "Strong",
-   "read": "bull",
-   "trend": "Strong uptrend",
-   "ret_1y": 0.2628,
-   "pe": 16.62,
-   "div_yield": 0.0629,
-   "headline": "Strong profits and high yields mask heavy debt burden in retail REIT"
-  },
-  {
    "symbol": "DVN",
    "name": "Devon Energy",
    "sector": "Energy",
@@ -1822,19 +1822,6 @@
    "headline": "Mature household goods giant at peak price with steady cash but slowing growth"
   },
   {
-   "symbol": "SONY",
-   "name": "Sony Group Corporation",
-   "sector": "Technology",
-   "score": 69.9,
-   "tier": "Strong",
-   "read": "bull",
-   "trend": "Strong uptrend",
-   "ret_1y": -0.0857,
-   "pe": null,
-   "div_yield": 0.0061,
-   "headline": "Sony shows strong momentum but faces flat revenue and heavy share dilution"
-  },
-  {
    "symbol": "BMY",
    "name": "Bristol Myers Squibb",
    "sector": "Healthcare",
@@ -1861,32 +1848,6 @@
    "headline": "Stable household brand riding strong price momentum, but growth has slowed"
   },
   {
-   "symbol": "UHS",
-   "name": "Universal Health Services",
-   "sector": "Healthcare",
-   "score": 69.8,
-   "tier": "Strong",
-   "read": "bull",
-   "trend": "Strong uptrend",
-   "ret_1y": -0.1362,
-   "pe": 7.94,
-   "div_yield": 0.0058,
-   "headline": "Healthcare operator with steady growth, cheap valuation, but mixed analyst view"
-  },
-  {
-   "symbol": "WDAY",
-   "name": "Workday, Inc.",
-   "sector": "Technology",
-   "score": 69.8,
-   "tier": "Strong",
-   "read": "bull",
-   "trend": "Pullback in uptrend",
-   "ret_1y": -0.1601,
-   "pe": 36.54,
-   "div_yield": null,
-   "headline": "Strong growth and cash generation offset expensive valuation and analyst caution"
-  },
-  {
    "symbol": "TXN",
    "name": "Texas Instruments",
    "sector": "Technology",
@@ -1898,6 +1859,32 @@
    "pe": 37.54,
    "div_yield": 0.0339,
    "headline": "Chipmaker with strong profits and buybacks, but valuation leaves little room for error"
+  },
+  {
+   "symbol": "WDAY",
+   "name": "Workday, Inc.",
+   "sector": "Technology",
+   "score": 69.7,
+   "tier": "Strong",
+   "read": "bull",
+   "trend": "Pullback in uptrend",
+   "ret_1y": -0.1601,
+   "pe": 36.54,
+   "div_yield": null,
+   "headline": "Strong growth and cash generation offset expensive valuation and analyst caution"
+  },
+  {
+   "symbol": "SONY",
+   "name": "Sony Group Corporation",
+   "sector": "Technology",
+   "score": 69.7,
+   "tier": "Strong",
+   "read": "bull",
+   "trend": "Strong uptrend",
+   "ret_1y": -0.0857,
+   "pe": null,
+   "div_yield": 0.0061,
+   "headline": "Sony shows strong momentum but faces flat revenue and heavy share dilution"
   },
   {
    "symbol": "LH",
@@ -1939,17 +1926,17 @@
    "headline": "Strong uptrend and solid cash generation, but valuation is stretched at 32x earnings"
   },
   {
-   "symbol": "WAT",
-   "name": "Waters Corporation",
+   "symbol": "UHS",
+   "name": "Universal Health Services",
    "sector": "Healthcare",
    "score": 69.5,
    "tier": "Strong",
    "read": "bull",
    "trend": "Strong uptrend",
-   "ret_1y": 0.197,
-   "pe": 276.16,
-   "div_yield": null,
-   "headline": "Waters trades at historic high after latest quarter revenue jumped 121%"
+   "ret_1y": -0.1362,
+   "pe": 7.94,
+   "div_yield": 0.0058,
+   "headline": "Healthcare operator with steady growth, cheap valuation, but mixed analyst view"
   },
   {
    "symbol": "B",
@@ -1975,7 +1962,7 @@
    "ret_1y": 0.3847,
    "pe": 15.36,
    "div_yield": 0.0417,
-   "headline": "Energy giant with strong cash returns but slowing revenue growth"
+   "headline": "Oil giant with strong cash generation, weak earnings growth, and rising shareholder payouts"
   },
   {
    "symbol": "PYPL",
@@ -2043,17 +2030,17 @@
    "headline": "Insurance broker with strong profits and buybacks faces slowing earnings growth"
   },
   {
-   "symbol": "VIK",
-   "name": "Viking Holdings Ltd",
-   "sector": "Consumer Cyclical",
+   "symbol": "WAT",
+   "name": "Waters Corporation",
+   "sector": "Healthcare",
    "score": 69.0,
    "tier": "Strong",
    "read": "bull",
-   "trend": "Turning up",
-   "ret_1y": 0.4801,
-   "pe": 29.05,
+   "trend": "Strong uptrend",
+   "ret_1y": 0.197,
+   "pe": 276.16,
    "div_yield": null,
-   "headline": "Cruise operator with strong growth and cash flow, but heavy debt load and stock dilution"
+   "headline": "Waters trades at historic high after latest quarter revenue jumped 121%"
   },
   {
    "symbol": "ISRG",
@@ -2069,30 +2056,17 @@
    "headline": "Surgical robotics leader growing fast but priced for perfection"
   },
   {
-   "symbol": "WAB",
-   "name": "Wabtec",
-   "sector": "Industrials",
+   "symbol": "VIK",
+   "name": "Viking Holdings Ltd",
+   "sector": "Consumer Cyclical",
    "score": 68.9,
    "tier": "Strong",
    "read": "bull",
-   "trend": "Uptrend",
-   "ret_1y": 0.4452,
-   "pe": 34.79,
-   "div_yield": 0.0058,
-   "headline": "Rail equipment maker on uptrend with strong cash but pricey valuation"
-  },
-  {
-   "symbol": "UBS",
-   "name": "UBS Group AG",
-   "sector": "Financial Services",
-   "score": 68.9,
-   "tier": "Strong",
-   "read": "bull",
-   "trend": "Pullback in uptrend",
-   "ret_1y": 0.2427,
-   "pe": 16.84,
-   "div_yield": 0.0216,
-   "headline": "Swiss banking giant with strong cash generation and shareholder buybacks"
+   "trend": "Turning up",
+   "ret_1y": 0.4801,
+   "pe": 29.05,
+   "div_yield": null,
+   "headline": "Cruise operator with strong growth and cash flow, but heavy debt load and stock dilution"
   },
   {
    "symbol": "A",
@@ -2132,6 +2106,19 @@
    "pe": 15.16,
    "div_yield": 0.003,
    "headline": "Tech giant with strong earnings growth but stock down 28% from peak"
+  },
+  {
+   "symbol": "WAB",
+   "name": "Wabtec",
+   "sector": "Industrials",
+   "score": 68.8,
+   "tier": "Strong",
+   "read": "bull",
+   "trend": "Uptrend",
+   "ret_1y": 0.4452,
+   "pe": 34.79,
+   "div_yield": 0.0058,
+   "headline": "Rail equipment maker on uptrend with strong cash but pricey valuation"
   },
   {
    "symbol": "CRWD",
@@ -2199,6 +2186,19 @@
    "headline": "Energy giant trading cheap with strong cash returns, but revenue shrinking"
   },
   {
+   "symbol": "VLO",
+   "name": "Valero Energy",
+   "sector": "Energy",
+   "score": 68.5,
+   "tier": "Strong",
+   "read": "bull",
+   "trend": "Pullback in uptrend",
+   "ret_1y": 1.0732,
+   "pe": 7.67,
+   "div_yield": 0.0327,
+   "headline": "Refiner riding oil rally but growth is murky and profits are thin"
+  },
+  {
    "symbol": "FIX",
    "name": "Comfort Systems USA, Inc.",
    "sector": "Industrials",
@@ -2212,17 +2212,17 @@
    "headline": "Profitable industrial company with sharp earnings growth, but price has fallen sharply"
   },
   {
-   "symbol": "VLO",
-   "name": "Valero Energy",
-   "sector": "Energy",
+   "symbol": "UBS",
+   "name": "UBS Group AG",
+   "sector": "Financial Services",
    "score": 68.4,
    "tier": "Strong",
    "read": "bull",
    "trend": "Pullback in uptrend",
-   "ret_1y": 1.0732,
-   "pe": 7.67,
-   "div_yield": 0.0327,
-   "headline": "Refiner riding oil rally but growth is murky and profits are thin"
+   "ret_1y": 0.2427,
+   "pe": 16.84,
+   "div_yield": 0.0216,
+   "headline": "Swiss banking giant with strong cash generation and shareholder buybacks"
   },
   {
    "symbol": "CSX",
@@ -2249,19 +2249,6 @@
    "pe": 15.97,
    "div_yield": null,
    "headline": "Dollar Tree stock up 29% in a year; solid cash flow but growth slowing"
-  },
-  {
-   "symbol": "RACE",
-   "name": "Ferrari N.V.",
-   "sector": "Consumer Cyclical",
-   "score": 68.3,
-   "tier": "Strong",
-   "read": "bull",
-   "trend": "Uptrend",
-   "ret_1y": -0.0402,
-   "pe": 40.34,
-   "div_yield": 0.0054,
-   "headline": "Luxury automaker with fortress profitability trades at premium valuation"
   },
   {
    "symbol": "AME",
@@ -2394,19 +2381,6 @@
    "headline": "Merck trades near 52-week highs with strong profits but stretched valuation"
   },
   {
-   "symbol": "TFC",
-   "name": "Truist Financial",
-   "sector": "Financial Services",
-   "score": 67.6,
-   "tier": "Strong",
-   "read": "bull",
-   "trend": "Turning up",
-   "ret_1y": 0.1011,
-   "pe": 11.75,
-   "div_yield": 0.0654,
-   "headline": "Regional bank with strong cash generation and high dividend yield, but modest profit margins"
-  },
-  {
    "symbol": "MT",
    "name": "ArcelorMittal S.A.",
    "sector": "Basic Materials",
@@ -2420,17 +2394,17 @@
    "headline": "Steel giant with strong cash generation sits near 52-week high after 67% annual gain"
   },
   {
-   "symbol": "TYL",
-   "name": "Tyler Technologies",
-   "sector": "Technology",
-   "score": 67.5,
+   "symbol": "RACE",
+   "name": "Ferrari N.V.",
+   "sector": "Consumer Cyclical",
+   "score": 67.6,
    "tier": "Strong",
    "read": "bull",
-   "trend": "Strong uptrend",
-   "ret_1y": -0.0987,
-   "pe": 49.37,
-   "div_yield": null,
-   "headline": "Profitable software firm with strong analyst backing, but expensive valuation"
+   "trend": "Uptrend",
+   "ret_1y": -0.0402,
+   "pe": 40.34,
+   "div_yield": 0.0054,
+   "headline": "Luxury automaker with fortress profitability trades at premium valuation"
   },
   {
    "symbol": "AON",
@@ -2485,17 +2459,43 @@
    "headline": "Profitable payroll giant with strong cash flow, but growth is slowing and debt is rising"
   },
   {
-   "symbol": "RELX",
-   "name": "RELX Plc",
-   "sector": "Industrials",
+   "symbol": "TFC",
+   "name": "Truist Financial",
+   "sector": "Financial Services",
+   "score": 67.4,
+   "tier": "Strong",
+   "read": "bull",
+   "trend": "Turning up",
+   "ret_1y": 0.1011,
+   "pe": 11.75,
+   "div_yield": 0.0654,
+   "headline": "Regional bank with strong cash generation and high dividend yield, but modest profit margins"
+  },
+  {
+   "symbol": "TYL",
+   "name": "Tyler Technologies",
+   "sector": "Technology",
    "score": 67.4,
    "tier": "Strong",
    "read": "bull",
    "trend": "Strong uptrend",
-   "ret_1y": -0.0574,
-   "pe": 22.81,
-   "div_yield": 0.0183,
-   "headline": "Highly profitable UK business services firm with strong cash generation and buybacks"
+   "ret_1y": -0.0987,
+   "pe": 49.37,
+   "div_yield": null,
+   "headline": "Profitable software firm with strong analyst backing, but expensive valuation"
+  },
+  {
+   "symbol": "WM",
+   "name": "Waste Management",
+   "sector": "Industrials",
+   "score": 67.4,
+   "tier": "Strong",
+   "read": "bull",
+   "trend": "Turning up",
+   "ret_1y": 0.2009,
+   "pe": 30.44,
+   "div_yield": 0.0166,
+   "headline": "Steady waste hauler trades premium for profits and buybacks"
   },
   {
    "symbol": "AMCR",
@@ -2508,7 +2508,7 @@
    "ret_1y": 0.0355,
    "pe": 19.22,
    "div_yield": 0.0534,
-   "headline": "Packaging company with strong revenue growth but thin profits and rising share count"
+   "headline": "Packaging company with strong revenue growth but thin profits and heavy share dilution"
   },
   {
    "symbol": "APP",
@@ -2524,23 +2524,23 @@
    "headline": "Fast-growing software firm profitable now, but stock fell 37% in a year"
   },
   {
-   "symbol": "STE",
-   "name": "Steris",
-   "sector": "Healthcare",
+   "symbol": "RELX",
+   "name": "RELX Plc",
+   "sector": "Industrials",
    "score": 67.3,
    "tier": "Strong",
    "read": "bull",
-   "trend": "Turning up",
-   "ret_1y": -0.0497,
-   "pe": 30.85,
-   "div_yield": 0.0102,
-   "headline": "Medical device maker with steady growth and strong balance sheet, but expensive valuation"
+   "trend": "Strong uptrend",
+   "ret_1y": -0.0574,
+   "pe": 22.81,
+   "div_yield": 0.0183,
+   "headline": "Highly profitable UK business services firm with strong cash generation and buybacks"
   },
   {
    "symbol": "TTE",
    "name": "TotalEnergies SE",
    "sector": "Energy",
-   "score": 67.1,
+   "score": 67.3,
    "tier": "Strong",
    "read": "bull",
    "trend": "Pullback in uptrend",
@@ -2576,23 +2576,23 @@
    "headline": "Semiconductor maker with strong cash generation but historically high valuation"
   },
   {
-   "symbol": "WM",
-   "name": "Waste Management",
-   "sector": "Industrials",
+   "symbol": "STE",
+   "name": "Steris",
+   "sector": "Healthcare",
    "score": 67.0,
    "tier": "Strong",
    "read": "bull",
    "trend": "Turning up",
-   "ret_1y": 0.2009,
-   "pe": 30.44,
-   "div_yield": 0.0166,
-   "headline": "Steady waste hauler trades premium for profits and buybacks"
+   "ret_1y": -0.0497,
+   "pe": 30.85,
+   "div_yield": 0.0102,
+   "headline": "Medical device maker with steady growth and strong balance sheet, but expensive valuation"
   },
   {
    "symbol": "TRGP",
    "name": "Targa Resources",
    "sector": "Energy",
-   "score": 66.9,
+   "score": 67.0,
    "tier": "Strong",
    "read": "bull",
    "trend": "Strong uptrend",
@@ -2654,19 +2654,6 @@
    "headline": "Retail REIT with strong cash generation and 5% dividend, but slow growth"
   },
   {
-   "symbol": "RJF",
-   "name": "Raymond James Financial",
-   "sector": "Financial Services",
-   "score": 66.8,
-   "tier": "Strong",
-   "read": "bull",
-   "trend": "Uptrend",
-   "ret_1y": 0.0231,
-   "pe": 13.61,
-   "div_yield": 0.0159,
-   "headline": "Financial services firm growing steadily with strong cash generation and cheap valuation"
-  },
-  {
    "symbol": "ECL",
    "name": "Ecolab",
    "sector": "Basic Materials",
@@ -2691,6 +2678,19 @@
    "pe": 13.28,
    "div_yield": 0.0171,
    "headline": "Fox trades cheap with steady cash generation, but earnings just fell 22%"
+  },
+  {
+   "symbol": "RJF",
+   "name": "Raymond James Financial",
+   "sector": "Financial Services",
+   "score": 66.7,
+   "tier": "Strong",
+   "read": "bull",
+   "trend": "Uptrend",
+   "ret_1y": 0.0231,
+   "pe": 13.61,
+   "div_yield": 0.0159,
+   "headline": "Financial services firm growing steadily with strong cash generation and cheap valuation"
   },
   {
    "symbol": "ALAB",
@@ -2743,19 +2743,6 @@
    "pe": 13.28,
    "div_yield": 0.0171,
    "headline": "FOX trades cheap with stable cash flow, but earnings fell while revenue grew"
-  },
-  {
-   "symbol": "TMO",
-   "name": "Thermo Fisher Scientific",
-   "sector": "Healthcare",
-   "score": 66.6,
-   "tier": "Strong",
-   "read": "bull",
-   "trend": "Strong uptrend",
-   "ret_1y": 0.1926,
-   "pe": 36.63,
-   "div_yield": 0.0029,
-   "headline": "TMO near 52-week high with strong momentum but trading at premium valuation"
   },
   {
    "symbol": "HDB",
@@ -2862,19 +2849,6 @@
    "headline": "Semiconductor leader posting strong growth and profits, but valuation and recent price drop raise questions"
   },
   {
-   "symbol": "TCOM",
-   "name": "Trip.com Group Limited",
-   "sector": "Consumer Cyclical",
-   "score": 66.2,
-   "tier": "Strong",
-   "read": "neut",
-   "trend": "Downtrend, bouncing",
-   "ret_1y": -0.4151,
-   "pe": 7.88,
-   "div_yield": 0.0009,
-   "headline": "Travel platform with strong profits and growth, but stock down 37% in a year"
-  },
-  {
    "symbol": "GEV",
    "name": "GE Vernova",
    "sector": "Utilities",
@@ -2914,6 +2888,19 @@
    "headline": "HSBC shows strong cash generation and buybacks, but price momentum is fading"
   },
   {
+   "symbol": "TCOM",
+   "name": "Trip.com Group Limited",
+   "sector": "Consumer Cyclical",
+   "score": 66.1,
+   "tier": "Strong",
+   "read": "neut",
+   "trend": "Downtrend, bouncing",
+   "ret_1y": -0.4151,
+   "pe": 7.88,
+   "div_yield": 0.0009,
+   "headline": "Travel platform with strong profits and growth, but stock down 37% in a year"
+  },
+  {
    "symbol": "ELV",
    "name": "Elevance Health",
    "sector": "Healthcare",
@@ -2938,6 +2925,19 @@
    "pe": 27.2,
    "div_yield": 0.025,
    "headline": "Profitable railroad trading at premium multiples with strong cash returns"
+  },
+  {
+   "symbol": "TMO",
+   "name": "Thermo Fisher Scientific",
+   "sector": "Healthcare",
+   "score": 66.0,
+   "tier": "Strong",
+   "read": "bull",
+   "trend": "Strong uptrend",
+   "ret_1y": 0.1926,
+   "pe": 36.63,
+   "div_yield": 0.0029,
+   "headline": "TMO near 52-week high with strong momentum but trading at premium valuation"
   },
   {
    "symbol": "BXP",
@@ -2977,6 +2977,19 @@
    "pe": 7.83,
    "div_yield": 0.0241,
    "headline": "Profitable insurer trading cheap with slowing revenue growth"
+  },
+  {
+   "symbol": "VRT",
+   "name": "Vertiv Holdings Co",
+   "sector": "Industrials",
+   "score": 65.9,
+   "tier": "Strong",
+   "read": "neut",
+   "trend": "Downtrend",
+   "ret_1y": 0.1708,
+   "pe": 36.99,
+   "div_yield": 0.0002,
+   "headline": "Fast-growing industrial company riding strong demand but expensive after recent selloff"
   },
   {
    "symbol": "GE",
@@ -3096,19 +3109,6 @@
    "headline": "Specialty chemicals maker with strong cash generation faces sluggish long-term growth"
   },
   {
-   "symbol": "VRT",
-   "name": "Vertiv Holdings Co",
-   "sector": "Industrials",
-   "score": 65.5,
-   "tier": "Strong",
-   "read": "neut",
-   "trend": "Downtrend",
-   "ret_1y": 0.1708,
-   "pe": 36.99,
-   "div_yield": 0.0002,
-   "headline": "Fast-growing industrial company riding strong demand but expensive after recent selloff"
-  },
-  {
    "symbol": "NWG",
    "name": "NatWest Group plc",
    "sector": "Financial Services",
@@ -3174,19 +3174,6 @@
    "headline": "Mature consumer staples firm with strong profits, shrinking sales, and heavy debt load"
   },
   {
-   "symbol": "SMFG",
-   "name": "Sumitomo Mitsui Financial Group, Inc.",
-   "sector": "Financial Services",
-   "score": 65.1,
-   "tier": "Strong",
-   "read": "bull",
-   "trend": "Pullback in uptrend",
-   "ret_1y": 0.4761,
-   "pe": 13.88,
-   "div_yield": 0.0351,
-   "headline": "Japanese megabank with strong price momentum but earnings fell sharply"
-  },
-  {
    "symbol": "CNC",
    "name": "Centene Corporation",
    "sector": "Healthcare",
@@ -3239,17 +3226,17 @@
    "headline": "Waste management leader showing strong price momentum but trading at premium valuation"
   },
   {
-   "symbol": "ZBH",
-   "name": "Zimmer Biomet",
-   "sector": "Healthcare",
+   "symbol": "SMFG",
+   "name": "Sumitomo Mitsui Financial Group, Inc.",
+   "sector": "Financial Services",
    "score": 64.9,
    "tier": "Strong",
    "read": "bull",
-   "trend": "Strong uptrend",
-   "ret_1y": 0.1815,
-   "pe": 26.05,
-   "div_yield": 0.0104,
-   "headline": "Medical device maker with strong price momentum but slowing earnings growth"
+   "trend": "Pullback in uptrend",
+   "ret_1y": 0.4761,
+   "pe": 13.88,
+   "div_yield": 0.0351,
+   "headline": "Japanese megabank with strong price momentum but earnings fell sharply"
   },
   {
    "symbol": "GM",
@@ -3356,19 +3343,6 @@
    "headline": "Reinsurer trading cheap while recent quarter shows revenue headwinds"
   },
   {
-   "symbol": "SWK",
-   "name": "Stanley Black & Decker",
-   "sector": "Industrials",
-   "score": 64.4,
-   "tier": "Strong",
-   "read": "bull",
-   "trend": "Strong uptrend",
-   "ret_1y": 0.6714,
-   "pe": 20.3,
-   "div_yield": 0.0354,
-   "headline": "Strong price run-up masks slow revenue growth and thin margins"
-  },
-  {
    "symbol": "SYF",
    "name": "Synchrony Financial",
    "sector": "Financial Services",
@@ -3382,17 +3356,43 @@
    "headline": "Credit card lender trading cheap with strong cash flow but momentum fading"
   },
   {
-   "symbol": "TM",
-   "name": "Toyota Motor Corporation",
-   "sector": "Consumer Cyclical",
-   "score": 64.4,
+   "symbol": "ZBH",
+   "name": "Zimmer Biomet",
+   "sector": "Healthcare",
+   "score": 64.3,
    "tier": "Strong",
    "read": "bull",
-   "trend": "Turning up",
-   "ret_1y": 0.0179,
-   "pe": 9.59,
-   "div_yield": 0.0249,
-   "headline": "Toyota trades cheap with steady cash and shrinking shares, but earnings flat"
+   "trend": "Strong uptrend",
+   "ret_1y": 0.1815,
+   "pe": 26.05,
+   "div_yield": 0.0104,
+   "headline": "Medical device maker with strong price momentum but slowing earnings growth"
+  },
+  {
+   "symbol": "SNPS",
+   "name": "Synopsys",
+   "sector": "Technology",
+   "score": 64.2,
+   "tier": "Strong",
+   "read": "bull",
+   "trend": "Strong uptrend",
+   "ret_1y": 0.1696,
+   "pe": 83.12,
+   "div_yield": null,
+   "headline": "Strong uptrend and analyst consensus offset pricey valuation and earnings decline"
+  },
+  {
+   "symbol": "SWK",
+   "name": "Stanley Black & Decker",
+   "sector": "Industrials",
+   "score": 64.2,
+   "tier": "Strong",
+   "read": "bull",
+   "trend": "Strong uptrend",
+   "ret_1y": 0.6714,
+   "pe": 20.3,
+   "div_yield": 0.0354,
+   "headline": "Strong price run-up masks slow revenue growth and thin margins"
   },
   {
    "symbol": "PKG",
@@ -3406,19 +3406,6 @@
    "pe": 31.17,
    "div_yield": 0.0322,
    "headline": "Packaging giant riding strong price momentum, but earnings growth lags revenue"
-  },
-  {
-   "symbol": "SNPS",
-   "name": "Synopsys",
-   "sector": "Technology",
-   "score": 64.1,
-   "tier": "Strong",
-   "read": "bull",
-   "trend": "Strong uptrend",
-   "ret_1y": 0.1696,
-   "pe": 83.12,
-   "div_yield": null,
-   "headline": "Strong uptrend and analyst consensus offset pricey valuation and earnings decline"
   },
   {
    "symbol": "PUK",
@@ -3486,17 +3473,17 @@
    "headline": "Oil producer with strong cash generation but slowing price momentum"
   },
   {
-   "symbol": "ZBRA",
-   "name": "Zebra Technologies",
-   "sector": "Technology",
+   "symbol": "TM",
+   "name": "Toyota Motor Corporation",
+   "sector": "Consumer Cyclical",
    "score": 64.0,
    "tier": "Strong",
    "read": "bull",
-   "trend": "Pullback in uptrend",
-   "ret_1y": 0.2456,
-   "pe": 25.19,
-   "div_yield": null,
-   "headline": "Zebra bouncing after steep drop; revenue surging but earnings fell"
+   "trend": "Turning up",
+   "ret_1y": 0.0179,
+   "pe": 9.59,
+   "div_yield": 0.0249,
+   "headline": "Toyota trades cheap with steady cash and shrinking shares, but earnings flat"
   },
   {
    "symbol": "PANW",
@@ -3564,6 +3551,32 @@
    "headline": "UnitedHealth trades near 52-week highs with strong momentum but slowing earnings"
   },
   {
+   "symbol": "XOM",
+   "name": "ExxonMobil",
+   "sector": "Energy",
+   "score": 63.8,
+   "tier": "Strong",
+   "read": "bull",
+   "trend": "Strong uptrend",
+   "ret_1y": 0.4174,
+   "pe": 16.54,
+   "div_yield": 0.0252,
+   "headline": "Energy giant with strong cash flow and shareholder returns, but revenue declining"
+  },
+  {
+   "symbol": "ZBRA",
+   "name": "Zebra Technologies",
+   "sector": "Technology",
+   "score": 63.8,
+   "tier": "Strong",
+   "read": "bull",
+   "trend": "Pullback in uptrend",
+   "ret_1y": 0.2456,
+   "pe": 25.19,
+   "div_yield": null,
+   "headline": "Zebra bouncing after steep drop; revenue surging but earnings fell"
+  },
+  {
    "symbol": "CPRT",
    "name": "Copart",
    "sector": "Consumer Cyclical",
@@ -3590,19 +3603,6 @@
    "headline": "Healthcare giant with strong price momentum but thin profits and steep valuation"
   },
   {
-   "symbol": "XOM",
-   "name": "ExxonMobil",
-   "sector": "Energy",
-   "score": 63.7,
-   "tier": "Strong",
-   "read": "bull",
-   "trend": "Strong uptrend",
-   "ret_1y": 0.4174,
-   "pe": 16.54,
-   "div_yield": 0.0252,
-   "headline": "Energy giant with strong cash generation, but facing revenue decline and analyst caution"
-  },
-  {
    "symbol": "SE",
    "name": "Sea Limited",
    "sector": "Consumer Cyclical",
@@ -3614,19 +3614,6 @@
    "pe": 28.84,
    "div_yield": null,
    "headline": "Fast-growing Asian tech giant profits well but stock price has crashed 52% in a year"
-  },
-  {
-   "symbol": "UAL",
-   "name": "United Airlines Holdings",
-   "sector": "Industrials",
-   "score": 63.6,
-   "tier": "Strong",
-   "read": "bull",
-   "trend": "Turning up",
-   "ret_1y": 0.1717,
-   "pe": 10.97,
-   "div_yield": null,
-   "headline": "United Airlines shows strong cash generation and analyst backing, but carries heavy debt"
   },
   {
    "symbol": "ERIE",
@@ -3642,32 +3629,6 @@
    "headline": "Insurance broker turning up after flat quarter, profitable with strong analyst backing"
   },
   {
-   "symbol": "SHOP",
-   "name": "Shopify",
-   "sector": "Technology",
-   "score": 63.5,
-   "tier": "Strong",
-   "read": "bull",
-   "trend": "Pullback in uptrend",
-   "ret_1y": -0.0765,
-   "pe": 91.22,
-   "div_yield": null,
-   "headline": "Fast-growing software platform trading at premium valuation with strong cash position"
-  },
-  {
-   "symbol": "STLD",
-   "name": "Steel Dynamics",
-   "sector": "Basic Materials",
-   "score": 63.5,
-   "tier": "Strong",
-   "read": "bull",
-   "trend": "Pullback in uptrend",
-   "ret_1y": 0.556,
-   "pe": 16.56,
-   "div_yield": 0.0152,
-   "headline": "Steel company riding strong price momentum but faces slowing revenue trend"
-  },
-  {
    "symbol": "TDY",
    "name": "Teledyne Technologies",
    "sector": "Technology",
@@ -3679,32 +3640,6 @@
    "pe": 28.59,
    "div_yield": null,
    "headline": "Teledyne: solid profit generator with modest growth, trading near 52-week highs"
-  },
-  {
-   "symbol": "TKO",
-   "name": "TKO Group Holdings",
-   "sector": "Communication Services",
-   "score": 63.5,
-   "tier": "Strong",
-   "read": "bull",
-   "trend": "Turning up",
-   "ret_1y": 0.0801,
-   "pe": 130.01,
-   "div_yield": 0.0063,
-   "headline": "Fast-growing entertainment company trading at premium valuation with strong cash generation"
-  },
-  {
-   "symbol": "WTW",
-   "name": "Willis Towers Watson",
-   "sector": "Financial Services",
-   "score": 63.5,
-   "tier": "Strong",
-   "read": "bull",
-   "trend": "Uptrend",
-   "ret_1y": 0.0206,
-   "pe": 19.39,
-   "div_yield": 0.0131,
-   "headline": "Insurance broker with steady profits and returning cash, but earnings just dropped"
   },
   {
    "symbol": "AMT",
@@ -3720,17 +3655,17 @@
    "headline": "Tower REIT with strong cash generation faces heavy debt load"
   },
   {
-   "symbol": "RDDT",
-   "name": "Reddit, Inc.",
-   "sector": "Communication Services",
+   "symbol": "STLD",
+   "name": "Steel Dynamics",
+   "sector": "Basic Materials",
    "score": 63.4,
    "tier": "Strong",
-   "read": "neut",
-   "trend": "Downtrend",
-   "ret_1y": -0.5219,
-   "pe": 19.62,
-   "div_yield": null,
-   "headline": "Fast-growing internet platform with strong profits, but stock down 49% in a year"
+   "read": "bull",
+   "trend": "Pullback in uptrend",
+   "ret_1y": 0.556,
+   "pe": 16.56,
+   "div_yield": 0.0152,
+   "headline": "Steel company riding strong price momentum but faces slowing revenue trend"
   },
   {
    "symbol": "KB",
@@ -3746,6 +3681,19 @@
    "headline": "South Korean bank trading cheap with strong dividend but thin profits"
   },
   {
+   "symbol": "SHEL",
+   "name": "Shell plc",
+   "sector": "Energy",
+   "score": 63.4,
+   "tier": "Strong",
+   "read": "bull",
+   "trend": "Pullback in uptrend",
+   "ret_1y": 0.2798,
+   "pe": 8.62,
+   "div_yield": 0.0388,
+   "headline": "Energy giant trades cheap with strong cash but revenue in long decline"
+  },
+  {
    "symbol": "AIG",
    "name": "American International Group",
    "sector": "Financial Services",
@@ -3757,6 +3705,19 @@
    "pe": 12.55,
    "div_yield": 0.0221,
    "headline": "Insurance giant shows momentum but struggles with profitability and long-term revenue"
+  },
+  {
+   "symbol": "SHOP",
+   "name": "Shopify",
+   "sector": "Technology",
+   "score": 63.3,
+   "tier": "Strong",
+   "read": "bull",
+   "trend": "Pullback in uptrend",
+   "ret_1y": -0.0765,
+   "pe": 91.22,
+   "div_yield": null,
+   "headline": "Fast-growing software platform trading at premium valuation with strong cash position"
   },
   {
    "symbol": "BMO",
@@ -3772,19 +3733,6 @@
    "headline": "Strong bank with steady uptrend but analysts mostly cautious"
   },
   {
-   "symbol": "SHEL",
-   "name": "Shell plc",
-   "sector": "Energy",
-   "score": 63.3,
-   "tier": "Strong",
-   "read": "bull",
-   "trend": "Pullback in uptrend",
-   "ret_1y": 0.2798,
-   "pe": 8.62,
-   "div_yield": 0.0388,
-   "headline": "Energy giant trades cheap with strong cash but revenue in long decline"
-  },
-  {
    "symbol": "PDD",
    "name": "PDD Holdings",
    "sector": "Consumer Cyclical",
@@ -3796,6 +3744,32 @@
    "pe": 8.3,
    "div_yield": null,
    "headline": "Profitable giant hit hard by price fall; cash generation and valuation look cheap"
+  },
+  {
+   "symbol": "RDDT",
+   "name": "Reddit, Inc.",
+   "sector": "Communication Services",
+   "score": 63.2,
+   "tier": "Strong",
+   "read": "neut",
+   "trend": "Downtrend",
+   "ret_1y": -0.5219,
+   "pe": 19.62,
+   "div_yield": null,
+   "headline": "Fast-growing internet platform with strong profits, but stock down 49% in a year"
+  },
+  {
+   "symbol": "WTW",
+   "name": "Willis Towers Watson",
+   "sector": "Financial Services",
+   "score": 63.2,
+   "tier": "Strong",
+   "read": "bull",
+   "trend": "Uptrend",
+   "ret_1y": 0.0206,
+   "pe": 19.39,
+   "div_yield": 0.0131,
+   "headline": "Insurance broker with steady profits and returning cash, but earnings just dropped"
   },
   {
    "symbol": "BIIB",
@@ -3848,19 +3822,6 @@
    "pe": 20.02,
    "div_yield": 0.0203,
    "headline": "Semiconductor company showing recent momentum with strong cash generation but shrinking revenue"
-  },
-  {
-   "symbol": "RYAAY",
-   "name": "Ryanair Holdings plc",
-   "sector": "Industrials",
-   "score": 63.1,
-   "tier": "Strong",
-   "read": "bull",
-   "trend": "Downtrend, bouncing",
-   "ret_1y": -0.1049,
-   "pe": 14.07,
-   "div_yield": 0.0167,
-   "headline": "European budget airline with steady growth, weak recent earnings, and cheap valuation"
   },
   {
    "symbol": "CDW",
@@ -3941,6 +3902,19 @@
    "headline": "Profitable spirits maker hitting 52-week highs despite flat revenue and analyst skepticism"
   },
   {
+   "symbol": "TKO",
+   "name": "TKO Group Holdings",
+   "sector": "Communication Services",
+   "score": 62.8,
+   "tier": "Strong",
+   "read": "bull",
+   "trend": "Turning up",
+   "ret_1y": 0.0801,
+   "pe": 130.01,
+   "div_yield": 0.0063,
+   "headline": "Fast-growing entertainment company trading at premium valuation with strong cash generation"
+  },
+  {
    "symbol": "CRDO",
    "name": "Credo Technology Group Holding Ltd",
    "sector": "Technology",
@@ -3980,32 +3954,6 @@
    "headline": "Snack giant rides strong price momentum, but earnings growth has stalled"
   },
   {
-   "symbol": "STZ",
-   "name": "Constellation Brands",
-   "sector": "Consumer Defensive",
-   "score": 62.7,
-   "tier": "Strong",
-   "read": "bull",
-   "trend": "Turning up",
-   "ret_1y": 0.097,
-   "pe": 12.8,
-   "div_yield": 0.0149,
-   "headline": "Profitable beverage maker with strong cash flow trades cheap, but revenue is shrinking"
-  },
-  {
-   "symbol": "TROW",
-   "name": "T. Rowe Price",
-   "sector": "Financial Services",
-   "score": 62.7,
-   "tier": "Strong",
-   "read": "bull",
-   "trend": "Uptrend",
-   "ret_1y": 0.0439,
-   "pe": 10.83,
-   "div_yield": 0.0497,
-   "headline": "Profitable asset manager trades cheap while analysts say sell"
-  },
-  {
    "symbol": "FDX",
    "name": "FedEx",
    "sector": "Industrials",
@@ -4042,7 +3990,33 @@
    "ret_1y": 0.1996,
    "pe": 33.25,
    "div_yield": 0.0471,
-   "headline": "Profitable storage REIT trades near 52-week highs with steady cash returns"
+   "headline": "Profitable self-storage giant trades at premium with slowing revenue growth"
+  },
+  {
+   "symbol": "STZ",
+   "name": "Constellation Brands",
+   "sector": "Consumer Defensive",
+   "score": 62.6,
+   "tier": "Strong",
+   "read": "bull",
+   "trend": "Turning up",
+   "ret_1y": 0.097,
+   "pe": 12.8,
+   "div_yield": 0.0149,
+   "headline": "Profitable beverage maker with strong cash flow trades cheap, but revenue is shrinking"
+  },
+  {
+   "symbol": "UAL",
+   "name": "United Airlines Holdings",
+   "sector": "Industrials",
+   "score": 62.6,
+   "tier": "Strong",
+   "read": "bull",
+   "trend": "Turning up",
+   "ret_1y": 0.1717,
+   "pe": 10.97,
+   "div_yield": null,
+   "headline": "United Airlines shows strong cash generation and analyst backing, but carries heavy debt"
   },
   {
    "symbol": "E",
@@ -4055,20 +4029,7 @@
    "ret_1y": 0.4855,
    "pe": 7.64,
    "div_yield": 0.0605,
-   "headline": "Energy giant with strong price momentum but shrinking revenue and modest profits"
-  },
-  {
-   "symbol": "RTX",
-   "name": "RTX Corporation",
-   "sector": "Industrials",
-   "score": 62.5,
-   "tier": "Strong",
-   "read": "bull",
-   "trend": "Turning up",
-   "ret_1y": 0.1068,
-   "pe": 31.51,
-   "div_yield": 0.0295,
-   "headline": "RTX posts steady growth but commands premium valuation at 32x earnings"
+   "headline": "Energy giant trading cheap with strong cash returns but shrinking revenues"
   },
   {
    "symbol": "IQV",
@@ -4110,17 +4071,17 @@
    "headline": "Defense contractor posting steady growth with fortress balance sheet"
   },
   {
-   "symbol": "RF",
-   "name": "Regions Financial Corporation",
-   "sector": "Financial Services",
+   "symbol": "RTX",
+   "name": "RTX Corporation",
+   "sector": "Industrials",
    "score": 62.2,
    "tier": "Strong",
-   "read": "neut",
-   "trend": "Downtrend, bouncing",
-   "ret_1y": 0.1377,
-   "pe": 10.74,
-   "div_yield": 0.0598,
-   "headline": "Regional bank with strong earnings growth but stock momentum stalling"
+   "read": "bull",
+   "trend": "Turning up",
+   "ret_1y": 0.1068,
+   "pe": 31.51,
+   "div_yield": 0.0295,
+   "headline": "RTX posts steady growth but commands premium valuation at 32x earnings"
   },
   {
    "symbol": "NOW",
@@ -4134,6 +4095,19 @@
    "pe": 73.82,
    "div_yield": null,
    "headline": "Fast-growing software company trading at premium price after steep recent decline"
+  },
+  {
+   "symbol": "TROW",
+   "name": "T. Rowe Price",
+   "sector": "Financial Services",
+   "score": 62.1,
+   "tier": "Strong",
+   "read": "bull",
+   "trend": "Uptrend",
+   "ret_1y": 0.0439,
+   "pe": 10.83,
+   "div_yield": 0.0497,
+   "headline": "Profitable asset manager trades cheap while analysts say sell"
   },
   {
    "symbol": "HWM",
@@ -4160,6 +4134,19 @@
    "pe": 32.19,
    "div_yield": 0.0137,
    "headline": "Profitable industrial company showing strong recent growth but trading at a premium"
+  },
+  {
+   "symbol": "RF",
+   "name": "Regions Financial Corporation",
+   "sector": "Financial Services",
+   "score": 62.0,
+   "tier": "Strong",
+   "read": "neut",
+   "trend": "Downtrend, bouncing",
+   "ret_1y": 0.1377,
+   "pe": 10.74,
+   "div_yield": 0.0598,
+   "headline": "Regional bank with strong earnings growth but stock momentum stalling"
   },
   {
    "symbol": "PBR",
@@ -4227,10 +4214,23 @@
    "headline": "Goldman Sachs shows strong recent growth but stock price is retreating from highs"
   },
   {
+   "symbol": "ITUB",
+   "name": "Ita\u00fa Unibanco Holding S.A.",
+   "sector": "Financial Services",
+   "score": 61.6,
+   "tier": "Solid",
+   "read": "neut",
+   "trend": "Losing steam",
+   "ret_1y": -0.0587,
+   "pe": 10.13,
+   "div_yield": 0.0174,
+   "headline": "Brazil's largest bank shows profit strength but recent price weakness and earnings decline"
+  },
+  {
    "symbol": "SLF",
    "name": "Sun Life Financial Inc.",
    "sector": "Financial Services",
-   "score": 61.8,
+   "score": 61.5,
    "tier": "Solid",
    "read": "neut",
    "trend": "Losing steam",
@@ -4243,7 +4243,7 @@
    "symbol": "TECH",
    "name": "Bio-Techne",
    "sector": "Healthcare",
-   "score": 61.6,
+   "score": 61.4,
    "tier": "Solid",
    "read": "neut",
    "trend": "Strong uptrend",
@@ -4251,19 +4251,6 @@
    "pe": 62.91,
    "div_yield": 0.005,
    "headline": "Strong price momentum masks analyst skepticism and expensive valuation"
-  },
-  {
-   "symbol": "ITUB",
-   "name": "Ita\u00fa Unibanco Holding S.A.",
-   "sector": "Financial Services",
-   "score": 61.6,
-   "tier": "Solid",
-   "read": "neut",
-   "trend": "Losing steam",
-   "ret_1y": -0.0587,
-   "pe": 10.13,
-   "div_yield": 0.0174,
-   "headline": "Brazil's largest bank shows profit strength but recent price weakness and earnings decline"
   },
   {
    "symbol": "CHT",
@@ -4321,7 +4308,7 @@
    "symbol": "RVTY",
    "name": "Revvity",
    "sector": "Healthcare",
-   "score": 61.1,
+   "score": 61.0,
    "tier": "Solid",
    "read": "neut",
    "trend": "Strong uptrend",
@@ -4329,6 +4316,19 @@
    "pe": 70.48,
    "div_yield": 0.0031,
    "headline": "Revvity rides strong momentum but trades at steep earnings multiple"
+  },
+  {
+   "symbol": "TPR",
+   "name": "Tapestry, Inc.",
+   "sector": "Consumer Cyclical",
+   "score": 61.0,
+   "tier": "Solid",
+   "read": "neut",
+   "trend": "Downtrend, bouncing",
+   "ret_1y": 0.2998,
+   "pe": 16.33,
+   "div_yield": 0.0458,
+   "headline": "Luxury goods maker with strong profits and cash returns, but heavy debt and price weakness"
   },
   {
    "symbol": "ABBV",
@@ -4396,19 +4396,6 @@
    "headline": "Fast-growing Brazilian fintech trades cheap but stock is down 24% in a year"
   },
   {
-   "symbol": "SAN",
-   "name": "Banco Santander, S.A.",
-   "sector": "Financial Services",
-   "score": 60.9,
-   "tier": "Solid",
-   "read": "neut",
-   "trend": "Losing steam",
-   "ret_1y": 0.1263,
-   "pe": 9.96,
-   "div_yield": 0.0378,
-   "headline": "Large European bank trading cheaply with steady dividends but stalled revenue"
-  },
-  {
    "symbol": "CPT",
    "name": "Camden Property Trust",
    "sector": "Real Estate",
@@ -4422,30 +4409,17 @@
    "headline": "Fast-growing apartment REIT with strong cash flow but stock price stalled"
   },
   {
-   "symbol": "TPR",
-   "name": "Tapestry, Inc.",
-   "sector": "Consumer Cyclical",
+   "symbol": "TT",
+   "name": "Trane Technologies",
+   "sector": "Industrials",
    "score": 60.8,
    "tier": "Solid",
    "read": "neut",
-   "trend": "Downtrend, bouncing",
-   "ret_1y": 0.2998,
-   "pe": 16.33,
-   "div_yield": 0.0458,
-   "headline": "Luxury goods maker with strong profits and cash returns, but heavy debt and price weakness"
-  },
-  {
-   "symbol": "UDR",
-   "name": "UDR, Inc.",
-   "sector": "Real Estate",
-   "score": 60.8,
-   "tier": "Solid",
-   "read": "neut",
-   "trend": "Downtrend, bouncing",
-   "ret_1y": 0.0305,
-   "pe": 16.65,
-   "div_yield": 0.0504,
-   "headline": "Fast-growing apartment REIT with strong cash flow, but high debt and weakening price."
+   "trend": "Downtrend",
+   "ret_1y": 0.0057,
+   "pe": 29.13,
+   "div_yield": 0.0131,
+   "headline": "Profitable industrial company in a slump, but fundamentals stay strong"
   },
   {
    "symbol": "KLAC",
@@ -4490,7 +4464,7 @@
    "symbol": "SLB",
    "name": "Schlumberger",
    "sector": "Energy",
-   "score": 60.7,
+   "score": 60.6,
    "tier": "Solid",
    "read": "neut",
    "trend": "Losing steam",
@@ -4498,32 +4472,6 @@
    "pe": 24.02,
    "div_yield": 0.019,
    "headline": "Oil services giant showing uneven growth with strong cash generation and analyst backing"
-  },
-  {
-   "symbol": "TT",
-   "name": "Trane Technologies",
-   "sector": "Industrials",
-   "score": 60.6,
-   "tier": "Solid",
-   "read": "neut",
-   "trend": "Downtrend",
-   "ret_1y": 0.0057,
-   "pe": 29.13,
-   "div_yield": 0.0131,
-   "headline": "Profitable industrial company in a slump, but fundamentals stay strong"
-  },
-  {
-   "symbol": "XYZ",
-   "name": "Block, Inc.",
-   "sector": "Technology",
-   "score": 60.6,
-   "tier": "Solid",
-   "read": "neut",
-   "trend": "Uptrend",
-   "ret_1y": 0.2481,
-   "pe": 112.06,
-   "div_yield": null,
-   "headline": "Strong momentum and balance sheet offset pricey valuation and flat annual revenue"
   },
   {
    "symbol": "DASH",
@@ -4550,6 +4498,19 @@
    "pe": 14.9,
    "div_yield": 0.0036,
    "headline": "Insurance company growing fast but analysts all bearish despite cheap valuation"
+  },
+  {
+   "symbol": "UDR",
+   "name": "UDR, Inc.",
+   "sector": "Real Estate",
+   "score": 60.5,
+   "tier": "Solid",
+   "read": "neut",
+   "trend": "Downtrend, bouncing",
+   "ret_1y": 0.0305,
+   "pe": 16.65,
+   "div_yield": 0.0504,
+   "headline": "Fast-growing apartment REIT with strong cash flow, but high debt and weakening price."
   },
   {
    "symbol": "NFLX",
@@ -4591,19 +4552,6 @@
    "headline": "Stable utility with steady cash generation and rising debt levels"
   },
   {
-   "symbol": "YUM",
-   "name": "Yum! Brands",
-   "sector": "Consumer Cyclical",
-   "score": 60.3,
-   "tier": "Solid",
-   "read": "neut",
-   "trend": "Turning up",
-   "ret_1y": 0.057,
-   "pe": 12.56,
-   "div_yield": 0.0189,
-   "headline": "Profitable restaurant giant with heavy debt but strong cash returns"
-  },
-  {
    "symbol": "NVO",
    "name": "Novo Nordisk A/S",
    "sector": "Healthcare",
@@ -4630,30 +4578,17 @@
    "headline": "Teva rides strong price momentum but earnings are sliding and valuation looks stretched"
   },
   {
-   "symbol": "TDG",
-   "name": "TransDigm Group",
-   "sector": "Industrials",
-   "score": 60.1,
+   "symbol": "SAN",
+   "name": "Banco Santander, S.A.",
+   "sector": "Financial Services",
+   "score": 60.2,
    "tier": "Solid",
    "read": "neut",
-   "trend": "Downtrend, bouncing",
-   "ret_1y": -0.0703,
-   "pe": 31.7,
-   "div_yield": 0.0784,
-   "headline": "Highly profitable aerospace supplier with strong growth, but carrying heavy debt load"
-  },
-  {
-   "symbol": "TGT",
-   "name": "Target Corporation",
-   "sector": "Consumer Defensive",
-   "score": 60.1,
-   "tier": "Solid",
-   "read": "neut",
-   "trend": "Uptrend",
-   "ret_1y": 0.7569,
-   "pe": 17.05,
-   "div_yield": 0.0335,
-   "headline": "Target: Strong price momentum masks slowing revenue growth and mixed analyst outlook"
+   "trend": "Losing steam",
+   "ret_1y": 0.1263,
+   "pe": 9.96,
+   "div_yield": 0.0378,
+   "headline": "Large European bank trading cheaply with steady dividends but stalled revenue"
   },
   {
    "symbol": "COR",
@@ -4669,6 +4604,58 @@
    "headline": "Large healthcare distributor with strong cash flow but razor-thin margins"
   },
   {
+   "symbol": "TGT",
+   "name": "Target Corporation",
+   "sector": "Consumer Defensive",
+   "score": 60.0,
+   "tier": "Solid",
+   "read": "neut",
+   "trend": "Uptrend",
+   "ret_1y": 0.7569,
+   "pe": 17.05,
+   "div_yield": 0.0335,
+   "headline": "Target: Strong price momentum masks slowing revenue growth and mixed analyst outlook"
+  },
+  {
+   "symbol": "WMT",
+   "name": "Walmart",
+   "sector": "Consumer Defensive",
+   "score": 60.0,
+   "tier": "Solid",
+   "read": "neut",
+   "trend": "Turning up",
+   "ret_1y": 0.2199,
+   "pe": 44.67,
+   "div_yield": 0.0076,
+   "headline": "Walmart trades pricey after 22% annual gain, but balance sheet is fortress-solid"
+  },
+  {
+   "symbol": "XYZ",
+   "name": "Block, Inc.",
+   "sector": "Technology",
+   "score": 60.0,
+   "tier": "Solid",
+   "read": "neut",
+   "trend": "Uptrend",
+   "ret_1y": 0.2481,
+   "pe": 112.06,
+   "div_yield": null,
+   "headline": "Strong momentum and balance sheet offset pricey valuation and flat annual revenue"
+  },
+  {
+   "symbol": "YUM",
+   "name": "Yum! Brands",
+   "sector": "Consumer Cyclical",
+   "score": 60.0,
+   "tier": "Solid",
+   "read": "neut",
+   "trend": "Turning up",
+   "ret_1y": 0.057,
+   "pe": 12.56,
+   "div_yield": 0.0189,
+   "headline": "Profitable restaurant giant with heavy debt but strong cash returns"
+  },
+  {
    "symbol": "BEN",
    "name": "Franklin Resources",
    "sector": "Financial Services",
@@ -4680,19 +4667,6 @@
    "pe": 22.42,
    "div_yield": 0.0504,
    "headline": "Asset manager riding price momentum but facing profitability headwinds"
-  },
-  {
-   "symbol": "WMT",
-   "name": "Walmart",
-   "sector": "Consumer Defensive",
-   "score": 59.9,
-   "tier": "Solid",
-   "read": "neut",
-   "trend": "Turning up",
-   "ret_1y": 0.2199,
-   "pe": 44.67,
-   "div_yield": 0.0076,
-   "headline": "Walmart trades pricey after 22% annual gain, but balance sheet is fortress-solid"
   },
   {
    "symbol": "CFG",
@@ -4747,32 +4721,6 @@
    "headline": "CVS trades cheap but earnings collapsed; analysts still bullish on the value"
   },
   {
-   "symbol": "SW",
-   "name": "Smurfit WestRock",
-   "sector": "Consumer Cyclical",
-   "score": 59.6,
-   "tier": "Solid",
-   "read": "neut",
-   "trend": "Downtrend",
-   "ret_1y": 0.2048,
-   "pe": 46.49,
-   "div_yield": 0.04,
-   "headline": "Packaging giant with strong revenue growth but thin margins and high valuation"
-  },
-  {
-   "symbol": "TECK",
-   "name": "Teck Resources Limited",
-   "sector": "Basic Materials",
-   "score": 59.6,
-   "tier": "Solid",
-   "read": "neut",
-   "trend": "Pullback in uptrend",
-   "ret_1y": 0.4253,
-   "pe": 34.57,
-   "div_yield": 0.01,
-   "headline": "Copper miner bouncing back on earnings, but profitability questions remain"
-  },
-  {
    "symbol": "ED",
    "name": "Consolidated Edison",
    "sector": "Utilities",
@@ -4783,7 +4731,7 @@
    "ret_1y": 0.1984,
    "pe": 19.78,
    "div_yield": 0.0356,
-   "headline": "Utility giant with strong cash flow but analyst consensus warns of overvaluation"
+   "headline": "Utility stock near 52-week high with strong cash flow but analyst skepticism"
   },
   {
    "symbol": "EQT",
@@ -4825,19 +4773,6 @@
    "headline": "Industrial machinery maker growing fast but pricing stretched after recent pullback"
   },
   {
-   "symbol": "VICI",
-   "name": "Vici Properties",
-   "sector": "Real Estate",
-   "score": 59.4,
-   "tier": "Solid",
-   "read": "neut",
-   "trend": "Downtrend, bouncing",
-   "ret_1y": -0.1903,
-   "pe": 11.73,
-   "div_yield": 0.0579,
-   "headline": "VICI trades cheap with strong cash flow, but price is sliding and growth is slowing"
-  },
-  {
    "symbol": "ARM",
    "name": "Arm Holdings",
    "sector": "Technology",
@@ -4862,6 +4797,32 @@
    "pe": 54.08,
    "div_yield": 0.0084,
    "headline": "Engineering firm with strong momentum and analyst backing, but pricey and thin margins"
+  },
+  {
+   "symbol": "TECK",
+   "name": "Teck Resources Limited",
+   "sector": "Basic Materials",
+   "score": 59.3,
+   "tier": "Solid",
+   "read": "neut",
+   "trend": "Pullback in uptrend",
+   "ret_1y": 0.4253,
+   "pe": 34.57,
+   "div_yield": 0.01,
+   "headline": "Copper miner bouncing back on earnings, but profitability questions remain"
+  },
+  {
+   "symbol": "VICI",
+   "name": "Vici Properties",
+   "sector": "Real Estate",
+   "score": 59.2,
+   "tier": "Solid",
+   "read": "neut",
+   "trend": "Downtrend, bouncing",
+   "ret_1y": -0.1903,
+   "pe": 11.73,
+   "div_yield": 0.0579,
+   "headline": "VICI trades cheap with strong cash flow, but price is sliding and growth is slowing"
   },
   {
    "symbol": "ASX",
@@ -4903,19 +4864,6 @@
    "headline": "Regional bank with strong cash generation but slowing revenue growth and rising share count"
   },
   {
-   "symbol": "TER",
-   "name": "Teradyne",
-   "sector": "Technology",
-   "score": 59.1,
-   "tier": "Solid",
-   "read": "neut",
-   "trend": "Downtrend",
-   "ret_1y": 0.4882,
-   "pe": 27.63,
-   "div_yield": 0.0048,
-   "headline": "Semiconductor tester with strong cash and recent revenue spike, but stock down sharply"
-  },
-  {
    "symbol": "WEC",
    "name": "WEC Energy Group",
    "sector": "Utilities",
@@ -4953,6 +4901,19 @@
    "pe": 38.25,
    "div_yield": 0.0146,
    "headline": "Strong price rally masks slowing revenue; profitability and cash generation remain solid"
+  },
+  {
+   "symbol": "TER",
+   "name": "Teradyne",
+   "sector": "Technology",
+   "score": 59.0,
+   "tier": "Solid",
+   "read": "neut",
+   "trend": "Downtrend",
+   "ret_1y": 0.4882,
+   "pe": 27.63,
+   "div_yield": 0.0048,
+   "headline": "Semiconductor tester with strong cash and recent revenue spike, but stock down sharply"
   },
   {
    "symbol": "FTV",
@@ -5005,19 +4966,6 @@
    "pe": 10.63,
    "div_yield": 0.0328,
    "headline": "Japanese financial firm with strong revenue growth but nearly zero profit"
-  },
-  {
-   "symbol": "RIO",
-   "name": "Rio Tinto Group",
-   "sector": "Basic Materials",
-   "score": 58.7,
-   "tier": "Solid",
-   "read": "neut",
-   "trend": "Downtrend",
-   "ret_1y": 0.1843,
-   "pe": 12.17,
-   "div_yield": 0.0589,
-   "headline": "Mining giant with strong cash generation but weakening earnings and recent price decline"
   },
   {
    "symbol": "ABT",
@@ -5096,6 +5044,19 @@
    "pe": 11.73,
    "div_yield": 0.15,
    "headline": "Colombian oil giant trades cheap with fat dividend, but earnings fell sharply"
+  },
+  {
+   "symbol": "RIO",
+   "name": "Rio Tinto Group",
+   "sector": "Basic Materials",
+   "score": 58.4,
+   "tier": "Solid",
+   "read": "neut",
+   "trend": "Downtrend",
+   "ret_1y": 0.1843,
+   "pe": 12.17,
+   "div_yield": 0.0589,
+   "headline": "Mining giant with strong cash generation but weakening earnings and recent price decline"
   },
   {
    "symbol": "TPL",
@@ -5202,17 +5163,17 @@
    "headline": "Defense contractor with strong cash generation; uneven growth and heavy debt load"
   },
   {
-   "symbol": "SJM",
-   "name": "J.M. Smucker Company (The)",
-   "sector": "Consumer Defensive",
+   "symbol": "WRB",
+   "name": "W. R. Berkley Corporation",
+   "sector": "Financial Services",
    "score": 57.9,
    "tier": "Solid",
    "read": "neut",
    "trend": "Strong uptrend",
-   "ret_1y": 0.2136,
-   "pe": 61.44,
-   "div_yield": 0.0374,
-   "headline": "Food giant posting losses but generating cash; stock near yearly high after 24% gain"
+   "ret_1y": 0.0105,
+   "pe": 15.14,
+   "div_yield": 0.0054,
+   "headline": "Insurance firm with strong price momentum but analyst skepticism and recent revenue slowdown"
   },
   {
    "symbol": "FCX",
@@ -5228,17 +5189,17 @@
    "headline": "Copper miner with strong balance sheet but expensive valuation after year-long rally"
   },
   {
-   "symbol": "WRB",
-   "name": "W. R. Berkley Corporation",
-   "sector": "Financial Services",
+   "symbol": "TAK",
+   "name": "Takeda Pharmaceutical Company Limited",
+   "sector": "Healthcare",
    "score": 57.7,
    "tier": "Solid",
    "read": "neut",
    "trend": "Strong uptrend",
-   "ret_1y": 0.0105,
-   "pe": 15.14,
-   "div_yield": 0.0054,
-   "headline": "Insurance firm with strong price momentum but analyst skepticism and recent revenue slowdown"
+   "ret_1y": 0.5075,
+   "pe": 261.09,
+   "div_yield": 0.0441,
+   "headline": "Japanese pharma with strong price momentum but historically thin profits"
   },
   {
    "symbol": "Q",
@@ -5254,17 +5215,17 @@
    "headline": "Semiconductor firm with strong growth but steep valuation after sharp pullback"
   },
   {
-   "symbol": "UBER",
-   "name": "Uber",
-   "sector": "Technology",
+   "symbol": "SJM",
+   "name": "J.M. Smucker Company (The)",
+   "sector": "Consumer Defensive",
    "score": 57.6,
    "tier": "Solid",
    "read": "neut",
-   "trend": "Downtrend",
-   "ret_1y": -0.2615,
-   "pe": 40.96,
-   "div_yield": null,
-   "headline": "Profitable ride-hailing giant slumping; solid earnings offset by year-long price decline"
+   "trend": "Strong uptrend",
+   "ret_1y": 0.2136,
+   "pe": 61.44,
+   "div_yield": 0.0374,
+   "headline": "Food giant posting losses but generating cash; stock near yearly high after 24% gain"
   },
   {
    "symbol": "BP",
@@ -5278,19 +5239,6 @@
    "pe": 12.8,
    "div_yield": 0.0479,
    "headline": "Energy giant with strong cash generation but flat earnings and shrinking revenue"
-  },
-  {
-   "symbol": "TAK",
-   "name": "Takeda Pharmaceutical Company Limited",
-   "sector": "Healthcare",
-   "score": 57.6,
-   "tier": "Solid",
-   "read": "neut",
-   "trend": "Strong uptrend",
-   "ret_1y": 0.5075,
-   "pe": 261.09,
-   "div_yield": 0.0441,
-   "headline": "Japanese pharma with strong price momentum but historically thin profits"
   },
   {
    "symbol": "FSLR",
@@ -5330,6 +5278,19 @@
    "pe": 24.24,
    "div_yield": 0.0011,
    "headline": "Industrial machinery maker with steady growth and strong balance sheet, but earnings fell sharply"
+  },
+  {
+   "symbol": "UBER",
+   "name": "Uber",
+   "sector": "Technology",
+   "score": 57.3,
+   "tier": "Solid",
+   "read": "neut",
+   "trend": "Downtrend",
+   "ret_1y": -0.2615,
+   "pe": 40.96,
+   "div_yield": null,
+   "headline": "Profitable ride-hailing giant slumping; solid earnings offset by year-long price decline"
   },
   {
    "symbol": "EFX",
@@ -5410,19 +5371,6 @@
    "headline": "Growing REIT with strong cash flow but high valuation and rising share count"
   },
   {
-   "symbol": "T",
-   "name": "AT&T",
-   "sector": "Communication Services",
-   "score": 57.0,
-   "tier": "Solid",
-   "read": "neut",
-   "trend": "Downtrend",
-   "ret_1y": -0.1191,
-   "pe": 11.18,
-   "div_yield": 0.0685,
-   "headline": "Mature telecom with strong cash flow, but stock price down 12% as growth stalls"
-  },
-  {
    "symbol": "BRO",
    "name": "Brown & Brown",
    "sector": "Financial Services",
@@ -5475,10 +5423,23 @@
    "headline": "Fast-growing engineer hits recent turbulence despite strong earnings."
   },
   {
+   "symbol": "T",
+   "name": "AT&T",
+   "sector": "Communication Services",
+   "score": 56.8,
+   "tier": "Solid",
+   "read": "neut",
+   "trend": "Downtrend",
+   "ret_1y": -0.1191,
+   "pe": 11.18,
+   "div_yield": 0.0685,
+   "headline": "Mature telecom with strong cash flow, but stock price down 12% as growth stalls"
+  },
+  {
    "symbol": "TJX",
    "name": "TJX Companies",
    "sector": "Consumer Cyclical",
-   "score": 56.8,
+   "score": 56.7,
    "tier": "Solid",
    "read": "neut",
    "trend": "Downtrend",
@@ -5540,30 +5501,17 @@
    "headline": "CRL surged 106% in a year, but profits are negative and valuation is steep"
   },
   {
-   "symbol": "TXT",
-   "name": "Textron",
+   "symbol": "RYAAY",
+   "name": "Ryanair Holdings plc",
    "sector": "Industrials",
-   "score": 56.4,
-   "tier": "Solid",
-   "read": "neut",
-   "trend": "Downtrend, bouncing",
-   "ret_1y": 0.0226,
-   "pe": 14.73,
-   "div_yield": 0.001,
-   "headline": "Textron trades cheap with solid cash generation, but price momentum has stalled"
-  },
-  {
-   "symbol": "WDS",
-   "name": "Woodside Energy Group Ltd",
-   "sector": "Energy",
    "score": 56.3,
    "tier": "Solid",
    "read": "neut",
-   "trend": "Losing steam",
-   "ret_1y": 0.2068,
-   "pe": 13.14,
-   "div_yield": 0.0526,
-   "headline": "Oil giant with strong cash flow but shrinking revenue and rising share count"
+   "trend": "Downtrend, bouncing",
+   "ret_1y": -0.1049,
+   "pe": 14.07,
+   "div_yield": 0.0167,
+   "headline": "Budget airline with strong balance sheet but growth stalling and price down"
   },
   {
    "symbol": "BE",
@@ -5592,30 +5540,17 @@
    "headline": "Fast-growing chipmaker losing money, but analysts still bullish despite recent stock plunge"
   },
   {
-   "symbol": "SNA",
-   "name": "Snap-on",
-   "sector": "Industrials",
+   "symbol": "WDS",
+   "name": "Woodside Energy Group Ltd",
+   "sector": "Energy",
    "score": 56.2,
    "tier": "Solid",
    "read": "neut",
-   "trend": "Downtrend, bouncing",
-   "ret_1y": 0.0723,
-   "pe": 19.07,
-   "div_yield": 0.027,
-   "headline": "Profitable tool maker treading water: strong cash generation, slowing growth"
-  },
-  {
-   "symbol": "VMRK",
-   "name": "Vivmark Residential",
-   "sector": "Real Estate",
-   "score": 56.2,
-   "tier": "Solid",
-   "read": "neut",
-   "trend": "Downtrend, bouncing",
-   "ret_1y": 0.0569,
-   "pe": 58.28,
-   "div_yield": 0.0206,
-   "headline": "High-profit REIT with slow growth trades at premium valuation"
+   "trend": "Losing steam",
+   "ret_1y": 0.2068,
+   "pe": 13.14,
+   "div_yield": 0.0526,
+   "headline": "Oil giant with strong cash flow but shrinking revenue and rising share count"
   },
   {
    "symbol": "DVA",
@@ -5631,19 +5566,6 @@
    "headline": "Dialysis operator with strong cash generation but heavy debt load"
   },
   {
-   "symbol": "VMC",
-   "name": "Vulcan Materials Company",
-   "sector": "Basic Materials",
-   "score": 56.1,
-   "tier": "Solid",
-   "read": "neut",
-   "trend": "Turning up",
-   "ret_1y": -0.0506,
-   "pe": 33.51,
-   "div_yield": 0.0081,
-   "headline": "Solid profitability masks recent revenue slowdown and pricey valuation"
-  },
-  {
    "symbol": "ALNY",
    "name": "Alnylam Pharmaceuticals",
    "sector": "Healthcare",
@@ -5657,17 +5579,17 @@
    "headline": "RNA drug company with strong revenue growth but stock price down 65% in a year"
   },
   {
-   "symbol": "REG",
-   "name": "Regency Centers",
-   "sector": "Real Estate",
+   "symbol": "TXT",
+   "name": "Textron",
+   "sector": "Industrials",
    "score": 56.0,
    "tier": "Solid",
    "read": "neut",
    "trend": "Downtrend, bouncing",
-   "ret_1y": 0.0629,
-   "pe": 25.02,
-   "div_yield": 0.0437,
-   "headline": "Retail REIT with strong cash generation faces pricing headwinds"
+   "ret_1y": 0.0226,
+   "pe": 14.73,
+   "div_yield": 0.001,
+   "headline": "Textron trades cheap with solid cash generation, but price momentum has stalled"
   },
   {
    "symbol": "LYG",
@@ -5706,7 +5628,7 @@
    "ret_1y": -0.1342,
    "pe": 20.15,
    "div_yield": null,
-   "headline": "Profitable retailer faces debt burden while analysts stay bullish"
+   "headline": "Profitable retailer with heavy debt load; analysts bullish but price down 13% yearly"
   },
   {
    "symbol": "BAC",
@@ -5748,30 +5670,43 @@
    "headline": "Logistics firm with strong balance sheet but mixed growth signals"
   },
   {
-   "symbol": "ROIV",
-   "name": "Roivant Sciences Ltd.",
-   "sector": "Healthcare",
+   "symbol": "REG",
+   "name": "Regency Centers",
+   "sector": "Real Estate",
    "score": 55.8,
    "tier": "Solid",
    "read": "neut",
-   "trend": "Strong uptrend",
-   "ret_1y": 0.9134,
-   "pe": -1.0,
-   "div_yield": null,
-   "headline": "Biotech with massive cash, soaring stock price, but deep losses and volatile revenue"
+   "trend": "Downtrend, bouncing",
+   "ret_1y": 0.0629,
+   "pe": 25.02,
+   "div_yield": 0.0437,
+   "headline": "Retail REIT with strong cash generation faces pricing headwinds"
   },
   {
-   "symbol": "UPS",
-   "name": "United Parcel Service",
+   "symbol": "SNA",
+   "name": "Snap-on",
    "sector": "Industrials",
-   "score": 55.6,
+   "score": 55.7,
+   "tier": "Solid",
+   "read": "neut",
+   "trend": "Downtrend, bouncing",
+   "ret_1y": 0.0723,
+   "pe": 19.07,
+   "div_yield": 0.027,
+   "headline": "Profitable tool maker treading water: strong cash generation, slowing growth"
+  },
+  {
+   "symbol": "VMC",
+   "name": "Vulcan Materials Company",
+   "sector": "Basic Materials",
+   "score": 55.7,
    "tier": "Solid",
    "read": "neut",
    "trend": "Turning up",
-   "ret_1y": 0.1615,
-   "pe": 21.29,
-   "div_yield": 0.0426,
-   "headline": "Logistics giant shows recovery signs but faces debt and long-term revenue headwinds"
+   "ret_1y": -0.0506,
+   "pe": 33.51,
+   "div_yield": 0.0081,
+   "headline": "Solid profitability masks recent revenue slowdown and pricey valuation"
   },
   {
    "symbol": "BCS",
@@ -5813,19 +5748,6 @@
    "headline": "Fast-growing Latin America e-commerce leader hit hard; profitable but pricey"
   },
   {
-   "symbol": "VZ",
-   "name": "Verizon",
-   "sector": "Communication Services",
-   "score": 55.5,
-   "tier": "Solid",
-   "read": "neut",
-   "trend": "Downtrend, bouncing",
-   "ret_1y": 0.1437,
-   "pe": 11.65,
-   "div_yield": 0.0711,
-   "headline": "Mature telecom with strong cash and dividends, but growth and price momentum lag"
-  },
-  {
    "symbol": "ESS",
    "name": "Essex Property Trust",
    "sector": "Real Estate",
@@ -5836,7 +5758,20 @@
    "ret_1y": 0.0386,
    "pe": 51.27,
    "div_yield": 0.043,
-   "headline": "Residential REIT with strong cash generation but slowing revenue and premium valuation"
+   "headline": "REIT with strong cash generation faces slowing revenue and expensive valuation"
+  },
+  {
+   "symbol": "VZ",
+   "name": "Verizon",
+   "sector": "Communication Services",
+   "score": 55.4,
+   "tier": "Solid",
+   "read": "neut",
+   "trend": "Downtrend, bouncing",
+   "ret_1y": 0.1437,
+   "pe": 11.65,
+   "div_yield": 0.0711,
+   "headline": "Mature telecom with strong cash and dividends, but growth and price momentum lag"
   },
   {
    "symbol": "ESLT",
@@ -5850,6 +5785,19 @@
    "pe": 53.13,
    "div_yield": 0.01,
    "headline": "Defense contractor with strong growth and cash, but trading at a steep valuation multiple"
+  },
+  {
+   "symbol": "ROIV",
+   "name": "Roivant Sciences Ltd.",
+   "sector": "Healthcare",
+   "score": 55.4,
+   "tier": "Solid",
+   "read": "neut",
+   "trend": "Strong uptrend",
+   "ret_1y": 0.9134,
+   "pe": -1.0,
+   "div_yield": null,
+   "headline": "Biotech with massive cash, soaring stock price, but deep losses and volatile revenue"
   },
   {
    "symbol": "CCJ",
@@ -5941,6 +5889,19 @@
    "pe": 10.55,
    "div_yield": 0.0522,
    "headline": "Prudential: Rising price meets falling revenue and analyst skepticism"
+  },
+  {
+   "symbol": "UPS",
+   "name": "United Parcel Service",
+   "sector": "Industrials",
+   "score": 55.1,
+   "tier": "Solid",
+   "read": "neut",
+   "trend": "Turning up",
+   "ret_1y": 0.1615,
+   "pe": 21.29,
+   "div_yield": 0.0426,
+   "headline": "Logistics giant shows recovery signs but faces debt and long-term revenue headwinds"
   },
   {
    "symbol": "NWSA",
@@ -6057,7 +6018,7 @@
    "ret_1y": 0.1386,
    "pe": 23.94,
    "div_yield": 0.0146,
-   "headline": "Industrial machinery company with steady cash generation but slowing growth"
+   "headline": "Industrial machinery firm with steady cash flow faces slowing revenue growth"
   },
   {
    "symbol": "NWS",
@@ -6112,19 +6073,6 @@
    "headline": "Stable cash generator in a stalled growth phase, with solid finances backing modest returns"
   },
   {
-   "symbol": "VOD",
-   "name": "Vodafone Group Public Limited Company",
-   "sector": "Communication Services",
-   "score": 54.4,
-   "tier": "Solid",
-   "read": "neut",
-   "trend": "Pullback in uptrend",
-   "ret_1y": 0.2226,
-   "pe": null,
-   "div_yield": 0.1084,
-   "headline": "Vodafone: High yield masks unprofitable core business amid modest growth"
-  },
-  {
    "symbol": "LDOS",
    "name": "Leidos",
    "sector": "Technology",
@@ -6136,19 +6084,6 @@
    "pe": 11.67,
    "div_yield": 0.0142,
    "headline": "Profitable defense contractor in downtrend; cash flow strong but growth slow"
-  },
-  {
-   "symbol": "VTRS",
-   "name": "Viatris",
-   "sector": "Healthcare",
-   "score": 54.3,
-   "tier": "Solid",
-   "read": "neut",
-   "trend": "Strong uptrend",
-   "ret_1y": 0.8455,
-   "pe": -1.0,
-   "div_yield": 0.0509,
-   "headline": "Generic drug maker with strong price momentum but shrinking revenue and heavy debt"
   },
   {
    "symbol": "CHRW",
@@ -6175,6 +6110,19 @@
    "pe": 46.46,
    "div_yield": 0.0397,
    "headline": "Corning shows earnings pop but trades at steep price after recent selloff"
+  },
+  {
+   "symbol": "VTRS",
+   "name": "Viatris",
+   "sector": "Healthcare",
+   "score": 54.1,
+   "tier": "Solid",
+   "read": "neut",
+   "trend": "Strong uptrend",
+   "ret_1y": 0.8455,
+   "pe": -1.0,
+   "div_yield": 0.0509,
+   "headline": "Generic drug maker with strong price momentum but shrinking revenue and heavy debt"
   },
   {
    "symbol": "TRP",
@@ -6216,19 +6164,6 @@
    "headline": "Profitable trucking firm stumbles on price but keeps strong cash generation"
   },
   {
-   "symbol": "ROK",
-   "name": "Rockwell Automation",
-   "sector": "Industrials",
-   "score": 54.0,
-   "tier": "Solid",
-   "read": "neut",
-   "trend": "Losing steam",
-   "ret_1y": 0.0309,
-   "pe": 36.16,
-   "div_yield": 0.0183,
-   "headline": "Solid profitability masks slowing growth and high valuation in industrial automation"
-  },
-  {
    "symbol": "EQNR",
    "name": "Equinor ASA",
    "sector": "Energy",
@@ -6240,6 +6175,19 @@
    "pe": 10.74,
    "div_yield": 0.0856,
    "headline": "Oil giant with strong cash returns but shrinking revenue and analyst skepticism"
+  },
+  {
+   "symbol": "ROK",
+   "name": "Rockwell Automation",
+   "sector": "Industrials",
+   "score": 53.9,
+   "tier": "Solid",
+   "read": "neut",
+   "trend": "Losing steam",
+   "ret_1y": 0.0309,
+   "pe": 36.16,
+   "div_yield": 0.0183,
+   "headline": "Solid profitability masks slowing growth and high valuation in industrial automation"
   },
   {
    "symbol": "PHG",
@@ -6333,6 +6281,19 @@
    "headline": "Mexican beverage giant riding strong price momentum but facing growth headwinds"
   },
   {
+   "symbol": "VOD",
+   "name": "Vodafone Group Public Limited Company",
+   "sector": "Communication Services",
+   "score": 53.5,
+   "tier": "Solid",
+   "read": "neut",
+   "trend": "Pullback in uptrend",
+   "ret_1y": 0.2226,
+   "pe": null,
+   "div_yield": 0.1084,
+   "headline": "Vodafone: High yield masks unprofitable core business amid modest growth"
+  },
+  {
    "symbol": "HII",
    "name": "Huntington Ingalls Industries",
    "sector": "Industrials",
@@ -6398,6 +6359,19 @@
    "headline": "Explosive growth company burning cash hard; analysts bullish but valuation extreme"
   },
   {
+   "symbol": "TDG",
+   "name": "TransDigm Group",
+   "sector": "Industrials",
+   "score": 53.1,
+   "tier": "Solid",
+   "read": "neut",
+   "trend": "Downtrend, bouncing",
+   "ret_1y": -0.0703,
+   "pe": 31.7,
+   "div_yield": 0.0784,
+   "headline": "Profitable aerospace supplier faces heavy debt despite strong earnings growth"
+  },
+  {
    "symbol": "PLD",
    "name": "Prologis",
    "sector": "Real Estate",
@@ -6424,6 +6398,19 @@
    "headline": "Profitable tech giant with strong cash generation and rising debt load"
   },
   {
+   "symbol": "SW",
+   "name": "Smurfit WestRock",
+   "sector": "Consumer Cyclical",
+   "score": 52.9,
+   "tier": "Solid",
+   "read": "neut",
+   "trend": "Downtrend",
+   "ret_1y": 0.2048,
+   "pe": 46.49,
+   "div_yield": 0.04,
+   "headline": "Packaging giant with strong revenue growth but thin profits and high valuation"
+  },
+  {
    "symbol": "HAL",
    "name": "Halliburton",
    "sector": "Energy",
@@ -6435,19 +6422,6 @@
    "pe": 13.03,
    "div_yield": 0.0168,
    "headline": "Oil services company posting slow growth but cheap valuation and strong cash returns"
-  },
-  {
-   "symbol": "SYK",
-   "name": "Stryker Corporation",
-   "sector": "Healthcare",
-   "score": 52.8,
-   "tier": "Solid",
-   "read": "neut",
-   "trend": "Downtrend, bouncing",
-   "ret_1y": -0.1411,
-   "pe": 34.23,
-   "div_yield": 0.0102,
-   "headline": "Medical device maker with steady growth but elevated price, caught in downtrend"
   },
   {
    "symbol": "FLEX",
@@ -6528,17 +6502,17 @@
    "headline": "Regional bank with recent revenue pop but stuck in a downtrend near 52-week lows"
   },
   {
-   "symbol": "TMUS",
-   "name": "T-Mobile US",
-   "sector": "Communication Services",
+   "symbol": "WMB",
+   "name": "Williams Companies",
+   "sector": "Energy",
    "score": 52.5,
    "tier": "Solid",
    "read": "neut",
-   "trend": "Downtrend, bouncing",
-   "ret_1y": -0.1932,
-   "pe": 15.69,
-   "div_yield": 0.0175,
-   "headline": "Profitable telecom with strong cash flow faces near-term price headwinds"
+   "trend": "Downtrend",
+   "ret_1y": 0.1459,
+   "pe": 26.32,
+   "div_yield": 0.0278,
+   "headline": "Profitable midstream energy company facing price headwinds despite analyst backing"
   },
   {
    "symbol": "ALGN",
@@ -6551,7 +6525,7 @@
    "ret_1y": 0.1556,
    "pe": 24.34,
    "div_yield": null,
-   "headline": "Align Technology: Steady cash generator with modest growth and strong balance sheet"
+   "headline": "Profitable medical device maker with strong balance sheet but stuck in slow growth"
   },
   {
    "symbol": "LOW",
@@ -6567,17 +6541,17 @@
    "headline": "Lowe's shows solid profits and cash generation, but faces debt and mixed growth signals"
   },
   {
-   "symbol": "WMB",
-   "name": "Williams Companies",
-   "sector": "Energy",
-   "score": 52.4,
+   "symbol": "SYK",
+   "name": "Stryker Corporation",
+   "sector": "Healthcare",
+   "score": 52.3,
    "tier": "Solid",
    "read": "neut",
-   "trend": "Downtrend",
-   "ret_1y": 0.1459,
-   "pe": 26.32,
-   "div_yield": 0.0278,
-   "headline": "Profitable midstream energy company facing price headwinds despite analyst backing"
+   "trend": "Downtrend, bouncing",
+   "ret_1y": -0.1411,
+   "pe": 34.23,
+   "div_yield": 0.0102,
+   "headline": "Medical device maker with steady growth but elevated price, caught in downtrend"
   },
   {
    "symbol": "IFF",
@@ -6591,6 +6565,19 @@
    "pe": 108.43,
    "div_yield": 0.0434,
    "headline": "Specialty chemicals firm with strong price momentum but thin profits and expensive valuation"
+  },
+  {
+   "symbol": "TMUS",
+   "name": "T-Mobile US",
+   "sector": "Communication Services",
+   "score": 52.2,
+   "tier": "Solid",
+   "read": "neut",
+   "trend": "Downtrend, bouncing",
+   "ret_1y": -0.1932,
+   "pe": 15.69,
+   "div_yield": 0.0175,
+   "headline": "Profitable telecom with strong cash flow faces near-term price headwinds"
   },
   {
    "symbol": "ZTS",
@@ -6674,7 +6661,7 @@
    "symbol": "UMC",
    "name": "United Microelectronics Corporation",
    "sector": "Technology",
-   "score": 51.8,
+   "score": 51.7,
    "tier": "Solid",
    "read": "neut",
    "trend": "Losing steam",
@@ -6739,7 +6726,7 @@
    "symbol": "SPCX",
    "name": "Space Exploration Technologies Corp.",
    "sector": "Industrials",
-   "score": 51.0,
+   "score": 51.1,
    "tier": "Solid",
    "read": "neut",
    "trend": "Short-term downtrend",
@@ -6773,19 +6760,6 @@
    "pe": 15.64,
    "div_yield": 0.0106,
    "headline": "Profitable industrial company faces steep price decline despite strong cash generation"
-  },
-  {
-   "symbol": "SHW",
-   "name": "Sherwin-Williams",
-   "sector": "Basic Materials",
-   "score": 50.9,
-   "tier": "Solid",
-   "read": "neut",
-   "trend": "Turning up",
-   "ret_1y": 0.0183,
-   "pe": 31.65,
-   "div_yield": 0.0088,
-   "headline": "Profitable paint maker with strong cash generation, but growth is slowing and debt is high"
   },
   {
    "symbol": "DD",
@@ -6840,6 +6814,19 @@
    "headline": "Homebuilder with strong cash but facing revenue headwinds and earnings decline"
   },
   {
+   "symbol": "SHW",
+   "name": "Sherwin-Williams",
+   "sector": "Basic Materials",
+   "score": 50.5,
+   "tier": "Solid",
+   "read": "neut",
+   "trend": "Turning up",
+   "ret_1y": 0.0183,
+   "pe": 31.65,
+   "div_yield": 0.0088,
+   "headline": "Profitable paint maker with strong cash generation, but growth is slowing and debt is high"
+  },
+  {
    "symbol": "CEG",
    "name": "Constellation Energy",
    "sector": "Utilities",
@@ -6850,7 +6837,7 @@
    "ret_1y": -0.197,
    "pe": 28.23,
    "div_yield": 0.0091,
-   "headline": "Utilities giant with strong balance sheet stumbles on earnings despite revenue growth"
+   "headline": "Nuclear-backed utility with strong balance sheet, but valuation and earnings are stretched"
   },
   {
    "symbol": "MRNA",
@@ -6866,45 +6853,6 @@
    "headline": "Moderna stock surged 961% in a year but lost $2.8B; cash burning accelerates"
   },
   {
-   "symbol": "SCHW",
-   "name": "Charles Schwab Corporation",
-   "sector": "Financial Services",
-   "score": 50.2,
-   "tier": "Solid",
-   "read": "neut",
-   "trend": "Losing steam",
-   "ret_1y": -0.0458,
-   "pe": 15.1,
-   "div_yield": 0.0177,
-   "headline": "Growth accelerating but profitability collapsed to near zero"
-  },
-  {
-   "symbol": "SOLV",
-   "name": "Solventum",
-   "sector": "Healthcare",
-   "score": 50.0,
-   "tier": "Mixed",
-   "read": "neut",
-   "trend": "Uptrend",
-   "ret_1y": 0.2021,
-   "pe": 97.77,
-   "div_yield": null,
-   "headline": "Healthcare operator with strong profit margins facing revenue slowdown and cash burn"
-  },
-  {
-   "symbol": "XYL",
-   "name": "Xylem Inc.",
-   "sector": "Industrials",
-   "score": 50.0,
-   "tier": "Mixed",
-   "read": "bear",
-   "trend": "Downtrend",
-   "ret_1y": -0.3722,
-   "pe": 21.04,
-   "div_yield": 0.0146,
-   "headline": "Water tech leader faces sharp price decline despite solid cash generation"
-  },
-  {
    "symbol": "AWK",
    "name": "American Water Works",
    "sector": "Utilities",
@@ -6915,20 +6863,46 @@
    "ret_1y": 0.1351,
    "pe": 26.15,
    "div_yield": 0.0214,
-   "headline": "Utility with strong price momentum but burning cash and trading expensively"
+   "headline": "Utility with strong price momentum but negative cash flow raises profitability questions"
   },
   {
-   "symbol": "SBUX",
-   "name": "Starbucks",
-   "sector": "Consumer Cyclical",
+   "symbol": "SCHW",
+   "name": "Charles Schwab Corporation",
+   "sector": "Financial Services",
    "score": 49.9,
    "tier": "Mixed",
    "read": "neut",
-   "trend": "Turning up",
-   "ret_1y": 0.2411,
-   "pe": 62.38,
-   "div_yield": 0.0222,
-   "headline": "Starbucks at 52-week high with slowing sales but strong cash and buybacks"
+   "trend": "Losing steam",
+   "ret_1y": -0.0458,
+   "pe": 15.1,
+   "div_yield": 0.0177,
+   "headline": "Schwab shows revenue surge but profitability has vanished; analysts still bullish"
+  },
+  {
+   "symbol": "XYL",
+   "name": "Xylem Inc.",
+   "sector": "Industrials",
+   "score": 49.9,
+   "tier": "Mixed",
+   "read": "bear",
+   "trend": "Downtrend",
+   "ret_1y": -0.3722,
+   "pe": 21.04,
+   "div_yield": 0.0146,
+   "headline": "Water tech leader faces sharp price decline despite solid cash generation"
+  },
+  {
+   "symbol": "SOLV",
+   "name": "Solventum",
+   "sector": "Healthcare",
+   "score": 49.8,
+   "tier": "Mixed",
+   "read": "neut",
+   "trend": "Uptrend",
+   "ret_1y": 0.2021,
+   "pe": 97.77,
+   "div_yield": null,
+   "headline": "Healthcare operator with strong profit margins facing revenue slowdown and cash burn"
   },
   {
    "symbol": "BABA",
@@ -6983,6 +6957,19 @@
    "headline": "Utility giant with strong cash but rising debt; price momentum fading"
   },
   {
+   "symbol": "VMRK",
+   "name": "Vivmark Residential",
+   "sector": "Real Estate",
+   "score": 49.4,
+   "tier": "Mixed",
+   "read": "bear",
+   "trend": "Downtrend, bouncing",
+   "ret_1y": 0.0569,
+   "pe": 58.28,
+   "div_yield": 0.0206,
+   "headline": "Profitable REIT with slowing growth trades at steep valuation after year-long decline"
+  },
+  {
    "symbol": "CAT",
    "name": "Caterpillar Inc.",
    "sector": "Industrials",
@@ -7022,6 +7009,32 @@
    "headline": "Asset manager with strong cash flow but expensive valuation and slowing recent revenue"
   },
   {
+   "symbol": "SBUX",
+   "name": "Starbucks",
+   "sector": "Consumer Cyclical",
+   "score": 49.1,
+   "tier": "Mixed",
+   "read": "neut",
+   "trend": "Turning up",
+   "ret_1y": 0.2411,
+   "pe": 62.38,
+   "div_yield": 0.0222,
+   "headline": "Starbucks at 52-week high with slowing sales but strong cash and buybacks"
+  },
+  {
+   "symbol": "SWKS",
+   "name": "Skyworks Solutions",
+   "sector": "Technology",
+   "score": 48.9,
+   "tier": "Mixed",
+   "read": "neut",
+   "trend": "Strong uptrend",
+   "ret_1y": 0.3076,
+   "pe": 112.92,
+   "div_yield": 0.0287,
+   "headline": "Semiconductor designer posting strong price gains despite shrinking revenue and earnings"
+  },
+  {
    "symbol": "TSCO",
    "name": "Tractor Supply",
    "sector": "Consumer Cyclical",
@@ -7033,32 +7046,6 @@
    "pe": 19.84,
    "div_yield": 0.0208,
    "headline": "Farm-and-ranch retailer treading water: cheap valuation fights weak price trend"
-  },
-  {
-   "symbol": "SMCI",
-   "name": "Supermicro",
-   "sector": "Technology",
-   "score": 48.6,
-   "tier": "Mixed",
-   "read": "neut",
-   "trend": "Losing steam",
-   "ret_1y": -0.3047,
-   "pe": 5.19,
-   "div_yield": null,
-   "headline": "Supermicro: Explosive growth meets cash burn and stock price decline"
-  },
-  {
-   "symbol": "VTR",
-   "name": "Ventas",
-   "sector": "Real Estate",
-   "score": 48.6,
-   "tier": "Mixed",
-   "read": "neut",
-   "trend": "Turning up",
-   "ret_1y": 0.177,
-   "pe": 179.35,
-   "div_yield": 0.0399,
-   "headline": "Healthcare REIT with strong revenue growth but burning cash and trading expensively"
   },
   {
    "symbol": "BBD",
@@ -7074,17 +7061,17 @@
    "headline": "Brazilian bank trading cheap but grappling with earnings decline and cash flow stress"
   },
   {
-   "symbol": "SWKS",
-   "name": "Skyworks Solutions",
-   "sector": "Technology",
+   "symbol": "VTR",
+   "name": "Ventas",
+   "sector": "Real Estate",
    "score": 48.4,
    "tier": "Mixed",
    "read": "neut",
-   "trend": "Strong uptrend",
-   "ret_1y": 0.3076,
-   "pe": 112.92,
-   "div_yield": 0.0287,
-   "headline": "Semiconductor designer posting strong price gains despite shrinking revenue and earnings"
+   "trend": "Turning up",
+   "ret_1y": 0.177,
+   "pe": 179.35,
+   "div_yield": 0.0399,
+   "headline": "Healthcare REIT with strong revenue growth but burning cash and trading expensively"
   },
   {
    "symbol": "MCHP",
@@ -7139,6 +7126,19 @@
    "headline": "Beaten-down fintech services company with strong cash but earnings slumped"
   },
   {
+   "symbol": "SMCI",
+   "name": "Supermicro",
+   "sector": "Technology",
+   "score": 47.8,
+   "tier": "Mixed",
+   "read": "neut",
+   "trend": "Losing steam",
+   "ret_1y": -0.3047,
+   "pe": 5.19,
+   "div_yield": null,
+   "headline": "Supermicro: Explosive growth meets cash burn and stock price decline"
+  },
+  {
    "symbol": "DTE",
    "name": "DTE Energy",
    "sector": "Utilities",
@@ -7163,32 +7163,6 @@
    "pe": 14.64,
    "div_yield": null,
    "headline": "Honeywell Aerospace trades cheap but sits near 52-week lows with high volatility"
-  },
-  {
-   "symbol": "SBAC",
-   "name": "SBA Communications",
-   "sector": "Real Estate",
-   "score": 47.5,
-   "tier": "Mixed",
-   "read": "bear",
-   "trend": "Downtrend, bouncing",
-   "ret_1y": -0.0802,
-   "pe": 20.13,
-   "div_yield": 0.0146,
-   "headline": "Tower REIT with strong cash generation but massive debt and shrinking recent revenue"
-  },
-  {
-   "symbol": "TSN",
-   "name": "Tyson Foods",
-   "sector": "Consumer Defensive",
-   "score": 47.3,
-   "tier": "Mixed",
-   "read": "neut",
-   "trend": "Downtrend, bouncing",
-   "ret_1y": 0.0676,
-   "pe": 35.96,
-   "div_yield": 0.0406,
-   "headline": "Tyson Foods: Flat growth, thin profits, but cash returns to shareholders"
   },
   {
    "symbol": "APD",
@@ -7228,6 +7202,19 @@
    "pe": 20.87,
    "div_yield": 0.0288,
    "headline": "Regulated gas utility with modest growth but negative cash flow and high debt load"
+  },
+  {
+   "symbol": "SBAC",
+   "name": "SBA Communications",
+   "sector": "Real Estate",
+   "score": 47.1,
+   "tier": "Mixed",
+   "read": "bear",
+   "trend": "Downtrend, bouncing",
+   "ret_1y": -0.0802,
+   "pe": 20.13,
+   "div_yield": 0.0146,
+   "headline": "Tower REIT with strong cash generation but massive debt and shrinking recent revenue"
   },
   {
    "symbol": "ENB",
@@ -7360,19 +7347,6 @@
    "headline": "Auto parts supplier caught between weak earnings and cheap valuation"
   },
   {
-   "symbol": "TRMB",
-   "name": "Trimble Inc.",
-   "sector": "Technology",
-   "score": 45.9,
-   "tier": "Mixed",
-   "read": "bear",
-   "trend": "Downtrend",
-   "ret_1y": -0.2984,
-   "pe": -1.0,
-   "div_yield": null,
-   "headline": "Strong balance sheet and analyst support offset sharp price decline and earnings drop"
-  },
-  {
    "symbol": "NVR",
    "name": "NVR, Inc.",
    "sector": "Consumer Cyclical",
@@ -7397,6 +7371,19 @@
    "pe": 38.79,
    "div_yield": null,
    "headline": "Semiconductor maker in transition: shrinking revenue but recent quarter growth"
+  },
+  {
+   "symbol": "TRMB",
+   "name": "Trimble Inc.",
+   "sector": "Technology",
+   "score": 45.8,
+   "tier": "Mixed",
+   "read": "bear",
+   "trend": "Downtrend",
+   "ret_1y": -0.2984,
+   "pe": -1.0,
+   "div_yield": null,
+   "headline": "Strong balance sheet and analyst support offset sharp price decline and earnings drop"
   },
   {
    "symbol": "GNRC",
@@ -7438,19 +7425,6 @@
    "headline": "Fast-growing hardware company burning cash despite strong sales momentum"
   },
   {
-   "symbol": "VALE",
-   "name": "Vale S.A.",
-   "sector": "Basic Materials",
-   "score": 45.4,
-   "tier": "Mixed",
-   "read": "bear",
-   "trend": "Downtrend",
-   "ret_1y": -0.0859,
-   "pe": 27.42,
-   "div_yield": 0.0783,
-   "headline": "Mining giant with strong cash generation but shrinking revenue and steep price decline"
-  },
-  {
    "symbol": "LYB",
    "name": "LyondellBasell",
    "sector": "Basic Materials",
@@ -7475,6 +7449,19 @@
    "pe": 25.87,
    "div_yield": 0.0447,
    "headline": "Utility with strong analyst backing but negative cash flow and high debt raise concerns"
+  },
+  {
+   "symbol": "VALE",
+   "name": "Vale S.A.",
+   "sector": "Basic Materials",
+   "score": 45.0,
+   "tier": "Mixed",
+   "read": "bear",
+   "trend": "Downtrend",
+   "ret_1y": -0.0859,
+   "pe": 27.42,
+   "div_yield": 0.0783,
+   "headline": "Mining giant with strong cash generation but shrinking revenue and steep price decline"
   },
   {
    "symbol": "DOW",
@@ -7568,19 +7555,6 @@
    "headline": "Baxter rallies 44% in a year despite unprofitable operations and high debt"
   },
   {
-   "symbol": "RKLB",
-   "name": "Rocket Lab USA, Inc.",
-   "sector": "Industrials",
-   "score": 44.1,
-   "tier": "Mixed",
-   "read": "bear",
-   "trend": "Downtrend, bouncing",
-   "ret_1y": 0.2504,
-   "pe": -1.0,
-   "div_yield": null,
-   "headline": "Fast-growing space company burns cash despite strong sales momentum"
-  },
-  {
    "symbol": "PNW",
    "name": "Pinnacle West",
    "sector": "Utilities",
@@ -7617,7 +7591,20 @@
    "ret_1y": -0.1991,
    "pe": 27.93,
    "div_yield": 0.0095,
-   "headline": "KKR: Strong long-term growth stalled, but analysts see value"
+   "headline": "KKR: Strong long-term growth story undermined by recent revenue drop"
+  },
+  {
+   "symbol": "RKLB",
+   "name": "Rocket Lab USA, Inc.",
+   "sector": "Industrials",
+   "score": 43.8,
+   "tier": "Mixed",
+   "read": "bear",
+   "trend": "Downtrend, bouncing",
+   "ret_1y": 0.2504,
+   "pe": -1.0,
+   "div_yield": null,
+   "headline": "Fast-growing space company burns cash despite strong sales momentum"
   },
   {
    "symbol": "NI",
@@ -7631,6 +7618,19 @@
    "pe": 22.83,
    "div_yield": 0.0383,
    "headline": "Regulated utility with steady dividend but negative cash flow raises sustainability questions"
+  },
+  {
+   "symbol": "XEL",
+   "name": "Xcel Energy",
+   "sector": "Utilities",
+   "score": 43.5,
+   "tier": "Mixed",
+   "read": "neut",
+   "trend": "Turning up",
+   "ret_1y": 0.0042,
+   "pe": 19.16,
+   "div_yield": 0.0288,
+   "headline": "Regulated utility with analyst support but slowing growth and cash burn concerns"
   },
   {
    "symbol": "CMS",
@@ -7659,23 +7659,10 @@
    "headline": "Packaged food giant shrinking with losses, but cash flow and buybacks keep yield high"
   },
   {
-   "symbol": "XEL",
-   "name": "Xcel Energy",
-   "sector": "Utilities",
-   "score": 43.4,
-   "tier": "Mixed",
-   "read": "neut",
-   "trend": "Turning up",
-   "ret_1y": 0.0042,
-   "pe": 19.16,
-   "div_yield": 0.0288,
-   "headline": "Regulated utility with analyst support but slowing growth and cash burn concerns"
-  },
-  {
    "symbol": "TSLA",
    "name": "Tesla, Inc.",
    "sector": "Consumer Cyclical",
-   "score": 43.0,
+   "score": 43.3,
    "tier": "Mixed",
    "read": "neut",
    "trend": "Turning up",
@@ -7683,6 +7670,19 @@
    "pe": 466.91,
    "div_yield": null,
    "headline": "Tesla shows mixed signals: strong cash, stalled growth, expensive valuation"
+  },
+  {
+   "symbol": "TSN",
+   "name": "Tyson Foods",
+   "sector": "Consumer Defensive",
+   "score": 42.7,
+   "tier": "Mixed",
+   "read": "bear",
+   "trend": "Downtrend, bouncing",
+   "ret_1y": 0.0676,
+   "pe": 35.96,
+   "div_yield": 0.0406,
+   "headline": "Meat processor with flat growth, slim profits, and mixed analyst views"
   },
   {
    "symbol": "ORCL",
@@ -7698,19 +7698,6 @@
    "headline": "Oracle shows strong revenue growth but faces cash burn and steep price decline"
   },
   {
-   "symbol": "WY",
-   "name": "Weyerhaeuser",
-   "sector": "Real Estate",
-   "score": 42.3,
-   "tier": "Mixed",
-   "read": "bear",
-   "trend": "Downtrend, bouncing",
-   "ret_1y": -0.1003,
-   "pe": 33.36,
-   "div_yield": 0.0339,
-   "headline": "Timber REIT in downtrend with weak growth but strong balance sheet and buybacks"
-  },
-  {
    "symbol": "NKE",
    "name": "Nike, Inc.",
    "sector": "Consumer Cyclical",
@@ -7722,6 +7709,19 @@
    "pe": 19.01,
    "div_yield": 0.0137,
    "headline": "Nike slides 36% in a year as sales shrink; profitability holds steady"
+  },
+  {
+   "symbol": "WY",
+   "name": "Weyerhaeuser",
+   "sector": "Real Estate",
+   "score": 42.1,
+   "tier": "Mixed",
+   "read": "bear",
+   "trend": "Downtrend, bouncing",
+   "ret_1y": -0.1003,
+   "pe": 33.36,
+   "div_yield": 0.0339,
+   "headline": "Timber REIT in downtrend with weak growth but strong balance sheet and buybacks"
   },
   {
    "symbol": "JD",
@@ -7737,17 +7737,17 @@
    "headline": "China e-commerce giant with strong sales growth but razor-thin profits and falling stock"
   },
   {
-   "symbol": "SYY",
-   "name": "Sysco",
-   "sector": "Consumer Defensive",
-   "score": 41.8,
+   "symbol": "VST",
+   "name": "Vistra Corp.",
+   "sector": "Utilities",
+   "score": 41.9,
    "tier": "Mixed",
    "read": "bear",
    "trend": "Downtrend",
-   "ret_1y": 0.0099,
-   "pe": 21.27,
-   "div_yield": 0.0277,
-   "headline": "Steady food distributor with slowing growth and elevated debt load"
+   "ret_1y": -0.2492,
+   "pe": 20.44,
+   "div_yield": 0.0244,
+   "headline": "Power generator with strong analyst backing but significant recent price decline and debt load"
   },
   {
    "symbol": "PPL",
@@ -7763,6 +7763,19 @@
    "headline": "Utility with revenue growth but negative cash flow and heavy debt load"
   },
   {
+   "symbol": "SYY",
+   "name": "Sysco",
+   "sector": "Consumer Defensive",
+   "score": 41.6,
+   "tier": "Mixed",
+   "read": "bear",
+   "trend": "Downtrend",
+   "ret_1y": 0.0099,
+   "pe": 21.27,
+   "div_yield": 0.0277,
+   "headline": "Steady food distributor with slowing growth and elevated debt load"
+  },
+  {
    "symbol": "FE",
    "name": "FirstEnergy",
    "sector": "Utilities",
@@ -7774,19 +7787,6 @@
    "pe": 22.41,
    "div_yield": 0.0436,
    "headline": "Regulated utility with growing revenue but negative cash flow and weak profitability"
-  },
-  {
-   "symbol": "VST",
-   "name": "Vistra Corp.",
-   "sector": "Utilities",
-   "score": 41.5,
-   "tier": "Mixed",
-   "read": "bear",
-   "trend": "Downtrend",
-   "ret_1y": -0.2492,
-   "pe": 20.44,
-   "div_yield": 0.0244,
-   "headline": "Power generator with strong analyst backing but significant recent price decline and debt load"
   },
   {
    "symbol": "CARR",
@@ -7815,23 +7815,10 @@
    "headline": "Profitable telecom with heavy debt trades cheap but faces long-term headwinds"
   },
   {
-   "symbol": "TTWO",
-   "name": "Take-Two Interactive",
-   "sector": "Technology",
-   "score": 41.2,
-   "tier": "Mixed",
-   "read": "neut",
-   "trend": "Turning up",
-   "ret_1y": -0.0571,
-   "pe": -1.0,
-   "div_yield": null,
-   "headline": "Gaming giant losing money now despite analyst optimism, shares down from peak"
-  },
-  {
    "symbol": "WYNN",
    "name": "Wynn Resorts",
    "sector": "Consumer Cyclical",
-   "score": 41.2,
+   "score": 41.1,
    "tier": "Mixed",
    "read": "bear",
    "trend": "Downtrend, bouncing",
@@ -7852,6 +7839,19 @@
    "pe": 17.85,
    "div_yield": 0.0299,
    "headline": "PepsiCo trades below its highs with weak earnings but strong cash generation"
+  },
+  {
+   "symbol": "TTWO",
+   "name": "Take-Two Interactive",
+   "sector": "Technology",
+   "score": 40.7,
+   "tier": "Mixed",
+   "read": "neut",
+   "trend": "Turning up",
+   "ret_1y": -0.0571,
+   "pe": -1.0,
+   "div_yield": null,
+   "headline": "Gaming giant losing money now despite analyst optimism, shares down from peak"
   },
   {
    "symbol": "ES",
@@ -7917,19 +7917,6 @@
    "pe": 5.07,
    "div_yield": null,
    "headline": "Baidu trades cheap but burns cash while revenue barely grows"
-  },
-  {
-   "symbol": "SO",
-   "name": "Southern Company",
-   "sector": "Utilities",
-   "score": 39.4,
-   "tier": "Mixed",
-   "read": "neut",
-   "trend": "Downtrend, bouncing",
-   "ret_1y": 0.0146,
-   "pe": 21.41,
-   "div_yield": 0.0402,
-   "headline": "Utility giant with strong dividends but negative cash flow and heavy debt"
   },
   {
    "symbol": "MGM",
@@ -8049,19 +8036,6 @@
    "headline": "Revenue growing fast, but profits have nearly vanished and stock down 55% in a year"
   },
   {
-   "symbol": "WIT",
-   "name": "Wipro Limited",
-   "sector": "Technology",
-   "score": 36.4,
-   "tier": "Weak",
-   "read": "bear",
-   "trend": "Turning up",
-   "ret_1y": -0.2022,
-   "pe": 14.82,
-   "div_yield": 0.0025,
-   "headline": "Profitable Indian IT firm losing revenue and share value; debt load is severe"
-  },
-  {
    "symbol": "LEN",
    "name": "Lennar",
    "sector": "Consumer Cyclical",
@@ -8073,6 +8047,19 @@
    "pe": 16.44,
    "div_yield": 0.0118,
    "headline": "Homebuilder facing revenue decline with weak analyst support and downward price momentum"
+  },
+  {
+   "symbol": "WIT",
+   "name": "Wipro Limited",
+   "sector": "Technology",
+   "score": 36.1,
+   "tier": "Weak",
+   "read": "bear",
+   "trend": "Turning up",
+   "ret_1y": -0.2022,
+   "pe": 14.82,
+   "div_yield": 0.0025,
+   "headline": "Profitable Indian IT firm losing revenue and share value; debt load is severe"
   },
   {
    "symbol": "BNTX",
@@ -8153,6 +8140,32 @@
    "headline": "Regulated utility with slowing profits despite revenue growth and heavy debt"
   },
   {
+   "symbol": "SO",
+   "name": "Southern Company",
+   "sector": "Utilities",
+   "score": 32.6,
+   "tier": "Weak",
+   "read": "bear",
+   "trend": "Downtrend, bouncing",
+   "ret_1y": 0.0146,
+   "pe": 21.41,
+   "div_yield": 0.0402,
+   "headline": "Utility giant with strong dividend but negative cash flow and high debt"
+  },
+  {
+   "symbol": "SRE",
+   "name": "Sempra",
+   "sector": "Utilities",
+   "score": 32.1,
+   "tier": "Weak",
+   "read": "bear",
+   "trend": "Downtrend",
+   "ret_1y": -0.1556,
+   "pe": 16.78,
+   "div_yield": 0.0323,
+   "headline": "Utility giant shows strong balance sheet but revenue falling and cash flow deeply negative"
+  },
+  {
    "symbol": "MOS",
    "name": "Mosaic Company (The)",
    "sector": "Basic Materials",
@@ -8177,19 +8190,6 @@
    "pe": -1.0,
    "div_yield": 0.0232,
    "headline": "Unprofitable software firm with massive losses despite analyst optimism"
-  },
-  {
-   "symbol": "SRE",
-   "name": "Sempra",
-   "sector": "Utilities",
-   "score": 31.9,
-   "tier": "Weak",
-   "read": "bear",
-   "trend": "Downtrend",
-   "ret_1y": -0.1556,
-   "pe": 16.78,
-   "div_yield": 0.0323,
-   "headline": "Utility giant shows strong balance sheet but revenue falling and cash flow deeply negative"
   },
   {
    "symbol": "IRM",
@@ -8299,7 +8299,7 @@
    "symbol": "SKYD",
    "name": "Skydance Corporation",
    "sector": "Communication Services",
-   "score": 26.9,
+   "score": 26.8,
    "tier": "Weak",
    "read": "bear",
    "trend": "Downtrend",

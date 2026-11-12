@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend, bouncing
 
-## Align Technology: Steady cash generator with modest growth and strong balance sheet
+## Profitable medical device maker with strong balance sheet but stuck in slow growth
 
-Align Technology is a healthcare device company with $4.0B in annual revenue growing slowly at 1% year over year. The company is profitable, converting 10% of revenue to net income and generating $490.8M in free cash flow annually. It holds $1.1B in net cash with no debt.
+Align Technology makes medical devices and generates steady profits with $4.0B in annual revenue. The company keeps 10% of sales as net profit and sits on $1.1B in net cash. However, revenue growth has slowed to just 1% year over year, and the stock price has fallen 75% over five years.
 
 ### What is working
-- Strong balance sheet: $1.1B in net cash with no debt provides financial flexibility
-- Consistent cash generation: Free cash flow margin of 12% and $490.8M annual free cash flow
-- Shareholder-friendly capital allocation: Share count down 7.4% over 3 years through buybacks
+- Strong balance sheet: $1.1B net cash and no debt provide financial flexibility
+- Consistent profit generation: 10% net margin and 12% free cash flow margin show operational discipline
+- Shrinking share count: Down 7.4% over three years through buybacks, which can boost per-share value
 
 ### What to be careful about
-- Sluggish growth: Revenue up only 1% year over year and 3% annually over 3 years
-- Modest profitability: 10% net margin and 10% return on equity are respectable but not exceptional
-- Expensive valuation relative to growth: Trading at 24x earnings while growing revenue in low single digits
+- Anemic revenue growth: Only 1% increase year over year and 3% annually over three years
+- Stock down 75% over five years despite profitability, suggesting structural headwinds
+- Modest earnings growth: EPS up just 1% year over year despite share buybacks
 
-**Watch next:** Monitor whether revenue growth accelerates beyond the current 1-2% range, as this would justify the 24x earnings valuation.
+**Watch next:** Whether revenue growth accelerates above the recent 1-2% pace in coming quarters, since the company's core business is not expanding.
 
-**Tends to suit:** Long-term investors seeking stable cash flows and patient capital allocation over rapid growth, with tolerance for healthcare sector volatility.
+**Tends to suit:** Patient investors seeking a profitable, stable company with a strong cash position who are comfortable with minimal growth and high volatility.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-12. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $4.0B (+1% vs prior year)

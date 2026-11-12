@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Turning up
 
-## Utilities giant with strong balance sheet stumbles on earnings despite revenue growth
+## Nuclear-backed utility with strong balance sheet, but valuation and earnings are stretched
 
-Constellation Energy is a large utility company generating $22.7 billion in annual revenue with a fortress balance sheet (debt at 0.6x equity). It keeps 10% of revenue as profit and generates $1.3 billion in free cash flow yearly. Yet the stock has fallen 25% over the past year, and earnings per share dropped 38% most recently.
+Constellation Energy generates electricity and operates nuclear plants. Revenue jumped 20% last year to $22.7B, but earnings per share fell 38% year over year. The company trades at 28 times earnings while producing a 1.3% free cash flow yield.
 
 ### What is working
-- Balance sheet is fortress-like: debt only 0.6x shareholder equity, well-positioned for stability
-- Latest revenue jumped 13% year over year; full-year revenue rose 20% to $22.7B
-- Analyst consensus is strong: 86% of 29 analysts rate it a buy; consensus is Buy
+- Balance sheet is solid: debt is only 0.6x shareholder equity, giving room to invest
+- Analyst consensus is strong: 86% of 29 analysts rate it a buy
+- Buybacks shrinking share count by 4.6% over three years, concentrating ownership
 
 ### What to be careful about
-- Stock price down 25% over the past year and sits 22% of the way up its 52-week range
-- Earnings per share fell 38% most recently, a sharp deterioration despite revenue gains
-- Valuation looks stretched: P/E of 28.23 and free cash flow yield of only 1.3% limit upside
+- Earnings per share dropped 38% year over year despite revenue growth, signaling margin pressure
+- Valuation is high at 28x earnings with only 1.3% free cash flow yield
+- Price is down 20% over the past year and sits 25% below its 52-week high
 
-**Watch next:** Whether earnings per share stabilizes and rebounds in coming quarters, or if the 38% decline signals a deeper profitability challenge ahead.
+**Watch next:** Whether net income and earnings per share can recover and grow alongside the 13% latest quarterly revenue gain.
 
-**Tends to suit:** Long-term investors comfortable holding stable utility stocks through near-term volatility and who value strong balance sheets over near-term price momentum.
+**Tends to suit:** Investors seeking stable utility exposure who can accept high valuations and are willing to wait for earnings to match recent revenue growth.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-12. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $22.7B (+20% vs prior year)

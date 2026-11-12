@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend, bouncing
 
-## Industrial machinery company with steady cash generation but slowing growth
+## Industrial machinery firm with steady cash flow faces slowing revenue growth
 
-Dover is an industrials manufacturer with 8.1 billion in annual revenue and a 14% net profit margin. The company generates strong free cash flow of 1.1 billion annually and maintains a clean balance sheet with low debt relative to equity.
+Dover Corporation is a large industrial machinery company that converts 14% of revenue into profit and generates $1.1 billion in annual free cash flow. Recent quarter revenue jumped 8% year over year, but three-year growth has been flat at 1% annually. The stock price has risen 14% over the past year but sits 10% below its 52-week high.
 
 ### What is working
-- Free cash flow margin of 14% shows the business converts sales into cash efficiently
-- Balance sheet debt of 0.4x equity is conservative and leaves room for strategic flexibility
-- Analyst consensus is Buy with 75% of 24 analysts rating it positively
+- Free cash flow remains robust at $1.1 billion annually with a 14% margin, funding dividends and share buybacks
+- Latest quarter showed acceleration with revenue up 8% year over year after years of slow growth
+- Strong balance sheet: debt is only 0.4x shareholder equity, providing financial flexibility
 
 ### What to be careful about
-- Earnings per share dropped 59% year over year despite 8% revenue growth in latest quarter
-- Long-term revenue growth is only 1% annually over the past 3 years, well below inflation
-- Stock trades at 24x earnings and is down 2.2% over the past 6 months despite the 1-month bounce
+- Three-year revenue growth is just 1% annually, indicating the business is not expanding meaningfully over time
+- Earnings per share fell 59% year over year despite revenue gains, signaling profit compression
+- Stock trades at 23.94x earnings, which is elevated for a company growing revenue only 1% a year
 
-**Watch next:** Monitor whether the latest quarter's 8% revenue growth sustains or whether earnings rebound, since the 59% EPS decline suggests operational or one-time headwinds that need clarification.
+**Watch next:** Monitor whether the latest quarter's 8% revenue growth continues or reverts to the sluggish 1% annual pace of the prior three years.
 
-**Tends to suit:** Investors seeking steady cash generation and dividends from an established industrial company, comfortable with modest growth and moderate valuation multiples.
+**Tends to suit:** Patient investors seeking industrial exposure with reliable cash generation who can tolerate modest growth and are not expecting rapid stock appreciation.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-12. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $8.1B (+4% vs prior year)

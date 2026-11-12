@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Pullback in uptrend
 
-## Packaging company with strong revenue growth but thin profits and rising share count
+## Packaging company with strong revenue growth but thin profits and heavy share dilution
 
-Amcor is a large packaging and containers manufacturer with $23.5B in annual revenue. The company has grown revenue 20% annually over three years, but keeps only 5% of sales as profit. It pays a 5.3% dividend while its share count has grown 61% over three years.
+Amcor is a large packaging and containers manufacturer that has grown revenue 20% annually over three years. Recent earnings surged 49% year over year, though the company keeps only 5% of sales as profit. The stock sits 13% below its 52-week high after rising 4% over the past year.
 
 ### What is working
-- Revenue grew 20% per year over the last three years, with latest quarter up 7% year-over-year
-- Free cash flow yield of 5.9% and annual free cash flow of $1.2B provide cash for dividends and debt paydown
-- Price is 58% of the way up its 52-week range and above its 200-day moving average, showing an uptrend
+- Revenue jumped 57% in the latest fiscal year and grows 20% annually; latest quarter up 7% year over year
+- Earnings per share surged 49% year over year, showing improving profitability
+- Generates $1.2B in free cash flow annually with a 5.9% yield; debt is moderate at 0.7x equity
 
 ### What to be careful about
-- Net profit margin of only 5% means the company keeps very little from each dollar of sales
-- Share count has grown 61% over three years, diluting existing shareholders' ownership per share
-- Debt of $8.3B is substantial relative to annual free cash flow of $1.2B, requiring years to pay down
+- Net profit margin is only 5%, meaning the company converts just pennies of each dollar to profit
+- Share count grew 61% over three years, diluting existing shareholders by more than half
+- Stock is still down 28% over five years; current pullback sits 13% below the 52-week high of $50.58
 
-**Watch next:** Whether the company can grow free cash flow faster than its debt load, given that debt is 0.7x shareholder equity and cash generation is narrow.
+**Watch next:** Whether free cash flow can grow faster than the rapidly diluting share count to improve per-share cash generation.
 
-**Tends to suit:** Patient investors seeking dividend income who can tolerate low profit margins and dilution in exchange for exposure to consistent packaging demand.
+**Tends to suit:** Investors seeking a stable, dividend-yielding packaging business with modest growth who accept thin margins and share dilution risks.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-12. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-06-30)
 - Revenue $23.5B (+57% vs prior year)

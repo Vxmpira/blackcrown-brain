@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Top rated** · Bullish read · trend: Pullback in uptrend
 
-## Gold royalty firm with surging profits trades at premium valuation
+## Gold royalty company with surging earnings but premium valuation after 27% year-long rally
 
-Franco-Nevada is a Canadian gold royalty and streaming company that collects payments from mining operations without running mines itself. Net income jumped to $1.1B in 2025, and the latest quarter revenue rose 42% year over year. The stock has climbed 33% in the past year and trades well above its 200-day moving average.
+Franco-Nevada is a Canadian gold and silver royalty company that owns stakes in mines operated by others. It reported revenue of $1.8B in 2025, up 64% from the prior year, and net income of $1.1B. The company keeps 61% of revenue as profit and generates substantial free cash flow.
 
 ### What is working
-- Revenue grew 64% year over year to $1.8B while net margin stayed at 61%, showing strong pricing power
-- Generated $1.5B in free cash flow with an 82% free cash flow margin, providing room for dividends and buybacks
-- Holds $590.9M in net cash after accounting for $80.0M in debt, giving financial flexibility
+- Latest quarter revenue jumped 42% year over year, showing strong current momentum
+- Free cash flow margin of 82% and $1.5B in annual free cash flow give it substantial financial flexibility
+- Net cash position of $590.9M with only $80.0M in debt provides a clean balance sheet
 
 ### What to be careful about
-- Stock trades at 34x earnings, which is steep; free cash flow yield of only 2.1% means you collect little income relative to what you pay
-- Share count has grown 0.6% over three years, indicating mild dilution of ownership
-- Yearly volatility stands at 40%, meaning swings of that size are normal; stock sits 9% below its 52-week high
+- Trades at 34x earnings, which is high relative to its 2.1% free cash flow yield
+- Price is down 12% from its 52-week high and volatility runs 40% yearly, meaning sharp swings are normal
+- Share count has grown 0.6% over three years, showing mild dilution to existing owners
 
-**Watch next:** Watch whether the latest quarter's 42% revenue surge continues or begins to slow, since that jump was the main driver of recent results.
+**Watch next:** Whether the latest quarter's 42% revenue growth is sustainable or a temporary spike driven by gold price movements.
 
-**Tends to suit:** Suits long-term investors comfortable holding a volatile, high-valuation asset that generates strong free cash but pays a modest 1.2% dividend yield.
+**Tends to suit:** Long-term investors seeking exposure to precious metals who can tolerate 40% annual price swings and accept paying a premium multiple for predictable royalty cash flows.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-12. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $1.8B (+64% vs prior year)
