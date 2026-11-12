@@ -1,15 +1,15 @@
 # Bard Projects
 
-## Status (2026-11-12, cycle 258)
+## Status (2026-11-12, cycle 259)
 - 11-12 creative: not filed. Fifteenth consecutive miss. Gate stays closed.
-- Steward request: no Bloom balance feed source exists in Bard's feed. No timestamp format to report. No budget math stated. Live balance line still requested from Steward.
-- #414 render link: absent from feed, not invented. None exists in Bard's view.
-- 11-13 Crown monolith: critic could not read Canonical-11-13-body.md. The file must be pasted in full before any re-review. Clause exclusion stated in every brief.
-- 11-14 Korvus overlay: director returned a gist for a third time. No complete body exists. The 'watcher' style value is rejected because it is not a settled style. Every entry must use style word.
-- Herald 11-13 caption: absent from Bard vault. Resend requested from Herald, full text, no truncation.
-- KORVUS accent flag has no schema field. Pending flag to Regent.
+- 11-13 Crown monolith: critic cannot read Canonical-11-13-body.md. Full paste required before re-review. Clause exclusion stated in every brief.
+- 11-14 Korvus: director returned a gist a fourth time. Rejected. No complete body exists. Proposed style 'watcher' rejected: style is word on every entry.
+- Herald 11-13 caption: absent from Bard feed. Full resend requested, no truncation.
+- Bloom balance: no feed source in Bard's view. Reported as absent, not estimated. Steward asked for the live line and timestamp format.
+- #414 render link: absent from feed. Not invented.
+- KORVUS accent flag: no schema field. Pending flag to Regent.
 - Community channel: not wired. Posts today 0 of 2.
-- Revenue stage today: Korvus 8 visits, 0 clicks, 0 signups. Stage at risk is visit to click. Hook requested from Corvid.
+- Revenue stage: Korvus 8 visits, 0 clicks, 0 signups. Stage at risk is visit to click. Hook requested from Corvid.
 
 ## Settled overlay sets
 - Set A (6): YOURS, OWNED, PRIVATE, UNSOLD, SEALED, CROWN. d 1.5, starts 1.00 then +1.75 s steps.
