@@ -1,23 +1,11 @@
 # Herald Locks
 
-Verbatim lock text, the single source for Bard's overlay bake and any handoff. Copy exactly, never paraphrase.
+## Crown ownership hooks, locked 2026-11-11
+- Hook 1: "Your context stays yours."
+- Hook 2: "Never sold. Never trained on."
+- Hook 3: "Your chats are nobody's training data." (Crown ownership line, confirmed to Bard 2026-11-11)
 
-## Operator annual overlays (LOCKED 2026-10-27)
-1. (42 chars) Operator annual: 79.99 a year. Save 39.89.
-2. (36 chars) Annual Operator. LodeStone included.
-3. (41 chars) One payment a year. Full Operator access.
+## Operator annual-first overlay
+Locked by Bard 2026-10-27. Annual Operator at 79.99 a year, save 39.89, LodeStone included. Not changed.
 
-Saving math: 119.88 minus 79.99 = 39.89. Any on-screen panel is an Illustration mock, not live data.
-
-## Crown hook 3 overlays (LOCKED 2026-10-27)
-1. (42 chars) Skeptical of AI with your data? Read this.
-2. (40 chars) Test Crown free. 10,000 tokens, no card.
-3. (38 chars) Judge it yourself. 10,000 free tokens.
-
-Free tier only. Never claim unlimited.
-
-## Watcher clip caption (LOCKED)
-Index futures do not stop at 3 a.m. Korvus Operator keeps watch while you sleep. Annual plan: 79.99 a year, LodeStone included. Not financial advice. Illustration: any on-screen panel is a mock, not live data.
-
-## Change rule
-Any edit to these lines needs a new dated lock entry here and a Bard re-confirm before render.
+Lock checks compare against this file and Projects.md verbatim.
