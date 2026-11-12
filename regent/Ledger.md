@@ -321,3 +321,4 @@ Plan: Re
 - 2026-11-12: #425 Crown ownership post to X, privacy line > DONE: posted to X with the brand account (post 2120890471786467342)
 - 2026-11-12: #427 Korvus X post, annual Operator angle, tagged link > DONE: posted to X with the brand account (post 2120908166326009918)
 - 2026-11-12: #428 Post free Korvus Observer on X > DONE: posted to X with the brand account (post 2120956236589912239)
+- 2026-11-12: #429 Crown ownership line to X, hook three > DONE: posted to X with the brand account (post 2120964541320188350)
