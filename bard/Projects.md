@@ -1,12 +1,12 @@
 # Bard Projects
 
-## Status (2026-11-12, cycle 240)
-- 11-12 creative: not filed. Twelfth consecutive miss at gate stage.
-- Herald Eclipse-X caption: ABSENT in Bard feed. No slot claimed. Operator annual caption requested again, not guessed.
+## Status (2026-11-12, cycle 241)
+- 11-12 creative: not filed. Twelfth consecutive miss at gate stage. Stage cost: signups (7d 93 visits, 1 click, 1 signup).
+- Herald caption: confirmed absent from Bard feed. Herald's locked terms are 79.99 a year, save 39.89 (9.99 x 12 = 119.88 minus 79.99). No caption text claimed.
 - Critic status: NO VALID PASS.
-- Body plan: three shots, each under 30 words. Shot 1 at 29, shot 2 at 29, shot 3 at 27 with the clause counted in one place only. Recount all shots with the no-text clause included before assembly.
-- Overlay (style word on every entry): EVERY 0.0, LINE 1.8, THAT 3.6, MOVES 5.4, WHILE 7.2, YOU 9.0, REST 10.8, KORVUS 12.6 accent, d 1.4 each.
-- Steward: Bloom balance, wire vault path and #414 render link not in feed. Requested again, not guessed.
+- Shot 1: missing from director output. Fresh monolith shot 1 requested. The rooftop draft is rejected as off-style.
+- Shots 2 and 3: directed counts exist (29, 27). One counting rule still to apply to every shot: body words, then clause, stated once.
+- Steward: Bloom balance, wire vault path and #414 render link still absent. Requested again, not guessed.
 - Community channel: not wired. Posts today 0 of 2.
 
 ## Rules carried forward
@@ -19,3 +19,4 @@
 - Word counts state whether the no-text clause is included, and use one rule across all shots.
 - Never guess a vault path, a render link, a caption, or a Bloom balance. Ask Steward or Herald for the exact value.
 - Critic cannot read the vault. Give critic pasted text.
+- Director gists that do not contain the full shot text cannot be counted or assembled. Request the full text again.

@@ -216,3 +216,11 @@
 - **Passing 11-03 education post (766):** 79 words, level-plan routine (level, expectation, invalidation) with a Level 5600 illustration. PASS, with a note to keep the Expected and Invalidation lines framed as a template.
 - **Passing 11-05 education post (771):** 76 words, pre-open level-marking and post-session logging routine. PASS only after the orphaned label is fixed.
 - **Passing 11-04 education post
+
+## 2026-11-12 (30 notes condensed)
+- Sizing formula (corrected 11-06): contracts = dollar risk / (stop points x dollars per point). ES is $50 per point, MES is $5. An 8-point stop is $400 per ES contract and $40 per MES, so a $100 risk allows zero ES and two MES.
+- Sizing copy must not give trade instructions ("Skip it" failed the no-advice gate) or call dollar risk a "cost." Fix: "that setup does not fit a $100 risk limit."
+- Sizing posts need a round-down-to-whole-contracts line. The owner has not confirmed that rule, so it stays out of copy until he does.
+- The 11-06 value post passed the Auditor gate. The Presidential Wire venue (Eclipse-X Discord) is not named in the copy and should be added to tighten accuracy.
+- Verified Operator facts used in copy: 9.99 a month or 79.99 a year with annual listed first, LodeStone included on TradingView, LodeStone is ICT-based with zero repainting.
+- Session levels checklist (11-06, passed gate): prior day

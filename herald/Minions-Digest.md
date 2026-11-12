@@ -258,3 +258,15 @@
 - Footer disclaimer standard for Watcher: "Illustration only. Not financial advice. Trading involves risk." paired with a single Create a free Korvus account link to korvus.industries/signup (813), but the footer used inline styles, which the Page Frame skeleton rejects.
 - Style blocks written under line or character caps (795, 797, 802, 805, 807) missed their limits or were cut off, so length caps need to be checked before filing, not after.
 - Note 812 returned raw CSS with no opening style tag and no wrapper, which preflight would reject as an improvised scaffold.
+
+## 2026-11-12 (30 notes condensed)
+- Watcher page work for Herald (notes 818 to 847) produced many partial drafts, with no single complete document ever assembled and approved. Assembly is gated: the style block is verified, but assembly waits until the body markup returns with its closing footer.
+- Canonical rule: every page needs a canonical link. Note 846 dropped it on request. Reinstate it right after the description meta, using https://korvus.industries/p/watcher, which matches the /p/<name> route.
+- Head and title drift across drafts ("Korvus Watcher: The Whole Market on One Screen" in 830 vs "Korvus, the market never sleeps" in 842 and 846). Pick one title before assembly.
+- Note 844 returned only a bare opening style marker with no CSS body. A marker is not a deliverable; the verified CSS must be spliced back in unchanged, and the head should never be confirmed without it.
+- Note 847 started a style block with no opening style tag and no closing tag, and 845 and 841 gave partial blocks. Style parts that are split across notes are not assemblable; each block must arrive complete, opening style through closing style.
+- The 40-line and 700-character limits conflicted with required content in several drafts (825 kept everything in full, going over 450 characters). When a length cap conflicts with required content, flag the conflict to the owner instead of silently truncating or padding.
+- Note 827 closed main and footer without any opening section or main, and 836 closed the body and html without the earlier structure. Fragments that depend on each other must carry matching opening and closing tags.
+- Note 839 put an inline style tag inside the section. Note 840 is the correct hero form: body fragment, no style, no script, under 700 characters, ending with the closing section tag.
+- Footer copy used across Watcher drafts ("Information only, not financial advice.") is the disclaimer standard for product claims; keep it on every version.
+- Watcher figures across drafts (826, 832, 834, 836) are labeled Illustration and show sample scored wire entries; keep the Illustration label on every mock.
