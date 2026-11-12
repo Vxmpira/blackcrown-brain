@@ -395,3 +395,4 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-11-11: [APPROVED] #417 Operator annual X post, LodeStone included, not advice (via admin)
 - 2026-11-11: [APPROVED] #418 Daily human-likely visit report with bot signals (via reaction)
 - 2026-11-12: [REJECTED] #420 Pipe server job outputs into Corvid feed (note: preflight: "none" is not a file I can edit) (via preflight)
+- 2026-11-12: [REJECTED] #421 X post: watcher while you sleep, Korvus link (note: preflight: x posts need NEW carrying the exact final text) (via preflight)
