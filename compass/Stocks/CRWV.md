@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Weak** · Bearish read · trend: Downtrend
 
-## Fast-growing GPU infrastructure firm losing money and cash, stock down 52% in a year
+## Fast-growing infrastructure firm losing money and burning cash despite analyst optimism
 
-CoreWeave provides computing infrastructure for AI workloads. Revenue grew 168% in the latest year to $5.1 billion, but the company lost $1.2 billion and burned $7.3 billion in cash. The stock has fallen sharply and trades well below its highs.
+CoreWeave provides AI and cloud computing infrastructure. Revenue surged 168% year-over-year to $5.1 billion, but the company lost $1.2 billion and burned $7.3 billion in free cash flow. Share count has more than doubled in three years.
 
 ### What is working
-- Revenue grew 168% year over year to $5.1B, showing strong demand for AI compute resources
-- Latest quarter revenue of $2.6B was up 112% versus the prior year, maintaining acceleration
-- 52 analysts cover the stock with 71% rating it a buy, showing professional optimism about future prospects
+- Revenue growth of 168% year-over-year shows strong demand for its services
+- 71% of 52 analysts rate it a buy, reflecting belief in the business model
+- Latest quarter revenue hit $3.7 billion, maintaining the growth momentum
 
 ### What to be careful about
-- Company lost $1.2B in net income and burned $7.3B in free cash flow in the latest year
-- Debt is 7.1x shareholder equity, meaning the balance sheet is highly leveraged relative to assets owned by shareholders
-- Stock is down 52% over the past year and sits only 7% up from its 52-week low, showing sustained investor caution
+- Company lost $1.2 billion in the past year with a net margin of -23%
+- Free cash flow is negative $7.3 billion, meaning it is burning through cash faster than generating it
+- Debt is 11.8 times shareholder equity, a very high leverage level that limits financial flexibility
 
-**Watch next:** Whether CoreWeave can narrow losses and turn cash flow positive as revenue scales, since current burn rates are not sustainable without profitable growth.
+**Watch next:** Whether the company can close its massive gap between revenue growth and cash burn, and when losses narrow toward profitability.
 
-**Tends to suit:** Investors with high risk tolerance who believe AI infrastructure buildout will eventually drive profitability, and can tolerate multi-year losses and volatility above 97% yearly.
+**Tends to suit:** Investors with high risk tolerance who believe in the long-term AI infrastructure trend and can weather multi-year losses and volatility.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-12. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $5.1B (+168% vs prior year)
