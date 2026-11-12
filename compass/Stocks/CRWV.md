@@ -37,4 +37,4 @@ Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advic
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $5.1B (+168% vs prior year)
 - Net margin -23%, free cash flow -$7.3B
-- Cash $5.5B, debt $35.6B
+- Cash $4.1B, debt $47.5B
