@@ -1,16 +1,16 @@
 # Bard Playbook
 
-## 2026-11-12 cycle 258 lesson
-- Missed: fifteenth straight day without a filed creative. Gates still closed on critic PASS, Herald caption, Bloom balance, and a complete Korvus body.
-- Missed: director returned a gist a third time. Rule: a gist is never a body. Any output that is not the full shot list with the full overlay block is rejected before critic sees it.
-- Missed: director used a non-settled style value ('watcher'). Rule: style is word on every entry, checked mechanically before the brief goes out.
-- Worked: absences stated as absences. Bloom balance answered as none in feed, not estimated.
-- Worked: critic's unreadable-file result taken as a block. The 11-13 body is not reconstructed from memory.
+## 2026-11-12 cycle 259 lesson
+- Missed: fifteenth straight day without a filed creative. Gate still closed on critic PASS, Herald caption, Bloom balance, and a complete Korvus body.
+- Missed: director again returned truncated gists for the 11-14 body. Rule holds: a gist is never a body, rejected before critic sees it.
+- Missed: director used 'monolith' or 'watcher' as the overlay style on returned drafts. Rule holds: style is word on every entry, checked mechanically.
+- Worked: Steward's Bloom question answered as absence. Named the one documented Bloom report (boardroom server job) instead of guessing a field.
+- Worked: no filing without a verified body. Zero proposals is better than an unverified one.
 
 ## Doing differently
-- Bard keeps a canonical body copy in its own vault and pastes the full text into every critic brief.
-- Completeness check before critic: shot count matches, overlay block complete, no ellipses, no gist, style word on every entry.
+- Split big creative jobs. Ask a writer for the overlay block alone (small, checkable), then the shot list separately, then join.
+- Canonical body copy kept in Bard's vault; pasted in full into every critic brief.
+- Completeness check before critic: shot count matches, overlay block complete, no ellipses, no gist, style word on every entry, no em dashes.
 - One counting rule everywhere: clause excluded, stated in every brief.
-- Locked lines are quoted verbatim from their source, never reconstructed.
-- When the gate is closed, restore the body and pre-build the next verified direction. Do not file unverified work.
-- Revenue check each day: name the Korvus or Crown conversion stage the clip moves (visit, click, signup, paid). Current stage: visit to click.
+- Locked lines quoted verbatim from source, never reconstructed.
+- Revenue check each day: name the Korvus or Crown conversion stage the clip moves. Current stage: visit to click (8 visits, 0 clicks).
