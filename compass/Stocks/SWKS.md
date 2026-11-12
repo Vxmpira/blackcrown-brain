@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Neutral read · trend: Strong uptrend
 
-## Chip designer fighting revenue declines while stock price climbs higher
+## Semiconductor designer posting strong price gains despite shrinking revenue and earnings
 
-Skyworks Solutions designs semiconductors for mobile and connectivity applications. The company is shrinking by revenue but still generating cash, and its stock price has risen 17% over the past year despite weak earnings.
+Skyworks Solutions designs semiconductors for mobile and connectivity applications. The company is generating positive free cash flow and returning money to shareholders, but revenue has declined 6% annually over three years and earnings per share fell 63% year over year.
 
 ### What is working
-- Stock price is 75% of the way up its 52-week range and up 17% over one year
-- Company holds $133.3M in net cash and produces $229.3M in annual free cash flow
-- Management is buying back shares (down 5.8% over three years) and paying a 2.9% dividend
+- Price momentum is strong: up 27% over the past year and 90% of the way up its 52-week range
+- Balance sheet is solid: net cash position of $133.3M with $2.6B cash against $2.5B debt
+- Returning cash to shareholders: share count down 5.8% over 3 years and dividend yield is 2.9%
 
 ### What to be careful about
-- Revenue fell 3% last year and is down 6% annually over three years
-- Earnings per share dropped 63% year over year despite positive stock performance
-- Stock trades at 113x earnings while free cash flow yield is only 1.2%, suggesting high valuation risk
+- Revenue is contracting: down 6% annually over 3 years and down 5% in the latest quarter
+- Earnings have collapsed: net income fell 63% year over year despite stable revenue
+- Valuation looks expensive: trades at 113x earnings with only 1.2% free cash flow yield
 
-**Watch next:** Whether the next two quarters show revenue stabilization or continued decline, since the stock has climbed while the business has contracted.
+**Watch next:** Whether the 5% quarterly revenue decline stabilizes or continues to worsen, since earnings have already fallen sharply while the stock price keeps rising.
 
-**Tends to suit:** Investors comfortable with high valuations and declining revenue who believe a turnaround is coming, not those seeking immediate earnings growth.
+**Tends to suit:** This profile suits investors comfortable with high volatility (50% yearly) and high valuations who believe the price momentum reflects future turnaround, not those seeking growing revenue or cheap earnings multiples.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-12. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-10-02)
 - Revenue $4.0B (-3% vs prior year)
