@@ -16,3 +16,7 @@ In today's universe at $112.17, market cap $2.21B.
 
 - 2026-11-12 09:09 AM · 8-K · HIGH bull 78% · [[intel/Filings/2026-11-12|LEU files 8-K: other material event]]
 - 2026-11-11 09:04 AM · 8-K · routine · [[intel/Filings/2026-11-11|LEU files 8-K: executive / board change]]
+
+## Paper trades
+
+- 2026-11-12 09:17 AM · LONG 92 @ $108.33 · stop @ $106.90, -1.32%
