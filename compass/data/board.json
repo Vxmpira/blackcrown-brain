@@ -873,19 +873,6 @@
    "headline": "Profitable software firm at 52-week highs with heavy debt load"
   },
   {
-   "symbol": "META",
-   "name": "Meta Platforms",
-   "sector": "Communication Services",
-   "score": 74.0,
-   "tier": "Strong",
-   "read": "bull",
-   "trend": "Losing steam",
-   "ret_1y": -0.0047,
-   "pe": 21.79,
-   "div_yield": 0.0033,
-   "headline": "Meta grows fast and prints cash, but stock price has stalled this year"
-  },
-  {
    "symbol": "NDAQ",
    "name": "Nasdaq, Inc.",
    "sector": "Financial Services",
@@ -1118,6 +1105,19 @@
    "pe": 22.85,
    "div_yield": null,
    "headline": "Biotech with massive profitability swing, huge cash pile, but stretched valuation"
+  },
+  {
+   "symbol": "META",
+   "name": "Meta Platforms",
+   "sector": "Communication Services",
+   "score": 72.8,
+   "tier": "Strong",
+   "read": "bull",
+   "trend": "Losing steam",
+   "ret_1y": -0.0047,
+   "pe": 21.79,
+   "div_yield": 0.0033,
+   "headline": "Meta grows revenue fast and prints cash, but stock lost ground as valuations stay rich"
   },
   {
    "symbol": "ROST",
@@ -2225,19 +2225,6 @@
    "headline": "Tech giant with strong earnings growth faces near-term price pressure"
   },
   {
-   "symbol": "JCI",
-   "name": "Johnson Controls",
-   "sector": "Industrials",
-   "score": 68.4,
-   "tier": "Strong",
-   "read": "bull",
-   "trend": "Pullback in uptrend",
-   "ret_1y": 0.1797,
-   "pe": 30.09,
-   "div_yield": 0.0282,
-   "headline": "Industrial giant with strong cash generation, but valuation is stretched at 30x earnings"
-  },
-  {
    "symbol": "VLO",
    "name": "Valero Energy",
    "sector": "Energy",
@@ -3237,6 +3224,19 @@
    "pe": 19.14,
    "div_yield": 0.0016,
    "headline": "Healthcare IT company showing strong price momentum with steady but modest revenue growth"
+  },
+  {
+   "symbol": "JCI",
+   "name": "Johnson Controls",
+   "sector": "Industrials",
+   "score": 65.2,
+   "tier": "Strong",
+   "read": "bull",
+   "trend": "Pullback in uptrend",
+   "ret_1y": 0.1797,
+   "pe": 30.09,
+   "div_yield": 0.0282,
+   "headline": "Industrial giant on pause after strong run; profits solid but growth slowing"
   },
   {
    "symbol": "OMC",

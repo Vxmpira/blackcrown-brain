@@ -14,27 +14,27 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Pullback in uptrend
 
-## Industrial giant with strong cash generation, but valuation is stretched at 30x earnings
+## Industrial giant on pause after strong run; profits solid but growth slowing
 
-Johnson Controls is a $23.6 billion revenue industrial company that makes building and HVAC systems. It is profitable, generating $3.3 billion in net income and $2.1 billion in free cash flow annually. The stock has climbed 17% over the past year and trades near the top of its 52-week range.
+Johnson Controls is a large Irish industrial company that makes building systems and controls. It generated $25.7 billion in revenue last year with an 11% profit margin and strong cash flow of $3.4 billion. The stock has climbed 18% over the past year but recently pulled back 7.6% from its high.
 
 ### What is working
-- Earnings doubled year over year; latest quarter revenue grew 8% versus a year ago
-- Generates $2.1 billion in free cash flow annually with 9% margin; returns cash via 2.8% dividend and buybacks that reduced share count 6.5% over three years
-- Return on equity stands at 24%, showing management deploys capital efficiently; 63% of 27 analysts rate it a buy
+- Profit margin stays healthy at 11% of revenue, with free cash flow margin at 13%
+- Return on equity is strong at 21%, and the company is shrinking share count by 11.1% over three years through buybacks
+- Debt is light relative to equity at 0.6x, giving financial flexibility
 
 ### What to be careful about
-- Stock trades at 30x earnings, well above typical industrial averages; free cash flow yield of only 2.5% suggests limited margin of safety
-- Stock is down 8.2% over the past month and sits 10% below its 52-week high; volatility runs 33% annually
-- Revenue growth of 5% per year over three years is modest; operating margin of only 4% leaves little room for cost pressures
+- Earnings per share fell 7% year over year despite revenue growth, signaling profit pressure
+- Revenue growth has slowed to 5% annually over three years, even though latest quarter showed 10%
+- Stock trades at 30x earnings, which is elevated; free cash flow yield of 4.0% is modest
 
-**Watch next:** Whether the latest quarter's 8% revenue growth can sustain, or if the three-year trend of 5% annual growth resumes as the valuation multiple suggests expectations are high.
+**Watch next:** Monitor whether earnings per share can return to growth in the next quarter, since revenue gains have not yet translated to bottom-line expansion.
 
-**Tends to suit:** Long-term investors comfortable with industrial cyclicality who value steady cash generation over rapid growth, and who can tolerate current valuations that price in optimism.
+**Tends to suit:** Long-term investors comfortable with stable, dividend-paying industrials who can tolerate the stock's 33% annual volatility and do not expect rapid growth.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-12. Research, not advice.
 
-## Key numbers (fiscal year ended 2025-09-30)
-- Revenue $23.6B (+3% vs prior year)
-- Net margin 14%, free cash flow $2.1B
-- Cash $698.0M, debt $9.2B
+## Key numbers (fiscal year ended 2026-09-30)
+- Revenue $25.7B (+9% vs prior year)
+- Net margin 11%, free cash flow $3.4B
+- Cash $618.0M, debt $8.6B

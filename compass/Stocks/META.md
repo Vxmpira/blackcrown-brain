@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Losing steam
 
-## Meta grows fast and prints cash, but stock price has stalled this year
+## Meta grows revenue fast and prints cash, but stock lost ground as valuations stay rich
 
-Meta is a massive advertising and social media company generating $201 billion in annual revenue. It keeps 30% of every dollar as profit and produces $46 billion in free cash flow annually. The business is firing on most cylinders, but its stock has gone nowhere in the past year despite strong underlying performance.
+Meta is a massive advertising and social media company that grew revenue 26% in its latest quarter. It converts 30% of sales into profit and generates substantial free cash flow, but carries meaningful debt and trades at 22 times earnings.
 
 ### What is working
-- Revenue jumped 26% in the latest quarter and averaged 20% annual growth over three years
-- The company converts 30% of revenue into net profit and generates $46.1B in free cash flow
-- Return on equity stands at 22% and debt is only 0.3x shareholder equity, showing financial strength
+- Revenue accelerating: +26% in latest quarter, +20% annualized over 3 years
+- Profitability exceptional: 30% net margin, 41% operating margin, $46.1B free cash flow annually
+- Shareholder returns active: 4.7% share count reduction over 3 years via buybacks, plus 22% return on equity
 
 ### What to be careful about
-- Earnings per share fell 2% year over year even as revenue grew, signaling margin pressure
-- Stock price is down 19% from its 52-week high and flat over the past year despite business growth
-- Trades at 22x earnings and only offers a 2.8% free cash flow yield, leaving less room for disappointment
+- Stock momentum fading: down 19% from 52-week high of $777.59, up only 2% in 6 months despite strong earnings
+- Valuation not cheap: 22x earnings, 2.8% free cash flow yield offer limited margin of safety at current price
+- Debt load meaningful: $83.7B total debt, though offset by strong cash generation and 0.3x leverage ratio
 
-**Watch next:** Watch whether earnings per share can turn positive again while maintaining the 26% revenue growth rate in coming quarters.
+**Watch next:** Whether the recent €8 billion debt offering signals planned capital allocation shifts or signals company confidence in future cash generation despite recent stock weakness.
 
-**Tends to suit:** Suits long-term investors comfortable holding highly profitable, cash-generative tech companies through price swings and willing to wait for the market to recognize the gap between business strength and stock performance.
+**Tends to suit:** Long-term investors comfortable with high valuations who want exposure to profitable, cash-generative advertising platforms and can tolerate 41% annual price swings.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-12. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $201.0B (+22% vs prior year)
