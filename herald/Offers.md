@@ -1,29 +1,21 @@
 # Herald Offers
 
-Positioning: each product's promise in one line a buyer believes.
+One line per product, the promise a buyer believes.
 
-## Korvus Operator (korvus.industries)
-- Promise: the whole index futures picture on one screen, with a directional read, around the clock.
-- Price: 79.99 a year (annual listed first, saves 39.89 against 9.99 a month) or 9.99 a month.
-- Includes the LodeStone TradingView indicator.
-- Observer tier stays free.
+## Korvus Operator (annual first)
+Promise: The whole market picture on one screen, with LodeStone included, for 79.99 a year.
+Price: 79.99 a year, save 39.89 against 9.99 a month. LodeStone TradingView indicator included.
+Not financial advice. Education and information only.
 
-## 11-07 swing angle (briefed to Bard 2026-10-31)
-- Lead line (locked overlay): Operator annual: 79.99 a year. Save 39.89.
-- Support line: Annual Operator. LodeStone included.
-- Close line: One payment a year. Full Operator access.
-- Gate: the 11-06 annual 7-day test readout comes first. No performance claims in copy until the readout is filed.
-- Not advice. Keep the disclaimer on any product claim.
+## Korvus Observer (free)
+Promise: Open a free account at korvus.industries and see the terminal before you pay anything.
 
-## LodeStone
-- Standalone TradingView version: 19.99 a month.
-- Tradovate version: 149 one time.
-- Included free with Korvus Operator.
+## Crown (BlackCrown Intelligence)
+Promise: Your context stays yours. Never sold, never trained on. Free tier, no card.
 
-## Crown (blackcrown-intelligence.com)
-- Promise: your context stays yours, never sold, never trained on.
-- Free tier with no card. Crowned at 49.99 a month carries 100 dollars of room credit.
-- Crown messaging law: ownership angle only, no memory-gap claims.
+## Eclipse-X (free Discord)
+Promise: Free room of operators building alone in trading, AI and ecommerce.
 
-## Eclipse-X
-- Free Discord, top of the funnel. discord.gg/eclipse-x.
+## Wire clip caption (current, for Bard)
+Caption: Operator annual is 79.99 a year, save 39.89 against monthly. LodeStone indicator included. Scored news with impact, direction and confidence while you sleep. Stop paying for six tabs. Operator at korvus.industries. Not financial advice. Education and information only. Trading involves risk.
+Overlay candidates (exact lines, no words in footage): "79.99 A YEAR" / "SAVE 39.89" / "LODESTONE INCLUDED"

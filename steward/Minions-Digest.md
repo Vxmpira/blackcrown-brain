@@ -189,3 +189,14 @@
 - Eclipse-X Discord posts are not bound by the X 280 limit. Length is not a Discord check, and a Discord overnight-review post passed on tone, disclaimer, and product facts (694).
 - Hedged market-session commentary ("Asia and London often set the tone") clears the audit because "often" keeps it non-absolute. Cut it if zero market assertion is wanted (691).
 - Crier drafts for the 10-31 slot, 11-01 slot, and 11-02 slot were never filed. Their wording is not durable, but the "not advice" line and the one-claim, under-280 format held in every pass (665, 670, 675, 676, 684).
+
+## 2026-11-12 (30 notes condensed)
+- Claim tables and gate verdicts must be built only from pasted source text. Crier and Auditor repeatedly refused to rebuild the 11-01 Observer claim table or the 10-31 overnight text from memory, and the Auditor refused to score text it had not read.
+- Auditor found the 10-31 overnight gist truncated at row 7, and row 7 carried a trading-advice FAIL on the gist's own flag. Full verdicts need the complete row list through the final verdict line.
+- The 11-01 Observer claim table has a no-card claim that the Auditor ruled out and removed. Claim tables stay verbatim and numbered without gaps, with memory-gap copy, token counts, unlimited language, and landing-page dollar amounts flagged to the Auditor as notes, not edited.
+- Auditor WATCH flag: timing cues such as "review the news flow before the bell" read as education but are the phrase most likely to be taken as a suggestion to act at the open.
+- Auditor gate for Eclipse-X posts checks em dashes, emoji, Korvus offers or links, Illustration labels on sample numbers, the not-advice line, and word count. Gate results must trace to per-row evidence, not a pass count.
+- Auditor FAILED an 11-02 Eclipse-X draft on row 3 because its "Tool note" pitched LodeStone (a Stripe product) as the easier alternative to marking levels. Educational value posts must not pitch LodeStone or any Korvus-stack product.
+- A roughly 350-character Eclipse-X post would break the 280-character cap if routed to X; the destination channel must be stated before the length check runs.
+- Truncated check lists score as unverified; the Auditor asked for the full list before rerunning all six checks.
+- Reusable 11-02 trading value copy (passed the Auditor 6

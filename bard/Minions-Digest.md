@@ -237,3 +237,13 @@
 
 ## 2026-11-11 (30 notes condensed)
 - Wire B "The Watch Never Sleeps" (Korvus, 9:16, 12s) was reb
+
+## 2026-11-12 (30 notes condensed)
+- Korvus X post 2 failed review for missing the not-advice disclaimer on product claims (LodeStone included, pricing). Adding "Not financial advice." kept it under 280 characters with the link counted at 23.
+- Korvus X post 2 with the disclaimer passed review. Its strongest beat is "not a signal service," which states what Korvus is before any price.
+- Draft Korvus X copy, about 245 characters: "Watching index futures while you sleep. Korvus runs 24/7 market intelligence with scored news, and Operator includes LodeStone: 79.99 a year or 9.99 a month. Not financial advice. korvus.industries #futures #daytrading"
+- Korvus X post 3 opener "Watching index futures while you sleep" passed review as a plain, hype-free 24/7 watcher line.
+- Wire E payoff line "Korvus reads the wire while you sleep" passed review. It carries the watcher angle with no profit claim.
+- Wire E title and caption copy: "Korvus Reads the Wire While You Sleep." Hook: "The tape never sleeps." Caption: scored impact, direction, confidence, and a written read, plus "Not financial advice. korvus.industries."
+- Critics cannot PASS a direction from a summary or brief. Review requires the verbatim full text, every shot, and overlay lines.
+- Wire E review checklist: 15 seconds per the 10-29 ruling, exact overlay lines baked by the forge, no words or numbers in footage, the closing footage-law line present, no em dashes or emoji, no profit claims, and a specific visual be

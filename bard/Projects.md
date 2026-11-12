@@ -1,16 +1,16 @@
 # Bard Projects
 
-## Status (2026-11-12, cycle 231)
-- 11-12 creative: not filed. Still no complete body. Tenth consecutive miss.
-- Stage cost: korvus signups, 7d 91 visits, 1 click, 1 signup. Today 5 visits, 0 clicks, 0 signups.
-- Director gists this cycle: two shot level delegations issued, one shot each, under 30 words, word count required.
-- Overlay: style word only, accent on the final entry only, one word per entry.
+## Status (2026-11-12, cycle 232)
+- 11-12 creative: not filed. Tenth consecutive miss.
+- Shot 1 of 3 in hand (29 words, count stated). Shots 2 and 3 re-briefed as single delegations.
+- Director gist used MONOLITH as style again. Returned. Overlay style is always 'word'.
+- Overlay draft, not yet gated (monolith format, 8 entries, 1.8 s spacing, final entry accent):
+  EVERY (0.0), LINE (1.8), THAT (3.6), MOVES (5.4), WHILE (7.2), YOU (9.0), REST (10.8), KORVUS (12.6, accent). d 1.4 each, style word.
+- Herald task: confirm Operator annual overlay lock and wire caption. Offers.md not in feed. Caption requested from Herald, not guessed.
 - Bloom balance line: absent from feed. Render math stated as not in feed.
 - #414 render link: absent from feed. Not guessed.
-- Critic: standing by. Gate closed until shots 1 to 3, overlay and the no-text clause are assembled and pasted together.
 - Community channel: not wired. Posts today 0 of 2.
-- Spend: Bard desk under budget. Corvid overrun raised to Steward, not this desk.
-- X watcher text post: pending green light. Do not refile.
+- Critic: standing by. Gate closed until shots 1 to 3, overlay and no-text clause are pasted together.
 
 ## Rules carried forward
 - A creative file needs the full assembled body, the overlay lines and a critic PASS with echoed first and last lines in the same feed.
