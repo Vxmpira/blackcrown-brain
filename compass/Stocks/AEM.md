@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Top rated** · Bullish read · trend: Losing steam
 
-## Gold miner with surging profits and strong cash, but valuation and share dilution temper upside
+## Gold miner with surging earnings and cash, but stock price has cooled from its peak
 
-Agnico Eagle is a Canadian gold mining company that nearly doubled revenue and quadrupled net income in the past year. It sits on $1.5B in net cash and converts over one-third of sales into free cash flow.
+Agnico Eagle is a Canadian gold producer that nearly doubled revenue to $11.9B in 2025, with net income jumping to $4.5B. The company holds $1.5B in net cash and generates strong free cash flow, but its share price has retreated 26% from its 52-week high and sits below its long-term trend line.
 
 ### What is working
-- Net income jumped 134% year over year to $4.5B, with a net margin of 37%
-- Free cash flow of $4.4B and $1.5B net cash position provide financial flexibility
-- Revenue grew 44% in the latest year, extending a 28% annual growth trend over three years
+- Earnings per share jumped 134% year over year, while revenue climbed 44% in the latest year
+- Free cash flow margin of 37% and $4.4B in annual free cash generation support dividends and operations
+- Fortress balance sheet: $1.5B net cash position and 18% return on equity show efficient capital use
 
 ### What to be careful about
-- Stock is down 24% from its 52-week high and shows yearly volatility of 49%
-- Share count has grown 14.8% over three years, diluting existing holders
-- Trades at 17x earnings, higher than many industrials, leaving less margin of safety
+- Stock price down 5.1% over six months and sits 26% below its 52-week peak of $252.19, signaling momentum loss
+- Share count has grown 14.8% over three years, diluting existing shareholders despite strong earnings
+- Volatility of 49% yearly and valuation of 17x earnings mean the stock swings hard and trades at a premium to historic norms
 
-**Watch next:** Whether revenue growth can sustain its 44% pace or moderates toward the historical 28% annual trend as the company scales.
+**Watch next:** Whether the stock can hold above its 200-day moving average or if the six-month downtrend continues despite strong underlying cash generation.
 
-**Tends to suit:** Long-term investors comfortable with commodity price swings who want exposure to gold mining fundamentals and can accept near-term volatility.
+**Tends to suit:** Long-term investors comfortable with commodity price cycles who want exposure to a profitable gold producer with fortress finances and modest dividend income.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-12. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $11.9B (+44% vs prior year)

@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Uptrend
 
-## Swiss banking giant trading near its highs with strong cash flow but modest earnings growth
+## Swiss banking giant with strong cash generation and shareholder buybacks
 
-UBS is a diversified global bank with 35.4 billion in annual revenue. It is generating strong free cash flow of 21.9 billion and holds massive cash reserves of 231.4 billion. The company keeps 22% of every revenue dollar as profit.
+UBS is a large diversified bank headquartered in Switzerland with $35.4B in annual revenue. The company keeps 22% of revenue as profit and generated $21.9B in free cash flow last year. Analysts are split but lean toward a Buy rating.
 
 ### What is working
-- Stock is up 28% over the past year and sits 66% of the way up its 52-week range, showing sustained upward momentum
-- Earnings per share jumped 55% year over year, driven by revenue growth of 7% in the latest period
-- Free cash flow yield stands at 16.2%, and the company is shrinking share count by 3.2% over three years through buybacks
+- Price up 28% over the past year and sitting 67% of the way up its 52-week range, suggesting upward momentum
+- Free cash flow yield of 16.2% is strong; the company holds $231.4B in cash and is shrinking share count through buybacks
+- Earnings per share jumped 55% year over year; revenue grew 7% in the latest year
 
 ### What to be careful about
-- Return on equity is only 9%, meaning the bank generates modest returns on shareholder capital invested
-- Revenue grew just 5% per year on average over three years, suggesting slower underlying business expansion
-- Stock is currently 12% below its 52-week high, and yearly volatility is 28%, indicating meaningful price swings
+- Return on equity of 9% lags many peers; profit margin of 22% leaves room for improvement
+- Analyst consensus is soft with only 56% rating it a buy; 25 analysts are divided
+- Stock trades at 17x earnings and is already 11% below its 52-week high; yearly volatility of 28% means swings are large
 
-**Watch next:** Whether earnings growth momentum continues or slows back to the 5% baseline revenue growth rate the company has averaged over the past three years.
+**Watch next:** Monitor whether earnings per share growth holds above 20% and whether the free cash flow yield stays above 15%, as these fuel the buyback program.
 
-**Tends to suit:** Long-term investors seeking exposure to global banking and financial services who can tolerate 28% yearly volatility and value cash generation over rapid earnings expansion.
+**Tends to suit:** Long-term investors who want a large-cap bank with steady cash returns and can tolerate currency risk from a Swiss-listed company and don't need high dividend yield.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-12. Research, not advice.
 
 ## Key numbers (fiscal year ended 2021-12-31)
 - Revenue $35.4B (+7% vs prior year)

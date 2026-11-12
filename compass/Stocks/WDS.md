@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Losing steam
 
-## Profitable energy producer with strong cash generation facing revenue decline
+## Oil giant with strong cash flow but shrinking revenue and rising share count
 
-Woodside Energy is an Australian oil and gas exploration company. It generates substantial profits and free cash flow but has seen revenue shrink 8% over three years. The stock has gained 25% in the past year yet recently lost momentum.
+Woodside Energy is an Australian oil and gas producer generating $13.0 billion in annual revenue and $2.7 billion in net profit. The company is highly profitable and cash-generative but faces revenue decline and increasing dilution to shareholders.
 
 ### What is working
-- Keeps 21% of revenue as profit and generates $7.2B in free cash flow annually
-- Trades at 17.8% free cash flow yield with minimal debt at 0.3x shareholder equity
-- Up 25% over the past year and sits at mid-range valuation of 14.84x earnings
+- Net profit margin of 21% and free cash flow margin of 55% show strong operational efficiency
+- Free cash flow yield of 12.3% and P/E of 13x suggest the stock trades at a discount to earnings power
+- Minimal debt at 0.3x shareholder equity provides financial stability and flexibility
 
 ### What to be careful about
-- Revenue fell 1% year over year and declined 8% annually over three years
-- Earnings per share dropped 24% in the latest year despite high profitability
-- Share count grew 25.5% over three years, diluting ownership in each share
+- Revenue down 8% annually over 3 years and 1% year-over-year, signaling shrinking business scale
+- Earnings per share fell 24% year-over-year despite profitability, pressured by 25.5% share dilution over 3 years
+- Stock down 8.5% in the past month and 14% from its 52-week high, with momentum losing steam
 
-**Watch next:** Whether revenue stabilizes or continues its multi-year decline, since the company depends on commodity markets and production volumes.
+**Watch next:** Whether revenue decline stabilizes or accelerates further, as this is the core driver of long-term shareholder value despite strong current cash generation.
 
-**Tends to suit:** Long-term investors seeking high current cash returns who can tolerate commodity price swings and shrinking top-line revenue in exchange for strong balance sheet strength.
+**Tends to suit:** Long-term investors seeking high current cash returns who can tolerate cyclical energy sector volatility and accept ongoing shareholder dilution from the company's capital allocation.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-12. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $13.0B (-1% vs prior year)
