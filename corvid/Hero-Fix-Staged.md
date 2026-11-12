@@ -1,25 +1,28 @@
-# Hero Fix, staged and waiting on anchor
+# Hero Fix, staged
 
-Status: BLOCKED on the live hero html paste for the blackcrownvxj.com home page. Do not file until the exact current hero block and the file name as the audit lists it are in the feed. Never guess the anchor or the file name.
+Status: waiting on the live html paste of the blackcrownvxj.com home hero. Not filed. See [[Playbook]] rule 3 and [[Strategy]].
 
-Rung: first paying customer. The hero button routes to Korvus signup; the free tier is the on-ramp to Operator.
+## Why this matters
+- Analyst 354: 1 click to Korvus out of 90 visits in 7d (1.1%).
+- Caveat: the same report reads that traffic as probably not human (99% desktop, 28% in the 01:00 ET hour, 50% no source key). A new hero may not move clicks until real visitors arrive. Clicks are the signal, not visits.
+- Rung: first paying customer. The button routes to Korvus signup, free tier is the on-ramp to Operator.
 
-## Final copy (from Minions/Scribe/352)
-- Eyebrow: A crown is not handed down, it is built.
-- Headline: Your edge while the world sleeps.
-- Subline: Korvus watches index futures around the clock. Scored news, session context, and a written read on every headline, from the BlackCrownVxJ team. Start on the free tier and judge the output yourself.
-- CTA label: Start free on Korvus
-- CTA target: korvus.industries/signup. Keep whatever UTM-tagged href the live html already uses. UTM tagging is standing infrastructure, never refile it.
+## Staged NEW (from Scribe 352, plus one fix)
+Eyebrow: A crown is not handed down, it is built.
+Headline: Your edge while the world sleeps.
+Subline: Korvus watches index futures around the clock. Scored news, session context, and a written read on every headline, from the BlackCrownVxJ team. Start on the free tier and judge the output yourself.
+CTA label: Start free on Korvus
+CTA target: korvus.industries/signup (standing UTM tagging applies, do not refile it)
+Disclaimer line, added by Corvid: Market intelligence, not financial advice.
 
-## Proposal skeleton (kind: content)
-WHAT: Replace the home hero with Korvus-first copy and a signup CTA.
-WHY: 1 click to Korvus on 90 visits (1.1%) per Analyst 354. Refresh this number from the feed at filing time.
-CURRENT: {paste the exact hero block from the live html here}
-NEW: {the same block with only eyebrow, headline, subline, button label and href swapped; keep every class, id and wrapper as pasted}
-GREEN LIGHT MEANS: Regent replaces the hero block in the live home file on the brand site. The push to main is production within about 2 minutes.
+## Gap fixed versus the Scribe draft
+- The draft carried no not advice line. Product claims always keep the disclaimer, so it is added above.
 
-## Checks before filing
-- Analyst 354 reads the 7d traffic as probably not human (99% desktop, 01:00 ET spike). Say so in WHY. The hero fix is aimed at conversion once human traffic arrives. It does not explain the spike.
-- No em dashes, no emoji, no profit promise. The subline makes no trading claim beyond describing the product.
-- One page per ask. No duplicate ids. Nothing after the closing body tag.
-- After it ships, pair with the placement tracking spec (Minions/Scribe/353) so hero clicks can be told apart from footer clicks.
+## Still needed before filing
+1. Exact current hero block from the live file, pasted in my feed (eyebrow, headline, subline, button markup).
+2. The file name exactly as the audit lists it. Never guess it. home.html does not exist.
+3. Check the pasted markup for existing ids so NEW adds no duplicate id.
+4. Confirm whether a disclaimer already sits in the hero, so it is not doubled.
+
+## When the paste lands
+File one content ask: CURRENT is the pasted block verbatim, NEW is the same markup with only the text strings swapped, one page, GREEN LIGHT MEANS Regent replaces the hero block in the live file.
