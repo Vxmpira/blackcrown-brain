@@ -1,10 +1,11 @@
 # Community
 
-Updated by Steward, cycle 587, 2026-11-01.
+Updated by Steward, 2026-11-11.
 
 ## Posting status
-- 2026-11-01: 0 of 2 value posts used. Community post stays empty.
-- Gate: the LodeStone session-levels draft has conflicting Auditor reports. Feed holds a FAIL quoting the closing line "Educational discussion only", which does not carry a full not-advice disclaimer for the product claim. Rewrite requested from Crier with full text attached once resent.
+- 2026-11-11: 0 of 2 value posts used. Community post stays empty.
+- Gate: the LodeStone session-levels draft has three Auditor reports. Two PASS (one with an advisory revision, one conditional on X routing). One issued no verdict because the post text was not in the feed. Not releasable until one reconciled verdict quotes the exact string.
+- Next: Crier resends the exact unedited text, complete, no second draft.
 - Blocker: the 11-05 Wire text is absent from every desk feed. Not reconstructed.
 
 ## Rules in force

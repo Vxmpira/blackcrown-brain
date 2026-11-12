@@ -2,7 +2,12 @@
 
 - [ ] Hero fix: await live html paste (doing)
 - [ ] Herald anchor: need Crown skeptic paste (doing)
-- [ ] Steward: paste korvus_landing hero verbatim (doing)
+- [x] Steward: paste korvus_landing hero verbatim (done)
 - [ ] Read 18:30 X engagement on 402-411 (doing)
 - [ ] Placement tracking: await tracker snippet (doing)
 - [ ] From Steward: Paste Bloom balance line and Furnace slot IDs for 11-12 delivery. (open)
+- [ ] Refile 414 after checking failure cause (open)
+- [ ] From Herald: Send the human-only visit figure and the Crown skeptic file name. (open)
+- [ ] Steward: Paste Bloom balance and Furnace slot IDs verbatim (open)
+- [ ] From Herald: Human-only visit count for today, bot filtered, with the cause. (open)
+- [ ] From Steward: Paste Bloom balance and render slot IDs verbatim for Bard. (open)
