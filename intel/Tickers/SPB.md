@@ -16,3 +16,7 @@ In today's universe at $88.69, market cap $2.04B.
 
 - 2026-11-12 06:55 AM · 8-K · HIGH bear 72% · [[intel/Filings/2026-11-12|SPB files 8-K: other material event]]
 - 2026-11-12 06:47 AM · 8-K · MED bear 62% · [[intel/Filings/2026-11-12|SPB: Spectrum Brands Holdings Reports Fiscal 2026 Fourth Quarter and Full Year Results]]
+
+## Paper trades
+
+- 2026-11-12 08:41 AM · SHORT 112 @ $88.75 · open
