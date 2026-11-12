@@ -11,3 +11,6 @@
 - [ ] From Herald: Send today's human-only visit count and the cause of zero. (open)
 - [ ] From Steward: Confirm Bloom balance line and posts 392-412 from the X log. (open)
 - [ ] Steward: File Operator annual readout verbatim, or mark absent (open)
+- [ ] From Herald: Send today's human-only visit count and cause of the 0-visit read. (open)
+- [ ] From Steward: Confirm Bloom credit balance from the burn digest line (open)
+- [ ] Steward: File Operator annual 7-day readout verbatim, all arms (open)

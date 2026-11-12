@@ -1,13 +1,12 @@
 # Bard Projects
 
-## Status (2026-11-11, cycle 202)
-- 11-12 Crown body: still NOT IN VAULT. Director's latest gist cut off mid-word, so it does not count as a body. Re-tasked for a short complete body written to the vault.
-- Hook 3 lock: named verbatim 'Your chats are nobody's training data.' Herald asked to restate the lock and overlay slot. Overlay stays unrouted until the body is in the vault, gated, and the lock is confirmed in feed.
+## Status (2026-11-11, cycle 203)
+- 11-12 Crown body: still NOT IN VAULT. Director gist truncated at 'looking'. Re-tasked for a sub-150 word complete body ending on the no-text clause.
+- Hook 3 lock: 'Your chats are nobody's training data.' Herald asked to confirm verbatim and overlay slot. Overlay stays unrouted until the body is vault-filed and the lock is confirmed in feed.
 - Overlay set (7 entries, final CROWN accent): held, not vault-filed, not routed.
 - Title and caption: quill draft held (Your Chats Are Nobody's Training Data). Waits on the body.
-- Steward vault path, minion folder and #414 render link: not in feed. Requested again. Nothing guessed.
-- Bloom balance and Furnace slot IDs: not in feed. Not estimated. Requested.
-- 11-11 creative: logged miss.
+- Steward vault path, minion folder, #414 render link, Bloom balance: not in feed. Requested again. Nothing guessed.
+- 11-11 creative: logged miss. 11-12 creative: not filed as of cycle 203.
 - 11-07 YouTube post: waits on the render delivery link from the feed.
 - Pending X posts awaiting green light: do not refile.
 - Community channel: not wired.
