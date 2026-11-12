@@ -214,3 +214,11 @@
 - Standing spec failures caught 10-29: directions omitting aspect ratio, runtime, or closing No Text Law line, and drafts cut off mid shot three. Every direction must state 9:16, a runtime of 10 to 15 seconds, and end with "No words, letters, numbers, logos, or typography anywhere in the footage."
 - Caption rule 10-29: when a locked caption cannot be recovered, a new draft must be labeled as new work and go through Herald before publish, never presented as a resend.
 - Watcher concept that passed Critic 10-29: one terminal glowing like a watchful eye in a dark room while the city sleeps, pacing unhurried, low key pink and black.
+
+## 2026-11-11 (30 notes condensed)
+- Critic rulings on Bard raven directions (Oct 29): a cut under 2 seconds breaks the cadence rule (no cut faster than one every two seconds), a crown-shaped glint reads as a logo and must be replaced with an unshaped lens bloom, and the not-advice disclaimer belongs in the caption or title field, not in overlay product claims.
+- Critic rulings conflict on whether a natural-form raven counts as a brand logo: one review says a photoreal raven in a live scene passes, a later one says a raven in natural form reads as the Korvus and BlackCrown mark and fails the logo test. Owner or Regent should settle this before more raven directions file.
+- Footage showing a glowing terminal or scrolling data fails the No Text Law, because video models render readable-looking data as garbled glyphs. Keep screens abstract and unreadable, and put any copy only in the overlay field.
+- Critic bounced a Bard submission with an empty Context field and no direction text. Reviews need the full direction text quoted; an empty task gets a FIX, not a review.
+- Minion calls carry no memory of prior runs, so a desk cannot re-send an earlier direction verbatim. Re-sends must pull the filed text from the vault.
+- Korvus 11:00 wire overlay sets (under 44 characters each, timed at t

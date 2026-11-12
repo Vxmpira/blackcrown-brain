@@ -199,3 +199,12 @@
 - Korvus X angle lines (Minions/Pitch 656) use the watcher while you sleep framing with the not-advice disclaimer and under 280 characters, no dollar figures.
 - Korvus Operator landing copy with zero dollar figures (Minions/Prospector 642, Copy 659, 662, 666) gives a reusable structure: annual listed first, monthly second, LodeStone included, not-advice line, and prices left to inject from Stripe.
 - Five UTM click-test channel plan (Minions/Prospector 639): X kx_wire_test_01 at 2.0% visit-to-signup target, YouTube kx_watcher_test_01 at 2.5%, targets are hypotheses and rule checks on every channel are still unverified before posting.
+
+## 2026-11-11 (30 notes condensed)
+- Watcher landing drafts (Minions/Copy 668, 669, 671, 673, 676, 678, 681, 683, 685, 687, 696) were repeatedly delivered as incomplete or cut off mid-stylesheet, and none was verified to end in a closing html tag; the desk could not read the vault to confirm, so treat every watcher draft as unconfirmed until a vault-access check runs.
+- Watcher drafts drifted across at least four page slugs (/p/watcher, /p/index-watch, and others), so one slug must be chosen before filing; pages go in korvus repo pages/ and serve at /p/<name>.
+- Crown skeptic drafts (670, 677, 679, 680, 682, 684, 686, 688, 692, 695) drifted across several canonical URLs (blackcrown-intelligence.com/, /skeptics, /skeptics.html, /blackcrown-skeptic-page.html), and several drifted into "never trained on" plus "no card" framing without the one-claim-per-post discipline; pick one canonical target before filing.
+- Crown copy repeatedly used "$100" and "49.99" in meta descriptions; these are correct per the pricing ladder, but the drafts must not carry any memory-gap claim and must stay in the ownership-first messaging law.
+- Operator annual pricing copy (675, 693) was written with no dollar figures, which fits the rule that Korvus landing prices inject server side; keep the annual plan listed first with the computed savings label.
+- Click-leak analysis (691, 694): baseline 40 visits, 2 clicks, 0 signups over 7 days; no per-step funnel data exists yet ("not instrumented yet"), and the 694 event table (landing_view, scroll depth, CTA, signup, checkout) is the instrumentation spec to file, after checking the SERVER JOBS feed for an existing funnel rollup to extend.
+- Probable-audience profile for beginner overnight index futures traders (672) is knowledge-based, not live-verified; subreddit activity and the "what happened while I slept" phrasing need validation before any hook test.

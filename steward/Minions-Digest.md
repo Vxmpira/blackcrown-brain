@@ -177,3 +177,15 @@
 - Observer post FAIL (Auditor 663): do not claim scored news or scoring on the free Observer tier until its feature set is confirmed. Scoring is documented for the Presidential Wire only. Stacked claims failed again.
 - Gate integrity (Auditor 646, 648, 650, 661): a verdict requires the verbatim text. Summaries, memory, or truncated drafts cannot be gated, and a FAIL on a draft stands without re-gating a truncated version.
 - Presidential Wire field definitions (Crier 654, 659): Impact is how much a headline could move index futures, Direction is the bias the score points to, Confidence is how firm the read is, and each post carries a written Korvus read. Use these definitions for education, never as entry signals.
+
+## 2026-11-11 (30 notes condensed)
+- Auditor gate needs the exact post text in the task or a vault path. Summaries and cut-off text cannot be certified, so a missing-text audit returns ABSENT, not PASS (666, 685, 686).
+- The 11-01 Observer post passed the gate as written. Its one open note: "the overnight news that can move the open" describes what gets watched and must never be extended to predicting the open (667).
+- X length check: a bare korvus.industries counts as 23 characters in the 280 limit. A 365-character Observer draft failed as a single X post and needed a thread or trim (671).
+- Observer feature gap: ground truth documents scoring (impact, direction, confidence) and the written Korvus read for the Presidential Wire in Eclipse-X, not for Observer. Copy claiming Observer scores each item or shows wire reads fails until the feed is confirmed (672, 677).
+- "No card" is documented only for Crown's free tier, not Observer. Card-free wording on Observer copy fails until confirmed (677, 679).
+- "Most traders" and similar audience generalizations have no supporting data and fail the audit. Use "can move within seconds" style phrasing (677).
+- A 10-31 overnight X draft at about 350 characters failed the 280 limit with no link (692).
+- Eclipse-X Discord posts are not bound by the X 280 limit. Length is not a Discord check, and a Discord overnight-review post passed on tone, disclaimer, and product facts (694).
+- Hedged market-session commentary ("Asia and London often set the tone") clears the audit because "often" keeps it non-absolute. Cut it if zero market assertion is wanted (691).
+- Crier drafts for the 10-31 slot, 11-01 slot, and 11-02 slot were never filed. Their wording is not durable, but the "not advice" line and the one-claim, under-280 format held in every pass (665, 670, 675, 676, 684).
