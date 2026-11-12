@@ -15,3 +15,7 @@ In today's universe at $91.27, market cap $4.20B.
 ## Filings
 
 - 2026-11-12 05:01 PM · 8-K · HIGH bull 78% · [[intel/Filings/2026-11-12|DIOD files 8-K: earnings release, Reg FD disclosure]]
+
+## Paper trades
+
+- 2026-11-12 06:00 PM · LONG 109 @ $91.73 · open

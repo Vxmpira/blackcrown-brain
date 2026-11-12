@@ -1,9 +1,9 @@
 {
- "data_asof_utc": "2026-11-12T22:01:10.828527+00:00",
+ "data_asof_utc": "2026-11-12T23:00:41.449236+00:00",
  "scoreboard": {
   "strategy": "v3-all-sessions",
   "closed_trades": 4,
-  "open_trades": 0,
+  "open_trades": 1,
   "wins": 1,
   "losses": 3,
   "win_rate_pct": 25.0,
