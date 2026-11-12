@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Profitable data firm with strong momentum, but valuation is stretched at 31x earnings
+## Profitable financial data company with strong margins but pricey valuation
 
-Moody's is a financial data and analytics company that keeps 32 cents of every revenue dollar as profit. It grew revenue 9% last year and is returning cash to shareholders through buybacks, but recent quarterly growth has slowed to just 1% year over year.
+Moody's is a financial services firm that provides ratings and data to investors and institutions. It keeps 32 cents of every revenue dollar as profit and generates substantial cash. Revenue grew 9% last year but quarterly growth has slowed to just 1%.
 
 ### What is working
-- Operating margin of 43% shows the business converts sales into cash very efficiently
-- Return on equity of 75% means the company generates outsized profits from shareholder capital
-- Price up 17.5% in the past 6 months and sits 81% of the way up its 52-week range
+- Net profit margin of 32% and operating margin of 43% show exceptional efficiency
+- Free cash flow of $2.6B annually gives room for buybacks and dividends
+- Stock up 30% over 5 years and 17.1% over the past 6 months in strong uptrend
 
 ### What to be careful about
-- Latest quarter revenue grew only 1% versus a year ago, down sharply from the 9% annual rate
-- Stock trades at 31x earnings, which is in the expensive range historically
-- Debt of 6.9B is 4.6 times larger than cash on hand of 1.5B
+- Latest quarter revenue grew only 1% year over year, a sharp slowdown from annual 9%
+- Trades at 31x earnings, well above typical market averages, leaving little margin for error
+- Debt of $6.9B is nearly 5x the company's cash on hand of $1.5B
 
-**Watch next:** Whether quarterly revenue growth accelerates back toward the 9% annual trend or continues to decelerate, since the most recent quarter shows a material slowdown.
+**Watch next:** Watch whether quarterly revenue growth rebounds from 1% or continues to decelerate, as this will signal whether the recent slowdown is temporary or structural.
 
-**Tends to suit:** Long-term investors who seek stable, profitable businesses and are comfortable owning a stock trading at premium valuations, provided they believe growth will re-accelerate.
+**Tends to suit:** Suits investors seeking stable cash-generating businesses with pricing power who can tolerate premium valuations and don't need high dividend income.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-12. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $7.7B (+9% vs prior year)
