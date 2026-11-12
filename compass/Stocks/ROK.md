@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Losing steam
 
-## Profitable industrial automation leader fighting recent momentum loss
+## Solid profitability masks slowing growth and high valuation in industrial automation
 
-Rockwell Automation makes control systems and software for factory automation. The company is highly profitable with strong cash generation, but revenue growth has slowed to just 1% annually. Recent stock momentum has deteriorated, though the latest quarter showed 8% revenue acceleration.
+Rockwell Automation is an industrial machinery company generating $8.3B in annual revenue with strong cash generation and a 10% profit margin. The business is financially healthy but faces a disconnect between steady profitability and sluggish top-line growth over three years, while trading at a premium valuation.
 
 ### What is working
-- Keeps 10% of revenue as profit and generates $1.5B in free cash flow annually
-- Return on equity is 25%, meaning shareholder capital is being deployed efficiently
-- Buyback program has shrunk share count by 3.1% over three years while paying 1.8% dividend
+- Profitability is robust: 10% net margin and 19% free cash flow margin show disciplined operations
+- Return on equity of 25% demonstrates efficient use of shareholder capital
+- Active shareholder returns: 1.8% dividend yield plus ongoing buybacks shrinking share count by 3.1% over three years
 
 ### What to be careful about
-- Revenue growth is only 2% per year over three years, while earnings per share fell 7% most recently
-- Stock trades at 36x earnings with just 3.5% free cash flow yield, leaving little room for disappointment
-- Price is down 20% from its 52-week high and down 13.3% over the past six months
+- Revenue growth is weak: only 2% annual growth over three years, with latest quarter's 8% jump unclear if it signals sustained acceleration
+- Earnings per share declined 7% year over year despite revenue up 8%, suggesting margin pressure
+- Valuation is stretched: P/E of 36x is high for a company growing 2% annually, leaving little room for disappointment
 
-**Watch next:** Whether the 8% quarterly revenue growth represents a genuine turnaround or a temporary bounce after three years of sluggish expansion.
+**Watch next:** Whether the latest quarter's 8% revenue growth marks a genuine turnaround in the core business or a temporary spike, since annual growth has stalled at 2% historically.
 
-**Tends to suit:** Investors seeking stable cash-generating industrial businesses with modest growth who can tolerate near-term price weakness and elevated valuation multiples.
+**Tends to suit:** Long-term investors seeking stable cash generation who can tolerate high valuations and are comfortable with mature industrial growth rates, not those seeking rapid expansion.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-12. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-09-30)
 - Revenue $8.3B (+1% vs prior year)
