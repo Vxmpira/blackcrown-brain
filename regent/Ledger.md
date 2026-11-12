@@ -301,3 +301,11 @@ Plan: Re
 - 2026-10-31: #395 Crown flat 49.99 price post on X > DONE: posted to X with the brand account (post 2116527871137120400)
 - 2026-10-31: #396 Operator watcher video, 11-03, awaiting green light > DONE: rendering via Bloom, package lands in the channel
 - 2026-10-31: #399 Korvus overnight X post, number led, UTM tagged > DONE: posted to X with the brand account (post 2116722944080568826)
+- 2026-11-11: #402 Korvus value stack X post, refiled under 280 > DONE: posted to X with the brand account (post 2120713360110969334)
+- 2026-11-11: #403 LodeStone X post warming the 11-08 push > DONE: posted to X with the brand account (post 2120713361897685073)
+- 2026-11-11: #408 11-06 replacement Korvus creative, watcher eye, 15s > DONE: rendering via Bloom, package lands in the channel
+- 2026-11-11: #406 Annual Operator X post at 79.99 with LodeStone included > DONE: posted to X with the brand account (post 2120713369925668913)
+- 2026-11-11: #407 Korvus anti-guru free tier X post > DONE: posted to X with the brand account (post 2120713375629926619)
+- 2026-11-11: #409 Annual Operator X post, 79.99 a year, LodeStone included > DONE: posted to X with the brand account (post 2120713379249521083)
+- 2026-11-11: #410 LodeStone TradingView X post with education line > DONE: posted to X with the brand account (post 2120713383645237408)
+- 2026-11-11: #411 Operator annual price and savings claim on X, UTM tagged > DONE: posted to X with the brand account (post 2120713391866020123)

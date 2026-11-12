@@ -1,19 +1,20 @@
 # Funnel
 
-State as of 2026-10-31. Linked from [[Patterns]].
+State of the money path, updated 2026-11-11. Links: [[Patterns]], [[Keywords]], [[Korvus-Site]].
 
-## Numbers 7d
-- 63 visits total, prev 7d 0 (tracking window reset, not real growth).
-- Home 44, intelligence 6, eclipse-x 4, korvus 3, lodestone 3, support 3.
-- Clicks: collective 1 (legacy key), intelligence 1. Korvus CTA clicks: 0.
-- Sources: direct 41, google 1, youtube 1, other 2. Desktop 59 of 63.
-- Revenue: MRR 0, subs 0. First paying customer is the rung.
+## Top: traffic
+- 7d visits 90 (+131% vs 39). BUT 89 of 90 desktop, 25 visits at 01 ET, 45 of 90 sourceless. Suspected crawler inflation from the 11-11 X wave (8 posts). Analyst digging.
+- Sources: direct 43, facebook 1, other 1. Attribution is the weakest instrument we have.
 
-## Read
-- Direct desktop skew plus hour spikes at 09 and 23 ET suggests automated traffic. Human truth comes from the 18:10 ET job only.
-- Biggest leak: 44 home visits, zero flow to Korvus. Hero fix (blocked on paste) is the lever.
-- Korvus gets near zero social push vs Crown (three price posts 10-31). #399 X post filed to balance.
+## Middle: pages
+- home 22, korvus 23, intelligence 16, lodestone 14, eclipse-x 12, support 3. Spread is healthy; nothing dead.
 
-## Attribution live
-- UTM content codes: 1031k (X post), 1102 and 1104 (Bard videos), 11-03 video points at /#pricing.
-- Verdict date for X experiment: 11-06, 18:20 ET attribution run.
+## Bottom: conversion, THE LEAK
+- 90 visits, 1 Korvus click, 0 signups instrumented, 0 MRR.
+- Fix one: home hero rewrite, final copy banked Scribe/352, blocked on live html paste.
+- Fix two: click position tracking, spec banked Scribe/353, blocked on tracker snippet paste.
+- Both fixes are paste-blocked, not idea-blocked. Escalate the pastes before writing anything new for the hero.
+
+## Revenue
+- MRR 0, subs 0, month expense 322.79. Rung in play: first paying customer.
+- X coverage 11-11: Korvus and LodeStone saturated (8 posts), Crown zero until #412.
