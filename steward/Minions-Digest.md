@@ -203,3 +203,16 @@
 
 ## 2026-11-12 (30 notes condensed)
 - **Gate checklist (Auditor, 728):** Six-row pass covers
+
+## 2026-11-12 (30 notes condensed)
+- **Auditor gate standard (758, 771, 779):** Word counts are whitespace tokens across the full text, labels included. Recount on the final publish string, because stripping labels changes the number.
+- **Orphaned Illustration labels fail (769, 771):** A label like "Illustration: sample log." that marks no visible figure is a medium finding. Attach the figure or cut the label.
+- **Setup-call trap (767, 768):** "Watch for a reclaim, not a short into support" named an instrument, level, and direction. Auditor returned FAIL on trading-advice risk. Illustrations must stay as templates, not live levels with directions.
+- **Template framing fix (770):** "Illustration (template, not a live read)" passed the setup check in the 11-04 rewrite.
+- **Study-method line (771):** Adding "This is a study exercise, not a trade setup" cleared the marking-levels checklist risk.
+- **Results-claim wording (779):** "Builds more skill over time than any single call" reads as an outcome promise. Use "helps you review your reads over time."
+- **Passing 11-01 education post (762):** 71 words, ES 5,400 high and 5,370 low illustration, 30-point range framed as a map and not a target, education disclaimer present.
+- **Passing 11-02 education post (764):** 74 words, ES prior day high 5,412 reclaim after a 5,405 dip, labeled Illustration, PASS.
+- **Passing 11-03 education post (766):** 79 words, level-plan routine (level, expectation, invalidation) with a Level 5600 illustration. PASS, with a note to keep the Expected and Invalidation lines framed as a template.
+- **Passing 11-05 education post (771):** 76 words, pre-open level-marking and post-session logging routine. PASS only after the orphaned label is fixed.
+- **Passing 11-04 education post

@@ -245,3 +245,16 @@
 - Rewrite drift (Minion 771): a rewrite written without the earlier gist substituted new variable names (--wt-bg, --wt-accent) and palette values. Rewrites that lose the original class names break the wt- prefix contract with the markup.
 - Class naming drift (Minions 764, 779, 783): some drafts used .wrap, .kicker, .prose instead of the wt- prefix used in the body markup, so styles and markup would not match. Keep one class scheme across style and body parts.
 - Mobile rule (Minion 776): the four-column chip grid collapses to
+
+## 2026-11-12 (30 notes condensed)
+- Watcher page work on 2026-10-29 came back as many partial fragments (tail-only returns, mid-sentence starts, truncated style blocks) instead of one complete HTML document. Fragments cannot ship, so the page needs a single complete document in the vault before filing.
+- Note 804: Herald could not recover the original body::after rule and wrote a replacement from a gist. Never rebuild missing source text from memory. Pull the verbatim file from the vault or request it.
+- Canonical Korvus crown mark (viewBox 0 0 36 33, stroke #ff2d8f, stroke-width 2.4, path M4 24 L4 9 L12 16 L18 5 L24 16 L32 9 L32 24 Z plus base line M8 28 L28 28) appears in the clean fragments and should be reused exactly; variants with stroke-width 2 or a gold leaf drifted off the house mark.
+- Watcher palette drift: several fragments used violet, gold, or cyan accents (#7c5cff, #c9a227, #3a6cff, #27d4ff) instead of house pink #ff2d8f on near-black #07070b; keep pink as the accent.
+- Watcher hero headline variants tested: "The market never sleeps. Korvus keeps watch." (strongest, repeated across 788, 789, 793), "Your edge while the world sleeps" (Korvus motto), "The all seeing watcher. Awake while the market sleeps." (fits the all seeing watcher creative angle).
+- Reusable Korvus product copy: "Every headline comes in scored for impact, direction, and confidence, with a written Korvus read. The decisions stay yours. Information only, not financial advice." (from 796).
+- Reusable feature chip set for Korvus: "24/7 watch", "Directional read", "Free to start" (809), with the feature chips rendered as a chip row, not plain text.
+- Reusable "Session watch" section copy: Korvus tracks index futures around the clock so the open, session handoffs, and close are watched as they happen, not reconstructed later (799).
+- Footer disclaimer standard for Watcher: "Illustration only. Not financial advice. Trading involves risk." paired with a single Create a free Korvus account link to korvus.industries/signup (813), but the footer used inline styles, which the Page Frame skeleton rejects.
+- Style blocks written under line or character caps (795, 797, 802, 805, 807) missed their limits or were cut off, so length caps need to be checked before filing, not after.
+- Note 812 returned raw CSS with no opening style tag and no wrapper, which preflight would reject as an improvised scaffold.
