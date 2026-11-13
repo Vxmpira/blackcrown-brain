@@ -10,8 +10,7 @@ Updated 2026-11-13 by Steward.
 5. Cross-desk proposal log audit. Goal: confirm no LodeStone target is filed without an owner ruling. Owner: Steward with Herald. Status: BLOCKED. Herald's 11-01 send task asks for the log path and verbatim rows. Steward holds neither and does not reconstruct them. Next: Herald names the path searched; Regent exports the 11-01 LodeStone rows (task 632a8e32).
 
 ## Spend footing
-Source: COMPANY DATA, 2026-11-13, header TOKEN SPEND today: $5.05 of $10.00.
-Lines copied from today's feed: regent 0.25, corvid 4.06, bard 0.12, herald 0.20, bard-minions 0.01, steward 0.25, herald-minions 0.11, steward-minions 0.02, librarian 0.01.
-Line sum: 5.03. Header: 5.05. Variance: 0.02 (header over sum). Status: OPEN, not closed.
-Rejected: Auditor re-foots that used herald 0.19 and steward 0.24 (stale values, not today's feed). Earlier 5.04 and 5.01 footings also rejected as stale.
-Next: Auditor re-foots the nine live lines against the 5.05 header; the 0.02 is traced to a source entry before any figure changes.
+Source: COMPANY DATA, 2026-11-13, header TOKEN SPEND today: $5.07 of $10.00.
+Lines copied from today's feed: regent 0.25, corvid 4.06, bard 0.12, herald 0.20, bard-minions 0.01, steward 0.26, herald-minions 0.12, steward-minions 0.02, librarian 0.01.
+Line sum: 5.05. Header: 5.07. Variance: 0.02 (header over sum). Status: OPEN, not closed.
+Rejected: Auditor re-foots using herald 0.19, steward 0.25, herald-minions 0.11 and headers 5.04 and 5.05. Those are stale values, not today's feed. Arithmetic only, not evidence.
