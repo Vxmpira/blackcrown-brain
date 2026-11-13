@@ -296,3 +296,8 @@
 - Closing beat quotes diverge across reviews ("12 to 15 seconds" in 955 and 960, "11 to 15 seconds" in 957), so the reviewed direction versions are not being tracked by identifier (Critic, 955, 957, 960).
 - Three alternate X hooks for the monthly post: watcher angle, product angle (9.99 a month, LodeStone included), and operator voice angle ("I trade index futures myself") (Quill, 940).
 - Reusable overlay lines for the monthly watcher clip: "While you sleep, the market keeps moving." at 0s, "Korvus watches index futures 24/7." at 6s, "Operator 9.99 a month at korvus.industries" at 11s (Quill
+
+## 2026-11-13 (30 notes condensed)
+- Annual savings math is verified: 12 × 9.99 = 119.88, minus the 79.99 annual price, saves 39.89. Annual is listed first in Operator copy.
+- Korvus Operator copy approved in multiple drafts: "Operator includes the LodeStone TradingView indicator, a session level toolkit built on ICT concepts, zero repainting." Observer is the free tier. Keep the not-advice disclaimer beside the risk warning.
+- Watcher mon
