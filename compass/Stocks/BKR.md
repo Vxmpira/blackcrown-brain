@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Neutral read · trend: Downtrend
 
-## Baker Hughes: Strong cash generation faces near-term price weakness
+## Energy services firm with strong cash generation but weakening stock price
 
-Baker Hughes is an oil and gas equipment and services company with $27.7B in annual revenue. It is generating solid profits and free cash flow while carrying very little debt, though its stock price has fallen 24.4% over the past six months despite recent earnings growth.
+Baker Hughes provides equipment and services to the oil and gas industry. The company grew revenue 14% last quarter and generates substantial free cash flow, but its stock has fallen 23% over the past six months despite positive fundamentals.
 
 ### What is working
-- Latest quarter revenue jumped 14% year over year, showing current demand strength
-- Generated $2.5B in free cash flow with a 9% margin, funding dividends and buybacks
-- Holds $4.0B in net cash with only $27.0M in debt, giving financial flexibility
+- Latest quarter revenue jumped 14% year over year, showing recent demand strength
+- Free cash flow of $2.5B with 5.2% yield provides cushion for dividends and buybacks
+- Net cash position of $4.0B with minimal debt of $27.0M strengthens financial flexibility
 
 ### What to be careful about
-- Stock is down 24.4% over six months and sits 30% below its 52-week high
-- Price volatility is high at 36% yearly, making downside swings common
-- Annual revenue is flat versus the prior year despite quarterly momentum, suggesting uneven conditions
+- Stock is down 22.9% over six months and sits 29% below its 52-week high
+- Price is below its 200-day moving average with downtrend momentum in place
+- Net profit margin of 9% is modest, leaving limited room for operational surprises
 
-**Watch next:** Whether the 14% quarterly revenue growth can sustain into full-year 2026 results, or if it was a one-time spike that masks a slowing trend.
+**Watch next:** Whether the 14% quarterly revenue growth can sustain into 2026 or if the price decline signals weakness ahead that fundamentals have not yet reflected.
 
-**Tends to suit:** Long-term investors comfortable with energy sector cyclicality and willing to hold through price swings for steady cash generation and dividends.
+**Tends to suit:** Investors who believe energy infrastructure demand remains solid and can tolerate near-term stock weakness to benefit from free cash flow yields and analyst support over years.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-12. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-13. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $27.7B (-0% vs prior year)

@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Neutral read · trend: Turning up
 
-## Asset manager with strong cash generation faces sharp revenue drop and lofty valuation
+## Asset manager with strong cash generation but recent revenue drop raises questions
 
-Apollo Global Management is a large asset manager with 32 billion dollars in annual revenue. The company generates solid profits and substantial free cash flow, but recent quarterly results have weakened significantly.
+Apollo Global Management is a large financial services firm managing assets worldwide. The company generated $32.0B in revenue last year and $3.4B in profit, but its most recent quarter showed a sharp 52% revenue decline compared to a year earlier.
 
 ### What is working
-- Free cash flow yield of 10.0% suggests strong cash generation relative to market value
-- Return on equity of 21% shows the company uses shareholder capital efficiently
-- Revenue grew 43% annually over the past three years, showing long-term expansion
+- Annual revenue has grown 43% per year over three years, showing long-term business expansion
+- Produces strong free cash flow of $7.2B yearly and maintains healthy 11% net profit margin
+- Return on equity stands at 21%, meaning the company generates solid returns on shareholder capital
 
 ### What to be careful about
-- Latest quarter revenue dropped 52% year over year, signaling a sharp recent deterioration
-- Stock trades at 38.48x earnings, well above typical valuations for asset managers
-- Price is 40% below its 52-week high and sits below its 200-day average, showing downward momentum
+- Latest quarter revenue fell 52% year over year, signaling a sharp near-term slowdown
+- Earnings per share declined 24% year over year despite full-year revenue growth
+- Stock trades at 38x earnings, a high valuation multiple that leaves little room for disappointment
 
-**Watch next:** Whether the 52% quarterly revenue decline represents a temporary cyclical dip or the start of a sustained slowdown in the asset management business.
+**Watch next:** Monitor whether the 52% quarterly revenue drop reflects a temporary slowdown or signals a sustained shift in client activity and business conditions.
 
-**Tends to suit:** Investors who can tolerate significant price swings and are comfortable with asset management cyclicality, but are skeptical of the current valuation.
+**Tends to suit:** Suits investors comfortable with financial services cyclicality who can tolerate 37% annual volatility while seeking exposure to asset management fundamentals and cash generation.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-12. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-13. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $32.0B (+23% vs prior year)
