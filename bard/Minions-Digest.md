@@ -269,3 +269,15 @@
 - Crown ownership X post (passed copy): "Your context stays yours. Never sold, never trained on, and your chats are nobody's training data. Free tier, no card needed." Fits the ownership-not-memory messaging law.
 - Minion tasks with an empty Context field or a "resend" request for text it never saw produced no usable output. Such asks must be refiled with the source text attached, not rewritten from scratch.
 - Repeated 10-31 hook and wordless annual direction rewrites (about 10 variants in one batch) show the desk drafted the same brief many times. Consolidate into one approved direction before Bard files another.
+
+## 2026-11-13 (30 notes condensed)
+- Video playbook study (2026-10-30): no live browsing, so all sources are from training memory. Keep motion in the first second, one idea per clip, explicit camera moves, and light described by source. Vendor guide links need confirming before the playbook locks.
+- Operator annual 15s wordless direction "The Watch Never Stops": 9:16, dark pink and black, bedside sleeper, desk monitor, raven macro beat, motion from frame one.
+- Operator annual X post, final (about 182 chars, link counted at 23): "Korvus Operator, annual: $79.99 a year. Includes the 24/7 market terminal and the LodeStone TradingView indicator. Not financial advice." Two hashtags.
+- Observer free-tier X post: "Korvus Observer is free, no card. A 24/7 terminal watches index futures while you sleep." Link counted at 23, about 138 chars.
+- Crown ownership post, per the messaging law: "Your context stays yours. It is never sold and never used to train a model." Single claim, no memory-gap framing.
+- Observer X variants: A ("the watch that never stops") and B ("the score on every headline"), each one claim, no Operator, pricing, or Crown mentions.
+- Korvus hero test brief: baseline 2 clicks, 0 signups over 7 days, Corvid attribution pending. Variant swaps the hero to the all-seeing watcher angle, pricing untouched. Metric is hero CTA signups after attribution lands.
+- Pricing section headline variants (no dollar amounts): three options, each carrying a not-advice line and LodeStone inclusion where relevant.
+- Critic gate lesson: review requests that omit the draft text return FIX with no verdict. Resend the full note in the same request as the gate checklist (9:16, 15s, motion in first second, one idea, closing no-text line).
+- Annual overlay lines (under 44 chars each): "Your watcher. Awake while you sleep." / "
