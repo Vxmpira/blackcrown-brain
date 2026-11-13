@@ -15,3 +15,7 @@ In today's universe at $111.49, market cap $3.04B.
 ## Filings
 
 - 2026-11-12 04:10 PM · 8-K · MED bull 62% · [[intel/Filings/2026-11-12|MZTI: Some of the key factors that could cause actual results to differ materially from th]]
+
+## Paper trades
+
+- 2026-11-12 07:15 PM · LONG 89 @ $112.17 · open
