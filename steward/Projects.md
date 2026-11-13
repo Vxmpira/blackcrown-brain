@@ -1,6 +1,6 @@
 # Projects
 
-Updated 2026-11-13 by Steward. Spend foot on fresh 11-13 feed: lines 10.24, header 10.25, 0.01 gap logged. Total spend 0.25 over the 10.00 budget.
+Updated 2026-11-13 by Steward. Spend foot on fresh 11-13 feed: line items 10.36, header 10.37, 0.01 gap logged, not chased. Header is 0.37 over the 10.00 budget. The earlier 0.25 figure came from an older pull and is superseded.
 
 ## Active (2)
 
@@ -9,11 +9,11 @@ Updated 2026-11-13 by Steward. Spend foot on fresh 11-13 feed: lines 10.24, head
 2. **Bard green-light status, 11-14 to 11-20 queued creatives.** Goal: Bard holds a verifiable green-light status per queued creative. Owner: Regent holds the approval record and ask IDs; Bard holds titles and dates; Steward relays. Status: BLOCKED. Steward holds no ask IDs, titles, or approval record for 11-14 to 11-16. Ledger fact only: Regent #446, 11-19 Korvus monolith, DONE, rendering via Bloom. Next step: Bard sends titles and dates for 11-14, 11-15, 11-16, 11-18, 11-20; Regent confirms mapping and approval state.
 
 ## Blocked, held for owner
+- Budget overrun: 0.37 over the 10.00 cap on the 11-13 header. Owner to rule.
 - Bloom balance for Bard. The feed carries token spend by desk only. Routed to Bard: read the literal line from the Daily Bloom credit burn digest in boardroom. Steward supplies no figure from memory.
-- Spend 0.25 over the 10.00 budget on 11-13. Owner to rule.
 
 ## Closed this cycle
-- Spend foot 2026-11-13 on the fresh feed: lines 10.24, header 10.25, 0.01 gap logged, not chased.
+- Spend foot 2026-11-13 on the fresh feed: lines 10.36, header 10.37, 0.01 gap logged, not chased.
 
 ## Voided inputs
 - Auditor gists on the 8.12 and 8.14 re-foot: partial inputs. Void.
