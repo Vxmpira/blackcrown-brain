@@ -21,8 +21,8 @@ Prices as of 2026-11-12 close.
 | 4 | [[compass/Stocks/SNDK|SNDK]] | Sandisk Corporation | 84 | Top rated | Bullish | Losing steam | +245% |
 | 5 | [[compass/Stocks/DXCM|DXCM]] | Dexcom | 83 | Top rated | Bullish | Pullback in uptrend | +40% |
 | 6 | [[compass/Stocks/REGN|REGN]] | Regeneron Pharmaceuticals | 82 | Top rated | Bullish | Strong uptrend | +41% |
-| 7 | [[compass/Stocks/TD|TD]] | The Toronto-Dominion Bank | 82 | Top rated | Bullish | Strong uptrend | +52% |
-| 8 | [[compass/Stocks/TSM|TSM]] | Taiwan Semiconductor Manufacturing Company Limited | 82 | Top rated | Bullish | Pullback in uptrend | +39% |
+| 7 | [[compass/Stocks/TSM|TSM]] | Taiwan Semiconductor Manufacturing Company Limited | 82 | Top rated | Bullish | Pullback in uptrend | +39% |
+| 8 | [[compass/Stocks/TD|TD]] | The Toronto-Dominion Bank | 82 | Top rated | Bullish | Strong uptrend | +52% |
 | 9 | [[compass/Stocks/MSFT|MSFT]] | Microsoft | 82 | Top rated | Bullish | Strong uptrend | +3% |
 | 10 | [[compass/Stocks/LLY|LLY]] | Lilly (Eli) | 81 | Top rated | Bullish | Strong uptrend | +44% |
 | 11 | [[compass/Stocks/CNQ|CNQ]] | Canadian Natural Resources Limited | 81 | Top rated | Bullish | Pullback in uptrend | +52% |

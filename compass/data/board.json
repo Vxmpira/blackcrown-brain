@@ -80,6 +80,19 @@
    "headline": "Strong-trending biotech with solid profits but valuation debate among analysts"
   },
   {
+   "symbol": "TSM",
+   "name": "Taiwan Semiconductor Manufacturing Company Limited",
+   "sector": "Technology",
+   "score": 82.0,
+   "tier": "Top rated",
+   "read": "bull",
+   "trend": "Pullback in uptrend",
+   "ret_1y": 0.3926,
+   "pe": 22.75,
+   "div_yield": 0.0199,
+   "headline": "Chip maker with fortress balance sheet sees revenue surge, but valuation is stretched"
+  },
+  {
    "symbol": "TD",
    "name": "The Toronto-Dominion Bank",
    "sector": "Financial Services",
@@ -91,19 +104,6 @@
    "pe": 18.32,
    "div_yield": 0.0461,
    "headline": "Canadian bank with strong profit margins and shrinking share count meets upward price momentum"
-  },
-  {
-   "symbol": "TSM",
-   "name": "Taiwan Semiconductor Manufacturing Company Limited",
-   "sector": "Technology",
-   "score": 81.8,
-   "tier": "Top rated",
-   "read": "bull",
-   "trend": "Pullback in uptrend",
-   "ret_1y": 0.3926,
-   "pe": 22.75,
-   "div_yield": 0.0199,
-   "headline": "Chip maker with fortress balance sheet sees revenue surge, but valuation is stretched"
   },
   {
    "symbol": "MSFT",
