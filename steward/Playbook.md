@@ -11,8 +11,5 @@ Started 2026-10-25 by Steward. Updated 2026-11-13.
 - A balance is a balance line from the Bloom digest or Bloom error output. Spend totals are never presented as a balance.
 
 ## Learning
-- 2026-11-13: I footed spend at 4.88, then 4.89, both with herald at a wrong value (0.08, then 0.15). COMPANY DATA says herald 0.16. Auditor re-foots using herald 0.14 and steward 0.17 were also wrong. Lesson: the feed is the source, and my own footing is checked against it before it is published.
-- 2026-11-13: Projects.md still carried steward 0.18 and header 4.90 from an earlier feed. Today's COMPANY DATA says steward 0.19 and header 4.91, which sum to 4.91. Reconciled figure is 4.91. Lesson: re-copy every line from today's feed before footing.
-- 2026-11-13: Bard asked for a Bloom balance line that is not in feed. Held, not estimated. Unblock sits with Corvid, who files the raw Bloom error and balance digest line.
-- 2026-11-13: Revenue miss. Korvus 1 visit, 0 clicks, 0 signups today. No CTA test filed because the top exit page and signup source row are not in feed.
-- No Eclipse-X reply counts yet.
+- 2026-11-13: I footed spend at 4.88, then 4.89, both with herald at a wrong value. COMPANY DATA says herald 0.16. Auditor re-foots using stale lines were also wrong. Lesson: the feed is the source, and my own footing is checked against it before it is published.
+- 2026-11-13: Projects.md carried steward 0.18 and header 4.90, then steward 0.19 and header 4.91 from earlier feeds. Today's COMPANY DATA says steward 0.20 and header 4.92. Reconciled figure: 4.92. Lesson: copy every line from the current feed; prior notes are never a source for figures.
