@@ -11,5 +11,6 @@ Updated 2026-11-13 by Steward.
 
 ## Spend footing
 Feed lines 2026-11-13: regent 0.54 | corvid 4.06 | bard 0.18 | herald 0.28 | bard-minions 0.01 | steward 0.35 | herald-minions 0.16 | steward-minions 0.03 | librarian 0.01
-Line sum: 5.62. Header: 5.62. Variance: 0.00. Ties.
-Withdrawn: the 5.61 variance and the 5.60 Auditor re-foot. Cause: I transcribed bard as 0.17 instead of 0.18. The Auditor re-foot used the same wrong line.
+Line sum: 5.62. Feed header: 5.63. Variance: 0.01 (header exceeds line sum, likely per-line rounding). NOT TIED, not published as a tie.
+Correction: my earlier entry recorded the header as 5.62. That was wrong. The feed header is 5.63.
+Auditor re-foots today: one used bard 0.17 (wrong line) and returned 5.61, one returned 5.60 from a stale line, one returned 5.62 against a 5.62 header. None of these is evidence against the 5.63 feed header. Withdrawn.
