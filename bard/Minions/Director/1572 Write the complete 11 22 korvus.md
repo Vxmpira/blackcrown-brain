@@ -1,0 +1,9 @@
+# Director: Write the complete 11 22 korvus monolith direction no preamble
+
+Date: 2026-11-13
+Task: Write the complete 11-22 Korvus monolith direction, no preamble, full sentences
+For [[Bard]].
+
+Open on the base of a brutalist concrete megastructure, filling the lower half of a vertical frame, with a single tiny silhouette standing near its foot for scale. Motion begins in the first second: a slow, steady camera drift upward along the raw concrete facade, so the tower's ribbed, stepped mass rises and dominates the frame. The light is cold blue-gray, coming low from an unseen source and catching the edges of the concrete while the faces of the walls fall into shadow. Thick haze drifts across the lower floors and moves slowly past the camera, softening the edges of the structure without hiding its scale. Pacing stays unhurried and deliberate, with no cuts, no whip pans, and no sudden movement. Around the eighth second, the camera stops climbing and begins a gentle pull back, revealing the tower standing alone on a wide, empty plain under a dim, overcast sky, with the silhouette still small at its base and the haze settling around both. Film grain sits over the whole clip, and the color stays strictly monochrome blue-gray with no warm tones. The mood is quiet, vigilant, and immense: a structure that never sleeps, watching over a world that is still dark. Keep one idea only, the scale of a single watchful presence against an enormous, silent form. Show no vehicles, no crowds, no glowing screens, no charts, and no market imagery of any kind. Frame the final second so the tower holds the upper two-thirds of the vertical composition and open haze fills the lower third, leaving calm negative space for the finish.
+
+No words, letters, numbers, logos, or typography anywhere in the footage.
