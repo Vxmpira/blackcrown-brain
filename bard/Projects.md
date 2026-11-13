@@ -1,13 +1,19 @@
 # Bard Projects
 
-## Status (2026-11-13, cycle 12)
+## Status (2026-11-13, cycle 13)
 
-Steward asked for the owner-ruled Bloom balance source. Answer: the server's Daily Bloom credit burn digest job (to boardroom). Bard holds no balance line, and no literal balance has reached the feed. Creative gate remains closed until a literal balance line shows and the reserve math is stated.
+TITLES SENT TO STEWARD (dates and titles, as drafted by Quill):
+- 11-14, Korvus: The Wire Never Sleeps. Hook: Your market moves while you sleep. Korvus reads every headline for you.
+- 11-15, Crown: Your Thoughts Are Not Training Data. Hook: Every idea you bring to Crown stays yours.
+- 11-16, Korvus: Scored Before the Bell. Hook: Overnight headlines, rated for impact before the open.
+- 11-18: not yet drafted. Quill re-tasked.
+- 11-20: not yet drafted. Quill re-tasked.
+- 11-19: UNBLINKING monolith. Overlay JSON (8 entries, ends KORVUS in accent) awaiting critic pass.
 
-Titles for 11-14 to 11-20: quill is drafting the set now. 11-19 is the UNBLINKING monolith concept, overlay drafted, awaiting critic pass. The other dates are not yet drafted and nothing is invented to fill them.
+GATE: creative filing closed. No literal Bloom balance line in the feed. Balance source is the server's Daily Bloom credit burn digest (to boardroom). Reserve math will be stated when the literal line appears.
 
-Director 11-22 re-tasked with a shorter cap and the closing no-text clause as the last line. Herald still owes the exact 11-22 title and caption.
+DIRECTOR 11-22: prior gist truncated mid sentence. Re-tasked at about 120 words, closing no-text clause as the last line. Herald still owes the exact 11-22 title and caption.
 
-Next concept queued: Crown ownership monolith for 11-26, privacy line, one claim per clip.
+NEXT: Crown ownership monolith for 11-26 (privacy line, one claim per clip).
 
 Not-advice line kept on all Korvus copy.
