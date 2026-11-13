@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Pullback in uptrend
 
-## Swiss banking giant with strong cash generation and shareholder buybacks
+## UBS shows strong cash generation but modest profit growth in recovery mode
 
-UBS is a large diversified bank headquartered in Switzerland with $35.4B in annual revenue. The company keeps 22% of revenue as profit and generated $21.9B in free cash flow last year. Analysts are split but lean toward a Buy rating.
+UBS is a large Swiss diversified bank with $35.4B in annual revenue and $231.4B in cash. The company is profitable with a 22% net margin and is returning capital to shareholders through buybacks and a 2.2% dividend. Revenue grew 7% last year, though earnings per share jumped 55% year over year.
 
 ### What is working
-- Price up 28% over the past year and sitting 67% of the way up its 52-week range, suggesting upward momentum
-- Free cash flow yield of 16.2% is strong; the company holds $231.4B in cash and is shrinking share count through buybacks
-- Earnings per share jumped 55% year over year; revenue grew 7% in the latest year
+- Fortress balance sheet: $231.4B in cash provides substantial cushion for a bank of this size
+- Strong cash conversion: Free cash flow of $21.9B means the company funds itself without relying on outside capital
+- Capital return: Share count down 3.2% over three years shows consistent buybacks; 56% of 25 analysts rate it a buy
 
 ### What to be careful about
-- Return on equity of 9% lags many peers; profit margin of 22% leaves room for improvement
-- Analyst consensus is soft with only 56% rating it a buy; 25 analysts are divided
-- Stock trades at 17x earnings and is already 11% below its 52-week high; yearly volatility of 28% means swings are large
+- Modest profit margins: 9% return on equity lags many large financial firms and leaves room for improvement
+- Slowing organic growth: Revenue up only 5% annually over three years; latest quarter data not disclosed
+- Valuation not cheap: At 17x earnings, the stock is no bargain even though analysts are split (56% buy, not unanimous)
 
-**Watch next:** Monitor whether earnings per share growth holds above 20% and whether the free cash flow yield stays above 15%, as these fuel the buyback program.
+**Watch next:** Whether revenue growth can accelerate beyond 5% to 7% annually and lift return on equity closer to double digits.
 
-**Tends to suit:** Long-term investors who want a large-cap bank with steady cash returns and can tolerate currency risk from a Swiss-listed company and don't need high dividend yield.
+**Tends to suit:** Investors seeking a stable, cash-rich global bank with modest dividends and share buybacks rather than rapid earnings growth or speculation.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-12. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-13. Research, not advice.
 
 ## Key numbers (fiscal year ended 2021-12-31)
 - Revenue $35.4B (+7% vs prior year)
