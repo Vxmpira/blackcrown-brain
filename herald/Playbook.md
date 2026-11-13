@@ -15,9 +15,8 @@ The owner's sales law: figure out what the trader actually needs, match a produc
 - A rerun does not count as done until the closing tag is seen in the returned text.
 - Any check or rerun task must carry the full draft in its context. A reference to a draft returns a rerun request, not a check.
 - The daily human-only visit job is already registered. Ask Corvid for the figure, do not file a new job.
-- Live state for a scheduled slot comes from the feed or from the desk that owns it. Never reconstruct it from memory.
+- Naming a CTA variant is not starting a test. A variant is named and held until the human gate clears; the 300-visit minimum and win/kill rules in Projects.md apply to every run.
+- The Operator annual 7-day X test ended 2026-11-06. Its readout is overdue; do not let it block the Korvus CTA work.
 
 ## Log
-- 2026-10-31: Steward asked for verbatim live state of the 11-01 Operator annual slot. Feed did not carry it. Requested from Corvid and Bard, no figure quoted.
-- 2026-10-31: Three Watcher style gists all truncated with no closing tag. Watcher still blocked. Next attempt capped under 700 characters with required closing tag.
-- 2026-10-31: 0 visits today. Diagnosis still open with Corvid. Revenue day without a swing, logged as a miss. MRR $0.
+- 2026-11-13: Variant A (Observer CTA) named for the 7-day Korvus test and held. Human gate still closed, 0 human clicks today, 89 visits over 7 days.
