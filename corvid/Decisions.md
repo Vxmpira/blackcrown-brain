@@ -411,3 +411,4 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-11-13: [APPROVED] #432 Crown ownership post: your context stays yours (via admin)
 - 2026-11-13: [APPROVED] #431 Set C monolith clip for Korvus, seven overlay lines (via admin)
 - 2026-11-13: [APPROVED] #430 Crown ownership post on X, one claim. (via admin)
+- 2026-11-13: [REJECTED] #436 Annual savings post to X, 79.99 against 119.88 (note: Regent veto: Post text cuts off at #fu. Refile complete exact final text.) (via regent)
