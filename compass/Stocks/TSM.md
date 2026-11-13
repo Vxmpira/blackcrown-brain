@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Top rated** · Bullish read · trend: Pullback in uptrend
 
-## Chip maker with fortress balance sheet sees revenue surge, but valuation is stretched
+## Dominant chipmaker shows strong growth but commands premium valuation
 
-Taiwan Semiconductor Manufacturing Company is the world's largest contract chip manufacturer. It reported 25% revenue growth and 40% net profit margins in its most recent fiscal year, backed by $64.9 billion in net cash and no meaningful debt.
+Taiwan Semiconductor Manufacturing Company is the world's largest dedicated chip manufacturer. It generated $88.3B in revenue and $35.3B in net income in fiscal 2024, with revenue growing 25% year over year. The company trades at 23x earnings and holds $64.9B in net cash.
 
 ### What is working
-- Revenue jumped 25% year over year; October revenue alone rose 60% year over year
-- Keeps 40% of every sales dollar as profit; free cash flow margin of 30%
-- Balance sheet holds $64.9B in net cash with minimal debt; 27% return on equity
+- Revenue jumped 25% year over year to $88.3B, and a 16% annual growth rate over three years shows sustained expansion
+- Profitability is exceptional: 40% net margin, 46% operating margin, and 27% return on equity signal efficient operations
+- Balance sheet is fortress-like: $64.9B in net cash with no reported debt provides cushion for downturns or investment
 
 ### What to be careful about
-- Stock trades at 23x earnings; free cash flow yield is only 0.1%, leaving little margin for error
-- Down 7.1% in the past month and 15% from its 52-week high; yearly volatility stands at 42%
-- Recent employee data exposure disclosed in filing, though no system breach confirmed
+- Valuation is steep at 23x earnings; free cash flow yield of 0.1% suggests investors are paying a premium for growth
+- Stock is down 17% from its 52-week high of $485.80 and shows 42% yearly volatility, indicating significant price swings
+- Recent pullback of 5.7% in the past month suggests momentum may be cooling after a strong +39% annual run
 
-**Watch next:** Whether Q3 and Q4 revenue momentum can sustain the 60% year-over-year growth rate seen in October, or if demand begins to normalize.
+**Watch next:** October revenue rose 60% year over year and the company approved $40.9B in 2027 capital spending; track whether quarterly results sustain this growth rate.
 
-**Tends to suit:** Long-term investors comfortable holding dominant industrial franchises at premium valuations and tolerating significant price swings for exposure to semiconductor demand.
+**Tends to suit:** Long-term investors who can tolerate high valuations and price swings but want exposure to a profitable, cash-generating company in a critical industry.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-12. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-13. Research, not advice.
 
 ## Key numbers (fiscal year ended 2024-12-31)
 - Revenue $88.3B (+25% vs prior year)
