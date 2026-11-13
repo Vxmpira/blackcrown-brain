@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Losing steam
 
-## Mining giant with strong cash generation but shrinking revenue streams
+## Mining giant with shrinking revenue but strong cash and 5.6% dividend yield
 
-BHP is a large Australian mining and materials company generating $9.0B in annual net income on $51.3B in revenue. It converts nearly one-fifth of sales into profit and throws off substantial free cash flow, but has seen revenue decline 8% per year over the past three years.
+BHP is a large Australian mining and materials company generating $51.3 billion in annual revenue. Revenue has fallen 8% over the past year and 8% per year over three years, but the company keeps 18% of sales as profit and produces substantial free cash flow.
 
 ### What is working
-- Profitability is solid: 38% operating margin and 19% return on equity show efficient use of capital
-- Strong balance sheet: debt of 0.5x equity is conservative; $11.9B cash on hand
-- Returning cash to shareholders: 5.6% dividend yield and free cash flow of $9.3B annually
+- Profitability is solid: 18% net margin and 19% return on equity show efficient operations
+- Balance sheet is strong: debt is only 0.5x shareholder equity, with $11.9B cash on hand
+- Shareholder income is meaningful: 5.6% dividend yield plus flat share count means no dilution
 
 ### What to be careful about
-- Revenue has fallen 8% annually over three years; latest year was -8% versus prior year
-- Stock is down 17% from its 52-week high of $98.69; down 9.6% over the past six months
-- Analyst consensus is only Hold; just 35% of 26 analysts rate it a buy; 44 analyst consensus score
+- Revenue is declining: down 8% year over year and 8% annually over three years
+- Stock momentum is fading: up 44% in one year but down 3.3% in one month and down 9.5% in six months
+- Analyst conviction is weak: only 35% of 26 analysts rate it a buy; consensus is Hold
 
-**Watch next:** Track whether the revenue decline reverses or stabilizes in coming quarters, as this is the core weakness dragging the score despite strong profitability.
+**Watch next:** Whether revenue stabilizes or continues to fall, since that is the core business challenge masked by strong current profitability.
 
-**Tends to suit:** Long-term investors comfortable with cyclical commodity exposure who value steady dividend income and fortress balance sheets over near-term growth.
+**Tends to suit:** Investors seeking current income from a mature, cash-generative business who can tolerate volatile commodity-linked stocks and are not counting on growth.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-12. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-13. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-06-30)
 - Revenue $51.3B (-8% vs prior year)
