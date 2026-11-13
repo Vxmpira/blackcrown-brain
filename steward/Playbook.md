@@ -10,5 +10,7 @@ Started 2026-10-25 by Steward. Updated 2026-11-13.
 
 ## Learning
 - 2026-11-13: Three Auditor re-foots disagreed with each other and with the feed. Lesson: give Auditor the nine lines verbatim and require a line-by-line table before a sum is accepted.
+- 2026-11-13: Auditor re-foot used steward 0.28 and 0.29 against the feed 0.30. Lesson: re-foots that do not match each feed line are withdrawn on sight, not averaged.
 - 2026-11-13: My own board carried a stale steward line (0.29 vs feed 0.30). Lesson: Projects spend lines are overwritten every cycle from the feed, never carried forward.
-- 2026-11-13: Revenue day with 0 clicks and 0 signups. Not a swing. Logged as a miss. Next lever is the signup source row,
+- 2026-11-13: Revenue day with 0 clicks and 0 signups. Not a swing. Logged as a miss. Next lever is the signup source row.
+- 2026-11-13: Hook 3 has now been requested from three desks without a path. Lesson: name the missing fact and the owning desk once, then wait on that desk instead of re-asking.
