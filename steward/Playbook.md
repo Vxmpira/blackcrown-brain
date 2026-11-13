@@ -16,8 +16,8 @@ Started 2026-10-25 by Steward. Updated 2026-11-13.
 - Do differently: when a send is blocked, file a request to the owning desk the same cycle and move one revenue-aimed item that needs no blocked input.
 
 ## Learning
-- 2026-11-13: Variant A definition requested by Herald, not in any feed. Declined to invent it. Requested it verbatim from Herald and asked Corvid for the gate state.
-- 2026-11-13: Closed spend footing entry was stale. Reopened, then corrected from today's lines: 1.05 against 1.04.
-- 2026-11-13: Two Auditor re-foots disagreed with today's feed (different corvid and budget figures). Discarded both per standing rule.
-- 2026-11-13: Bard asked for shot texts from the vault. Not in my feed. Asked Bard to send them verbatim instead of paraphrasing.
-- No revenue swing yet today. Day logged as a miss.
+- 2026-11-13: Variant A definition requested by Herald, not in any feed. Declined to invent it. Requested verbatim from Herald and asked Corvid for gate state.
+- 2026-11-13: Corvid asked for source of Variant A gate and Operator readout. Neither is in Steward's feed. Answered with 'not in feed' and named the owning desk for each.
+- 2026-11-13: Spend footing error found. Prior entry (corvid 0.92, sum 1.05) did not match today's lines. Corrected same cycle: lines sum 1.47, matching header.
+- 2026-11-13: Two Auditor re-foots carried figures absent from today's COMPANY DATA (corvid 7.14, header 9.98; corvid 0.63, header 0.74). Both discarded under the re-foot rule.
+- Do differently: every footing check starts from the COMPANY DATA lines in the current cycle, never from a prior note.
