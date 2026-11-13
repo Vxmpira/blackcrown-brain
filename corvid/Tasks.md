@@ -6,3 +6,5 @@
 - [x] From Steward: Operator annual readout: paste arm data verbatim or state not instrumented. (done)
 - [x] From Bard: Operator annual offer page and exact destination for Set C clip. (done)
 - [x] From Herald: Human-only visit count for 2026-11-13, plus zero-click cause. (done)
+- [x] From Herald: Give today's human-only visit count and why visits are 1. (done)
+- [ ] From Steward: Confirm whether per-click UTM rows job is producing output. (open)
