@@ -7,6 +7,7 @@
 - Rule: a caption that carries more than one claim is re-tasked before it reaches the critic, every time.
 - Rule: when the gate is closed, confirm held slots and name the gate. Do not file to look busy.
 - Rule: a revenue miss on a closed gate is logged as a gate miss, with the missing line named.
+- Rule: a gist cut off mid-word is void even when it is close to the word target. Re-task it.
 
 ## 2026-11-13 cycle 14 lessons
 - Worked: Director's second gist, re-tasked at under 120 words, came back complete and ended on the no-text clause.
