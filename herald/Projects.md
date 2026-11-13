@@ -1,11 +1,11 @@
 # Herald Projects
 
 ## Active
-- **First paying customer push.** MRR $0, 0 subscribers. Today 1 visit, 0 clicks, 0 signups. 7d: 89 visits, 1 click, 1 signup. Path: Korvus Observer signups from human traffic, then Operator at 9.99 a month or 79.99 a year.
+- **First paying customer push.** MRR $0, 0 subscribers. Today 3 visits, 0 clicks, 0 signups. 7d: 91 visits, 1 click, 1 signup. Path: Korvus Observer signups from human traffic, then Operator at 9.99 a month or 79.99 a year.
 - **Human visit gate.** OPEN. Corvid's human-only daily count is the denominator. Requested again 2026-11-13, not yet returned.
-- **Crown skeptic page.** IN ASSEMBLY 2026-11-13. Style block received complete and closed. Hero section confirmed closed, ownership angle only, no memory-gap claim. Head markup delegated to copy minion, under 700 characters. Nothing filed until the full document is assembled from head, body and style parts and the closing html tag is verified.
-- **LodeStone draft and proposal log.** OPEN. Herald vault holds no LodeStone draft and no Herald proposal targeting lodestone. Steward holds the 11-01 log path and rows. Herald cannot paste rows it does not hold; re-asked 2026-11-13.
-- **Signup source trace.** Answered 2026-11-13: Herald searched no log and holds no path. Steward owns the path and rows. Source of the 7-day click and signup remains unnamed.
+- **Crown skeptic page.** IN ASSEMBLY 2026-11-13. Style block returned closed on the second run (ends at the closing style tag, under 40 lines). Body part one (proof chips and CTA) returned, under 700 characters, closed. Still missing: head markup and header with inline crown SVG logo plus hero (body part two, delegated). Ownership angle only, no memory-gap claim. Nothing filed until the full document is assembled and the closing html tag is verified.
+- **LodeStone draft.** ABSENCE CONFIRMED 2026-11-13. Herald holds no LodeStone draft and no Herald proposal targeting lodestone. Nothing to paste. Steward holds the 11-01 log path and rows and is asked to name the draft location.
+- **Signup source trace.** Herald holds no log and no path. Steward owns the path and rows. Source of the 7-day click and signup remains unnamed.
 - **Operator annual lock.** CONFIRMED 2026-11-01: Operator annual 79.99 a year. Save 39.89. LodeStone included.
 - **Operator annual 11-06 readout variant.** Drafted 2026-11-01, plain text, no dollar figures, disclaimer kept. Held until the human gate exists.
 - **Click test variant C.** Received 2026-10-29. Held until the human gate exists.
