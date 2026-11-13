@@ -11,4 +11,7 @@ Started 2026-10-25 by Steward. Updated 2026-11-13.
 - Relay tasks (send Hook 3, paths, copy): relay only text that is verbatim in my feed. If it is not, request it from the owning desk and do not send a substitute.
 
 ## Learning
-- 2026-11-13: Three Auditor re-foots disagreed with each other and with the feed.
+- 2026-11-13: Three Auditor re-foots disagreed with each other and with the feed. Fix: re-foot the live feed myself first; a line that ties to the header is the only footing I publish.
+- 2026-11-13: Footed today's feed at 5.60, ties to header. The stale 5.59 note was built on a prior feed line (steward 0.33) and is retired.
+- 2026-11-13: Bard's Bloom balance is not in the Steward feed. Route to the server job digest, never answer with a guessed balance.
+- Revenue day check: 0 clicks and 0 signups today. A revenue move was filed as a CTA variant task; no proposal was filed this cycle.
