@@ -1,20 +1,20 @@
 {
- "data_asof_utc": "2026-11-13T00:15:40.379680+00:00",
+ "data_asof_utc": "2026-11-13T00:30:14.027662+00:00",
  "scoreboard": {
   "strategy": "v3-all-sessions",
-  "closed_trades": 4,
-  "open_trades": 2,
+  "closed_trades": 5,
+  "open_trades": 1,
   "wins": 1,
-  "losses": 3,
-  "win_rate_pct": 25.0,
+  "losses": 4,
+  "win_rate_pct": 20.0,
   "sample_ok": false,
   "avg_win_pct": 1.515,
-  "avg_loss_pct": -1.946,
-  "expectancy_pct": -1.081,
-  "profit_factor": 0.26,
-  "paper_pnl": -430.56,
+  "avg_loss_pct": -1.861,
+  "expectancy_pct": -1.186,
+  "profit_factor": 0.2,
+  "paper_pnl": -591.1,
   "exits": {
-   "stop": 3,
+   "stop": 4,
    "target": 1
   },
   "by_catalyst": {
@@ -33,13 +33,17 @@
    "earnings": {
     "trades": 1,
     "wins": 0
+   },
+   "dividend": {
+    "trades": 1,
+    "wins": 0
    }
   },
   "by_side": {
    "long": {
-    "trades": 3,
+    "trades": 4,
     "wins": 1,
-    "pnl": -208.95
+    "pnl": -369.49
    },
    "short": {
     "trades": 1,
@@ -48,12 +52,12 @@
    }
   },
   "capital_at_work": 50000.0,
-  "max_drawdown_usd": 448.97,
-  "max_drawdown_pct": 0.9,
+  "max_drawdown_usd": 609.51,
+  "max_drawdown_pct": 1.22,
   "first_trade_utc": "2026-11-12T14:17:07.329842+00:00",
-  "last_trade_utc": "2026-11-12T21:15:37.270893+00:00",
-  "trading_days": 1,
-  "last30_expectancy_pct": -1.081
+  "last_trade_utc": "2026-11-13T00:30:14.027662+00:00",
+  "trading_days": 2,
+  "last30_expectancy_pct": -1.186
  },
  "min_sample": 30,
  "universe_count": 87,
