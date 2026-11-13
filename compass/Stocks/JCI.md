@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Losing steam
 
-## Industrial giant on pause after strong run; profits solid but growth slowing
+## Profitable industrial giant trading near yearly highs with slowing growth signals
 
-Johnson Controls is a large Irish industrial company that makes building systems and controls. It generated $25.7 billion in revenue last year with an 11% profit margin and strong cash flow of $3.4 billion. The stock has climbed 18% over the past year but recently pulled back 7.6% from its high.
+Johnson Controls is a large Irish-headquartered industrial company generating $25.7B in annual revenue. It converts 11% of sales into profit and produces strong free cash flow of $3.4B per year. The company returns cash to shareholders through buybacks and a 2.8% dividend.
 
 ### What is working
-- Profit margin stays healthy at 11% of revenue, with free cash flow margin at 13%
-- Return on equity is strong at 21%, and the company is shrinking share count by 11.1% over three years through buybacks
-- Debt is light relative to equity at 0.6x, giving financial flexibility
+- Profitability remains solid: 11% net margin and 21% return on equity show efficient operations.
+- Free cash generation is robust: $3.4B annually yields 4.0% on market value, funding buybacks and dividends.
+- Balance sheet is conservative: debt of 0.6x shareholder equity leaves room for flexibility.
 
 ### What to be careful about
-- Earnings per share fell 7% year over year despite revenue growth, signaling profit pressure
-- Revenue growth has slowed to 5% annually over three years, even though latest quarter showed 10%
-- Stock trades at 30x earnings, which is elevated; free cash flow yield of 4.0% is modest
+- Earnings per share fell 7% year over year despite revenue growth, signaling margin pressure.
+- Valuation is stretched at 30x earnings, above typical industrial company multiples.
+- Price momentum is fading: stock is down 5.6% in the past month and 12% from its 52-week high.
 
-**Watch next:** Monitor whether earnings per share can return to growth in the next quarter, since revenue gains have not yet translated to bottom-line expansion.
+**Watch next:** Whether the earnings decline reverses in coming quarters or continues despite growing revenue.
 
-**Tends to suit:** Long-term investors comfortable with stable, dividend-paying industrials who can tolerate the stock's 33% annual volatility and do not expect rapid growth.
+**Tends to suit:** Long-term investors comfortable with moderate dividend yield and buyback returns who can tolerate industrial sector volatility.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-12. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-13. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-09-30)
 - Revenue $25.7B (+9% vs prior year)

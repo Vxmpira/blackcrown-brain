@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Turning up
 
-## Oil services giant showing uneven growth with strong cash generation and analyst backing
+## Oil services giant with strong cash flow and analyst support, but earnings declining
 
-Schlumberger is a major oil and gas equipment and services company with $35.7 billion in annual revenue. It generates significant free cash flow of $4.8 billion per year and maintains a strong balance sheet with low debt relative to equity. However, full-year revenue declined 2 percent while earnings per share fell 24 percent year over year.
+Schlumberger is a large U.S. energy services company with $35.7B in annual revenue. It generates solid free cash flow of $4.8B per year and maintains a fortress balance sheet. However, full-year revenue fell 2% while earnings per share dropped 24% year over year.
 
 ### What is working
-- Free cash flow margin of 13% and $4.8 billion annual free cash flow provide funds for dividends and reinvestment
-- Balance sheet strength with debt at only 0.4x shareholder equity limits financial risk
-- Analyst consensus is Buy with 85% of 34 analysts rating it a buy, suggesting confidence in the business
+- Free cash flow yield of 6.5% is attractive for income-focused investors seeking cash generation
+- Balance sheet is fortress-like at 0.4x debt-to-equity, with $2.6B in cash available
+- Stock has rallied 43% over the past year and sits 66% up its 52-week range, showing momentum
 
 ### What to be careful about
-- Annual revenue down 2% in fiscal 2025 despite 8% growth over three years, signaling recent momentum loss
-- Earnings per share fell 24% year over year, indicating profit pressures even as revenue grew 6% in the latest quarter
-- Stock is down 10.5% over six months and trades 17% below its 52-week high, with yearly volatility at 37%
+- Full-year revenue fell 2% despite a 3-year growth rate of 8%, signaling recent deceleration
+- Earnings per share collapsed 24% year over year, the steepest decline in the profile
+- Stock trades at 24x earnings, which is high relative to the declining profit picture
 
-**Watch next:** Whether the latest quarter's 6% revenue growth can accelerate full-year results and reverse the 24% earnings per share decline seen in fiscal 2025.
+**Watch next:** Monitor whether the latest quarter's 6% revenue growth can sustain through 2026, since full-year results just turned negative.
 
-**Tends to suit:** Long-term investors seeking cash-generative exposure to oil and gas services who can tolerate 37% annual price swings and are comfortable with energy sector cyclicality.
+**Tends to suit:** Long-term investors comfortable with cyclical energy exposure who value cash flow and balance sheet strength over near-term earnings growth.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-13. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $35.7B (-2% vs prior year)

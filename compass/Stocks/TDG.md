@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Turning up
 
-## Profitable aerospace supplier faces heavy debt despite strong earnings growth
+## Highly profitable aerospace supplier with heavy debt and premium valuation
 
-TransDigm is an industrial company serving aerospace and defense customers. It generated $8.8B in revenue and $2.1B in net income last year, with recent quarterly revenue up 23% year over year. The company carries $32.8B in debt against $2.8B in cash.
+TransDigm is an industrial company in aerospace and defense that generates strong cash profits. It reported $8.8 billion in revenue for fiscal 2025, up 11% from the prior year, with net income of $2.1 billion. The company carries significant debt relative to its equity base.
 
 ### What is working
-- Net margin of 23% and operating margin of 47% show exceptional profitability relative to revenue
-- Latest quarter revenue rose 23% year over year, and 3-year revenue growth averages 18% annually
-- Free cash flow of $1.8B and 21% free cash flow margin provide cash to service debt and pay shareholders
+- Revenue growth accelerating: latest quarter up 23% year over year
+- Strong profitability: keeps 23% of revenue as net profit, operating margin 47%
+- Solid cash generation: free cash flow of $1.8 billion with 21% margin, pays 7.8% dividend
 
 ### What to be careful about
-- Debt of $32.8B is 5.4x shareholder equity, meaning the balance sheet is heavily leveraged
-- Stock price is 34% below its 52-week high and down 7% over the past year despite profit growth
-- Valuation at 31.7x earnings and 2.7% free cash flow yield sits above historical norms for industrials
+- Heavy debt load: $32.8 billion owed versus shareholders' equity, a ratio of 5.4x
+- Expensive valuation: trades at 32x earnings with only 2.7% free cash flow yield
+- Stock down 7% over the past year despite strong fundamentals; 38% of its 52-week range
 
-**Watch next:** Whether the company can maintain 23% quarterly revenue growth and continue generating $1.8B+ annual free cash flow while managing its 5.4x debt-to-equity ratio.
+**Watch next:** Whether the company can reduce its debt-to-equity ratio from 5.4x, which would signal improving financial flexibility and lower refinancing risk.
 
-**Tends to suit:** Investors seeking high current income (7.8% dividend) who are comfortable with aerospace cyclicality and high leverage in exchange for proven profitability and cash generation.
+**Tends to suit:** Investors comfortable with industrial cyclicals who want high current income and can tolerate leverage, provided they believe aerospace demand will hold.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-12. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-13. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-09-30)
 - Revenue $8.8B (+11% vs prior year)

@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Strong uptrend
 
-## Utility with strong price momentum but negative cash flow raises profitability questions
+## Water utility with strong price momentum but negative cash flow raises questions
 
-American Water Works is a regulated water utility generating $5.1B in annual revenue with a 22% profit margin. The company is burning $1.1B in free cash flow annually while carrying $14.3B in debt against $121M in cash.
+American Water Works is a regulated utility serving 14 million people across the U.S. The company generated $5.1B in revenue last year with a 22% net profit margin, but it is burning cash rather than generating it.
 
 ### What is working
-- Price up 14% over the past year and sits 85% of the way up its 52-week range
-- Revenue growing at 11% annually over three years; latest quarter revenue up 3%
-- Operating margin of 37% shows strong operational efficiency in its regulated business
+- Price up 15% over the past year and sits 91% of the way up its 52-week range, showing strong momentum
+- Revenue grew 11% per year over the past 3 years, outpacing the latest quarterly growth of 3%
+- Operating margin of 37% shows the core business runs efficiently before financing costs
 
 ### What to be careful about
-- Free cash flow is negative $1.1B; company is burning cash despite collecting revenue
-- Debt of $14.3B is 1.2x shareholder equity; balance sheet leverage is elevated
-- Trades at 26x earnings with a negative 3.6% free cash flow yield; expensive by both metrics
+- Free cash flow is negative $1.1B, meaning the company spent more cash than it generated despite reporting $1.1B in net income
+- Stock trades at 26x earnings with a negative free cash flow yield of -3.6%, suggesting an expensive valuation for a cash-burning business
+- Share count grew 7.1% over 3 years (dilution), and debt is 1.2x shareholder equity, limiting financial flexibility
 
-**Watch next:** Whether negative free cash flow improves next year, since current capital intensity is unsustainable without debt growth or dividend cuts.
+**Watch next:** Whether free cash flow turns positive in coming quarters, since current negative cash burn contradicts the 22% net profit margin and raises sustainability questions about the dividend.
 
-**Tends to suit:** Long-term investors comfortable with regulated utility stocks who prioritize steady dividend income over cash generation and can tolerate above-market debt levels.
+**Tends to suit:** Investors comfortable holding regulated utilities for steady dividends (2.1% yield) and willing to tolerate near-term cash flow challenges in exchange for essential service exposure.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-12. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-13. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $5.1B (+10% vs prior year)

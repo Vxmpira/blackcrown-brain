@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## FTV climbing after years of revenue decline; now profitable with solid cash generation
+## Strong price momentum masks uneven growth and sky-high valuation
 
-Fortive is an industrial technology company that makes equipment and parts. Revenue has shrunk 11% per year over three years, but the latest quarter showed 8% growth and the company generates strong cash profits. The stock is up 30% in the past year and near its 52-week high.
+Fortive is a diversified industrial technology company generating $4.2 billion in annual revenue with stable profit margins around 13%. The stock has surged 31% in the past year and now trades near its 52-week high, but revenue has shrunk 11% annually over three years despite a recent quarterly bounce.
 
 ### What is working
-- Free cash flow margin of 24% shows the company turns sales into cash efficiently
-- Price up 30% over the past year and sits 90% up its 52-week range, suggesting positive momentum
-- Net profit margin of 13% and operating margin of 17% demonstrate solid underlying profitability
+- Price sits 98% of the way up its 52-week range, showing sustained uptrend momentum
+- Free cash flow of $978.1 million covers 24% of revenue, demonstrating cash generation ability
+- Share count down 7.3% over three years through buybacks, concentrating ownership among remaining holders
 
 ### What to be careful about
-- Revenue fell 11% per year on average over the past 3 years, though latest quarter reversed this trend
-- Earnings per share dropped 27% year over year, a sharp decline despite revenue growth
-- Trades at 31x earnings, which is relatively expensive compared to typical industrial companies
+- Revenue fell 11% per year over the past three years, though latest quarter showed +8% growth
+- Earnings per share dropped 27% year over year despite the stock rallying 31%
+- Trades at 31x earnings with only 4.9% free cash flow yield, pricing in recovery hopes
 
-**Watch next:** Watch whether the latest quarter's 8% revenue growth can sustain, since the company has been in decline for three years before this turnaround signal.
+**Watch next:** Whether the latest quarter's 8% revenue growth marks a true turnaround or a temporary bounce in a longer downtrend.
 
-**Tends to suit:** Suits long-term investors who can tolerate volatility (28% yearly swings) and are willing to bet on an industrial company rebounding from revenue decline while generating strong cash.
+**Tends to suit:** Investors comfortable with high valuations who believe Fortive has stabilized and want exposure to industrial automation recovery.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-13. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $4.2B (+2% vs prior year)

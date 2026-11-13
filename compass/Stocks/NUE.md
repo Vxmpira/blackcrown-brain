@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Pullback in uptrend
 
-## Steel giant riding price strength but profits are thin and cash is draining
+## Steel maker riding strong price momentum but profit margins remain thin
 
-Nucor is a major steel producer. Revenue jumped 32% last quarter, but the company kept only 5% of sales as profit and burned cash last year. The stock has surged 77% in the past year and sits near its 52-week high.
+Nucor is a major U.S. steel producer with $32.5B in annual revenue. The stock has surged 70% in the past year and sits near its 52-week high, but the company is currently burning cash and keeps only 5% of revenue as profit.
 
 ### What is working
-- Stock price is 84% up its 52-week range; 50-day average above 200-day average shows momentum holding
-- Latest quarter revenue up 32% year over year; strong recent demand for steel
-- Balance sheet is fortress-like: debt is just 0.2x shareholder equity; very low financial risk
+- Stock price up 70% over the past year and sits 80% of the way up its 52-week range
+- Latest quarter revenue jumped 32% year over year, showing recent demand strength
+- Balance sheet is very clean with debt at only 0.2x shareholder equity
 
 ### What to be careful about
-- Free cash flow was negative $188.0M last year; company is burning cash despite high revenue
-- Profit margin is thin at 5%; only 5 cents of profit per dollar of sales
-- Three-year revenue trend is down 8% per year; long-term sales weakening despite recent bounce
+- Free cash flow was negative $188M last year; company is burning cash
+- Net profit margin is only 5%, leaving little room for error in a downturn
+- Three-year revenue trend shows decline of 8% per year, despite recent recovery
 
-**Watch next:** Watch whether free cash flow turns positive in coming quarters; negative cash flow with thin margins is the biggest red flag in the data.
+**Watch next:** Whether the latest quarter's 32% revenue surge can sustain or if this represents a temporary peak in steel demand that will reverse.
 
-**Tends to suit:** Suits investors comfortable with cyclical industrial stocks who can tolerate volatility and are betting steel demand stays strong, not those seeking steady cash generation.
+**Tends to suit:** Investors comfortable holding volatile cyclical stocks and willing to tolerate thin profit margins in exchange for potential commodity price upswings.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-13. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $32.5B (+6% vs prior year)

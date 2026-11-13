@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Strong uptrend
 
-## Strong growth and cash generation offset expensive valuation and analyst caution
+## Cloud software company growing steadily but trading at a premium price
 
-Workday is a mid-sized software company growing revenue 13% annually with $2.8B in free cash flow. It trades at 36.5x earnings and carries $3.0B in debt against $661M in cash. The stock has risen 60% in six months but fallen 16% over the past year.
+Workday is a mid-size software firm posting 13% annual revenue growth and 33% earnings-per-share growth. It generates strong free cash flow of $2.8B and keeps a tight balance sheet with only 0.5x debt relative to equity.
 
 ### What is working
-- Revenue growing 13% year over year with three-year average of 15% growth
-- Free cash flow margin of 29% shows strong cash conversion from sales
-- Balance sheet has only 0.5x debt to equity, indicating room for financial flexibility
+- Revenue growing 13% year over year with 3-year average of 15% annually
+- Free cash flow margin of 29% shows the business converts sales into actual cash
+- Earnings per share jumped 33% year over year, faster than revenue growth
 
 ### What to be careful about
-- Trades at 37x earnings, well above typical software multiples, limiting margin for error
-- Share count up 5.2% over three years dilutes ownership of existing shareholders
-- Analysts consensus is Hold with only 51% rating it a buy despite 49 analysts covering
+- Stock trades at 37x earnings, well above typical software averages, leaving little room for disappointment
+- Share count rising 5.2% over 3 years dilutes existing shareholders' ownership stakes
+- Down 13% over the past year despite strong recent 6-month rally of 57%
 
-**Watch next:** Whether revenue growth can sustain at 13%+ while the company expands margins from their current 7-8% net profit level.
+**Watch next:** Whether the 13% revenue growth pace can sustain itself next year, since valuation depends heavily on continued acceleration.
 
-**Tends to suit:** Long-term investors who believe in the company's growth and can tolerate high valuations and 54% annual stock volatility.
+**Tends to suit:** Long-term investors comfortable holding stable, growing software companies at premium valuations who can tolerate 54% annual price swings.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-13. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-01-31)
 - Revenue $9.6B (+13% vs prior year)

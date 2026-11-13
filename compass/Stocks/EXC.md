@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Neutral read · trend: Turning up
 
-## Regulated utility with slowing profits despite revenue growth and heavy debt
+## Regulated utility with revenue growth but negative cash flow and heavy debt
 
-Exelon is a large electric utility generating $24.3B in annual revenue with 11% profit margins. The company is experiencing revenue growth of 8% over three years but earnings per share declined 13% year over year. It carries significant debt at 1.6x shareholder equity and is currently burning cash.
+Exelon is a large U.S. electric utility generating $24.3 billion in annual revenue. The company is growing revenue steadily at 8% per year but faces pressure from negative free cash flow of -$2.3 billion and debt of $47.9 billion against $713 million in cash.
 
 ### What is working
-- Revenue growing 8% annually over three years and latest quarter up 8% year over year
-- Operating margin of 21% shows core business efficiency in regulated utility operations
-- Dividend yield of 3.7% provides income to shareholders despite other headwinds
+- Revenue growing 8% annually over 3 years, with latest quarter up 8% year over year
+- Strong operating margin of 21% shows efficient core business operations
+- Dividend yield of 3.7% and price up 20% over 5 years despite recent flat year
 
 ### What to be careful about
-- Earnings per share fell 13% year over year while revenue grew, signaling margin pressure
-- Free cash flow negative at -$2.3B and cash burning with -9% free cash flow margin
-- Debt level of $47.9B is 1.6x shareholder equity, limiting financial flexibility for a utility
+- Earnings per share declined 13% year over year despite revenue growth
+- Free cash flow is negative at -$2.3 billion; company is burning cash
+- Debt of $47.9 billion is 1.6 times shareholder equity; limited financial flexibility
 
-**Watch next:** Whether free cash flow turns positive next quarter, as the -$2.3B annual burn undermines the dividend and debt service capacity.
+**Watch next:** Whether free cash flow turns positive in coming quarters, as the -$2.3 billion burn rate limits dividend sustainability and debt reduction.
 
-**Tends to suit:** Long-term investors seeking utility dividend income should weigh the 3.7% yield against deteriorating cash generation and elevated leverage that constrains future sustainability.
+**Tends to suit:** Long-term investors seeking stable dividend income who can tolerate high leverage and are comfortable with utilities in financial transition, not those seeking growth or capital appreciation.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-13. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $24.3B (+5% vs prior year)

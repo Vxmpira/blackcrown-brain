@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Bearish read · trend: Downtrend
 
-## Schwab shows revenue surge but profitability has vanished; analysts still bullish
+## Schwab posts strong revenue growth but profit margins have collapsed to zero
 
-Charles Schwab is a U.S. financial services and capital markets company. Revenue jumped 22% last year to $23.9B, yet the company reported only $8.9M in net income, meaning almost zero profit margin. Despite this squeeze, the stock trades at a reasonable 15x earnings and generates strong free cash flow of $8.8B.
+Charles Schwab is a major US financial services company serving retail and institutional investors. Revenue jumped 22% last year to $23.9B, yet the company is reporting nearly zero net profit despite generating $8.8B in free cash flow.
 
 ### What is working
-- Revenue accelerated to +17% in latest quarter, well above the 3-year average of +5%
-- Free cash flow remains robust at $8.8B, yielding 5.5% on market value
+- Revenue grew 22% year over year to $23.9B, accelerating from 5% annual growth over three years
+- Generated $8.8B in free cash flow while shrinking share count by 4.5% over three years through buybacks
 - Analyst consensus is Buy with 77% of 31 analysts rating it a buy
 
 ### What to be careful about
-- Net profit margin collapsed to 0%, with only $8.9M net income on $23.9B revenue
-- Return on equity is 0%, showing capital is not generating shareholder returns
-- Stock price is down 5% over the past year and sits 19% below its 52-week high of $113.65
+- Net margin collapsed to 0%, meaning the company keeps zero cents of every revenue dollar as profit
+- Stock is down 5% over the past year and sits 18% below its 52-week high of $113.65
+- Return on equity is 0%, showing the company is generating no earnings on shareholder capital despite $160.8B in market value
 
-**Watch next:** Track whether net margins recover in coming quarters, since revenue growth is strong but profit has nearly disappeared.
+**Watch next:** Why net income is $8.9M on $23.9B revenue (a 0% margin) when free cash flow is $8.8B, and whether profitability returns in coming quarters.
 
-**Tends to suit:** Investors who believe a financial services company can restore profitability while holding through earnings volatility, and who value free cash flow over current net income.
+**Tends to suit:** Investors comfortable with turnaround situations or those believing margin compression is temporary rather than structural decline.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-12. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-13. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $23.9B (+22% vs prior year)

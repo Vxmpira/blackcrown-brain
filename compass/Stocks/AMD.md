@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Pullback in uptrend
 
-## AMD shows strong growth but trades at premium valuation after 127% year gain
+## AMD rides strong growth wave but trades at stretched valuation
 
-AMD is a semiconductor company generating $34.6B in annual revenue with accelerating growth: latest quarter revenue jumped 45% year over year. The company is profitable with 13% net margins and produces $6.7B in free cash flow annually. It carries net cash of $325.0M on its balance sheet.
+AMD is a semiconductor company firing on growth cylinders with revenue up 34% and earnings per share up 165% year over year. The stock price has nearly tripled over five years and sits well above its 200-day average, though it recently pulled back 5% from its high.
 
 ### What is working
-- Revenue growth accelerating: latest quarter +45% year over year, while annual revenue +34% versus prior year
-- Strong profitability and cash generation: net margin 13%, free cash flow $6.7B, and positive return on equity of 6%
-- Price momentum intact: stock up 127% over past year and trades 79% up its 52-week range; 83% of analysts rate it a buy
+- Revenue grew 45% in the latest quarter and 34% annually, well above the company's three-year average of 14% growth
+- Free cash flow of $6.7B provides real cash to fund operations and shareholder returns with no dividend drag
+- Net cash position of $325.0M and 60 analysts with 83% buy ratings show balanced sheet strength and broad institutional confidence
 
 ### What to be careful about
-- Valuation is stretched: trades at 110x earnings (P/E 109.86) with free cash flow yield of only 0.8%
-- Share dilution ongoing: share count grew 4.1% over three years, reducing ownership stakes
-- Stock is volatile and has pulled back: down 15% from its 52-week high with 73% yearly volatility; down 8.7% in past month
+- Stock trades at 110x earnings, which is extreme; free cash flow yield of 0.8% means you get little cash return per dollar spent
+- Stock down 18% from its 52-week high and volatility runs 73% annually, so prices swing hard in both directions
+- Share count has grown 4.1% over three years, diluting existing shareholders; return on equity of 6% lags the broader market
 
-**Watch next:** Monitor whether next quarter's revenue growth rate can match or exceed the latest quarter's 45% year-over-year jump, since valuation depends heavily on maintaining this acceleration.
+**Watch next:** Watch whether the latest quarter's 45% revenue growth can sustain or if it slows toward the three-year trend of 14%, which would test whether current valuation holds.
 
-**Tends to suit:** Long-term investors comfortable holding through significant price swings who believe semiconductor demand will sustain AMD's growth trajectory for years ahead.
+**Tends to suit:** Suits growth-focused investors willing to accept high volatility and rich valuations in exchange for companies expanding revenue and earnings at double-digit or better rates.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-13. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-27)
 - Revenue $34.6B (+34% vs prior year)

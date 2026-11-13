@@ -16,23 +16,23 @@ tags: [korvus-compass, stock]
 
 ## Industrial distributor with steady cash generation and shrinking share count
 
-Ferguson is a large industrial distributor with $30.8B in annual revenue. It converts 6% of sales into profit and generates $1.6B in free cash flow yearly. The company is returning cash to shareholders through buybacks and a 1.8% dividend.
+Ferguson is a large industrial distributor with $30.8B in annual revenue. It keeps 6% of sales as profit and generates $1.6B in free cash flow yearly. The company has been buying back shares and paying a dividend.
 
 ### What is working
-- Latest quarter revenue jumped 9% year over year, well ahead of the 2% annual 3-year growth rate
-- Return on equity of 28% means the company deploys shareholder capital efficiently
-- Share count has shrunk 9% over three years through buybacks, concentrating ownership
+- Latest quarter revenue jumped 9% year over year, well above the 3-year average of 2% annual growth
+- Return on equity of 28% means the company is converting shareholder money into profits efficiently
+- Share count has shrunk 9% over three years through buybacks, concentrating ownership among remaining shareholders
 
 ### What to be careful about
-- Long-term revenue growth is just 2% annually over three years, showing limited expansion
-- Debt of $6.2B is substantial relative to $1.9B in annual net income
-- Price trades at 21x earnings with a 3.1% free cash flow yield, near the middle of typical valuation ranges
+- Valuation at 21x earnings is above the median for industrial distributors, leaving less room for error
+- Revenue growth averaged only 2% annually over three years, suggesting a mature business with limited expansion
+- Debt of $6.2B is 0.9x shareholder equity, moderate but worth monitoring if business slows
 
-**Watch next:** Whether the 9% latest-quarter revenue growth sustains or reverts to the slower 2% annual trend.
+**Watch next:** Whether the latest quarter's 9% revenue growth sustains or reverts to the slower 2% historical trend will signal if the business is accelerating.
 
-**Tends to suit:** Long-term investors seeking steady cash generation and shareholder returns from a mature, defensive industrial business rather than rapid growth.
+**Tends to suit:** Suits long-term investors seeking stable cash-generating companies with modest dividend income and shareholder-friendly buyback programs.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-13. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-07-31)
 - Revenue $30.8B (+4% vs prior year)

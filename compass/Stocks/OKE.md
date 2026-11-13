@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Pullback in uptrend
 
-## Energy midstream company growing fast but losing price momentum
+## Energy midstream operator with strong cash generation, but rising debt and share dilution
 
-ONEOK moves oil and gas through pipelines and processes natural liquids. Revenue jumped 55% last year and earnings per share grew 5%, but the stock has fallen 11% from its recent high and trades below its 200-day average.
+ONEOK operates pipelines and processing facilities in the energy sector. It generates substantial free cash flow and pays a 5.7% dividend, but carries significant debt and is diluting shareholders through new share issuance.
 
 ### What is working
-- Revenue grew 55% year over year in latest fiscal year, with quarterly revenue up 44%
-- Free cash flow yield of 4.5% plus dividend yield of 5.7% means total cash return potential of over 10%
-- Profitability solid: 10% net margin, 17% operating margin, and 15% return on equity
+- Revenue up 55% year over year and 15% annually over three years, with latest quarter at $12.5B
+- Free cash flow of $2.4B with 4.5% yield; operating margin 17% shows pricing power
+- Stock up 30% over the past year and sitting 73% of the way up its 52-week range
 
 ### What to be careful about
-- Debt of 28.4 billion is 1.2x shareholder equity, leaving less room for stress
-- Share count up 39.6% over three years means existing shareholders own a smaller piece
-- Stock down 11% from its 52-week high and trading below its 200-day average despite strong earnings growth
+- Debt of $28.4B is 1.2x shareholder equity, limiting financial flexibility in downturns
+- Share count grew 39.6% over three years, diluting existing shareholders despite dividend
+- Analyst consensus is Hold with only 44% rating it a buy; down 8% from 52-week high of $97.51
 
-**Watch next:** Whether the stock can reclaim its 200-day average and hold price momentum as quarterly revenue growth continues.
+**Watch next:** Whether revenue growth of 55% can sustain or normalizes, as this appears exceptional and may reflect one-time factors rather than recurring business expansion.
 
-**Tends to suit:** Long-term investors seeking regular income through dividends who can tolerate energy sector volatility and the dilution from share issuance.
+**Tends to suit:** Income-focused investors comfortable with energy sector exposure and willing to accept leverage in exchange for a 5.7% dividend and free cash flow generation.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-13. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $33.6B (+55% vs prior year)

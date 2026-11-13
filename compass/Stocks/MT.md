@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Losing steam
 
-## Steel giant with strong cash generation sits near 52-week high after 67% annual gain
+## Steel giant with shrinking revenue but strong cash generation and minimal debt
 
-ArcelorMittal is a Luxembourg-based steel producer with $61.4 billion in annual revenue. The company is generating substantial free cash flow and has returned capital to shareholders through buybacks, though revenue has declined 8% over three years.
+ArcelorMittal is a Luxembourg-based steel producer with $61.4B in annual revenue. The company is profitable and generates substantial free cash flow, but revenue has declined 8% over three years. Analysts lean bullish despite recent price weakness.
 
 ### What is working
-- Price momentum: up 67% over the past year and sits 68% of the way up its 52-week range
-- Cash generation: $4.8 billion free cash flow yield of 11.4%, well above typical stock yields
-- Capital discipline: debt at 0.2x shareholder equity and share count down 16.2% over 3 years
+- Balance sheet is fortress-like: debt at 0.2x equity, far below industry risk levels
+- Free cash flow yield of 11.4% is attractive; the company generated $4.8B in free cash last year
+- Share count down 16.2% over three years through buybacks, which boosts per-share metrics
 
 ### What to be careful about
-- Revenue shrinking: down 8% a year over 3 years, latest year down 2% year over year
-- Profitability thin: 5% net margin and 6% return on equity lag many industries
-- Valuation stretched: trades at 26x earnings after a 67% annual rally; sits 16% below 52-week high
+- Revenue fell 2% year over year and is down 8% annually over three years, suggesting weak demand
+- Price has fallen 20% from its 52-week high despite the buyback and strong FCF yield
+- Net margin of only 5% leaves little room for error; the business is cyclical and sensitive to steel prices
 
-**Watch next:** Whether revenue stabilizes or continues declining, since the company's three-year trend shows consistent contraction despite strong cash flow.
+**Watch next:** Monitor whether the 2% revenue decline this year signals a prolonged downturn in steel demand or is a temporary dip.
 
-**Tends to suit:** Long-term investors comfortable with cyclical commodity exposure who value cash return over growth and can tolerate 44% yearly price swings.
+**Tends to suit:** Long-term investors seeking cash generation and balance-sheet strength who can tolerate cyclical commodity volatility and understand steel's sensitivity to economic cycles.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-12. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-13. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $61.4B (-2% vs prior year)

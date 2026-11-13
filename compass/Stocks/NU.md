@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Neutral read · trend: Downtrend
 
-## Fast-growing Brazilian fintech trades cheap but stock is down 24% in a year
+## Fast-growing Brazilian bank trades near 52-week lows despite strong earnings
 
-Nu is a financial services company based in Brazil with US-listed shares. It grew revenue 43% last year and keeps 17 cents of profit per dollar of sales. The stock price has fallen sharply despite strong earnings growth and analyst backing.
+Nu Holdings is a financial services company based in Brazil with US-listed shares. It grew revenue 43% last year and keeps 17% as profit, but its stock price has fallen 18% over the past year and sits 30% below its recent high.
 
 ### What is working
-- Revenue jumped 89% per year over the last three years; latest year showed 43% growth
-- Net profit margin of 17% and return on equity of 26% show efficient operations
-- Free cash flow of $2.4B and cash balance of $9.2B provide financial cushion
+- Revenue expanded 89% annually over three years; latest year showed 43% growth
+- Earnings per share jumped 90% year over year; net margin of 17% is solid
+- Return on equity of 26% shows efficient use of shareholder capital; free cash flow of $2.4B exceeds net income
 
 ### What to be careful about
-- Stock down 24% over the past year and sits near the bottom of its 52-week range
-- Share count grew 205% over three years, meaning existing shareholders own smaller pieces
-- High volatility at 47% yearly; price swings make it risky for nervous investors
+- Share count rose 205% over three years, diluting existing shareholders significantly
+- Price fell 18% in the past year and sits 30% below its 52-week high; volatility is 48%
+- Stock trades below its 200-day average; it sits only 23% up from its 52-week low
 
-**Watch next:** Whether the stock finds support at current levels or continues declining, given the disconnect between strong earnings growth and falling price.
+**Watch next:** Whether the company can sustain 40%+ revenue growth while managing the dilution from its expanding share count.
 
-**Tends to suit:** Patient, dollar-cost-averaging investors in emerging markets who can tolerate 47% swings and foreign company risks without panicking.
+**Tends to suit:** Investors comfortable with high volatility and foreign currency exposure who seek growth in emerging-market financial services.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-13. Research, not advice.
 
 ## Key numbers (fiscal year ended 2024-12-31)
 - Revenue $11.5B (+43% vs prior year)

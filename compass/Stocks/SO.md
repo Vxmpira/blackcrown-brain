@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Neutral read · trend: Turning up
 
-## Utility giant with strong dividend but negative cash flow and high debt
+## Utility with strong dividend but negative cash flow and high debt
 
-Southern Company is a large regulated electric utility generating $29.6B in annual revenue. It keeps 15% of revenue as profit and pays a 4.0% dividend, but it is burning cash and carries $72.1B in debt against $106.9B in market value.
+Southern Company is a large regulated electric utility generating $29.6B in annual revenue. It keeps 15% of revenue as profit and pays a 4.0% dividend, but is burning cash and carrying $72.1B in debt against $106.9B in market value.
 
 ### What is working
-- Revenue jumped 11% year over year to $29.6B in the latest fiscal year
-- Operating margin is solid at 25%, showing pricing power in core business
-- Dividend yield of 4.0% attracts income-focused investors; 46% of analysts rate it a buy
+- Revenue jumped 11% year over year to $29.6B in latest fiscal year
+- Dividend yield of 4.0% appeals to income-focused shareholders
+- Stock is up 48% over five years and sits 67% of the way up its 52-week range
 
 ### What to be careful about
-- Free cash flow is negative at -$2.9B; the company is burning cash despite large profits
-- Debt of $72.1B is 1.8x shareholder equity, leaving limited financial flexibility
-- Stock price is down 1% over the past year and sits 7% below its 52-week high; earnings per share fell 2% year over year
+- Free cash flow is negative $2.9B, meaning the company is burning cash despite profits
+- Debt is 1.8x shareholder equity, a concerning leverage ratio for a utility
+- Earnings per share fell 2% year over year while share count grew 2.6%, diluting existing holders
 
-**Watch next:** Whether free cash flow can turn positive in coming quarters, since the company's ability to sustain its 4.0% dividend depends on cash generation, not just accounting profits.
+**Watch next:** Whether free cash flow turns positive in coming quarters, since negative cash generation undermines the sustainability of the 4.0% dividend and debt repayment.
 
-**Tends to suit:** Long-term investors seeking regular dividend income who are comfortable with utilities' slow growth and can tolerate high leverage in a regulated business model.
+**Tends to suit:** Income-focused investors with high risk tolerance who value quarterly dividends over growth, provided they monitor debt levels closely.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-12. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-13. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $29.6B (+11% vs prior year)

@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Turning up
 
-## Regional bank with strong earnings growth but stock momentum stalling
+## Regional bank showing strong earnings growth with high dividend yield and cheap valuation
 
-Regions Financial is a regional bank that grew revenue 24% last year and keeps 2073% of revenue as profit. It trades at 11x earnings, pays a 6.0% dividend, and is buying back shares. However, the stock price has fallen 11% from its 52-week high and sits below its 200-day average.
+Regions Financial is a U.S. regional bank that reported 24% revenue growth and 19% earnings per share growth in its latest year. The company generated 2.2 billion dollars in free cash flow and maintains a 10.7x earnings multiple, which ranks in the bottom quarter of valuations.
 
 ### What is working
-- Revenue jumped 24% year over year with a three-year average growth rate of 14%
-- Dividend yield of 6.0% with share count shrinking 4.9% over three years through buybacks
-- Free cash flow yield of 8.8% and P/E of 10.74 suggest low valuation relative to earnings
+- Revenue grew 24% year over year and 14% annually over three years
+- Dividend yield stands at 6.0% with share buybacks shrinking the count by 4.9% over three years
+- Trades at 11x earnings with 8.8% free cash flow yield; analyst consensus rates 42% as buy
 
 ### What to be careful about
-- Stock is 11% below its 52-week high and trades below its 200-day moving average
-- Analyst consensus is Hold with only 42% rating it a buy, suggesting skepticism despite growth
-- Yearly volatility of 23% means price swings are substantial for this type of holding
+- Analyst consensus is Hold, not Buy; only 42% of 31 analysts rate it a buy
+- Stock is 11% below its 52-week high and volatility runs 23% annually
+- 50-day moving average is below the 200-day average, suggesting recent momentum may be weakening
 
-**Watch next:** Whether revenue growth can stay near 24% year over year or if it slows toward the three-year average of 14%.
+**Watch next:** Whether earnings per share growth can sustain at 19% levels or normalize downward in coming quarters.
 
-**Tends to suit:** Long-term investors seeking current income from dividends who can tolerate stock price volatility typical of regional banks.
+**Tends to suit:** Long-term investors seeking high current income who can tolerate 23% yearly price swings and are comfortable holding regional bank exposure.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-13. Research, not advice.
 
 ## Key numbers (fiscal year ended 2021-12-31)
 - Revenue $104.0M (+24% vs prior year)

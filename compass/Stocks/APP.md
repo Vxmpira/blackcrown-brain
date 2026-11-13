@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Turning up
 
-## Fast-growing software firm profitable now, but stock fell 37% in a year
+## High-growth software firm with exceptional profits, but trades at premium valuation
 
-AppLovin is a technology company that kept 61% of its $5.5 billion in revenue as profit last year. Revenue grew 56% in the latest quarter compared to a year ago. The company generates strong free cash flow of $4.0 billion annually.
+AppLovin is a mobile marketing and monetization platform that keeps 61 cents of every dollar as profit. Revenue jumped 56% last quarter and the company generates substantial free cash flow. The stock has recovered 46.5% in the past month after a difficult year.
 
 ### What is working
-- Revenue jumped 56% in the latest quarter year over year, and 70% for the full fiscal year
-- Net profit margin sits at 61%, meaning the company keeps most of what it earns
-- Free cash flow of $4.0 billion per year with a margin of 72%, funding buybacks that shrink share count by 8% over 3 years
+- Revenue growth accelerating: +56% year-over-year last quarter, +25% annually over 3 years
+- Profitability at scale: 61% net margin and 76% operating margin show pricing power and efficiency
+- Strong cash generation: $4.0B free cash flow on $5.5B revenue (72% margin); $3.2B cash on hand
 
 ### What to be careful about
-- Stock price is 37% below its level one year ago and sits 32% of the way up its 52-week range
-- Debt of $3.5 billion is 1.1x shareholder equity, meaning significant leverage
-- Trades at 27x earnings, which is high relative to the 2.9% free cash flow yield
+- High valuation: Trades at 27x earnings with only 2.9% free cash flow yield, leaving little margin for error
+- Volatile stock: 80% yearly volatility and down 30% over past year despite strong fundamentals
+- Elevated debt: $3.5B in debt relative to $3.2B in cash; debt is 1.1x shareholder equity
 
-**Watch next:** Whether the stock can hold its recent bounce (up 44.7% in one month) or return to downward pressure, given yearly volatility of 81%.
+**Watch next:** Whether the company can sustain 56% revenue growth rates or if growth moderates toward the historical 25% annual trend.
 
-**Tends to suit:** Investors comfortable with high volatility and drawn to profitable, fast-growing software companies trading at premium valuations despite recent price declines.
+**Tends to suit:** Long-term investors comfortable with high volatility and premium valuations in exchange for exposure to a cash-generative growth business in mobile marketing.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-13. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $5.5B (+70% vs prior year)

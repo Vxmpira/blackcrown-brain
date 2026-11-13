@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend, bouncing
 
-## Profitable software maker with strong cash flow, but trading at a steep price
+## Strong profits and growth, but stock price lags and valuation is stretched
 
-Cadence Design Systems makes software used by engineers to design computer chips and electronics. The company is growing revenue at 14% annually and keeps 21 cents of every dollar as profit. It generates substantial free cash flow and has minimal debt.
+Cadence Design Systems is a software company that keeps 21 cents of every revenue dollar as profit and generates substantial free cash flow. Revenue grew 22% in the latest quarter and 14% annually over three years, but the stock trades at 67 times earnings, well above historical norms.
 
 ### What is working
-- Revenue grew 22% in the latest quarter compared to a year ago, outpacing the 14% annual trend
-- Free cash flow margin sits at 30%, meaning the company converts three dollars of every ten in revenue to cash it can spend freely
-- Balance sheet is strong with debt at only 0.4x shareholder equity, giving room to invest or return money to shareholders
+- Revenue accelerating: Latest quarter +22% year over year, outpacing 3-year average of +14%
+- Strong profitability: Keeps 21% net margin and generates $1.6B free cash flow against $5.3B revenue
+- Analyst consensus bullish: 93% of 30 analysts rate it a buy, with Buy rating
 
 ### What to be careful about
-- Stock trades at 67x earnings, meaning investors pay 67 dollars for every one dollar the company earned last year
-- Price is down 20% from its 52-week high and down 7.5% over the past six months
-- Free cash flow yield of 1.7% is low, suggesting limited cash return relative to what investors paid for the stock
+- Valuation compressed: Trades at 67x earnings with only 1.7% free cash flow yield
+- Price momentum weak: Stock +2% over the past year but -22% from its 52-week high of $416.39
+- High volatility: 42% yearly volatility means 30% swings are common; currently 38% of way up its 52-week range
 
-**Watch next:** Whether the latest quarter's 22% revenue growth can sustain, since this is faster than the historical 14% annual pace and justifies the high valuation only if it continues.
+**Watch next:** Whether revenue growth can sustain above 20% quarterly while the stock finds support above the 200-day moving average it recently dropped below.
 
-**Tends to suit:** Investors who believe in a company's long-term earnings power and can tolerate high valuations and 42% yearly price swings in exchange for exposure to a profitable, cash-generative business.
+**Tends to suit:** Patient investors who can tolerate significant price swings and want exposure to profitable, growing software companies with fortress balance sheets, despite richly priced valuations.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-13. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $5.3B (+14% vs prior year)

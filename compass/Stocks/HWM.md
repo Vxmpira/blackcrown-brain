@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Downtrend, bouncing
 
-## Aerospace supplier posting strong growth but trading at a premium valuation
+## Fast-growing aerospace supplier with strong profits, but expensive valuation after big run
 
-Howmet Aerospace makes components for aircraft and jet engines. The company grew revenue 29% in its latest quarter and maintains an 18% profit margin. It trades at 42 times earnings, well above historical norms.
+Howmet Aerospace makes parts for aircraft engines and industrial applications. The company is growing revenue 13% annually, keeps 18% of sales as profit, and generates substantial free cash flow. It trades at a steep price-to-earnings multiple after a five-year gain of 561%.
 
 ### What is working
-- Revenue jumped 29% in the latest quarter compared to a year ago, and three-year growth averages 13% annually
-- Keeps 18% of revenue as net profit and generates 1.4 billion dollars in annual free cash flow
-- Return on equity sits at 26%, meaning the company generates strong returns on shareholder capital
+- Revenue jumped 29% in the latest quarter versus a year ago, well above the three-year average of 13% annually.
+- Operating margin of 25% and net margin of 18% show strong pricing power and cost control in the business.
+- Free cash flow of $1.4B and return on equity of 26% demonstrate the company converts growth into cash and shareholder value efficiently.
 
 ### What to be careful about
-- Stock trades at 42 times earnings, creating limited margin for error if growth slows
-- Price is 23% below its 52-week high and sits below its 200-day moving average
-- Free cash flow yield of only 1.7% is modest for a company generating 1.4 billion dollars in cash
+- Stock trades at 42x earnings, with a free cash flow yield of only 1.7%, leaving little room for disappointment.
+- Price is down 25% from its 52-week high and sits in the lower third of its yearly range, signaling recent weakness.
+- Debt of $4.1B is moderate relative to equity but equals 8x the free cash flow generated last year, limiting financial flexibility.
 
-**Watch next:** Monitor whether the 29% latest-quarter revenue growth rate can be sustained, since valuation depends heavily on continued expansion.
+**Watch next:** Watch whether the latest quarter's 29% revenue growth can sustain or if it was a one-time jump, since the valuation depends on continued strong expansion.
 
-**Tends to suit:** Investors comfortable holding quality industrial businesses through price swings, particularly those who believe aerospace demand will remain strong long-term.
+**Tends to suit:** Suits long-term investors confident in aerospace demand who can tolerate a 38% yearly price swing and accept they are paying premium valuations for the growth.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-11. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-13. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $8.3B (+11% vs prior year)

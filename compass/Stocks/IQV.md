@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Pullback in uptrend
 
-## IQV rides strong price momentum but carries heavy debt and high valuation
+## Strong momentum and analyst support tempered by high leverage and rich valuation
 
-IQVIA is a healthcare research and diagnostics company with $16.3B in annual revenue. It has grown earnings modestly while maintaining solid profitability and cash generation. The stock has climbed 31% in the past year and sits near its 52-week high.
+IQVIA is a healthcare research and diagnostics company generating $16.3B in annual revenue with 8% net profit margins. The business produces steady free cash flow of $2.1B yearly while returning capital to shareholders through buybacks and dividends.
 
 ### What is working
-- Price is up 31% over the past year and sits 96% of the way up its 52-week range, showing sustained strength.
-- Generates $2.1B in free cash flow annually with a 13% free cash flow margin, supporting buybacks and dividends.
-- Return on equity of 20% and 92% of analysts rating it a buy signal confidence from both the company and Wall Street.
+- Price trend is strong: up 20% over the past year and sitting 88% of the way up its 52-week range
+- Analyst consensus is bullish: 26 analysts rate it a buy with 92% buy rating
+- Capital returns are active: share count fell 9% over 3 years while maintaining a 1.2% dividend yield
 
 ### What to be careful about
-- Debt stands at $16.1B versus only $6.8B in shareholder equity, a 2.4x ratio that limits financial flexibility.
-- Trades at 33x earnings, which is high, while revenue growth has averaged only 4% per year over three years.
-- Yearly volatility is 41%, meaning the stock can swing sharply; it is already down 2% from its 52-week high.
+- Valuation is elevated at 33x earnings, above historical norms for the sector
+- Debt load is heavy at 2.4x shareholder equity, meaning $16.1B owed against $6.7B in equity
+- Growth is slowing: revenue growth of 4% annually over 3 years trails the 8% latest quarter pace
 
-**Watch next:** Watch whether the company can accelerate revenue growth beyond the recent 8% quarterly pace while managing its $16.1B debt load.
+**Watch next:** Monitor whether the company can sustain 8% revenue growth or if it settles back toward the 4% three-year average, as this will test the current valuation multiple.
 
-**Tends to suit:** Suits long-term investors comfortable holding volatile healthcare stocks at premium valuations who value consistent cash generation and analyst support.
+**Tends to suit:** Suits long-term investors comfortable with moderate leverage who value consistent cash generation and shareholder returns over rapid growth.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-13. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $16.3B (+6% vs prior year)

@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Turning up
 
-## Domino's profits strongly but growth has stalled and stock is down sharply
+## Domino's shows strong cash generation but faces slowing growth and recent losses
 
-Domino's is a profitable pizza delivery company generating $4.9B in annual revenue. It keeps 12% of sales as profit and produces substantial free cash flow. However, revenue growth has slowed to 3% annually, and the stock price has fallen 19.6% over the past year.
+Domino's is a U.S. pizza delivery company generating $4.9B in annual revenue. It converts 12% of sales into profit and produces substantial free cash flow of $671.5M yearly. The stock has declined 15% over the past year despite recently turning upward.
 
 ### What is working
-- Profitability is robust: 12% net margin and 14% free cash flow margin show pricing power
-- Balance sheet is fortress-like: $214.4M in net cash with minimal debt of $14.6M
-- Returns capital to shareholders: buybacks have shrunk share count by 5.1% over 3 years, boosting per-share value
+- High profitability: keeps 12% of revenue as net profit and generates $671.5M in free cash flow annually
+- Strong balance sheet: net cash position of $214.4M with minimal debt of $14.6M
+- Shareholder-friendly capital allocation: share count down 5.1% over 3 years through buybacks, plus 1.3% dividend yield
 
 ### What to be careful about
-- Growth has stalled: revenue up only 3% yearly over 3 years, latest quarter +3% is slow for a restaurant chain
-- Stock price down 19.6% over the past year and trades 25% below its 52-week high of $438.42
-- Analyst consensus is tepid: only 47% of 36 analysts rate it a buy, with majority rating it Hold
+- Slow revenue growth: only +3% annually over the past 3 years and +3% in the latest quarter
+- Price weakness: stock down 15% over the past year and down 22% from its 52-week high of $438.42
+- Mixed analyst view: consensus is Hold with only 47% of 36 analysts rating it a buy
 
-**Watch next:** Whether revenue growth can accelerate beyond the current 3% pace in coming quarters, since profitability is already strong.
+**Watch next:** Monitor whether quarterly revenue growth accelerates above 3% or continues to slow, as top-line momentum is the primary concern for a mature business already trading at 18x earnings.
 
-**Tends to suit:** Investors seeking stable cash flow and dividends from a mature, profitable business rather than those betting on rapid expansion.
+**Tends to suit:** Long-term investors seeking stable cash flow and dividends from an established company rather than growth; suits those comfortable owning at current valuation after a year of losses.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-13. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-28)
 - Revenue $4.9B (+5% vs prior year)
