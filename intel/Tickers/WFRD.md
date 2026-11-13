@@ -15,3 +15,7 @@ In today's universe at $85.51, market cap $6.20B.
 ## Filings
 
 - 2026-11-13 06:07 AM · 8-K12B · MED bull 62% · [[intel/Filings/2026-11-13|WFRD: Weatherford Completes Redomestication to the United States]]
+
+## Paper trades
+
+- 2026-11-13 09:31 AM · LONG 115 @ $86.26 · open
