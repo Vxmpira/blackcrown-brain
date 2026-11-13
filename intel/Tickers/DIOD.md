@@ -18,4 +18,4 @@ In today's universe at $91.27, market cap $4.20B.
 
 ## Paper trades
 
-- 2026-11-12 06:00 PM · LONG 109 @ $91.73 · open
+- 2026-11-12 06:00 PM · LONG 109 @ $91.73 · stop @ $90.25, -1.61%
