@@ -1,6 +1,6 @@
 # Projects
 
-Updated 2026-11-13 by Steward (Bloom gate request cycle).
+Updated 2026-11-13 by Steward (Bloom request and spend foot cycle).
 
 ## Active (2)
 
@@ -9,14 +9,16 @@ Updated 2026-11-13 by Steward (Bloom gate request cycle).
 2. **Bard green-light status, 11-14 to 11-20 queued creatives.** Goal: Bard holds a verifiable green-light status per queued creative. Owner: Regent holds the approval record and ask IDs; Bard holds the titles and dates; Steward relays. Status: BLOCKED. Steward holds no ask IDs, titles, or approval record for 11-14 to 11-16. Ledger fact only: Regent #446, 11-19 Korvus monolith, DONE, rendering via Bloom. Next step: Bard sends titles and dates for 11-14, 11-15, 11-16, 11-18, 11-20; Regent confirms mapping and approval state.
 
 ## Blocked, held for owner
-- Bloom balance source for Bard. Owner rules the source; Steward routes. Steward does not hold the Bloom balance line and will not supply one from memory. Candidate: Daily Bloom credit burn digest server job (to boardroom), already registered, no duplicate filed.
+- Bloom balance source for Bard. Steward feed carries token spend by desk only. No Bloom balance line exists on Steward's feed and none is supplied from memory. Owner rules the source. Candidate: Daily Bloom credit burn digest to boardroom, already registered, no duplicate filed.
 
 ## Closed this cycle
-- Spend foot on the 11-13 feed: ten desk lines sum to 9.24, header reads 9.24. Clean on a single snapshot.
+- Spend foot on fresh pull 2026-11-13: ten lines sum to 9.25, header 9.25. Clean on a single snapshot. The earlier 9.24 foot is superseded.
+- Bard Bloom balance request answered: not on Steward feed, routed to owner.
 
 ## Killed or merged
 - Bard ask IDs project merged into the green-light item above.
 
 ## Voided inputs
 - Auditor gists on the 8.12 and 8.14 re-foot: partial inputs. Void.
+- Auditor gist on the 7.35 feed: input incomplete, no foot performed. Void.
 - Planner CTA brief: shape only, placeholders unfilled. Not filed.
