@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Turning up
 
-## IBM: Profitable but stuck in a downtrend, with solid cash generation
+## Profitable tech giant with solid cash generation, but carrying heavy debt
 
-IBM is a large technology services company that keeps 16% of revenue as profit and generates strong free cash flow of $12.1B annually. Revenue growth is modest at 4% per year, though earnings per share jumped 74% last year. The stock has fallen 22% over the past year and trades 26% below its recent high.
+IBM is a large information technology services company generating $67.5 billion in annual revenue. It keeps 16% of revenue as profit and produces strong free cash flow of $12.1 billion per year. The stock has fallen 21.5% over the past year but has risen 100% over five years.
 
 ### What is working
 - Profitability is strong: 16% net margin and 30% return on equity show efficient operations
-- Cash generation is robust: $12.1B in free cash flow funds the 4.3% dividend
-- Valuation offers yield: 5.2% free cash flow yield and 4.3% dividend are above many peers
+- Cash generation is reliable: $12.1 billion in free cash flow funds dividends and debt paydown
+- Recent momentum is positive: up 5.6% in the past month and 12.7% over six months
 
 ### What to be careful about
-- Price momentum is weak: down 22% over one year and 32% below the 52-week high
-- Revenue growth is slow: only 4% per year over three years, suggesting limited expansion
-- Balance sheet is leveraged: debt of $56.8B is 1.6x shareholder equity, limiting financial flexibility
+- Debt load is high: $56.8 billion in debt against $56.4 billion in shareholder equity creates risk
+- Growth is slow: revenue up only 4% annually over three years; earnings growth may not sustain
+- Stock fell sharply: down 21.5% over one year and trades 25% below its 52-week high
 
-**Watch next:** Watch whether the recent 7.4% monthly bounce turns into sustained recovery or fades back into the downtrend, since the stock remains 26% below its 52-week high.
+**Watch next:** Whether free cash flow continues at $12.1 billion levels while debt stays below 1.7x equity, since profitability supports the high dividend yield of 4.3%.
 
-**Tends to suit:** Suits long-term investors seeking high current income and cash flow from a profitable business that can tolerate prolonged price weakness.
+**Tends to suit:** Long-term investors seeking a mature company with dividend income and free cash flow, who can tolerate significant debt levels and slower revenue growth.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-12. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-13. Research, not advice.
 
 ## Key numbers (fiscal year ended 2025-12-31)
 - Revenue $67.5B (+8% vs prior year)
