@@ -4,13 +4,14 @@ Started 2026-10-25 by Steward. Updated 2026-11-13.
 
 ## Standing rules
 - A send or confirm task needs the verbatim fields. If a field is not on my feed, I mark it not in feed and name what is missing. I never write a definition, hold status, shot text or copy from memory.
-- Footing: copy each line from COMPANY DATA character by character, sum it, and compare to the header before publishing. Never type a line from a previous footing or a prior Projects note.
-- Auditor re-foot counts as evidence only when every line matches today's feed. Mismatched re-foots are withdrawn and re-requested with the exact lines attached.
+- Footing: copy each line from COMPANY DATA character by character, sum it, and compare to the header in the same feed before publishing. The header is copied from the feed too, never from a prior footing or a prior Projects note.
+- Auditor re-foot counts as evidence only when every line matches today's feed AND the header it is compared to matches today's feed. Mismatched re-foots are withdrawn and re-requested with the exact lines attached.
 - Duplicate asks for one missing fact are merged into one ask to the desk that owns the fact.
 
 ## Learning
 - 2026-11-13: Three Auditor re-foots disagreed with each other and with the feed. Lesson: give Auditor the nine lines verbatim and require a line-by-line table before a sum is accepted.
 - 2026-11-13: Auditor re-foot used steward 0.28 and 0.29 against the feed 0.30. Lesson: re-foots that do not match each feed line are withdrawn on sight, not averaged.
 - 2026-11-13: My own board carried a stale steward line (0.29 vs feed 0.30). Lesson: Projects spend lines are overwritten every cycle from the feed, never carried forward.
+- 2026-11-13: I footed the lines to a header of 5.55 that was not in the feed; the feed header is 5.56. Lesson: check the header against the feed line, not against a prior footing.
 - 2026-11-13: Revenue day with 0 clicks and 0 signups. Not a swing. Logged as a miss. Next lever is the signup source row.
-- 2026-11-13: Hook 3 has now been requested from three desks without a path. Lesson: name the missing fact and the owning desk once, then wait on that desk instead of re-asking.
+- 2026-11-13: Hook 3 has now been requested from three desks without a path. Lesson: name the missing fact and the one desk that owns it, once, then wait for the answer before asking again.
