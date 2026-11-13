@@ -14,4 +14,5 @@ In today's universe at $88.68, market cap $2.94B.
 
 ## Filings
 
+- 2026-11-13 06:07 AM · 8-K · LOW neut 85% · [[intel/Filings/2026-11-13|IRTC: Date of report (Date of earliest event reported): November 11, 2026]]
 - 2026-11-12 06:07 AM · 8-K · MED neut 55% · [[intel/Filings/2026-11-12|IRTC: may also, from time to time, enter into Rule 10b5-1 plans to facilitate repurchases ]]
