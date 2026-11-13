@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Pullback in uptrend
 
-## Qualcomm: Highly profitable chip designer faces revenue headwinds, but shareholder-friendly and cheap
+## Profitable chip giant slowing but returning cash to shareholders
 
-Qualcomm designs semiconductors and wireless technology. The company is extremely profitable, returning cash to shareholders, but revenue fell 3% last year and latest quarter dropped 8% year-over-year. Analysts are split between buy and hold.
+Qualcomm is a semiconductor company generating $43.1B in annual revenue with exceptional profitability: 32% net margins and 45% return on equity. Recent quarterly revenue fell 8% year over year, signaling near-term headwinds in its core markets.
 
 ### What is working
-- Exceptional profitability: 32% net margin and 45% return on equity show efficient operations
-- Strong cash generation: $8.7B free cash flow funds $2.5B dividend yield and ongoing buybacks shrinking share count 4.7% over three years
-- Attractive valuation: Trades at 14x earnings with 4.7% free cash flow yield, below historical averages
+- Profitability is exceptional: keeps 32% of every revenue dollar as profit and generates $8.7B in free cash flow annually
+- Strong balance sheet: debt is only 0.4x shareholder equity, giving room to weather downturns or invest
+- Returning cash aggressively: share count down 4.7% over 3 years through buybacks, plus 2.5% dividend yield
 
 ### What to be careful about
-- Recent revenue weakness: Down 8% in latest quarter and 3% for full year, reversing three-year 6% annual growth trend
-- Stock down 32% from its 52-week high of $251.02, though off lows; yearly volatility runs 55%
-- Analyst consensus is Hold with only 41% of 46 analysts rating it a buy, suggesting uncertainty about near-term direction
+- Revenue declined 8% in the latest quarter year over year; full-year revenue fell 3% despite a 6% three-year average
+- Stock is down 11.5% over the past 6 months and sits 29% below its 52-week high of $251.02
+- Analyst consensus is Hold, not Buy; only 41% of 46 analysts rate it a buy; recent filing read as neutral
 
-**Watch next:** Whether the latest quarter's 8% revenue drop stabilizes or continues to decline in coming earnings reports.
+**Watch next:** Whether next quarter's revenue stabilizes or continues to contract, since the 8% quarterly decline is the sharpest red flag in the data.
 
-**Tends to suit:** Patient investors who want a profitable, cash-generative company willing to wait through a business downturn without needing near-term price appreciation.
+**Tends to suit:** Investors seeking a mature, cash-generative semiconductor business with defensive characteristics (strong dividends, buybacks, fortress balance sheet) rather than growth.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-13. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-09-27)
 - Revenue $43.1B (-3% vs prior year)

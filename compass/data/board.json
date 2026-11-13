@@ -613,19 +613,6 @@
    "headline": "Luxury apparel maker showing strong profit and cash generation with analyst consensus buy"
   },
   {
-   "symbol": "QCOM",
-   "name": "Qualcomm",
-   "sector": "Technology",
-   "score": 74.9,
-   "tier": "Strong",
-   "read": "bull",
-   "trend": "Pullback in uptrend",
-   "ret_1y": 0.0182,
-   "pe": 13.64,
-   "div_yield": 0.025,
-   "headline": "Qualcomm: Highly profitable chip designer faces revenue headwinds, but shareholder-friendly and cheap"
-  },
-  {
    "symbol": "RMD",
    "name": "ResMed",
    "sector": "Healthcare",
@@ -910,6 +897,19 @@
    "pe": 49.5,
    "div_yield": null,
    "headline": "Fast-growing networking company generates cash but trades at a steep valuation"
+  },
+  {
+   "symbol": "QCOM",
+   "name": "Qualcomm",
+   "sector": "Technology",
+   "score": 73.6,
+   "tier": "Strong",
+   "read": "bull",
+   "trend": "Pullback in uptrend",
+   "ret_1y": 0.0182,
+   "pe": 13.64,
+   "div_yield": 0.025,
+   "headline": "Profitable chip giant slowing but returning cash to shareholders"
   },
   {
    "symbol": "RY",
