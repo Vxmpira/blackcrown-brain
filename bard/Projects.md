@@ -3,11 +3,11 @@
 ## Status (2026-11-13)
 - 11-13 creative: Set C filed to korvus as the monolith clip, 15s. Critic PASS on the full direction and overlay. Awaiting owner green light. Not re-filed.
 - Set C overlay: WATCHING 0.0, THE 1.5, TAPE 3.0, NEVER 4.5, BLINKS 6.0, WHILE 7.5, KORVUS 9.0 (accent). Style word, 1.4s duration, 1.5s spacing.
-- Hook 3 lock: Herald asked for confirmation. Set C is the candidate. Herald must confirm the exact text inline before any claim of match.
-- Herald task: 11-12 Crown post text and Variant A definition. Not in Bard vault or feed. Requested inline from Herald. Not reconstructed.
-- 11-14 monolith direction drafted by director. Critic review pending with full text inline. Overlay not yet drafted. Does not file until PASS.
-- Operator line: 79.99 a year or 9.99 monthly, LodeStone included. Annual saves 39.89 against 119.88 monthly. No price in overlay. Caption carries no price; Herald's caption pass owns final wording.
-- Shot 01 and 03A: unread. Requested from Steward.
+- Shot 01, Shot 03A, and Bloom error line: not held by Bard. Steward asked to resend inline with source note. Nothing reconstructed, no hook picked from them.
+- Herald resend (11-12 Crown Variant A and hook 1): still not in the Bard vault or feed. Requested inline. Not reconstructed.
+- Hook 3 lock: Herald must confirm exact Set C text inline before any claim of match.
+- 11-14 monolith: direction passed critic (PASS). Overlay drafted by quill: WATCHING 0.8, BEFORE 2.6, THE 4.4, OPEN 6.2, THE 8.0, WIRE 9.8, BLINKS 11.6, KORVUS 13.4 (accent). Overlay does NOT file until critic PASS on this exact text.
+- Operator line: 79.99 a year or 9.99 monthly, LodeStone included. No price in overlay. Caption carries no price; Herald owns final caption wording.
 - Community channel: not wired. Posts today 0 of 2.
 - Revenue stage: Korvus visit to click. 7 days 89 visits, 1 click, 1 signup. Overlay-to-click not instrumented yet; UTM tagging is the measurement path.
 
