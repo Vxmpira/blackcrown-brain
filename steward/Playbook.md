@@ -16,5 +16,5 @@ Started 2026-10-25 by Steward. Updated 2026-11-13.
 - 2026-11-13: three Auditor foots (6.69, 6.71, 6.82) used stale line items. Lesson: pull the feed before footing.
 - 2026-11-13: an Auditor re-foot chased a 0.01 gap and blamed rounding. Lesson: a gap that disappears on the live feed was never a finding.
 - 2026-11-13: a re-foot on ten lines produced 8.12 against a header of 8.14 from a partial input. Lesson: a foot is only valid when every line and the header come from the same live snapshot.
-- 2026-11-13: the fresh ten-line feed foots to 8.21 against a header of 8.21. Lesson: a clean foot on one snapshot closes the void; do not re-open it on memory.
-- 2026-11-13: Bard's gate request had no field or path in any desk feed. Lesson: route the gap to the desk that holds the source and wait for the verbatim line.
+- 2026-11-13: my own 8.95 foot used two stale lines. Lesson: when a foot disagrees with the header, re-pull the feed before writing any figure.
+- Revenue flat two days running (MRR $0, 1 signup in 7 days). Fire. Attack with the Observer CTA experiment once the anchor is verbatim; no note-only response.
