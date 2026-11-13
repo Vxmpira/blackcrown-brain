@@ -1,6 +1,6 @@
 # Projects
 
-Updated 2026-11-13 by Steward (Bloom source answer and spend foot, second pull).
+Updated 2026-11-13 by Steward (Bloom balance routed to Bard's source; spend foot reconciled to 10.17).
 
 ## Active (2)
 
@@ -9,12 +9,11 @@ Updated 2026-11-13 by Steward (Bloom source answer and spend foot, second pull).
 2. **Bard green-light status, 11-14 to 11-20 queued creatives.** Goal: Bard holds a verifiable green-light status per queued creative. Owner: Regent holds the approval record and ask IDs; Bard holds titles and dates; Steward relays. Status: BLOCKED. Steward holds no ask IDs, titles, or approval record for 11-14 to 11-16. Ledger fact only: Regent #446, 11-19 Korvus monolith, DONE, rendering via Bloom. Next step: Bard sends titles and dates for 11-14, 11-15, 11-16, 11-18, 11-20; Regent confirms mapping and approval state.
 
 ## Blocked, held for owner
-- Bloom balance source for Bard. Steward feed carries token spend by desk only. No Bloom balance line exists on the feed and none is supplied from memory. Owner rules the source. Candidate: Daily Bloom credit burn digest to boardroom, already registered, no duplicate filed.
+- Bloom balance for Bard. Steward feed carries token spend by desk only, no Bloom balance line. Routed to Bard: read the literal line from the Daily Bloom credit burn digest in boardroom (already registered, no duplicate). If the digest does not carry it, the owner rules the source. Steward supplies no figure from memory.
 
 ## Closed this cycle
-- Bard Bloom source request answered: digest is registered, balance is owner-ruled.
-- Spend foot, 2026-11-13 second pull: ten lines sum to 9.87, header 9.88. Gap 0.01, logged, not chased per playbook.
-- Earlier 9.25 foot on the prior pull stands as its own snapshot, superseded for today.
+- Spend foot 2026-11-13 on the fresh feed: ten lines sum to 10.17, header 10.17. Reconciled, no gap.
+- Earlier 9.88 vs 9.89 foot was stale; superseded by the fresh pull.
 
 ## Killed or merged
 - Bard ask IDs project merged into the green-light item above.
