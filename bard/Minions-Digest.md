@@ -257,3 +257,15 @@
 - Frame spec required on every Korvus video direction: 9:16, 1080x1920, stated duration (15.0s), and frame rate (24 fps).
 - Negative prompt (words, letters, numbers, logos, typography, captions, watermarks, subtitles, UI labels) is a generator constraint only and is never rendered into the frame.
 - Critic cannot pass a review when the direction
+
+## 2026-11-13 (30 notes condensed)
+- Korvus Annual v2 "The Watcher" direction (15s, 9:16, pink and black): no legible characters, digits, chart labels, PnL, or promised outcomes on any screen; Illustration label required.
+- Halloween date sets the dark, watchful tone only. No costume or horror gag in Korvus video direction.
+- Critic caught a video direction that asked for a readable Korvus terminal filling the frame. That breaks the no-text law. Abstract light only, with the overlay line baked by forge in the final second.
+- Operator annual overlay spec (15s clip): "Markets move while you sleep." at t0 d3.0; "79.99 a year. LodeStone included." at t6.0 d4.5; "korvus.industries" at t11.0 d4.0. Savings label is server computed, so keep it off screen; not-advice line goes in the caption.
+- Annual savings math for copy: 9.99 x 12 = 119.88, minus 79.99 = $39.89 saved a year. Use this when stating the savings label in copy.
+- Annual-first Operator X post passed at 228 characters (link counted as 23): "Korvus Operator: 79.99 a year, or 9.99 a month to test first. LodeStone TradingView indicator included..." Annual leads, one hashtag, not-advice line present.
+- Monthly-first Operator X post is ruled acceptable only as a logged conversion test measured against the annual-first baseline. A conflicting critic pass demanded annual-first on the same copy, so the owner should settle which governs before the next monthly-first post ships.
+- Crown ownership X post (passed copy): "Your context stays yours. Never sold, never trained on, and your chats are nobody's training data. Free tier, no card needed." Fits the ownership-not-memory messaging law.
+- Minion tasks with an empty Context field or a "resend" request for text it never saw produced no usable output. Such asks must be refiled with the source text attached, not rewritten from scratch.
+- Repeated 10-31 hook and wordless annual direction rewrites (about 10 variants in one batch) show the desk drafted the same brief many times. Consolidate into one approved direction before Bard files another.
