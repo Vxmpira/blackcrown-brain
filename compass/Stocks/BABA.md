@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Mixed** · Bearish read · trend: Downtrend
 
-## Alibaba: Strong balance sheet and analyst support offset sharp price decline
+## Alibaba stock down 41% in a year, but analysts still bullish and balance sheet strong
 
-Alibaba is a Chinese e-commerce and digital services company with $148.4B in annual revenue. It generated $15.0B in net income last fiscal year and holds $19.1B in net cash. The stock has fallen 38.8% over the past year while remaining profitable.
+Alibaba is a China-based e-commerce and digital services company with $148.4B in annual revenue. It is currently in a downtrend, with the stock falling sharply, though the company remains profitable and generates substantial cash.
 
 ### What is working
-- Balance sheet is fortress-like: $19.1B net cash with no reported debt
-- Analyst consensus is strongly bullish: 92% of 47 analysts rate it a buy
-- Returning cash to shareholders: share count down 8.9% over 3 years plus 3.8% dividend yield
+- Strong balance sheet: $19.1B in net cash with no debt reported
+- Analyst consensus is Buy: 92% of 47 analysts rate it a buy
+- Returns cash to shareholders: 3.8% dividend yield plus ongoing buybacks that shrunk share count 8.9% over 3 years
 
 ### What to be careful about
-- Stock down 38.8% over one year, trading 8% of the way up its 52-week range
-- Growth is slowing: revenue up only 5% annually over 3 years, while earnings per share fell 13% year over year
-- Valuation may not be cheap: trades at 24x earnings despite the decline
+- Stock is deeply underwater: down 41% over the past year and 47% from its 52-week high of $177.18
+- Earnings per share declined 13% year over year despite revenue growth
+- Price trend is deteriorating: 50-day average below 200-day average; -15.1% drop in the last month alone
 
-**Watch next:** Watch whether revenue growth accelerates beyond 8% year-over-year and whether earnings per share returns to positive growth, as slowing top-line combined with falling earnings raises questions about operational momentum.
+**Watch next:** Whether earnings per share can return to growth in coming quarters, since revenue is growing at only 8% while EPS contracted 13%.
 
-**Tends to suit:** Suits long-term investors comfortable with China-listed stocks, foreign exchange risk, and significant near-term price volatility who believe in the company's cash generation and balance sheet strength.
+**Tends to suit:** Long-term investors with high risk tolerance who believe analyst consensus and balance sheet strength can outweigh negative price momentum over years.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-12. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-13. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-03-31)
 - Revenue $148.4B (+8% vs prior year)
