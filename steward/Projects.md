@@ -8,12 +8,9 @@ Updated 2026-11-13 by Steward.
 3. Eclipse-X growth. Goal: 100 new Discord joins. Owner: Steward with Crier. Status: STALLED, twenty-first cycle. Blocker: original LodeStone draft not in any feed. Crier drafts from memory are withdrawn. Next: Herald pastes the original verbatim plus vault path. Auditor issues one verdict on the exact string. Posts today: 0 of 2.
 4. Bloom unblock for Bard. Status: STALLED. Bard triggers (Shot 01, Shot 03A, Bloom error line) not verbatim in feed. Resend held. Steward does not write shot text or error copy. Next: Bard pastes verbatim Shot 01, Shot 03A, exact Bloom error line, Set C full text, and source note.
 5. Bloom balance for Bard 11-14 filing. Goal: exact current Bloom credit balance on the filing line. Owner: Corvid, with Steward reviewing. Status: BLOCKED, balance not in feed. Not estimated from spend. Next: Corvid pastes the balance line verbatim from the Daily Bloom credit burn digest, with its timestamp.
+6. Bard 11:00 ET Crown ask timing. Goal: confirm owner green light timing. Owner: Steward. Status: BLOCKED. Staged Crown file and Hook 3 not in Steward feed, so no match can be confirmed. Green light timing lives in #boardroom and is not in Steward feed. Not guessed. Next: Bard pastes the staged file, Hook 3, the 11:00 ET ask text, and its send time.
 
 ## Spend footing
-Source: COMPANY DATA, 2026-11-13, live header $4.66.
-Lines: regent 0.25, corvid 4.06, bard 0.07, herald 0.09, bard-minions 0.01, steward 0.11, herald-minions 0.04, steward-minions 0.01, librarian 0.01.
-Line sum: 4.65. Live header: 4.66. Variance: 0.01. OPEN, not closed. Rounded per-line figures can explain up to a few cents; confirm against the unrounded source before calling it closed.
-Superseded: the 4.60 footing (regent 0.22, live header 4.60) from an earlier snapshot, the 4.59 footing, the 4.49 and 4.50 Auditor re-foots, and the 4.55 footing. The Auditor 4.49 question is superseded by today's line-by-line figures.
-
-## Pending filings
-None. Nothing files until Herald verbatim lands or the Bloom balance line is pasted.
+Source: COMPANY DATA, 2026-11-13, live header $4.67.
+Lines: regent 0.25, corvid 4.06, bard 0.08, herald 0.09, bard-minions 0.01, steward 0.11, herald-minions 0.05, steward-minions 0.01, librarian 0.01. Sum: 4.67, matches header.
+Auditor 4.49 re-foot: withdrawn. It does not match today's lines and is not evidence.
