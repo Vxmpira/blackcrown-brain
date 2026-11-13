@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Solid** · Neutral read · trend: Strong uptrend
 
-## Strong price momentum masks analyst skepticism and expensive valuation
+## Strong price run-up meets analyst skepticism and expensive valuation
 
-Bio-Techne is a $1.2B revenue healthcare company that generates solid free cash flow ($263.2M annually) and holds $350M in net cash. Growth has been modest at 2% annually over three years, though the latest quarter showed 5% revenue growth. The stock has surged 27% in the past year and trades at a premium valuation.
+Bio-Techne is a $1.2B revenue biotech company with stable sales growth of 2% annually and a strong balance sheet holding $350.0M in net cash. The stock has surged 23% over the past year and sits at the top of its 52-week range, but trades at 63x earnings while analysts overwhelmingly rate it Sell.
 
 ### What is working
-- Price is at the top of its 52-week range ($72.83), up 27% over the past year and sitting well above its 200-day average
-- Free cash flow is strong at $263.2M, giving a 22% free cash flow margin and funding share buybacks that have reduced share count 3% over three years
-- Fortress balance sheet with $350M in net cash and no debt, providing financial flexibility
+- Price momentum is strong: up 23% over one year and 62.8% over six months, with the 50-day average above the 200-day average
+- Free cash flow is healthy at $263.2M annually, yielding 2.3% and supporting a fortress balance sheet with no debt
+- Earnings per share jumped 152% year over year, showing a sharp profit inflection in the latest reporting period
 
 ### What to be careful about
-- Valuation is stretched at 63x earnings and 2.3% free cash flow yield, among the highest multiples in the market
-- Revenue growth is sluggish at just 2% annually over three years, with only 5% growth in the latest quarter
-- All 19 covering analysts rate the stock as Sell with 0% rating it a Buy, suggesting consensus sees limited upside
+- Valuation is stretched at 63x earnings; free cash flow yield of 2.3% is below typical bond rates
+- Analyst consensus is Sell with zero buy ratings among 19 analysts covering the stock, signaling professional skepticism
+- Revenue growth remains tepid at 2% annually over three years and 5% in the latest quarter; profit margin of 6% is thin
 
-**Watch next:** Whether revenue growth can accelerate beyond 5% to justify the 63x earnings multiple, or if analyst pessimism signals overvaluation.
+**Watch next:** Whether the 152% earnings spike represents a new baseline or a one-time event, since revenue growth remains sluggish and will determine if the 63x P/E becomes more justified.
 
-**Tends to suit:** Investors seeking established healthcare companies with predictable cash generation who are comfortable paying premium prices for modest growth and can tolerate high analyst skepticism.
+**Tends to suit:** Patient long-term investors comfortable holding against analyst consensus and willing to wait for slowing revenue growth to reaccelerate, given the high entry valuation.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-10. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-13. Research, not advice.
 
 ## Key numbers (fiscal year ended 2026-06-30)
 - Revenue $1.2B (-0% vs prior year)
