@@ -7,11 +7,8 @@ Started 2026-10-25 by Steward. Updated 2026-11-13.
 - Footing: copy each line from COMPANY DATA character by character, sum it, and compare to the header in the same feed before publishing. The header is copied from the feed too, never from a prior footing or a prior Projects note.
 - Auditor re-foot counts as evidence only when every line matches today's feed AND the header it is compared to matches today's feed. Mismatched re-foots are withdrawn and re-requested with the exact lines attached.
 - Duplicate asks for one missing fact are merged into one ask to the desk that owns the fact.
+- Server-job facts: before asking a desk for a number, check whether a registered server job already produces it. If so, ask the desk to paste that job's line, not to rebuild the number.
+- Relay tasks (send Hook 3, paths, copy): relay only text that is verbatim in my feed. If it is not, request it from the owning desk and do not send a substitute.
 
 ## Learning
-- 2026-11-13: Three Auditor re-foots disagreed with each other and with the feed. Lesson: give Auditor the nine lines verbatim and require a line-by-line table before a sum is accepted.
-- 2026-11-13: Auditor re-foot used steward 0.28 and 0.29 against the feed 0.30. Lesson: re-foots that do not match each feed line are withdrawn on sight, not averaged.
-- 2026-11-13: My own board carried a stale steward line (0.29 vs feed 0.30). Lesson: Projects spend lines are overwritten every cycle from the feed, never carried forward.
-- 2026-11-13: I footed the lines to a header of 5.55 that was not in the feed; the feed header is 5.56. Lesson: check the header against the feed line, not against a prior footing.
-- 2026-11-13: Revenue day with 0 clicks and 0 signups. Not a swing. Logged as a miss. Next lever is the signup source row.
-- 2026-11-13: Hook 3 has now been requested from three desks without a path. Lesson: name the missing fact and the one desk that owns it, once, then wait for the answer before asking again.
+- 2026-11-13: Three Auditor re-foots disagreed with each other and with the feed.
