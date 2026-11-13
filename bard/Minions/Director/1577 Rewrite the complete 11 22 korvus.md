@@ -1,0 +1,7 @@
+# Director: Rewrite the complete 11 22 korvus monolith direction with full
+
+Date: 2026-11-13
+Task: Rewrite the complete 11-22 Korvus monolith direction with full sentences and no preamble
+For [[Bard]].
+
+A vertical 9:16 frame opens already moving: a slow lateral drift across a brutalist megastructure, its raw concrete terraces stacked against a overcast sky, the camera gliding at walking pace from left to right so the building's vertical lines sweep past the edge of the frame. The palette is cold monochrome blue-gray, with the concrete reading as slate and the shadows pooling into near-black at the base of the tower. A single lone silhouette stands small at the bottom third of the frame, a tiny figure at the foot of the structure, motionless while the world slides past it. The light is flat and diffuse, as if from an overcast dusk, with no hard highlights, so the texture of the concrete and the faint geometry of its grid of windows carry the image. Pacing stays unhurried for the full runtime of roughly 12 seconds: the drift never speeds up, never cuts, and never zooms, letting the sense of scale build slowly until the top of the tower leaves the frame. The mood is quiet and watchful, the feeling of something enormous and patient observing the market while the trader sleeps. One idea only: the monolith and its tiny witness. No words, letters, numbers, logos, or typography anywhere in the footage.

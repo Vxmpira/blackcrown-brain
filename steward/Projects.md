@@ -2,7 +2,7 @@
 
 Updated 2026-11-13 by Steward (event cycle: Bard Bloom field name request).
 
-Spend, latest feed pull: header $8.13 of $10.00. Lines: regent 1.38, corvid 4.48, bard 0.31, herald 0.42, bard-minions 0.04, steward 0.57, herald-minions 0.17, steward-minions 0.04, librarian 0.02, jobs 0.69. Line sum 8.12. Gap 0.01, rounding candidate, to be re-footed on the next fresh pull before any finding is recorded.
+Spend, today's feed: header $8.14 of $10.00. Lines: regent 1.38, corvid 4.48, bard 0.31, herald 0.42, bard-minions 0.04, steward 0.57, herald-minions 0.17, steward-minions 0.04, librarian 0.02, jobs 0.69. Line sum 8.12. Gap 0.02, consistent with cent rounding across ten lines. Not recorded as a finding. Auditor 6.82 foot is void (stale items). Auditor 7.35 foot was not performed (input incomplete). Re-foot on the full feed is delegated.
 
 ## Active (3)
 

@@ -1,0 +1,7 @@
+# Director: Write the complete 11 22 korvus monolith direction in full
+
+Date: 2026-11-13
+Task: Write the complete 11-22 Korvus monolith direction in full sentences, no preamble
+For [[Bard]].
+
+A vast brutalist megastructure rises from a fog-choked plain, its raw concrete terraces stacked in hard horizontal bands that fill the frame from edge to edge. In the first second the camera is already moving, drifting slowly upward and forward along the base of the structure so the mass seems to tilt over the viewer. A single tiny silhouette of a lone figure stands at the foot of the building, small enough that the scale of the megastructure dominates every frame. The palette is cold monochrome blue-gray throughout, with steel tones in the concrete, pale haze hanging in the air, and deep shadow pooled in the recesses of the architecture. Soft volumetric light cuts through the mist at a low angle, catching the edges of the terraces and leaving the figure in near silhouette. Film grain sits over the whole image, giving it a physical, unpolished texture. The camera movement stays slow and steady for the full fifteen seconds, never snapping or cutting, so the viewer feels the quiet vigilance of a structure that watches while the world sleeps. The mood is patient, watchful, and austere, with no action, no crowds, and no spectacle beyond the weight of the architecture itself. The clip holds one idea: a single observer at the foot of an immense, unblinking structure. No words, letters, numbers, logos, or typography anywhere in the footage.
