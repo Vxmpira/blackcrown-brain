@@ -270,3 +270,16 @@
 - Note 839 put an inline style tag inside the section. Note 840 is the correct hero form: body fragment, no style, no script, under 700 characters, ending with the closing section tag.
 - Footer copy used across Watcher drafts ("Information only, not financial advice.") is the disclaimer standard for product claims; keep it on every version.
 - Watcher figures across drafts (826, 832, 834, 836) are labeled Illustration and show sample scored wire entries; keep the Illustration label on every mock.
+
+## 2026-11-13 (30 notes condensed)
+- Watcher page (korvus.industries/p/watcher) was built by Herald in fragments; each fragment is a partial, so the final assembly must be reconciled, not concatenated. (856)
+- The assembled head sets canonical to /p/watcher and title "Korvus, your edge while the world sleeps"; the 865 head uses a different title ("watch the market while you sleep"), so titles conflict and one must be chosen. (858, 865)
+- Watcher CSS exists in at least four competing versions (849-equivalent styles in 851, 855, 859, 861, 866, 871, 876) with different body backgrounds and class names, so one style block must be picked and the rest discarded. (851, 855, 859, 866, 871, 876)
+- Mock watch-state and session panels (850) are labeled Illustration, which satisfies the illustrative-data rule; keep that label on every data panel. (850, 854, 867, 872, 877)
+- Reusable hero lede: "Index futures trade through the night while you rest. Korvus keeps watch around the clock, scoring the news that moves the tape." Ends with "Market intelligence for your own decisions, not trade advice." (849)
+- Reusable Crown skeptic hero: "Your context stays yours. Never sold. Never trained on. Your chats are yours alone." Free tier, no card, four private rooms; this matches the ownership messaging law and avoids memory-gap claims. (873)
+- CTA targets are inconsistent: some fragments link to /signup, others to the bare korvus.industries root; standardize on /signup for the free Observer path. (849, 850, 857, 874)
+- Several fragments close body and html tags while others expect them to be appended later, so duplicate closing tags are likely in assembly; check that </body></html> appears exactly once. (850, 862, 869)
+- Chip and footer copy used across the set: "24/7 watch", "Index futures", "Free Observer tier", "No card", "Not financial advice. Illustrative data only." Use this set as the standard footer. (850, 862, 867)
+- Watcher feed mock lists headline reads with numeric scores labeled Illustration; no live figures, and "Zero repaint LodeStone" is the only product-specific chip claim worth keeping. (872, 877)
+- Inline style attributes on bar widths (854) break the rule of CSS living in the style block; move them into classes during assembly. (854)

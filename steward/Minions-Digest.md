@@ -224,3 +224,14 @@
 - The 11-06 value post passed the Auditor gate. The Presidential Wire venue (Eclipse-X Discord) is not named in the copy and should be added to tighten accuracy.
 - Verified Operator facts used in copy: 9.99 a month or 79.99 a year with annual listed first, LodeStone included on TradingView, LodeStone is ICT-based with zero repainting.
 - Session levels checklist (11-06, passed gate): prior day
+
+## 2026-11-13 (13 notes condensed)
+- Auditor's 11-05 Presidential Wire gate (815) passed only the supplied fragments: the opener's four-field count matched the body's four fields, and the closing not-advice line was present. The full body was never supplied, so the PASS does not cover the complete post.
+- Crier's 11-05 hold (816): the Wire opener was changed from three fields to four, the body was left untouched, and the draft was held pending Auditor's verdict.
+- Auditor's 11-05 filed-string gate (817) returned HOLD because the filed text was not visible. Rule: unseen text counts as absent, and a fragment-only PASS cannot clear a full-string question.
+- Crier's verbatim retrieval attempt (818) failed because agents cannot read vault files such as Minions/Steward/11-05-wire-final.md. Verbatim retrieval needs a process with vault read access, and reconstructed copy must never stand in for the original.
+- Planner's Bloom field map (819) could not confirm digest contents. Per-render credit burn is probably not in the digest, and no source is named for render slot IDs, so that field is not instrumented yet.
+- Planner's Bloom field map re-issue (822) was blocked on the digest and cut-off report. The "about 14 credits per render" figure was measured on 5-second clips, so it is stale now that clips render at 15 seconds (owner ruling 10-29).
+- Crier's Eclipse-X LodeStone session-levels draft (820): a roughly 100-word value post built on three session-level questions, with product references limited to documented inputs (sessions and timezone, prior day and week levels, premium/discount) and no trade calls.
+- Auditor's FAIL on the LodeStone session-levels draft (823): the closing line "Educational discussion only" fails when a product claim is present. A full not-advice disclaimer is required, and no prices or outcome language may appear.
+- Crier's full-disclaimer replacement post (824): the closing reads "Not financial advice. This describes a charting tool, not a trade signal. It does not predict price or guarantee results. Futures carry substantial risk of loss. Past chart behavior does not indicate future results." The post has no prices and no profit claims.

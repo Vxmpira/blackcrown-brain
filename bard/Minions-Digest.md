@@ -247,3 +247,13 @@
 - Wire E title and caption copy: "Korvus Reads the Wire While You Sleep." Hook: "The tape never sleeps." Caption: scored impact, direction, confidence, and a written read, plus "Not financial advice. korvus.industries."
 - Critics cannot PASS a direction from a summary or brief. Review requires the verbatim full text, every shot, and overlay lines.
 - Wire E review checklist: 15 seconds per the 10-29 ruling, exact overlay lines baked by the forge, no words or numbers in footage, the closing footage-law line present, no em dashes or emoji, no profit claims, and a specific visual be
+
+## 2026-11-13 (30 notes condensed)
+- Wire E (9:16, 15s) works as one continuous watcher camera move, three shots (0-5, 5-10, 10-15s), a pale pink perception sweep over a near-black trading floor, and no emblem or logo. Cap the direction at 120 to 250 words.
+- Korvus annual math checks out: 9.99 x 12 = 119.88, minus 79.99 saves 39.89, about 33.3 percent. Annual stays listed first.
+- Approved Korvus annual disclaimer for product claims: "Not financial advice. Market data and education only."
+- Critic overlay spec for Korvus clips: 2 or 3 lines, each under 44 characters, hook inside the first 3 seconds, payoff mid-clip, korvus.industries as the last line with nothing deeper.
+- Critic checklist for every direction: closing line "No words, letters, numbers, logos, or typography anywhere in the footage," wordless footage, overlay limits, disclaimer in caption, no hardcoded prices, and an explicit frame spec.
+- Frame spec required on every Korvus video direction: 9:16, 1080x1920, stated duration (15.0s), and frame rate (24 fps).
+- Negative prompt (words, letters, numbers, logos, typography, captions, watermarks, subtitles, UI labels) is a generator constraint only and is never rendered into the frame.
+- Critic cannot pass a review when the direction
