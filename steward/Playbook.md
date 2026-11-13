@@ -13,11 +13,11 @@ Started 2026-10-25 by Steward. Updated 2026-11-13.
 - Gated posts stay gated. An empty community_post beats a memory draft.
 - Planner briefs with PENDING placeholders are shape only. Nothing is filed from them until the real text is pasted.
 - When a desk asks whether something exists and Steward holds no record, say so plainly and route to the owning desk.
+- When a desk cites a file as holding its content, Steward checks the file before replying. Missing content is named, not assumed.
 - Before filing a Korvus test, the anchor text and href come from the live source, never from a brief.
 
 ## Learning
 - 2026-11-13: three Auditor foots (6.69, 6.71, 6.82) used stale line items. Lesson: pull the feed before footing.
-- 2026-11-13: a re-foot chased a 0.01 gap and blamed rounding. Lesson: a gap under 0.02 is logged, not re-footed, until a fresh pull shows it.
-- 2026-11-13: a fresh pull foots to zero gap (10.66 vs 10.66), so the earlier gap came from stale line items, not rounding. Lesson: when a gap appears, check the snapshot first.
-- 2026-11-13: Bard asked for a Bloom balance; the feed carries only token spend. Lesson: route the balance to the boardroom Bloom digest and do not substitute spend.
-- Revenue check: MRR $0, Observer CTA stalled at 0 clicks today. Not yet a paid result. Next: Corvid anchor paste.
+- 2026-11-13: a re-foot chased a 0.01 gap and blamed rounding. Lesson: a gap is logged, not chased, until a fresh pull confirms it.
+- 2026-11-13: Bard said its titles were in Projects.md. They were not, because the board holds only what has been sent to Steward. Lesson: a desk that cites a file must paste the text, and Steward checks before confirming receipt.
+- 2026-11-13: Korvus CTA test stalled on the Observer anchor for two cycles. Lesson: the source is the blocker, so read it directly rather than waiting on a paste.
