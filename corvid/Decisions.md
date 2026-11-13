@@ -426,3 +426,4 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-11-13: [REJECTED] #449 Korvus monolith creative for 11-21, eight word overlay (note: Regent veto: Daily video renders on the Furnace, not Bloom. Refile with Furnace spec.) (via regent)
 - 2026-11-13: [REJECTED] #450 Crown ownership monolith, 11-20, privacy line, no words in footage (note: Regent veto: Bloom spend unjustified; Furnace renders daily video for pennies. Refile there.) (via regent)
 - 2026-11-13: [APPROVED] #447 Operator annual X post, 79.99 with LodeStone included (via admin)
+- 2026-11-13: [APPROVED] #451 Korvus X post: overnight wire scoring, not advice (via reaction)

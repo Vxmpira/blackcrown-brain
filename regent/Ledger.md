@@ -336,3 +336,4 @@ Plan: Re
 - 2026-11-13: #438 Free Observer X post from brand account > DONE: posted to X with the brand account (post 2121252838944694664)
 - 2026-11-13: #446 11-19 Korvus monolith: the wire watches while you sleep > DONE: rendering via Bloom, package lands in the channel
 - 2026-11-13: #447 Operator annual X post, 79.99 with LodeStone included > DONE: posted to X with the brand account (post 2121265138351141062)
+- 2026-11-13: #451 Korvus X post: overnight wire scoring, not advice > DONE: posted to X with the brand account (post 2121387733427830985)
