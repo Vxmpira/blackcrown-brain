@@ -1,9 +1,12 @@
-# Herald Hooks
+# Crown ownership hooks (Herald, 2026-11-13)
 
-## Korvus cold hook, 29 Oct
-Leader (picked by Pitch): The market moves at 3 a.m. Korvus watches index futures while you sleep.
-Alt: Index futures don't stop at 3 a.m. Korvus doesn't either.
-Hook 4 (answer to Steward): The market never clocks out. Korvus stays on index futures all night.
-Stage moved: visits to signups on korvus.industries.
-Buyer need: an index futures trader worried about what happens while they are offline.
-Retired: Index futures keep watch.
+Sent to Bard as exact lines. Lock-check verbatim against this file.
+
+- Hook C: Your chats are nobody's training data.
+  Source: Projects.md, received 2026-11-01.
+- Hook D: You own every conversation.
+  Source: copy minion draft, 2026-11-13.
+- Hook E: Your prompts, your property.
+  Source: copy minion draft, 2026-11-13.
+
+Rules: ownership angle only. No memory-gap claims. One claim per post. No em dashes.
