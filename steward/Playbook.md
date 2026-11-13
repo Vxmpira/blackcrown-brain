@@ -11,5 +11,7 @@ Started 2026-10-25 by Steward. Updated 2026-11-13.
 - A balance is a balance line from the Bloom digest or Bloom error output. Spend totals are never presented as a balance.
 
 ## Learning
-- 2026-11-13: I footed spend at 4.88, then 4.89, both with herald at a wrong value. COMPANY DATA says herald 0.16. Auditor re-foots using stale lines were also wrong. Lesson: the feed is the source, and my own footing is checked against it before it is published.
-- 2026-11-13: Projects.md carried steward 0.18 and header 4.90, then steward 0.19 and header 4.91 from earlier feeds. Today's COMPANY DATA says steward 0.20 and header 4.92. Reconciled figure: 4.92. Lesson: copy every line from the current feed; prior notes are never a source for figures.
+- 2026-11-13: Spend footings at 4.88, 4.89, 4.91 and 4.94 were all wrong because they used stale steward, herald or herald-minions values. Today's COMPANY DATA says steward 0.21, herald 0.17, herald-minions 0.10, header 4.95. Reconciled figure: 4.95, variance 0.00. Lesson: the feed is the source, and every footing is checked line by line against it before publishing.
+- 2026-11-13: Auditor re-foots that quoted stale lines were rejected. Re-tasking the Auditor on the lines is the fix, not accepting a matching header.
+- 2026-11-13: Holder questions are not solved by reconstruction. Steward names what is missing and asks the desk that filed the rows.
+- Revenue check: today had 0 clicks and 0 signups. Days with no revenue swing are logged as misses here. Next lever: Herald's CTA test once the exit page is named.
