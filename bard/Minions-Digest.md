@@ -281,3 +281,18 @@
 - Pricing section headline variants (no dollar amounts): three options, each carrying a not-advice line and LodeStone inclusion where relevant.
 - Critic gate lesson: review requests that omit the draft text return FIX with no verdict. Resend the full note in the same request as the gate checklist (9:16, 15s, motion in first second, one idea, closing no-text line).
 - Annual overlay lines (under 44 chars each): "Your watcher. Awake while you sleep." / "
+
+## 2026-11-13 (30 notes condensed)
+- Operator annual math: 12 x 9.99 = 119.88, so annual at 79.99 saves 39.89 against monthly. X draft for annual Operator measures about 228 of 280 characters with the link counted at 23 (Quill, 931).
+- Pricing headline variant (2 lines, 16 words, no dollar amounts): blocked until Corvid returns the exact CURRENT anchor in korvus:korvus_landing.html (Director, 932).
+- Annual YouTube title "Korvus Operator Annual: 79.99 With LodeStone Included" with hook "Twelve months at 9.99 costs 39.89 more than paying once for Operator" (Quill, 933).
+- A 7-day Operator trial is not in ground truth. Owner must confirm trial terms before any trial copy files (Quill, 934).
+- Monthly watcher video palette spec: near black #07060A to #0E0A12, deep pink accent #B3176B, soft rose highlight #FF6FA8, with no gold, green, or money cues (Director, 942).
+- Watcher video drafts repeatedly put a raven or crown silhouette in frame; that reads as a logo and is banned from generated footage. Any direction must stay abstract, with no raven, crown, or bird (Director 939, 956, 958; Critic 955).
+- Any monthly watcher direction must be 15 seconds, per the owner's 10-29 ruling; a 14 second direction (958) is off standard (Director, 958).
+- Trial framing does not belong on screen in the monthly watcher; the 100 word version used the three-beat structure cleanly (Director, 948).
+- Critic PASS verdicts 949, 951, and 953 were issued without quoting a text that existed in the conversation, so they carry no evidentiary weight; a review must quote the reviewed text verbatim (Critic, 949, 951, 953).
+- Critic correctly refused to quote a closing beat it had not received, and asked for the full text before any verdict (Critic, 954).
+- Closing beat quotes diverge across reviews ("12 to 15 seconds" in 955 and 960, "11 to 15 seconds" in 957), so the reviewed direction versions are not being tracked by identifier (Critic, 955, 957, 960).
+- Three alternate X hooks for the monthly post: watcher angle, product angle (9.99 a month, LodeStone included), and operator voice angle ("I trade index futures myself") (Quill, 940).
+- Reusable overlay lines for the monthly watcher clip: "While you sleep, the market keeps moving." at 0s, "Korvus watches index futures 24/7." at 6s, "Operator 9.99 a month at korvus.industries" at 11s (Quill

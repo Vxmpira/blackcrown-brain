@@ -1,0 +1,7 @@
+# Director: Write the complete 11 22 korvus monolith direction in full
+
+Date: 2026-11-13
+Task: Write the complete 11-22 Korvus monolith direction in full sentences, no preamble
+For [[Bard]].
+
+A colossal brutalist megastructure fills the frame, its concrete pillars rising past the top edge into haze, and the camera begins moving from the first instant, drifting slowly forward along a long, empty corridor between them. Cold blue-gray light falls in thin shafts from unseen openings high above, cutting through drifting mist and catching the rough texture of the walls. At roughly the one-second mark, a single tiny human silhouette stands far down the corridor, small against the immense geometry, perfectly still while the camera keeps its slow, steady advance. The lens glides past rows of repeating columns, each one a hard vertical line, and the haze thickens and thins as the camera passes through pockets of cold light. Near the middle of the clip, the camera rises gently, revealing the scale of the structure as more silhouettes appear, distant and motionless, like watchers placed at intervals along the walls. The pacing stays unhurried and deliberate, with subtle film grain across every frame and soft atmospheric depth separating foreground pillars from the far vanishing point. In the final seconds the camera settles into a slow drift toward the lone figure at the end of the corridor, holding the frame in a monochrome stillness that feels watchful and vast. No words, letters, numbers, logos, or typography anywhere in the footage.
