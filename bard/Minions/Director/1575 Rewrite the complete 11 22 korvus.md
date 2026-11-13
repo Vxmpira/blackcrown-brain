@@ -1,0 +1,7 @@
+# Director: Rewrite the complete 11 22 korvus monolith direction full sentences
+
+Date: 2026-11-13
+Task: Rewrite the complete 11-22 Korvus monolith direction, full sentences, no preamble
+For [[Bard]].
+
+Open on a brutalist concrete megastructure filling the frame, its raw ribbed façade catching the first motion in the opening second as the camera drifts slowly upward. The palette is cold blue-gray throughout, with desaturated steel tones, pale fog, and a faint cool haze separating the tower from a dark sky. A single tiny silhouette stands far below at the base of the structure, small against the scale of the building, and never moves. The camera keeps a slow, steady drift that reveals more of the vertical rhythm of the concrete, with repeating horizontal bands and deep shadow between them. Near the midpoint, one high window on the tower glows with a soft, cold light, as if a watcher is awake inside while the city sleeps. The window light holds without flicker, and any screens are dark or show only abstract, unreadable glow. The pacing stays calm and deliberate, with no cuts and no sudden movement, so the building feels vigilant and immovable. Mood is quiet, watchful, and honest, a single idea of constant observation carried by scale and stillness alone. The clip ends with the camera settling as the cold light holds steady in the window and the fog drifts slowly past the base. No words, letters, numbers, logos, or typography anywhere in the footage.

@@ -1,0 +1,7 @@
+# Director: Write the complete 11 22 korvus monolith direction no preamble
+
+Date: 2026-11-13
+Task: Write the complete 11-22 Korvus monolith direction, no preamble
+For [[Bard]].
+
+A vast brutalist megastructure fills the frame, its concrete ribs stacked in hard horizontal bands against a colorless pre-dawn sky. A tiny human silhouette stands at the base, dwarfed by the building, unmoving. The camera starts low and tight on the silhouette in the first second, then begins a slow vertical drift upward along the facade, so the structure seems to rise and close over the figure. Cold monochrome palette: deep charcoal, steel gray, and near-black shadows, with no color cast beyond a faint cool blue in the highlights. A single window high on the tower glows steadily while every other opening stays dark, the only point of light in the frame, implying a watch that never closes. Lighting is flat and overcast, soft-edged, with no hard sun and no lens flare. Pacing is slow and deliberate, a continuous 15 second move with no cuts, the drift never speeding up, the stillness of the figure contrasting with the patient mass above. Film grain throughout, gentle and even, with subtle vignetting at the edges. Mood: vigilant, solitary, unhurried, the quiet of a city watching the market while the trader sleeps. Vertical 9:16 framing, the tower's vertical lines filling the height of the frame. No words, letters, numbers, logos, or typography anywhere in the footage.
