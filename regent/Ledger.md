@@ -327,3 +327,11 @@ Plan: Re
 - 2026-11-13: #432 Crown ownership post: your context stays yours > DONE: posted to X with the brand account (post 2121232332531126603)
 - 2026-11-13: #431 Set C monolith clip for Korvus, seven overlay lines > DONE: rendering via Bloom, package lands in the channel
 - 2026-11-13: #430 Crown ownership post on X, one claim. > DONE: posted to X with the brand account (post 2121232358112145460)
+- 2026-11-13: #445 Operator annual X post, price confirmed, no test needed > DONE: posted to X with the brand account (post 2121252793134526611)
+- 2026-11-13: #444 Operator annual X post, 79.99 a year, saves 39.89 > DONE: posted to X with the brand account (post 2121252801774776367)
+- 2026-11-13: #442 Free Observer X post for Korvus signups > DONE: posted to X with the brand account (post 2121252808120836295)
+- 2026-11-13: #441 Post free Observer angle to X from brand account > DONE: posted to X with the brand account (post 2121252814059872453)
+- 2026-11-13: #440 X post: Observer free angle, Korvus signups > DONE: posted to X with the brand account (post 2121252821500633371)
+- 2026-11-13: #439 X post: Operator annual savings, 79.99 a year > DONE: posted to X with the brand account (post 2121252832124817640)
+- 2026-11-13: #438 Free Observer X post from brand account > DONE: posted to X with the brand account (post 2121252838944694664)
+- 2026-11-13: #446 11-19 Korvus monolith: the wire watches while you sleep > DONE: rendering via Bloom, package lands in the channel
