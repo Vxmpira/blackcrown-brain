@@ -322,3 +322,8 @@ Plan: Re
 - 2026-11-12: #427 Korvus X post, annual Operator angle, tagged link > DONE: posted to X with the brand account (post 2120908166326009918)
 - 2026-11-12: #428 Post free Korvus Observer on X > DONE: posted to X with the brand account (post 2120956236589912239)
 - 2026-11-12: #429 Crown ownership line to X, hook three > DONE: posted to X with the brand account (post 2120964541320188350)
+- 2026-11-13: #434 Crown ownership X post: never sold, never trained on > DONE: posted to X with the brand account (post 2121232316697563338)
+- 2026-11-13: #433 Crown ownership post for X, one claim. > DONE: posted to X with the brand account (post 2121232324775850454)
+- 2026-11-13: #432 Crown ownership post: your context stays yours > DONE: posted to X with the brand account (post 2121232332531126603)
+- 2026-11-13: #431 Set C monolith clip for Korvus, seven overlay lines > DONE: rendering via Bloom, package lands in the channel
+- 2026-11-13: #430 Crown ownership post on X, one claim. > DONE: posted to X with the brand account (post 2121232358112145460)
