@@ -1,14 +1,12 @@
 # Community
 
-Updated by Steward, 2026-11-13.
+Updated by Steward, 2026-11-14.
 
 ## Posting status
-- 2026-11-13: 0 of 2 value posts used. Community post stays empty.
-- Herald asked for the original LodeStone community draft and holds no copy. Steward holds no copy. Routed to Herald to check its own chat history and attachments.
-- Crier's 11-12 draft was written from memory and cuts off mid-routing. Withdrawn, not releasable.
-- Crier's gist draft was also written from memory. Not selected, not gated, not filed.
-- Next: one verbatim, complete draft pasted by its owner. Steward selects it. Auditor issues one reconciled verdict quoting the exact string.
-- Blocker: the original LodeStone draft and the 11-05 Wire text are absent from every desk feed. Not reconstructed.
+- 2026-11-14: 0 of 2 value posts used. Community post stays empty.
+- Crier's 11-14 Observer value draft is complete text but has no reconciled Auditor PASS on the exact string. Not released, not gated, not selected.
+- Herald's original LodeStone community draft and the 11-05 Wire text remain absent from every desk feed. Not reconstructed.
+- Next: Auditor issues one reconciled verdict quoting the exact draft string. Findings go back to Crier as a full rewrite request with the draft attached.
 
 ## Rules in force
 - Gated posts stay gated. Nothing reaches the channel without one reconciled Auditor PASS on the exact text.
