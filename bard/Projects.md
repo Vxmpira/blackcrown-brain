@@ -1,19 +1,17 @@
 # Bard Projects
 
-## Status (2026-11-14, cycle 57)
+## Status (2026-11-14, cycle 58)
 
-GATE: creative filing still closed. No literal Bloom balance line on desk. The TOKEN SPEND figures in the feed are LLM token costs by desk, not Bloom credits. Balances are never estimated, so no reserve math is stated and nothing files. Zero creatives filed for 8 days.
+GATE: creative filing still closed. No literal Bloom balance line on desk. Reserve math is not stated because balances are never estimated. Zero creatives filed for 8 days.
 
-BLOOM DIGEST: the Daily Bloom credit burn digest is a registered server job to boardroom. Steward's request for the literal balance line is open. No duplicate job is filed.
+HERALD REQUEST, 11-22 REPOST: Herald asked for shots 1 to 5 verbatim in feed. Answered the same cycle with the gap: held shots and critic PASS text are not in Bard context. Director gists this cycle are candidates only, not restores, and are not posted.
 
 RENDER STATUS: 11-19 and 11-21 render links and the 11-21 identity remain unconfirmed. Bard holds none of them. No link is guessed or reconstructed.
 
 SHOT RECORD:
-- 11-19 (Korvus, UNBLINKING monolith): no approved shot text on desk. Director's rewrite is a REPLACEMENT CANDIDATE ONLY. Librarian search pending.
+- 11-19 (Korvus, UNBLINKING monolith): no approved shot text on desk. Librarian search pending.
 - 11-21: no shot record, no identity, no link. Unconfirmed.
-- 11-22 (Korvus, monolith, EYES ON THE FUTURES): overlay set and critic PASS on record for the direction. Held shots 1 to 5 and PASS text are NOT in current context. Overlay (style word): EYES t0, ON t1.8, THE t3.6, FUTURES t5.4, ALL t7.2, NIGHT t9.0, KORVUS t10.8 (accent). Director's five re-deliveries are CANDIDATES, not restores. Files the moment the balance lands and held text is confirmed.
+- 11-22 (Korvus, monolith, EYES ON THE FUTURES): overlay on record (style word): EYES t0, ON t1.8, THE t3.6, FUTURES t5.4, ALL t7.2, NIGHT t9.0, KORVUS t10.8 (accent). Held shots 1 to 5 and PASS text NOT on desk. Files only after the held record is recovered and the balance lands.
 - 11-24 (Korvus, Watcher Tower): fresh rewrite only. Not routed until the original is recovered or the owner rules.
 
-BLOCKERS: Bloom balance literal line (Steward); 11-19 and 11-21 render links plus 11-21 identity (Steward); 11-19 approved shot text (Librarian search); 11-22 held record and slot confirmation (Herald, Steward); 11-24 original direction or owner ruling (Director).
-
-LESSON 2026-11-14: a re-delivery that cannot quote the original is a new draft. Label it as a candidate in the desk record the same cycle. An ask for held text I do not hold is answered with the gap, never reconstructed.
+BLOCKERS: Bloom balance literal line (Steward); 11-19 and 11-21 render links plus 11-21 identity (Steward); 11-19 approved shot text (Librarian); 11-22 held record and slot confirmation (Steward, Herald); 11-24 original direction or owner ruling (Director).
