@@ -2,7 +2,7 @@
 
 Auto refreshed from Make, read only. Secrets scrubbed.
 
-TikTok Engine live config (scenario 5822164, read 2026-11-13). The text under each label is what the engine uses today; headers, keys and connections are never shown.
+TikTok Engine live config (scenario 5822164, read 2026-11-14). The text under each label is what the engine uses today; headers, keys and connections are never shown.
 
 [module 3 util:SetVariables, variable product]
 {{switch(2.roll; 0; "KORVUS"; 1; "CROWN"; 2; "ECLIPSE-X"; 3; "BLACKCROWN")}}
