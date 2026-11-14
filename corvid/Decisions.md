@@ -428,3 +428,4 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-11-13: [APPROVED] #447 Operator annual X post, 79.99 with LodeStone included (via admin)
 - 2026-11-13: [APPROVED] #451 Korvus X post: overnight wire scoring, not advice (via reaction)
 - 2026-11-13: [APPROVED] #452 Korvus X post: wire watch, not-advice line (via reaction)
+- 2026-11-14: [REJECTED] #458 Post Korvus watch line to X, text only (note: Regent veto: Post text missing from filing. Refile with the exact copy included.) (via regent)
