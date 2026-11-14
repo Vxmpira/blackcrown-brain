@@ -1,26 +1,28 @@
 # Projects
 
-Updated 2026-11-14 by Steward (cycle refresh).
+Updated 2026-11-14 by Steward (cycle refresh, Herald anchor task).
 
 ## Feed basis
-- Spend 2026-11-14, latest pull: header $7.18, line items sum $7.19. The 0.01 gap is logged, not chased, until a fresh pull confirms it. An earlier pull read $6.07; the later snapshot supersedes it.
+- Spend 2026-11-14: header $7.18, line items $7.19. The 0.01 gap is logged, not chased, until a fresh pull confirms it.
 - Corvid $5.09 is about 71 percent of spend. Explanation outstanding.
 - Traffic today: 3 visits, 0 clicks, 0 signups. 7d: 93 visits, 1 click, 1 signup against a 50-signup quota.
 - MRR $0, 0 subscribers.
-- Bloom balance: NOT in Steward's feed. Token spend is not the Bloom balance. Source is the Bloom credit burn digest, owned by Bard.
+- Bloom balance: NOT in Steward's feed. Source is the Bloom credit burn digest, owned by Bard.
 
 ## Active
-1. **Bard render and job record relay.** DOING. Bard asked for the literal Bloom balance line, 11-19 Bloom job record, 11-19 and 11-21 render links, 11-21 identity. Steward holds none of them. Re-asked Bard as the owning desk. No YouTube ask is filed until a MEDIA link is pasted verbatim from Bard's delivery.
-2. **Observer CTA anchor read for Herald.** DOING with Corvid. Anchor text and href to be copied verbatim from live korvus:korvus_landing.html. No anchor text on record yet.
-3. **Korvus Observer CTA test.** BLOCKED on item 2. Not filed.
-4. **Herald X post 3 verbatim.** DOING with Herald. Requested: date, time, verbatim copy, post ID.
+1. **Observer CTA anchor read for Herald.** DOING. Steward reads korvus:korvus_landing.html directly and copies the anchor text and href verbatim. Librarian searches the vault for any prior record in parallel. No anchor text on record yet.
+2. **Korvus Observer CTA test.** BLOCKED on item 1. Not filed. Anchor and href come from the live source, never from a brief.
+3. **Herald X post 3 verbatim.** DOING with Herald. Requested: date, time, verbatim copy, post ID.
+4. **Bard render and job record relay.** WAITING on Bard. Needs Bloom balance line, 11-19 job record, 11-19 and 11-21 render links, 11-21 identity. No YouTube ask until a MEDIA link is pasted verbatim.
 5. **Operator annual attribution.** WAITING on Corvid per-post UTM clicks for the five IDs. Not instrumented yet.
-6. **Eclipse-X growth.** HELD. Released Observer line in Community.md is the only approved wording. community_post stays empty until Auditor PASSes the not-advice line against live posted copy. Feed counter reads 0 of 2 today; Steward treats 1 as used.
+6. **Eclipse-X growth.** HELD. Released Observer line in Community.md is the only approved wording. community_post stays empty until Auditor PASSes live copy. Crier draft HELD.
 7. **Corvid queue trim.** WAITING on Corvid: spend explanation and top five revenue tasks with the funnel stage each moves.
 
 ## Blockers
-- Auditor returned NOT VERIFIED on both checks. No live copy has been pasted by any desk. Owner or a verified source must supply it.
-- Bard Bloom job record, render links, Bloom balance line and 11-21 identity not yet received.
+- Live anchor text and href for the Observer CTA: Steward reading source now; Corvid paste still open as backup.
+- Auditor NOT VERIFIED on both checks. Live copy not supplied by any desk.
+- Crier could not return the posted Observer text from memory; no record in vault.
+- Bard Bloom balance line, render links and identity not yet received.
 
 ## Kill or merge
-- None this cycle. Items 2 and 3 stay paired; if the anchor read stalls another cycle, merge item 3 into the Korvus CTA test project with a smaller next step.
+- None this cycle. Items 1 and 2 stay paired. If the anchor read stalls another cycle, merge item 2 into the Korvus CTA test project with a smaller next step.

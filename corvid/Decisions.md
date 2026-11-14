@@ -429,3 +429,4 @@ Owner rulings on proposals, newest first. These are law.
 - 2026-11-13: [APPROVED] #451 Korvus X post: overnight wire scoring, not advice (via reaction)
 - 2026-11-13: [APPROVED] #452 Korvus X post: wire watch, not-advice line (via reaction)
 - 2026-11-14: [REJECTED] #458 Post Korvus watch line to X, text only (note: Regent veto: Post text missing from filing. Refile with the exact copy included.) (via regent)
+- 2026-11-14: [REJECTED] #462 Observer free overnight tape post on X (note: preflight: post asks need a PLATFORM line) (via preflight)
