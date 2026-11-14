@@ -14,25 +14,25 @@ tags: [korvus-compass, stock]
 
 **Strong** · Bullish read · trend: Losing steam
 
-## Brazilian bank with strong profits but slowing growth and recent price weakness
+## Brazil's largest bank trades cheap with strong profits but slowing growth
 
-Itaú Unibanco is Brazil's largest bank, generating 168.1B BRL in annual revenue. It converts nearly a quarter of revenue into profit and earned a 19% return on shareholder equity last year. The company is traded on US exchanges but reports earnings in Brazilian real.
+Itaú Unibanco is a major financial services company based in Brazil. It reported 168.1B BRL in revenue for 2024 with a net profit margin of 24%. The stock price has fallen 1% over the past year and sits 26% below its 52-week high.
 
 ### What is working
-- Net profit margin of 24% shows disciplined cost control relative to peers
-- Return on equity of 19% indicates efficient use of shareholder capital
-- Trades at 10x earnings, which sits at the low end of historical ranges for banks
+- Net margin of 24% means the bank keeps a quarter of every dollar in profit
+- Return on equity is 19%, showing efficient use of shareholder capital
+- Stock trades at 10x earnings, a valuation marked 100 out of 100 by this analysis
 
 ### What to be careful about
-- Earnings per share fell 25% year over year despite 8% revenue growth
-- Stock price down 23.9% in the last month and 27% from its 52-week high
-- Share count has grown 1.2% over three years, diluting existing shareholders
+- Earnings per share fell 25% year over year despite revenue growing 8%
+- Price is 21% below its 52-week high and trades below the 200-day average
+- Recent monthly return is negative 20.7%, showing sharp short-term decline
 
-**Watch next:** Whether earnings growth returns to positive territory in the next two quarterly reports, since profit declined sharply while revenue still grew.
+**Watch next:** Whether earnings per share can rebound next year given the sharp 25% drop, since profitability margins remain strong but per-share earnings fell despite revenue growth.
 
-**Tends to suit:** Investors comfortable holding foreign currency exposure and banking sector cyclicality who seek value-priced dividend yield rather than price appreciation.
+**Tends to suit:** Long-term investors comfortable holding foreign stocks in the financial sector and willing to tolerate high volatility for exposure to a profitable, dividend-paying bank.
 
-Written by the Compass Analyst (Claude Haiku) on 2026-11-13. Research, not advice.
+Written by the Compass Analyst (Claude Haiku) on 2026-11-14. Research, not advice.
 
 ## Key numbers (fiscal year ended 2024-12-31)
 - Revenue 168.1B BRL (+8% vs prior year)
