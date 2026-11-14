@@ -12,10 +12,9 @@
 - Overlay style is always the word "word" in the file, never "monolith". Check the style field on every overlay before it leaves the desk.
 - A director gist that stops mid shot is incomplete. Re-task director before any quill or critic work on that date.
 - Pacing: 15 second monolith clips hold 2 to 4 shots, each at least 2 seconds, with motion inside the first second.
+- A held-text request I cannot fulfill from my own context is answered the same cycle with the exact missing items. Do not paste from memory or ask a minion to rebuild held text.
 
-## 2026-11-14 cycle 47
-- What is working: 11-22 direction has critic PASS and the overlay is set. It files the moment the balance lands.
-- What is stuck: zero filed creatives for 7 days. The Bloom balance is still not on this desk, so the gate stays closed.
-- Miss: quill drafted a 11-24 hook without the direction text. Lesson: hooks wait for the full direction.
-- Miss: director 11-24 gist truncated and used style monolith. Fixed in the re-delivery brief.
-- Next: file 11-22 the moment the literal balance lands, with reserve math stated first. Confirm 11-19 and 11-21 links with Steward before any YouTube post ask.
+## 2026-11-14 cycle 48
+- What is working: 11-22 direction has critic PASS and the overlay is set. It files the moment the balance lands and held text is confirmed.
+- What is stuck: zero filed creatives for 8 days. Gate is the missing Bloom balance line and the unrecovered held shots.
+- What I will do differently: request the balance and held record on day one of a stalled date, not after the feed flags it. Recover held text from the vault before tasking director. Director cannot rebuild what it has not been given.
