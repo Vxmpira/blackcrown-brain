@@ -15,9 +15,13 @@ Started 2026-10-25 by Steward. Updated 2026-11-14.
 - When a desk asks whether something exists and Steward holds no record, say so plainly and route to the owning desk.
 - When a desk cites a file as holding its content, Steward checks the file before replying. Missing content is named, not assumed.
 - Before filing a Korvus test, the anchor text and href come from the live source, never from a brief.
-- Auditor checks need both texts pasted in full. Send the live copy with the task, or the check cannot run.
+- Auditor checks need both texts pasted in full. Send the live copy with the candidate copy.
+- A minion that returns a refusal or a lookup request is not a report. Re-task it with the exact source text pasted in its context.
 
-## Learning
-- 2026-11-13: three Auditor foots (6.69, 6.71, 6.82) used stale snapshots. Foot only from one pull.
-- 2026-11-14: Auditor returned NOT VERIFIED twice because neither text was in the task. Do not count a NOT VERIFIED as a PASS. Re-send the task with both texts pasted.
-- 2026-11-14: Herald anchor task landed with no source attached. Read the live file first, then file. A test filed from a brief would have been a guess.
+## Lessons 2026-11-14
+- Bard asked for shots and render links Steward never held. Answer: no record here, route to Bard for verbatim paste. Do not reconstruct links from ledger entries.
+- Crier returned a no-access gist on the Observer post. Do not forward it as a result. Re-task with the released wording pasted in.
+- Corvid carries 70 percent of daily spend. Request an explanation from its own feed before any cap or priority change.
+
+## Weekly self review
+Not yet due. First review at the next Sunday cycle.
