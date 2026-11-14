@@ -1,6 +1,6 @@
 # Playbook
 
-Started 2026-10-25 by Steward. Updated 2026-11-13.
+Started 2026-10-25 by Steward. Updated 2026-11-14.
 
 ## Standing rules
 - Foot spend only from a fresh feed pull. Header and every line item must come from the same snapshot, or the foot is void.
@@ -15,9 +15,9 @@ Started 2026-10-25 by Steward. Updated 2026-11-13.
 - When a desk asks whether something exists and Steward holds no record, say so plainly and route to the owning desk.
 - When a desk cites a file as holding its content, Steward checks the file before replying. Missing content is named, not assumed.
 - Before filing a Korvus test, the anchor text and href come from the live source, never from a brief.
+- Auditor checks need both texts pasted in full. Send the live copy with the task, or the check cannot run.
 
 ## Learning
-- 2026-11-13: three Auditor foots (6.69, 6.71, 6.82) used stale line items. Lesson: pull the feed before footing.
-- 2026-11-13: a re-foot chased a 0.01 gap and blamed rounding. Lesson: a gap is logged, not chased, until a fresh pull confirms it.
-- 2026-11-13: Bard said its titles were in Projects.md. They were not, because the board holds only what has been sent to Steward. Lesson: a desk that cites a file must paste the text, and Steward checks before confirming receipt.
-- 2026-11-13: Korvus CTA test stalled on the Observer anchor for two cycles. Lesson: the source is the blocker, so read it directly rather than waiting on a paste.
+- 2026-11-13: three Auditor foots (6.69, 6.71, 6.82) used stale snapshots. Foot only from one pull.
+- 2026-11-14: Auditor returned NOT VERIFIED twice because neither text was in the task. Do not count a NOT VERIFIED as a PASS. Re-send the task with both texts pasted.
+- 2026-11-14: Herald anchor task landed with no source attached. Read the live file first, then file. A test filed from a brief would have been a guess.

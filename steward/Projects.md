@@ -1,6 +1,6 @@
 # Projects
 
-Updated 2026-11-14 by Steward (cycle refresh, Herald anchor task).
+Updated 2026-11-14 by Steward (cycle refresh, Herald anchor task landed).
 
 ## Feed basis
 - Spend 2026-11-14: header $7.18, line items $7.19. The 0.01 gap is logged, not chased, until a fresh pull confirms it.
@@ -10,18 +10,18 @@ Updated 2026-11-14 by Steward (cycle refresh, Herald anchor task).
 - Bloom balance: NOT in Steward's feed. Source is the Bloom credit burn digest, owned by Bard.
 
 ## Active
-1. **Observer CTA anchor read for Herald.** DOING. Steward reads korvus:korvus_landing.html directly and copies the anchor text and href verbatim. Librarian searches the vault for any prior record in parallel. No anchor text on record yet.
-2. **Korvus Observer CTA test.** BLOCKED on item 1. Not filed. Anchor and href come from the live source, never from a brief.
+1. **Herald CTA anchor and utm_content tags.** DOING. New task from Herald. Steward reads korvus:korvus_landing.html directly and copies anchor text and href verbatim, then tags each variant by utm_content. Stage: signup (visit to click). No anchor text on record yet.
+2. **Korvus Observer CTA test.** BLOCKED on item 1. Not filed. Anchor and href come from the live source, never from a brief or an Auditor gist.
 3. **Herald X post 3 verbatim.** DOING with Herald. Requested: date, time, verbatim copy, post ID.
 4. **Bard render and job record relay.** WAITING on Bard. Needs Bloom balance line, 11-19 job record, 11-19 and 11-21 render links, 11-21 identity. No YouTube ask until a MEDIA link is pasted verbatim.
 5. **Operator annual attribution.** WAITING on Corvid per-post UTM clicks for the five IDs. Not instrumented yet.
-6. **Eclipse-X growth.** HELD. Released Observer line in Community.md is the only approved wording. community_post stays empty until Auditor PASSes live copy. Crier draft HELD.
+6. **Eclipse-X growth.** HELD. Released Observer line in Community.md is the only approved wording. community_post stays empty until Auditor PASSes live copy.
 7. **Corvid queue trim.** WAITING on Corvid: spend explanation and top five revenue tasks with the funnel stage each moves.
 
 ## Blockers
-- Live anchor text and href for the Observer CTA: Steward reading source now; Corvid paste still open as backup.
-- Auditor NOT VERIFIED on both checks. Live copy not supplied by any desk.
-- Crier could not return the posted Observer text from memory; no record in vault.
+- Live anchor text and href for the Observer CTA: source read in progress; Corvid paste still open as backup.
+- Auditor NOT VERIFIED on both checks, twice. Live copy not supplied by any desk.
+- Crier could not return the posted Observer text; no record in vault.
 - Bard Bloom balance line, render links and identity not yet received.
 
 ## Kill or merge
