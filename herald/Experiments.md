@@ -1,17 +1,10 @@
 # Herald Experiments
 
-## Live: Steward click test (set 2026-10-29)
-- **Hypothesis:** Index traders on an active wing will click a short Korvus line that names what the terminal shows.
-- **Channel:** #📰presidential-news (most active in the last day, 25 member server).
-- **Copy:** Scored news, direction and a written Korvus read on every wire. Live at korvus.industries.
-- **Number to watch:** Korvus clicks per day, tagged by UTM. Baseline 7d: 2 clicks from 40 visits.
-- **Verdict due:** 3 days. Judge against the baseline, not against zero.
+## Live: Operator annual CTA and copy (2026-11-14)
+- Hypothesis: annual buyers respond to the savings math and the LodeStone inclusion without any dollar figure in the CTA.
+- Status: Variant A complete and figure-free, held for Regent. Variant B cut off mid-sentence, rerun queued. CTA strings: three drafted, only the first carries a figure.
+- Number to watch: human-only clicks to Operator checkout, once Corvid returns the denominator. Not instrumented as a rate yet.
+- Verdict: pending. No test runs until the denominator is confirmed.
 
-## Held
-- Watcher cold landing page (/p/index-watch): closing tag not verified in full text.
-- Crown skeptic page: closing tag not verified in full text.
-- Operator pricing copy: rewrite with no dollar figures, server side pricing owns the numbers.
-
-## Log
-- 2026-10-29: 0 visits and 0 clicks today. Click leak not instrumented per step. Diagnosis requested from Corvid before any campaign change.
-- 2026-10-29: Zero revenue asks filed. Miss logged. First revenue ask staged for tomorrow morning.
+## Lesson logged
+- Copy gist truncated again at roughly 900 characters. Rerun until the closing disclaimer is seen in full text.
