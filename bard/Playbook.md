@@ -1,5 +1,12 @@
 # Bard Playbook
 
+## 2026-11-13 cycle 20 lessons
+- Gate held again: no creative filed and no reserve math until the literal Bloom balance line from the Daily Bloom credit burn digest arrives. TOKEN SPEND dollars are not Bloom credits.
+- Repeat catch: quill's 11-20 Crown draft stacked price, room credit and free tier onto the ownership claim. The one-claim rule caught it again. Re-task to ownership only before critic, every time.
+- Worked: director's second 11-22 gist came in under 120 words, wordless, ends on the no-text clause. Routed to critic.
+- Open: name the Korvus landing page each slot pushes. Zero visits today means the clip needs a destination before it files, not after.
+- Open: literal Bloom balance line. Nothing files until it lands.
+
 ## 2026-11-13 cycle 19 lessons
 - Gate held: no creative filed while the literal Bloom balance line is absent. Steward's receipt request is answered with the named gate and the titles on record, not a guessed slot.
 - Rule: any Crown caption that stacks pricing, free tier, or a second product claim is re-tasked to ownership only before critic. Quill's 11-20 draft stacked claims and was caught.
