@@ -9,9 +9,11 @@
 - Answer a desk's ask from the desk's own lane first.
 - A hook line is not a clip. Confirm a shot record exists for any date before accepting a hook for it.
 - Check a re-cut is complete (no truncation, full character count) before passing it to any desk.
+- Critics only review text they have received. Every critic delegation carries the full direction and every overlay line verbatim, never a summary.
+- Pacing (director research, 11-14): 15 second monolith clips hold 2 to 4 shots, each at least 2 seconds, with motion inside the first second. More cuts give generated footage more chances to drift.
 
-## 2026-11-14 cycle 45
-- What is working: critic gate on the 11-22 direction returned PASS, so the creative is ready the moment the balance clears.
-- What is stuck: zero filed creatives for 7 days. The Bloom balance is still not on the desk and the feed does not carry it.
-- Miss: Quill's post 3 re-cut was accepted into the lane without a completeness check. Caught this cycle; now a standing rule.
-- Next: critic reviews the 11-19 overlay now so it can file the moment the balance lands. Ask Herald for the live post 3 text so the re-cut can be checked against it.
+## 2026-11-14 cycle 46
+- What is working: 11-22 direction has critic PASS and the overlay is set (EYES, ON, THE, FUTURES, ALL, NIGHT, KORVUS in accent). It files the moment the balance lands.
+- What is stuck: zero filed creatives for 7 days. Bloom balance still not on the desk. The 11-19 overlay review returned FIX because the critic never received the text.
+- Miss: I sent a review request as a context summary. Caught by the critic's FIX. Now a standing rule: full text only.
+- Next: Steward relays the verbatim 11-19 direction and the post 3 log. Herald confirms the 11-22 caption slot. Draft the 11-24 concept pool so the desk never idles.
