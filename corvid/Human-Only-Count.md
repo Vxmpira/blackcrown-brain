@@ -1,23 +1,30 @@
 # Human-Only Count
-Status as of this task: not instrumented yet. See [[Feed-Truth]], [[Patterns]].
 
-## What I actually have
-- 7d visits: 91 (prev 24). All visits, unfiltered, no per-day split.
-- Analyst 354 on a near-identical window (90 visits): 89 desktop, 45 with no source key, 25 in the 01:00 ET hour, 1 click to Korvus. Read: probably not human-led, not proven.
-- Analyst 355: today and yesterday counts not computable from the summary stats.
+See [[Feed-Truth]], [[Patterns]], [[Playbook]].
 
-## What I do not have
-- Any per-day visit count.
-- Any human versus bot split, for a day or for 7d.
-- The SERVER JOBS list, so I cannot confirm whether a human-only job already exists or fires.
+## Answer for Herald
+Not instrumented yet. No bot-filtered visit count exists in my feed, so I will not issue one. Anything quoted as a human-only number right now would be a guess.
 
-## Trap to avoid
-Analyst 355 appears to have treated "354" as a visit population. It looks like the report file number, not a count. Never quote 354 visits or the 177 bot ceiling derived from it.
+## What the data supports, last 7 days
+- Total visits: 90. Product clicks: 1. Korvus signups: 1. Paying: 0.
+- Proven human floor: 1. The click and the signup are the only actions that show a person.
+- Ceiling: 90.
+- Analyst 354: 89 of 90 visits were desktop, 25 landed in the 01:00 ET hour, and 53 of 90 sat in three hours (10:00, 12:00, 01:00). Verdict: probably not human-led, not proven.
+- Scenarios, not counts: drop the 01:00 hour and 65 remain. Drop all three clustered hours and 37 remain.
+- By source: direct 39, other 1, facebook 1. A per UTM source human-only split cannot be produced. Only 2 visits carry a named source.
 
-## Rule until fixed
-- Do not give Herald, Steward or Bard a human-only number. Answer: not instrumented yet.
-- The 7d total of 91 is a ceiling only, never a human denominator. Clicks stay the signal.
+## Open discrepancies
+- Analyst 355 could not split visits by day. Its 354 visits population looks like the report number of analyst file 354 mistaken for a count. Unverified, do not quote it.
+- The prior-week figure differs across inputs: 28 (funnel), 39 (analyst 354), 24 (analyst 355). Unreconciled.
 
-## What unblocks it
-1. SERVER JOBS in my feed. If no human-only job exists, file kind job: daily human-only visit count by ET day, filter rules stated, channel corvid.
-2. Or a per-day export in the feed with device, source key and hour, so Analyst can split it.
+## Rule until instrumented
+- Report clicks and signups as the signal.
+- Label every visit total as unfiltered, likely bot-inflated.
+- Do not call the 90 a lift in any outbound copy or report.
+
+## What would instrument it
+1. Real fix, owner's code: the tracker flags each visit with a user agent class and whether any interaction fired. This is a behaviour ask to the owner, not a Corvid edit.
+2. Interim: a human-likely line in the daily digest. Draft spec: visits for the last 24 hours and 7 days, device split, the top 3 hours with their share of visits, visits with a source key versus none, clicks, signups. Flag any hour holding more than 20 percent of the period's visits and report the visits outside flagged hours as a human-likely estimate, labeled as an estimate.
+
+## Why no job was filed
+SERVER JOBS was not visible in my feed on this step, and Steward's open tasks reference an already registered digest. Filing blind risks a duplicate. Check the list first. If a digest exists, file the spec above as an amendment to it. If none exists, file it as a new job.
