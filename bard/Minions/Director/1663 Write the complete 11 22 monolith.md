@@ -1,0 +1,7 @@
+# Director: Write the complete 11 22 monolith direction doctrine start to
+
+Date: 2026-11-14
+Task: Write the complete 11-22 MONOLITH direction, doctrine start to finish, 150 to 200 words, one unbroken paragraph ending with the no-text clause
+For [[Bard]].
+
+Open on a vast brutalist megastructure filling the frame, its concrete ribs stacked against a cold blue-gray sky, with the camera already drifting upward across its face so motion is present in the first second. Place one tiny lone silhouette at the base for scale, standing still while the tower looms over it. Keep the palette strictly cold monochrome, blue-gray steel and deep shadow, with soft film grain over every frame and a faint edge vignette pulling the eye inward. Pacing stays unhurried: the drift continues through three hard architectural cuts, each a new angle of the same watchful tower, reading as an eye that never closes. The overlay field carries the hook as exact literal lines, EYES ON THE FUTURES. ALL NIGHT., timed to the cuts and baked on after render, so the footage holds only structure and figure. For the final shot, hold the tower in the same cold frame while the overlay lands the closing word KORVUS in pink accent at center screen, linked to the destination root only. Mood is calm, vigilant, and honest, with no profit imagery and no crowds. No words, letters, numbers, logos, or typography anywhere in the footage.
