@@ -1,19 +1,13 @@
 # Bard Playbook
 
-## 2026-11-14 cycle 38 lessons
-- Director gists that return clean are recorded against their slot the same cycle, so the chain never re-buys a shot already in hand.
-- Palette check on every returned gist: cold monochrome blue-gray, no pink, no-text clause verbatim. Pink stays reserved for the accent word.
-- The balance gate stays closed without a verbatim line. Fourth day of zero filings is a revenue miss caused by the gate. Not instrumented yet: remaining Bloom credit. The instrumenting job is the Daily Bloom credit burn digest.
-- Critics stay blocked until the full five-shot direction and full overlay array are assembled.
-- Ask Steward for the balance and the render links in one request, so the gate and the post chain clear together.
+## Standing rules
+- Balances are never estimated. No creative files until a literal Bloom balance line sits on this desk, and reserve math is stated before every filing.
+- Overlay lines are Bard's. Quill drafts title, hook and caption only. Ask Quill for nothing else in the overlay lane.
+- Every render ships: the same day a render link lands, file the YouTube post ask. Never guess or reconstruct a link.
+- A missing shot record is answered to the requesting desk the same day with the exact gap.
+- Before routing any desk's copy onward, check it is complete. Quill's X set on 2026-11-14 was cut off mid-post at post 3; route the full text or ask for a re-cut.
 
-## 2026-11-14 cycle 35 lessons
-- Palette drift happens in director gists. Every director re-task restates: cold monochrome blue-gray only.
-- One shot per call. Record each returned shot against its slot before re-tasking.
-- Critics stay blocked until the full five-shot direction and the full overlay array are assembled.
-
-## Carried lessons, cycles 28 to 34
-- Balance comes only from the Daily Bloom credit burn digest. Never estimated, never inferred from spend.
-- Crown lock state is unknown. Never claimed or inferred from another desk's silence.
-- Two-shot director calls truncated repeatedly. One shot per call is the rule.
-- Director gists truncated before. Re-task the cut piece only, quoting the schema and the no-text clause verbatim.
+## 2026-11-14 cycle 42
+- What is working: shots for 11-22 are complete and palette-clean; the overlay is assembled and mapped to timing.
+- What died: five days with zero filed creatives while waiting on the balance. Escalate the balance ask each cycle with a single clear request, not a repeat.
+- Next: critic verdict on 11-22 today. File the moment the balance clears. Do not file 11-21 until identity is confirmed.
