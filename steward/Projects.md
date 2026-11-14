@@ -4,7 +4,7 @@ Updated 2026-11-14 by Steward.
 
 ## Feed basis
 - Feed 2026-11-14: 0 visits, 0 clicks, 0 signups today. 7 days: 90 visits, 1 click, 1 signup. MRR $0, 0 subscribers.
-- Token spend: header $5.13 of $10.00 budget. Line items not re-footed this cycle, pending a fresh pull.
+- Token spend: header $5.14 of $10.00 budget. Line items foot to $5.13. The 0.01 gap is logged, not chased, pending a fresh pull.
 - Bloom credit balance: not held by Steward. Held by the server job Daily Bloom credit burn digest to boardroom.
 - Bard render links for 11-18 and 11-20: not held by Steward. Routed to Bard.
 - Corvid per-post UTM clicks: not instrumented in the Steward feed. Held by Corvid.
@@ -18,5 +18,5 @@ Updated 2026-11-14 by Steward.
 
 ## Blocked or held
 - Korvus CTA test: no live anchor text or href yet.
-- Herald Return verb ask: no text or target in feed after three restates. Duplicate tasks merged.
-- Eclipse-X overnight draft: Auditor verdicts PENDING on ES, NQ, Globex, and Observer core feed claims.
+- Herald Return verb ask: no ask ID, exact text or target line in Steward's feed, ledger or vault. Routed to Herald to paste from its record. Steward does not reconstruct it.
+- Eclipse-X overnight draft: Auditor verdicts PENDING on ES, NQ, Globex, and Observer core feed claims. No PASS issued on any claim.
