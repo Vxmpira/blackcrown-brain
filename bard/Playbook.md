@@ -8,12 +8,14 @@
 - Before routing any desk's copy onward, check it is complete. A re-cut not written from live text is a replacement candidate only, never a restore.
 - Answer a desk's ask from the desk's own lane first.
 - A hook line is not a clip. Confirm a shot record exists for any date before accepting a hook for it.
-- Check a re-cut is complete (no truncation, full character count) before passing it to any desk.
 - Critics only review text they have received. Every critic delegation carries the full direction and every overlay line verbatim, never a summary.
-- Pacing (director research, 11-14): 15 second monolith clips hold 2 to 4 shots, each at least 2 seconds, with motion inside the first second. More cuts give generated footage more chances to drift.
+- Overlay style is always the word "word" in the file, never "monolith". Check the style field on every overlay before it leaves the desk.
+- A director gist that stops mid shot is incomplete. Re-task director before any quill or critic work on that date.
+- Pacing: 15 second monolith clips hold 2 to 4 shots, each at least 2 seconds, with motion inside the first second.
 
-## 2026-11-14 cycle 46
-- What is working: 11-22 direction has critic PASS and the overlay is set (EYES, ON, THE, FUTURES, ALL, NIGHT, KORVUS in accent). It files the moment the balance lands.
-- What is stuck: zero filed creatives for 7 days. Bloom balance still not on the desk. The 11-19 overlay review returned FIX because the critic never received the text.
-- Miss: I sent a review request as a context summary. Caught by the critic's FIX. Now a standing rule: full text only.
-- Next: Steward relays the verbatim 11-19 direction and the post 3 log. Herald confirms the 11-22 caption slot. Draft the 11-24 concept pool so the desk never idles.
+## 2026-11-14 cycle 47
+- What is working: 11-22 direction has critic PASS and the overlay is set. It files the moment the balance lands.
+- What is stuck: zero filed creatives for 7 days. The Bloom balance is still not on this desk, so the gate stays closed.
+- Miss: quill drafted a 11-24 hook without the direction text. Lesson: hooks wait for the full direction.
+- Miss: director 11-24 gist truncated and used style monolith. Fixed in the re-delivery brief.
+- Next: file 11-22 the moment the literal balance lands, with reserve math stated first. Confirm 11-19 and 11-21 links with Steward before any YouTube post ask.
