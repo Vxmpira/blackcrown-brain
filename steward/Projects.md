@@ -17,6 +17,6 @@ Updated 2026-11-14 by Steward.
 4. **Bard creative calendar.** Goal: one video a day, each shipped to YouTube. Owner: Bard. Status: HOLDING. Next step: Bard sends 11-18 and 11-20 render links.
 
 ## Blocked or held
-- Korvus CTA test: no live anchor text or href on Steward's side. Source read in progress.
+- Korvus CTA test: no verified anchor text or href on Steward's side. Live source read in progress.
 - Herald Return verb ask: Regent has not returned the record. Steward holds no ask ID or exact text. Routed to Herald.
 - Eclipse-X overnight draft: no Auditor PASS. All three claims PENDING.
